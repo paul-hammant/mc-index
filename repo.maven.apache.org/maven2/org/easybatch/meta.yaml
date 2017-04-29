@@ -1,0 +1,396 @@
+artifacts:
+  easybatch:
+    lastUpdated: 20170225085210
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-apache-commons-csv:
+    lastUpdated: 20170225085210
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-archetype:
+    lastUpdated: 20170225085210
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-bench:
+    lastUpdated: 20150301224714
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+  easybatch-core:
+    lastUpdated: 20170225085211
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-extensions:
+    lastUpdated: 20170225085211
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-flatfile:
+    lastUpdated: 20170225085211
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-gson:
+    lastUpdated: 20170225085211
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-hibernate:
+    lastUpdated: 20170225085212
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-integration:
+    lastUpdated: 20150807192529
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+  easybatch-jackson:
+    lastUpdated: 20170225085212
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-jdbc:
+    lastUpdated: 20170225085212
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-jms:
+    lastUpdated: 20170225085212
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-jpa:
+    lastUpdated: 20170225085213
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-json:
+    lastUpdated: 20170225085213
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-mongodb:
+    lastUpdated: 20170225085213
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-msexcel:
+    lastUpdated: 20170225085213
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-opencsv:
+    lastUpdated: 20170225085213
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-quartz:
+    lastUpdated: 20170225085214
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-spring:
+    lastUpdated: 20170225085214
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-spring-jdbc:
+    lastUpdated: 20150502201735
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  easybatch-stream:
+    lastUpdated: 20161023192433
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  easybatch-test-common:
+    lastUpdated: 20161023192434
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-tools:
+    lastUpdated: 20170225085214
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-tutorials:
+    lastUpdated: 20150301224720
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+  easybatch-validation:
+    lastUpdated: 20170225085214
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-xml:
+    lastUpdated: 20170225085215
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+  easybatch-xstream:
+    lastUpdated: 20170225085215
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 5.0.0-RC1
+      - 5.0.0-RC2
+      - 5.0.0
+

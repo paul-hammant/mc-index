@@ -1,0 +1,188 @@
+artifacts:
+  transfuse:
+    lastUpdated: 20160405030609
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-api:
+    lastUpdated: 20160405030610
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-bootstrap:
+    lastUpdated: 20160405030610
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-core:
+    lastUpdated: 20160405030611
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-examples:
+    lastUpdated: 20131019024024
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.3
+      - 0.2.4
+  transfuse-plugin:
+    lastUpdated: 20160405030613
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-project:
+    lastUpdated: 20160405030613
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+  transfuse-support:
+    lastUpdated: 20160405030614
+    latest: 0.3.0-beta-9
+    release: 0.3.0-beta-9
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.3.0-beta-1
+      - 0.3.0-beta-2
+      - 0.3.0-beta-3
+      - 0.3.0-beta-4
+      - 0.3.0-beta-5
+      - 0.3.0-beta-6
+      - 0.3.0-beta-7
+      - 0.3.0-beta-8
+      - 0.3.0-beta-9
+

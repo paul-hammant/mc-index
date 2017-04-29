@@ -1,0 +1,158 @@
+artifacts:
+  wildcat:
+    lastUpdated: 20100811083645
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-api:
+    lastUpdated: 20100811083651
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-assemblies:
+    lastUpdated: 20100811083756
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-assemblies-distrib:
+    lastUpdated: 20081210185511
+    latest: {}
+    release: 2.0.2
+    versions:
+      - 2.0.2
+  wildcat-bundle:
+    lastUpdated: 20100811083707
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-core:
+    lastUpdated: 20100811083702
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-documentation:
+    lastUpdated: 20100811083803
+    latest: {}
+    release: {}
+    versions:
+      - 2.3.0
+  wildcat-examples:
+    lastUpdated: 20100811083714
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-examples-cluster:
+    lastUpdated: 20100811083719
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-examples-cluster-master:
+    lastUpdated: 20100811083721
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-examples-cluster-slave:
+    lastUpdated: 20100811083724
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-examples-local:
+    lastUpdated: 20100811083716
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-examples-pull:
+    lastUpdated: 20100811083727
+    latest: {}
+    release: {}
+    versions:
+      - 2.3.0
+  wildcat-examples-push:
+    lastUpdated: 20100811083732
+    latest: {}
+    release: {}
+    versions:
+      - 2.3.0
+  wildcat-examples-sca:
+    lastUpdated: 20100811083742
+    latest: {}
+    release: {}
+    versions:
+      - 2.3.0
+  wildcat-modules:
+    lastUpdated: 20100811083647
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  wildcat-remote:
+    lastUpdated: 20100811083711
+    latest: {}
+    release: {}
+    versions:
+      - 2.3.0
+

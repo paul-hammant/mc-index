@@ -1,0 +1,155 @@
+artifacts:
+  apex:
+    lastUpdated: 20161210061704
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-api:
+    lastUpdated: 20161210061704
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-app-archetype:
+    lastUpdated: 20161210061705
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-bufferserver:
+    lastUpdated: 20161210061705
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-codestyle-config:
+    lastUpdated: 20160902215503
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0
+  apex-common:
+    lastUpdated: 20161210061706
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-conf-archetype:
+    lastUpdated: 20161210061707
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-engine:
+    lastUpdated: 20161210061707
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.2.0-incubating
+      - 3.2.1-incubating
+      - 3.3.0-incubating
+      - 3.4.0
+      - 3.5.0
+  apex-shaded-ning19:
+    lastUpdated: 20160423071928
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  malhar:
+    lastUpdated: 20170401060201
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.2.0-incubating
+      - 3.3.0-incubating
+      - 3.3.1-incubating
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  malhar-contrib:
+    lastUpdated: 20170401060201
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.2.0-incubating
+      - 3.3.0-incubating
+      - 3.3.1-incubating
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  malhar-hive:
+    lastUpdated: 20170401060202
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  malhar-kafka:
+    lastUpdated: 20170401060203
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.3.1-incubating
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  malhar-library:
+    lastUpdated: 20170401060204
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.2.0-incubating
+      - 3.3.0-incubating
+      - 3.3.1-incubating
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  malhar-sql:
+    lastUpdated: 20170401060204
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.6.0
+      - 3.7.0
+  malhar-stream:
+    lastUpdated: 20170401060205
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+

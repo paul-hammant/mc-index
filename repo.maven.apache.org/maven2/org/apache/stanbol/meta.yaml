@@ -1,0 +1,1985 @@
+artifacts:
+  apache-stanbol:
+    lastUpdated: 20160923140418
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-bundlelists:
+    lastUpdated: 20160923140418
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-commons:
+    lastUpdated: 20160923140419
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-contenthub:
+    lastUpdated: 20140302153927
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+  apache-stanbol-data:
+    lastUpdated: 20140302153927
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  apache-stanbol-enhancement-engines:
+    lastUpdated: 20160923140419
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-enhancement-engines-entitylinking:
+    lastUpdated: 20160923140419
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-enhancement-engines-opennlp:
+    lastUpdated: 20160923140419
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-enhancement-engines-uima:
+    lastUpdated: 20160923140420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-enhancer:
+    lastUpdated: 20160923140420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-entityhub:
+    lastUpdated: 20160923140420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-entityhub-indexing:
+    lastUpdated: 20160923140420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  apache-stanbol-ontologymanager:
+    lastUpdated: 20160923140420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  apache-stanbol-reasoners:
+    lastUpdated: 20160923140421
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  enhancer-engine-archetype:
+    lastUpdated: 20160923140421
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.cmsadapter.bundlelist:
+    lastUpdated: 20120509105423
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.cmsadapter.cmis:
+    lastUpdated: 20140302153930
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.core:
+    lastUpdated: 20140302153931
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.jcr:
+    lastUpdated: 20140302153932
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.parent:
+    lastUpdated: 20140302153935
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.reactor:
+    lastUpdated: 20140302153935
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.servicesapi:
+    lastUpdated: 20140302153935
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.cmsadapter.web:
+    lastUpdated: 20140302153936
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.commons.authentication.basic:
+    lastUpdated: 20160923140421
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+      - 1.0.1
+  org.apache.stanbol.commons.caslight:
+    lastUpdated: 20160923140422
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.cors:
+    lastUpdated: 20160923140422
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.commons.frameworkfragment:
+    lastUpdated: 20160923140423
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.freemarker:
+    lastUpdated: 20160923140424
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.httpqueryheaders:
+    lastUpdated: 20160923140424
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.indexedgraph:
+    lastUpdated: 20160923140425
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.installer.bundleprovider:
+    lastUpdated: 20160923140425
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.ixa-pipe-nerc:
+    lastUpdated: 20160923140427
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.commons.jobs.api:
+    lastUpdated: 20160923140427
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.jobs.reactor:
+    lastUpdated: 20160923140427
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.jobs.web:
+    lastUpdated: 20160923140428
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.jsonld:
+    lastUpdated: 20160923140429
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.launchpad:
+    lastUpdated: 20160923140429
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.ldpath.clerezza:
+    lastUpdated: 20160923140430
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.ldpathtemplate:
+    lastUpdated: 20160923140430
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.marmotta.kiwi:
+    lastUpdated: 20160923140431
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.commons.namespaceprefix.provider.prefixcc:
+    lastUpdated: 20160923140432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.namespaceprefix.provider.stanbol:
+    lastUpdated: 20160923140432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.namespaceprefix.service:
+    lastUpdated: 20160923140433
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.opennlp:
+    lastUpdated: 20160923140434
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.owl:
+    lastUpdated: 20160923140434
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.reactor:
+    lastUpdated: 20120509105441
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.commons.security.core:
+    lastUpdated: 20160923140435
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+      - 1.0.1
+  org.apache.stanbol.commons.security.fexilwebconsole:
+    lastUpdated: 20160923140436
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.security.usermanagement:
+    lastUpdated: 20160923140437
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.core:
+    lastUpdated: 20160923140438
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.defaults:
+    lastUpdated: 20160923140439
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.extras.icu:
+    lastUpdated: 20160923140439
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.extras.kuromoji:
+    lastUpdated: 20160923140440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.extras.paoding:
+    lastUpdated: 20130116133258
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.11.0
+  org.apache.stanbol.commons.solr.extras.smartcn:
+    lastUpdated: 20160923140441
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.extras.stempel:
+    lastUpdated: 20160923140442
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.install:
+    lastUpdated: 20160923140443
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.managed:
+    lastUpdated: 20160923140443
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.solr.web:
+    lastUpdated: 20160923140444
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.stanboltools.datafileprovider:
+    lastUpdated: 20160923140445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.stanboltools.datafileprovider.bundle:
+    lastUpdated: 20160923140445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.stanboltools.offline:
+    lastUpdated: 20160923140446
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.testing.http:
+    lastUpdated: 20160923140446
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.testing.jarexec:
+    lastUpdated: 20160923140448
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.testing.stanbol:
+    lastUpdated: 20160923140449
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.tikabundle:
+    lastUpdated: 20160923140450
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.commons.web.base:
+    lastUpdated: 20160923140451
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.base.jersey:
+    lastUpdated: 20160923140452
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.home:
+    lastUpdated: 20160923140453
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.rdfviewable.writer:
+    lastUpdated: 20160923140453
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.resources:
+    lastUpdated: 20160923140454
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.sparql:
+    lastUpdated: 20160923140455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.viewable:
+    lastUpdated: 20160923140455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.commons.web.viewable.writer:
+    lastUpdated: 20160923140455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.contenthub.bundlelist:
+    lastUpdated: 20120509105436
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.contenthub.ldpath:
+    lastUpdated: 20140302154013
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.parent:
+    lastUpdated: 20130127185006
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+  org.apache.stanbol.contenthub.reactor:
+    lastUpdated: 20120509105428
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.contenthub.search.featured:
+    lastUpdated: 20140302154014
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.search.reactor:
+    lastUpdated: 20140302154015
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.search.related:
+    lastUpdated: 20140302154016
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.search.solr:
+    lastUpdated: 20140302154016
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.servicesapi:
+    lastUpdated: 20140302154018
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.store.clerezza:
+    lastUpdated: 20140302154018
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.store.inmemory:
+    lastUpdated: 20140302154019
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.store.reactor:
+    lastUpdated: 20140302154019
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.store.solr:
+    lastUpdated: 20140302154020
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.contenthub.web:
+    lastUpdated: 20140302154021
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+  org.apache.stanbol.data.parent:
+    lastUpdated: 20130123121800
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.10.0-incubating
+      - 1.1.0
+  org.apache.stanbol.data.sites.dbpedia:
+    lastUpdated: 20140302154021
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.4-incubating
+      - 1.1.0
+      - 1.2.0
+  org.apache.stanbol.demos.enhancer.vie:
+    lastUpdated: 20140302154026
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  org.apache.stanbol.enhancer.benchmark:
+    lastUpdated: 20160923140501
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.bundlelist:
+    lastUpdated: 20120509105525
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.enhancer.chain.allactive:
+    lastUpdated: 20160923140502
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.chain.graph:
+    lastUpdated: 20160923140503
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.chain.list:
+    lastUpdated: 20160923140503
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.chain.weighted:
+    lastUpdated: 20160923140504
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.chainmanager:
+    lastUpdated: 20120509105551
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.enhancer.core:
+    lastUpdated: 20160923140505
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.defaults:
+    lastUpdated: 20160923140506
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.disambiguation.mlt:
+    lastUpdated: 20160923140506
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.entitytagging:
+    lastUpdated: 20160923140507
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.keywordextraction:
+    lastUpdated: 20160923140508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.topic:
+    lastUpdated: 20160923140509
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.topic.api:
+    lastUpdated: 20160923140509
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.topic.web:
+    lastUpdated: 20160923140510
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.uimalocal-template:
+    lastUpdated: 20160923140511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.uimaremote:
+    lastUpdated: 20160923140511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engine.uimatotriples:
+    lastUpdated: 20160923140512
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.enginemanager:
+    lastUpdated: 20120509105539
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.enhancer.engines.celi:
+    lastUpdated: 20160923140512
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.dbpspotlight:
+    lastUpdated: 20160923140513
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.dereference.core:
+    lastUpdated: 20160923140514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.dereference.entityhub:
+    lastUpdated: 20160923140514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitycomention:
+    lastUpdated: 20160923140515
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitycoreference:
+    lastUpdated: 20160923140516
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entityhublinking:
+    lastUpdated: 20160923140517
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitylinking.engine:
+    lastUpdated: 20160923140518
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.kuromoji:
+    lastUpdated: 20160923140518
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.lucene:
+    lastUpdated: 20160923140519
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.opennlp:
+    lastUpdated: 20160923140520
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.paoding:
+    lastUpdated: 20130219093053
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.smartcn:
+    lastUpdated: 20160923140521
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.geonames:
+    lastUpdated: 20160923140522
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.htmlextractor:
+    lastUpdated: 20160923140522
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.kuromoji.nlp:
+    lastUpdated: 20160923140523
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.langdetect:
+    lastUpdated: 20160923140524
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.langid:
+    lastUpdated: 20160923140525
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.lucenefstlinking:
+    lastUpdated: 20160923140525
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.nlp2rdf:
+    lastUpdated: 20160923140526
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opencalais:
+    lastUpdated: 20160923140527
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opennlp.chunker:
+    lastUpdated: 20160923140527
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opennlp.ner:
+    lastUpdated: 20160923140528
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opennlp.pos:
+    lastUpdated: 20160923140529
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opennlp.sentence:
+    lastUpdated: 20160923140530
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.opennlp.token:
+    lastUpdated: 20160923140531
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.paoding.token:
+    lastUpdated: 20130219093101
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  org.apache.stanbol.enhancer.engines.poschunker:
+    lastUpdated: 20160923140531
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.refactor:
+    lastUpdated: 20160923140532
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.restful.langident:
+    lastUpdated: 20160923140533
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.restful.nlp:
+    lastUpdated: 20160923140533
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.sentiment.summarization:
+    lastUpdated: 20160923140534
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.sentiment.wordclassifier:
+    lastUpdated: 20160923140535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.smartcn.token:
+    lastUpdated: 20160923140535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.textannotationnewmodel:
+    lastUpdated: 20160923140536
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.tika:
+    lastUpdated: 20160923140537
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.xmpextractor:
+    lastUpdated: 20160923140538
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.engines.zemanta:
+    lastUpdated: 20160923140538
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.eventjobmanager:
+    lastUpdated: 20160923140539
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.jersey:
+    lastUpdated: 20160923140540
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.jobmanager.reactor:
+    lastUpdated: 20160923140540
+    latest: 6
+    release: 6
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 6
+      - 6
+  org.apache.stanbol.enhancer.ldpath:
+    lastUpdated: 20160923140541
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.nlp:
+    lastUpdated: 20160923140542
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.nlp.json:
+    lastUpdated: 20160923140542
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.parent:
+    lastUpdated: 20130127185002
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+  org.apache.stanbol.enhancer.rdfentities:
+    lastUpdated: 20160923140543
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.servicesapi:
+    lastUpdated: 20160923140544
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.test:
+    lastUpdated: 20160923140545
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.enhancer.weightedjobmanager:
+    lastUpdated: 20160923140545
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.bundlelist:
+    lastUpdated: 20120710134831
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+  org.apache.stanbol.entityhub.core:
+    lastUpdated: 20160923140546
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.defaults:
+    lastUpdated: 20160923140547
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.core:
+    lastUpdated: 20160923140547
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.dblp:
+    lastUpdated: 20160923140548
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.dbpedia:
+    lastUpdated: 20160923140551
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.destination.solryard:
+    lastUpdated: 20160923140556
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.freebase:
+    lastUpdated: 20160923140601
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.genericrdf:
+    lastUpdated: 20160923140603
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.geonames:
+    lastUpdated: 20160923140604
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.parent:
+    lastUpdated: 20130127185002
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+  org.apache.stanbol.entityhub.indexing.reactor:
+    lastUpdated: 20130127184957
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+  org.apache.stanbol.entityhub.indexing.source.jenatdb:
+    lastUpdated: 20160923140608
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.source.sesame:
+    lastUpdated: 20160923140609
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.entityhub.indexing.source.vcard:
+    lastUpdated: 20160923140610
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.jersey:
+    lastUpdated: 20160923140610
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.ldpath:
+    lastUpdated: 20160923140611
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.model.clerezza:
+    lastUpdated: 20160923140612
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.model.sesame:
+    lastUpdated: 20160923140613
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.parent:
+    lastUpdated: 20130127185009
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+  org.apache.stanbol.entityhub.query.clerezza:
+    lastUpdated: 20160923140614
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.query.sesame:
+    lastUpdated: 20160923140615
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.entityhub.query.sparql:
+    lastUpdated: 20160923140615
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.reactor:
+    lastUpdated: 20120509105623
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.entityhub.servicesapi:
+    lastUpdated: 20160923140616
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.site.linkeddata:
+    lastUpdated: 20160923140616
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.site.managed:
+    lastUpdated: 20160923140617
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.test:
+    lastUpdated: 20160923140618
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.web.clerezza:
+    lastUpdated: 20160923140619
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.entityhub.web.sesame:
+    lastUpdated: 20160923140619
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.entityhub.yard.clerezza:
+    lastUpdated: 20160923140620
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.yard.sesame:
+    lastUpdated: 20160923140621
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.entityhub.yard.solr:
+    lastUpdated: 20160923140621
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.10.0-incubating
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.factstore:
+    lastUpdated: 20120509105536
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.factstore.bundlelist:
+    lastUpdated: 20120509105557
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.factstore.reactor:
+    lastUpdated: 20120509105428
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.frameworkfragment:
+    lastUpdated: 20120509105428
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.launchers.bundlelists.cmsadapter:
+    lastUpdated: 20140302154220
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  org.apache.stanbol.launchers.bundlelists.contenthub:
+    lastUpdated: 20140302154221
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  org.apache.stanbol.launchers.bundlelists.defaultdata:
+    lastUpdated: 20160923140622
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.12.0
+      - 1.1.0
+  org.apache.stanbol.launchers.bundlelists.enhancer:
+    lastUpdated: 20160923140623
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.enhancer-engines-restricted:
+    lastUpdated: 20160923140624
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.entityhub:
+    lastUpdated: 20140302154222
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  org.apache.stanbol.launchers.bundlelists.entityhub.clerezza:
+    lastUpdated: 20160923140624
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.entityhub.core:
+    lastUpdated: 20160923140625
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.entityhub.sesame:
+    lastUpdated: 20160923140625
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.languageextras.kuromoji:
+    lastUpdated: 20160923140625
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.languageextras.smartcn:
+    lastUpdated: 20160923140626
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.marmotta.kiwi:
+    lastUpdated: 20160923140627
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.ontologymanager:
+    lastUpdated: 20160923140628
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.opennlp:
+    lastUpdated: 20160923140628
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.12.0
+      - 1.1.0
+  org.apache.stanbol.launchers.bundlelists.osgiframework:
+    lastUpdated: 20160923140628
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.reasoners:
+    lastUpdated: 20160923140628
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.rules:
+    lastUpdated: 20160923140629
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.security:
+    lastUpdated: 20160923140629
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.sentimentdata:
+    lastUpdated: 20160923140630
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.12.0
+      - 1.1.0
+  org.apache.stanbol.launchers.bundlelists.stanbolcommons:
+    lastUpdated: 20160923140630
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.launchers.bundlelists.zzshell:
+    lastUpdated: 20140302154227
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  org.apache.stanbol.ontologymanager.bundlelist:
+    lastUpdated: 20120509105536
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.ontologymanager.core:
+    lastUpdated: 20160923140631
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.multiplexer.clerezza:
+    lastUpdated: 20160923140632
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.ontonet:
+    lastUpdated: 20120509105622
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.ontologymanager.reactor:
+    lastUpdated: 20140302154228
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+  org.apache.stanbol.ontologymanager.registry:
+    lastUpdated: 20160923140633
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.servicesapi:
+    lastUpdated: 20160923140633
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.sources.clerezza:
+    lastUpdated: 20160923140634
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.sources.owlapi:
+    lastUpdated: 20160923140635
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.ontologymanager.web:
+    lastUpdated: 20160923140635
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.bundlelist:
+    lastUpdated: 20120509105411
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.reasoners.jena:
+    lastUpdated: 20160923140636
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.manager:
+    lastUpdated: 20160923140637
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.owlapi:
+    lastUpdated: 20160923140638
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.reactor:
+    lastUpdated: 20120509105532
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.reasoners.servicesapi:
+    lastUpdated: 20160923140638
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.test:
+    lastUpdated: 20160923140639
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.reasoners.web:
+    lastUpdated: 20160923140639
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.abstract:
+    lastUpdated: 20160923140640
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.clerezza:
+    lastUpdated: 20160923140641
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.jena:
+    lastUpdated: 20160923140642
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.reactor:
+    lastUpdated: 20160923140642
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.sparql:
+    lastUpdated: 20160923140642
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.adapters.swrl:
+    lastUpdated: 20160923140643
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.base:
+    lastUpdated: 20160923140644
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.bundlelist:
+    lastUpdated: 20120509105446
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  org.apache.stanbol.rules.manager:
+    lastUpdated: 20160923140644
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.reactor:
+    lastUpdated: 20160923140645
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.refactor:
+    lastUpdated: 20160923140646
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  org.apache.stanbol.rules.web:
+    lastUpdated: 20160923140646
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0-incubating
+      - 0.12.0
+      - 1.0.0
+  source-assembly:
+    lastUpdated: 20140302154242
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.10.0-incubating
+      - 1.0.0
+      - 1.0.1
+  stanbol-framework-source-release-assembly-descriptor:
+    lastUpdated: 20120509105547
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  stanbol-parent:
+    lastUpdated: 20160923140648
+    latest: 6
+    release: 6
+    versions:
+      - 0.9.0-incubating
+      - 1-incubating
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  stanbol-reactor:
+    lastUpdated: 20120509105511
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  stanbol-stack-source-release-assembly-descriptor:
+    lastUpdated: 20120509105431
+    latest: 0.9.0-incubating
+    release: 0.9.0-incubating
+    versions:
+      - 0.9.0-incubating
+  statefull-webmodule-archetype:
+    lastUpdated: 20160923140648
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+  stateless-webmodule-archetype:
+    lastUpdated: 20160923140648
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.12.0
+      - 1.0.0
+

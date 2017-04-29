@@ -1,0 +1,83 @@
+artifacts:
+  connector-server-zip:
+    lastUpdated: 20140827093924
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3.3.1
+  connid:
+    lastUpdated: 20140827093926
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.3.1
+      - 1.3
+  connid-framework:
+    lastUpdated: 20140827093926
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3.3
+      - 1.3.3.1
+  connid-framework-internal:
+    lastUpdated: 20140827093927
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3.3
+      - 1.3.3.1
+  connid-test-common:
+    lastUpdated: 20140827093927
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3.3
+      - 1.3.3.1
+  connid-test-contract:
+    lastUpdated: 20140827093928
+    latest: 1.3.3.1
+    release: 1.3.3.1
+    versions:
+      - 1.3.3
+      - 1.3.3.1
+  framework:
+    lastUpdated: 20120801162847
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3
+  framework-internal:
+    lastUpdated: 20120801162852
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3
+  test-common:
+    lastUpdated: 20120801162854
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3
+  test-contract:
+    lastUpdated: 20120801162854
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3
+

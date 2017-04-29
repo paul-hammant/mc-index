@@ -1,0 +1,887 @@
+artifacts:
+  kapua-locator-spring:
+    lastUpdated: 20161122091557
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.10
+      - 0.0.11
+  smolok:
+    lastUpdated: 20161122091557
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-adapter-rest:
+    lastUpdated: 20161122091557
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-bom:
+    lastUpdated: 20161122091558
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-bootstrap:
+    lastUpdated: 20161122091558
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-cmd:
+    lastUpdated: 20161122091558
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-cmd-core:
+    lastUpdated: 20161122091559
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-cmd-spi:
+    lastUpdated: 20161122091600
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.11
+  smolok-docker:
+    lastUpdated: 20161122091600
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-fatjar:
+    lastUpdated: 20161122091600
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-spark-base:
+    lastUpdated: 20161122091600
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-spark-standalone-master:
+    lastUpdated: 20161122091601
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-spark-standalone-worker:
+    lastUpdated: 20161122091601
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-spark-submit:
+    lastUpdated: 20161122091601
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-docker-zeppelin:
+    lastUpdated: 20161122091601
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-encoding:
+    lastUpdated: 20161122091602
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-encoding-camel:
+    lastUpdated: 20161122091602
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-encoding-json:
+    lastUpdated: 20161122091602
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-encoding-spi:
+    lastUpdated: 20161122091603
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-eventbus:
+    lastUpdated: 20161122091603
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-eventbus-client:
+    lastUpdated: 20161122091604
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib:
+    lastUpdated: 20161122091604
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-common:
+    lastUpdated: 20161122091604
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-docker:
+    lastUpdated: 20161122091604
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-download:
+    lastUpdated: 20161122091605
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-drools:
+    lastUpdated: 20161122091605
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-drools-sample:
+    lastUpdated: 20161122091605
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-endpoint:
+    lastUpdated: 20161122091605
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-geo:
+    lastUpdated: 20161122091606
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-ingester:
+    lastUpdated: 20161122091606
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-machinelearning:
+    lastUpdated: 20161110093936
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+  smolok-lib-process:
+    lastUpdated: 20161122091606
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-scanner:
+    lastUpdated: 20161122091607
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-spark:
+    lastUpdated: 20161122091607
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-ssh:
+    lastUpdated: 20161122091607
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-lib-vertx:
+    lastUpdated: 20161122091608
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-paas:
+    lastUpdated: 20161122091608
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-kapua:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-ops:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-service:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-service-adapters:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-service-framework:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-platform-service-framework-documentstore:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-binding:
+    lastUpdated: 20161122091609
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-binding-client:
+    lastUpdated: 20161122091610
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.10
+      - 0.0.11
+  smolok-service-configuration:
+    lastUpdated: 20161122091610
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-configuration-api:
+    lastUpdated: 20161122091612
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.10
+      - 0.0.11
+  smolok-service-configuration-sdk:
+    lastUpdated: 20161122091612
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.10
+      - 0.0.11
+  smolok-service-device:
+    lastUpdated: 20161122091613
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-documentstore-api:
+    lastUpdated: 20161122091614
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-documentstore-mongodb:
+    lastUpdated: 20161122091614
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-service-machinelearning:
+    lastUpdated: 20161122091615
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.11
+  smolok-service-machinelearning-api:
+    lastUpdated: 20161122091618
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.11
+  smolok-service-spark-job:
+    lastUpdated: 20161122091618
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-spark:
+    lastUpdated: 20161122091619
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-spark-archetypes-rdd:
+    lastUpdated: 20161122091619
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-spark-archetypes-streaming:
+    lastUpdated: 20161122091620
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-spark-archtypes:
+    lastUpdated: 20161122091620
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-spark-service:
+    lastUpdated: 20161122091620
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  smolok-status:
+    lastUpdated: 20161122091621
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+

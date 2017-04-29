@@ -1,0 +1,373 @@
+artifacts:
+  kpipes:
+    lastUpdated: 20170420143355
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-adapter:
+    lastUpdated: 20170420143355
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-adapter-websockets:
+    lastUpdated: 20170420143356
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-bom:
+    lastUpdated: 20170420143356
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-cmd:
+    lastUpdated: 20170420143356
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-core:
+    lastUpdated: 20170420143356
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-distribution:
+    lastUpdated: 20170420143357
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-docker:
+    lastUpdated: 20170420143357
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-docker-fatjar:
+    lastUpdated: 20170420143357
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-docker-machinelearning-base:
+    lastUpdated: 20170420143357
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-docker-machinelearning-predict:
+    lastUpdated: 20170420143358
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-docker-machinelearning-train:
+    lastUpdated: 20170420143358
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-count:
+    lastUpdated: 20170324110401
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  kpipes-function-filter:
+    lastUpdated: 20170420143358
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-geo-geocoding:
+    lastUpdated: 20170420143359
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-geo-geofencing:
+    lastUpdated: 20170420143359
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-machinelearning-predict:
+    lastUpdated: 20170420143359
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-transform-groovy:
+    lastUpdated: 20170420143359
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-function-view-materialize-keyvalue:
+    lastUpdated: 20170420143400
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-functions:
+    lastUpdated: 20170420143400
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-functions-count:
+    lastUpdated: 20170320195427
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  kpipes-functions-filter:
+    lastUpdated: 20170320195428
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  kpipes-functions-geo-geocoding:
+    lastUpdated: 20170320195428
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+  kpipes-functions-geo-geofencing:
+    lastUpdated: 20170324110402
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  kpipes-functions-geo-googlemaps:
+    lastUpdated: 20170420143400
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-functions-notification:
+    lastUpdated: 20170420143401
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib:
+    lastUpdated: 20170420143401
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-commons:
+    lastUpdated: 20170420143401
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-docker:
+    lastUpdated: 20170420143401
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-download:
+    lastUpdated: 20170420143402
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-geo:
+    lastUpdated: 20170420143402
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-kafka-broker:
+    lastUpdated: 20170420143402
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-kafka-client:
+    lastUpdated: 20170420143403
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-openshift:
+    lastUpdated: 20170420143403
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-process:
+    lastUpdated: 20170420143403
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-lib-testing:
+    lastUpdated: 20170420143404
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-server:
+    lastUpdated: 20170420143405
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-service:
+    lastUpdated: 20170420143405
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-service-event:
+    lastUpdated: 20170420143405
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-service-kpipes:
+    lastUpdated: 20170420143406
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  kpipes-service-machinelearning:
+    lastUpdated: 20170420143406
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  kpipes-service-pipes:
+    lastUpdated: 20170420143407
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+

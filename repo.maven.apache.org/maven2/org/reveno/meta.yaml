@@ -1,0 +1,44 @@
+artifacts:
+  reveno-cluster:
+    lastUpdated: 20160406182848
+    latest: 1.23
+    release: 1.23
+    versions:
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.22.1
+      - 1.23
+  reveno-core:
+    lastUpdated: 20160406182849
+    latest: 1.23
+    release: 1.23
+    versions:
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.22.1
+      - 1.23
+  reveno-metrics:
+    lastUpdated: 20160406182849
+    latest: 1.23
+    release: 1.23
+    versions:
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.20
+      - 1.21
+      - 1.22
+      - 1.22.1
+      - 1.23
+

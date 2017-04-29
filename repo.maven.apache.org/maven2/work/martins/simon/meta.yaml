@@ -1,0 +1,38 @@
+artifacts:
+  scala-expect_2.11:
+    lastUpdated: 20160616155350
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 1.7.2
+      - 1.7.3
+      - 1.7.5
+      - 1.7.6
+      - 1.8.0
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.10.2
+      - 1.11.0
+      - 1.11.1
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+  scala-expect_2.12:
+    lastUpdated: 20161110181019
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0
+  scala-expect_2.12.0-RC1:
+    lastUpdated: 20160919110644
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+

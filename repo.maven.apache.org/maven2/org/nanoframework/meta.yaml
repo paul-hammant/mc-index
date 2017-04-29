@@ -1,0 +1,326 @@
+artifacts:
+  nano:
+    lastUpdated: 20170111030603
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-commons:
+    lastUpdated: 20170111030603
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-concurrent:
+    lastUpdated: 20170111030603
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-core:
+    lastUpdated: 20170111030604
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-ext:
+    lastUpdated: 20170220025656
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-concurrent:
+    lastUpdated: 20160823090927
+    latest: 1.3.16
+    release: 1.3.16
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+  nano-ext-dubbo:
+    lastUpdated: 20170220025657
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-etcd:
+    lastUpdated: 20160823090927
+    latest: 1.3.16
+    release: 1.3.16
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+  nano-ext-httpclient:
+    lastUpdated: 20170220025657
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-mail:
+    lastUpdated: 20170220025657
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-shiro:
+    lastUpdated: 20170220025658
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-shiro-client:
+    lastUpdated: 20170220025658
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-ssh:
+    lastUpdated: 20170220025659
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-ext-websocket:
+    lastUpdated: 20170220025659
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  nano-jetty-server:
+    lastUpdated: 20170111030604
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-jmx:
+    lastUpdated: 20160919054237
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+  nano-jmx-agent:
+    lastUpdated: 20160919054237
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+  nano-jmx-client:
+    lastUpdated: 20160919054238
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+  nano-orm:
+    lastUpdated: 20170111030605
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-orm-jdbc:
+    lastUpdated: 20170111030605
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-orm-jedis:
+    lastUpdated: 20170111030606
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-orm-mybatis:
+    lastUpdated: 20170111030606
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-server:
+    lastUpdated: 20160929125747
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+  nano-tomcat-server:
+    lastUpdated: 20170111030607
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  nano-webmvc:
+    lastUpdated: 20170111030607
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  super:
+    lastUpdated: 20170216110329
+    latest: 9
+    release: 9
+    versions:
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 8
+      - 9
+

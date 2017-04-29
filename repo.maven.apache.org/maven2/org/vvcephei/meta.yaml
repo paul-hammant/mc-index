@@ -1,0 +1,42 @@
+artifacts:
+  denim_2.10:
+    lastUpdated: 20140418185315
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.0
+      - 0.3
+  occ-map:
+    lastUpdated: 20160304154051
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  scala-ledger_2.10:
+    lastUpdated: 20131209142200
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  scala-ledger_2.11:
+    lastUpdated: 20160428133254
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+  scala-ofx_2.10:
+    lastUpdated: 20131209142201
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  scala-ofx_2.11:
+    lastUpdated: 20160428034226
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+

@@ -1,0 +1,52 @@
+artifacts:
+  fxgraphics2d:
+    lastUpdated: 20161015215701
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.5
+  jcommon:
+    lastUpdated: 20170218162715
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.17
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  jfreechart:
+    lastUpdated: 20140731124423
+    latest: 1.0.19
+    release: 1.0.19
+    versions:
+      - 1.0.14
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+  jfreechart-swt:
+    lastUpdated: 20160220052908
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  jfreesvg:
+    lastUpdated: 20161009102608
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 2.0
+      - 2.1
+      - 3.1
+      - 3.2
+  swtgraphics2d:
+    lastUpdated: 20160220045611
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

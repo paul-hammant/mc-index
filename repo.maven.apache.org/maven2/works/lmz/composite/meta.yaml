@@ -1,0 +1,150 @@
+artifacts:
+  composite-client-logging:
+    lastUpdated: 20160223231403
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-configuration:
+    lastUpdated: 20160218234945
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-groovy:
+    lastUpdated: 20160223215449
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  composite-jackson:
+    lastUpdated: 20160219013532
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-jetty:
+    lastUpdated: 20160222230509
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  composite-lmz-base:
+    lastUpdated: 20160222220406
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-lmz-controlpanels:
+    lastUpdated: 20160224233240
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-logging:
+    lastUpdated: 20160221220943
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  composite-logging-jcl:
+    lastUpdated: 20160221221559
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-logging-simple:
+    lastUpdated: 20160221223504
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-logging-slf4j-api:
+    lastUpdated: 20160221220436
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-servlet3:
+    lastUpdated: 20160221223821
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-servlet3-runnable:
+    lastUpdated: 20160222232413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-servlet3-web:
+    lastUpdated: 20160224002555
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-servlet3-web-test:
+    lastUpdated: 20160225000658
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-servlet3-webjar:
+    lastUpdated: 20160224012619
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  composite-slf4j-api:
+    lastUpdated: 20160219023722
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-spring:
+    lastUpdated: 20160221230528
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-spring-aspects:
+    lastUpdated: 20160222233344
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-spring-test:
+    lastUpdated: 20160222233832
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-spring-web:
+    lastUpdated: 20160221231208
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-spring-webmvc:
+    lastUpdated: 20160222234146
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-syllabus:
+    lastUpdated: 20160224221307
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  composite-unit-test:
+    lastUpdated: 20160221231948
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+

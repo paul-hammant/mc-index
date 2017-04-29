@@ -1,0 +1,22 @@
+artifacts:
+  arquillian-packager-applicationarchive:
+    lastUpdated: 20100524184832
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-packager-javaee:
+    lastUpdated: 20100524184826
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-packager-parent:
+    lastUpdated: 20100424191441
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+

@@ -1,0 +1,335 @@
+artifacts:
+  learnlib-acex:
+    lastUpdated: 20150604115126
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-algorithm-features:
+    lastUpdated: 20150604115127
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-algorithms:
+    lastUpdated: 20150604115128
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-basic-eqtests:
+    lastUpdated: 20150604115128
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-build-tools:
+    lastUpdated: 20150604115129
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-cache:
+    lastUpdated: 20150604115130
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-core:
+    lastUpdated: 20150604115130
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-counterexamples:
+    lastUpdated: 20150604115131
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-dhc:
+    lastUpdated: 20150604115132
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-discrimination-tree:
+    lastUpdated: 20150604115132
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-drivers:
+    lastUpdated: 20150604115133
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-drivers-basic:
+    lastUpdated: 20150604115133
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-eqtests:
+    lastUpdated: 20150604115134
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-examples:
+    lastUpdated: 20150604115134
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-filters:
+    lastUpdated: 20150604115134
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-kearns-vazirani:
+    lastUpdated: 20150604115135
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-lstar-baseline:
+    lastUpdated: 20150604115135
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-lstar-generic:
+    lastUpdated: 20150604115136
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-mapper:
+    lastUpdated: 20150604115136
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-nlstar:
+    lastUpdated: 20150604115137
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-parallelism:
+    lastUpdated: 20150604115138
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-parent:
+    lastUpdated: 20150604115138
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-reuse:
+    lastUpdated: 20150604115139
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-simulator:
+    lastUpdated: 20150604115139
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-test-support:
+    lastUpdated: 20131213135908
+    latest: 0.9.1-ase2013-tutorial-r1
+    release: 0.9.1-ase2013-tutorial-r1
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+  learnlib-ttt:
+    lastUpdated: 20150604115140
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+  learnlib-utils:
+    lastUpdated: 20150604115141
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1-ase2013-tutorial
+      - 0.9.1-ase2013-tutorial-r1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.1
+      - 0.11.2
+      - 0.12.0
+

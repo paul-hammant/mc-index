@@ -1,0 +1,1282 @@
+artifacts:
+  access-base:
+    lastUpdated: 20170224235936
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  alias-base:
+    lastUpdated: 20170224235937
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  archive-base:
+    lastUpdated: 20170224235938
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  authz-base:
+    lastUpdated: 20170224235940
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  base:
+    lastUpdated: 20170224235940
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  chat-base:
+    lastUpdated: 20170224235945
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  citations-base:
+    lastUpdated: 20170224235945
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  config:
+    lastUpdated: 20170224235952
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  configuration-bundles:
+    lastUpdated: 20170224235952
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  dav:
+    lastUpdated: 20160422164848
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  dav-base:
+    lastUpdated: 20170224235958
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  entitybroker:
+    lastUpdated: 20170225000008
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 1.5.0-b03
+      - 1.5.0-b04
+      - 1.5.0-b05
+      - 1.5.0-b06
+      - 1.5.0-b07
+      - 1.5.0-rc01
+      - 1.5.0-rc02
+      - 1.5.0-rc03
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  gradebook-base:
+    lastUpdated: 20170225000011
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  help-base:
+    lastUpdated: 20170225000011
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  hierarchy:
+    lastUpdated: 20170225000011
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  kernel:
+    lastUpdated: 20170225000017
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 1.3.0-b03
+      - 1.3.0-b04
+      - 1.3.0-b06
+      - 1.3.0-b07
+      - 1.3.0-rc01
+      - 1.3.0-rc02
+      - 1.3.0-rc03
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  localization-bundles:
+    lastUpdated: 20170225000027
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  master:
+    lastUpdated: 20170225000035
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 2.9.0-b03
+      - 2.9.0-b04
+      - 2.9.0-b05
+      - 2.9.0-b06
+      - 2.9.0-b07
+      - 2.9.0-rc01
+      - 2.9.0-rc02
+      - 2.9.0-rc03
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+      - 2.9.3
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  memory-base:
+    lastUpdated: 20170225000036
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  podcasts:
+    lastUpdated: 20160422164927
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  podcasts-base:
+    lastUpdated: 20170225000058
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  postem-base:
+    lastUpdated: 20170225000104
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  providers-base:
+    lastUpdated: 20170225000108
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  reference-base:
+    lastUpdated: 20170225000109
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  rights-base:
+    lastUpdated: 20170225000109
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  rwiki-base:
+    lastUpdated: 20170225000110
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-access-impl:
+    lastUpdated: 20170225000111
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-allhands-provider:
+    lastUpdated: 20170225000113
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-chat-api:
+    lastUpdated: 20170225000114
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-chat-impl:
+    lastUpdated: 20170225000115
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-chat-pack:
+    lastUpdated: 20160422164943
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-chat-tool:
+    lastUpdated: 20160422164943
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-citations-api:
+    lastUpdated: 20170225000116
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-citations-impl:
+    lastUpdated: 20170225000117
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-citations-pack:
+    lastUpdated: 20160422164945
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-citations-servlet:
+    lastUpdated: 20160422164947
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-citations-shared-deploy:
+    lastUpdated: 20160422164947
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-citations-tool:
+    lastUpdated: 20160422164947
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-citations-util:
+    lastUpdated: 20170225000117
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-citations-web2bridge:
+    lastUpdated: 20170225000118
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-citations-xserver:
+    lastUpdated: 20170225000119
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-comp-help:
+    lastUpdated: 20160422164949
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-comp-shared-help:
+    lastUpdated: 20170225000119
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-coursemanagement-authz-provider-impl:
+    lastUpdated: 20170225000120
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-dav-common:
+    lastUpdated: 20170225000121
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-dav-server:
+    lastUpdated: 20170225000122
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-federating-provider:
+    lastUpdated: 20170225000122
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-gradebook-app:
+    lastUpdated: 20170225000123
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-gradebook-app-business:
+    lastUpdated: 20170225000123
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-help-api:
+    lastUpdated: 20170225000123
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-help-content:
+    lastUpdated: 20170225000124
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-help-tool:
+    lastUpdated: 20160422164953
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-import-announcement:
+    lastUpdated: 20170225000124
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-imsent-provider:
+    lastUpdated: 20170225000125
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-jldap-provider:
+    lastUpdated: 20170225000126
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-jldap-provider-mock:
+    lastUpdated: 20170225000127
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-kerberos-provider:
+    lastUpdated: 20170225000127
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-news-api:
+    lastUpdated: 20160422164953
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-news-impl:
+    lastUpdated: 20160422164954
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-news-pack:
+    lastUpdated: 20160422164954
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-news-tool:
+    lastUpdated: 20160422164955
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-openldap-provider:
+    lastUpdated: 20170225000127
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-podcasts:
+    lastUpdated: 20160422164955
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-podcasts-api:
+    lastUpdated: 20170225000128
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-podcasts-impl:
+    lastUpdated: 20170225000128
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-podcasts-pack:
+    lastUpdated: 20160422164957
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-postem-api:
+    lastUpdated: 20170225000128
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-postem-hbm:
+    lastUpdated: 20170225000128
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-postem-impl:
+    lastUpdated: 20170225000129
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-postem-pack:
+    lastUpdated: 20160422164959
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-postem-tool:
+    lastUpdated: 20160422164959
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-radeox:
+    lastUpdated: 20170225000131
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rights-api:
+    lastUpdated: 20170225000132
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rights-impl:
+    lastUpdated: 20170225000132
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rights-pack:
+    lastUpdated: 20160422165001
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rights-tool:
+    lastUpdated: 20160422165001
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rwiki-api:
+    lastUpdated: 20170225000133
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rwiki-diff:
+    lastUpdated: 20170225000133
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rwiki-impl:
+    lastUpdated: 20170225000133
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rwiki-integration-test:
+    lastUpdated: 20160422165003
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rwiki-model:
+    lastUpdated: 20170225000134
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-rwiki-pack:
+    lastUpdated: 20160422165003
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rwiki-shared-serializer:
+    lastUpdated: 20160422165004
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rwiki-tool:
+    lastUpdated: 20160422165004
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-rwiki-util:
+    lastUpdated: 20170225000134
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-sample-provider:
+    lastUpdated: 20170225000135
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-sections-app-util:
+    lastUpdated: 20170225000135
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-syllabus-api:
+    lastUpdated: 20170225000137
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-syllabus-hbm:
+    lastUpdated: 20170225000138
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-syllabus-impl:
+    lastUpdated: 20170225000139
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-syllabus-pack:
+    lastUpdated: 20160422165006
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-syllabus-tool:
+    lastUpdated: 20160422165006
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-usermembership-api:
+    lastUpdated: 20170225000139
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-usermembership-impl:
+    lastUpdated: 20170225000140
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-usermembership-pack:
+    lastUpdated: 20160422165007
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-usermembership-tool:
+    lastUpdated: 20160422165008
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-web-api:
+    lastUpdated: 20170225000141
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-web-impl:
+    lastUpdated: 20170225000141
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-web-pack:
+    lastUpdated: 20160422165009
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-web-portlet:
+    lastUpdated: 20160422165009
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-web-tool:
+    lastUpdated: 20160422165010
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sections-base:
+    lastUpdated: 20170225000152
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  shared-i18n-bundles:
+    lastUpdated: 20170225000152
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  syllabus-base:
+    lastUpdated: 20170225000202
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  textarea-base:
+    lastUpdated: 20170225000205
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  tool-base:
+    lastUpdated: 20170225000205
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  usermembership-base:
+    lastUpdated: 20170225000207
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  web-base:
+    lastUpdated: 20170225000209
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  wiki:
+    lastUpdated: 20160422165036
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+

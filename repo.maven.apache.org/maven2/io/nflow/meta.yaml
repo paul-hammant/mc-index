@@ -1,0 +1,51 @@
+artifacts:
+  nflow-engine:
+    lastUpdated: 20170331081428
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-jetty:
+    lastUpdated: 20170331081429
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-metrics:
+    lastUpdated: 20170331081429
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-perf-test:
+    lastUpdated: 20170331081430
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-rest-api:
+    lastUpdated: 20170331081430
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-root:
+    lastUpdated: 20170331081431
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+  nflow-tests:
+    lastUpdated: 20170331081431
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+

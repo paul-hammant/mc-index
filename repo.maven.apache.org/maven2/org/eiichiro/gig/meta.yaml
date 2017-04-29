@@ -1,0 +1,98 @@
+artifacts:
+  gig:
+    lastUpdated: 20140413134100
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  gig-acidhouse-appengine:
+    lastUpdated: 20140413134100
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.0.1
+      - 0.4.3
+  gig-appengine:
+    lastUpdated: 20140413134101
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.0
+      - 0.4.2
+      - 0.4.3
+  gig-archetype-appengine:
+    lastUpdated: 20140413134101
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.4.3
+  gig-archetype-heroku:
+    lastUpdated: 20140413134102
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.4.3
+  gig-archetype-webapp:
+    lastUpdated: 20140413134103
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.4.3
+  gig-core:
+    lastUpdated: 20140413134103
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.3
+  gig-heroku:
+    lastUpdated: 20140413134103
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.0
+      - 0.4.2
+      - 0.4.3
+  gig-jpa:
+    lastUpdated: 20130114114440
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  gig-jpa-eclipselink:
+    lastUpdated: 20140413134104
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  gig-jpa-heroku-postgres:
+    lastUpdated: 20140413134104
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  gig-shell:
+    lastUpdated: 20140413134104
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  gig-tools:
+    lastUpdated: 20130114114442
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2
+

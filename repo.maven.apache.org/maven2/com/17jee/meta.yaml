@@ -1,0 +1,275 @@
+artifacts:
+  e-basic-data:
+    lastUpdated: 20170228045806
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.1.3
+  e-cloud:
+    lastUpdated: 20161208083502
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-cloud-authorize:
+    lastUpdated: 20170228045807
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-cloud-gateway:
+    lastUpdated: 20170228045807
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-cloud-oauth:
+    lastUpdated: 20170228045808
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-common:
+    lastUpdated: 20170228045808
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core:
+    lastUpdated: 20170228045808
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-api:
+    lastUpdated: 20170228045809
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-basic:
+    lastUpdated: 20161208083505
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-core-query:
+    lastUpdated: 20170228045809
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-query-ext:
+    lastUpdated: 20170228045810
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-static:
+    lastUpdated: 20170228045810
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-template:
+    lastUpdated: 20170228045811
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-template-freemarker:
+    lastUpdated: 20170228045811
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-template-impl:
+    lastUpdated: 20170228045811
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-core-ui:
+    lastUpdated: 20170228045812
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-framework:
+    lastUpdated: 20161208083508
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-log:
+    lastUpdated: 20161208083508
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-log-service:
+    lastUpdated: 20170228045812
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-log-ui:
+    lastUpdated: 20170228045812
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-security:
+    lastUpdated: 20161208083509
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-security-auth:
+    lastUpdated: 20170228045813
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-security-jwt:
+    lastUpdated: 20170228045813
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-security-password:
+    lastUpdated: 20170228045814
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-upm:
+    lastUpdated: 20161208083511
+    latest: 3.0.0.RELEASE
+    release: 3.0.0.RELEASE
+    versions:
+      - 3.0.0.RELEASE
+  e-upm-api:
+    lastUpdated: 20170228045814
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-upm-service:
+    lastUpdated: 20170228045814
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+  e-upm-ui:
+    lastUpdated: 20170228045815
+    latest: 3.0.1.3
+    release: 3.0.1.3
+    versions:
+      - 3.0.0
+      - 3.0.0.RELEASE
+      - 3.0.1.0
+      - 3.0.1.1
+      - 3.0.1.2
+      - 3.0.1.3
+

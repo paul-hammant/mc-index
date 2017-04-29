@@ -1,0 +1,234 @@
+artifacts:
+  gemfire-common:
+    lastUpdated: 20160206163633
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-core:
+    lastUpdated: 20160206163750
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-joptsimple:
+    lastUpdated: 20160206163800
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-json:
+    lastUpdated: 20160206163910
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-junit:
+    lastUpdated: 20160206163911
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-lucene:
+    lastUpdated: 20160206163918
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-rebalancer:
+    lastUpdated: 20160206163931
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-web:
+    lastUpdated: 20160206163934
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  gemfire-web-api:
+    lastUpdated: 20160206163939
+    latest: 1.0.0-incubating.M1
+    release: 1.0.0-incubating.M1
+    versions:
+      - 1.0.0-incubating.M1
+  geode-common:
+    lastUpdated: 20170331224619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-core:
+    lastUpdated: 20170331224619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-cq:
+    lastUpdated: 20170331224622
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-joptsimple:
+    lastUpdated: 20160422002946
+    latest: 1.0.0-incubating.M2
+    release: 1.0.0-incubating.M2
+    versions:
+      - 1.0.0-incubating.M2
+  geode-json:
+    lastUpdated: 20170331224622
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-junit:
+    lastUpdated: 20170331224623
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-lucene:
+    lastUpdated: 20170331224624
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-modules:
+    lastUpdated: 20170331224624
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-modules-hibernate:
+    lastUpdated: 20160822160549
+    latest: 1.0.0-incubating.M3
+    release: 1.0.0-incubating.M3
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+  geode-modules-session:
+    lastUpdated: 20170331224625
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-modules-session-internal:
+    lastUpdated: 20170331224625
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-modules-tomcat7:
+    lastUpdated: 20170331224626
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-modules-tomcat8:
+    lastUpdated: 20170331224627
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-old-client-support:
+    lastUpdated: 20170331224627
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-pulse:
+    lastUpdated: 20170331224628
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-rebalancer:
+    lastUpdated: 20170331224629
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-wan:
+    lastUpdated: 20170331224629
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-web:
+    lastUpdated: 20170331224630
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+  geode-web-api:
+    lastUpdated: 20170331224631
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-incubating.M2
+      - 1.0.0-incubating.M3
+      - 1.0.0-incubating
+      - 1.1.0
+      - 1.1.1
+

@@ -1,0 +1,852 @@
+artifacts:
+  aws4s-cfn_2.10:
+    lastUpdated: 20151027105624
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-cfn_2.11:
+    lastUpdated: 20151027105625
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-core_2.10:
+    lastUpdated: 20151027105625
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-core_2.11:
+    lastUpdated: 20151027105626
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-dynamodb-ext_2.10:
+    lastUpdated: 20151027105626
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-dynamodb-ext_2.11:
+    lastUpdated: 20151027105627
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-dynamodb_2.10:
+    lastUpdated: 20151027105627
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-dynamodb_2.11:
+    lastUpdated: 20151027105628
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-eb_2.10:
+    lastUpdated: 20151027105628
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-eb_2.11:
+    lastUpdated: 20151027105629
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-ec2_2.10:
+    lastUpdated: 20151027105629
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-ec2_2.11:
+    lastUpdated: 20151027105630
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-s3_2.10:
+    lastUpdated: 20151027105630
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-s3_2.11:
+    lastUpdated: 20151027105631
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sns_2.10:
+    lastUpdated: 20151027105631
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sns_2.11:
+    lastUpdated: 20151027105632
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sqs_2.10:
+    lastUpdated: 20151027105632
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sqs_2.11:
+    lastUpdated: 20151027105633
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sts_2.10:
+    lastUpdated: 20151027105633
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s-sts_2.11:
+    lastUpdated: 20151027105634
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s_2.10:
+    lastUpdated: 20151027105634
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  aws4s_2.11:
+    lastUpdated: 20151027105635
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  baseunits-scala-example_2.10:
+    lastUpdated: 20161122060343
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala-example_2.11:
+    lastUpdated: 20161122060343
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala-example_2.12:
+    lastUpdated: 20161122060344
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala-project_2.10:
+    lastUpdated: 20161122060344
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala-project_2.11:
+    lastUpdated: 20161122060345
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala-project_2.12:
+    lastUpdated: 20161122060345
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala_2.10:
+    lastUpdated: 20161122060345
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala_2.11:
+    lastUpdated: 20161122060346
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  baseunits-scala_2.12:
+    lastUpdated: 20161122060346
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.18
+      - 0.1.19
+  java-dddbase:
+    lastUpdated: 20140402071501
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-dddbase-core_2.10:
+    lastUpdated: 20151218154807
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.1.21
+      - 0.1.22
+      - 0.1.23
+      - 0.1.24
+      - 0.1.25
+      - 0.1.26
+      - 0.1.27
+      - 0.1.29
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-core_2.11:
+    lastUpdated: 20151218154808
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-core_sjs0.6_2.10:
+    lastUpdated: 20151218154809
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-core_sjs0.6_2.11:
+    lastUpdated: 20151218154809
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-event_2.10:
+    lastUpdated: 20140926102727
+    latest: 0.1.29
+    release: 0.1.29
+    versions:
+      - 0.1.21
+      - 0.1.22
+      - 0.1.23
+      - 0.1.24
+      - 0.1.25
+      - 0.1.26
+      - 0.1.27
+      - 0.1.29
+  scala-dddbase-lifecycle-repositories-forwarding_2.10:
+    lastUpdated: 20151218154810
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-forwarding_2.11:
+    lastUpdated: 20151218154810
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-forwarding_sjs0.6_2.10:
+    lastUpdated: 20151218154811
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-forwarding_sjs0.6_2.11:
+    lastUpdated: 20151218154812
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-memory_2.10:
+    lastUpdated: 20151218154812
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-memory_2.11:
+    lastUpdated: 20151218154813
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-memory_sjs0.6_2.10:
+    lastUpdated: 20151218154813
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-lifecycle-repositories-memory_sjs0.6_2.11:
+    lastUpdated: 20151218154814
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-spec_2.10:
+    lastUpdated: 20151218154814
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.1.21
+      - 0.1.22
+      - 0.1.23
+      - 0.1.24
+      - 0.1.25
+      - 0.1.26
+      - 0.1.27
+      - 0.1.29
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-spec_2.11:
+    lastUpdated: 20151218154815
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase-spec_sjs0.6_2.10:
+    lastUpdated: 20151218154816
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase-spec_sjs0.6_2.11:
+    lastUpdated: 20151218154816
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  scala-dddbase_2.10:
+    lastUpdated: 20151218154817
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.1.21
+      - 0.1.22
+      - 0.1.23
+      - 0.1.24
+      - 0.1.25
+      - 0.1.26
+      - 0.1.27
+      - 0.1.29
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-dddbase_2.11:
+    lastUpdated: 20151218154818
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+  scala-toolbox_2.10:
+    lastUpdated: 20150516080715
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.7
+      - 0.0.8
+      - 0.0.10
+  scala-toolbox_2.11:
+    lastUpdated: 20150516080716
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.10
+  sisioh-config_2.10:
+    lastUpdated: 20160105084847
+    latest: 0.0.8
+    release: 0.0.8
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.7
+      - 0.0.8
+  sisioh-config_2.11:
+    lastUpdated: 20160105084847
+    latest: 0.0.8
+    release: 0.0.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+  trinity-core_2.10:
+    lastUpdated: 20150524035516
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity-core_2.11:
+    lastUpdated: 20150524035528
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+  trinity-daemon_2.10:
+    lastUpdated: 20150524035531
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity-daemon_2.11:
+    lastUpdated: 20150524035534
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+  trinity-example_2.10:
+    lastUpdated: 20130909071704
+    latest: 0.0.19
+    release: 0.0.19
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+  trinity-test_2.10:
+    lastUpdated: 20150524035536
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity-test_2.11:
+    lastUpdated: 20150524035539
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+  trinity-view-freemarker_2.10:
+    lastUpdated: 20130909071705
+    latest: 0.0.19
+    release: 0.0.19
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+  trinity-view-scalate_2.10:
+    lastUpdated: 20150524035541
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity-view-scalate_2.11:
+    lastUpdated: 20150524035545
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+  trinity-view-thymeleaf_2.10:
+    lastUpdated: 20130909071706
+    latest: 0.0.19
+    release: 0.0.19
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+  trinity-view-velocity_2.10:
+    lastUpdated: 20130909071706
+    latest: 0.0.19
+    release: 0.0.19
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+  trinity-view_2.10:
+    lastUpdated: 20150524035548
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity-view_2.11:
+    lastUpdated: 20150524035550
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+  trinity_2.10:
+    lastUpdated: 20150524035552
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  trinity_2.11:
+    lastUpdated: 20150524035555
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.11
+      - 1.0.12
+

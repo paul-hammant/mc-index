@@ -1,0 +1,46 @@
+artifacts:
+  org.opennms.core.wsman.api:
+    lastUpdated: 20170125145450
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.opennms.core.wsman.cli:
+    lastUpdated: 20170125145451
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.opennms.core.wsman.cxf:
+    lastUpdated: 20170125145451
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.opennms.core.wsman.itests:
+    lastUpdated: 20170125145452
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+

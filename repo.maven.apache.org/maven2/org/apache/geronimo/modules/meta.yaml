@@ -1,0 +1,1997 @@
+artifacts:
+  ge-activemq-rar:
+    lastUpdated: 20101014044847
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-activation:
+    lastUpdated: 20101014045227
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-activemq:
+    lastUpdated: 20111228115420
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-activemq-blueprint:
+    lastUpdated: 20130526084457
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-activemq-gbean:
+    lastUpdated: 20101014043102
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-activemq-gbean-management:
+    lastUpdated: 20101014043105
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-activemq-management:
+    lastUpdated: 20130526084435
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-activemq-ra:
+    lastUpdated: 20130526084445
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-aries:
+    lastUpdated: 20130526084456
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-aries-builder:
+    lastUpdated: 20130526084410
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-aries-jpa:
+    lastUpdated: 20130526084427
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-aries-resolver:
+    lastUpdated: 20130526084448
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-aries-shell:
+    lastUpdated: 20130526084419
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-aspectj:
+    lastUpdated: 20130526084423
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-axis:
+    lastUpdated: 20130526084451
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-axis-builder:
+    lastUpdated: 20130526084444
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-axis2:
+    lastUpdated: 20130526084422
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-axis2-builder:
+    lastUpdated: 20130526084410
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-axis2-ejb:
+    lastUpdated: 20130526084453
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-axis2-ejb-builder:
+    lastUpdated: 20130526084418
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-bval:
+    lastUpdated: 20130526084432
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-bval-builder:
+    lastUpdated: 20130526084435
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-cli:
+    lastUpdated: 20101014044204
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+  geronimo-client:
+    lastUpdated: 20130526084448
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-client-builder:
+    lastUpdated: 20130526084416
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-clustering:
+    lastUpdated: 20130526084441
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-clustering-builder-wadi:
+    lastUpdated: 20101014045211
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-clustering-wadi:
+    lastUpdated: 20130526084456
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-common:
+    lastUpdated: 20101014043849
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-concurrent:
+    lastUpdated: 20101211135930
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-concurrent-builder:
+    lastUpdated: 20101211135916
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-concurrent-core:
+    lastUpdated: 20101211135919
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-concurrent-management:
+    lastUpdated: 20101211135744
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-connector:
+    lastUpdated: 20111228115426
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-connector-1_6:
+    lastUpdated: 20130526084445
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-connector-builder:
+    lastUpdated: 20111228115430
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-connector-builder-1_6:
+    lastUpdated: 20130526084437
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-converter:
+    lastUpdated: 20130526084454
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-corba:
+    lastUpdated: 20130526084443
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-corba-builder:
+    lastUpdated: 20130526084448
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-core:
+    lastUpdated: 20101014043550
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-cxf:
+    lastUpdated: 20130526084412
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-cxf-builder:
+    lastUpdated: 20130526084424
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-cxf-ejb:
+    lastUpdated: 20130526084421
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-cxf-ejb-builder:
+    lastUpdated: 20130526084450
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-cxf-tools:
+    lastUpdated: 20101211135800
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-deploy-config:
+    lastUpdated: 20101014043152
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-deploy-farm:
+    lastUpdated: 20130526084443
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-deploy-jsr88:
+    lastUpdated: 20101014043536
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-deploy-jsr88-bootstrapper:
+    lastUpdated: 20101014044259
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+  geronimo-deploy-tool:
+    lastUpdated: 20101014044936
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-deployment:
+    lastUpdated: 20101014044311
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-derby:
+    lastUpdated: 20130526084451
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-directory:
+    lastUpdated: 20101014042841
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-dojo:
+    lastUpdated: 20111228115421
+    latest: 2.1.8
+    release: 2.1.8
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1
+  geronimo-dojo-legacy:
+    lastUpdated: 20111228115425
+    latest: 2.1.8
+    release: 2.1.8
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1
+  geronimo-farm:
+    lastUpdated: 20130526084424
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-farm-wadi:
+    lastUpdated: 20101211135856
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  geronimo-hot-deploy:
+    lastUpdated: 20130526084419
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-interceptor:
+    lastUpdated: 20101014045416
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-j2ee:
+    lastUpdated: 20130526084436
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-j2ee-builder:
+    lastUpdated: 20130526084416
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-j2ee-schema:
+    lastUpdated: 20130526084438
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jasper:
+    lastUpdated: 20130526084440
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jasper-builder:
+    lastUpdated: 20130526084438
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jaxws:
+    lastUpdated: 20130526084419
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jaxws-builder:
+    lastUpdated: 20130526084452
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jaxws-ejb-builder:
+    lastUpdated: 20130526084455
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-jaxws-sun-tools:
+    lastUpdated: 20130526084455
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-jdbc:
+    lastUpdated: 20101014042647
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+  geronimo-jetty:
+    lastUpdated: 20101014045357
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-jetty-builder:
+    lastUpdated: 20101014045218
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-jetty-clustering-wadi:
+    lastUpdated: 20101014044612
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-jetty6:
+    lastUpdated: 20111228115415
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-jetty6-builder:
+    lastUpdated: 20111228115423
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-jetty6-clustering-builder-wadi:
+    lastUpdated: 20111228115416
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-jetty6-clustering-wadi:
+    lastUpdated: 20111228115450
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-jetty7:
+    lastUpdated: 20101211135939
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-jetty7-builder:
+    lastUpdated: 20101211135926
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-jetty7-clustering-builder-wadi:
+    lastUpdated: 20101211135756
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-jetty7-clustering-wadi:
+    lastUpdated: 20101211135853
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2
+  geronimo-jetty8:
+    lastUpdated: 20130526084454
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-jetty8-builder:
+    lastUpdated: 20130526084447
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-jetty8-clustering-builder-wadi:
+    lastUpdated: 20130526084453
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-jetty8-clustering-wadi:
+    lastUpdated: 20130526084430
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-jmx-remoting:
+    lastUpdated: 20101014045122
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-kernel:
+    lastUpdated: 20101014043303
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-mail:
+    lastUpdated: 20130526084447
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-management:
+    lastUpdated: 20101014044426
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-myfaces:
+    lastUpdated: 20130526084429
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-myfaces-builder:
+    lastUpdated: 20130526084430
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-naming:
+    lastUpdated: 20101014044925
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-naming-builder:
+    lastUpdated: 20130526084415
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-openejb:
+    lastUpdated: 20130526084440
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-openejb-builder:
+    lastUpdated: 20130526084439
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-openejb-clustering-builder-wadi:
+    lastUpdated: 20130526084429
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-openejb-clustering-wadi:
+    lastUpdated: 20130526084450
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-openjpa:
+    lastUpdated: 20111228115429
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-openjpa2:
+    lastUpdated: 20130526084431
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.3-beta
+      - 2.2-beta
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-openwebbeans:
+    lastUpdated: 20130526084441
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  geronimo-openwebbeans-builder:
+    lastUpdated: 20130526084414
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-persistence-jpa10:
+    lastUpdated: 20111228115414
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-persistence-jpa10-builder:
+    lastUpdated: 20111228115415
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-persistence-jpa20:
+    lastUpdated: 20130526084411
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.3-beta
+      - 2.2-beta
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-persistence-jpa20-builder:
+    lastUpdated: 20130526084421
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.3-beta
+      - 2.2-beta
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-plugin-farm:
+    lastUpdated: 20130526084428
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.2
+  geronimo-security:
+    lastUpdated: 20101014043026
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-security-builder:
+    lastUpdated: 20130526084434
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-service-builder:
+    lastUpdated: 20101014043414
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-sharedlib:
+    lastUpdated: 20130526084452
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-system:
+    lastUpdated: 20101014043422
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-test-ddbean:
+    lastUpdated: 20130526084453
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-timer:
+    lastUpdated: 20111228115422
+    latest: 2.1.8
+    release: 2.1.8
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1
+  geronimo-tomcat:
+    lastUpdated: 20101014043634
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-tomcat-builder:
+    lastUpdated: 20101014042939
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-tomcat6:
+    lastUpdated: 20111228115419
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-tomcat6-builder:
+    lastUpdated: 20111228115418
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-tomcat6-clustering-builder-wadi:
+    lastUpdated: 20111228115417
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-tomcat6-clustering-wadi:
+    lastUpdated: 20111228115416
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-tomcat7:
+    lastUpdated: 20130526084442
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-tomcat7-builder:
+    lastUpdated: 20130526084444
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-tomcat7-clustering-builder-wadi:
+    lastUpdated: 20130526084423
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-tomcat7-clustering-wadi:
+    lastUpdated: 20130526084432
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-transaction:
+    lastUpdated: 20111228115418
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  geronimo-transaction-1_6:
+    lastUpdated: 20130526084431
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-transformer:
+    lastUpdated: 20101014042305
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-upgrade:
+    lastUpdated: 20101014044128
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-util:
+    lastUpdated: 20101014042640
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-wab:
+    lastUpdated: 20130526084412
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-web:
+    lastUpdated: 20130526084436
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-web-2.5-builder:
+    lastUpdated: 20130526084425
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-web-builder:
+    lastUpdated: 20101014044119
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-web-extender:
+    lastUpdated: 20130526084414
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+  geronimo-webservices:
+    lastUpdated: 20130526084413
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-webservices-builder:
+    lastUpdated: 20130526084418
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-wink:
+    lastUpdated: 20130526084413
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-wink-builder:
+    lastUpdated: 20130526084454
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+      - 3.0.1
+  geronimo-yoko:
+    lastUpdated: 20130526084421
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  modules:
+    lastUpdated: 20101014043631
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+

@@ -1,0 +1,62 @@
+artifacts:
+  jcheck_nrpe:
+    lastUpdated: 20150209142748
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.3-beta-04
+      - 2.0.3-RC2
+      - 2.0.3-RC3
+      - 2.0.3-RC5
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  jnrpe-lib:
+    lastUpdated: 20150209142749
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 1.0.1-beta-01
+      - 1.0.1-beta-02
+      - 1.0.1-beta-03
+      - 1.0.1-beta-04
+      - 1.0.1-beta-05
+      - 1.0.1-beta-06
+      - 1.0.1-beta-07
+      - 1.0.1-beta-08
+      - 1.0.1-beta-09
+      - 1.0.1-beta-10
+      - 1.0.1-beta-11
+      - 1.0.1-beta-13
+      - 1.0.1-RC2
+      - 1.0.1-RC3
+      - 1.0.1-RC5
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  jnrpe-osgi-core:
+    lastUpdated: 20150209142750
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  jnrpe-plugins:
+    lastUpdated: 20150209142751
+    latest: 0.7.5
+    release: 0.7.5
+    versions:
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+  jnrpe-plugins-osgi:
+    lastUpdated: 20150209142752
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+

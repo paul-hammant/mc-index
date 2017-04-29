@@ -1,0 +1,58 @@
+artifacts:
+  ci-jenkins-aggregator:
+    lastUpdated: 20160714151704
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-api:
+    lastUpdated: 20160714151704
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-bom:
+    lastUpdated: 20160714151704
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-cli:
+    lastUpdated: 20160714151704
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-client:
+    lastUpdated: 20160714151704
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-crawler:
+    lastUpdated: 20160714151705
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-jenkins-depchain:
+    lastUpdated: 20160714151705
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+

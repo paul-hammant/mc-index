@@ -1,0 +1,32 @@
+artifacts:
+  drill-memory-base:
+    lastUpdated: 20170314215714
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+      - 1.10.0
+  drill-memory-impl:
+    lastUpdated: 20151211180825
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  memory-parent:
+    lastUpdated: 20170314215714
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+      - 1.10.0
+

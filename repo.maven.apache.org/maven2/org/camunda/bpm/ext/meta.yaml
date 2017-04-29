@@ -1,0 +1,15 @@
+artifacts:
+  camunda-engine-cassandra:
+    lastUpdated: 20160324145141
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  camunda-engine-hazelcast:
+    lastUpdated: 20150825153514
+    latest: 1.0.0-alpha1
+    release: 1.0.0-alpha1
+    versions:
+      - 1.0.0-alpha1
+

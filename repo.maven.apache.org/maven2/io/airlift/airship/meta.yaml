@@ -1,0 +1,122 @@
+artifacts:
+  airship-agent:
+    lastUpdated: 20130810011815
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-cli:
+    lastUpdated: 20130810011816
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-config-bundler:
+    lastUpdated: 20130810011818
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-coordinator:
+    lastUpdated: 20130810011820
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-ec2:
+    lastUpdated: 20130810011822
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-integration-tests:
+    lastUpdated: 20130810011823
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-root:
+    lastUpdated: 20130810011823
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airship-shared:
+    lastUpdated: 20130810011824
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.9
+      - 0.10
+      - 0.11
+      - 0.12
+      - 0.13
+

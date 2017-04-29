@@ -1,0 +1,76 @@
+artifacts:
+  broker-dev:
+    lastUpdated: 20170130151440
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+  broker-local:
+    lastUpdated: 20170130151441
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+  freme-docker:
+    lastUpdated: 20170130151454
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  freme-full:
+    lastUpdated: 20170130151454
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+  freme-ner-dev:
+    lastUpdated: 20170130151507
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+  package-parent:
+    lastUpdated: 20170130151520
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+      - 0.14
+      - 0.15
+      - 1.0
+      - 1.1
+

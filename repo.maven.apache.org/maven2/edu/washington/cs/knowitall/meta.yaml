@@ -1,0 +1,106 @@
+artifacts:
+  common-java:
+    lastUpdated: 20120531221522
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.2
+  knowitall-oss:
+    lastUpdated: 20121002170359
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  morpha-stemmer:
+    lastUpdated: 20130730021127
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  opennlp-chunk-models:
+    lastUpdated: 20120607180952
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  opennlp-parse-models:
+    lastUpdated: 20120607180954
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  opennlp-postag-models:
+    lastUpdated: 20120607180955
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  opennlp-sent-models:
+    lastUpdated: 20120607180952
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  opennlp-tokenize-models:
+    lastUpdated: 20120607180954
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  openregex:
+    lastUpdated: 20131008165954
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+  openregex-scala_2.10:
+    lastUpdated: 20131031011936
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  openregex-scala_2.9.2:
+    lastUpdated: 20130313184229
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  openregex-scala_2.9.3:
+    lastUpdated: 20131008165942
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  reverb-core:
+    lastUpdated: 20130524205622
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  reverb-models:
+    lastUpdated: 20120607211659
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+

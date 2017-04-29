@@ -1,0 +1,155 @@
+artifacts:
+  cyc-api-parent:
+    lastUpdated: 20151219043526
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc5
+  cyc-base-client:
+    lastUpdated: 20160127022756
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-common-lib-parent:
+    lastUpdated: 20160205231532
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc5
+  cyc-core-api:
+    lastUpdated: 20151219043623
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+  cyc-core-api-parent:
+    lastUpdated: 20151219043623
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc5
+  cyc-core-client-impl:
+    lastUpdated: 20160127022756
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-core-client-parent:
+    lastUpdated: 20160127022757
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-core-object-api:
+    lastUpdated: 20151219043623
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc5
+  cyc-core-object-factories:
+    lastUpdated: 20151219043624
+    latest: 1.0.0-rc5
+    release: 1.0.0-rc5
+    versions:
+      - 1.0.0-rc5
+  cyc-core-parent:
+    lastUpdated: 20151030012525
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  cyc-core-suite:
+    lastUpdated: 20151030012525
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  cyc-default-config-parent:
+    lastUpdated: 20160205215937
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+  cyc-kb:
+    lastUpdated: 20151030012526
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  cyc-kb-client:
+    lastUpdated: 20160127022757
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-query:
+    lastUpdated: 20151030012526
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  cyc-query-client:
+    lastUpdated: 20160127022758
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-session:
+    lastUpdated: 20151030012527
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  cyc-session-client:
+    lastUpdated: 20160127022758
+    latest: 1.0.0-rc5.2
+    release: 1.0.0-rc5.2
+    versions:
+      - 1.0.0-rc5
+      - 1.0.0-rc5.1
+      - 1.0.0-rc5.2
+  cyc-sonatype-oss-parent:
+    lastUpdated: 20160205204414
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+

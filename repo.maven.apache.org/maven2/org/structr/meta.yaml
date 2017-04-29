@@ -1,0 +1,129 @@
+artifacts:
+  structr:
+    lastUpdated: 20160502231657
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  structr-base-archetype:
+    lastUpdated: 20140916231104
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+  structr-core:
+    lastUpdated: 20160502231657
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  structr-db-driver-api:
+    lastUpdated: 20160502231658
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  structr-neo4j-driver:
+    lastUpdated: 20160502231658
+    latest: 2.2.9-2.0.1
+    release: 2.2.9-2.0.1
+    versions:
+      - 2.2.9-2.0.0
+      - 2.2.9-2.0.1
+  structr-neo4j-enterprise-driver:
+    lastUpdated: 20160502231659
+    latest: 2.2.9-2.0.1
+    release: 2.2.9-2.0.1
+    versions:
+      - 2.2.9-2.0.0
+      - 2.2.9-2.0.1
+  structr-rest:
+    lastUpdated: 20160502231659
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  structr-server:
+    lastUpdated: 20140114090633
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.2
+      - 0.8.3
+  structr-simple-example-archetype:
+    lastUpdated: 20140916231106
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+  structr-ui:
+    lastUpdated: 20160502231700
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  structr-ui-archetype:
+    lastUpdated: 20140916231111
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 1.0.RC1
+      - 1.0.RC2
+      - 1.0.RC3
+      - 1.0.RC4
+      - 1.0.0
+

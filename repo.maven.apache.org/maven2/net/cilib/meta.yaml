@@ -1,0 +1,79 @@
+artifacts:
+  benchmarks_2.11:
+    lastUpdated: 20161130155300
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1
+  benchmarks_2.12:
+    lastUpdated: 20161130155300
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  cilib-core_2.11:
+    lastUpdated: 20161015131142
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  cilib-exec_2.11:
+    lastUpdated: 20161015131143
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  cilib-ga_2.11:
+    lastUpdated: 20161015131143
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  cilib-library:
+    lastUpdated: 20131217072304
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7.6
+      - 0.8
+      - 0.8
+  cilib-moo_2.11:
+    lastUpdated: 20161015131143
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  cilib-pso_2.11:
+    lastUpdated: 20161015131144
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  cilib-simulator:
+    lastUpdated: 20131217072305
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  cilib_2.10:
+    lastUpdated: 20141025083128
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  cilib_2.11:
+    lastUpdated: 20141025083129
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  library_2.9.2:
+    lastUpdated: 20121113071010
+    latest: 0.7.5
+    release: 0.7.5
+    versions:
+      - 0.7.5
+

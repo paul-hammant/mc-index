@@ -1,0 +1,55 @@
+artifacts:
+  asm-defuse:
+    lastUpdated: 20160809025410
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  ba-dua:
+    lastUpdated: 20161016054106
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ba-dua-agent:
+    lastUpdated: 20161016054106
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ba-dua-core:
+    lastUpdated: 20161016054106
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ba-dua-parent:
+    lastUpdated: 20161016054106
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  bytecode-analysis:
+    lastUpdated: 20140325191548
+    latest: 0.5.4
+    release: 0.5.4
+    versions:
+      - 0.5.4
+  opal:
+    lastUpdated: 20140324205014
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  saeg-commons:
+    lastUpdated: 20141220044041
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+

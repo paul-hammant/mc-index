@@ -1,0 +1,88 @@
+artifacts:
+  atom-jaxb:
+    lastUpdated: 20170120092933
+    latest: 0.2.1-JDK6
+    release: 0.2.1-JDK6
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2-JDK6
+      - 0.2.1-JDK6
+      - 0.1
+      - 0.2
+  handy-warup:
+    lastUpdated: 20161006071926
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  handy-warup-applier:
+    lastUpdated: 20161006071927
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  handy-warup-generator:
+    lastUpdated: 20161006071927
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  jax-rs-linker:
+    lastUpdated: 20151110102429
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  jax-rs-linker-integration-tests:
+    lastUpdated: 20151110102429
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1
+      - 0.4.1
+      - 0.1
+  jax-rs-linker-parent:
+    lastUpdated: 20151110102429
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  no-configuration-webapp:
+    lastUpdated: 20151110102429
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  no-xml-webapp:
+    lastUpdated: 20151110102430
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  xml-webapp:
+    lastUpdated: 20151110102431
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+

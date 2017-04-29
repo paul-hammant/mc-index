@@ -1,0 +1,32 @@
+artifacts:
+  opensaml:
+    lastUpdated: 20141003010054
+    latest: 2.6.2
+    release: 2.6.2
+    versions:
+      - 2.6.0
+      - 2.6.2
+  opensaml-parent:
+    lastUpdated: 20141003010054
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1
+      - 1.1
+      - 1
+      - 1.1
+  openws:
+    lastUpdated: 20141003010055
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.0
+      - 1.5.2
+  xmltooling:
+    lastUpdated: 20141003010055
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.4.0
+      - 1.4.2
+

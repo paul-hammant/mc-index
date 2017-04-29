@@ -1,0 +1,91 @@
+artifacts:
+  supplier-confluence:
+    lastUpdated: 20160113100832
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  supplier-confluence-compat:
+    lastUpdated: 20141028102459
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.9
+      - 1.0.10
+  supplier-confluence-parent:
+    lastUpdated: 20141028102503
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.9
+      - 1.0.10
+  supplier-confluence-project:
+    lastUpdated: 20141028102503
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.9
+      - 1.0.10
+  supplier-core:
+    lastUpdated: 20160704051055
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+      - 1.4.1
+  supplier-core-compat:
+    lastUpdated: 20141222053043
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  supplier-core-parent:
+    lastUpdated: 20141222053044
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  supplier-core-project:
+    lastUpdated: 20141222053044
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+

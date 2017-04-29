@@ -1,0 +1,42 @@
+artifacts:
+  docbook:
+    lastUpdated: 20120824135747
+    latest: 5.0-2
+    release: 5.0-2
+    versions:
+      - 5.0-2
+  docbook-xml:
+    lastUpdated: 20120824135748
+    latest: 5.1b4-all
+    release: 5.1b4-all
+    versions:
+      - 5.1b4-all
+  docbook-xsl:
+    lastUpdated: 20160214200359
+    latest: 1.79.1
+    release: 1.79.1
+    versions:
+      - 1.77.1
+      - 1.78.0
+      - 1.78.1
+      - 1.79.1
+  docbook-xsl-saxon:
+    lastUpdated: 20120824135749
+    latest: 1.0.1-pre
+    release: 1.0.1-pre
+    versions:
+      - 1.0.1-pre
+  docbook-xsl-webhelpindexer:
+    lastUpdated: 20140103213804
+    latest: 1.0.1-pre
+    release: 1.0.1-pre
+    versions:
+      - 1.0.0-9777
+      - 1.0.1-pre
+  docbook-xsl-xalan:
+    lastUpdated: 20120824135750
+    latest: 1.0.1-pre
+    release: 1.0.1-pre
+    versions:
+      - 1.0.1-pre
+

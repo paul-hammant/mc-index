@@ -1,0 +1,25 @@
+artifacts:
+  guice-async-extension:
+    lastUpdated: 20160831070359
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  guice-scoped-proxy-extension:
+    lastUpdated: 20160111174058
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  reguice:
+    lastUpdated: 20151224091925
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+

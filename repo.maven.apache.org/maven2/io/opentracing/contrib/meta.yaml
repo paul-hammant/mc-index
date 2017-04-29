@@ -1,0 +1,236 @@
+artifacts:
+  asynchttpclient-opentracing:
+    lastUpdated: 20161201215017
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  grpc-opentracing:
+    lastUpdated: 20170226224646
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  jdbi-opentracing:
+    lastUpdated: 20161201215751
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  opentracing-agent:
+    lastUpdated: 20170411113513
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-agent-parent:
+    lastUpdated: 20170411113513
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-agent-rules-java-net:
+    lastUpdated: 20170411113514
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-agent-rules-java-okhttp:
+    lastUpdated: 20170411113514
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-agent-rules-java-web-servlet-filter:
+    lastUpdated: 20170411113514
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-agent-rules-parent:
+    lastUpdated: 20170411113514
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+  opentracing-aws-sdk:
+    lastUpdated: 20170409050901
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-cassandra-driver:
+    lastUpdated: 20170414005342
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-elasticsearch-client:
+    lastUpdated: 20170416153205
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-globaltracer:
+    lastUpdated: 20170418092202
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opentracing-hprose:
+    lastUpdated: 20170316231848
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  opentracing-jaxrs-parent:
+    lastUpdated: 20170202071945
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jaxrs2:
+    lastUpdated: 20170202071946
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jdbc:
+    lastUpdated: 20170413163646
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jms-1:
+    lastUpdated: 20170410150640
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jms-2:
+    lastUpdated: 20170410150641
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jms-common:
+    lastUpdated: 20170410150641
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jms-parent:
+    lastUpdated: 20170410150642
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-jms-spring:
+    lastUpdated: 20170410150642
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-mongo-driver:
+    lastUpdated: 20170414142404
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-okhttp-parent:
+    lastUpdated: 20170410103812
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  opentracing-okhttp3:
+    lastUpdated: 20170410103812
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  opentracing-rabbitmq-client:
+    lastUpdated: 20170418070953
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-spanmanager:
+    lastUpdated: 20170420091932
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  opentracing-spring-web:
+    lastUpdated: 20170418123413
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  opentracing-spring-web-autoconfigure:
+    lastUpdated: 20170418123413
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  opentracing-spring-web-handler-interceptor:
+    lastUpdated: 20170219083610
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opentracing-spring-web-parent:
+    lastUpdated: 20170418123414
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  opentracing-web-servlet-filter:
+    lastUpdated: 20170412103745
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  opentracing-web-servlet-filter-parent:
+    lastUpdated: 20170412103745
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+

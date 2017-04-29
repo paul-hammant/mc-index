@@ -1,0 +1,83 @@
+artifacts:
+  digipres-tika:
+    lastUpdated: 20150904163203
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  solr-shade:
+    lastUpdated: 20140708201843
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  solr-test-server:
+    lastUpdated: 20150904163208
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 2.0.0
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  warc-annotation:
+    lastUpdated: 20140708201844
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  warc-discovery:
+    lastUpdated: 20150904163210
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 1.1.1
+      - 2.0.0
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  warc-hadoop-indexer:
+    lastUpdated: 20150904163210
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 1.1.1
+      - 2.0.0
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  warc-hadoop-recordreaders:
+    lastUpdated: 20150904163220
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 1.1.1
+      - 2.0.0
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  warc-indexer:
+    lastUpdated: 20150904163229
+    latest: 2.2.0-BETA-6
+    release: 2.2.0-BETA-6
+    versions:
+      - 1.1.1
+      - 2.0.0
+      - 2.2.0-BETA
+      - 2.2.0-BETA-4
+      - 2.2.0-BETA-5
+      - 2.2.0-BETA-6
+  webarchive-tika:
+    lastUpdated: 20140708201930
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+

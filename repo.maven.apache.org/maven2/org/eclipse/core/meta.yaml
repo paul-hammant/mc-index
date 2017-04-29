@@ -1,0 +1,144 @@
+artifacts:
+  boot:
+    lastUpdated: 20071127073128
+    latest: {}
+    release: {}
+    versions:
+      - 3.1.100-v20060603
+  commands:
+    lastUpdated: 20071127073211
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.0-I20070605-0010
+      - 3.2.0-I20060605-1400
+  contenttype:
+    lastUpdated: 20140801141701
+    latest: 3.4.200-v20140207-1251
+    release: 3.4.200-v20140207-1251
+    versions:
+      - 3.4.200-v20130326-1255
+      - 3.4.200-v20140207-1251
+  databinding:
+    lastUpdated: 20071127071539
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-I20070606-0010
+  expressions:
+    lastUpdated: 20071127073151
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.0-v20070606-0010
+      - 3.2.1-r321_v20060721
+  filebuffers:
+    lastUpdated: 20071127073153
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.0-v20070606-0010
+      - 3.2.1-r321_v20060721
+  filesystem:
+    lastUpdated: 20071127073144
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-v20070606
+      - 1.0.0-v20060603
+  jobs:
+    lastUpdated: 20140801141641
+    latest: 3.6.0-v20140424-0053
+    release: 3.6.0-v20140424-0053
+    versions:
+      - 3.5.300-v20130429-1813
+      - 3.6.0-v20140424-0053
+  net:
+    lastUpdated: 20071127071537
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-I20070531
+  org.eclipse.core.commands:
+    lastUpdated: 20131025133413
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.6.0
+  org.eclipse.core.contenttype:
+    lastUpdated: 20131025133554
+    latest: 3.4.100.v20100505-1235
+    release: 3.4.100.v20100505-1235
+    versions:
+      - 3.4.100
+      - 3.4.100.v20100505-1235
+  org.eclipse.core.expressions:
+    lastUpdated: 20131025134222
+    latest: 3.4.300
+    release: 3.4.300
+    versions:
+      - 3.4.200.v20100505
+      - 3.4.300
+  org.eclipse.core.filesystem:
+    lastUpdated: 20131025133725
+    latest: 1.3.100
+    release: 1.3.100
+    versions:
+      - 1.3.0.v20100526-0737
+      - 1.3.100
+  org.eclipse.core.jobs:
+    lastUpdated: 20131025133826
+    latest: 3.5.100
+    release: 3.5.100
+    versions:
+      - 3.5.0.v20100515
+      - 3.5.100
+  org.eclipse.core.resources:
+    lastUpdated: 20131025134355
+    latest: 3.7.100
+    release: 3.7.100
+    versions:
+      - 3.6.0.v20100526-0737
+      - 3.7.100
+  org.eclipse.core.runtime:
+    lastUpdated: 20131025134038
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.6.0.v20100505
+      - 3.7.0
+  org.eclipse.core.runtime.compatibility.auth:
+    lastUpdated: 20101008020408
+    latest: 3.2.200.v20100517
+    release: 3.2.200.v20100517
+    versions:
+      - 3.2.200.v20100517
+  org.eclipse.core.variables:
+    lastUpdated: 20101008020813
+    latest: 3.2.400.v20100505
+    release: 3.2.400.v20100505
+    versions:
+      - 3.2.400.v20100505
+  resources:
+    lastUpdated: 20071127073215
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.0-v20070604
+      - 3.2.1-R32x_v20060914
+  runtime:
+    lastUpdated: 20140801141625
+    latest: 3.10.0-v20140318-2214
+    release: 3.10.0-v20140318-2214
+    versions:
+      - 3.9.0-v20130326-1255
+      - 3.9.100-v20131218-1515
+      - 3.10.0-v20140318-2214
+  variables:
+    lastUpdated: 20071127073150
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.0-v20070426
+      - 3.1.100-v20060605
+

@@ -1,0 +1,56 @@
+artifacts:
+  ozone-appconfig:
+    lastUpdated: 20150514145554
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+  ozone-auditing:
+    lastUpdated: 20151113161601
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.1
+      - 1.3.1
+  ozone-custom-tomcat:
+    lastUpdated: 20151112144639
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+  ozone-messaging:
+    lastUpdated: 20150514150122
+    latest: 1.19
+    release: 1.19
+    versions:
+      - 1.19
+  ozone-security:
+    lastUpdated: 20151116144316
+    latest: 4.0.3
+    release: 4.0.3
+    versions:
+      - 3.26
+      - 3.27
+      - 3.28
+      - 4.0.3
+  ozone-security-build-all:
+    lastUpdated: 20151116144317
+    latest: 3.28
+    release: 3.28
+    versions:
+      - 3.28
+  ozone-security-extras:
+    lastUpdated: 20151116144317
+    latest: 3.28
+    release: 3.28
+    versions:
+      - 3.28
+  ozone-security-project:
+    lastUpdated: 20151116144317
+    latest: 3.28
+    release: 3.28
+    versions:
+      - 3.28
+

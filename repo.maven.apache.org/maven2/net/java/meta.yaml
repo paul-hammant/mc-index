@@ -1,0 +1,76 @@
+artifacts:
+  jtoolbox:
+    lastUpdated: 20090105161817
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1-SNAPSHOT
+  jvnet-parent:
+    lastUpdated: 20140604145218
+    latest: 5
+    release: 5
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  quickcheck:
+    lastUpdated: 20110815192547
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5a
+      - 0.5b
+      - 0.5.1
+      - 0.6
+      - 0.6
+  quickcheck-all:
+    lastUpdated: 20110815192549
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.5
+      - 0.6
+  quickcheck-core:
+    lastUpdated: 20091004135821
+    latest: {}
+    release: {}
+    versions:
+      - 0.5-SNAPSHOT
+  quickcheck-examples:
+    lastUpdated: 20110815192548
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5.1
+      - 0.6
+      - 0.6
+  quickcheck-src-generator:
+    lastUpdated: 20110815192548
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.5a
+      - 0.5b
+      - 0.5.1
+      - 0.6
+      - 0.5
+      - 0.6
+  textile-j:
+    lastUpdated: 20110815192525
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+

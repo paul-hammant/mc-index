@@ -1,0 +1,275 @@
+artifacts:
+  documentation-toolchain:
+    lastUpdated: 20150210212542
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  hadoop25:
+    lastUpdated: 20150210212542
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  phd21:
+    lastUpdated: 20150210212542
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-analytics:
+    lastUpdated: 20150210212543
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-analytics-ml:
+    lastUpdated: 20150210212544
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-batch:
+    lastUpdated: 20150210212544
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-dirt:
+    lastUpdated: 20150210212544
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-distributed-test:
+    lastUpdated: 20150210212545
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-exec:
+    lastUpdated: 20150210212545
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-batch:
+    lastUpdated: 20150210212546
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-encoder-support:
+    lastUpdated: 20150210212546
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-gemfire:
+    lastUpdated: 20150210212547
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-http:
+    lastUpdated: 20150210212547
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-jdbc:
+    lastUpdated: 20150210212547
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-kafka:
+    lastUpdated: 20150210212548
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-mail:
+    lastUpdated: 20150210212548
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-mongodb:
+    lastUpdated: 20150210212549
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-process:
+    lastUpdated: 20150210212549
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-reactor:
+    lastUpdated: 20150210212550
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-script:
+    lastUpdated: 20150210212550
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-splunk:
+    lastUpdated: 20150210212551
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-tcp:
+    lastUpdated: 20150210212551
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-throughput:
+    lastUpdated: 20150210212552
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-extension-twitter:
+    lastUpdated: 20150210212552
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-gemfire-server:
+    lastUpdated: 20150210212552
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-hadoop:
+    lastUpdated: 20150210212553
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-integration-test:
+    lastUpdated: 20150210212553
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-module:
+    lastUpdated: 20150210212554
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-module-spi:
+    lastUpdated: 20150210212554
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-rest-client:
+    lastUpdated: 20150210212555
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-rest-domain:
+    lastUpdated: 20150210212555
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-shell:
+    lastUpdated: 20150210212555
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-test:
+    lastUpdated: 20150210212556
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-test-fixtures:
+    lastUpdated: 20150210212556
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-tuple:
+    lastUpdated: 20150210212557
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-ui:
+    lastUpdated: 20150210212557
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-yarn:
+    lastUpdated: 20150210212558
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-yarn-appmaster:
+    lastUpdated: 20150210212558
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+  spring-xd-yarn-client:
+    lastUpdated: 20150210212600
+    latest: 1.0.4.RELEASE
+    release: 1.0.4.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+

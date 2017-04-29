@@ -1,0 +1,59 @@
+artifacts:
+  geneticalgorithm:
+    lastUpdated: 20170128180028
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  html2sax:
+    lastUpdated: 20170126171037
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.3
+  saphir-hash-core:
+    lastUpdated: 20170126165730
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.3
+  saphir-hash-jca:
+    lastUpdated: 20170126165731
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.3
+  saphir-hash-parent:
+    lastUpdated: 20170126165731
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.3
+  sudoku:
+    lastUpdated: 20170124195743
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sudoku-client:
+    lastUpdated: 20170124195744
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sudoku-parent:
+    lastUpdated: 20170124195744
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+

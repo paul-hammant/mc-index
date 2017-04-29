@@ -1,0 +1,33 @@
+artifacts:
+  verita-api:
+    lastUpdated: 20150615101230
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  verita-event-store-impl:
+    lastUpdated: 20150615101230
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  verita-event-store-spring:
+    lastUpdated: 20150615101231
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  verita-mock-impl:
+    lastUpdated: 20150615101231
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  verita-parent:
+    lastUpdated: 20150615101232
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

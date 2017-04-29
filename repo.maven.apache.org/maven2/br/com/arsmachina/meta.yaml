@@ -1,0 +1,52 @@
+artifacts:
+  generic-controller:
+    lastUpdated: 20131015191017
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  generic-dao:
+    lastUpdated: 20131015191017
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  parent:
+    lastUpdated: 20131015191018
+    latest: 1.2.15
+    release: 1.2.15
+    versions:
+      - 1.2.8
+      - 1.2.10
+      - 1.2.11
+      - 1.2.12
+      - 1.2.13
+      - 1.2.14
+      - 1.2.15
+  tapestry-rss:
+    lastUpdated: 20130930175733
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tapestry-syntax-highlighter:
+    lastUpdated: 20130924193446
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tapestry-url-rewriter:
+    lastUpdated: 20130930175733
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.1
+      - 2.0.0
+  tapestry-wymeditor:
+    lastUpdated: 20130930185206
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+

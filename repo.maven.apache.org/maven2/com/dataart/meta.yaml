@@ -1,0 +1,73 @@
+artifacts:
+  poi-fork:
+    lastUpdated: 20160121134520
+    latest: 3.13-beta1.ce.0.7.0.5.dev
+    release: 3.13-beta1.ce.0.7.0.5.dev
+    versions:
+      - 3.13-beta1.ce.0.7.0.3.dev
+      - 3.13-beta1.ce.0.7.0.4.dev
+      - 3.13-beta1.ce.0.7.0.5.dev
+  poi-ooxml-fork:
+    lastUpdated: 20160121134504
+    latest: 3.13-beta1.ce.0.7.0.5.dev
+    release: 3.13-beta1.ce.0.7.0.5.dev
+    versions:
+      - 3.13-beta1.ce.0.7.0.3.dev
+      - 3.13-beta1.ce.0.7.0.4.dev
+      - 3.13-beta1.ce.0.7.0.5.dev
+  spreadsheetanalytics-code-quality:
+    lastUpdated: 20160121134449
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-converters:
+    lastUpdated: 20160121134435
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-data:
+    lastUpdated: 20160121134416
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-data-cache-impl:
+    lastUpdated: 20160121134401
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-evaluation:
+    lastUpdated: 20160121134349
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-functions:
+    lastUpdated: 20160121134337
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+  spreadsheetanalytics-model:
+    lastUpdated: 20160121134324
+    latest: 0.7.0.5.dev
+    release: 0.7.0.5.dev
+    versions:
+      - 0.7.0.3.dev
+      - 0.7.0.4.dev
+      - 0.7.0.5.dev
+

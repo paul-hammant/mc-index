@@ -1,0 +1,28 @@
+artifacts:
+  aws-v4-signer-java:
+    lastUpdated: 20161217194929
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  java8-extensions:
+    lastUpdated: 20160717021533
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  java8-guava-collectors:
+    lastUpdated: 20160718012656
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  parent-pom:
+    lastUpdated: 20160716180712
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

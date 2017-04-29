@@ -1,0 +1,392 @@
+artifacts:
+  jove-bridge_2.10:
+    lastUpdated: 20150217003336
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-bridge_2.11:
+    lastUpdated: 20150217003337
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-console-bootstrap_2.10:
+    lastUpdated: 20150217184548
+    latest: 0.1.0-1
+    release: 0.1.0-1
+    versions:
+      - 0.1.0
+      - 0.1.0-1
+  jove-console-bootstrap_2.11:
+    lastUpdated: 20150217022615
+    latest: 0.1.0-1
+    release: 0.1.0-1
+    versions:
+      - 0.1.0
+      - 0.1.0-1
+  jove-console_2.11:
+    lastUpdated: 20150217003735
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-jupyter-frontend_2.10:
+    lastUpdated: 20150217005124
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-jupyter-frontend_2.11:
+    lastUpdated: 20150217005125
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-jupyter_2.10:
+    lastUpdated: 20150217004044
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-jupyter_2.11:
+    lastUpdated: 20150217004044
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-kernel_2.10:
+    lastUpdated: 20150217003337
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-kernel_2.11:
+    lastUpdated: 20150217003337
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-meta_2.10:
+    lastUpdated: 20150217013143
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-meta_2.11:
+    lastUpdated: 20150217013143
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-notebook-bootstrap_2.10:
+    lastUpdated: 20150217022338
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.0-1
+      - 0.1.1
+  jove-notebook-bootstrap_2.11:
+    lastUpdated: 20150217022339
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.0-1
+      - 0.1.1
+  jove-notebook_2.10:
+    lastUpdated: 20150217004649
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-notebook_2.11:
+    lastUpdated: 20150217004649
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-predef_2.10:
+    lastUpdated: 20150217003338
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-predef_2.11:
+    lastUpdated: 20150217003338
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-cli_2.10:
+    lastUpdated: 20150217010402
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-cli_2.11:
+    lastUpdated: 20150217010402
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-core_2.10:
+    lastUpdated: 20150217010403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-core_2.11:
+    lastUpdated: 20150217010403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-embedded-cli_2.10:
+    lastUpdated: 20150217010403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-embedded-cli_2.11:
+    lastUpdated: 20150217010403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-embedded_2.10:
+    lastUpdated: 20150217010404
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-embedded_2.11:
+    lastUpdated: 20150217010404
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-play-plugin_2.3_2.10:
+    lastUpdated: 20150217010405
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-play-plugin_2.3_2.11:
+    lastUpdated: 20150217010405
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-play-plugin_2.4_2.10:
+    lastUpdated: 20150217010405
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala-play-plugin_2.4_2.11:
+    lastUpdated: 20150217010406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala_2.10:
+    lastUpdated: 20150217010406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-scala_2.11:
+    lastUpdated: 20150217010406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli-bootstrap_2.10:
+    lastUpdated: 20150217011701
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli-bootstrap_2.11:
+    lastUpdated: 20150217011702
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli_1.1_2.10:
+    lastUpdated: 20150217011702
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli_1.2_2.10:
+    lastUpdated: 20150217011703
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli_1.2_2.11:
+    lastUpdated: 20150217011703
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli_1.3_2.10:
+    lastUpdated: 20150217011704
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-cli_1.3_2.11:
+    lastUpdated: 20150217011704
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-core_1.1_2.10:
+    lastUpdated: 20150217011705
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-core_1.2_2.10:
+    lastUpdated: 20150217011705
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-core_1.2_2.11:
+    lastUpdated: 20150217011706
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-core_1.3_2.10:
+    lastUpdated: 20150217011706
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-core_1.3_2.11:
+    lastUpdated: 20150217011707
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded-cli_1.1_2.10:
+    lastUpdated: 20150217011707
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded-cli_1.2_2.10:
+    lastUpdated: 20150217011708
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded-cli_1.2_2.11:
+    lastUpdated: 20150217011708
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded-cli_1.3_2.10:
+    lastUpdated: 20150217011709
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded-cli_1.3_2.11:
+    lastUpdated: 20150217011709
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded_1.1_2.10:
+    lastUpdated: 20150217011710
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded_1.2_2.10:
+    lastUpdated: 20150217011710
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded_1.2_2.11:
+    lastUpdated: 20150217011711
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded_1.3_2.10:
+    lastUpdated: 20150217011711
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark-embedded_1.3_2.11:
+    lastUpdated: 20150217011712
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark_1.1_2.10:
+    lastUpdated: 20150217011712
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark_1.2_2.10:
+    lastUpdated: 20150217011713
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark_1.2_2.11:
+    lastUpdated: 20150217011713
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark_1.3_2.10:
+    lastUpdated: 20150217011714
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove-spark_1.3_2.11:
+    lastUpdated: 20150217011715
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove_2.10:
+    lastUpdated: 20150217003338
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jove_2.11:
+    lastUpdated: 20150217003339
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jvm-fork_2.10:
+    lastUpdated: 20150216235501
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  jvm-fork_2.11:
+    lastUpdated: 20150216235501
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+

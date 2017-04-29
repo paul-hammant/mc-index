@@ -1,0 +1,31 @@
+artifacts:
+  rethinkdb-orm:
+    lastUpdated: 20160907223157
+    latest: 2.3.0-5
+    release: 2.3.0-5
+    versions:
+      - 2.3.0-1
+      - 2.3.0-2
+      - 2.3.0-3
+      - 2.3.0-4
+      - 2.3.0-5
+  rethinkdb-orm-annotations:
+    lastUpdated: 20160907223157
+    latest: 2.3.0-5
+    release: 2.3.0-5
+    versions:
+      - 2.3.0-1
+      - 2.3.0-2
+      - 2.3.0-3
+      - 2.3.0-4
+      - 2.3.0-5
+  rethinkdb-pool:
+    lastUpdated: 20160907223158
+    latest: 2.3.0-5
+    release: 2.3.0-5
+    versions:
+      - 2.3.0-2
+      - 2.3.0-3
+      - 2.3.0-4
+      - 2.3.0-5
+

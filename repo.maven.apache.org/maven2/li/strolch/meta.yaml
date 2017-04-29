@@ -1,0 +1,241 @@
+artifacts:
+  li.strolch:
+    lastUpdated: 20170123164836
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.agent:
+    lastUpdated: 20170123164836
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.bom:
+    lastUpdated: 20170123164836
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.deploy-dummy:
+    lastUpdated: 20170118092759
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  li.strolch.model:
+    lastUpdated: 20170123164836
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.performancetest:
+    lastUpdated: 20170123164836
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.3
+      - 1.5.4
+  li.strolch.persistence.postgresql:
+    lastUpdated: 20170123164837
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.planningwebapp:
+    lastUpdated: 20161103124008
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  li.strolch.privilege:
+    lastUpdated: 20170123164837
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.rest:
+    lastUpdated: 20170123164837
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.service:
+    lastUpdated: 20170123164838
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.testbase:
+    lastUpdated: 20170123164838
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.tutorialapp:
+    lastUpdated: 20161103124010
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  li.strolch.tutorialwebapp:
+    lastUpdated: 20161103124010
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  li.strolch.utils:
+    lastUpdated: 20170123164838
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  li.strolch.website:
+    lastUpdated: 20161103124011
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  li.strolch.xmlpers:
+    lastUpdated: 20170123164838
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  strolch_minimal:
+    lastUpdated: 20161103124012
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  strolch_minimal_rest:
+    lastUpdated: 20161103124013
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+

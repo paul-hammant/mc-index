@@ -1,0 +1,40 @@
+artifacts:
+  common:
+    lastUpdated: 20140617141317
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  database:
+    lastUpdated: 20131111170934
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 3.0.1
+  epicur:
+    lastUpdated: 20120621101722
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  pidef:
+    lastUpdated: 20120921115746
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  resolver-core:
+    lastUpdated: 20131111171614
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.3
+      - 2.3.0
+

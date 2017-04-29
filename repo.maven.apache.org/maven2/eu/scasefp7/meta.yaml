@@ -1,0 +1,140 @@
+artifacts:
+  requirements-editor:
+    lastUpdated: 20150615150154
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  s-case-core:
+    lastUpdated: 20150615125437
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scase-base:
+    lastUpdated: 20151109083641
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  scase-build:
+    lastUpdated: 20151109083643
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  scase-parent:
+    lastUpdated: 20151109083644
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  scase-wp5:
+    lastUpdated: 20160620114439
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry:
+    lastUpdated: 20160620114439
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry-backend:
+    lastUpdated: 20160620114439
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry-backend-impl:
+    lastUpdated: 20160620114440
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry-datamodel:
+    lastUpdated: 20160620114440
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry-ear:
+    lastUpdated: 20150625143628
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+  scase-wp5-asset-registry-it:
+    lastUpdated: 20160620114440
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.8
+      - 1.1.0
+  scase-wp5-asset-registry-web:
+    lastUpdated: 20160620114441
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.7
+      - 1.0.8
+      - 1.1.0
+

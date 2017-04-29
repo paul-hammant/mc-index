@@ -1,0 +1,706 @@
+artifacts:
+  frontend:
+    lastUpdated: 20170220074244
+    latest: 0.0.8
+    release: 0.0.8
+    versions:
+      - 0.0.7
+      - 0.0.8
+  hookserver:
+    lastUpdated: 20161215200641
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-accounts:
+    lastUpdated: 20161215200641
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-autoconfigure:
+    lastUpdated: 20161215200641
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-common:
+    lastUpdated: 20161215200642
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-dispatcher-aws-sqs:
+    lastUpdated: 20161215200642
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-dispatcher-rabbitmq:
+    lastUpdated: 20161215200642
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-dispatcher-redisson:
+    lastUpdated: 20161215200643
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-dispatchers:
+    lastUpdated: 20161215200643
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-parent:
+    lastUpdated: 20161215200643
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-sample:
+    lastUpdated: 20161215200643
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-starter-aws-sqs:
+    lastUpdated: 20161215200644
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-starter-rabbitmq:
+    lastUpdated: 20161215200645
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-starter-redisson:
+    lastUpdated: 20161215200645
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  hookserver-starters:
+    lastUpdated: 20161215200645
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  siggi-ci-boot-autoconfigure:
+    lastUpdated: 20170315192437
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-boot-parent:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-boot-starter-ghcom:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-boot-starter-ghe:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-boot-starters:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-bricks-build-reactor:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-build-definitions-parent:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.8
+  siggi-ci-build-definitions-standard:
+    lastUpdated: 20170315192438
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.8
+  siggi-ci-connect-common:
+    lastUpdated: 20170315192439
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-connect-github-common:
+    lastUpdated: 20170315192439
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-connect-github-ghcom:
+    lastUpdated: 20170315192439
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-connect-github-ghe:
+    lastUpdated: 20170315192439
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-connect-github-parent:
+    lastUpdated: 20170315192440
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-connect-parent:
+    lastUpdated: 20170315192440
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-common:
+    lastUpdated: 20170315192440
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-fake:
+    lastUpdated: 20170315192440
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-github-common:
+    lastUpdated: 20170315192440
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-github-ghcom:
+    lastUpdated: 20170315192441
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-github-ghe:
+    lastUpdated: 20170315192441
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-github-parent:
+    lastUpdated: 20170315192441
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-parent:
+    lastUpdated: 20170315192441
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-controller-provider-login:
+    lastUpdated: 20170315192442
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-data:
+    lastUpdated: 20170315192442
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-it-assemble-ghcom:
+    lastUpdated: 20170315192442
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-it-assemble-ghcom-standalone:
+    lastUpdated: 20170315192443
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-it-assemble-ghe:
+    lastUpdated: 20170315192443
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-it-parent:
+    lastUpdated: 20170315192444
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-keys-client:
+    lastUpdated: 20170315192444
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-keys-common:
+    lastUpdated: 20170315192444
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-keys-parent:
+    lastUpdated: 20170315192445
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-keys-rest:
+    lastUpdated: 20170315192445
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-keys-spring-data-jpa:
+    lastUpdated: 20170315192445
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-parent:
+    lastUpdated: 20170217231436
+    latest: 4
+    release: 4
+    versions:
+      - 1
+      - 2-alpha-1
+      - 2-alpha-2
+      - 2
+      - 3
+      - 4
+  siggi-ci-security:
+    lastUpdated: 20170315192446
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-services-common:
+    lastUpdated: 20170315192446
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-services-github:
+    lastUpdated: 20170315192447
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-services-parent:
+    lastUpdated: 20170315192447
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-starter-ghcom:
+    lastUpdated: 20170315192447
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-starter-ghe:
+    lastUpdated: 20170315192447
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-starter-provider-login:
+    lastUpdated: 20170315192447
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-starters:
+    lastUpdated: 20170315192448
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-common:
+    lastUpdated: 20170315192448
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-github-handler:
+    lastUpdated: 20170315192448
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-github-model:
+    lastUpdated: 20170315192449
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-github-parent:
+    lastUpdated: 20170315192449
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-parent:
+    lastUpdated: 20170315192449
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  siggi-ci-webhooks-services:
+    lastUpdated: 20170315192449
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+

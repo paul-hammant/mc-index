@@ -1,0 +1,31 @@
+artifacts:
+  cofoja:
+    lastUpdated: 20140813175224
+    latest: 1.1-r150
+    release: 1.1-r150
+    versions:
+      - 1.1-r150
+  hadoop-bam:
+    lastUpdated: 20170223101033
+    latest: 7.8.0
+    release: 7.8.0
+    versions:
+      - 7.0.0
+      - 7.1.1
+      - 7.2.0
+      - 7.2.1
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+      - 7.5.0
+      - 7.6.0
+      - 7.7.0
+      - 7.7.1
+      - 7.8.0
+  htsjdk:
+    lastUpdated: 20140813182625
+    latest: 1.118
+    release: 1.118
+    versions:
+      - 1.118
+

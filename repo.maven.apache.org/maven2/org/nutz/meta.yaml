@@ -1,0 +1,691 @@
+artifacts:
+  j2cache-shiro:
+    lastUpdated: 20151113083123
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  j2cache-spring:
+    lastUpdated: 20151205000327
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  luajava:
+    lastUpdated: 20140520024053
+    latest: 2.0.1-beta
+    release: 2.0.1-beta
+    versions:
+      - 2.0.1-beta
+  nutz:
+    lastUpdated: 20170418030422
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.a.31
+      - 1.a.32
+      - 1.a.33
+      - 1.b.34
+      - 1.b.35
+      - 1.b.36
+      - 1.b.37
+      - 1.b.38
+      - 1.b.39
+      - 1.b.40
+      - 1.b.41
+      - 1.b.42
+      - 1.b.43
+      - 1.b.44
+      - 1.b.45
+      - 1.b.46
+      - 1.b.47
+      - 1.b.48
+      - 1.b.49
+      - 1.b.50
+      - 1.b.51
+      - 1.b.52
+      - 1.b.53
+      - 1.r.54
+      - 1.r.55
+      - 1.r.56
+      - 1.r.56.r3
+      - 1.r.57
+      - 1.r.57.r3
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.61
+      - 1.r.61.r2
+  nutz-integration-activiti:
+    lastUpdated: 20170419123531
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-dubbo:
+    lastUpdated: 20170419123531
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-dwr:
+    lastUpdated: 20170419123531
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-hasor:
+    lastUpdated: 20170419123531
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-hessian:
+    lastUpdated: 20170419123532
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.53
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-jcache:
+    lastUpdated: 20170419123532
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-jedis:
+    lastUpdated: 20170419123532
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-jsch:
+    lastUpdated: 20170224034847
+    latest: 1.r.60.r3
+    release: 1.r.60.r3
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+  nutz-integration-jsf:
+    lastUpdated: 20170419123533
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-json4excel:
+    lastUpdated: 20170419123533
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-jsr303:
+    lastUpdated: 20170419123534
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-quartz:
+    lastUpdated: 20170419123534
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52
+      - 1.b.53
+      - 1.b.53.r2
+      - 1.b.53.r3
+      - 1.r.56
+      - 1.r.57
+      - 1.r.57.r2
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-rabbitmq:
+    lastUpdated: 20170419123534
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-shiro:
+    lastUpdated: 20170419123534
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52
+      - 1.b.52.r2
+      - 1.b.52.r3
+      - 1.b.53
+      - 1.b.53.r2
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-spring:
+    lastUpdated: 20170419123535
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-struts2:
+    lastUpdated: 20170419123535
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-integration-zbus:
+    lastUpdated: 20170419123535
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52
+      - 1.b.53
+      - 1.b.53.r2
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-mipush-sdk:
+    lastUpdated: 20160601100728
+    latest: 3.0.MOD
+    release: 3.0.MOD
+    versions:
+      - 3.0.MOD
+  nutz-plugins-apidoc:
+    lastUpdated: 20170419123535
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-cache:
+    lastUpdated: 20170419123535
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-daocache:
+    lastUpdated: 20170419123536
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52.preview
+      - 1.b.52.preview2
+      - 1.b.52.preview3
+      - 1.b.52.r1
+      - 1.b.52.r4
+      - 1.b.53
+      - 1.b.53.r2
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-daomapping:
+    lastUpdated: 20170419123536
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-hotplug:
+    lastUpdated: 20170419123537
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-iocloader:
+    lastUpdated: 20170419123538
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-jedis:
+    lastUpdated: 20161130100938
+    latest: 1.r.59
+    release: 1.r.59
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+  nutz-plugins-jsonrpc:
+    lastUpdated: 20170419123538
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-mock:
+    lastUpdated: 20170419123539
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-multiview:
+    lastUpdated: 20170419123539
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-ngrok:
+    lastUpdated: 20170419123540
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-nop:
+    lastUpdated: 20170419123541
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-protobuf:
+    lastUpdated: 20170419123541
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52.r2
+      - 1.b.53
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-qrcode:
+    lastUpdated: 20170419123542
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-secken:
+    lastUpdated: 20170224034854
+    latest: 1.r.60.r3
+    release: 1.r.60.r3
+    versions:
+      - 1.b.52
+      - 1.b.52.r2
+      - 1.b.53
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+  nutz-plugins-sfntly:
+    lastUpdated: 20170224034854
+    latest: 1.r.60.r3
+    release: 1.r.60.r3
+    versions:
+      - 1.r.57.r3
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+  nutz-plugins-sigar:
+    lastUpdated: 20170419123542
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-slog:
+    lastUpdated: 20170419123543
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-spring-boot-starter:
+    lastUpdated: 20170419124807
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.61.r2
+  nutz-plugins-sqltpl:
+    lastUpdated: 20170419123543
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.53
+      - 1.b.53.r2
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-validation:
+    lastUpdated: 20170419123544
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-views:
+    lastUpdated: 20170419123544
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52.preview
+      - 1.b.53
+      - 1.r.54.r2
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-webqq:
+    lastUpdated: 20160723144311
+    latest: 1.r.57
+    release: 1.r.57
+    versions:
+      - 1.r.57
+  nutz-plugins-websocket:
+    lastUpdated: 20170419123544
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-plugins-xmlentitymaker:
+    lastUpdated: 20170419123545
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutz-qrcode:
+    lastUpdated: 20151013203050
+    latest: 1.b.53
+    release: 1.b.53
+    versions:
+      - 1.b.53
+  nutz-vfs:
+    lastUpdated: 20170116040104
+    latest: 1.r.60
+    release: 1.r.60
+    versions:
+      - 1.r.60
+  nutz-web:
+    lastUpdated: 20170419131616
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.49
+      - 1.b.52
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.58.r2
+      - 1.r.59
+      - 1.r.60
+      - 1.r.61.r2
+  nutzdoc:
+    lastUpdated: 20110814041613
+    latest: 1.16
+    release: 1.16
+    versions:
+      - 1.16
+  nutzmongo:
+    lastUpdated: 20170419131617
+    latest: 2.13.0
+    release: 2.13.0
+    versions:
+      - 1.r.59
+      - 1.r.60
+      - 1.r.61.r2
+      - 2.13.0
+  nutzmore:
+    lastUpdated: 20170419123545
+    latest: 1.r.61.r2
+    release: 1.r.61.r2
+    versions:
+      - 1.b.52
+      - 1.b.53
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.60.r2
+      - 1.r.60.r3
+      - 1.r.60.r4
+      - 1.r.61.r2
+  nutzmore-aggregate:
+    lastUpdated: 20170123130327
+    latest: 1.r.60.r2
+    release: 1.r.60.r2
+    versions:
+      - 1.r.60.r2
+  nutzwx:
+    lastUpdated: 20170419125712
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 1.r.56
+      - 1.r.57
+      - 1.r.58
+      - 1.r.59
+      - 1.r.60
+      - 1.r.61.r2
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  rethink4j:
+    lastUpdated: 20141218082419
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  ssdb4j:
+    lastUpdated: 20160512145635
+    latest: 9.4
+    release: 9.4
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.1
+      - 8.3
+      - 8.4
+      - 8.5
+      - 8.6
+      - 8.7
+      - 8.8
+      - 9.0
+      - 9.2
+      - 9.4
+  zdoc:
+    lastUpdated: 20170116040104
+    latest: 1.r.60
+    release: 1.r.60
+    versions:
+      - 1.r.60
+

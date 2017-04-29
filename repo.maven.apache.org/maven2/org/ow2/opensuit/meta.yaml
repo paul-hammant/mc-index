@@ -1,0 +1,108 @@
+artifacts:
+  cel:
+    lastUpdated: 20100715092407
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 0.9.6
+      - 1.0
+      - 1.0.1
+  opensuit-chart:
+    lastUpdated: 20120807121720
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-core:
+    lastUpdated: 20120807121719
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-doc:
+    lastUpdated: 20100126114045
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  opensuit-parent:
+    lastUpdated: 20120807121719
+    latest: 6
+    release: 6
+    versions:
+      - 5
+      - 6
+  opensuit-quality:
+    lastUpdated: 20110508071503
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  opensuit-sample-helloworld:
+    lastUpdated: 20120807121721
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-sample-livetour:
+    lastUpdated: 20120807121721
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-sample-movies_db:
+    lastUpdated: 20120807121722
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-sample-moviesdb_dao:
+    lastUpdated: 20100715142331
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  opensuit-sample-spring:
+    lastUpdated: 20120807121722
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  opensuit-spring:
+    lastUpdated: 20120807121720
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  xmlmap-annotations:
+    lastUpdated: 20100715091930
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 0.9.6
+      - 1.0
+      - 1.0.1
+  xmlmap-core:
+    lastUpdated: 20100715091607
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 0.9.6
+      - 1.0
+      - 1.0.1
+  xmlmap-namingrules:
+    lastUpdated: 20110508071543
+    latest: {}
+    release: 1.0
+    versions:
+      - 0.9.6
+      - 1.0
+      - 1.1
+

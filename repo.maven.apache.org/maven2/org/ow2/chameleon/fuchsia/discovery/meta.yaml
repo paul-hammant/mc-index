@@ -1,0 +1,81 @@
+artifacts:
+  fuchsia-discoveries:
+    lastUpdated: 20150114102248
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  fuchsia-fake-discovery:
+    lastUpdated: 20131130100714
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  mdns:
+    lastUpdated: 20131130100714
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  org.ow2.chameleon.fuchsia.discovery.filebased:
+    lastUpdated: 20150114102248
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.discovery.knx:
+    lastUpdated: 20150114102248
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.discovery.mdns:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.discovery.philips-hue:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.discovery.upnp:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.discovery.upnp-it:
+    lastUpdated: 20140923112147
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  upnp:
+    lastUpdated: 20131130100714
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  upnp.it:
+    lastUpdated: 20131130100714
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

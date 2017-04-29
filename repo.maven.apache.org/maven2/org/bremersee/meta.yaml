@@ -1,0 +1,96 @@
+artifacts:
+  bremersee-comparator:
+    lastUpdated: 20170121213346
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  bremersee-fac:
+    lastUpdated: 20170223085013
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-fac-api:
+    lastUpdated: 20170223085013
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-fac-data-jpa:
+    lastUpdated: 20170223085014
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-fac-data-ldap:
+    lastUpdated: 20170223085014
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-fac-data-mongodb:
+    lastUpdated: 20170223085015
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-geojson:
+    lastUpdated: 20161225154642
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  bremersee-pagebuilder:
+    lastUpdated: 20170121230203
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.3
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  bremersee-sms:
+    lastUpdated: 20170121235507
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  bremersee-utils:
+    lastUpdated: 20170121201435
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+

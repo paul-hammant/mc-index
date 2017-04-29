@@ -1,0 +1,27 @@
+artifacts:
+  opentsdb:
+    lastUpdated: 20170115015303
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.1.3
+      - 2.2.0RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0
+  opentsdb-gwt-theme:
+    lastUpdated: 20151216225511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  opentsdb_gwt_theme:
+    lastUpdated: 20151216221851
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

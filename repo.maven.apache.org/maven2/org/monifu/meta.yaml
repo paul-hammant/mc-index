@@ -1,0 +1,843 @@
+artifacts:
+  asterix-atomic_2.10:
+    lastUpdated: 20151230235727
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix-atomic_2.11:
+    lastUpdated: 20151230235727
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix-atomic_sjs0.6_2.10:
+    lastUpdated: 20151230235727
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix-atomic_sjs0.6_2.11:
+    lastUpdated: 20151230235728
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix_2.10:
+    lastUpdated: 20151230235729
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix_2.11:
+    lastUpdated: 20151230235729
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix_sjs0.6_2.10:
+    lastUpdated: 20151230235730
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  asterix_sjs0.6_2.11:
+    lastUpdated: 20151230235730
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  minitest_2.10:
+    lastUpdated: 20150914124139
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.14
+  minitest_2.11:
+    lastUpdated: 20150914124139
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  minitest_sjs0.6.0-M1_2.10:
+    lastUpdated: 20141216185109
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+  minitest_sjs0.6.0-M1_2.11:
+    lastUpdated: 20141221140525
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+  minitest_sjs0.6.0-M3_2.11:
+    lastUpdated: 20141228202914
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  minitest_sjs0.6.0-RC1_2.11:
+    lastUpdated: 20150116150905
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  minitest_sjs0.6_2.10:
+    lastUpdated: 20150914124140
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.14
+  minitest_sjs0.6_2.11:
+    lastUpdated: 20150914124140
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  monifu-core-js_2.10:
+    lastUpdated: 20140526073017
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+  monifu-core-js_2.11:
+    lastUpdated: 20140526073021
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+  monifu-core-js_2.11.0-RC3:
+    lastUpdated: 20140330223434
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  monifu-core-js_2.11.0-RC4:
+    lastUpdated: 20140410084359
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  monifu-core-js_sjs0.5.0-RC1_2.10:
+    lastUpdated: 20140610135820
+    latest: 0.13.0-RC4
+    release: 0.13.0-RC4
+    versions:
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+  monifu-core-js_sjs0.5.0-RC1_2.11:
+    lastUpdated: 20140610135821
+    latest: 0.13.0-RC4
+    release: 0.13.0-RC4
+    versions:
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+  monifu-core-js_sjs0.5.0-RC2_2.10:
+    lastUpdated: 20140613105623
+    latest: 0.13.0-RC5
+    release: 0.13.0-RC5
+    versions:
+      - 0.13.0-RC5
+  monifu-core-js_sjs0.5.0-RC2_2.11:
+    lastUpdated: 20140613105623
+    latest: 0.13.0-RC5
+    release: 0.13.0-RC5
+    versions:
+      - 0.13.0-RC5
+  monifu-core-js_sjs0.5_2.10:
+    lastUpdated: 20141020111604
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-core-js_sjs0.5_2.11:
+    lastUpdated: 20141020111605
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.13.0
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-core_2.10:
+    lastUpdated: 20160328124352
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu-core_2.11:
+    lastUpdated: 20160328124353
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+      - 0.15.0
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M8
+      - 1.0-M9
+      - 1.0-M10
+      - 1.0-M11
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu-core_2.11.0-RC3:
+    lastUpdated: 20140330223436
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  monifu-core_2.11.0-RC4:
+    lastUpdated: 20140410084400
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  monifu-core_sjs0.6_2.10:
+    lastUpdated: 20160328124354
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu-core_sjs0.6_2.11:
+    lastUpdated: 20160328124354
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.15.0
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M8
+      - 1.0-M9
+      - 1.0-M10
+      - 1.0-M11
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu-js_2.10:
+    lastUpdated: 20141006215943
+    latest: 0.14.0.M7
+    release: 0.14.0.M7
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+  monifu-js_2.11:
+    lastUpdated: 20141006215943
+    latest: 0.14.0.M7
+    release: 0.14.0.M7
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+  monifu-js_sjs0.5.0-RC1_2.10:
+    lastUpdated: 20140605203713
+    latest: 0.13.0-M3
+    release: 0.13.0-M3
+    versions:
+      - 0.13.0-M1
+      - 0.13.0-M2
+      - 0.13.0-M3
+  monifu-js_sjs0.5.0-RC1_2.11:
+    lastUpdated: 20140605203713
+    latest: 0.13.0-M3
+    release: 0.13.0-M3
+    versions:
+      - 0.13.0-M1
+      - 0.13.0-M2
+      - 0.13.0-M3
+  monifu-js_sjs0.5_2.10:
+    lastUpdated: 20141020111607
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-js_sjs0.5_2.11:
+    lastUpdated: 20141020111607
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-rx-js_2.10:
+    lastUpdated: 20140526073032
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+  monifu-rx-js_2.11:
+    lastUpdated: 20140526073032
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.10.0
+  monifu-rx-js_sjs0.5.0-RC1_2.10:
+    lastUpdated: 20140610135824
+    latest: 0.13.0-RC4
+    release: 0.13.0-RC4
+    versions:
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+  monifu-rx-js_sjs0.5.0-RC1_2.11:
+    lastUpdated: 20140610135825
+    latest: 0.13.0-RC4
+    release: 0.13.0-RC4
+    versions:
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+  monifu-rx-js_sjs0.5.0-RC2_2.10:
+    lastUpdated: 20140613105625
+    latest: 0.13.0-RC5
+    release: 0.13.0-RC5
+    versions:
+      - 0.13.0-RC5
+  monifu-rx-js_sjs0.5.0-RC2_2.11:
+    lastUpdated: 20140613105625
+    latest: 0.13.0-RC5
+    release: 0.13.0-RC5
+    versions:
+      - 0.13.0-RC5
+  monifu-rx-js_sjs0.5_2.10:
+    lastUpdated: 20141020111608
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-rx-js_sjs0.5_2.11:
+    lastUpdated: 20141020111609
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.13.0
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-rx_2.10:
+    lastUpdated: 20141020111609
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu-rx_2.11:
+    lastUpdated: 20141020111610
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+  monifu_2.10:
+    lastUpdated: 20160328124355
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.13.0-M1
+      - 0.13.0-M2
+      - 0.13.0-M3
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu_2.11:
+    lastUpdated: 20160328124356
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.6
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-alpha1
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.13.0-M1
+      - 0.13.0-M2
+      - 0.13.0-M3
+      - 0.13.0-RC1
+      - 0.13.0-RC2
+      - 0.13.0-RC3
+      - 0.13.0-RC4
+      - 0.13.0-RC5
+      - 0.13.0
+      - 0.14.0.M1
+      - 0.14.0.M2
+      - 0.14.0.M3
+      - 0.14.0.M4
+      - 0.14.0.M5
+      - 0.14.0.M7
+      - 0.14.0.RC1
+      - 0.14.0.RC2
+      - 0.14.0
+      - 0.14.1
+      - 0.15.0
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0-M8
+      - 1.0-M9
+      - 1.0-M10
+      - 1.0-M11
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu_2.11.0-RC3:
+    lastUpdated: 20140330223437
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  monifu_2.11.0-RC4:
+    lastUpdated: 20140410084401
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  monifu_sjs0.6_2.10:
+    lastUpdated: 20160328124356
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  monifu_sjs0.6_2.11:
+    lastUpdated: 20160328124357
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.15.0
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0-M8
+      - 1.0-M9
+      - 1.0-M10
+      - 1.0-M11
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0-RC4
+      - 1.0
+      - 1.1
+      - 1.2
+  scalax-atomic_2.10:
+    lastUpdated: 20160104202956
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-atomic_2.11:
+    lastUpdated: 20160104202957
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-atomic_sjs0.6_2.10:
+    lastUpdated: 20160104202957
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-atomic_sjs0.6_2.11:
+    lastUpdated: 20160104202958
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-cancelable_2.10:
+    lastUpdated: 20160104202958
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-cancelable_2.11:
+    lastUpdated: 20160104202959
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-cancelable_sjs0.6_2.10:
+    lastUpdated: 20160104203000
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-cancelable_sjs0.6_2.11:
+    lastUpdated: 20160104203000
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax-future_2.10:
+    lastUpdated: 20160104203001
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-future_2.11:
+    lastUpdated: 20160104203001
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-future_sjs0.6_2.10:
+    lastUpdated: 20160104203002
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-future_sjs0.6_2.11:
+    lastUpdated: 20160104203002
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-scheduler_2.10:
+    lastUpdated: 20160104203003
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-scheduler_2.11:
+    lastUpdated: 20160104203003
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-scheduler_sjs0.6_2.10:
+    lastUpdated: 20160104203004
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax-scheduler_sjs0.6_2.11:
+    lastUpdated: 20160104203005
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalax_2.10:
+    lastUpdated: 20160104203005
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax_2.11:
+    lastUpdated: 20160104203006
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax_sjs0.6_2.10:
+    lastUpdated: 20160104203006
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+  scalax_sjs0.6_2.11:
+    lastUpdated: 20160104203007
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+

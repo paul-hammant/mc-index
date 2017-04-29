@@ -1,0 +1,69 @@
+artifacts:
+  configuration-manager:
+    lastUpdated: 20160716164109
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  entity-manager:
+    lastUpdated: 20160716164109
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  event-bus:
+    lastUpdated: 20160715103237
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io-utils:
+    lastUpdated: 20160804121818
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  jdbc-language-manager:
+    lastUpdated: 20160804121818
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jdbc-utils:
+    lastUpdated: 20160804121819
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  language-manager:
+    lastUpdated: 20160804121819
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  logback-manager:
+    lastUpdated: 20160804121819
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  node-properties:
+    lastUpdated: 20160715170657
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  task-utils:
+    lastUpdated: 20160804121820
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

@@ -1,0 +1,31 @@
+artifacts:
+  apacheds-jdbm:
+    lastUpdated: 20120228172441
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  apacheds-jdbm-parent:
+    lastUpdated: 20141119003955
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  apacheds-jdbm1:
+    lastUpdated: 20141119003955
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M2
+      - 2.0.0-M3
+  apacheds-jdbm2:
+    lastUpdated: 20141119003956
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+

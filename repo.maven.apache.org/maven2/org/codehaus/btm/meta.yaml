@@ -1,0 +1,73 @@
+artifacts:
+  btm:
+    lastUpdated: 20140703012538
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 1.2
+      - 1.3
+  btm-dist:
+    lastUpdated: 20130915153712
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.1.3
+      - 2.1.4
+  btm-jetty6-lifecycle:
+    lastUpdated: 20140703012536
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 1.3.3
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+  btm-jetty7-lifecycle:
+    lastUpdated: 20130915153713
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+  btm-parent:
+    lastUpdated: 20130915153713
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+  btm-tomcat55-lifecycle:
+    lastUpdated: 20140703012535
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 1.3.3
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+

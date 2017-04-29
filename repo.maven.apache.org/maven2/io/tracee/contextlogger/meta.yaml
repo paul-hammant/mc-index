@@ -1,0 +1,186 @@
+artifacts:
+  connector-parent:
+    lastUpdated: 20150110003706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-connector-api:
+    lastUpdated: 20150110003706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-core:
+    lastUpdated: 20151110100804
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-impl:
+    lastUpdated: 20150110003706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-integration-test:
+    lastUpdated: 20150123144741
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  contextlogger-javaee:
+    lastUpdated: 20150110003707
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-jaxws:
+    lastUpdated: 20150110003708
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-parent:
+    lastUpdated: 20151110100805
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-provider-api:
+    lastUpdated: 20150110003708
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-servlet:
+    lastUpdated: 20150110003709
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  contextlogger-utility:
+    lastUpdated: 20151110100805
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-watchdog:
+    lastUpdated: 20150110003709
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  http-connector:
+    lastUpdated: 20150110003710
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  testhelper:
+    lastUpdated: 20151110100813
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  tracee-context-logger-connector-api:
+    lastUpdated: 20141208202506
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-connector-parent:
+    lastUpdated: 20141208202507
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-http-connector:
+    lastUpdated: 20141208202507
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-impl:
+    lastUpdated: 20141208202508
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-integration-test:
+    lastUpdated: 20141208202508
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-javaee:
+    lastUpdated: 20141208202509
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-jaxws:
+    lastUpdated: 20141208202509
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-parent:
+    lastUpdated: 20141208202510
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-provider-api:
+    lastUpdated: 20141208202510
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-servlet:
+    lastUpdated: 20141208202510
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  tracee-context-logger-watchdog:
+    lastUpdated: 20141208202511
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+

@@ -1,0 +1,74 @@
+artifacts:
+  bagri:
+    lastUpdated: 20170208213618
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  bagri-client:
+    lastUpdated: 20170208213618
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  bagri-client-hazelcast:
+    lastUpdated: 20170208213619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+  bagri-core:
+    lastUpdated: 20170208213619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+  bagri-rest:
+    lastUpdated: 20170208213620
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+  bagri-server:
+    lastUpdated: 20170208213620
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  bagri-server-hazelcast:
+    lastUpdated: 20170208213621
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+  bagri-xqj:
+    lastUpdated: 20170208213621
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+  bagri-xquery:
+    lastUpdated: 20170208213621
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  bagri-xquery-saxon:
+    lastUpdated: 20170208213622
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.0-EA2
+      - 1.1.1
+

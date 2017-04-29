@@ -1,0 +1,84 @@
+artifacts:
+  generic-data:
+    lastUpdated: 20160526203400
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+  generic-data-dao:
+    lastUpdated: 20160526203400
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+  generic-data-service:
+    lastUpdated: 20160526203400
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+  generic-data-utils:
+    lastUpdated: 20160526203401
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+  hedgehog:
+    lastUpdated: 20160710165320
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  hedgehog-core:
+    lastUpdated: 20160710165320
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  hedgehog-guice:
+    lastUpdated: 20160710165320
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  hedgehog-spring:
+    lastUpdated: 20160710165320
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  hedgehog-weld:
+    lastUpdated: 20160710165321
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  licensius:
+    lastUpdated: 20150216214731
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

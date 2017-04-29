@@ -1,0 +1,97 @@
+artifacts:
+  microbean-cdi:
+    lastUpdated: 20170404225208
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.2
+  microbean-commons-cli:
+    lastUpdated: 20170405193942
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  microbean-configuration:
+    lastUpdated: 20170404214936
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbean-configuration-api:
+    lastUpdated: 20170404213837
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbean-configuration-cdi:
+    lastUpdated: 20170404224400
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  microbean-grizzly-http-server-cdi:
+    lastUpdated: 20170404230817
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  microbean-jersey-container-grizzly2-http-cdi:
+    lastUpdated: 20170405062308
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  microbean-jersey-container-grizzly2-http-cdi-extension:
+    lastUpdated: 20170405162715
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  microbean-launcher:
+    lastUpdated: 20170410154418
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  microbean-main:
+    lastUpdated: 20170404223332
+    latest: 6
+    release: 6
+    versions:
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  microbean-maven-cdi:
+    lastUpdated: 20170405180119
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.2
+  microbean-parent-pom:
+    lastUpdated: 20170311190735
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+  microbean-pluginmanagement-pom:
+    lastUpdated: 20170404210910
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 2
+      - 3
+

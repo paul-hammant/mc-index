@@ -1,0 +1,351 @@
+artifacts:
+  answerparser:
+    lastUpdated: 20170410092955
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  bmotion:
+    lastUpdated: 20161106211913
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.1
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.3.0
+      - 0.3.1
+  bmotion-prob:
+    lastUpdated: 20161106212333
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.1
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.3.0
+      - 0.3.1
+  bparser:
+    lastUpdated: 20170410092955
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  cliparser:
+    lastUpdated: 20170410092955
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  de.prob2.kernel:
+    lastUpdated: 20170410110839
+    latest: 3.2.1
+    release: 3.2.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 3.0.0
+      - 3.1.0
+      - 3.2.1
+  eventbalg:
+    lastUpdated: 20170410092956
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  eventbstruct:
+    lastUpdated: 20170410092956
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  infolog-parser:
+    lastUpdated: 20150808225959
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ltl-dsl:
+    lastUpdated: 20150812120615
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ltlparser:
+    lastUpdated: 20170410092956
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  parserbase:
+    lastUpdated: 20170410092957
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  prob2-ui-servlets:
+    lastUpdated: 20160816150914
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.2
+      - 2.0.3
+  probkodkod:
+    lastUpdated: 20161007065222
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  prologlib:
+    lastUpdated: 20170410092957
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  ptolemy-jfmi:
+    lastUpdated: 20150803002749
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  rodin-eventb-ast:
+    lastUpdated: 20160224140751
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.2.0
+  sablecc:
+    lastUpdated: 20170310154031
+    latest: 3.2.13
+    release: 3.2.13
+    versions:
+      - 3.2.10
+      - 3.2.11
+      - 3.2.12
+      - 3.2.13
+  theorymapping:
+    lastUpdated: 20170410092958
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  tla2bAST:
+    lastUpdated: 20160224135848
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.7
+      - 1.0.8
+  tlatools:
+    lastUpdated: 20160224134457
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+  tlc4b:
+    lastUpdated: 20150819064811
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  translator:
+    lastUpdated: 20170410092958
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  typechecker:
+    lastUpdated: 20170410092958
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  unicode:
+    lastUpdated: 20170410092959
+    latest: 2.9.2
+    release: 2.9.2
+    versions:
+      - 2.4.40
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.6
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+  virtual-kata-lib:
+    lastUpdated: 20161128083147
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+

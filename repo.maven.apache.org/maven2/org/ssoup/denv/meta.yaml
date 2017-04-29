@@ -1,0 +1,74 @@
+artifacts:
+  denv:
+    lastUpdated: 20150316172720
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-cli:
+    lastUpdated: 20150316172721
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-client:
+    lastUpdated: 20150316172721
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-core:
+    lastUpdated: 20150316172721
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-core-containerization:
+    lastUpdated: 20150316172722
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-integration-tests:
+    lastUpdated: 20150316172722
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-server:
+    lastUpdated: 20150316172722
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-server-containerization:
+    lastUpdated: 20150316172723
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-server-docker:
+    lastUpdated: 20150316172723
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-server-mongodb:
+    lastUpdated: 20150316172724
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-server-rundeck:
+    lastUpdated: 20150316172724
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  denv-web:
+    lastUpdated: 20150316172724
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+

@@ -1,0 +1,44 @@
+artifacts:
+  client:
+    lastUpdated: 20170331192145
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  example:
+    lastUpdated: 20170331192145
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  grpc-client:
+    lastUpdated: 20170331192145
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  hadoop:
+    lastUpdated: 20170331192145
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  vitess-connector-java:
+    lastUpdated: 20170331192146
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  vitess-parent:
+    lastUpdated: 20170331192146
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+

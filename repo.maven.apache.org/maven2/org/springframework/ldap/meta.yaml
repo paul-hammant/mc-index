@@ -1,0 +1,149 @@
+artifacts:
+  spring-ldap:
+    lastUpdated: 20120813183132
+    latest: 1.3.1.RELEASE
+    release: 1.3.1.RELEASE
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+  spring-ldap-core:
+    lastUpdated: 20170120201058
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-core-tiger:
+    lastUpdated: 20170120201058
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-integration-tests:
+    lastUpdated: 20120813183125
+    latest: 1.3.1.RELEASE
+    release: 1.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+  spring-ldap-integration-tests-parent:
+    lastUpdated: 20120813183126
+    latest: 1.3.1.RELEASE
+    release: 1.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+  spring-ldap-ldif-batch:
+    lastUpdated: 20170120201058
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-ldif-core:
+    lastUpdated: 20170120201059
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-odm:
+    lastUpdated: 20170120201059
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-parent:
+    lastUpdated: 20120813183128
+    latest: 1.3.1.RELEASE
+    release: 1.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+  spring-ldap-parent-tiger:
+    lastUpdated: 20120813183132
+    latest: 1.3.1.RELEASE
+    release: 1.3.1.RELEASE
+    versions:
+      - 1.3.1.RELEASE
+  spring-ldap-test:
+    lastUpdated: 20170120201059
+    latest: 2.3.1.RELEASE
+    release: 2.3.1.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.3.2.RELEASE
+      - 2.0.0.RELEASE
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.1.0.RELEASE
+      - 2.2.0.RELEASE
+      - 2.2.1.RELEASE
+      - 2.3.0.RELEASE
+      - 2.3.1.RELEASE
+  spring-ldap-tiger:
+    lastUpdated: 20120813183129
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+

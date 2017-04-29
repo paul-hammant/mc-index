@@ -1,0 +1,28 @@
+artifacts:
+  jkniv-camel:
+    lastUpdated: 20170420132709
+    latest: 2.17.4
+    release: 2.17.4
+    versions:
+      - 2.17.3
+      - 2.17.4
+  jkniv-camel-sap-jco3:
+    lastUpdated: 20170420132710
+    latest: 2.17.4
+    release: 2.17.4
+    versions:
+      - 2.17.3
+      - 2.17.4
+  jkniv-jaas-glassfish:
+    lastUpdated: 20170402032749
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  sqlegance:
+    lastUpdated: 20150217031730
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+

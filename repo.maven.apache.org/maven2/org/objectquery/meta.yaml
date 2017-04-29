@@ -1,0 +1,75 @@
+artifacts:
+  jdoobjectquery:
+    lastUpdated: 20130616150859
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-BETA1
+      - 1.0.0-BETA2
+      - 1.0.0-BETA3
+      - 1.0.0
+      - 1.0.1
+  jpaobjectquery:
+    lastUpdated: 20130616150849
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-BETA1
+      - 1.0.0-BETA2
+      - 1.0.0-BETA3
+      - 1.0.0
+      - 1.0.1
+  objectquery:
+    lastUpdated: 20141023230220
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 1.0.0-BETA1
+      - 1.0.0-BETA2
+      - 1.0.0-BETA3
+      - 1.0.0
+      - 1.0.1
+      - 1.5.0
+      - 2.0.0
+      - 2.5.0
+  objectquery-hibernate:
+    lastUpdated: 20141023230221
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.5.0
+  objectquery-jdo:
+    lastUpdated: 20141023230222
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.5.0
+  objectquery-jpa:
+    lastUpdated: 20141023230222
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.5.0
+  objectquery-orientdb:
+    lastUpdated: 20141023230223
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 2.0.0
+      - 2.5.0
+  orientdbobjectquery:
+    lastUpdated: 20130616150900
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

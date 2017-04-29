@@ -1,0 +1,39 @@
+artifacts:
+  adapter-rxjava:
+    lastUpdated: 20170410035853
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  adapter-rxjava2:
+    lastUpdated: 20170410035853
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  logging-interceptor:
+    lastUpdated: 20170410035853
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  routine:
+    lastUpdated: 20170410035854
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  support-resolver:
+    lastUpdated: 20170410035854
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+

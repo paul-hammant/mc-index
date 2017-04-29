@@ -1,0 +1,211 @@
+artifacts:
+  consumer:
+    lastUpdated: 20160228131645
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.0-SR1
+      - 3.1
+      - 3.2
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+      - 5.3.1
+      - 2.3
+      - 3.0
+      - 3.1
+      - 3.2
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+  features:
+    lastUpdated: 20160228131858
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+      - 5.3.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+  jersey-all:
+    lastUpdated: 20160228131646
+    latest: 2.22.2
+    release: 2.22.2
+    versions:
+      - 2.8
+      - 2.10.1
+      - 2.16
+      - 2.16.1
+      - 2.17
+      - 2.18
+      - 2.22
+      - 2.22.1
+      - 2.22.2
+      - 2.8
+      - 2.16
+      - 2.17
+      - 2.18
+      - 2.22
+  jersey-min:
+    lastUpdated: 20160228131647
+    latest: 2.22.2
+    release: 2.22.2
+    versions:
+      - 2.17
+      - 2.18
+      - 2.22
+      - 2.22.1
+      - 2.22.2
+      - 2.17
+      - 2.18
+      - 2.22
+  osgi-jax-rs-connector-pom:
+    lastUpdated: 20160228131858
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+      - 5.3.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+  provider-gson:
+    lastUpdated: 20150629125602
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0
+      - 2.0
+      - 2.0-SR1
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  provider-moxy:
+    lastUpdated: 20150629125603
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.1
+      - 2.0
+      - 2.0-SR1
+      - 2.0.1
+      - 2.1
+      - 2.2
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+  provider-multipart:
+    lastUpdated: 20150629125603
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.0
+      - 2.0-SR1
+      - 2.0.1
+      - 2.1
+      - 2.2
+      - 1.0
+      - 2.0
+      - 2.1
+      - 2.2
+  provider-security:
+    lastUpdated: 20150629125603
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.0
+      - 2.0-SR1
+      - 2.0.1
+      - 2.1
+      - 2.2
+      - 1.0
+      - 2.0
+      - 2.1
+      - 2.2
+  provider-sse:
+    lastUpdated: 20151227100920
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0
+      - 2.0
+      - 2.0-SR1
+      - 2.0.1
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 1.0
+      - 2.0
+      - 2.1
+      - 2.2
+  provider-swagger:
+    lastUpdated: 20160228131648
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  publisher:
+    lastUpdated: 20160228131648
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 3.3
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.2.1
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+      - 5.3.1
+      - 3.3
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.3
+  swagger-all:
+    lastUpdated: 20160228131649
+    latest: 1.5.7
+    release: 1.5.7
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.7
+

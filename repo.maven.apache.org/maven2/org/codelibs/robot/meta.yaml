@@ -1,0 +1,86 @@
+artifacts:
+  s2-robot:
+    lastUpdated: 20151006144736
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2-robot-db:
+    lastUpdated: 20151006144736
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2-robot-db-h2:
+    lastUpdated: 20151006144737
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2-robot-db-mysql:
+    lastUpdated: 20151006144737
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2-robot-db-oracle:
+    lastUpdated: 20151006144738
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2-robot-parent:
+    lastUpdated: 20151006144738
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  s2robot:
+    lastUpdated: 20150524141052
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+  s2robot-db:
+    lastUpdated: 20150524141056
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+  s2robot-db-h2:
+    lastUpdated: 20150524141102
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+  s2robot-db-mysql:
+    lastUpdated: 20150524141103
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+  s2robot-lasta:
+    lastUpdated: 20150524141105
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+  s2robot-parent:
+    lastUpdated: 20150524141107
+    latest: 1.0.0-beta1
+    release: 1.0.0-beta1
+    versions:
+      - 1.0.0-beta1
+

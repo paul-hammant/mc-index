@@ -1,0 +1,123 @@
+artifacts:
+  feign-oauth2-spring-cloud-starter:
+    lastUpdated: 20151015225919
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  feign-okhttp-spring-cloud-starter:
+    lastUpdated: 20151014201514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  funava:
+    lastUpdated: 20151024114637
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  gocd-gradle-plugin:
+    lastUpdated: 20160718200133
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  gocd-health-check-plugin:
+    lastUpdated: 20160424173627
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  gocd-sbt-plugin:
+    lastUpdated: 20160718194148
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  gocd-task-plugin-api:
+    lastUpdated: 20150924145825
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  hermes-spring-cloud-starter-stream:
+    lastUpdated: 20160711221847
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  hystrix-context-spring-boot-starter:
+    lastUpdated: 20160704224752
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  request-correlation-spring-cloud-starter:
+    lastUpdated: 20151002201416
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  ribbon-discovery-filter-spring-cloud-starter:
+    lastUpdated: 20160611172507
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+  rxjava-scheduler-spring-boot-starter:
+    lastUpdated: 20160620220916
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  rxjava-spring-boot-starter:
+    lastUpdated: 20161128023737
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  zuul-route-cassandra-spring-cloud-starter:
+    lastUpdated: 20151210014014
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  zuul-route-health-spring-cloud-starter:
+    lastUpdated: 20151124183304
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  zuul-trie-matcher-spring-cloud-starter:
+    lastUpdated: 20160201181216
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+

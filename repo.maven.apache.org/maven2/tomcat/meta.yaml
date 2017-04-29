@@ -1,0 +1,670 @@
+artifacts:
+  apache-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.23
+  bootstrap:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+      - 5.5.12
+      - 4.0.6
+  catalina:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.4
+      - 4.1.9
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  catalina-admin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  catalina-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 5.5.15
+  catalina-ant-jmx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  catalina-balancer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+      - 5.5.12
+  catalina-cluster:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.9
+      - 5.5.12
+      - 5.0.28
+      - 5.5.15
+  catalina-host-manager:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  catalina-i18n-es:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  catalina-i18n-fr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  catalina-i18n-ja:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  catalina-manager:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+      - 5.5.12
+  catalina-optional:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 5.0.28
+      - 5.5.15
+  catalina-root:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+      - 5.5.12
+  catalina-storeconfig:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+      - 5.5.15
+  commons-daemon:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.23
+  commons-el:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.23
+  commons-fileupload:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-5.5.23
+  commons-logging:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.6
+  commons-logging-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.23
+  commons-modeler:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.9-alpha
+  container_util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  core_util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  etomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  facade22:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  jasper:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.4
+      - 3.3.2
+  jasper-compiler:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.4
+      - 4.1.30
+      - 5.0.16
+      - 5.0.18
+      - 5.0.25
+      - 5.0.28
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 4.0.6
+      - 5.5.15
+  jasper-compiler-jdt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 5.5.15
+  jasper-runtime:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.4
+      - 4.1.30
+      - 5.0.16
+      - 5.0.18
+      - 5.0.25
+      - 5.0.28
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 3.3.2
+      - 4.0.6
+      - 5.5.15
+  jkconfig:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  jkshm:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.0.28
+  jsp-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.12
+      - 5.5.15
+  naming-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+  naming-factory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.18
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  naming-factory-dbcp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+      - 5.5.15
+  naming-java:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.18
+      - 5.0.28
+  naming-resources:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  servlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.6
+  servlet-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.12
+      - 5.5.15
+  servlets-cgi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+  servlets-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+  servlets-default:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  servlets-invoker:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  servlets-manager:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.1.31
+      - 4.0.6
+  servlets-ssi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+  servlets-webdav:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 4.0.6
+      - 5.5.15
+  stop-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.3
+      - 3.3.2
+  tomcat-ajp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.9
+      - 5.5.12
+      - 4.0.6
+      - 5.5.15
+  tomcat-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  tomcat-apr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+      - 5.5.15
+  tomcat-coyote:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.4
+      - 4.1.9
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 3.3.2
+      - 4.0.6
+      - 5.5.15
+  tomcat-http:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 5.5.15
+  tomcat-http11:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+      - 3.3.2
+      - 4.0.6
+  tomcat-i18n-en:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  tomcat-i18n-es:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  tomcat-i18n-fr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  tomcat-i18n-ja:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  tomcat-jk:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+  tomcat-jk2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+      - 3.3.2
+  tomcat-jkstatus-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.23
+  tomcat-jni:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.16
+      - 5.0.18
+      - 4.1.31
+      - 5.0.28
+  tomcat-juli:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  tomcat-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - common
+  tomcat-parent:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.15
+  tomcat-util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.1
+      - 5.0.16
+      - 5.0.18
+      - 5.5.4
+      - 5.5.7
+      - 5.5.7-alpha
+      - 5.5.8-alpha
+      - 5.5.9
+      - 5.5.9-alpha
+      - 5.5.12
+      - 4.1.31
+      - 5.0.28
+      - 3.3.2
+      - 4.0.6
+      - 5.5.15
+  tomcat-warp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.1.31
+  tomcat33-coyote:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  tomcat33-resource:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  tomcat4-coyote:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.1.34
+  tomcat_core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  tomcat_modules:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.2
+  warp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.6
+  webserver:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.4
+

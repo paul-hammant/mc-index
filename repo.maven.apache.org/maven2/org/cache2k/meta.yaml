@@ -1,0 +1,203 @@
+artifacts:
+  cache2k-all:
+    lastUpdated: 20170321105032
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 0.23
+  cache2k-api:
+    lastUpdated: 20170321105032
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.19.1
+      - 0.19.2
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.22.1
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+  cache2k-core:
+    lastUpdated: 20170321105032
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.19.1
+      - 0.19.2
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.22.1
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+  cache2k-ee:
+    lastUpdated: 20160902125237
+    latest: 0.28-BETA
+    release: 0.28-BETA
+    versions:
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.22.1
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+  cache2k-jcache:
+    lastUpdated: 20170321105033
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+  cache2k-jcache-api:
+    lastUpdated: 20170321105033
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+  cache2k-jcache-parent:
+    lastUpdated: 20160507092644
+    latest: 0.26-BETA
+    release: 0.26-BETA
+    versions:
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+  cache2k-jmx-api:
+    lastUpdated: 20170321105033
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.19.1
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.22.1
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+  cache2k-parent:
+    lastUpdated: 20170321105034
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 0.19.1
+      - 0.19.2
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.22.1
+      - 0.23
+      - 0.23.1
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+  cache2k-server-side:
+    lastUpdated: 20170321105034
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+  cache2k-xml-config:
+    lastUpdated: 20160902125239
+    latest: 0.28-BETA
+    release: 0.28-BETA
+    versions:
+      - 0.24-BETA
+      - 0.25-BETA
+      - 0.26-BETA
+      - 0.27-BETA
+      - 0.28-BETA
+  cache2k-xml-configuration:
+    lastUpdated: 20170321105034
+    latest: 1.0.0.CR4
+    release: 1.0.0.CR4
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+

@@ -1,0 +1,727 @@
+artifacts:
+  core:
+    lastUpdated: 20140509094020
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-base:
+    lastUpdated: 20140509094021
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-cdi:
+    lastUpdated: 20131010063555
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  core-cdi-api:
+    lastUpdated: 20140509094021
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-cdi-impl:
+    lastUpdated: 20140509094021
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-cdi-parent:
+    lastUpdated: 20140509094022
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-cdi-test:
+    lastUpdated: 20140509094022
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-cditest:
+    lastUpdated: 20131010063556
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  core-cli:
+    lastUpdated: 20131019184336
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  core-crypto:
+    lastUpdated: 20140509094022
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-db:
+    lastUpdated: 20131010063557
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  core-db-api:
+    lastUpdated: 20131113112658
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.4
+      - 1.5
+      - 1.6
+  core-db-impl:
+    lastUpdated: 20131113112658
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  core-db-parent:
+    lastUpdated: 20131113112658
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.4
+      - 1.5
+      - 1.6
+  core-db-versioning:
+    lastUpdated: 20131113112659
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  core-ee-api:
+    lastUpdated: 20131122103432
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-ee-impl:
+    lastUpdated: 20131122103433
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-ee-parent:
+    lastUpdated: 20131122103433
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-jaxrs:
+    lastUpdated: 20131010063557
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  core-jaxrs-api:
+    lastUpdated: 20140509094023
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-jaxrs-impl:
+    lastUpdated: 20140509094023
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-jaxrs-parent:
+    lastUpdated: 20140509094024
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-jooq-api:
+    lastUpdated: 20131204100847
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-jooq-impl:
+    lastUpdated: 20131204100847
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-jooq-parent:
+    lastUpdated: 20131204100847
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-jooq-test:
+    lastUpdated: 20131204100847
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-jpa-api:
+    lastUpdated: 20131122103435
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-jpa-impl:
+    lastUpdated: 20131122103435
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-jpa-parent:
+    lastUpdated: 20131122103436
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-jpa-versioning:
+    lastUpdated: 20131122103436
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  core-jsf:
+    lastUpdated: 20131021170633
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  core-jsf-api:
+    lastUpdated: 20131021170633
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-bootstrap:
+    lastUpdated: 20131021170634
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-bootstrap-login:
+    lastUpdated: 20131021170639
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-bootstrap-template:
+    lastUpdated: 20131021170659
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-charts:
+    lastUpdated: 20131021170707
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-daterangepicker:
+    lastUpdated: 20131021170708
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-flot:
+    lastUpdated: 20131021170711
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-impl:
+    lastUpdated: 20131021170713
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-jquery:
+    lastUpdated: 20131021170714
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.3
+      - 1.4
+      - 1.5
+  core-jsf-parent:
+    lastUpdated: 20131019184341
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  core-logger:
+    lastUpdated: 20140509094024
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+  core-parent:
+    lastUpdated: 20131019184341
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  core-scheduler:
+    lastUpdated: 20131122103437
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  core-scheduler-api:
+    lastUpdated: 20131204100848
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-scheduler-impl:
+    lastUpdated: 20131204100848
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-scheduler-parent:
+    lastUpdated: 20131204100849
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-security:
+    lastUpdated: 20131122103438
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  core-security-api:
+    lastUpdated: 20131204100849
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-security-impl:
+    lastUpdated: 20131204100849
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-security-parent:
+    lastUpdated: 20131204100849
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.8
+      - 1.8
+  core-test:
+    lastUpdated: 20140509094024
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.10
+      - 2.0
+

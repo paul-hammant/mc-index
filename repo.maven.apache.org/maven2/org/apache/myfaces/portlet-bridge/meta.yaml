@@ -1,0 +1,205 @@
+artifacts:
+  portlet-bridge:
+    lastUpdated: 20110405161250
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-api:
+    lastUpdated: 20110405161249
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-assembly:
+    lastUpdated: 20110405161252
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-blank:
+    lastUpdated: 20110405161251
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-carstore:
+    lastUpdated: 20110405161248
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-demo:
+    lastUpdated: 20101014105107
+    latest: 2.0.0-alpha-2
+    release: 2.0.0-alpha-2
+    versions:
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 2.0.0-alpha-2
+  portlet-bridge-example-assembly:
+    lastUpdated: 20110405161252
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-examples:
+    lastUpdated: 20110405161247
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-facelets-guess:
+    lastUpdated: 20110405161247
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-guessNumber-jsp:
+    lastUpdated: 20110405161250
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-guessNumber-jsp-mojarraFilter:
+    lastUpdated: 20110405161253
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-guessNumber-jsp-mojarraWrapper:
+    lastUpdated: 20110111171800
+    latest: 2.0.0-beta
+    release: 2.0.0-beta
+    versions:
+      - 2.0.0-beta
+  portlet-bridge-guessNumber-jsp-mojarra_v04_to_v07_Wrapper:
+    lastUpdated: 20110113165229
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  portlet-bridge-guessNumber-jsp-myFacesFilter:
+    lastUpdated: 20110405161251
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-helloDuke:
+    lastUpdated: 20110405161249
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-helloDukeCoordination:
+    lastUpdated: 20110405161250
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-impl:
+    lastUpdated: 20110405161252
+    latest: 3.0.0-alpha
+    release: 3.0.0-alpha
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-beta
+      - 1.0.0-beta-2
+      - 1.0.0
+      - 2.0.0-alpha
+      - 2.0.0-alpha-2
+      - 2.0.0-beta
+      - 2.0.0
+      - 3.0.0-alpha
+  portlet-bridge-master-pom:
+    lastUpdated: 20101014105205
+    latest: 4
+    release: 4
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 1
+      - 2
+      - 3
+      - 4
+

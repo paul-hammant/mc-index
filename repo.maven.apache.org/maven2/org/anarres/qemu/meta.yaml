@@ -1,0 +1,53 @@
+artifacts:
+  qemu-examples:
+    lastUpdated: 20160322061312
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  qemu-exec:
+    lastUpdated: 20160322061313
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  qemu-image:
+    lastUpdated: 20160322061314
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  qemu-manager:
+    lastUpdated: 20160322061314
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  qemu-qapi:
+    lastUpdated: 20160322061315
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+

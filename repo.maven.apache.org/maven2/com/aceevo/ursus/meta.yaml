@@ -1,0 +1,231 @@
+artifacts:
+  ursus-client:
+    lastUpdated: 20141025012804
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-config:
+    lastUpdated: 20141025012805
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-core:
+    lastUpdated: 20141025012806
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-db:
+    lastUpdated: 20141025012806
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-application:
+    lastUpdated: 20141025012807
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-http-client:
+    lastUpdated: 20141025012808
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-jersey-client:
+    lastUpdated: 20141025012808
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-nio-application:
+    lastUpdated: 20141025012809
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-nio-client:
+    lastUpdated: 20141025012809
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-scala-application:
+    lastUpdated: 20141025012810
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-scala-nio-application:
+    lastUpdated: 20141025012811
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-example-websocket-client:
+    lastUpdated: 20141025012811
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-parent:
+    lastUpdated: 20141025012812
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-scala_2.10.4:
+    lastUpdated: 20141025012812
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+  ursus-spi:
+    lastUpdated: 20141025012813
+    latest: 0.2.15
+    release: 0.2.15
+    versions:
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+

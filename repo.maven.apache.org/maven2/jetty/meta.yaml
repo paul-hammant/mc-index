@@ -1,0 +1,463 @@
+artifacts:
+  embedded:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jasper-compiler:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20RC0
+  jasper-runtime:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20RC0
+  javadoc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.23RC0
+  javax.servlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.1.11
+  jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.1-rc1
+      - 4.1-rc6
+      - 4.2.10
+      - 4.2.12
+      - 4.2.2
+      - 4.2.3
+      - 4.2.9
+      - 6.0.0beta1
+      - 6.0.0beta2
+      - 6.0.0beta5
+      - 6.0.0beta6
+      - 6.0.0beta9
+      - 6.0.0beta10
+      - 6.0.0beta11
+      - 6.0.0beta12
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jetty-embedded:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0
+      - 6.0.0rc3
+      - 6.0.0rc4
+  jetty-html:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0rc0
+  jetty-management:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta11
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jetty-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jetty-plus:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jetty-spring:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0rc3
+      - 6.0.0
+      - 6.0.0rc4
+  jetty-util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta1
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jetty-xbean:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  jsp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-6.0.0beta14
+      - 2.1-6.0.0beta15
+      - 2.1-6.0.0beta16
+  jsp-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0-6.0.0beta14
+      - 2.1-6.0.0beta14
+      - 2.0-6.0.0beta15
+      - 2.1-6.0.0beta15
+      - 2.0-6.0.0beta16
+      - 2.1-6.0.0beta16
+  maven-plugin-utils:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  org.jboss.jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.RC0
+  org.mortbay.ftp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.0.RC0
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.4
+      - 5.1.5rc0
+      - 5.1.5rc1
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.j2ee:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 5.0.RC0
+  org.mortbay.jaas:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.0.RC0
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.4
+      - 5.1.5rc0
+      - 5.1.5rc1
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.14
+      - 4.2.15
+      - 4.2.17
+      - 4.2.20
+      - 4.2.20RC0
+      - 4.2.21
+      - 4.2.22
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.1.5rc0
+      - 5.0.0
+      - 5.0.RC0
+      - 5.0.RC1
+      - 5.0.RC2
+      - 5.0.RC3
+      - 5.0.alpha1
+      - 5.0.alpha3
+      - 5.0.beta0
+      - 5.1.5rc1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.G0
+      - 5.1.G1
+      - 5.1.RC0
+      - 5.1.4
+      - 6.0.0alpha2
+      - 6.0.0alpha3
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.jetty-jdk1.2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.0.RC0
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.4
+      - 5.1.5rc0
+      - 5.1.5rc1
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.jetty.plus:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.0.RC0
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.4
+      - 5.1.5rc0
+      - 5.1.5rc1
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.jetty.plus.resource:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+  org.mortbay.jmx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.14
+      - 4.2.20
+      - 4.2.21
+      - 4.2.22
+      - 4.2.23
+      - 4.2.23RC0
+      - 4.2.24
+      - 5.1.5rc0
+      - 5.0.0
+      - 5.0.RC0
+      - 5.0.RC1
+      - 5.0.RC2
+      - 5.0.RC3
+      - 5.0.alpha1
+      - 5.0.beta0
+      - 5.1.5rc1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.RC0
+      - 5.1.4
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 4.2.25
+  org.mortbay.jmx-jdk1.2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 4.2.20
+      - 5.0.RC0
+  org.mortbay.jsr77:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.1.0
+      - 5.1.1
+      - 5.1.1RC0
+      - 5.1.2
+      - 5.1.2pre0
+      - 5.1.3
+      - 5.1.3rc2
+      - 5.1.3rc3
+      - 5.1.3rc4
+      - 5.1.4rc0
+      - 5.1.4
+      - 5.1.5rc0
+      - 5.1.5rc1
+      - 5.1.5rc2
+      - 5.1.5rc3
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7rc0
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+  org.mortbay.loadbalancer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.RC0
+  servlet-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.5-6.0.0beta1
+      - 2.5-6.0.0beta2
+      - 2.5-6.0.0beta5
+      - 2.5-6.0.0beta6
+      - 2.5-6.0.0beta9
+      - 2.5-6.0.0beta10
+      - 2.5-6.0.0beta11
+      - 2.5-6.0.0beta12
+      - 2.5-6.0.0beta14
+      - 2.5-6.0.0beta15
+      - 2.5-6.0.0beta16
+  start:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.alpha1
+      - 6.0.0beta14
+      - 6.0.0beta15
+      - 6.0.0beta16
+  stop:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.alpha1
+

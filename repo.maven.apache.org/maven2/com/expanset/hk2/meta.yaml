@@ -1,0 +1,37 @@
+artifacts:
+  hk2:
+    lastUpdated: 20150616154831
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  hk2-contrib:
+    lastUpdated: 20150616154832
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  hk2-persistence:
+    lastUpdated: 20150616154832
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  hk2-persistence-jpa:
+    lastUpdated: 20150616154833
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  hk2-persistence-ormlite:
+    lastUpdated: 20150616154833
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

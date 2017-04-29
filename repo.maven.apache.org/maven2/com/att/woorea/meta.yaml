@@ -1,0 +1,120 @@
+artifacts:
+  cinder-client:
+    lastUpdated: 20170420204713
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  cinder-model:
+    lastUpdated: 20170420204713
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  glance-client:
+    lastUpdated: 20170420204713
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  glance-model:
+    lastUpdated: 20170420204713
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  heat-client:
+    lastUpdated: 20170420204714
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  heat-model:
+    lastUpdated: 20170420204714
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  jersey-connector:
+    lastUpdated: 20170420204714
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  jersey2-connector:
+    lastUpdated: 20170420204715
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.27
+  keystone-client:
+    lastUpdated: 20170420204715
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  keystone-model:
+    lastUpdated: 20170420204715
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  nova-client:
+    lastUpdated: 20170420204715
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  nova-model:
+    lastUpdated: 20170420204715
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  openstack-client:
+    lastUpdated: 20170420204716
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  openstack-client-connectors:
+    lastUpdated: 20170420204716
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  openstack-java-sdk:
+    lastUpdated: 20170420204716
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  quantum-client:
+    lastUpdated: 20170420204716
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+  quantum-model:
+    lastUpdated: 20170420204716
+    latest: 3.3.27
+    release: 3.3.27
+    versions:
+      - 3.3.24
+      - 3.3.27
+

@@ -1,0 +1,104 @@
+artifacts:
+  insight-elasticsearch:
+    lastUpdated: 20140124182354
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+  insight-graph:
+    lastUpdated: 20140124182357
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+  insight-log:
+    lastUpdated: 20140124182359
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+  insight-log-core:
+    lastUpdated: 20140124182400
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+  insight-log-elasticsearch:
+    lastUpdated: 20140124182401
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+  insight-log4j:
+    lastUpdated: 20140124182402
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+  insight-maven:
+    lastUpdated: 20140124182404
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+  insight-maven-web:
+    lastUpdated: 20140124182406
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+  insight-project:
+    lastUpdated: 20140124182408
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+

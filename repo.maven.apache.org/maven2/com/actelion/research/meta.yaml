@@ -1,0 +1,83 @@
+artifacts:
+  image-provider-omero:
+    lastUpdated: 20170406122017
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.1.0
+      - 1.2.3
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.6
+      - 1.3.7
+      - 1.3.9
+      - 1.4.0
+  lib-orbit-common:
+    lastUpdated: 20170316145636
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  map-reduce-exec-spark:
+    lastUpdated: 20161020130914
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  map-reduce-generic:
+    lastUpdated: 20161020130125
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.7
+      - 1.0.8
+  openchemlib:
+    lastUpdated: 20170401023254
+    latest: 2017.4.0
+    release: 2017.4.0
+    versions:
+      - 2016.4.0
+      - 2016.4.1
+      - 2016.5.0
+      - 2016.6.0
+      - 2016.7.0
+      - 2016.8.0
+      - 2016.8.1
+      - 2016.9.0
+      - 2016.10.0
+      - 2016.11.0
+      - 2016.12.0
+      - 2017.1.0
+      - 2017.2.0
+      - 2017.3.0
+      - 2017.4.0
+  orbit-image-analysis:
+    lastUpdated: 20170407124939
+    latest: 2.53
+    release: 2.53
+    versions:
+      - 2.3
+      - 2.4
+      - 2.41
+      - 2.42
+      - 2.43
+      - 2.52
+      - 2.53
+      - 2.30
+      - 2.40
+      - 2.41
+      - 2.42
+      - 2.43
+      - 2.52
+      - 2.53
+

@@ -1,0 +1,271 @@
+artifacts:
+  abeilleformbuilder:
+    lastUpdated: 20120213131035
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+  cssbuilder:
+    lastUpdated: 20130311150910
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 1.0.0
+      - 0.4
+      - 0.5
+      - 0.6
+  flamingobuilder:
+    lastUpdated: 20120213215229
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  gfxbuilder-core:
+    lastUpdated: 20130118133117
+    latest: {}
+    release: {}
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  gfxbuilder-svg:
+    lastUpdated: 20130118133125
+    latest: {}
+    release: {}
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  gfxbuilder-swingx:
+    lastUpdated: 20130118133131
+    latest: {}
+    release: {}
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  gradle-griffon-plugin:
+    lastUpdated: 20130111084554
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+  griffon-cli:
+    lastUpdated: 20130910064446
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.2-beta-3
+      - 0.9.2-rc1
+      - 0.9.2
+      - 0.9.3-beta-1
+      - 0.9.3-beta-2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-rc1
+      - 0.9.5-rc2
+      - 0.9.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  griffon-gradle-plugin:
+    lastUpdated: 20111020025212
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  griffon-launcher:
+    lastUpdated: 20130111084452
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+  griffon-launcher-ant:
+    lastUpdated: 20130111084500
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+  griffon-resources:
+    lastUpdated: 20130910064500
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.2-beta-3
+      - 0.9.2-rc1
+      - 0.9.2
+      - 0.9.3-beta-1
+      - 0.9.3-beta-2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-rc1
+      - 0.9.5-rc2
+      - 0.9.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  griffon-rt:
+    lastUpdated: 20130910064511
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.2-beta-3
+      - 0.9.2-rc1
+      - 0.9.2
+      - 0.9.3-beta-1
+      - 0.9.3-beta-2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-rc1
+      - 0.9.5-rc2
+      - 0.9.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  griffon-scripts:
+    lastUpdated: 20130910064525
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.2-beta-3
+      - 0.9.2-rc1
+      - 0.9.2
+      - 0.9.3-beta-1
+      - 0.9.3-beta-2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-rc1
+      - 0.9.5-rc2
+      - 0.9.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  griffon-shell:
+    lastUpdated: 20130910064535
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5-rc1
+      - 0.9.5-rc2
+      - 0.9.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  jidebuilder:
+    lastUpdated: 20121021110409
+    latest: {}
+    release: {}
+    versions:
+      - 3.0
+      - 4.0
+      - 5.0
+      - 6.0
+      - 3.0
+      - 4.0
+      - 5.0
+      - 6.0
+  jsilhouette-geom:
+    lastUpdated: 20110405161949
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 0.4
+  macwidgetsbuilder:
+    lastUpdated: 20120213215328
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.4
+      - 0.5
+  swingxbuilder:
+    lastUpdated: 20121011144854
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.7
+      - 0.1.8
+      - 0.1.8.1
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  swingxtrasbuilder:
+    lastUpdated: 20120213215430
+    latest: {}
+    release: {}
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.2
+      - 0.3
+      - 0.4
+  tridentbuilder:
+    lastUpdated: 20120213223150
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+

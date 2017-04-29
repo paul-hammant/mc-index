@@ -1,0 +1,131 @@
+artifacts:
+  dkpro-tc:
+    lastUpdated: 20161031103429
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-api:
+    lastUpdated: 20161031103430
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-api-features:
+    lastUpdated: 20161031103430
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-core:
+    lastUpdated: 20161031103430
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-evaluation:
+    lastUpdated: 20161031103430
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-features:
+    lastUpdated: 20161031103431
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-features-ngram:
+    lastUpdated: 20161031103431
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-features-pair:
+    lastUpdated: 20161031103432
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-features-pair-similarity:
+    lastUpdated: 20161031103432
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  dkpro-tc-features-spelling:
+    lastUpdated: 20161031103432
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-fstore-simple:
+    lastUpdated: 20161031103433
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-ml:
+    lastUpdated: 20161031103433
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-ml-crfsuite:
+    lastUpdated: 20161031103433
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-ml-liblinear:
+    lastUpdated: 20161031103434
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-ml-libsvm:
+    lastUpdated: 20161031103434
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  dkpro-tc-ml-mallet:
+    lastUpdated: 20160421104544
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  dkpro-tc-ml-svmhmm:
+    lastUpdated: 20161031103434
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-ml-weka:
+    lastUpdated: 20161031103435
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  dkpro-tc-testing:
+    lastUpdated: 20161031103435
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+

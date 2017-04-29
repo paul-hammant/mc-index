@@ -1,0 +1,92 @@
+artifacts:
+  genericconnector-api:
+    lastUpdated: 20151005184533
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  genericconnector-atomikos-api:
+    lastUpdated: 20151005184533
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  genericconnector-atomikos-impl:
+    lastUpdated: 20151005184533
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  genericconnector-bitronix-api:
+    lastUpdated: 20151005184534
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  genericconnector-bitronix-impl:
+    lastUpdated: 20151005184534
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  genericconnector-impl:
+    lastUpdated: 20151005184534
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  genericconnector-javase-common:
+    lastUpdated: 20151005184535
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  genericconnector-parent:
+    lastUpdated: 20151005184535
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  genericconnector-rar:
+    lastUpdated: 20151005184535
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  rules:
+    lastUpdated: 20170221204738
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+  rules-java8:
+    lastUpdated: 20170221204738
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+  rules-parent:
+    lastUpdated: 20170221204739
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+  rules-scala:
+    lastUpdated: 20170221204739
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+

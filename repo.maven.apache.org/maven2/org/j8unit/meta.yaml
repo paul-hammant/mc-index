@@ -1,0 +1,42 @@
+artifacts:
+  core:
+    lastUpdated: 20161202141447
+    latest: 4.12.1
+    release: 4.12.1
+    versions:
+      - 4.12
+      - 4.12.1
+      - 4.12
+  javadoc:
+    lastUpdated: 20151117194021
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  parent:
+    lastUpdated: 20161202141447
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  project:
+    lastUpdated: 20151117194021
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  repository:
+    lastUpdated: 20161202141448
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spring:
+    lastUpdated: 20151117194021
+    latest: 4.1.7
+    release: 4.1.7
+    versions:
+      - 4.1.7
+

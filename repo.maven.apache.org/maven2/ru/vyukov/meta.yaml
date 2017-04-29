@@ -1,0 +1,29 @@
+artifacts:
+  another-live-refresh:
+    lastUpdated: 20170403174057
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.0.9
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.2.1
+  another-live-refresh-spring-boot-starter:
+    lastUpdated: 20170403174057
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.2.1
+  spring-boot-starter-prometheus:
+    lastUpdated: 20161020120510
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

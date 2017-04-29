@@ -1,0 +1,107 @@
+artifacts:
+  essentials:
+    lastUpdated: 20160926094011
+    latest: 3.0.0-RC1
+    release: 3.0.0-RC1
+    versions:
+      - 3.0.0-RC1
+  eventbus:
+    lastUpdated: 20160202144403
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  eventbus-annotation-processor:
+    lastUpdated: 20160210204038
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  greendao:
+    lastUpdated: 20170403142327
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-beta
+      - 3.0.0-beta3
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.2
+  greendao-api:
+    lastUpdated: 20170403142328
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.2
+  greendao-code-modifier:
+    lastUpdated: 20170404191500
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.0.0-beta
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  greendao-encryption:
+    lastUpdated: 20160629062014
+    latest: 3.0.0-beta3
+    release: 3.0.0-beta3
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-beta3
+  greendao-generator:
+    lastUpdated: 20170403142328
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 2.2.0
+      - 3.0.0-beta
+      - 3.0.0-beta3
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.2.2
+  greendao-generator-encryption:
+    lastUpdated: 20160417194156
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  greendao-gradle-plugin:
+    lastUpdated: 20170404191501
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.0.0-beta
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  greenrobot-jdt:
+    lastUpdated: 20170404191502
+    latest: 3.12.2
+    release: 3.12.2
+    versions:
+      - 3.12.2
+

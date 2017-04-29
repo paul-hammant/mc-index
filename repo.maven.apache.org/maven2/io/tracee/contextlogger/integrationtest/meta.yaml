@@ -1,0 +1,38 @@
+artifacts:
+  contextlogger-general-integration-test:
+    lastUpdated: 20151110100811
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-integration-test-parent:
+    lastUpdated: 20151110100812
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-profile-integration-test:
+    lastUpdated: 20151110100812
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+  contextlogger-testcontextprovider-for-integration-test:
+    lastUpdated: 20151110100812
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+

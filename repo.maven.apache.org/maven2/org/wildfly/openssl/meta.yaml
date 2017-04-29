@@ -1,0 +1,190 @@
+artifacts:
+  wildfly-openssl:
+    lastUpdated: 20170420062335
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-java:
+    lastUpdated: 20170420062336
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-linux:
+    lastUpdated: 20161104031338
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  wildfly-openssl-linux-i386:
+    lastUpdated: 20170420060227
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-linux-i686:
+    lastUpdated: 20170106044810
+    latest: 1.0.0.Beta2
+    release: 1.0.0.Beta2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+  wildfly-openssl-linux-x86_64:
+    lastUpdated: 20170420060227
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-mac:
+    lastUpdated: 20161104031136
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  wildfly-openssl-macosx-x86_64:
+    lastUpdated: 20170420053953
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-parent:
+    lastUpdated: 20170420053954
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-solaris-sparcv9:
+    lastUpdated: 20170420060210
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-solaris-x86_64:
+    lastUpdated: 20170420060153
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-windows:
+    lastUpdated: 20161104032205
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  wildfly-openssl-windows-i386:
+    lastUpdated: 20170420060118
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  wildfly-openssl-windows-i686:
+    lastUpdated: 20170106044123
+    latest: 1.0.0.Beta2
+    release: 1.0.0.Beta2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta2
+  wildfly-openssl-windows-x86_64:
+    lastUpdated: 20170420060135
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta4
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+

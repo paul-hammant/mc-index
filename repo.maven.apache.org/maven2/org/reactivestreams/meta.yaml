@@ -1,0 +1,52 @@
+artifacts:
+  reactive-streams:
+    lastUpdated: 20150504152437
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.4.0.M1
+      - 0.4.0.M2
+      - 0.4.0
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0
+  reactive-streams-examples:
+    lastUpdated: 20150504153657
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0
+  reactive-streams-spi:
+    lastUpdated: 20140414211356
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  reactive-streams-tck:
+    lastUpdated: 20150504153606
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3
+      - 0.4.0.M2
+      - 0.4.0
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0
+

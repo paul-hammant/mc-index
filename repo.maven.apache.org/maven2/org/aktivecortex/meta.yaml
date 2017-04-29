@@ -1,0 +1,78 @@
+artifacts:
+  aktivecortex:
+    lastUpdated: 20131219165353
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-axon2-backport:
+    lastUpdated: 20131219165354
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-core:
+    lastUpdated: 20131219165354
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-ejb:
+    lastUpdated: 20131218145743
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  aktivecortex-foo-commonj:
+    lastUpdated: 20131219165354
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-jms:
+    lastUpdated: 20131219165354
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-jms-activemq:
+    lastUpdated: 20131219165355
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-mail:
+    lastUpdated: 20131219165355
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  aktivecortex-tracing:
+    lastUpdated: 20131218145744
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  aktivecortex-web:
+    lastUpdated: 20131219165356
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+

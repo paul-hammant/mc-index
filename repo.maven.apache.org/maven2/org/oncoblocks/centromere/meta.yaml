@@ -1,0 +1,62 @@
+artifacts:
+  centromere-core:
+    lastUpdated: 20160720195632
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  centromere-data-import-cli:
+    lastUpdated: 20160720195632
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  centromere-jpa:
+    lastUpdated: 20160720195632
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.1
+      - 0.4.2
+  centromere-mongodb:
+    lastUpdated: 20160720195632
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  centromere-parent:
+    lastUpdated: 20160720195633
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  centromere-sql:
+    lastUpdated: 20160720195633
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  centromere-web:
+    lastUpdated: 20160720195633
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+

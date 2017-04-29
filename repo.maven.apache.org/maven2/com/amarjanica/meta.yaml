@@ -1,0 +1,24 @@
+artifacts:
+  discourse-scala-client_2.10:
+    lastUpdated: 20170226145518
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  discourse-scala-client_2.11:
+    lastUpdated: 20170312131819
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.2
+  discourse-scala-client_2.12:
+    lastUpdated: 20170226150306
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+

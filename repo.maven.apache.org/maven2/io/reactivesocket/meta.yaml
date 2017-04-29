@@ -1,0 +1,99 @@
+artifacts:
+  reactivesocket-client:
+    lastUpdated: 20170408215958
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-core:
+    lastUpdated: 20170408215958
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-discovery-eureka:
+    lastUpdated: 20170408215958
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-examples:
+    lastUpdated: 20170408215958
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-mime-types:
+    lastUpdated: 20170109230450
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  reactivesocket-publishers:
+    lastUpdated: 20170109230451
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  reactivesocket-spectator:
+    lastUpdated: 20170408215959
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-tck-drivers:
+    lastUpdated: 20170408215959
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  reactivesocket-test:
+    lastUpdated: 20170408215959
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-transport-aeron:
+    lastUpdated: 20170408220000
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-transport-local:
+    lastUpdated: 20170408220000
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+  reactivesocket-transport-netty:
+    lastUpdated: 20170408220000
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  reactivesocket-transport-tcp:
+    lastUpdated: 20170109230453
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+

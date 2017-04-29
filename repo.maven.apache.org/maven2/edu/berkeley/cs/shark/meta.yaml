@@ -1,0 +1,100 @@
+artifacts:
+  hive-anttasks:
+    lastUpdated: 20140409000808
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-beeline:
+    lastUpdated: 20140409000810
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-cli:
+    lastUpdated: 20140409000810
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-common:
+    lastUpdated: 20140409000811
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-contrib:
+    lastUpdated: 20140409000812
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-exec:
+    lastUpdated: 20140409000813
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-hbase-handler:
+    lastUpdated: 20140409000814
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-hwi:
+    lastUpdated: 20140409000815
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-jdbc:
+    lastUpdated: 20140409000815
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-metastore:
+    lastUpdated: 20140409000816
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-serde:
+    lastUpdated: 20140409000817
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-service:
+    lastUpdated: 20140409000818
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  hive-shims:
+    lastUpdated: 20140409000818
+    latest: 0.11.0-shark-0.9.1
+    release: 0.11.0-shark-0.9.1
+    versions:
+      - 0.11.0-shark
+      - 0.11.0-shark-0.9.1
+  shark_2.10:
+    lastUpdated: 20140410080011
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+

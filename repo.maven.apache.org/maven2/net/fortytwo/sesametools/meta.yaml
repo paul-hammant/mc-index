@@ -1,0 +1,198 @@
+artifacts:
+  caching-sail:
+    lastUpdated: 20160724032248
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  common:
+    lastUpdated: 20160724032248
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  constrained-sail:
+    lastUpdated: 20160724032248
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  deduplication-sail:
+    lastUpdated: 20160724032248
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  linked-data-server:
+    lastUpdated: 20160724032249
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  mapping-sail:
+    lastUpdated: 20160724032249
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  nquads:
+    lastUpdated: 20130307184434
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  rdf-transaction-sail:
+    lastUpdated: 20160724032249
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  rdfjson:
+    lastUpdated: 20130307184435
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  readonly-sail:
+    lastUpdated: 20160724032250
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  replay-sail:
+    lastUpdated: 20160724032250
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  repository-sail:
+    lastUpdated: 20160724032250
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  sesametools-all:
+    lastUpdated: 20160724032251
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  sesamize:
+    lastUpdated: 20160724032251
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  uri-translator:
+    lastUpdated: 20160724032251
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  writeonly-sail:
+    lastUpdated: 20160724032252
+    latest: 1.10
+    release: 1.10
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.10
+

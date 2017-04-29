@@ -1,0 +1,311 @@
+artifacts:
+  diffson-circe_2.11:
+    lastUpdated: 20170131174208
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-circe_2.12:
+    lastUpdated: 20170131174209
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-core_2.10:
+    lastUpdated: 20170131174209
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.1
+      - 2.1.2
+  diffson-core_2.11:
+    lastUpdated: 20170131174210
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-core_2.12:
+    lastUpdated: 20170131174211
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-play-json_2.11:
+    lastUpdated: 20170131174211
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-play-json_2.12:
+    lastUpdated: 20170131174212
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.1
+      - 2.1.2
+  diffson-spray-json_2.10:
+    lastUpdated: 20170131174212
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.1
+      - 2.1.2
+  diffson-spray-json_2.11:
+    lastUpdated: 20170131174213
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson-spray-json_2.12:
+    lastUpdated: 20170131174213
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  diffson_2.10:
+    lastUpdated: 20160208114951
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.3.1
+      - 1.1.0
+      - 0.1
+      - 0.2
+      - 0.3
+  diffson_2.11:
+    lastUpdated: 20160526144815
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 0.3
+      - 0.3.1
+      - 1.1.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 0.3
+  diffson_2.9.3:
+    lastUpdated: 20131019133416
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  gnieh-pp_2.10:
+    lastUpdated: 20130109214152
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  gnieh-pp_2.9.2:
+    lastUpdated: 20130109214154
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  logback-journal:
+    lastUpdated: 20170404060055
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  sohva-client_2.10:
+    lastUpdated: 20150123125111
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+  sohva-client_2.11:
+    lastUpdated: 20150123125112
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-client_2.9.2:
+    lastUpdated: 20130323094639
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  sohva-client_2.9.3:
+    lastUpdated: 20140201174133
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.3
+      - 0.4
+      - 0.5
+  sohva-dm_2.10:
+    lastUpdated: 20150123125112
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-dm_2.11:
+    lastUpdated: 20150123125113
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-dsl_2.10:
+    lastUpdated: 20130610183640
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  sohva-entities_2.10:
+    lastUpdated: 20150123125114
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-entities_2.11:
+    lastUpdated: 20150123125115
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-testing_2.10:
+    lastUpdated: 20150123125115
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.3
+      - 0.4
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 0.3
+      - 0.4
+  sohva-testing_2.11:
+    lastUpdated: 20150123125116
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  sohva-testing_2.9.3:
+    lastUpdated: 20131019142032
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+      - 0.3
+      - 0.4
+  sohva_2.11:
+    lastUpdated: 20170314180600
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+  sohva_2.12:
+    lastUpdated: 20170314180602
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+  sohva_2.9.2:
+    lastUpdated: 20121025184111
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  tiscaf-rest_2.10:
+    lastUpdated: 20140912173420
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  tiscaf-rest_2.11:
+    lastUpdated: 20140912173420
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  tiscaf_2.10:
+    lastUpdated: 20140912173127
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  tiscaf_2.11:
+    lastUpdated: 20140912173127
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+      - 0.9
+  tiscaf_2.9.3:
+    lastUpdated: 20140912173128
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+

@@ -1,0 +1,366 @@
+artifacts:
+  hawkular-bus-broker:
+    lastUpdated: 20151201183439
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-broker-wf-extension:
+    lastUpdated: 20151201183441
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-common:
+    lastUpdated: 20151204101329
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.8.0.Final
+  hawkular-bus-feature-pack:
+    lastUpdated: 20151204101330
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.8.0.Final
+  hawkular-bus-itests:
+    lastUpdated: 20151204101330
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.8.0.Final
+  hawkular-bus-mdb:
+    lastUpdated: 20151204101331
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.8.0.Final
+  hawkular-bus-parent:
+    lastUpdated: 20151204101331
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.8.0.Final
+  hawkular-bus-ra-wf-module:
+    lastUpdated: 20151201183445
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-rest-client:
+    lastUpdated: 20151204101332
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.8.0.Final
+  hawkular-bus-sample-client:
+    lastUpdated: 20151201183447
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-sample-jsonschema:
+    lastUpdated: 20151201183448
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-sample-mdb:
+    lastUpdated: 20151201183449
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-sample-vt-mdb:
+    lastUpdated: 20151201183450
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-samples-parent:
+    lastUpdated: 20151201183451
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-bus-test-common:
+    lastUpdated: 20151201183451
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.6.1.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-feed-comm-api:
+    lastUpdated: 20150902131224
+    latest: 0.5.0.Final
+    release: 0.5.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+  hawkular-feed-comm-parent:
+    lastUpdated: 20150902131225
+    latest: 0.5.0.Final
+    release: 0.5.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+  hawkular-feed-comm-war:
+    lastUpdated: 20150902131226
+    latest: 0.5.0.Final
+    release: 0.5.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.3.2.Final
+      - 0.3.3.Final
+      - 0.3.4
+      - 0.4.0
+      - 0.5.0.Final
+

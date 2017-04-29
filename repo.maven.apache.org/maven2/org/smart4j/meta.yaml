@@ -1,0 +1,151 @@
+artifacts:
+  smart:
+    lastUpdated: 20140425053016
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+  smart-cache:
+    lastUpdated: 20140603075854
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-cache-ehcache:
+    lastUpdated: 20140603075855
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-cache-redis:
+    lastUpdated: 20140425053017
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+  smart-framework:
+    lastUpdated: 20140714070219
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.2
+      - 2.3
+      - 2.3.1
+      - 2.3.2
+  smart-plugin-c3p0:
+    lastUpdated: 20140604083841
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  smart-plugin-cache:
+    lastUpdated: 20140603075857
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-druid:
+    lastUpdated: 20140604083843
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  smart-plugin-hessian:
+    lastUpdated: 20140603075858
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-i18n:
+    lastUpdated: 20140603075858
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-job:
+    lastUpdated: 20140603075859
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-mail:
+    lastUpdated: 20140603075900
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-mybatis:
+    lastUpdated: 20140425053020
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+  smart-plugin-rest:
+    lastUpdated: 20140603075901
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-search:
+    lastUpdated: 20140603075902
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-security:
+    lastUpdated: 20140622125133
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+  smart-plugin-soap:
+    lastUpdated: 20140603075907
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-template:
+    lastUpdated: 20140603075908
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-plugin-xmlrpc:
+    lastUpdated: 20140603075908
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+  smart-root:
+    lastUpdated: 20140603075909
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  smart-security:
+    lastUpdated: 20140425053024
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+  smart-sso:
+    lastUpdated: 20140603075909
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0
+      - 2.2
+

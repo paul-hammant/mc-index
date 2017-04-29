@@ -1,0 +1,149 @@
+artifacts:
+  libthrift:
+    lastUpdated: 20170122002707
+    latest: 0.10.0.0
+    release: 0.10.0.0
+    versions:
+      - 0.10.0.0
+  swift-annotations:
+    lastUpdated: 20160208023419
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-codec:
+    lastUpdated: 20160208023420
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-generator:
+    lastUpdated: 20160208023421
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-generator-cli:
+    lastUpdated: 20160208023421
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-idl-parser:
+    lastUpdated: 20160208023422
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-javadoc:
+    lastUpdated: 20160208023422
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-root:
+    lastUpdated: 20160208023423
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-service:
+    lastUpdated: 20160208023423
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift-test-utils:
+    lastUpdated: 20160208023424
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  swift2thrift-generator-cli:
+    lastUpdated: 20160208023424
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.17.0
+  thrift-compiler:
+    lastUpdated: 20170122002708
+    latest: 0.10.0.0
+    release: 0.10.0.0
+    versions:
+      - 0.10.0.0
+  thrift-maven-plugin:
+    lastUpdated: 20170122002637
+    latest: 0.10.0.0
+    release: 0.10.0.0
+    versions:
+      - 0.10.0.0
+  thrift-parent:
+    lastUpdated: 20170122002708
+    latest: 0.10.0.0
+    release: 0.10.0.0
+    versions:
+      - 0.10.0.0
+  thriftee-cli:
+    lastUpdated: 20160513222358
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-compiler:
+    lastUpdated: 20160513222339
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-core:
+    lastUpdated: 20160513222400
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-examples-war:
+    lastUpdated: 20160513222401
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-provider-swift:
+    lastUpdated: 20160513222402
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-root:
+    lastUpdated: 20160513222403
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-servlet:
+    lastUpdated: 20160513222403
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-test-objects:
+    lastUpdated: 20160513222403
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  thriftee-xml-protocol:
+    lastUpdated: 20160513222404
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+

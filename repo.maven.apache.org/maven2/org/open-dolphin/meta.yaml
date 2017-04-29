@@ -1,0 +1,93 @@
+artifacts:
+  dolphin-client:
+    lastUpdated: 20160306145950
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-client-javafx:
+    lastUpdated: 20160306145950
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-combined:
+    lastUpdated: 20160306145951
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-demo-javafx-server:
+    lastUpdated: 20160306145951
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-demo-javafx-shared:
+    lastUpdated: 20160306145952
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-logo-javafx:
+    lastUpdated: 20160306145952
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-server:
+    lastUpdated: 20160306145953
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+  dolphin-shared:
+    lastUpdated: 20160306145953
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.10
+      - 0.11
+      - 1.0-RC1
+      - 1.0-RC3
+

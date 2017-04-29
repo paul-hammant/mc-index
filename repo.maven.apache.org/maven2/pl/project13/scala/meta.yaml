@@ -1,0 +1,135 @@
+artifacts:
+  akka-persistence-hbase_2.10:
+    lastUpdated: 20140708093234
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4.0
+      - 0.4.1
+  akka-persistence-hbase_2.11:
+    lastUpdated: 20140708093234
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+  macro-method-alias_2.10:
+    lastUpdated: 20130209223219
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  rainbow_2.10:
+    lastUpdated: 20130331185248
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  rainbow_2.11:
+    lastUpdated: 20140515061548
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  rainbow_2.9.1:
+    lastUpdated: 20130331185248
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  rainbow_2.9.2:
+    lastUpdated: 20130331185249
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  sbt-jmh-extras:
+    lastUpdated: 20170318155722
+    latest: 0.2.24
+    release: 0.2.24
+    versions:
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 0.2.17
+      - 0.2.18
+      - 0.2.19
+      - 0.2.20
+      - 0.2.21
+      - 0.2.22
+      - 0.2.23
+      - 0.2.24
+  sbt-jmh-extras_2.10:
+    lastUpdated: 20160908110207
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  sbt-jmh-extras_2.11:
+    lastUpdated: 20160915091942
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  sbt-jmh-extras_2.12.0-M2:
+    lastUpdated: 20160915091943
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  sbt-jmh-extras_2.12.0-M3:
+    lastUpdated: 20160915091943
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  sbt-jmh-extras_2.12.0-M4:
+    lastUpdated: 20160915091943
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  sbt-jmh-extras_2.12.0-M5:
+    lastUpdated: 20160915091944
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+  words_2.10:
+    lastUpdated: 20130105181005
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  words_2.9.1:
+    lastUpdated: 20120811155413
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

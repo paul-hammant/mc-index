@@ -1,0 +1,318 @@
+artifacts:
+  streamok:
+    lastUpdated: 20170112103427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-adapter:
+    lastUpdated: 20170112103427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-adapter-rest:
+    lastUpdated: 20170112103427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-bom:
+    lastUpdated: 20170112103427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-distribution:
+    lastUpdated: 20170112103427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-distribution-chaosmonkey:
+    lastUpdated: 20170112103428
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-distribution-cmd:
+    lastUpdated: 20170112103428
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-distribution-node:
+    lastUpdated: 20170112103429
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-docker:
+    lastUpdated: 20170112103431
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  streamok-docker-kafka-base:
+    lastUpdated: 20170112103431
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  streamok-fiber:
+    lastUpdated: 20170112103432
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-fiber-node:
+    lastUpdated: 20170112103432
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib:
+    lastUpdated: 20170112103432
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-common:
+    lastUpdated: 20170112103432
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-conf:
+    lastUpdated: 20170112103433
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-download:
+    lastUpdated: 20170112103433
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-kafka:
+    lastUpdated: 20170112103433
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-mongo:
+    lastUpdated: 20170112103434
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-paas:
+    lastUpdated: 20170112103434
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-process:
+    lastUpdated: 20170112103434
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-vertx:
+    lastUpdated: 20170112103435
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-lib-vertx-test:
+    lastUpdated: 20170112103435
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service:
+    lastUpdated: 20170112103435
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service-configuration:
+    lastUpdated: 20170112103435
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service-document:
+    lastUpdated: 20170112103436
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service-machinelearning:
+    lastUpdated: 20170112103436
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service-machinelearning-rest:
+    lastUpdated: 20170112103436
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  streamok-service-metrics:
+    lastUpdated: 20170112103437
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  streamok-service-speech:
+    lastUpdated: 20170112103437
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+

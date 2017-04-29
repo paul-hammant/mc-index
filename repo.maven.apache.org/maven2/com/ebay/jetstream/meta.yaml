@@ -1,0 +1,87 @@
+artifacts:
+  configuration:
+    lastUpdated: 20150730183322
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstream-channels-processors:
+    lastUpdated: 20150730183323
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstream-esper:
+    lastUpdated: 20150730183335
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.2
+      - 4.1.0
+  jetstream-esper-root:
+    lastUpdated: 20150730183336
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstream-hdfs:
+    lastUpdated: 20150730183323
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.1.0
+  jetstream-messaging:
+    lastUpdated: 20150730183324
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstream-parent:
+    lastUpdated: 20150730183324
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstream-root:
+    lastUpdated: 20150730183324
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstreamcore:
+    lastUpdated: 20150730183324
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstreamframework:
+    lastUpdated: 20150730183325
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  jetstreamspring:
+    lastUpdated: 20150730183326
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+

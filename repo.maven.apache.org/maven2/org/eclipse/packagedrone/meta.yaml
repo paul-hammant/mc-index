@@ -1,0 +1,58 @@
+artifacts:
+  org.eclipse.packagedrone.repo:
+    lastUpdated: 20170407163517
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  org.eclipse.packagedrone.repo.api:
+    lastUpdated: 20170407163517
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  org.eclipse.packagedrone.utils:
+    lastUpdated: 20170407163518
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  org.eclipse.packagedrone.utils.converter:
+    lastUpdated: 20170407163518
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  org.eclipse.packagedrone.utils.deb:
+    lastUpdated: 20170407163519
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.1
+  org.eclipse.packagedrone.utils.rpm:
+    lastUpdated: 20170407163519
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+  org.eclipse.packagedrone.utils.security:
+    lastUpdated: 20170407163520
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  secondary-parent:
+    lastUpdated: 20170407163520
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+

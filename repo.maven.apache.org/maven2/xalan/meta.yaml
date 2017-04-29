@@ -1,0 +1,30 @@
+artifacts:
+  serializer:
+    lastUpdated: 20140724184901
+    latest: 2.7.2
+    release: 2.7.2
+    versions:
+      - 2.7.2
+  xalan:
+    lastUpdated: 20140724184922
+    latest: 2.7.2
+    release: 2.7.2
+    versions:
+      - 2.7.0
+      - 2.7.2
+  xalansamples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.4.1
+      - 2.5.1
+      - 2.6.0
+  xalanservlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.4.1
+      - 2.5.1
+

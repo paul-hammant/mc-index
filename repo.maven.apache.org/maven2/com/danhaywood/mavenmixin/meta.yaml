@@ -1,0 +1,106 @@
+artifacts:
+  cucumberreporting:
+    lastUpdated: 20161130175859
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  datanucleusenhance:
+    lastUpdated: 20161130180316
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  docker:
+    lastUpdated: 20170112134443
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  enforcerrelaxed:
+    lastUpdated: 20161130180704
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  isisjrebel:
+    lastUpdated: 20161130181636
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  isisswagger:
+    lastUpdated: 20161130181848
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  isisvalidate:
+    lastUpdated: 20161130182044
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  jettyconsole:
+    lastUpdated: 20161130182348
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  jettywar:
+    lastUpdated: 20161130183524
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  sonatyperelease:
+    lastUpdated: 20161119143746
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  sourceandjavadoc:
+    lastUpdated: 20161130183811
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  standard:
+    lastUpdated: 20170112144422
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  staticanalysis:
+    lastUpdated: 20161130185403
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  surefire:
+    lastUpdated: 20161130185150
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

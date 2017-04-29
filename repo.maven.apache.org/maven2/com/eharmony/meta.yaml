@@ -1,0 +1,242 @@
+artifacts:
+  aloha:
+    lastUpdated: 20160819194248
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  aloha-avro-score-java:
+    lastUpdated: 20170420014101
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-cli:
+    lastUpdated: 20160819194249
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  aloha-cli_2.10:
+    lastUpdated: 20170420014101
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-cli_2.11:
+    lastUpdated: 20170420014102
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-core:
+    lastUpdated: 20160819194250
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  aloha-core_2.10:
+    lastUpdated: 20170420014103
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-core_2.11:
+    lastUpdated: 20170420014103
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-h2o:
+    lastUpdated: 20160819194250
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  aloha-h2o_2.10:
+    lastUpdated: 20170420014104
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-h2o_2.11:
+    lastUpdated: 20170420014104
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-io-avro_2.10:
+    lastUpdated: 20170420014105
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-io-avro_2.11:
+    lastUpdated: 20170420014105
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-io-proto_2.10:
+    lastUpdated: 20170420014106
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-io-proto_2.11:
+    lastUpdated: 20170420014106
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-proto:
+    lastUpdated: 20160308165547
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aloha-vw-jni:
+    lastUpdated: 20160819194250
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  aloha-vw-jni_2.10:
+    lastUpdated: 20170420014107
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha-vw-jni_2.11:
+    lastUpdated: 20170420014107
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+  aloha_2.10:
+    lastUpdated: 20170303164620
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  aloha_2.11:
+    lastUpdated: 20170303164621
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  spotz-core:
+    lastUpdated: 20160913212138
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spotz-examples:
+    lastUpdated: 20160913212139
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spotz-parent:
+    lastUpdated: 20160913212139
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spotz-vw:
+    lastUpdated: 20160913212139
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,26 @@
+artifacts:
+  simple-dao:
+    lastUpdated: 20160608021103
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 2.0.0
+  simple-dao-hibernate:
+    lastUpdated: 20160608024300
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+  simple-dao-jpa:
+    lastUpdated: 20160608023349
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+

@@ -1,0 +1,75 @@
+artifacts:
+  apuava:
+    lastUpdated: 20170312032534
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  apuava-gwt:
+    lastUpdated: 20161221235607
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gwt-ace:
+    lastUpdated: 20160214070352
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  gwt-jwt-decode:
+    lastUpdated: 20161029001154
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gwt-uploader:
+    lastUpdated: 20170419081525
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+  gwtmockito-ng:
+    lastUpdated: 20161116091117
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  wise-persist:
+    lastUpdated: 20160520024928
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  wisepersist-jpa:
+    lastUpdated: 20161022012226
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.4
+      - 1.1.0
+      - 1.1.2
+  wisepersist-settings:
+    lastUpdated: 20161004041627
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

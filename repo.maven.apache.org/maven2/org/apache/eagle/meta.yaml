@@ -1,0 +1,380 @@
+artifacts:
+  eagle-alert-base:
+    lastUpdated: 20160822015700
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-alert-notification-plugin:
+    lastUpdated: 20160822015701
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-alert-parent:
+    lastUpdated: 20160822015701
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-alert-process:
+    lastUpdated: 20160822015701
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-alert-service:
+    lastUpdated: 20160822015702
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-antlr:
+    lastUpdated: 20160822015703
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-application-management:
+    lastUpdated: 20160822015704
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-application-service:
+    lastUpdated: 20160822015704
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-assembly:
+    lastUpdated: 20160822015704
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-audit-base:
+    lastUpdated: 20160822015723
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-client-base:
+    lastUpdated: 20160822015724
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-common:
+    lastUpdated: 20160822015725
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-core:
+    lastUpdated: 20160822015726
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-data-process-parent:
+    lastUpdated: 20160822015726
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-embed-hbase:
+    lastUpdated: 20160822015726
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-embed-parent:
+    lastUpdated: 20160822015727
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-embed-server:
+    lastUpdated: 20160822015727
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-entity-base:
+    lastUpdated: 20160822015728
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-examples:
+    lastUpdated: 20160822015729
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-external-parent:
+    lastUpdated: 20160822015729
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-gc:
+    lastUpdated: 20160822015729
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-hadoop-metric:
+    lastUpdated: 20160822015734
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-job-common:
+    lastUpdated: 20160822015734
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-kafka:
+    lastUpdated: 20160822015735
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-log4jkafka:
+    lastUpdated: 20160822015735
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-machinelearning-base:
+    lastUpdated: 20160822015736
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-machinelearning-parent:
+    lastUpdated: 20160822015736
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-metric:
+    lastUpdated: 20160822015737
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-metric-collection:
+    lastUpdated: 20160822015737
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-parent:
+    lastUpdated: 20160822015738
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-policy-base:
+    lastUpdated: 20160822015739
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-policy-parent:
+    lastUpdated: 20160822015740
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-query-base:
+    lastUpdated: 20160822015740
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-query-parent:
+    lastUpdated: 20160822015741
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-common:
+    lastUpdated: 20160822015741
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hbase-securitylog:
+    lastUpdated: 20160822015742
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hbase-web:
+    lastUpdated: 20160822015743
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hdfs-auditlog:
+    lastUpdated: 20160822015743
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hdfs-securitylog:
+    lastUpdated: 20160822015744
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hdfs-web:
+    lastUpdated: 20160822015744
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hive:
+    lastUpdated: 20160822015745
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-hive-web:
+    lastUpdated: 20160822015746
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-maprfs-auditlog:
+    lastUpdated: 20160822015747
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-maprfs-web:
+    lastUpdated: 20160822015747
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-oozie-auditlog:
+    lastUpdated: 20160822015748
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-oozie-web:
+    lastUpdated: 20160822015749
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-parent:
+    lastUpdated: 20160822015749
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-userprofile-common:
+    lastUpdated: 20160822015749
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-userprofile-detection:
+    lastUpdated: 20160822015750
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-userprofile-parent:
+    lastUpdated: 20160822015751
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-security-userprofile-training:
+    lastUpdated: 20160822015751
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-service-base:
+    lastUpdated: 20160822015756
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-storage-base:
+    lastUpdated: 20160822015757
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-storage-hbase:
+    lastUpdated: 20160822015758
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-storage-jdbc:
+    lastUpdated: 20160822015801
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-storm-jobrunning-spout:
+    lastUpdated: 20160822015801
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-stream-application-manager:
+    lastUpdated: 20160822015802
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-stream-pipeline:
+    lastUpdated: 20160822015803
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-stream-process-api:
+    lastUpdated: 20160822015803
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-stream-process-base:
+    lastUpdated: 20160822015804
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-topology-assembly:
+    lastUpdated: 20160822015804
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-topology-example:
+    lastUpdated: 20160822015815
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+  eagle-webservice:
+    lastUpdated: 20160822015816
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.4.0-incubating
+

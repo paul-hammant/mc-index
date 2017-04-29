@@ -1,0 +1,81 @@
+artifacts:
+  apache-predictionio-common_2.10:
+    lastUpdated: 20161007193843
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  apache-predictionio-core_2.10:
+    lastUpdated: 20161007193841
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  apache-predictionio-data_2.10:
+    lastUpdated: 20161007193842
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  apache-predictionio-e2_2.10:
+    lastUpdated: 20161007193843
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  apache-predictionio-parent_2.10:
+    lastUpdated: 20161007193841
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  apache-predictionio-tools_2.10:
+    lastUpdated: 20161007193844
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc5
+      - 0.10.0-incubating
+  predictionio-common_2.10:
+    lastUpdated: 20161007183541
+    latest: 0.10.0-incubating-rc1
+    release: 0.10.0-incubating-rc1
+    versions:
+      - 0.10.0-incubating-rc1
+  predictionio-core_2.10:
+    lastUpdated: 20161007183542
+    latest: 0.10.0-incubating-rc1
+    release: 0.10.0-incubating-rc1
+    versions:
+      - 0.10.0-incubating-rc1
+  predictionio-data_2.10:
+    lastUpdated: 20161007183542
+    latest: 0.10.0-incubating-rc1
+    release: 0.10.0-incubating-rc1
+    versions:
+      - 0.10.0-incubating-rc1
+  predictionio-e2_2.10:
+    lastUpdated: 20161007183543
+    latest: 0.10.0-incubating-rc1
+    release: 0.10.0-incubating-rc1
+    versions:
+      - 0.10.0-incubating-rc1
+  predictionio-parent_2.10:
+    lastUpdated: 20161018222158
+    latest: 0.10.0-incubating
+    release: 0.10.0-incubating
+    versions:
+      - 0.10.0-incubating-rc1
+      - 0.10.0-incubating
+  predictionio-tools_2.10:
+    lastUpdated: 20161007183545
+    latest: 0.10.0-incubating-rc1
+    release: 0.10.0-incubating-rc1
+    versions:
+      - 0.10.0-incubating-rc1
+

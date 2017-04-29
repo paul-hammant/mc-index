@@ -1,0 +1,560 @@
+artifacts:
+  ctakes:
+    lastUpdated: 20170423143846
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-assertion:
+    lastUpdated: 20170423143846
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-assertion-res:
+    lastUpdated: 20170423143848
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-assertion-zoner:
+    lastUpdated: 20170423143849
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-assertion-zoner-res:
+    lastUpdated: 20170423143849
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-chunker:
+    lastUpdated: 20170423143849
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-chunker-res:
+    lastUpdated: 20170423143850
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-clinical-pipeline:
+    lastUpdated: 20170423143852
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-clinical-pipeline-res:
+    lastUpdated: 20170423143852
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  ctakes-constituency-parser:
+    lastUpdated: 20170423143852
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-constituency-parser-res:
+    lastUpdated: 20170423143853
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-context-tokenizer:
+    lastUpdated: 20170423143856
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-core:
+    lastUpdated: 20170423143857
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-core-res:
+    lastUpdated: 20170423143858
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-coreference:
+    lastUpdated: 20170423143858
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-coreference-res:
+    lastUpdated: 20170423143859
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dependency-parser:
+    lastUpdated: 20170423143901
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dependency-parser-res:
+    lastUpdated: 20170423143913
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dictionary-lookup:
+    lastUpdated: 20170423143922
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dictionary-lookup-fast:
+    lastUpdated: 20170423143923
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dictionary-lookup-fast-res:
+    lastUpdated: 20170423143923
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-dictionary-lookup-res:
+    lastUpdated: 20170423143924
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-drug-ner:
+    lastUpdated: 20170423143925
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-drug-ner-res:
+    lastUpdated: 20170423143925
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-examples:
+    lastUpdated: 20170423143925
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-examples-res:
+    lastUpdated: 20170423143926
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  ctakes-gui:
+    lastUpdated: 20170423143926
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  ctakes-gui-res:
+    lastUpdated: 20170423143927
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  ctakes-lvg:
+    lastUpdated: 20170423143927
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-lvg-res:
+    lastUpdated: 20170423143928
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ne-contexts:
+    lastUpdated: 20170423143928
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ne-contexts-res:
+    lastUpdated: 20170423143929
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-pad-term-spotter:
+    lastUpdated: 20131210164020
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+  ctakes-pad-term-spotter-res:
+    lastUpdated: 20131210163840
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  ctakes-pos-tagger:
+    lastUpdated: 20170423143929
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-pos-tagger-res:
+    lastUpdated: 20170423143930
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-preprocessor:
+    lastUpdated: 20170423143931
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-regression-test:
+    lastUpdated: 20170423143932
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-relation-extractor:
+    lastUpdated: 20170423143932
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-relation-extractor-res:
+    lastUpdated: 20170423143933
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-side-effect:
+    lastUpdated: 20170423143933
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-side-effect-res:
+    lastUpdated: 20170423143934
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-smoking-status:
+    lastUpdated: 20170423143934
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-smoking-status-res:
+    lastUpdated: 20170423143935
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-template-filler:
+    lastUpdated: 20170423143935
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-temporal:
+    lastUpdated: 20170423143941
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-temporal-res:
+    lastUpdated: 20170423143947
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-type-system:
+    lastUpdated: 20170423143948
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-utils:
+    lastUpdated: 20170423143949
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ytex:
+    lastUpdated: 20170423143950
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ytex-res:
+    lastUpdated: 20170423143950
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ytex-uima:
+    lastUpdated: 20170423143951
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+  ctakes-ytex-web:
+    lastUpdated: 20170423143951
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 4.0.0
+

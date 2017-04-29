@@ -1,0 +1,264 @@
+artifacts:
+  build-tools:
+    lastUpdated: 20151221081717
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  checkstyle:
+    lastUpdated: 20151221081718
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  falcon-acquisition:
+    lastUpdated: 20160217102015
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-archival:
+    lastUpdated: 20160217102016
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-cli:
+    lastUpdated: 20160217102016
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+      - 0.9
+  falcon-client:
+    lastUpdated: 20160217102016
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-common:
+    lastUpdated: 20160217102017
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-distcp-replication:
+    lastUpdated: 20160217102017
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-docs:
+    lastUpdated: 20160217102018
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-feed-lifecycle:
+    lastUpdated: 20160217102018
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-hadoop-dependencies:
+    lastUpdated: 20160217102018
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-hadoop-webapp:
+    lastUpdated: 20160217102020
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-main:
+    lastUpdated: 20160217102115
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-messaging:
+    lastUpdated: 20160217102115
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-metrics:
+    lastUpdated: 20160217102116
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-oozie-adaptor:
+    lastUpdated: 20160217102116
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-oozie-el-extension:
+    lastUpdated: 20160217102136
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-prism:
+    lastUpdated: 20160217102136
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-rerun:
+    lastUpdated: 20160217102228
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-retention:
+    lastUpdated: 20160217102244
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-scheduler:
+    lastUpdated: 20160217102245
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+      - 0.9
+  falcon-sharelib-hcatalog:
+    lastUpdated: 20160217102250
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-sharelib-hive:
+    lastUpdated: 20160217102256
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-sharelib-oozie:
+    lastUpdated: 20160217102322
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-sharelib-pig:
+    lastUpdated: 20160217102339
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-test-tools:
+    lastUpdated: 20160217102346
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-test-util:
+    lastUpdated: 20160217102347
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-ui:
+    lastUpdated: 20160217102350
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-unit:
+    lastUpdated: 20160217102412
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  falcon-webapp:
+    lastUpdated: 20160217102420
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+

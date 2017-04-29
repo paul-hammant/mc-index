@@ -1,0 +1,108 @@
+artifacts:
+  giraph-accumulo:
+    lastUpdated: 20161022042021
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-block-app:
+    lastUpdated: 20161022042025
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-core:
+    lastUpdated: 20161022042034
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-dist:
+    lastUpdated: 20161022042051
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-examples:
+    lastUpdated: 20161022042058
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-gora:
+    lastUpdated: 20161022042106
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-hbase:
+    lastUpdated: 20161022042107
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0-hadoop2
+  giraph-hcatalog:
+    lastUpdated: 20161022042116
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-hive:
+    lastUpdated: 20141118211855
+    latest: 1.1.0-hadoop2
+    release: 1.1.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+  giraph-kibble:
+    lastUpdated: 20141118211858
+    latest: 1.1.0-hadoop2
+    release: 1.1.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+  giraph-parent:
+    lastUpdated: 20161022042123
+    latest: 1.2.0-hadoop2
+    release: 1.2.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+      - 1.2.0
+      - 1.2.0-hadoop2
+  giraph-rexster:
+    lastUpdated: 20141118211901
+    latest: 1.1.0-hadoop2
+    release: 1.1.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+  giraph-rexster-io:
+    lastUpdated: 20141118211904
+    latest: 1.1.0-hadoop2
+    release: 1.1.0-hadoop2
+    versions:
+      - 1.1.0
+      - 1.1.0-hadoop2
+

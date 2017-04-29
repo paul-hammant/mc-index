@@ -1,0 +1,91 @@
+artifacts:
+  macrame-play_2.10:
+    lastUpdated: 20160418003936
+    latest: 1.1.0-play-2.4.x
+    release: 1.1.0-play-2.4.x
+    versions:
+      - 1.0.0-play-2.3.x
+      - 1.0.0-play-2.4.x
+      - 1.0.2-play-2.3.x
+      - 1.0.2-play-2.4.x
+      - 1.1.0-play-2.3.x
+      - 1.1.0-play-2.4.x
+  macrame-play_2.11:
+    lastUpdated: 20160418004333
+    latest: 1.1.0-play-2.5.x
+    release: 1.1.0-play-2.5.x
+    versions:
+      - 1.0.0-play-2.3.x
+      - 1.0.0-play-2.4.x
+      - 1.0.0-play-2.5.x
+      - 1.0.1-play-2.3.x
+      - 1.0.1-play-2.4.x
+      - 1.0.1-play-2.5.x
+      - 1.0.2-play-2.3.x
+      - 1.0.2-play-2.4.x
+      - 1.0.2-play-2.5.x
+      - 1.1.0-play-2.3.x
+      - 1.1.0-play-2.4.x
+      - 1.1.0-play-2.5.x
+  macrame-scalaz_2.10:
+    lastUpdated: 20160418002620
+    latest: 1.0.0-scalaz-7.2.x
+    release: 1.0.0-scalaz-7.2.x
+    versions:
+      - 1.0.0-scalaz-7.0.x
+      - 1.0.0-scalaz-7.1.x
+      - 1.0.0-scalaz-7.2.x
+  macrame-scalaz_2.11:
+    lastUpdated: 20160415010544
+    latest: 1.0.0-scalaz-7.2.x
+    release: 1.0.0-scalaz-7.2.x
+    versions:
+      - 1.0.0-scalaz-7.0.x
+      - 1.0.0-scalaz-7.1.x
+      - 1.0.0-scalaz-7.2.x
+  macrame_2.10:
+    lastUpdated: 20170222133909
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  macrame_2.11:
+    lastUpdated: 20170222133909
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  macrame_2.12:
+    lastUpdated: 20170222133909
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  tbox_2.11:
+    lastUpdated: 20150810011703
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+

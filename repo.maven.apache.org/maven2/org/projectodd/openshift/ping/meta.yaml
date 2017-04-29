@@ -1,0 +1,57 @@
+artifacts:
+  openshift-activemq-plugin:
+    lastUpdated: 20151201154921
+    latest: 1.0.0.Beta7-swarm-1
+    release: 1.0.0.Beta7-swarm-1
+    versions:
+      - 1.0.0.Beta5-swarm-1
+      - 1.0.0.Beta5-swarm-2
+      - 1.0.0.Beta5-swarm-3
+      - 1.0.0.Beta5-swarm-4
+      - 1.0.0.Beta5-swarm-5
+      - 1.0.0.Beta7-swarm-1
+  openshift-ping-common:
+    lastUpdated: 20151201154921
+    latest: 1.0.0.Beta7-swarm-1
+    release: 1.0.0.Beta7-swarm-1
+    versions:
+      - 1.0.0.Beta5-swarm-1
+      - 1.0.0.Beta5-swarm-2
+      - 1.0.0.Beta5-swarm-3
+      - 1.0.0.Beta5-swarm-4
+      - 1.0.0.Beta5-swarm-5
+      - 1.0.0.Beta7-swarm-1
+  openshift-ping-dns:
+    lastUpdated: 20151201154922
+    latest: 1.0.0.Beta7-swarm-1
+    release: 1.0.0.Beta7-swarm-1
+    versions:
+      - 1.0.0.Beta5-swarm-1
+      - 1.0.0.Beta5-swarm-2
+      - 1.0.0.Beta5-swarm-3
+      - 1.0.0.Beta5-swarm-4
+      - 1.0.0.Beta5-swarm-5
+      - 1.0.0.Beta7-swarm-1
+  openshift-ping-kube:
+    lastUpdated: 20151201154922
+    latest: 1.0.0.Beta7-swarm-1
+    release: 1.0.0.Beta7-swarm-1
+    versions:
+      - 1.0.0.Beta5-swarm-1
+      - 1.0.0.Beta5-swarm-2
+      - 1.0.0.Beta5-swarm-3
+      - 1.0.0.Beta5-swarm-4
+      - 1.0.0.Beta5-swarm-5
+      - 1.0.0.Beta7-swarm-1
+  openshift-ping-parent:
+    lastUpdated: 20151201154923
+    latest: 1.0.0.Beta7-swarm-1
+    release: 1.0.0.Beta7-swarm-1
+    versions:
+      - 1.0.0.Beta5-swarm-1
+      - 1.0.0.Beta5-swarm-2
+      - 1.0.0.Beta5-swarm-3
+      - 1.0.0.Beta5-swarm-4
+      - 1.0.0.Beta5-swarm-5
+      - 1.0.0.Beta7-swarm-1
+

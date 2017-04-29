@@ -1,0 +1,1305 @@
+artifacts:
+  org.springframework.roo.addon.backup:
+    lastUpdated: 20170303130731
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.cache:
+    lastUpdated: 20170303130732
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.cloud:
+    lastUpdated: 20150901082847
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.configurable:
+    lastUpdated: 20170303130732
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.configurable.addon:
+    lastUpdated: 20170303130733
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.configurable.annotations:
+    lastUpdated: 20170303130733
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.creator:
+    lastUpdated: 20170303130734
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.dbre:
+    lastUpdated: 20150901082848
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.dbre.addon:
+    lastUpdated: 20150608111444
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.springframework.roo.addon.dbre.annotations:
+    lastUpdated: 20150608111445
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.springframework.roo.addon.dod:
+    lastUpdated: 20161123162036
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  org.springframework.roo.addon.dod.addon:
+    lastUpdated: 20161123162036
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  org.springframework.roo.addon.dod.annotations:
+    lastUpdated: 20161123162037
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  org.springframework.roo.addon.dto:
+    lastUpdated: 20170303130734
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.dto.addon:
+    lastUpdated: 20170303130734
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.dto.annotations:
+    lastUpdated: 20170303130735
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.email:
+    lastUpdated: 20170303130735
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.email.addon:
+    lastUpdated: 20170303130736
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.equals:
+    lastUpdated: 20150901082850
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.field:
+    lastUpdated: 20170303130736
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.field.addon:
+    lastUpdated: 20170303130736
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.finder:
+    lastUpdated: 20160516153949
+    latest: 2.0.0.M2
+    release: 2.0.0.M2
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+  org.springframework.roo.addon.finder.addon:
+    lastUpdated: 20160516153950
+    latest: 2.0.0.M2
+    release: 2.0.0.M2
+    versions:
+      - 2.0.0.M2
+  org.springframework.roo.addon.finder.annotations:
+    lastUpdated: 20160516153950
+    latest: 2.0.0.M2
+    release: 2.0.0.M2
+    versions:
+      - 2.0.0.M2
+  org.springframework.roo.addon.git:
+    lastUpdated: 20150901082851
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.javabean:
+    lastUpdated: 20170303130737
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.javabean.addon:
+    lastUpdated: 20170303130737
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.javabean.annotations:
+    lastUpdated: 20170303130738
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.jdbc:
+    lastUpdated: 20150901082852
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.jms:
+    lastUpdated: 20170303130738
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.jpa:
+    lastUpdated: 20170303130739
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.jpa.addon:
+    lastUpdated: 20170303130739
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.jpa.annotations:
+    lastUpdated: 20170303130740
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.jsf:
+    lastUpdated: 20150901082854
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.json:
+    lastUpdated: 20150901082855
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.json.addon:
+    lastUpdated: 20150608111451
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.springframework.roo.addon.json.annotations:
+    lastUpdated: 20150608111452
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.springframework.roo.addon.layers.repository.jpa:
+    lastUpdated: 20170303130740
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.layers.repository.jpa.addon:
+    lastUpdated: 20170303130740
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.layers.repository.jpa.annotations:
+    lastUpdated: 20170303130741
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.layers.repository.mongo:
+    lastUpdated: 20150901082856
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.layers.service:
+    lastUpdated: 20170303130741
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.layers.service.addon:
+    lastUpdated: 20170303130741
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.layers.service.annotations:
+    lastUpdated: 20170303130742
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.logging:
+    lastUpdated: 20150901082857
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.op4j:
+    lastUpdated: 20150901082858
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.oscommands:
+    lastUpdated: 20170303130743
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.plural:
+    lastUpdated: 20170303130743
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.plural.addon:
+    lastUpdated: 20170303130743
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.plural.annotations:
+    lastUpdated: 20170303130744
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.property.editor:
+    lastUpdated: 20150901082859
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.propfiles:
+    lastUpdated: 20170303130745
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.pushin:
+    lastUpdated: 20170303130745
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.roobot.client:
+    lastUpdated: 20150901082900
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.security:
+    lastUpdated: 20170303130746
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.security.addon:
+    lastUpdated: 20170303130746
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.security.annotations:
+    lastUpdated: 20170303130747
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.serializable:
+    lastUpdated: 20150901082901
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.solr:
+    lastUpdated: 20150901082902
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.tailor:
+    lastUpdated: 20150901082902
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.test:
+    lastUpdated: 20170303130748
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.test.addon:
+    lastUpdated: 20161123162049
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  org.springframework.roo.addon.test.annotations:
+    lastUpdated: 20161123162050
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  org.springframework.roo.addon.tostring:
+    lastUpdated: 20150901082903
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.web.flow:
+    lastUpdated: 20150901082903
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.addon.web.mvc.controller:
+    lastUpdated: 20170303130748
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.controller.addon:
+    lastUpdated: 20170303130748
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.controller.annotations:
+    lastUpdated: 20170303130749
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.embedded:
+    lastUpdated: 20150901082904
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.web.mvc.exceptions:
+    lastUpdated: 20170303130749
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.exceptions.addon:
+    lastUpdated: 20170303130749
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.exceptions.annotations:
+    lastUpdated: 20170303130749
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.i18n:
+    lastUpdated: 20170303130750
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.jsp:
+    lastUpdated: 20150901082905
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.web.mvc.thymeleaf:
+    lastUpdated: 20170303130750
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.thymeleaf.addon:
+    lastUpdated: 20170303130751
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.thymeleaf.annotations:
+    lastUpdated: 20170303130751
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.mvc.views:
+    lastUpdated: 20170303130751
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.web.selenium:
+    lastUpdated: 20150901082906
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+  org.springframework.roo.addon.webflow:
+    lastUpdated: 20170303130752
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.ws:
+    lastUpdated: 20170303130752
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.ws.addon:
+    lastUpdated: 20170303130752
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.addon.ws.annotations:
+    lastUpdated: 20170303130753
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.annotations:
+    lastUpdated: 20170303130753
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.application.config:
+    lastUpdated: 20170303130753
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.bootstrap:
+    lastUpdated: 20170303130754
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.classpath:
+    lastUpdated: 20170303130754
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.classpath.antlrjavaparser:
+    lastUpdated: 20170303130754
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.converters:
+    lastUpdated: 20170303130755
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.deployment.support:
+    lastUpdated: 20170303130755
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.felix:
+    lastUpdated: 20170303130756
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.file.monitor:
+    lastUpdated: 20170303130756
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.file.monitor.polling:
+    lastUpdated: 20150901082909
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.file.monitor.polling.roo:
+    lastUpdated: 20150901082909
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.file.undo:
+    lastUpdated: 20170303130756
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.metadata:
+    lastUpdated: 20170303130757
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.model:
+    lastUpdated: 20170303130757
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.obr.manager:
+    lastUpdated: 20170303130758
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.osgi.bundle:
+    lastUpdated: 20170303130758
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.osgi.gogo.commands:
+    lastUpdated: 20170303130759
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.osgi.roo.bundle:
+    lastUpdated: 20150901082911
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.process.manager:
+    lastUpdated: 20170303130759
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.project:
+    lastUpdated: 20170303130800
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.propfiles.manager:
+    lastUpdated: 20170303130800
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.rest.publisher:
+    lastUpdated: 20160516154032
+    latest: 2.0.0.M2
+    release: 2.0.0.M2
+    versions:
+      - 2.0.0.M2
+  org.springframework.roo.root:
+    lastUpdated: 20170303130801
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.runtime:
+    lastUpdated: 20170303130801
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.settings:
+    lastUpdated: 20170303130801
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.shell:
+    lastUpdated: 20170303130802
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.shell.jline:
+    lastUpdated: 20170303130802
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.shell.jline.osgi:
+    lastUpdated: 20170303130803
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.shell.osgi:
+    lastUpdated: 20170303130803
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.startlevel:
+    lastUpdated: 20170303130804
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.suite.manager:
+    lastUpdated: 20170303130804
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.support:
+    lastUpdated: 20170303130805
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.support.osgi:
+    lastUpdated: 20150901082915
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.uaa:
+    lastUpdated: 20150901082916
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.url.stream:
+    lastUpdated: 20170303130805
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.RC1
+  org.springframework.roo.url.stream.jdk:
+    lastUpdated: 20150901082917
+    latest: 1.3.2.RELEASE
+    release: 1.3.2.RELEASE
+    versions:
+      - 1.3.0.RELEASE
+      - 1.3.1.RC1
+      - 1.3.1.RC2
+      - 1.3.1.RELEASE
+      - 1.3.2.RC1
+      - 1.3.2.RELEASE
+  org.springframework.roo.web.ui:
+    lastUpdated: 20160516154042
+    latest: 2.0.0.M2
+    release: 2.0.0.M2
+    versions:
+      - 2.0.0.M2
+

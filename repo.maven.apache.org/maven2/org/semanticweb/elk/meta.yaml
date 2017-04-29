@@ -1,0 +1,222 @@
+artifacts:
+  elk-cli:
+    lastUpdated: 20160111140306
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-distribution:
+    lastUpdated: 20160111140307
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owl-implementation:
+    lastUpdated: 20160111140310
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owl-model:
+    lastUpdated: 20160111140310
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owl-parent:
+    lastUpdated: 20160111140311
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owl-parsing-javacc:
+    lastUpdated: 20160111140312
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owlapi:
+    lastUpdated: 20160111140313
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-owlapi-standalone:
+    lastUpdated: 20160111140314
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-parent:
+    lastUpdated: 20160111140315
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-protege:
+    lastUpdated: 20160111140315
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-reasoner:
+    lastUpdated: 20160111140317
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-standalone:
+    lastUpdated: 20160111140317
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-collections:
+    lastUpdated: 20160111140318
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-common:
+    lastUpdated: 20160111140320
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-concurrent:
+    lastUpdated: 20160111140321
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-hashing:
+    lastUpdated: 20160111140322
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-io:
+    lastUpdated: 20160111140322
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-logging:
+    lastUpdated: 20160111140324
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-parent:
+    lastUpdated: 20160111140325
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  elk-util-testing:
+    lastUpdated: 20160111140327
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+

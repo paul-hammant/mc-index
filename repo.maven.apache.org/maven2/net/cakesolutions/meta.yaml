@@ -1,0 +1,41 @@
+artifacts:
+  docker-compose-testkit-templates_2.11:
+    lastUpdated: 20161206095829
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  docker-compose-testkit-tests_2.11:
+    lastUpdated: 20161207082336
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  docker-compose-testkit_2.11:
+    lastUpdated: 20161206095830
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  validated-config_2.11:
+    lastUpdated: 20170312232329
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.1
+      - 0.1.2
+      - 1.0.0
+      - 1.0.1
+  validated-config_2.12:
+    lastUpdated: 20170312232329
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 1.0.0
+      - 1.0.1
+

@@ -1,0 +1,230 @@
+artifacts:
+  boopickle_2.11:
+    lastUpdated: 20161105212731
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.3
+      - 0.1.4
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  boopickle_2.12:
+    lastUpdated: 20161105212731
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.2.5
+  boopickle_sjs0.6_2.11:
+    lastUpdated: 20161105212732
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.3
+      - 0.1.4
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  boopickle_sjs0.6_2.12:
+    lastUpdated: 20161105212732
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.2.5
+  diode-core_2.11:
+    lastUpdated: 20161107110137
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-core_2.12:
+    lastUpdated: 20161107110138
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-core_sjs0.6_2.11:
+    lastUpdated: 20161107110139
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-core_sjs0.6_2.12:
+    lastUpdated: 20161107110141
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-data_2.11:
+    lastUpdated: 20161107110142
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-data_2.12:
+    lastUpdated: 20161107110143
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-data_sjs0.6_2.11:
+    lastUpdated: 20161107110145
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-data_sjs0.6_2.12:
+    lastUpdated: 20161107110146
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-devtools_2.11:
+    lastUpdated: 20161107110147
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-devtools_2.12:
+    lastUpdated: 20161107110148
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-devtools_sjs0.6_2.11:
+    lastUpdated: 20161107110149
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-devtools_sjs0.6_2.12:
+    lastUpdated: 20161107110150
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode-react_sjs0.6_2.11:
+    lastUpdated: 20161107110151
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode-react_sjs0.6_2.12:
+    lastUpdated: 20161107110152
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode_2.10:
+    lastUpdated: 20151204182423
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  diode_2.11:
+    lastUpdated: 20161107110152
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode_2.12:
+    lastUpdated: 20161107110153
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  diode_sjs0.6_2.10:
+    lastUpdated: 20151204182424
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  diode_sjs0.6_2.11:
+    lastUpdated: 20161107110153
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+  diode_sjs0.6_2.12:
+    lastUpdated: 20161107110154
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

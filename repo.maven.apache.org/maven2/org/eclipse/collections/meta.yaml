@@ -1,0 +1,82 @@
+artifacts:
+  eclipse-collections:
+    lastUpdated: 20170317154246
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.1.0
+      - 7.1.1
+      - 8.0.0-M1
+      - 8.0.0
+      - 8.0.1
+      - 8.1.0-RC
+      - 8.1.0
+  eclipse-collections-api:
+    lastUpdated: 20170317154248
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.1.0
+      - 7.1.1
+      - 8.0.0-M1
+      - 8.0.0
+      - 8.0.1
+      - 8.1.0-RC
+      - 8.1.0
+  eclipse-collections-forkjoin:
+    lastUpdated: 20170317154250
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.1.0
+      - 7.1.1
+      - 8.0.0-M1
+      - 8.0.0
+      - 8.0.1
+      - 8.1.0-RC
+      - 8.1.0
+  eclipse-collections-parent:
+    lastUpdated: 20170317154251
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 7.0.1
+      - 7.0.2
+      - 7.1.0
+      - 7.1.1
+      - 8.0.0-M1
+      - 8.0.0
+      - 8.0.1
+      - 8.1.0-RC
+      - 8.1.0
+  eclipse-collections-testutils:
+    lastUpdated: 20170317154251
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.1.0
+      - 7.1.1
+      - 8.0.0-M1
+      - 8.0.0
+      - 8.0.1
+      - 8.1.0-RC
+      - 8.1.0
+  junit-trait-runner:
+    lastUpdated: 20160205032302
+    latest: 7.0.1
+    release: 7.0.1
+    versions:
+      - 7.0.1
+

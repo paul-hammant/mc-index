@@ -1,0 +1,29 @@
+artifacts:
+  process-sample-camel-spring:
+    lastUpdated: 20140530183021
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  process-sample-camel-spring-just-xml:
+    lastUpdated: 20140530183023
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  samples:
+    lastUpdated: 20140530183024
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+

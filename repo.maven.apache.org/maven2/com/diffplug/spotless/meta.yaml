@@ -1,0 +1,51 @@
+artifacts:
+  spotless-ext-eclipse-jdt:
+    lastUpdated: 20170102211519
+    latest: 4.6.1
+    release: 4.6.1
+    versions:
+      - 4.6.1
+  spotless-ext-greclipse:
+    lastUpdated: 20170409200727
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  spotless-lib:
+    lastUpdated: 20170411185901
+    latest: 3.0.0.RC2
+    release: 3.0.0.RC2
+    versions:
+      - 1.0.0.BETA3
+      - 1.0.0.RC1
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 3.0.0.RC2
+  spotless-lib-extra:
+    lastUpdated: 20170411190032
+    latest: 3.0.0.RC2
+    release: 3.0.0.RC2
+    versions:
+      - 1.0.0.BETA3
+      - 1.0.0.RC1
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 3.0.0.RC2
+  spotless-plugin-gradle:
+    lastUpdated: 20170411185940
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.0.0.BETA2
+      - 3.0.0.BETA3
+      - 3.0.0.RC1
+      - 3.0.0.RC2
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+

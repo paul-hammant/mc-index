@@ -1,0 +1,33 @@
+artifacts:
+  junit-jupiter-api:
+    lastUpdated: 20170401193035
+    latest: 5.0.0-M4
+    release: 5.0.0-M4
+    versions:
+      - 5.0.0-M1
+      - 5.0.0-M2
+      - 5.0.0-M3
+      - 5.0.0-M4
+  junit-jupiter-engine:
+    lastUpdated: 20170401193035
+    latest: 5.0.0-M4
+    release: 5.0.0-M4
+    versions:
+      - 5.0.0-M1
+      - 5.0.0-M2
+      - 5.0.0-M3
+      - 5.0.0-M4
+  junit-jupiter-migration-support:
+    lastUpdated: 20170401193036
+    latest: 5.0.0-M4
+    release: 5.0.0-M4
+    versions:
+      - 5.0.0-M3
+      - 5.0.0-M4
+  junit-jupiter-params:
+    lastUpdated: 20170401193036
+    latest: 5.0.0-M4
+    release: 5.0.0-M4
+    versions:
+      - 5.0.0-M4
+

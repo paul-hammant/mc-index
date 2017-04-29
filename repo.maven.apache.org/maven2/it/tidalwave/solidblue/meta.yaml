@@ -1,0 +1,349 @@
+artifacts:
+  it-tidalwave-actor:
+    lastUpdated: 20120920082642
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  it-tidalwave-integritychecker:
+    lastUpdated: 20140322214501
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-integritychecker-archive:
+    lastUpdated: 20140322214502
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-integritychecker-archive-createconfirmation-ui-netbeans:
+    lastUpdated: 20140322214503
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  it-tidalwave-integritychecker-archive-provider:
+    lastUpdated: 20140322214504
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-integritychecker-archive-ui:
+    lastUpdated: 20140322214506
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  it-tidalwave-integritychecker-archive-ui-netbeans:
+    lastUpdated: 20140322214508
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  it-tidalwave-integritychecker-provider:
+    lastUpdated: 20140322214509
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-integritychecker-ui:
+    lastUpdated: 20140322214510
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-integritychecker-ui-netbeans:
+    lastUpdated: 20140322214511
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  it-tidalwave-integritychecker-ui-swing:
+    lastUpdated: 20120920082651
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  it-tidalwave-netbeans-actor:
+    lastUpdated: 20140322214511
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  it-tidalwave-netbeans-actor-ui:
+    lastUpdated: 20140322214512
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  it-tidalwave-netbeans-lookandfeel:
+    lastUpdated: 20111101201353
+    latest: 1.7.12
+    release: 1.7.12
+    versions:
+      - 1.7.12
+  it-tidalwave-netbeans-lookandfeel-ui-quaqua:
+    lastUpdated: 20111101201353
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  it-tidalwave-netbeans-simplemodes:
+    lastUpdated: 20140322214513
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-solidblue:
+    lastUpdated: 20140322214513
+    latest: 1.0-ALPHA-15
+    release: 1.0-ALPHA-15
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+  it-tidalwave-solidblue-application:
+    lastUpdated: 20140322214514
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  it-tidalwave-solidblue-application-customization:
+    lastUpdated: 20140322214514
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-solidblue-boot:
+    lastUpdated: 20140322214515
+    latest: 1.0-ALPHA-15
+    release: 1.0-ALPHA-15
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+  it-tidalwave-solidblue-branding:
+    lastUpdated: 20140322214515
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-solidblue-macosx:
+    lastUpdated: 20120517104241
+    latest: 1.0-ALPHA-6
+    release: 1.0-ALPHA-6
+    versions:
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+  it-tidalwave-solidblue-modules:
+    lastUpdated: 20140322214516
+    latest: 1.0-ALPHA-15
+    release: 1.0-ALPHA-15
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+  solidblue-application:
+    lastUpdated: 20120104121603
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  solidblue-macosx:
+    lastUpdated: 20140322214517
+    latest: 1.0-ALPHA-15
+    release: 1.0-ALPHA-15
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+  solidblue-macosx-embedded-jre:
+    lastUpdated: 20140322214518
+    latest: 1.0-ALPHA-15
+    release: 1.0-ALPHA-15
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+  solidblue-master:
+    lastUpdated: 20120517104249
+    latest: 1.0-ALPHA-6
+    release: 1.0-ALPHA-6
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+  solidblue-modules:
+    lastUpdated: 20120517104243
+    latest: 1.0-ALPHA-6
+    release: 1.0-ALPHA-6
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+

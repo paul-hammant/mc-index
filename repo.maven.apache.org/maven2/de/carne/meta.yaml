@@ -1,0 +1,47 @@
+artifacts:
+  common-core:
+    lastUpdated: 20160713062109
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  common-jfx:
+    lastUpdated: 20160713062109
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  compression:
+    lastUpdated: 20160711130930
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  default:
+    lastUpdated: 20170129125627
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  gradleplugins:
+    lastUpdated: 20170110211723
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.1
+      - 0.4.0
+  jfx:
+    lastUpdated: 20170129125628
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+

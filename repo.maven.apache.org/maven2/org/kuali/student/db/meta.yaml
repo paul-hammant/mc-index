@@ -1,0 +1,94 @@
+artifacts:
+  ks-app-db:
+    lastUpdated: 20140925171424
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-bundled-db:
+    lastUpdated: 20140925171425
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-cfg-dbs:
+    lastUpdated: 20140925171426
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-embedded-db:
+    lastUpdated: 20120717220746
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-regression-db:
+    lastUpdated: 20140925171427
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-rice-baseline-db:
+    lastUpdated: 20140925171428
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-rice-db:
+    lastUpdated: 20140925171428
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-standalone-db:
+    lastUpdated: 20120717220747
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+

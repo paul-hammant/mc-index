@@ -1,0 +1,61 @@
+artifacts:
+  kubernetes-client:
+    lastUpdated: 20170103021135
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.4
+  kubernetes-client-bom:
+    lastUpdated: 20170103021136
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.4
+  kubernetes-client-bom-with-deps:
+    lastUpdated: 20170103021136
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.4
+  kubernetes-client-project:
+    lastUpdated: 20170103021136
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.4
+  kubernetes-model:
+    lastUpdated: 20170103020042
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  kubernetes-model-annotator:
+    lastUpdated: 20170103020042
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  kubernetes-model-generator:
+    lastUpdated: 20170103020042
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  openshift-client:
+    lastUpdated: 20170103021136
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+

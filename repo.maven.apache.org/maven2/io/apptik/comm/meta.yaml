@@ -1,0 +1,289 @@
+artifacts:
+  android-log:
+    lastUpdated: 20151020010123
+    latest: 0.6.0a
+    release: 0.6.0a
+    versions:
+      - 0.6.0a
+  java-log:
+    lastUpdated: 20151020010124
+    latest: 0.6.0a
+    release: 0.6.0a
+    versions:
+      - 0.6.0a
+  jus-android:
+    lastUpdated: 20170110193822
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-android-rx:
+    lastUpdated: 20151111013906
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  jus-apachehttp:
+    lastUpdated: 20170110193822
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-core:
+    lastUpdated: 20150918182532
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  jus-gson:
+    lastUpdated: 20170110193823
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-jackson:
+    lastUpdated: 20170110193823
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-java:
+    lastUpdated: 20170110193823
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-jjson:
+    lastUpdated: 20170110193824
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-jjson-wrapper:
+    lastUpdated: 20170110193824
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.8
+      - 0.6.9
+  jus-moshi:
+    lastUpdated: 20170110193825
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-netty:
+    lastUpdated: 20170110193825
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-okhttp:
+    lastUpdated: 20170110193825
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-okhttp3:
+    lastUpdated: 20170110193826
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-protobuf:
+    lastUpdated: 20170110193826
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-simplexml:
+    lastUpdated: 20170110193827
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  jus-ui:
+    lastUpdated: 20150918182532
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  jus-util:
+    lastUpdated: 20150918182533
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  jus-wire:
+    lastUpdated: 20170110193827
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  retro-jus:
+    lastUpdated: 20170110193827
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+  rx-jus:
+    lastUpdated: 20170110193828
+    latest: 0.6.9
+    release: 0.6.9
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0beta
+      - 0.6.0
+      - 0.6.0a
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+

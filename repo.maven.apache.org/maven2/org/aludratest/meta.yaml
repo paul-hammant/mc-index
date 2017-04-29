@@ -1,0 +1,62 @@
+artifacts:
+  aludratest:
+    lastUpdated: 20150724115120
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.7.0-RC1
+      - 2.7.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  aludratest-hpalm-connector:
+    lastUpdated: 20150727092449
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  aludratest-parent-pom:
+    lastUpdated: 20150729123807
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  cloud-manager-api:
+    lastUpdated: 20170111162521
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  cloud-manager-impl:
+    lastUpdated: 20170112091921
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  cloud-manager-parent:
+    lastUpdated: 20160706081817
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  cloud-manager-selenium:
+    lastUpdated: 20160706123547
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  log4testing:
+    lastUpdated: 20160301150541
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

@@ -1,0 +1,151 @@
+artifacts:
+  spring-statemachine-boot:
+    lastUpdated: 20170313161743
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-cluster:
+    lastUpdated: 20170313161743
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-core:
+    lastUpdated: 20170313161744
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-data-common:
+    lastUpdated: 20170313161744
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-data-jpa:
+    lastUpdated: 20170313161745
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-data-mongodb:
+    lastUpdated: 20170313161745
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-data-redis:
+    lastUpdated: 20170313161746
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-kryo:
+    lastUpdated: 20170313161747
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-recipes-common:
+    lastUpdated: 20170313161747
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-redis:
+    lastUpdated: 20170313161748
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-test:
+    lastUpdated: 20170313161748
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-uml:
+    lastUpdated: 20170313161749
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+  spring-statemachine-zookeeper:
+    lastUpdated: 20170313161749
+    latest: 1.2.3.RELEASE
+    release: 1.2.3.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+      - 1.2.3.RELEASE
+

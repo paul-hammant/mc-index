@@ -1,0 +1,98 @@
+artifacts:
+  jsr299-tck-api:
+    lastUpdated: 20140623063430
+    latest: 1.0.6.Final
+    release: 1.0.6.Final
+    versions:
+      - 1.0.0.ALPHA2
+      - 1.0.0.BETA1
+      - 1.0.0.BETA2
+      - 1.0.0.BETA3
+      - 1.0.2.CR2
+      - 1.0.2.CR3
+      - 1.0.2.Final
+      - 1.0.2.SP1
+      - 1.0.3.Final
+      - 1.0.4.CR1
+      - 1.0.4.CR2
+      - 1.0.4.Final
+      - 1.0.4.SP1
+      - 1.0.4.SP3
+      - 1.0.5.CR1
+      - 1.0.5.Final
+      - 1.0.6.Final
+  jsr299-tck-dist:
+    lastUpdated: 20091016212747
+    latest: 1.0.0-CR2
+    release: 1.0.0-CR2
+    versions:
+      - 1.0.0-CR1
+      - 1.0.0-CR2
+  jsr299-tck-impl:
+    lastUpdated: 20140623063435
+    latest: 1.0.6.Final
+    release: 1.0.6.Final
+    versions:
+      - 1.0.0.ALPHA2
+      - 1.0.0.BETA1
+      - 1.0.0.BETA2
+      - 1.0.0.BETA3
+      - 1.0.2.CR2
+      - 1.0.2.CR3
+      - 1.0.2.Final
+      - 1.0.2.SP1
+      - 1.0.3.Final
+      - 1.0.4.CR1
+      - 1.0.4.CR2
+      - 1.0.4.Final
+      - 1.0.4.SP1
+      - 1.0.4.SP3
+      - 1.0.5.CR1
+      - 1.0.5.Final
+      - 1.0.6.Final
+  jsr299-tck-parent:
+    lastUpdated: 20140623063443
+    latest: 1.0.6.Final
+    release: 1.0.6.Final
+    versions:
+      - 1.0.0.BETA3
+      - 1.0.2.CR2
+      - 1.0.2.CR3
+      - 1.0.2.Final
+      - 1.0.2.SP1
+      - 1.0.3.Final
+      - 1.0.4.CR1
+      - 1.0.4.CR2
+      - 1.0.4.Final
+      - 1.0.4.SP1
+      - 1.0.4.SP3
+      - 1.0.5.CR1
+      - 1.0.5.Final
+      - 1.0.6.Final
+  jsr299-tck-reference-guide:
+    lastUpdated: 20140623063445
+    latest: 1.0.6.Final
+    release: 1.0.6.Final
+    versions:
+      - 1.0.2.CR2
+      - 1.0.2.CR3
+      - 1.0.2.Final
+      - 1.0.2.SP1
+      - 1.0.3.Final
+      - 1.0.4.CR1
+      - 1.0.4.CR2
+      - 1.0.4.Final
+      - 1.0.4.SP1
+      - 1.0.4.SP3
+      - 1.0.5.CR1
+      - 1.0.5.Final
+      - 1.0.6.Final
+  parent:
+    lastUpdated: 20100425091613
+    latest: 1.0.0.BETA2
+    release: 1.0.0.BETA2
+    versions:
+      - 1.0.0.ALPHA2
+      - 1.0.0.BETA1
+      - 1.0.0.BETA2
+

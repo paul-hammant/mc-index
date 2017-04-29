@@ -1,0 +1,68 @@
+artifacts:
+  gnmatcher_2.10:
+    lastUpdated: 20161226124243
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  gnmatcher_2.11:
+    lastUpdated: 20161226124243
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  gnparser-spark-python_2.11:
+    lastUpdated: 20161226064841
+    latest: 0.3.3.1
+    release: 0.3.3.1
+    versions:
+      - 0.3.3.1
+  gnparser_2.10:
+    lastUpdated: 20161226112818
+    latest: 0.3.3.1
+    release: 0.3.3.1
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.3.1
+  gnparser_2.11:
+    lastUpdated: 20161226064842
+    latest: 0.3.3.1
+    release: 0.3.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.3.1
+  parboiled_2.10:
+    lastUpdated: 20160425143628
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.2.1
+      - 2.1.2.2
+      - 2.2.1
+  parboiled_2.11:
+    lastUpdated: 20170220103610
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.2.1
+      - 2.1.2.2
+      - 2.1.4.1
+      - 2.2.1
+  parboiled_2.12:
+    lastUpdated: 20170220103611
+    latest: 2.1.4.1
+    release: 2.1.4.1
+    versions:
+      - 2.1.4.1
+

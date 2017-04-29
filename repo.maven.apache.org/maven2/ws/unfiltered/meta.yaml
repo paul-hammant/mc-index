@@ -1,0 +1,458 @@
+artifacts:
+  unfiltered-agents_2.10:
+    lastUpdated: 20170406063436
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-agents_2.11:
+    lastUpdated: 20170406063436
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-agents_2.12:
+    lastUpdated: 20170406063437
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-directives_2.10:
+    lastUpdated: 20170406063437
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-directives_2.11:
+    lastUpdated: 20170406063438
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-directives_2.12:
+    lastUpdated: 20170406063438
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-async_2.10:
+    lastUpdated: 20170406063439
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-async_2.11:
+    lastUpdated: 20170406063439
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-async_2.12:
+    lastUpdated: 20170406063439
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-uploads_2.10:
+    lastUpdated: 20170406063440
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-uploads_2.11:
+    lastUpdated: 20170406063440
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter-uploads_2.12:
+    lastUpdated: 20170406063440
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter_2.10:
+    lastUpdated: 20170406063441
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter_2.11:
+    lastUpdated: 20170406063441
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-filter_2.12:
+    lastUpdated: 20170406063442
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-jetty_2.10:
+    lastUpdated: 20170406063442
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-jetty_2.11:
+    lastUpdated: 20170406063443
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-jetty_2.12:
+    lastUpdated: 20170406063443
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-json4s_2.10:
+    lastUpdated: 20170406063444
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-json4s_2.11:
+    lastUpdated: 20170406063444
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-json4s_2.12:
+    lastUpdated: 20170406063445
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-mac_2.10:
+    lastUpdated: 20170406063446
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-mac_2.11:
+    lastUpdated: 20170406063446
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-mac_2.12:
+    lastUpdated: 20170406063446
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-server_2.10:
+    lastUpdated: 20170406063447
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-server_2.11:
+    lastUpdated: 20170406063447
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-server_2.12:
+    lastUpdated: 20170406063448
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-uploads_2.10:
+    lastUpdated: 20170406063448
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-uploads_2.11:
+    lastUpdated: 20170406063449
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-uploads_2.12:
+    lastUpdated: 20170406063449
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-websockets_2.10:
+    lastUpdated: 20170406063450
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-websockets_2.11:
+    lastUpdated: 20170406063450
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty-websockets_2.12:
+    lastUpdated: 20170406063451
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty_2.10:
+    lastUpdated: 20170406063451
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty_2.11:
+    lastUpdated: 20170406063452
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-netty_2.12:
+    lastUpdated: 20170406063452
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth2_2.10:
+    lastUpdated: 20170406063453
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth2_2.11:
+    lastUpdated: 20170406063453
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth2_2.12:
+    lastUpdated: 20170406063453
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth_2.10:
+    lastUpdated: 20170406063454
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth_2.11:
+    lastUpdated: 20170406063454
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-oauth_2.12:
+    lastUpdated: 20170406063455
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-scalatest_2.10:
+    lastUpdated: 20170406063455
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-scalatest_2.11:
+    lastUpdated: 20170406063455
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-scalatest_2.12:
+    lastUpdated: 20170406063456
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-specs2_2.10:
+    lastUpdated: 20170406063456
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-specs2_2.11:
+    lastUpdated: 20170406063456
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-specs2_2.12:
+    lastUpdated: 20170406063457
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-uploads_2.10:
+    lastUpdated: 20170406063457
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-uploads_2.11:
+    lastUpdated: 20170406063458
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-uploads_2.12:
+    lastUpdated: 20170406063458
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-util_2.10:
+    lastUpdated: 20170406063458
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-util_2.11:
+    lastUpdated: 20170406063459
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered-util_2.12:
+    lastUpdated: 20170406063459
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered_2.10:
+    lastUpdated: 20170406063459
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered_2.11:
+    lastUpdated: 20170406063500
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+  unfiltered_2.12:
+    lastUpdated: 20170406063500
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-beta2
+      - 0.9.0
+      - 0.9.1
+

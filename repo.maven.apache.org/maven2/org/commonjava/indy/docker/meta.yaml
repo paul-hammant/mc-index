@@ -1,0 +1,35 @@
+artifacts:
+  indy-docker-base:
+    lastUpdated: 20170302000739
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  indy-docker-images:
+    lastUpdated: 20170302000739
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  indy-test-docker-appliances:
+    lastUpdated: 20170302000739
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+

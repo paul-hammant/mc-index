@@ -1,0 +1,141 @@
+artifacts:
+  common-client:
+    lastUpdated: 20111103170812
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  visuwall:
+    lastUpdated: 20120207230602
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-api:
+    lastUpdated: 20120207230601
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-bambooclient:
+    lastUpdated: 20111103170812
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  visuwall-cli:
+    lastUpdated: 20120207230604
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-core:
+    lastUpdated: 20120207230603
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-hudsonclient:
+    lastUpdated: 20111103170810
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  visuwall-plugin-bamboo:
+    lastUpdated: 20120207230602
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-plugin-continuum:
+    lastUpdated: 20120207230603
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-plugin-hudson:
+    lastUpdated: 20120207230603
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-plugin-jenkins:
+    lastUpdated: 20120207230603
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-plugin-sonar:
+    lastUpdated: 20120207230603
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-plugin-teamcity:
+    lastUpdated: 20120207230601
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  visuwall-sonarclient:
+    lastUpdated: 20111103170811
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  visuwall-teamcityclient:
+    lastUpdated: 20111103170810
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  visuwall-web:
+    lastUpdated: 20120207230602
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+

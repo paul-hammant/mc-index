@@ -1,0 +1,44 @@
+artifacts:
+  gravitee-resource-api:
+    lastUpdated: 20161025231124
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+  gravitee-resource-cache:
+    lastUpdated: 20170110235919
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+  gravitee-resource-oauth2:
+    lastUpdated: 20170110235918
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  gravitee-resource-oauth2-provider-am:
+    lastUpdated: 20170419233811
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gravitee-resource-oauth2-provider-api:
+    lastUpdated: 20170419233223
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gravitee-resource-oauth2-provider-generic:
+    lastUpdated: 20170419233815
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+

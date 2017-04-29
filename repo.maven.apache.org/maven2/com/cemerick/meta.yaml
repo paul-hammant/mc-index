@@ -1,0 +1,91 @@
+artifacts:
+  austin:
+    lastUpdated: 20130827153835
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  bandalore:
+    lastUpdated: 20140909120716
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  clojurescript.test:
+    lastUpdated: 20141213132113
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+  piggieback:
+    lastUpdated: 20150424212749
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.5
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+  pomegranate:
+    lastUpdated: 20160322104013
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+  rummage:
+    lastUpdated: 20131006022519
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  utc-dates:
+    lastUpdated: 20110509205235
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+

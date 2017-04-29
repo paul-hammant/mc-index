@@ -1,0 +1,57 @@
+artifacts:
+  odata4j:
+    lastUpdated: 20111201133251
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+  odata4j-core:
+    lastUpdated: 20120815120905
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  odata4j-cxf:
+    lastUpdated: 20120815120906
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  odata4j-dist:
+    lastUpdated: 20120815120908
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  odata4j-examples:
+    lastUpdated: 20120815120909
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  odata4j-fit:
+    lastUpdated: 20120815120910
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  odata4j-jersey:
+    lastUpdated: 20120815120912
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  odata4j-parent:
+    lastUpdated: 20120815120912
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+

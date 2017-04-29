@@ -1,0 +1,85 @@
+artifacts:
+  directory-watcher:
+    lastUpdated: 20131023092551
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.1
+      - 1.2.0
+  directorywatcher:
+    lastUpdated: 20130623141617
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  maven-plugin:
+    lastUpdated: 20130828141013
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  rxjava-promises:
+    lastUpdated: 20130819121201
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  rxjava-promises-core:
+    lastUpdated: 20150209131115
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+  rxjava-promises-groovy:
+    lastUpdated: 20150208125225
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+  rxjava-promises-java:
+    lastUpdated: 20150208125225
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+  vertx-gradle-plugin:
+    lastUpdated: 20130819121206
+    latest: 1.1.0-ALPHA2
+    release: 1.1.0-ALPHA2
+    versions:
+      - 1.0.0-ALPHA1
+      - 1.0.0-ALPHA2
+      - 1.0.0-ALPHA3
+      - 1.1.0-ALPHA1
+      - 1.1.0-ALPHA2
+  vertx-promises:
+    lastUpdated: 20130819121203
+    latest: 1.1.0-ALPHA1
+    release: 1.1.0-ALPHA1
+    versions:
+      - 1.1.0-ALPHA1
+  vertx-promises-groovy:
+    lastUpdated: 20130915062548
+    latest: 1.1.0-ALPHA2
+    release: 1.1.0-ALPHA2
+    versions:
+      - 1.1.0-ALPHA2
+  vertx-promises-java:
+    lastUpdated: 20130915062549
+    latest: 1.1.0-ALPHA2
+    release: 1.1.0-ALPHA2
+    versions:
+      - 1.1.0-ALPHA2
+

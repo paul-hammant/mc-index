@@ -1,0 +1,1325 @@
+artifacts:
+  activiti-app:
+    lastUpdated: 20150902115036
+    latest: 6.0.0.Beta1
+    release: 6.0.0.Beta1
+    versions:
+      - 6.0.0.Beta1
+  activiti-app-data:
+    lastUpdated: 20160907143852
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-app-logic:
+    lastUpdated: 20160907143852
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-app-model:
+    lastUpdated: 20160907143853
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-app-rest:
+    lastUpdated: 20160907143853
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-archetype-unittest:
+    lastUpdated: 20161104152905
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-bpmn-converter:
+    lastUpdated: 20161104152905
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-bpmn-layout:
+    lastUpdated: 20161104152905
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-bpmn-model:
+    lastUpdated: 20161104152906
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-camel:
+    lastUpdated: 20161104152906
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-cdi:
+    lastUpdated: 20161104152907
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-cipher:
+    lastUpdated: 20151223133307
+    latest: 6.0.0.Beta2
+    release: 6.0.0.Beta2
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+  activiti-common-rest:
+    lastUpdated: 20161104152907
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-crystalball:
+    lastUpdated: 20161104152907
+    latest: 6.0.0.Beta2
+    release: 6.0.0.Beta2
+    versions:
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 5.16
+  activiti-cxf:
+    lastUpdated: 20161104152908
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-diagram-rest:
+    lastUpdated: 20161104152908
+    latest: 5.22.0
+    release: 5.22.0
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-dmn-api:
+    lastUpdated: 20160907143859
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-engine:
+    lastUpdated: 20160907143859
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-engine-configurator:
+    lastUpdated: 20160907143900
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-json-converter:
+    lastUpdated: 20160907143901
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-model:
+    lastUpdated: 20160907143901
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-rest:
+    lastUpdated: 20160907143902
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-dmn-xml-converter:
+    lastUpdated: 20160907143903
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-engine:
+    lastUpdated: 20161104152908
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-explorer:
+    lastUpdated: 20161104152909
+    latest: 5.22.0
+    release: 5.22.0
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-form-api:
+    lastUpdated: 20160907143904
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-form-engine:
+    lastUpdated: 20160907143905
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-form-engine-configurator:
+    lastUpdated: 20160907143906
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-form-json-converter:
+    lastUpdated: 20160907143906
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-form-model:
+    lastUpdated: 20160907143908
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-image-generator:
+    lastUpdated: 20161104152909
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.16
+  activiti-jms-spring-executor:
+    lastUpdated: 20160907143911
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-jmx:
+    lastUpdated: 20161104152910
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-json-converter:
+    lastUpdated: 20161104152910
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-ldap:
+    lastUpdated: 20161104152910
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-modeler:
+    lastUpdated: 20161104152911
+    latest: 5.22.0
+    release: 5.22.0
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-mule:
+    lastUpdated: 20161104152911
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-osgi:
+    lastUpdated: 20161104152911
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-process-validation:
+    lastUpdated: 20161104152912
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.15
+      - 5.16
+  activiti-rest:
+    lastUpdated: 20161104152912
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-root:
+    lastUpdated: 20161104152912
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-secure-javascript:
+    lastUpdated: 20161104152912
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-simple-workflow:
+    lastUpdated: 20161104152913
+    latest: 5.22.0
+    release: 5.22.0
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-spring:
+    lastUpdated: 20161104152913
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-spring-boot:
+    lastUpdated: 20161104152913
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.16
+  activiti-spring-boot-samples:
+    lastUpdated: 20161104152914
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-actuator:
+    lastUpdated: 20161104152914
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-basic:
+    lastUpdated: 20161104152914
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-integration:
+    lastUpdated: 20161104152914
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-jpa:
+    lastUpdated: 20161104152915
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-rest-api:
+    lastUpdated: 20161104152915
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starter-security:
+    lastUpdated: 20161104152915
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-spring-boot-starters:
+    lastUpdated: 20161104152916
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-ui-root:
+    lastUpdated: 20160907143922
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti-webapp-explorer2:
+    lastUpdated: 20161104152916
+    latest: 5.22.0
+    release: 5.22.0
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti-webapp-rest2:
+    lastUpdated: 20161104152918
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.14
+      - 5.15
+      - 5.15.1
+      - 5.16
+      - 5.16.1
+      - 5.16.2
+      - 5.16.3
+      - 5.16.4
+      - 5.16.5
+      - 5.16.6
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+      - 5.14
+      - 5.15
+      - 5.16
+  activiti5-compatibility:
+    lastUpdated: 20160907143923
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti5-engine:
+    lastUpdated: 20160907143924
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti5-spring:
+    lastUpdated: 20160907143925
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  activiti5-spring-compatibility:
+    lastUpdated: 20160907143926
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  archetypes:
+    lastUpdated: 20151105133914
+    latest: 5.19.0
+    release: 5.19.0
+    versions:
+      - 5.19.0
+  content-storage-api:
+    lastUpdated: 20160907143926
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  content-storage-fs:
+    lastUpdated: 20160907143927
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  editor-image-generator:
+    lastUpdated: 20160907143927
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot:
+    lastUpdated: 20141218100545
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-sample-actuator:
+    lastUpdated: 20161104152918
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-basic:
+    lastUpdated: 20161104152918
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-custom-mybatis-mapper:
+    lastUpdated: 20161104152919
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-integration:
+    lastUpdated: 20161104152919
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-jpa:
+    lastUpdated: 20161104152920
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-rest-api:
+    lastUpdated: 20161104152920
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-rest-api-security:
+    lastUpdated: 20161104152920
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-sample-security:
+    lastUpdated: 20161104152920
+    latest: 6.0.0.Beta4
+    release: 6.0.0.Beta4
+    versions:
+      - 5.17.0
+      - 5.18.0
+      - 5.19.0
+      - 5.19.0.1
+      - 5.19.0.2
+      - 5.19.0.3
+      - 5.20.0
+      - 5.21.0
+      - 5.22.0
+      - 6.0.0.Beta1
+      - 6.0.0.Beta2
+      - 6.0.0.Beta3
+      - 6.0.0.Beta4
+  spring-boot-samples:
+    lastUpdated: 20141218100548
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-actuator:
+    lastUpdated: 20141218100548
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-basic:
+    lastUpdated: 20141218100549
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-integration:
+    lastUpdated: 20141218100549
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-jpa:
+    lastUpdated: 20141218100550
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-rest-api:
+    lastUpdated: 20141218100550
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starter-security:
+    lastUpdated: 20141218100550
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+  spring-boot-starters:
+    lastUpdated: 20141218100550
+    latest: 5.17.0
+    release: 5.17.0
+    versions:
+      - 5.17.0
+

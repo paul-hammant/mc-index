@@ -1,0 +1,83 @@
+artifacts:
+  build:
+    lastUpdated: 20100328172247
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina:
+    lastUpdated: 20100328172249
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.4
+  mina-core:
+    lastUpdated: 20100328172244
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-examples:
+    lastUpdated: 20100328172244
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-filter-codec-asn1:
+    lastUpdated: 20100328172246
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-filter-codec-netty:
+    lastUpdated: 20100328172243
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-filter-compression:
+    lastUpdated: 20100328172249
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.3
+      - 0.9.4
+  mina-filter-ssl:
+    lastUpdated: 20100328172246
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-integration-spring:
+    lastUpdated: 20100328172248
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  mina-java5:
+    lastUpdated: 20060905143036
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5
+

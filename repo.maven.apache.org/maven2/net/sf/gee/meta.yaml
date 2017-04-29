@@ -1,0 +1,44 @@
+artifacts:
+  g-common:
+    lastUpdated: 20161017160553
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.5
+  g-db:
+    lastUpdated: 20160424110946
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.7
+      - 1.1.0
+  g-logger:
+    lastUpdated: 20160424110251
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.5
+      - 1.1.6
+      - 1.2.0
+  g-parent:
+    lastUpdated: 20160320035435
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.18
+  g-properties:
+    lastUpdated: 20161018155951
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.1.3
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

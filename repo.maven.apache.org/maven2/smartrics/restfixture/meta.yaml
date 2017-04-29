@@ -1,0 +1,39 @@
+artifacts:
+  smartrics-RestClient:
+    lastUpdated: 20160908081706
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+  smartrics-RestFixture:
+    lastUpdated: 20170131172934
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 3.0
+      - 3.1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  smartrics-RestFixture-LiveDoc:
+    lastUpdated: 20170131175146
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  smartrics-RestFixtureExtensions:
+    lastUpdated: 20150115223914
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+

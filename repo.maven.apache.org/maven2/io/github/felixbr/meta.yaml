@@ -1,0 +1,61 @@
+artifacts:
+  swagger-blocks-circe_2.11:
+    lastUpdated: 20170211150712
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  swagger-blocks-circe_2.12:
+    lastUpdated: 20170211150712
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  swagger-blocks-play_2.11:
+    lastUpdated: 20170211150713
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+  swagger-blocks-play_2.12:
+    lastUpdated: 20170211150714
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  swagger-blocks-scala_2.11:
+    lastUpdated: 20170211150714
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+  swagger-blocks-scala_2.12:
+    lastUpdated: 20170211150715
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  swagger-blocks-yaml_2.11:
+    lastUpdated: 20170211150715
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+  swagger-blocks-yaml_2.12:
+    lastUpdated: 20170211150716
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

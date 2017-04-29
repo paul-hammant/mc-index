@@ -1,0 +1,165 @@
+artifacts:
+  syncope-core-logic:
+    lastUpdated: 20170418082138
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-migration:
+    lastUpdated: 20170418082138
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-misc:
+    lastUpdated: 20151226150914
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  syncope-core-persistence-api:
+    lastUpdated: 20170418082138
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-persistence-jpa:
+    lastUpdated: 20170418082139
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-provisioning-api:
+    lastUpdated: 20170418082140
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-provisioning-java:
+    lastUpdated: 20170418082140
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-rest-cxf:
+    lastUpdated: 20170418082141
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-spring:
+    lastUpdated: 20170418082141
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-workflow-activiti:
+    lastUpdated: 20170418082142
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-workflow-api:
+    lastUpdated: 20170418082142
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  syncope-core-workflow-flowable:
+    lastUpdated: 20170418082143
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-core-workflow-java:
+    lastUpdated: 20170418082143
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0.M5
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+

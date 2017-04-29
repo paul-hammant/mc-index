@@ -1,0 +1,46 @@
+artifacts:
+  org.everit.transaction.map.api:
+    lastUpdated: 20150701155842
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.transaction.map.managed:
+    lastUpdated: 20150713143004
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  org.everit.transaction.map.readcommited:
+    lastUpdated: 20150701163016
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.transaction.propagator.api:
+    lastUpdated: 20150723151045
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.transaction.propagator.jta:
+    lastUpdated: 20150723152923
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.transaction.propagator.jta.ecm:
+    lastUpdated: 20160425085937
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.transaction.unchecked:
+    lastUpdated: 20150625193315
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

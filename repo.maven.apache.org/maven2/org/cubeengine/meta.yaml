@@ -1,0 +1,66 @@
+artifacts:
+  converter:
+    lastUpdated: 20170219132052
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  dirigent:
+    lastUpdated: 20160327091353
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+  pericopist:
+    lastUpdated: 20150924194543
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+  pericopist-core:
+    lastUpdated: 20150924194544
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+  reflect:
+    lastUpdated: 20170219132052
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  reflect-core:
+    lastUpdated: 20170219132052
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  reflect-hocon:
+    lastUpdated: 20170219132052
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  reflect-mongo:
+    lastUpdated: 20170219132053
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  reflect-nbt:
+    lastUpdated: 20170219132053
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  reflect-yaml:
+    lastUpdated: 20170219132053
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+

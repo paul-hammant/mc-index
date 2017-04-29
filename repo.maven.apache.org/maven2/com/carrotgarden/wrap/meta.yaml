@@ -1,0 +1,22 @@
+artifacts:
+  carrot-wrap-7zip:
+    lastUpdated: 20120809231811
+    latest: 9.20-build004
+    release: 9.20-build004
+    versions:
+      - 9.20-build004
+  carrot-wrap-aws-java-sdk:
+    lastUpdated: 20130322201648
+    latest: 1.4.1-build001
+    release: 1.4.1-build001
+    versions:
+      - 1.3.14-build003
+      - 1.4.1-build001
+  carrot-wrap-jgit:
+    lastUpdated: 20130221201835
+    latest: 2.2.0-build001
+    release: 2.2.0-build001
+    versions:
+      - 2.0.0-build004
+      - 2.2.0-build001
+

@@ -1,0 +1,56 @@
+artifacts:
+  oauth-api:
+    lastUpdated: 20170225000048
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  oauth-base:
+    lastUpdated: 20170225000049
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  oauth-dao-hbm:
+    lastUpdated: 20170225000050
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  oauth-dao-memory:
+    lastUpdated: 20170225000051
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  oauth-dao-server-config:
+    lastUpdated: 20170225000053
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  oauth-impl:
+    lastUpdated: 20170225000054
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+

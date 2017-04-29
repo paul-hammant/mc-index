@@ -1,0 +1,107 @@
+artifacts:
+  patterntesting:
+    lastUpdated: 20081103212506
+    latest: {}
+    release: {}
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  patterntesting-check:
+    lastUpdated: 20091220212527
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.9.5
+      - 0.9.6
+      - 0.9.8
+  patterntesting-check-ct:
+    lastUpdated: 20091230110310
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.9
+  patterntesting-check-rt:
+    lastUpdated: 20091230113240
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+  patterntesting-concurrent:
+    lastUpdated: 20091230130354
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+  patterntesting-exception:
+    lastUpdated: 20091230172952
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+  patterntesting-parent:
+    lastUpdated: 20091230091743
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+  patterntesting-rt:
+    lastUpdated: 20091230095921
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.9.5
+      - 0.9.6
+      - 0.9.8
+      - 0.9.9
+  patterntesting-samples:
+    lastUpdated: 20091230173509
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+  patterntesting-tools:
+    lastUpdated: 20091230174715
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.8
+      - 0.9.9
+

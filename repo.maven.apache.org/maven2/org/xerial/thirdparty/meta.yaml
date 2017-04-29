@@ -1,0 +1,35 @@
+artifacts:
+  fluency:
+    lastUpdated: 20160820013311
+    latest: 0.0.13-shaded
+    release: 0.0.13-shaded
+    versions:
+      - 0.0.13-hotfix
+      - 0.0.13-shaded
+  jdbc-api:
+    lastUpdated: 20080717030350
+    latest: {}
+    release: {}
+    versions:
+      - 1.4
+  nestedvm:
+    lastUpdated: 20080703024537
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  org.antlr.antlr3:
+    lastUpdated: 20081006021704
+    latest: {}
+    release: {}
+    versions:
+      - 3.1.1
+  sqlitejdbc-nested:
+    lastUpdated: 20080925054651
+    latest: {}
+    release: {}
+    versions:
+      - 3.5.9
+      - 3.6.0
+      - 3.6.2
+

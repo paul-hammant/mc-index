@@ -1,0 +1,38 @@
+artifacts:
+  kualigan-lb-ant:
+    lastUpdated: 20140907043817
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.8
+      - 2.0.1
+      - 2.0.2
+  kualigan-lb-extensions:
+    lastUpdated: 20140907043210
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 2.0.0
+      - 2.0.1
+  rice-lb-extensions:
+    lastUpdated: 20140919140933
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 2.0.1
+

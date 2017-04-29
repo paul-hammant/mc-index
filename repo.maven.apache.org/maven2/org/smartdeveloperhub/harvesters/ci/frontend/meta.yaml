@@ -1,0 +1,58 @@
+artifacts:
+  ci-frontend-aggregator:
+    lastUpdated: 20160714151701
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-bom:
+    lastUpdated: 20160714151701
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-core:
+    lastUpdated: 20160714151701
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-dist:
+    lastUpdated: 20160714151703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-integration:
+    lastUpdated: 20160714151703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-spi:
+    lastUpdated: 20160714151703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-frontend-test:
+    lastUpdated: 20160714151703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+

@@ -1,0 +1,162 @@
+artifacts:
+  bookkeeper:
+    lastUpdated: 20160515205430
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  bookkeeper-benchmark:
+    lastUpdated: 20160515205432
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  bookkeeper-server:
+    lastUpdated: 20160515205437
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  bookkeeper-server-compat400:
+    lastUpdated: 20130118114037
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  bookkeeper-server-compat410:
+    lastUpdated: 20130118114040
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.1.0
+  bookkeeper-server-compat420:
+    lastUpdated: 20141014075408
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  bookkeeper-stats-providers:
+    lastUpdated: 20160515205538
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  compat-deps:
+    lastUpdated: 20160515205539
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  hedwig-client:
+    lastUpdated: 20151130225531
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  hedwig-client-jms:
+    lastUpdated: 20151130225531
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  hedwig-protocol:
+    lastUpdated: 20151130225531
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  hedwig-server:
+    lastUpdated: 20151130225531
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  hedwig-server-compat400:
+    lastUpdated: 20130118114040
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  hedwig-server-compat410:
+    lastUpdated: 20130118114038
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.1.0
+  hedwig-server-compat420:
+    lastUpdated: 20141014075415
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+

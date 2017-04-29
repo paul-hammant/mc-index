@@ -1,0 +1,110 @@
+artifacts:
+  cloud-application:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  cloud-application-core:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  cloud-application-deployable:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  cloud-application-deployable-artefact:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  cloud-application-deployable-xml:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  cloud-descriptors:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  common:
+    lastUpdated: 20121023124338
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  deployment:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  deployment-core:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-core:
+    lastUpdated: 20121023124341
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-node-template:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-node-template-external-db:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-node-template-jk:
+    lastUpdated: 20121023124339
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-node-template-jonas:
+    lastUpdated: 20121023124340
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-topology:
+    lastUpdated: 20121023124340
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-topology-connector:
+    lastUpdated: 20121023124340
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+  environment-template-topology-datasource:
+    lastUpdated: 20121023124340
+    latest: 1.0-M1
+    release: 1.0-M1
+    versions:
+      - 1.0-M1
+

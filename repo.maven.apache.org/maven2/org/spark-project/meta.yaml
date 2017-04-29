@@ -1,0 +1,230 @@
+artifacts:
+  akka-actor:
+    lastUpdated: 20131204032323
+    latest: 2.0.5-protobuf-2.5-java-1.5
+    release: 2.0.5-protobuf-2.5-java-1.5
+    versions:
+      - 2.0.5-pb-2.5
+      - 2.0.5-protobuf-2.5
+      - 2.0.5-protobuf-2.5-java-1.5
+  akka-remote:
+    lastUpdated: 20131204032326
+    latest: 2.0.5-protobuf-2.5-java-1.5
+    release: 2.0.5-protobuf-2.5-java-1.5
+    versions:
+      - 2.0.5-pb-2.5
+      - 2.0.5-protobuf-2.5
+      - 2.0.5-protobuf-2.5-java-1.5
+  akka-slf4j:
+    lastUpdated: 20131204032329
+    latest: 2.0.5-protobuf-2.5-java-1.5
+    release: 2.0.5-protobuf-2.5-java-1.5
+    versions:
+      - 2.0.5-pb-2.5
+      - 2.0.5-protobuf-2.5
+      - 2.0.5-protobuf-2.5-java-1.5
+  akka-zeromq:
+    lastUpdated: 20131204032331
+    latest: 2.0.5-protobuf-2.5-java-1.5
+    release: 2.0.5-protobuf-2.5-java-1.5
+    versions:
+      - 2.0.5-pb-2.5
+      - 2.0.5-protobuf-2.5
+      - 2.0.5-protobuf-2.5-java-1.5
+  genjavadoc-plugin_2.10.2:
+    lastUpdated: 20150529205012
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.10.3:
+    lastUpdated: 20150529205541
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.10.4:
+    lastUpdated: 20150529205617
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.10.5:
+    lastUpdated: 20150529205541
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.10.6:
+    lastUpdated: 20160331234053
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.0:
+    lastUpdated: 20150529211019
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.1:
+    lastUpdated: 20150529211040
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.2:
+    lastUpdated: 20150529211105
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.3:
+    lastUpdated: 20150529211126
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.4:
+    lastUpdated: 20150529211146
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.5:
+    lastUpdated: 20150529211746
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.6:
+    lastUpdated: 20150529212129
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.7:
+    lastUpdated: 20150707170805
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  genjavadoc-plugin_2.11.8:
+    lastUpdated: 20160331234058
+    latest: 0.9-spark0
+    release: 0.9-spark0
+    versions:
+      - 0.9-spark0
+  pyrolite:
+    lastUpdated: 20150504212025
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 2.0
+      - 2.0.1
+      - 4.4
+  spark-bagel_2.9.2:
+    lastUpdated: 20130226221120
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+  spark-bagel_2.9.3:
+    lastUpdated: 20130716210237
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  spark-core_2.9.2:
+    lastUpdated: 20130226221139
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+  spark-core_2.9.3:
+    lastUpdated: 20130716210239
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  spark-examples_2.9.2:
+    lastUpdated: 20130226221142
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+  spark-examples_2.9.3:
+    lastUpdated: 20130716210241
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  spark-parent:
+    lastUpdated: 20130523025719
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.1
+      - 0.7.2
+  spark-repl-bin_2.9.3:
+    lastUpdated: 20130523025719
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.1
+      - 0.7.2
+  spark-repl_2.9.2:
+    lastUpdated: 20130226221143
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+  spark-repl_2.9.3:
+    lastUpdated: 20130716210243
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  spark-streaming_2.9.2:
+    lastUpdated: 20130226221144
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  spark-streaming_2.9.3:
+    lastUpdated: 20130716210244
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+

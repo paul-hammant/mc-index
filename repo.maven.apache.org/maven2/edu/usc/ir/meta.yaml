@@ -1,0 +1,31 @@
+artifacts:
+  PersonaExtraction:
+    lastUpdated: 20160429210511
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.0.1
+      - 0.2
+      - 0.2
+  lucene-geo-gazetteer:
+    lastUpdated: 20151222161018
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  nltkrest-examples:
+    lastUpdated: 20160312223317
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  sentiment-analysis-parser:
+    lastUpdated: 20160608183157
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

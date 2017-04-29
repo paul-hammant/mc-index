@@ -1,0 +1,58 @@
+artifacts:
+  GetAggregatedLaboratoryOrderOutCome:
+    lastUpdated: 20150225102922
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0-RC5
+  GetAggregatedLaboratoryOrderOutCome-parent:
+    lastUpdated: 20150225102923
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC5
+  GetAggregatedLaboratoryOrderOutCome-schemas:
+    lastUpdated: 20150225102923
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0-RC5
+  GetAggregatedLaboratoryOrderOutCome-testproducer:
+    lastUpdated: 20150225102924
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC5
+  GetAggregatedLaboratoryOrderOutCome-teststub:
+    lastUpdated: 20150225102925
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC5
+  GetAggregatedMaternityMedicalHistory:
+    lastUpdated: 20140901140742
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC5
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+  GetAggregatedMaternityMedicalHistory-teststub:
+    lastUpdated: 20140901140715
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-RC7
+      - 1.0.1
+

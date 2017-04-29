@@ -1,0 +1,302 @@
+artifacts:
+  gora:
+    lastUpdated: 20170323191131
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1-incubating
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-accumulo:
+    lastUpdated: 20170323191132
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-cassandra:
+    lastUpdated: 20170323191132
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-compiler:
+    lastUpdated: 20170323191134
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-compiler-cli:
+    lastUpdated: 20170323191134
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-core:
+    lastUpdated: 20170323191135
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1-incubating
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-couchdb:
+    lastUpdated: 20170323191136
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  gora-dynamodb:
+    lastUpdated: 20170323191136
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.3
+      - 0.7
+      - 0.3
+      - 0.7
+  gora-goraci:
+    lastUpdated: 20170323191137
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-hbase:
+    lastUpdated: 20170323191138
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-infinispan:
+    lastUpdated: 20170323191139
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  gora-jcache:
+    lastUpdated: 20170323191140
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  gora-maven-plugin:
+    lastUpdated: 20170323191141
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  gora-mongodb:
+    lastUpdated: 20170323191141
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.5
+      - 0.6
+      - 0.7
+  gora-shims-distribution:
+    lastUpdated: 20150915055453
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.5
+      - 0.6
+  gora-shims-hadoop:
+    lastUpdated: 20150915055453
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.5
+      - 0.6
+  gora-shims-hadoop1:
+    lastUpdated: 20150915055454
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.5
+      - 0.6
+  gora-shims-hadoop2:
+    lastUpdated: 20150915055454
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.5
+      - 0.6
+  gora-solr:
+    lastUpdated: 20150915055455
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.4
+      - 0.5
+      - 0.6
+  gora-solr-5:
+    lastUpdated: 20170323191142
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  gora-sql:
+    lastUpdated: 20130508190014
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1-incubating
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.2
+      - 0.3
+  gora-tutorial:
+    lastUpdated: 20170323191143
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1.1-incubating
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  sources-dist:
+    lastUpdated: 20170323191143
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+

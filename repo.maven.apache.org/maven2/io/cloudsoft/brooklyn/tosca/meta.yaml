@@ -1,0 +1,38 @@
+artifacts:
+  a4c-brooklyn-plugin:
+    lastUpdated: 20160509095735
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-tosca-common:
+    lastUpdated: 20160509095735
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-tosca-dist:
+    lastUpdated: 20160509095736
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-tosca-parent:
+    lastUpdated: 20160509095740
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-tosca-qa:
+    lastUpdated: 20160509095740
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-tosca-transformer:
+    lastUpdated: 20160509095740
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+

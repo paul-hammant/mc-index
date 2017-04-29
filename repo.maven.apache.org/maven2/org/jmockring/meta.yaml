@@ -1,0 +1,122 @@
+artifacts:
+  jmockring:
+    lastUpdated: 20170313015756
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.1
+      - 0.4.3
+      - 0.4.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.5.10
+      - 0.6.2
+      - 0.7.0
+  jmockring-all:
+    lastUpdated: 20131120123540
+    latest: 0.5.6
+    release: 0.5.6
+    versions:
+      - 0.4.1
+      - 0.4.3
+      - 0.4.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+  jmockring-core:
+    lastUpdated: 20170313015756
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.10
+      - 0.6.2
+      - 0.7.0
+  jmockring-jetty:
+    lastUpdated: 20170313015757
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  jmockring-ri:
+    lastUpdated: 20170313015757
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.1
+      - 0.4.3
+      - 0.4.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.5.10
+      - 0.6.2
+      - 0.7.0
+  jmockring-spi:
+    lastUpdated: 20170313015757
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.10
+      - 0.6.2
+      - 0.7.0
+  jmockring-tests:
+    lastUpdated: 20170313015758
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.1
+      - 0.4.3
+      - 0.4.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.5.8
+      - 0.5.10
+      - 0.6.2
+      - 0.7.0
+  jmockring-tomcat:
+    lastUpdated: 20170313015758
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  jmockring-utils:
+    lastUpdated: 20170313015759
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.2
+      - 0.7.0
+  spi-providers:
+    lastUpdated: 20131120123541
+    latest: 0.5.6
+    release: 0.5.6
+    versions:
+      - 0.4.1
+      - 0.4.3
+      - 0.4.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+

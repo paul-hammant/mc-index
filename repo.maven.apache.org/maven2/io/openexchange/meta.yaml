@@ -1,0 +1,62 @@
+artifacts:
+  benchmark:
+    lastUpdated: 20170131140516
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  configserver:
+    lastUpdated: 20170131140517
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  gateway:
+    lastUpdated: 20170131140520
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  openexchange-boot:
+    lastUpdated: 20170131061538
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  openexchange-boot-batch:
+    lastUpdated: 20170131061538
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  openexchange-boot-metrics:
+    lastUpdated: 20170131061539
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  openexchange-boot-starter-parent:
+    lastUpdated: 20170131061539
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  openexchange-system:
+    lastUpdated: 20170131140521
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  registry:
+    lastUpdated: 20170131140522
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+

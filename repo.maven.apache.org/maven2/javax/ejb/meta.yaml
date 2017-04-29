@@ -1,0 +1,23 @@
+artifacts:
+  ejb:
+    lastUpdated: 20080813012421
+    latest: {}
+    release: {}
+    versions:
+      - 3.1-alpha-1-SNAPSHOT
+  ejb-api:
+    lastUpdated: 20110815192727
+    latest: 3.0-alpha-1
+    release: 3.0-alpha-1
+    versions:
+      - 3.0-alpha-1
+  javax.ejb-api:
+    lastUpdated: 20130614202635
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.2-b01
+      - 3.2-b02
+      - 3.2
+      - 3.2
+

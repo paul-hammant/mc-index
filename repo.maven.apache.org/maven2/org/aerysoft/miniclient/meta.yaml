@@ -1,0 +1,64 @@
+artifacts:
+  miniclient:
+    lastUpdated: 20131113094800
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-android:
+    lastUpdated: 20131113094801
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.3
+  miniclient-core:
+    lastUpdated: 20131113094802
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-core-mock:
+    lastUpdated: 20131113094802
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-ext:
+    lastUpdated: 20131113094803
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-ext-mock:
+    lastUpdated: 20131113094804
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-json:
+    lastUpdated: 20131113094804
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  miniclient-tool:
+    lastUpdated: 20131113094805
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+

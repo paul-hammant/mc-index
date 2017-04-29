@@ -1,0 +1,38 @@
+artifacts:
+  artifactory-maven-plugin:
+    lastUpdated: 20131007132327
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  build-info-api:
+    lastUpdated: 20131007132211
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  build-info-client:
+    lastUpdated: 20131007132223
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  build-info-extractor:
+    lastUpdated: 20131007132250
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  build-info-extractor-maven3:
+    lastUpdated: 20131007132305
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  build-info-vcs:
+    lastUpdated: 20131007132236
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+

@@ -1,0 +1,1694 @@
+artifacts:
+  spark-assembly_2.10:
+    lastUpdated: 20141201203605
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+  spark-assembly_2.9.3:
+    lastUpdated: 20131222160514
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-bagel_2.10:
+    lastUpdated: 20161106072354
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-bagel_2.11:
+    lastUpdated: 20161106072354
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-bagel_2.9.3:
+    lastUpdated: 20131222160512
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-catalyst_2.10:
+    lastUpdated: 20161222201138
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-catalyst_2.11:
+    lastUpdated: 20161222201140
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-core_2.10:
+    lastUpdated: 20161222201142
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-core_2.11:
+    lastUpdated: 20161222201144
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-core_2.9.3:
+    lastUpdated: 20131222160514
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-docker-integration-tests_2.10:
+    lastUpdated: 20161106072402
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-docker-integration-tests_2.11:
+    lastUpdated: 20161106072403
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-examples_2.10:
+    lastUpdated: 20141201203607
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+  spark-examples_2.9.3:
+    lastUpdated: 20131222160517
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-ganglia-lgpl_2.10:
+    lastUpdated: 20161222201146
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-ganglia-lgpl_2.11:
+    lastUpdated: 20161222201147
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-graphx_2.10:
+    lastUpdated: 20161222201147
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-graphx_2.11:
+    lastUpdated: 20161222201148
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-hive-thriftserver_2.10:
+    lastUpdated: 20161222201149
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-hive-thriftserver_2.11:
+    lastUpdated: 20161222201150
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-hive_2.10:
+    lastUpdated: 20161222201151
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-hive_2.11:
+    lastUpdated: 20161222201153
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-hivecontext-compatibility_2.10:
+    lastUpdated: 20160606190248
+    latest: 2.0.0-preview
+    release: 2.0.0-preview
+    versions:
+      - 2.0.0-preview
+  spark-hivecontext-compatibility_2.11:
+    lastUpdated: 20160606190248
+    latest: 2.0.0-preview
+    release: 2.0.0-preview
+    versions:
+      - 2.0.0-preview
+  spark-launcher_2.10:
+    lastUpdated: 20161222201154
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-launcher_2.11:
+    lastUpdated: 20161222201155
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-mesos_2.10:
+    lastUpdated: 20161222201156
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  spark-mesos_2.11:
+    lastUpdated: 20161222201156
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  spark-mllib-local_2.10:
+    lastUpdated: 20161222201157
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-mllib-local_2.11:
+    lastUpdated: 20161222201158
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-mllib_2.10:
+    lastUpdated: 20161222201158
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-mllib_2.11:
+    lastUpdated: 20161222201200
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-mllib_2.9.3:
+    lastUpdated: 20131222160518
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-network-common_2.10:
+    lastUpdated: 20161222201202
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-network-common_2.11:
+    lastUpdated: 20161222201203
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-network-shuffle_2.10:
+    lastUpdated: 20161222201204
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-network-shuffle_2.11:
+    lastUpdated: 20161222201205
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-network-yarn_2.10:
+    lastUpdated: 20161222201206
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-network-yarn_2.11:
+    lastUpdated: 20161222201206
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-parent:
+    lastUpdated: 20150416224440
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  spark-parent_2.10:
+    lastUpdated: 20161222201207
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-parent_2.11:
+    lastUpdated: 20161222201207
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-repl-bin_2.9.3:
+    lastUpdated: 20131222160514
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-repl_2.10:
+    lastUpdated: 20161222201208
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-repl_2.11:
+    lastUpdated: 20161222201209
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-repl_2.9.3:
+    lastUpdated: 20131222160513
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-sketch_2.10:
+    lastUpdated: 20161222201210
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-sketch_2.11:
+    lastUpdated: 20161222201211
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-sql-kafka-0-10_2.10:
+    lastUpdated: 20161222201211
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.2
+      - 2.1.0
+  spark-sql-kafka-0-10_2.11:
+    lastUpdated: 20161222201212
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.2
+      - 2.1.0
+  spark-sql_2.10:
+    lastUpdated: 20161222201214
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-sql_2.11:
+    lastUpdated: 20161222201216
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume-assembly_2.10:
+    lastUpdated: 20161222201217
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume-assembly_2.11:
+    lastUpdated: 20161222201218
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume-sink_2.10:
+    lastUpdated: 20161222201219
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume-sink_2.11:
+    lastUpdated: 20161222201220
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume_2.10:
+    lastUpdated: 20161222201221
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-flume_2.11:
+    lastUpdated: 20161222201222
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-10-assembly_2.10:
+    lastUpdated: 20161222201223
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-10-assembly_2.11:
+    lastUpdated: 20161222201224
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-10_2.10:
+    lastUpdated: 20161222201225
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-10_2.11:
+    lastUpdated: 20161222201226
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-8-assembly_2.10:
+    lastUpdated: 20161222201227
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-8-assembly_2.11:
+    lastUpdated: 20161222201229
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-8_2.10:
+    lastUpdated: 20161222201229
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-0-8_2.11:
+    lastUpdated: 20161222201230
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kafka-assembly_2.10:
+    lastUpdated: 20161106072432
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-kafka-assembly_2.11:
+    lastUpdated: 20161106072435
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-kafka_2.10:
+    lastUpdated: 20161106072435
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-kafka_2.11:
+    lastUpdated: 20161106072436
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-kinesis-asl-assembly_2.10:
+    lastUpdated: 20160726045917
+    latest: 2.0.0-preview
+    release: 2.0.0-preview
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 2.0.0
+      - 2.0.0-preview
+  spark-streaming-kinesis-asl-assembly_2.11:
+    lastUpdated: 20160726045919
+    latest: 2.0.0-preview
+    release: 2.0.0-preview
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 2.0.0
+      - 2.0.0-preview
+  spark-streaming-kinesis-asl_2.10:
+    lastUpdated: 20161222201231
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-kinesis-asl_2.11:
+    lastUpdated: 20161222201232
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-mqtt-assembly_2.10:
+    lastUpdated: 20161106072439
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-mqtt-assembly_2.11:
+    lastUpdated: 20161106072440
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-mqtt_2.10:
+    lastUpdated: 20161106072441
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-mqtt_2.11:
+    lastUpdated: 20161106072442
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-twitter_2.10:
+    lastUpdated: 20161106072443
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-twitter_2.11:
+    lastUpdated: 20161106072443
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-zeromq_2.10:
+    lastUpdated: 20161106072444
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming-zeromq_2.11:
+    lastUpdated: 20161106072445
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-streaming_2.10:
+    lastUpdated: 20161222201232
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming_2.11:
+    lastUpdated: 20161222201233
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming_2.9.3:
+    lastUpdated: 20131222160518
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-tags_2.10:
+    lastUpdated: 20161222201234
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-tags_2.11:
+    lastUpdated: 20161222201235
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-test-tags_2.10:
+    lastUpdated: 20161106072448
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-test-tags_2.11:
+    lastUpdated: 20161106072449
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  spark-tools_2.10:
+    lastUpdated: 20141201203612
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+  spark-tools_2.9.3:
+    lastUpdated: 20131222160518
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  spark-unsafe_2.10:
+    lastUpdated: 20161222201236
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-unsafe_2.11:
+    lastUpdated: 20161222201237
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-yarn_2.10:
+    lastUpdated: 20161222201237
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-yarn_2.11:
+    lastUpdated: 20161222201238
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-yarn_2.9.3:
+    lastUpdated: 20131222160513
+    latest: 0.8.1-incubating
+    release: 0.8.1-incubating
+    versions:
+      - 0.8.0-incubating
+      - 0.8.1-incubating
+  yarn-parent_2.10:
+    lastUpdated: 20150416224453
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 0.9.0-incubating
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.2.2
+  yarn-parent_2.11:
+    lastUpdated: 20150416224453
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+

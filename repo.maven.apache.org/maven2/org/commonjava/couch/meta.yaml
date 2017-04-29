@@ -1,0 +1,62 @@
+artifacts:
+  couch-app-support:
+    lastUpdated: 20120711214749
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  couch-java-parent:
+    lastUpdated: 20120711214750
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  couch-test-harness:
+    lastUpdated: 20111004173103
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  couch-user-manager:
+    lastUpdated: 20120711214747
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  rbac-api:
+    lastUpdated: 20120711214750
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  shiro-couch:
+    lastUpdated: 20120711214751
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+

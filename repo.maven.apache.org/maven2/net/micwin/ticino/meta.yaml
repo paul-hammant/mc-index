@@ -1,0 +1,89 @@
+artifacts:
+  parent-pom:
+    lastUpdated: 20140301074941
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.1
+      - 0.3.2
+  ticino-algorithms:
+    lastUpdated: 20150602201856
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  ticino-context:
+    lastUpdated: 20151129214925
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.3.5
+      - 0.3.6
+  ticino-core:
+    lastUpdated: 20141128202715
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+  ticino-entities:
+    lastUpdated: 20150602201857
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  ticino-events:
+    lastUpdated: 20151129214926
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  ticino-examples:
+    lastUpdated: 20130629073029
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.1
+  ticino-modules:
+    lastUpdated: 20151129214926
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.3.5
+      - 0.3.6
+  ticino-parent:
+    lastUpdated: 20150602201858
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.3
+      - 0.3.4
+  ticino-peer:
+    lastUpdated: 20150602201858
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  ticino-site:
+    lastUpdated: 20141128202715
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  ticino-spring:
+    lastUpdated: 20140301114652
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.1
+      - 0.3.2
+  ticino-static:
+    lastUpdated: 20140301114608
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.2
+

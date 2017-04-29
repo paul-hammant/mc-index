@@ -1,0 +1,102 @@
+artifacts:
+  fact-tools:
+    lastUpdated: 20170323153718
+    latest: 0.18.1
+    release: 0.18.1
+    versions:
+      - 0.6.29
+      - 0.7.1
+      - 0.18.0
+      - 0.18.1
+  fact-tools-spark:
+    lastUpdated: 20170324155856
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  streams:
+    lastUpdated: 20170123134553
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-api:
+    lastUpdated: 20170123134553
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-core:
+    lastUpdated: 20170123134554
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-esper:
+    lastUpdated: 20170322190634
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.5
+  streams-hdfs:
+    lastUpdated: 20161213140331
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  streams-performance:
+    lastUpdated: 20170123134555
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.23
+      - 0.9.24
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-plotter:
+    lastUpdated: 20170123134556
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-runtime:
+    lastUpdated: 20170123134556
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-sandbox:
+    lastUpdated: 20170123134557
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.25
+      - 0.9.26
+      - 0.9.27
+      - 1.0.0
+  streams-spark:
+    lastUpdated: 20170324131232
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+

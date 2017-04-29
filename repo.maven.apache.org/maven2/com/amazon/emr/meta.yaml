@@ -1,0 +1,56 @@
+artifacts:
+  emr-dynamodb-connector:
+    lastUpdated: 20160923235930
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  emr-dynamodb-hadoop:
+    lastUpdated: 20160923235931
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  emr-dynamodb-hive:
+    lastUpdated: 20160923235931
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  emr-dynamodb-tools:
+    lastUpdated: 20160923235932
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  hive1-shims:
+    lastUpdated: 20160923235932
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  hive2-shims:
+    lastUpdated: 20160923235932
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  shims:
+    lastUpdated: 20160923235932
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  shims-common:
+    lastUpdated: 20160923235933
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  shims-loader:
+    lastUpdated: 20160923235933
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+

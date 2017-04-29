@@ -1,0 +1,722 @@
+artifacts:
+  ACMMM-Presentation:
+    lastUpdated: 20160701161323
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  CityLandscapeClassifier:
+    lastUpdated: 20160701161325
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  FaceTools:
+    lastUpdated: 20160701161325
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  FaceTracker:
+    lastUpdated: 20160701161325
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopEXIFTool:
+    lastUpdated: 20160701161325
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  IREval:
+    lastUpdated: 20160701161326
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  ImprovedArgs4J:
+    lastUpdated: 20160701161326
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  JTransforms:
+    lastUpdated: 20160701161326
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  MatrixLib:
+    lastUpdated: 20160701161327
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  OCRTools:
+    lastUpdated: 20160701161327
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  ReferencesTool:
+    lastUpdated: 20160701161327
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  SimpleOCR:
+    lastUpdated: 20160701161327
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  audio-processing:
+    lastUpdated: 20160701161328
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  camera-calibration:
+    lastUpdated: 20160701161328
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  clustering:
+    lastUpdated: 20160701161329
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  common-stream:
+    lastUpdated: 20160701161329
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core:
+    lastUpdated: 20160701161330
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-aop-support:
+    lastUpdated: 20160701161330
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-audio:
+    lastUpdated: 20160701161330
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-citation:
+    lastUpdated: 20160701161331
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-experiment:
+    lastUpdated: 20160701161331
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-feature:
+    lastUpdated: 20160701161331
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-gpgpu:
+    lastUpdated: 20160701161331
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-hadoop:
+    lastUpdated: 20160701161331
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-image:
+    lastUpdated: 20160701161332
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-math:
+    lastUpdated: 20160701161332
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-rdf:
+    lastUpdated: 20160701161332
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-video:
+    lastUpdated: 20160701161332
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-video-capture:
+    lastUpdated: 20160701161333
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-web:
+    lastUpdated: 20160701161333
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  data-scraping:
+    lastUpdated: 20160701161333
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  demos:
+    lastUpdated: 20160701161334
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  examples:
+    lastUpdated: 20160701161335
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  faces:
+    lastUpdated: 20160701161335
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  geocoder:
+    lastUpdated: 20160701161335
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  gstreamer-video:
+    lastUpdated: 20160701161335
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  image-annotation:
+    lastUpdated: 20160701161338
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  image-feature-extraction:
+    lastUpdated: 20160701161338
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  image-indexing-retrieval:
+    lastUpdated: 20160701161339
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  image-local-features:
+    lastUpdated: 20160701161339
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  image-processing:
+    lastUpdated: 20160701161339
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  klt-tracker:
+    lastUpdated: 20160701161339
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  machine-learning:
+    lastUpdated: 20160701161340
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  multiview:
+    lastUpdated: 20160701161340
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  nearest-neighbour:
+    lastUpdated: 20160701161340
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  nlp:
+    lastUpdated: 20160701161340
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  object-detection:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-audio:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-content-libs:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-core-libs:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-demos:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-documentation:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-hadoop:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-hadoop-tools:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-hardware:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-ide-integration:
+    lastUpdated: 20160701161344
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-image:
+    lastUpdated: 20160701161345
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-knowledge:
+    lastUpdated: 20160701161345
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-machine-learning:
+    lastUpdated: 20160701161345
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-maven-archetypes:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-ontologies:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-quickstart-archetype:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-storm:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-storm-tools:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-streams:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-subproject-archetype:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-text:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-tools:
+    lastUpdated: 20160701161346
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-tutorial-parent:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-video:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  openimaj-web:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  processing:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  processing-core:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  readability4j:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  sandbox:
+    lastUpdated: 20160701161347
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  sioc:
+    lastUpdated: 20160701161348
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  test-resources:
+    lastUpdated: 20160701161350
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  thirdparty:
+    lastUpdated: 20160701161351
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  tld:
+    lastUpdated: 20160701161351
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  touchtable:
+    lastUpdated: 20160701161359
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  tutorial-code:
+    lastUpdated: 20160701161359
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  tutorial-content:
+    lastUpdated: 20160701161359
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  tutorial-html:
+    lastUpdated: 20160701161400
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  tutorial-pdf:
+    lastUpdated: 20160701161401
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  twitter:
+    lastUpdated: 20160701161401
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  vector-image:
+    lastUpdated: 20160701161401
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  video-processing:
+    lastUpdated: 20160701161401
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  webpage-analysis:
+    lastUpdated: 20160701161402
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  xuggle-video:
+    lastUpdated: 20160701161402
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+

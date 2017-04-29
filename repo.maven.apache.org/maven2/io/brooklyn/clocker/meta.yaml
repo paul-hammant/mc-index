@@ -1,0 +1,116 @@
+artifacts:
+  brooklyn-clocker-console:
+    lastUpdated: 20160719213413
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.2
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-dist:
+    lastUpdated: 20160719213414
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-docker:
+    lastUpdated: 20160719213414
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6.2
+      - 0.8.2
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-examples:
+    lastUpdated: 20150531004728
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.6.2
+      - 0.8.2
+  brooklyn-clocker-extras:
+    lastUpdated: 20160719213415
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-features:
+    lastUpdated: 20160719213400
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  brooklyn-clocker-jsgui:
+    lastUpdated: 20160719213415
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-mesos:
+    lastUpdated: 20160719213415
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-parent:
+    lastUpdated: 20160719213416
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6.2
+      - 0.8.2
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  brooklyn-clocker-patches:
+    lastUpdated: 20160719213416
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.2
+      - 1.1.0
+      - 1.1.0-PREVIEW.20160215
+      - 1.1.1
+      - 1.2.0
+  clocker-parent:
+    lastUpdated: 20161003105037
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  common:
+    lastUpdated: 20161003105037
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kubernetes:
+    lastUpdated: 20161003105038
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  swarm:
+    lastUpdated: 20161003105038
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+

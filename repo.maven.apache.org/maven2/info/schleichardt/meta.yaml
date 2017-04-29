@@ -1,0 +1,39 @@
+artifacts:
+  play-2-embed-mongo_2.10:
+    lastUpdated: 20140409123404
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  play-2-mail_2.10:
+    lastUpdated: 20140422175414
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  play-2-mailplugin_2.10:
+    lastUpdated: 20130713123758
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.8
+      - 0.9
+      - 0.9.1
+      - 0.8
+      - 0.9
+  play-2-mailplugin_2.9.1:
+    lastUpdated: 20130130195223
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  play-embed-mongo_2.10:
+    lastUpdated: 20130603221837
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2
+

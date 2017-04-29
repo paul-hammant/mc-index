@@ -1,0 +1,45 @@
+artifacts:
+  sidaof:
+    lastUpdated: 20110109203959
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  sidaof-domain:
+    lastUpdated: 20131224030616
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  sidaof-parent:
+    lastUpdated: 20130723131318
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  sidaof-tester:
+    lastUpdated: 20110109204001
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

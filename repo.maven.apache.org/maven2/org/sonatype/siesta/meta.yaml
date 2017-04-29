@@ -1,0 +1,79 @@
+artifacts:
+  siesta:
+    lastUpdated: 20150917193915
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-api:
+    lastUpdated: 20150917193916
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-client:
+    lastUpdated: 20150917193917
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-jackson2:
+    lastUpdated: 20150917193918
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-server:
+    lastUpdated: 20150917193919
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-testsuite:
+    lastUpdated: 20150917193920
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+  siesta-webapp:
+    lastUpdated: 20150917193921
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.2.0
+

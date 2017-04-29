@@ -1,0 +1,404 @@
+artifacts:
+  another-module_2.11:
+    lastUpdated: 20170418215114
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  another-module_2.12:
+    lastUpdated: 20170418215115
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  fetch-debug_2.10:
+    lastUpdated: 20170419132445
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-debug_2.11:
+    lastUpdated: 20170419132446
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-debug_2.12:
+    lastUpdated: 20170419132446
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-debug_sjs0.6_2.10:
+    lastUpdated: 20170419132447
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-debug_sjs0.6_2.11:
+    lastUpdated: 20170419132447
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-debug_sjs0.6_2.12:
+    lastUpdated: 20170419132448
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_2.10:
+    lastUpdated: 20170419132448
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_2.11:
+    lastUpdated: 20170419132448
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_2.12:
+    lastUpdated: 20170419132449
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_sjs0.6_2.10:
+    lastUpdated: 20170419132449
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_sjs0.6_2.11:
+    lastUpdated: 20170419132450
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch-monix_sjs0.6_2.12:
+    lastUpdated: 20170419132450
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_2.10:
+    lastUpdated: 20170419132451
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_2.11:
+    lastUpdated: 20170419132451
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_2.12:
+    lastUpdated: 20170419132452
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_sjs0.6_2.10:
+    lastUpdated: 20170419132452
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_sjs0.6_2.11:
+    lastUpdated: 20170419132453
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  fetch_sjs0.6_2.12:
+    lastUpdated: 20170419132454
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  github4s-scalaz_2.10:
+    lastUpdated: 20170421150130
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s-scalaz_2.11:
+    lastUpdated: 20170421150131
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s-scalaz_2.12:
+    lastUpdated: 20170421150132
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_2.10:
+    lastUpdated: 20170421150133
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_2.11:
+    lastUpdated: 20170421150134
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_2.12:
+    lastUpdated: 20170421150134
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_sjs0.6_2.10:
+    lastUpdated: 20170421150136
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_sjs0.6_2.11:
+    lastUpdated: 20170421150136
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  github4s_sjs0.6_2.12:
+    lastUpdated: 20170421150138
+    latest: 0.14.4
+    release: 0.14.4
+    versions:
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.14.3
+      - 0.14.4
+  org-policies-core_2.10:
+    lastUpdated: 20170421171431
+    latest: 0.4.14
+    release: 0.4.14
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+      - 0.4.9
+      - 0.4.10
+      - 0.4.11
+      - 0.4.12
+      - 0.4.13
+      - 0.4.14
+  root_2.10:
+    lastUpdated: 20170419132454
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  root_2.11:
+    lastUpdated: 20170419132454
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  root_2.12:
+    lastUpdated: 20170419132455
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  sbt-dependencies-tests_2.11:
+    lastUpdated: 20170418215115
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.1.0
+      - 0.1.1
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.1.10
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+  sbt-dependencies-tests_2.12:
+    lastUpdated: 20170418215116
+    latest: 0.1.19
+    release: 0.1.19
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.1.0
+      - 0.1.1
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.1.10
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+

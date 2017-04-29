@@ -1,0 +1,18 @@
+artifacts:
+  docker-test-plugin:
+    lastUpdated: 20160628023648
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.0.5
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.1.6
+  marathon-deploy-plugin:
+    lastUpdated: 20160613053830
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,25 @@
+artifacts:
+  alfresco-annotations:
+    lastUpdated: 20160206223509
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jsf2-spring4-jpa2-archetype:
+    lastUpdated: 20150904223618
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 2.0.0
+  tomcat-jwt-security:
+    lastUpdated: 20151116234436
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+

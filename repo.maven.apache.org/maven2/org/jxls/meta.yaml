@@ -1,0 +1,72 @@
+artifacts:
+  jxls:
+    lastUpdated: 20170320195712
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.2.7
+      - 2.2.8
+      - 2.2.9
+      - 2.3.0
+      - 2.4.0
+  jxls-jdk1.6:
+    lastUpdated: 20160312085845
+    latest: 2.2.9
+    release: 2.2.9
+    versions:
+      - 2.2.9
+  jxls-jexcel:
+    lastUpdated: 20160428151134
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  jxls-poi:
+    lastUpdated: 20170320195952
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  jxls-poi-jdk1.6:
+    lastUpdated: 20160312090544
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.8
+  jxls-reader:
+    lastUpdated: 20160131175917
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+

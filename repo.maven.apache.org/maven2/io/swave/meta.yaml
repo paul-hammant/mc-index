@@ -1,0 +1,94 @@
+artifacts:
+  core_2.11:
+    lastUpdated: 20160617073614
+    latest: 0.5-M1
+    release: 0.5-M1
+    versions:
+      - 0.5-M1
+  swave-akka-compat_2.11:
+    lastUpdated: 20170407120134
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-akka-compat_2.12:
+    lastUpdated: 20170407120134
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-core_2.11:
+    lastUpdated: 20170407120135
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-core_2.12:
+    lastUpdated: 20170407120135
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-scodec-compat_2.11:
+    lastUpdated: 20170407120135
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-scodec-compat_2.12:
+    lastUpdated: 20170407120136
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-testkit_2.11:
+    lastUpdated: 20170407120136
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  swave-testkit_2.12:
+    lastUpdated: 20170407120136
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  testkit_2.11:
+    lastUpdated: 20160617073614
+    latest: 0.5-M1
+    release: 0.5-M1
+    versions:
+      - 0.5-M1
+

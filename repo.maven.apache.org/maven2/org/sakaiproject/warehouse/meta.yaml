@@ -1,0 +1,43 @@
+artifacts:
+  sakai-warehouse-api:
+    lastUpdated: 20160422165035
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-warehouse-component:
+    lastUpdated: 20160422165035
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-warehouse-impl:
+    lastUpdated: 20160422165036
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  warehouse-base:
+    lastUpdated: 20160422165036
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+

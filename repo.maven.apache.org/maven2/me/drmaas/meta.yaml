@@ -1,0 +1,76 @@
+artifacts:
+  ratpack-kotlin:
+    lastUpdated: 20160802002118
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  ratpack-kotlin-dsl:
+    lastUpdated: 20170408065122
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.1-rc.6
+      - 0.5.0
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.2.dev.0+50ecf4c
+      - 0.6.0
+      - 0.7.0-rc.1
+      - 0.7.0-rc.2
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+  ratpack-kotlin-rx:
+    lastUpdated: 20170408065123
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.7.0-rc.2
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+  ratpack-kotlin-rx2:
+    lastUpdated: 20170408065123
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  ratpack-kotlin-test:
+    lastUpdated: 20170408065123
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.1-rc.6
+      - 0.5.0
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.2.dev.0+50ecf4c
+      - 0.6.0
+      - 0.7.0-rc.1
+      - 0.7.0-rc.2
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+  ratpack-resilience4j:
+    lastUpdated: 20170330053214
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  ratpack-rx2:
+    lastUpdated: 20170421214625
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0-rc.1
+      - 0.1.0-rc.2
+      - 0.1.0-rc.3
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+

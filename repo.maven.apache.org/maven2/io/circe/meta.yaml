@@ -1,0 +1,1858 @@
+artifacts:
+  circe-core_2.10:
+    lastUpdated: 20170404031340
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_2.11:
+    lastUpdated: 20170404031340
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_2.12:
+    lastUpdated: 20170404031341
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_2.12.0-RC2:
+    lastUpdated: 20161102222335
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-core_sjs0.6_2.10:
+    lastUpdated: 20170404031341
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_sjs0.6_2.11:
+    lastUpdated: 20170404031341
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_sjs0.6_2.12:
+    lastUpdated: 20170404031342
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222336
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-generic-extras_2.10:
+    lastUpdated: 20170404031342
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_2.11:
+    lastUpdated: 20170404031343
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_2.12:
+    lastUpdated: 20170404031343
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_2.12.0-RC2:
+    lastUpdated: 20161102222338
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-generic-extras_sjs0.6_2.10:
+    lastUpdated: 20170404031344
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_sjs0.6_2.11:
+    lastUpdated: 20170404031344
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_sjs0.6_2.12:
+    lastUpdated: 20170404031344
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic-extras_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222340
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-generic_2.10:
+    lastUpdated: 20170404031345
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_2.11:
+    lastUpdated: 20170404031345
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_2.12:
+    lastUpdated: 20170404031346
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_2.12.0-RC2:
+    lastUpdated: 20161102222341
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-generic_sjs0.6_2.10:
+    lastUpdated: 20170404031346
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_sjs0.6_2.11:
+    lastUpdated: 20170404031347
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_sjs0.6_2.12:
+    lastUpdated: 20170404031347
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-generic_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222342
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-jackson25_2.10:
+    lastUpdated: 20170329214247
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson25_2.11:
+    lastUpdated: 20170329214247
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson25_2.12:
+    lastUpdated: 20170329214248
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson26_2.10:
+    lastUpdated: 20170329214248
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson26_2.11:
+    lastUpdated: 20170329214248
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson26_2.12:
+    lastUpdated: 20170329214249
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson27_2.10:
+    lastUpdated: 20170329214249
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson27_2.11:
+    lastUpdated: 20170329214250
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson27_2.12:
+    lastUpdated: 20170329214250
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson28_2.10:
+    lastUpdated: 20170329214251
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson28_2.11:
+    lastUpdated: 20170329214251
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson28_2.12:
+    lastUpdated: 20170329214251
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.2
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jackson_2.10:
+    lastUpdated: 20161202192640
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+  circe-jackson_2.11:
+    lastUpdated: 20161202192640
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+  circe-jackson_2.12:
+    lastUpdated: 20161202192641
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+  circe-jackson_2.12.0-RC2:
+    lastUpdated: 20161102222343
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-java8_2.10:
+    lastUpdated: 20170404031348
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-java8_2.11:
+    lastUpdated: 20170404031348
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-java8_2.12:
+    lastUpdated: 20170404031349
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-java8_2.12.0-RC2:
+    lastUpdated: 20161102222345
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-jawn_2.10:
+    lastUpdated: 20170404031349
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jawn_2.11:
+    lastUpdated: 20170404031350
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jawn_2.12:
+    lastUpdated: 20170404031350
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-jawn_2.12.0-RC2:
+    lastUpdated: 20161102222346
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-literal_2.10:
+    lastUpdated: 20170404031351
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_2.11:
+    lastUpdated: 20170404031351
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_2.12:
+    lastUpdated: 20170404031351
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_2.12.0-RC2:
+    lastUpdated: 20161102222348
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-literal_sjs0.6_2.10:
+    lastUpdated: 20170404031352
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_sjs0.6_2.11:
+    lastUpdated: 20170404031352
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_sjs0.6_2.12:
+    lastUpdated: 20170404031352
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-literal_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222349
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-numbers_2.10:
+    lastUpdated: 20170404031353
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_2.11:
+    lastUpdated: 20170404031353
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_2.12:
+    lastUpdated: 20170404031353
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_2.12.0-RC2:
+    lastUpdated: 20161102222351
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-numbers_sjs0.6_2.10:
+    lastUpdated: 20170404031354
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_sjs0.6_2.11:
+    lastUpdated: 20170404031354
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_sjs0.6_2.12:
+    lastUpdated: 20170404031355
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-numbers_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222352
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-optics_2.10:
+    lastUpdated: 20170404031355
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_2.11:
+    lastUpdated: 20170404031356
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_2.12:
+    lastUpdated: 20170404031356
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_2.12.0-RC2:
+    lastUpdated: 20161102222355
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-optics_sjs0.6_2.10:
+    lastUpdated: 20170404031357
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_sjs0.6_2.11:
+    lastUpdated: 20170404031357
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_sjs0.6_2.12:
+    lastUpdated: 20170404031358
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-optics_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222356
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-parse_2.10:
+    lastUpdated: 20151116213524
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  circe-parse_2.11:
+    lastUpdated: 20151116213524
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  circe-parse_sjs0.6_2.10:
+    lastUpdated: 20151116213525
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  circe-parse_sjs0.6_2.11:
+    lastUpdated: 20151116213526
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  circe-parser_2.10:
+    lastUpdated: 20170404031358
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_2.11:
+    lastUpdated: 20170404031359
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_2.12:
+    lastUpdated: 20170404031359
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_2.12.0-RC2:
+    lastUpdated: 20161102222358
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-parser_sjs0.6_2.10:
+    lastUpdated: 20170404031400
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_sjs0.6_2.11:
+    lastUpdated: 20170404031400
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_sjs0.6_2.12:
+    lastUpdated: 20170404031401
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-parser_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222400
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-refined_2.10:
+    lastUpdated: 20170404031401
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_2.11:
+    lastUpdated: 20170404031401
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_2.12:
+    lastUpdated: 20170404031402
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_2.12.0-RC2:
+    lastUpdated: 20161102222402
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-refined_sjs0.6_2.10:
+    lastUpdated: 20170404031402
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_sjs0.6_2.11:
+    lastUpdated: 20170404031403
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_sjs0.6_2.12:
+    lastUpdated: 20170404031403
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-refined_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222404
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-scalajs_sjs0.6_2.10:
+    lastUpdated: 20170404031403
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scalajs_sjs0.6_2.11:
+    lastUpdated: 20170404031404
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scalajs_sjs0.6_2.12:
+    lastUpdated: 20170404031404
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scalajs_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222406
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-scodec_2.10:
+    lastUpdated: 20170404031405
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_2.11:
+    lastUpdated: 20170404031405
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_2.12:
+    lastUpdated: 20170404031406
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_2.12.0-RC2:
+    lastUpdated: 20161102222408
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-scodec_sjs0.6_2.10:
+    lastUpdated: 20170404031406
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_sjs0.6_2.11:
+    lastUpdated: 20170404031406
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_sjs0.6_2.12:
+    lastUpdated: 20170404031407
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-scodec_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222410
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_2.10:
+    lastUpdated: 20161102222411
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_2.11:
+    lastUpdated: 20161102222412
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_2.12.0-RC2:
+    lastUpdated: 20161102222412
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_sjs0.6_2.10:
+    lastUpdated: 20161102222413
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_sjs0.6_2.11:
+    lastUpdated: 20161102222413
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapeless_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222414
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-shapes_2.10:
+    lastUpdated: 20170404031407
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-shapes_2.11:
+    lastUpdated: 20170404031407
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-shapes_2.12:
+    lastUpdated: 20170404031408
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-shapes_sjs0.6_2.10:
+    lastUpdated: 20170404031408
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-shapes_sjs0.6_2.11:
+    lastUpdated: 20170404031409
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-shapes_sjs0.6_2.12:
+    lastUpdated: 20170404031409
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-spray_2.10:
+    lastUpdated: 20170110221057
+    latest: 0.7.0-M2
+    release: 0.7.0-M2
+    versions:
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+  circe-spray_2.11:
+    lastUpdated: 20170119151159
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+  circe-streaming_2.10:
+    lastUpdated: 20170404031409
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-streaming_2.11:
+    lastUpdated: 20170404031410
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-streaming_2.12:
+    lastUpdated: 20170404031410
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-streaming_2.12.0-RC2:
+    lastUpdated: 20161102222417
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-testing_2.10:
+    lastUpdated: 20170404031410
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_2.11:
+    lastUpdated: 20170404031411
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_2.12:
+    lastUpdated: 20170404031411
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_2.12.0-RC2:
+    lastUpdated: 20161102222419
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-testing_sjs0.6_2.10:
+    lastUpdated: 20170404031412
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_sjs0.6_2.11:
+    lastUpdated: 20170404031412
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0-RC1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_sjs0.6_2.12:
+    lastUpdated: 20170404031412
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0-M1
+      - 0.7.0-M2
+      - 0.7.0
+      - 0.7.1
+  circe-testing_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161102222422
+    latest: 0.6.0-RC1
+    release: 0.6.0-RC1
+    versions:
+      - 0.6.0-RC1
+  circe-yaml_2.10:
+    lastUpdated: 20170121210359
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  circe-yaml_2.11:
+    lastUpdated: 20170121210401
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  circe-yaml_2.12:
+    lastUpdated: 20170121210402
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+

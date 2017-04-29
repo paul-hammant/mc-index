@@ -1,0 +1,449 @@
+artifacts:
+  ace-pom:
+    lastUpdated: 20111213204520
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.automation:
+    lastUpdated: 20111213204532
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.api:
+    lastUpdated: 20111213204529
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.helper.base:
+    lastUpdated: 20111213204507
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.helper.bundle:
+    lastUpdated: 20111213204515
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.helper.configuration:
+    lastUpdated: 20111213204510
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.helper.user:
+    lastUpdated: 20111213204515
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.impl:
+    lastUpdated: 20111213204525
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.client.repository.useradmin:
+    lastUpdated: 20111213204503
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.configurator:
+    lastUpdated: 20111213204456
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.configurator.serveruseradmin:
+    lastUpdated: 20111213204535
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.configurator.useradmin.task:
+    lastUpdated: 20111213204506
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.consolelogger:
+    lastUpdated: 20111213204523
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.api:
+    lastUpdated: 20111213204525
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.deploymentadmin:
+    lastUpdated: 20111213204534
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.provider.api:
+    lastUpdated: 20111213204518
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.provider.base:
+    lastUpdated: 20111213204502
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.provider.filebased:
+    lastUpdated: 20111213204526
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.provider.repositorybased:
+    lastUpdated: 20111213204520
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.servlet:
+    lastUpdated: 20111213204514
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.streamgenerator:
+    lastUpdated: 20111213204527
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.deployment.task:
+    lastUpdated: 20111213204522
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.discovery.api:
+    lastUpdated: 20111213204503
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.discovery.property:
+    lastUpdated: 20111213204514
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.discovery.upnp:
+    lastUpdated: 20111213204518
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.gateway.log:
+    lastUpdated: 20111213204506
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.gateway.log.store:
+    lastUpdated: 20111213204501
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.httplistener:
+    lastUpdated: 20111213204519
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.identification.api:
+    lastUpdated: 20111213204501
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.identification.ifconfig:
+    lastUpdated: 20111213204508
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.identification.property:
+    lastUpdated: 20111213204504
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.launcher:
+    lastUpdated: 20111213204511
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.location.upnp:
+    lastUpdated: 20111213204516
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.log:
+    lastUpdated: 20111213204520
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.log.listener:
+    lastUpdated: 20111213204534
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.log.servlet:
+    lastUpdated: 20111213204504
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.log.task:
+    lastUpdated: 20111213204511
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.managementagent:
+    lastUpdated: 20111213204509
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.nodelauncher.amazon:
+    lastUpdated: 20111213204507
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.nodelauncher.api:
+    lastUpdated: 20111213204535
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.nodelauncher.ui:
+    lastUpdated: 20111213204522
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.obr.metadata:
+    lastUpdated: 20111213204523
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.obr.servlet:
+    lastUpdated: 20111213204524
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.obr.storage:
+    lastUpdated: 20111213204510
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.range.api:
+    lastUpdated: 20111213204533
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.release.full:
+    lastUpdated: 20111213204528
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.1-incubator
+  org.apache.ace.repository.api:
+    lastUpdated: 20111213204500
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.repository.ext:
+    lastUpdated: 20111213204458
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.repository.impl:
+    lastUpdated: 20111213204531
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.repository.servlet:
+    lastUpdated: 20111213204532
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.repository.task:
+    lastUpdated: 20111213204513
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.resourceprocessor.useradmin:
+    lastUpdated: 20111213204517
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.scheduler:
+    lastUpdated: 20111213204457
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.scheduler.api:
+    lastUpdated: 20111213204512
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.server.action:
+    lastUpdated: 20111213204527
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.server.action.popupmessage:
+    lastUpdated: 20111213204533
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.server.log.store:
+    lastUpdated: 20111213204519
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.tageditor:
+    lastUpdated: 20111213204502
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.target.defaults:
+    lastUpdated: 20111213204509
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.target.devgateway:
+    lastUpdated: 20111213204520
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.target.devserver:
+    lastUpdated: 20111213204521
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.util:
+    lastUpdated: 20111213204511
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.webconsole.plugin:
+    lastUpdated: 20111213204527
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+  org.apache.ace.webui.vaadin:
+    lastUpdated: 20111213204459
+    latest: 0.8.1-incubator
+    release: 0.8.1-incubator
+    versions:
+      - 0.8.0-incubator
+      - 0.8.1-incubator
+

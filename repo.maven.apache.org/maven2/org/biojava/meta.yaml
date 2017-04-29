@@ -1,0 +1,434 @@
+artifacts:
+  alignment:
+    lastUpdated: 20150313200807
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  biojava:
+    lastUpdated: 20170330223114
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-aa-prop:
+    lastUpdated: 20170330223114
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-alignment:
+    lastUpdated: 20170330223114
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-core:
+    lastUpdated: 20170330223115
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-genome:
+    lastUpdated: 20170330223115
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-integrationtest:
+    lastUpdated: 20170330223115
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-legacy:
+    lastUpdated: 20150313200808
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  biojava-modfinder:
+    lastUpdated: 20170330223115
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-ontology:
+    lastUpdated: 20170330223116
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-phylo:
+    lastUpdated: 20170308005100
+    latest: 5.0.0-alpha6
+    release: 5.0.0-alpha6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+  biojava-protein-disorder:
+    lastUpdated: 20170330223116
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-sequencing:
+    lastUpdated: 20170330223116
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-spark:
+    lastUpdated: 20160817144903
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+  biojava-structure:
+    lastUpdated: 20170330223116
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-structure-gui:
+    lastUpdated: 20170330223117
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-survival:
+    lastUpdated: 20170330223117
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava-ws:
+    lastUpdated: 20170330223117
+    latest: 5.0.0-alpha8
+    release: 5.0.0-alpha8
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 5.0.0-alpha1
+      - 5.0.0-alpha2
+      - 5.0.0-alpha3
+      - 5.0.0-alpha4
+      - 5.0.0-alpha6
+      - 5.0.0-alpha7
+      - 5.0.0-alpha8
+  biojava3-core:
+    lastUpdated: 20110509000858
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  biosql:
+    lastUpdated: 20150313200808
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  blast:
+    lastUpdated: 20150313200809
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  bytecode:
+    lastUpdated: 20150313200809
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  core:
+    lastUpdated: 20150313200810
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  gui:
+    lastUpdated: 20150313200810
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jcolorbrewer:
+    lastUpdated: 20150127053935
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 5.2
+      - 5.2
+  phylo:
+    lastUpdated: 20150313200811
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  sequencing:
+    lastUpdated: 20150313200812
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0-rc1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+

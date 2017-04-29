@@ -1,0 +1,713 @@
+artifacts:
+  elasticsearch-hdfs:
+    lastUpdated: 20170319174509
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  elasticsearch-reindex:
+    lastUpdated: 20170319174510
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  flink-twitter-collection:
+    lastUpdated: 20170319174510
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  gnip-edc-facebook:
+    lastUpdated: 20160929152045
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-edc-flickr:
+    lastUpdated: 20160929152046
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-edc-googleplus:
+    lastUpdated: 20160929152046
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-edc-instagram:
+    lastUpdated: 20160929152047
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-edc-reddit:
+    lastUpdated: 20160929152047
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-edc-youtube:
+    lastUpdated: 20160929152048
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  gnip-powertrack:
+    lastUpdated: 20160929152048
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  google-gmail:
+    lastUpdated: 20170319174511
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  google-gplus:
+    lastUpdated: 20170319174511
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  mongo-elasticsearch-sync:
+    lastUpdated: 20170319174512
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-amazon-aws:
+    lastUpdated: 20170319174517
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-components:
+    lastUpdated: 20170319174517
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-config:
+    lastUpdated: 20170319174517
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-contrib:
+    lastUpdated: 20170319174518
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-converters:
+    lastUpdated: 20170319174518
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-core:
+    lastUpdated: 20170319174518
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-examples:
+    lastUpdated: 20170319174519
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-examples-flink:
+    lastUpdated: 20170319174519
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-examples-local:
+    lastUpdated: 20170319174519
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-filters:
+    lastUpdated: 20170319174519
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-http:
+    lastUpdated: 20170319174520
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-master:
+    lastUpdated: 20161227002543
+    latest: 0.4.1-incubating
+    release: 0.4.1-incubating
+    versions:
+      - 0.1-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+  streams-monitoring:
+    lastUpdated: 20170319174520
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-cassandra:
+    lastUpdated: 20170319174521
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.5-incubating
+  streams-persist-console:
+    lastUpdated: 20170319174521
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-elasticsearch:
+    lastUpdated: 20170319174522
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-filebuffer:
+    lastUpdated: 20170319174522
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-graph:
+    lastUpdated: 20170319174523
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-hbase:
+    lastUpdated: 20170319174523
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-hdfs:
+    lastUpdated: 20170319174524
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-kafka:
+    lastUpdated: 20170319174524
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-kinesis:
+    lastUpdated: 20170319174525
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-mongo:
+    lastUpdated: 20170319174525
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-persist-neo4j:
+    lastUpdated: 20170319174525
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.5-incubating
+  streams-persist-riak:
+    lastUpdated: 20170319174526
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.5-incubating
+  streams-persist-s3:
+    lastUpdated: 20170319174526
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-plugins:
+    lastUpdated: 20161110194221
+    latest: 0.4-incubating
+    release: 0.4-incubating
+    versions:
+      - 0.4-incubating
+  streams-pojo:
+    lastUpdated: 20170319174527
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-pojo-extensions:
+    lastUpdated: 20170319174528
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-processor-jackson:
+    lastUpdated: 20170319174528
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-processor-json:
+    lastUpdated: 20170319174529
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-processor-peoplepattern:
+    lastUpdated: 20170319174529
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-processor-regex:
+    lastUpdated: 20170319174529
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-processor-urls:
+    lastUpdated: 20170319174530
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-project:
+    lastUpdated: 20170319174530
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-datasift:
+    lastUpdated: 20160929152107
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  streams-provider-facebook:
+    lastUpdated: 20170319174531
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-gnip:
+    lastUpdated: 20160929152108
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  streams-provider-google:
+    lastUpdated: 20170319174531
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-instagram:
+    lastUpdated: 20170319174531
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-moreover:
+    lastUpdated: 20170319174532
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-rss:
+    lastUpdated: 20170319174532
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-sysomos:
+    lastUpdated: 20170319174533
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-twitter:
+    lastUpdated: 20170319174533
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-provider-youtube:
+    lastUpdated: 20170319174534
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-runtime-dropwizard:
+    lastUpdated: 20170319174534
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-runtime-local:
+    lastUpdated: 20170319174535
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-runtime-pig:
+    lastUpdated: 20161110194230
+    latest: 0.4-incubating
+    release: 0.4-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+  streams-runtime-storm:
+    lastUpdated: 20160929152115
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  streams-runtime-webapp:
+    lastUpdated: 20150426025426
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+  streams-runtimes:
+    lastUpdated: 20170319174535
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-schema-activitystreams:
+    lastUpdated: 20170319174536
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-schema-activitystreams2:
+    lastUpdated: 20170319174536
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-schemas:
+    lastUpdated: 20170319174536
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-testing:
+    lastUpdated: 20170319174537
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-util:
+    lastUpdated: 20170319174539
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  streams-verbs:
+    lastUpdated: 20170319174539
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  twitter-follow-graph:
+    lastUpdated: 20160929152117
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  twitter-follow-neo4j:
+    lastUpdated: 20170319174539
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  twitter-history-elasticsearch:
+    lastUpdated: 20170319174540
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+  twitter-userstream-elasticsearch:
+    lastUpdated: 20170319174540
+    latest: 0.5-incubating
+    release: 0.5-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.4.1-incubating
+      - 0.5-incubating
+

@@ -1,0 +1,90 @@
+artifacts:
+  graniteds-flex-spring-jpa-hibernate:
+    lastUpdated: 20140319154727
+    latest: 3.0.3.GA
+    release: 3.0.3.GA
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 3.0.2.GA
+      - 3.0.3.GA
+  graniteds-spring-jpa-hibernate:
+    lastUpdated: 20111118114857
+    latest: 1.1.0.GA
+    release: 1.1.0.GA
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.1.0.GA
+  graniteds-tide-cdi-jpa:
+    lastUpdated: 20111118114857
+    latest: 1.1.0.GA
+    release: 1.1.0.GA
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.1.0.GA
+  graniteds-tide-flex-cdi-jpa:
+    lastUpdated: 20140319154746
+    latest: 3.0.3.GA
+    release: 3.0.3.GA
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 3.0.2.GA
+      - 3.0.3.GA
+  graniteds-tide-flex-seam-jpa-hibernate:
+    lastUpdated: 20140319154830
+    latest: 3.0.3.GA
+    release: 3.0.3.GA
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 3.0.2.GA
+      - 3.0.3.GA
+  graniteds-tide-flex-spring-jpa-hibernate:
+    lastUpdated: 20140319154844
+    latest: 3.0.3.GA
+    release: 3.0.3.GA
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 3.0.2.GA
+      - 3.0.3.GA
+  graniteds-tide-javafx-spring-jpa-hibernate:
+    lastUpdated: 20140319154855
+    latest: 3.0.3.GA
+    release: 3.0.3.GA
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 3.0.2.GA
+      - 3.0.3.GA
+  graniteds-tide-seam-jpa-hibernate:
+    lastUpdated: 20111118114857
+    latest: 1.1.0.GA
+    release: 1.1.0.GA
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.1.0.GA
+  graniteds-tide-spring-hibernate-jpa-archetype:
+    lastUpdated: 20090415115954
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-SNAPSHOT
+  graniteds-tide-spring-jpa-hibernate:
+    lastUpdated: 20111118114857
+    latest: 1.1.0.GA
+    release: 1.1.0.GA
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.1.0.GA
+

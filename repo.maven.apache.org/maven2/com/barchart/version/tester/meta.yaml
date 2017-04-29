@@ -1,0 +1,49 @@
+artifacts:
+  tester-one-api:
+    lastUpdated: 20130408200739
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 3.1.1
+  tester-one-api-consumer:
+    lastUpdated: 20130408200741
+    latest: 4.0.3
+    release: 4.0.3
+    versions:
+      - 3.0.4
+      - 3.0.5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+  tester-one-api-provider:
+    lastUpdated: 20130408200743
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.1.1
+      - 5.1.2
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.3.0
+      - 5.3.1
+  tester-one-zoo:
+    lastUpdated: 20130408200745
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

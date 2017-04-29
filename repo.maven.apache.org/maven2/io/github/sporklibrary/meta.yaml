@@ -1,0 +1,29 @@
+artifacts:
+  spork:
+    lastUpdated: 20160826200609
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.2
+      - 3.1.0
+      - 3.2.0
+  spork-android:
+    lastUpdated: 20160826204729
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.4.4
+      - 3.0.0
+  spork-android-support:
+    lastUpdated: 20160826204730
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  spork-mockito:
+    lastUpdated: 20160522143757
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

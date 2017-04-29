@@ -1,0 +1,42 @@
+artifacts:
+  jus:
+    lastUpdated: 20150423020254
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+  jus-core:
+    lastUpdated: 20150903035740
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  jus-ui:
+    lastUpdated: 20150903035740
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.1
+      - 0.4.2
+  jus-util:
+    lastUpdated: 20150903035741
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  rx-jus:
+    lastUpdated: 20150903035741
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+

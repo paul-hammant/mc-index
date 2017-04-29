@@ -1,0 +1,56 @@
+artifacts:
+  chatter-bot-api:
+    lastUpdated: 20170314172152
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.3.1
+      - 1.3.2
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.6
+      - 1.4.7
+      - 2.0.0
+      - 2.0.1
+  ekmeans:
+    lastUpdated: 20150619000032
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  glb-ctl:
+    lastUpdated: 20170204024059
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  logback-awslogs-appender:
+    lastUpdated: 20160809190116
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+  parse-security-spring-boot-starter:
+    lastUpdated: 20170328162429
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  parse-spring-boot-starter:
+    lastUpdated: 20170328162210
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  parseclient:
+    lastUpdated: 20170328124353
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+

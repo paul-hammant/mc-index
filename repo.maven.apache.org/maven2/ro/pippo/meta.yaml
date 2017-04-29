@@ -1,0 +1,1034 @@
+artifacts:
+  pippo:
+    lastUpdated: 20170404172859
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-content-type-parent:
+    lastUpdated: 20170404172859
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-controller:
+    lastUpdated: 20170404172859
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-controller-parent:
+    lastUpdated: 20170404172900
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-core:
+    lastUpdated: 20170404172900
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-css-parent:
+    lastUpdated: 20170404172900
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-csv:
+    lastUpdated: 20170404172900
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-demo-ajax:
+    lastUpdated: 20150701153818
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-basic:
+    lastUpdated: 20150701153819
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-common:
+    lastUpdated: 20150701153819
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-controller:
+    lastUpdated: 20150701153820
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-crud:
+    lastUpdated: 20150701153820
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-crudng:
+    lastUpdated: 20150701153821
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-css:
+    lastUpdated: 20150701153821
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-custom:
+    lastUpdated: 20150701153822
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-guice:
+    lastUpdated: 20150701153822
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-parent:
+    lastUpdated: 20150701153823
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-session:
+    lastUpdated: 20150701153823
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-spring:
+    lastUpdated: 20150701153823
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-template:
+    lastUpdated: 20150701153824
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-upload:
+    lastUpdated: 20150701153824
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-validation:
+    lastUpdated: 20150701153825
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  pippo-demo-weld:
+    lastUpdated: 20150701153825
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  pippo-fastjson:
+    lastUpdated: 20170404172900
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-freemarker:
+    lastUpdated: 20170404172901
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-groovy:
+    lastUpdated: 20170404172901
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-gson:
+    lastUpdated: 20170404172901
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-guice:
+    lastUpdated: 20170404172902
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-ioc:
+    lastUpdated: 20150430154817
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  pippo-jackson:
+    lastUpdated: 20170404172902
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-jade:
+    lastUpdated: 20170404172902
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-jaxb:
+    lastUpdated: 20170404172903
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-jetty:
+    lastUpdated: 20170404172903
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-less4j:
+    lastUpdated: 20170404172904
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics:
+    lastUpdated: 20170404172904
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics-ganglia:
+    lastUpdated: 20170404172904
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics-graphite:
+    lastUpdated: 20170404172905
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics-influxdb:
+    lastUpdated: 20170404172905
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics-librato:
+    lastUpdated: 20170404172906
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-metrics-parent:
+    lastUpdated: 20170404172906
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-parent:
+    lastUpdated: 20170404172906
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-pebble:
+    lastUpdated: 20170404172906
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-quickstart:
+    lastUpdated: 20170404172907
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-sasscompiler:
+    lastUpdated: 20170404172907
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-server-parent:
+    lastUpdated: 20170404172907
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session:
+    lastUpdated: 20170404172908
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-cookie:
+    lastUpdated: 20170404172908
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-ehcache2:
+    lastUpdated: 20170404172908
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-ehcache3:
+    lastUpdated: 20170404172909
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-hazelcast:
+    lastUpdated: 20170404172909
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-infinispan:
+    lastUpdated: 20170404172910
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-jcache:
+    lastUpdated: 20170404172910
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-jdbc:
+    lastUpdated: 20170404172911
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-jedis:
+    lastUpdated: 20170404172911
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-mongodb:
+    lastUpdated: 20170404172911
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-parent:
+    lastUpdated: 20170404172912
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-spymemcached:
+    lastUpdated: 20170404172912
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-session-xmemcached:
+    lastUpdated: 20170404172912
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-snakeyaml:
+    lastUpdated: 20170404172913
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-spring:
+    lastUpdated: 20170404172913
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-template-parent:
+    lastUpdated: 20170404172913
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-test:
+    lastUpdated: 20170404172914
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-tjws:
+    lastUpdated: 20170404172914
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-tomcat:
+    lastUpdated: 20170404172914
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-trimou:
+    lastUpdated: 20170404172915
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-undertow:
+    lastUpdated: 20170404172915
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-velocity:
+    lastUpdated: 20170404172916
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-weld:
+    lastUpdated: 20170404172916
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  pippo-xstream:
+    lastUpdated: 20170404172916
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+

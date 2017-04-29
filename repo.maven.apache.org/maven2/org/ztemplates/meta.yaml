@@ -1,0 +1,27 @@
+artifacts:
+  zclasspath:
+    lastUpdated: 20120815052926
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+  ztemplates:
+    lastUpdated: 20110911125848
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  ztest:
+    lastUpdated: 20110203191403
+    latest: 0.5.6
+    release: 0.5.6
+    versions:
+      - 0.5.6
+

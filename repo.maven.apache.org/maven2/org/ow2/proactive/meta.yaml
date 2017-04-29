@@ -1,0 +1,46 @@
+artifacts:
+  proactive-deployment:
+    lastUpdated: 20131030164229
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.1
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+  proactive-deployment-scheduler:
+    lastUpdated: 20131030164230
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.1
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+  proactive-virtualizing-core:
+    lastUpdated: 20110807155129
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  scheduling-common-core:
+    lastUpdated: 20120722142458
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  scheduling-scheduler-core:
+    lastUpdated: 20120722142448
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+

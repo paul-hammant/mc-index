@@ -1,0 +1,42 @@
+artifacts:
+  commons-pom:
+    lastUpdated: 20130131213630
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  ipsquare-commons-core:
+    lastUpdated: 20130329083505
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.1
+      - 2.0.0
+      - 2.1.0
+  ipsquare-commons-hibernate:
+    lastUpdated: 20130329083505
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+  ipsquare-commons-parent:
+    lastUpdated: 20130329083506
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  ipsquare-commons-servlet:
+    lastUpdated: 20130329083507
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.1.0
+

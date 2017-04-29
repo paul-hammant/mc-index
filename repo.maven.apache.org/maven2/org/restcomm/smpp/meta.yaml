@@ -1,0 +1,219 @@
+artifacts:
+  bootstrap:
+    lastUpdated: 20170418142726
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  bootstrap-wildfly:
+    lastUpdated: 20170418142727
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.11
+      - 1.0.16
+      - 1.0.17
+  ch-commons:
+    lastUpdated: 20161121143447
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-charset:
+    lastUpdated: 20161121143447
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-gsm:
+    lastUpdated: 20161121143448
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-io:
+    lastUpdated: 20161121143448
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-locale:
+    lastUpdated: 20161121143449
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-rfs:
+    lastUpdated: 20161121143449
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-sql:
+    lastUpdated: 20161121143449
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-ssl:
+    lastUpdated: 20161121143450
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-util:
+    lastUpdated: 20161121143450
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-commons-xbean:
+    lastUpdated: 20161121143451
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-httpclient-util:
+    lastUpdated: 20161121143451
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-jetty:
+    lastUpdated: 20161121143452
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  ch-smpp:
+    lastUpdated: 20170329162151
+    latest: 5.0.7
+    release: 5.0.7
+    versions:
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.0.7
+  ch-sxmp:
+    lastUpdated: 20161121143452
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.4
+      - 7.0.6
+  core:
+    lastUpdated: 20170418142727
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  smpp-cli:
+    lastUpdated: 20170418142727
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  smpp-extensions:
+    lastUpdated: 20170418142728
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  smpp-extensions-parent:
+    lastUpdated: 20170418142729
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  ui-management:
+    lastUpdated: 20170418142729
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+

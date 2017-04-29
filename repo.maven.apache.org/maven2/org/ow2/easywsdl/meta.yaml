@@ -1,0 +1,140 @@
+artifacts:
+  easy-parent:
+    lastUpdated: 20090226173631
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  easy-schema:
+    lastUpdated: 20090227110710
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  easy-wsdl:
+    lastUpdated: 20090227132119
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  easy-xml:
+    lastUpdated: 20090227112553
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  easywsdl-ext-multiple:
+    lastUpdated: 20160517133036
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  easywsdl-ext-sawsdl:
+    lastUpdated: 20160517133037
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  easywsdl-ext-wsdl4bpel:
+    lastUpdated: 20160517133037
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  easywsdl-ext-wsdl4complexwsdl:
+    lastUpdated: 20160517133037
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.0
+      - 2.6.1
+  easywsdl-parent:
+    lastUpdated: 20160517133037
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.0
+      - 2.6.1
+  easywsdl-schema:
+    lastUpdated: 20160517133037
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.0
+      - 2.6.1
+  easywsdl-tool-java2wsdl:
+    lastUpdated: 20160517133037
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0
+      - 2.4.1
+  easywsdl-tool-xsd2xml:
+    lastUpdated: 20160517133037
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.5.0
+      - 2.5.1
+  easywsdl-wsdl:
+    lastUpdated: 20160517133037
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.0
+      - 2.6.1
+  extensions.sawsdl:
+    lastUpdated: 20090708085814
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  extensions.wsdl4bpel:
+    lastUpdated: 20090708090029
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  extensions.wsdl4complexwsdl:
+    lastUpdated: 20090708090512
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  parent:
+    lastUpdated: 20090708075932
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  schema:
+    lastUpdated: 20090708080231
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  tooling.java2wsdl:
+    lastUpdated: 20090708090817
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.2
+  tooling.xsd2xml:
+    lastUpdated: 20090708091011
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.2
+  wsdl:
+    lastUpdated: 20090708085509
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+

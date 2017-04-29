@@ -1,0 +1,44 @@
+artifacts:
+  ginere-base:
+    lastUpdated: 20160301095838
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  ginere-base-web:
+    lastUpdated: 20160301102400
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  ginere-jdbc-mysql:
+    lastUpdated: 20151021100902
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  ginere-jdbc-oracle:
+    lastUpdated: 20160301105032
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  ginere-site-generator:
+    lastUpdated: 20140915225624
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

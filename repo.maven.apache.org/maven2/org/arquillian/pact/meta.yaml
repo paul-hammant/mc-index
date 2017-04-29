@@ -1,0 +1,189 @@
+artifacts:
+  arquillian-pact-common-parent:
+    lastUpdated: 20161107185146
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-configuration:
+    lastUpdated: 20161107185147
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-api:
+    lastUpdated: 20161107185148
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-core:
+    lastUpdated: 20161107185149
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-ftest:
+    lastUpdated: 20161107185151
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-ftest-container:
+    lastUpdated: 20161107185152
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-ftest-incontainer:
+    lastUpdated: 20160929141020
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-pact-consumer-git-publisher:
+    lastUpdated: 20161107185154
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-parent:
+    lastUpdated: 20161107185155
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-consumer-spi:
+    lastUpdated: 20161107185155
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-git:
+    lastUpdated: 20161107185157
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-parent:
+    lastUpdated: 20161107185158
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-api:
+    lastUpdated: 20161107185159
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-core:
+    lastUpdated: 20161107185200
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-ftest:
+    lastUpdated: 20161107185201
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-ftest-container:
+    lastUpdated: 20161107185202
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-ftest-container-skip-deployment:
+    lastUpdated: 20161107185203
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-ftest-incontainer:
+    lastUpdated: 20160929141029
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-pact-provider-git-loader:
+    lastUpdated: 20161107185205
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-maven-loader:
+    lastUpdated: 20161107185206
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-pact-broker-loader:
+    lastUpdated: 20161107185208
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-parent:
+    lastUpdated: 20161107185209
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-pact-provider-spi:
+    lastUpdated: 20161107185210
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+

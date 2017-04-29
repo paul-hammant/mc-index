@@ -1,0 +1,305 @@
+artifacts:
+  alluxio-assemblies:
+    lastUpdated: 20170113060416
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-core:
+    lastUpdated: 20170113060417
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-core-client:
+    lastUpdated: 20170113060417
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-core-client-internal:
+    lastUpdated: 20160328081006
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  alluxio-core-common:
+    lastUpdated: 20170113060418
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-core-server:
+    lastUpdated: 20170113060419
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-examples:
+    lastUpdated: 20170113060420
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-integration:
+    lastUpdated: 20170113060421
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-integration-mesos:
+    lastUpdated: 20170113060421
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+  alluxio-keyvalue:
+    lastUpdated: 20170113060422
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-keyvalue-client:
+    lastUpdated: 20170113060422
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-keyvalue-client-internal:
+    lastUpdated: 20160328081010
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  alluxio-keyvalue-common:
+    lastUpdated: 20170113060423
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-keyvalue-server:
+    lastUpdated: 20170113060423
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-minicluster:
+    lastUpdated: 20170113060424
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-parent:
+    lastUpdated: 20170113060425
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-shell:
+    lastUpdated: 20170113060425
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-tests:
+    lastUpdated: 20170113060425
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs:
+    lastUpdated: 20170113060426
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-gcs:
+    lastUpdated: 20170113060426
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-glusterfs:
+    lastUpdated: 20170113060427
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-hdfs:
+    lastUpdated: 20170113060428
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-local:
+    lastUpdated: 20170113060428
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-oss:
+    lastUpdated: 20170113060429
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-s3:
+    lastUpdated: 20170113060429
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-s3a:
+    lastUpdated: 20170113060430
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  alluxio-underfs-swift:
+    lastUpdated: 20170113060430
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+

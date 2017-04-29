@@ -1,0 +1,244 @@
+artifacts:
+  cleartk-util:
+    lastUpdated: 20170131142928
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  commons:
+    lastUpdated: 20160316073134
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  creta.api:
+    lastUpdated: 20160805090039
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1
+      - 1.1
+      - 1.2
+  de.unistuttgart.ims.drama:
+    lastUpdated: 20170401045444
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.api:
+    lastUpdated: 20170401045444
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.core:
+    lastUpdated: 20170401045445
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.core.cr:
+    lastUpdated: 20170401045445
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.core.ml:
+    lastUpdated: 20170401045445
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.examples:
+    lastUpdated: 20170401045446
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.graph:
+    lastUpdated: 20170401045446
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.io.core:
+    lastUpdated: 20170401045446
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.io.gutenbergde:
+    lastUpdated: 20170401045446
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.io.tei.folger:
+    lastUpdated: 20170401045447
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.io.tei.textgrid:
+    lastUpdated: 20170401045447
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.meta:
+    lastUpdated: 20170401045447
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.4
+      - 0.5.0
+  de.unistuttgart.ims.drama.util:
+    lastUpdated: 20170401045447
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+  segmentation:
+    lastUpdated: 20160316195753
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  segmentation.api:
+    lastUpdated: 20160316195753
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  segmentation.evaluation:
+    lastUpdated: 20160316195754
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  tree-edit-distance:
+    lastUpdated: 20160406181255
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  uima.weka:
+    lastUpdated: 20160629060800
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  uimautil:
+    lastUpdated: 20170419122338
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.7.1
+      - 0.2
+  uimautil-resources:
+    lastUpdated: 20160415054617
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

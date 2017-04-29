@@ -1,0 +1,534 @@
+artifacts:
+  exoplatform.business-process.article:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.business-process.content-validation:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.business-process.holiday:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.business-process.payraise:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.commons:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.container:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.jsf.core-components:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.jsf.exo-components:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portal.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portal.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlet-framework.cocoon:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlet-framework.commons:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlet-framework.exomvc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlet-framework.jsf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlet-framework.struts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.admin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.communications:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.content:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.exomvc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.navigation:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.project-manager:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.user:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.web:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.workflow:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.core.wsrp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.portlets.ext.weather:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.backup.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.backup.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.cache.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.cache.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.cms.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.cms.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.common.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.common.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.communication.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.communication.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.database.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.database.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.grammar-analyzer.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.grammar-analyzer.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.id-generator.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.id-generator.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.indexing.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.indexing.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.jcr.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.jcr.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.ldap.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.ldap.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.organization.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.organization.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portal.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portal.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portlet-container.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portlet-container.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portlet-registry.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.portlet-registry.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.project-manager.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.project-manager.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.remote.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.remote.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.resources.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.resources.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.security.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.security.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.templates.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.templates.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.workflow.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.workflow.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.wsrp.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.wsrp.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.xml-processing.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.services.xml-processing.impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.test.framework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.test.webunit-framework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.web.portal:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  exoplatform.web.skin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+

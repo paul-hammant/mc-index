@@ -1,0 +1,77 @@
+artifacts:
+  codecs_2.10:
+    lastUpdated: 20170308195227
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.4.8
+      - 5.4.9
+      - 5.4.10
+      - 5.4.11
+      - 5.4.12
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+  codecs_2.11:
+    lastUpdated: 20170308195519
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.4.6
+      - 5.4.9
+      - 5.4.10
+      - 5.4.11
+      - 5.4.12
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+  codecs_2.12:
+    lastUpdated: 20170308195709
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+  core_2.10:
+    lastUpdated: 20170308195228
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.4.8
+      - 5.4.9
+      - 5.4.10
+      - 5.4.11
+      - 5.4.12
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+  core_2.11:
+    lastUpdated: 20170308195520
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.4.6
+      - 5.4.8
+      - 5.4.9
+      - 5.4.10
+      - 5.4.11
+      - 5.4.12
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+  core_2.12:
+    lastUpdated: 20170308195709
+    latest: 5.5.14-scalaz-7.2
+    release: 5.5.14-scalaz-7.2
+    versions:
+      - 5.5.13-scalaz-7.1
+      - 5.5.13-scalaz-7.2
+      - 5.5.14-scalaz-7.1
+      - 5.5.14-scalaz-7.2
+

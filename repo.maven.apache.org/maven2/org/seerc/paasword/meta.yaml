@@ -1,0 +1,65 @@
+artifacts:
+  ICQueryValidatorREST:
+    lastUpdated: 20170420095722
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  dummy:
+    lastUpdated: 20170419180643
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  ic-constraints-translator:
+    lastUpdated: 20170420112917
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  ic-query-validator:
+    lastUpdated: 20170420112917
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  ic-query-validator-parent:
+    lastUpdated: 20170420112918
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  owl2sparql-core:
+    lastUpdated: 20170407082036
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  security-policy-engine:
+    lastUpdated: 20170420112918
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  swagger-web-fragment:
+    lastUpdated: 20170407103006
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

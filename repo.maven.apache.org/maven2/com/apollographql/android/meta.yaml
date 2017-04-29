@@ -1,0 +1,58 @@
+artifacts:
+  RxSupport:
+    lastUpdated: 20170329211357
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  api:
+    lastUpdated: 20170329211358
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.2.1
+      - 0.2.2
+  compiler:
+    lastUpdated: 20170329211358
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.2.1
+      - 0.2.2
+  converter:
+    lastUpdated: 20170218032635
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  converter-moshi:
+    lastUpdated: 20170202221614
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  converter-pojo:
+    lastUpdated: 20170202221615
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  gradle-plugin:
+    lastUpdated: 20170329211359
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.2.1
+      - 0.2.2
+  runtime:
+    lastUpdated: 20170329211359
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.2.1
+      - 0.2.2
+

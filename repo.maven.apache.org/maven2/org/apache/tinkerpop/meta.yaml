@@ -1,0 +1,351 @@
+artifacts:
+  giraph-gremlin:
+    lastUpdated: 20170213144016
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-archetype:
+    lastUpdated: 20170213144017
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-archetype-server:
+    lastUpdated: 20170213144017
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-archetype-tinkergraph:
+    lastUpdated: 20170213144017
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-console:
+    lastUpdated: 20170213144018
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-core:
+    lastUpdated: 20170213144023
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-driver:
+    lastUpdated: 20170213144024
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-groovy:
+    lastUpdated: 20170213144024
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-groovy-test:
+    lastUpdated: 20170213144025
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-python:
+    lastUpdated: 20170213144025
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-server:
+    lastUpdated: 20170213144030
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-shaded:
+    lastUpdated: 20170213144030
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  gremlin-test:
+    lastUpdated: 20170213144031
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  hadoop-gremlin:
+    lastUpdated: 20170213144032
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  neo4j-gremlin:
+    lastUpdated: 20170213144032
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  spark-gremlin:
+    lastUpdated: 20170213144033
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  tinkergraph-gremlin:
+    lastUpdated: 20170213144034
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+  tinkerpop:
+    lastUpdated: 20170213144034
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.0.0.M8-incubating
+      - 3.0.0.M9-incubating
+      - 3.0.0-incubating
+      - 3.0.1-incubating
+      - 3.0.2-incubating
+      - 3.1.0-incubating
+      - 3.1.1-incubating
+      - 3.1.2-incubating
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.2.0-incubating
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+

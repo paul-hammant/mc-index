@@ -1,0 +1,92 @@
+artifacts:
+  uima-chinese-segmenter:
+    lastUpdated: 20160127133532
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-contextualizer:
+    lastUpdated: 20160127133533
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-filter:
+    lastUpdated: 20160127133533
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-mapper:
+    lastUpdated: 20160127133534
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-profiler:
+    lastUpdated: 20150909125834
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  uima-stemmer:
+    lastUpdated: 20160127133535
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-tokenizer:
+    lastUpdated: 20160127133536
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  uima-tokens-regex:
+    lastUpdated: 20160127133536
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  uima-toolbox:
+    lastUpdated: 20160617135534
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  uima-tree-tagger-wrapper:
+    lastUpdated: 20160527133002
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+

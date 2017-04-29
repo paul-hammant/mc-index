@@ -1,0 +1,44 @@
+artifacts:
+  custom-plugins:
+    lastUpdated: 20110815133150
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  flux:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1
+      - 3.0-dev
+      - 2.1
+  flux-tests:
+    lastUpdated: 20110815133149
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  rabbitmq-action:
+    lastUpdated: 20110815133150
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  rabbitmq-trigger:
+    lastUpdated: 20110815133149
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  twitter-action:
+    lastUpdated: 20110815133149
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

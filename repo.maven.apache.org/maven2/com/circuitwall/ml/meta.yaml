@@ -1,0 +1,28 @@
+artifacts:
+  algorithm:
+    lastUpdated: 20161005073619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.4
+      - 1.1.1
+  parent:
+    lastUpdated: 20161005073619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  platform-flink:
+    lastUpdated: 20161005073619
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.4
+      - 1.1.1
+  platform-monolithic:
+    lastUpdated: 20161005073620
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+

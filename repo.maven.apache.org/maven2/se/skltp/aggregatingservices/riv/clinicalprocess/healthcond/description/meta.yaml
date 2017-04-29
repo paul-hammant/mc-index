@@ -1,0 +1,282 @@
+artifacts:
+  GetAggregatedAlertInformation:
+    lastUpdated: 20161103113936
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedAlertInformation-parent:
+    lastUpdated: 20161103113937
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedAlertInformation-schemas:
+    lastUpdated: 20161103113937
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedAlertInformation-teststub:
+    lastUpdated: 20161103113938
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedCareDocumentation:
+    lastUpdated: 20161103113938
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4-RC1
+      - 1.1.4-RC2
+      - 1.1.4-RC3
+      - 1.1.4-RC4
+      - 1.1.4-RC5
+      - 1.1.4
+      - 1.2.0-RC1
+      - 1.2.0
+      - 1.2.1-RC1
+      - 1.2.1-RC2
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  GetAggregatedCareDocumentation-parent:
+    lastUpdated: 20161103113939
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4-RC1
+      - 1.1.4-RC2
+      - 1.1.4-RC3
+      - 1.1.4-RC4
+      - 1.1.4-RC5
+      - 1.1.4
+      - 1.2.0-RC1
+      - 1.2.0
+      - 1.2.1-RC1
+      - 1.2.1-RC2
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  GetAggregatedCareDocumentation-schemas:
+    lastUpdated: 20161103113939
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.3
+      - 1.1.4-RC1
+      - 1.1.4-RC2
+      - 1.1.4-RC3
+      - 1.1.4-RC4
+      - 1.1.4-RC5
+      - 1.1.4
+      - 1.2.0-RC1
+      - 1.2.0
+      - 1.2.1-RC1
+      - 1.2.1-RC2
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  GetAggregatedCareDocumentation-teststub:
+    lastUpdated: 20161103113940
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4-RC1
+      - 1.1.4-RC2
+      - 1.1.4-RC3
+      - 1.1.4-RC4
+      - 1.1.4-RC5
+      - 1.1.4
+      - 1.2.0-RC1
+      - 1.2.0
+      - 1.2.1-RC1
+      - 1.2.1-RC2
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  GetAggregatedDiagnosis:
+    lastUpdated: 20161103113941
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2-RC1
+      - 1.0.2-RC2
+      - 1.0.2-RC3
+      - 1.0.2-RC4
+      - 1.0.2-RC6
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedDiagnosis-parent:
+    lastUpdated: 20161103113941
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2-RC1
+      - 1.0.2-RC2
+      - 1.0.2-RC3
+      - 1.0.2-RC4
+      - 1.0.2-RC6
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedDiagnosis-schemas:
+    lastUpdated: 20161103113942
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2-RC1
+      - 1.0.2-RC2
+      - 1.0.2-RC3
+      - 1.0.2-RC4
+      - 1.0.2-RC6
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedDiagnosis-teststub:
+    lastUpdated: 20161103113942
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2-RC1
+      - 1.0.2-RC2
+      - 1.0.2-RC3
+      - 1.0.2-RC4
+      - 1.0.2-RC6
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedFunctionalStatus:
+    lastUpdated: 20161103113943
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedFunctionalStatus-parent:
+    lastUpdated: 20161103113943
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedFunctionalStatus-schemas:
+    lastUpdated: 20161103113944
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedFunctionalStatus-teststub:
+    lastUpdated: 20161103113944
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+

@@ -1,0 +1,170 @@
+artifacts:
+  CBIRTools:
+    lastUpdated: 20160701161351
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  ClusterQuantiserTool:
+    lastUpdated: 20160701161352
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  FeatureVisualisation:
+    lastUpdated: 20160701161352
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  GlobalFeaturesTool:
+    lastUpdated: 20160701161353
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopClusterQuantiserTool:
+    lastUpdated: 20160701161353
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopDownloader:
+    lastUpdated: 20160701161353
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopFastKMeans:
+    lastUpdated: 20160701161353
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopGlobalFeaturesTool:
+    lastUpdated: 20160701161353
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopImageIndexer:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  HadoopLocalFeaturesTool:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  ImageCollectionTool:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  LocalFeaturesTool:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  RedditHarvester:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  SequenceFileIndexer:
+    lastUpdated: 20160701161354
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  SequenceFileMerger:
+    lastUpdated: 20160701161355
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  SequenceFileTool:
+    lastUpdated: 20160701161356
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  SimilarityMatrixTool:
+    lastUpdated: 20160701161358
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  TwitterPreprocessingTool:
+    lastUpdated: 20160701161358
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  WebTools:
+    lastUpdated: 20160701161358
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  core-tool:
+    lastUpdated: 20160701161358
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+  picslurper:
+    lastUpdated: 20160701161358
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.5
+

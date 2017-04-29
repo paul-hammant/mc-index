@@ -1,0 +1,51 @@
+artifacts:
+  livetribe:
+    lastUpdated: 20120317014057
+    latest: 7
+    release: 7
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2
+      - 1.4.0
+      - 1.5.0
+      - 6
+      - 7
+  livetribe-jsr223:
+    lastUpdated: 20120801153853
+    latest: 2.0.7
+    release: 2.0.7
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+  livetribe-slp:
+    lastUpdated: 20140703013033
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+  livetribe-util:
+    lastUpdated: 20140703013033
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  nursery:
+    lastUpdated: 20140703013030
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+

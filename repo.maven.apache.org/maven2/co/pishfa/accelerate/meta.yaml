@@ -1,0 +1,71 @@
+artifacts:
+  accelerate-core:
+    lastUpdated: 20170129073952
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+  accelerate-eclipselink:
+    lastUpdated: 20160904101656
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  accelerate-fa:
+    lastUpdated: 20160904123513
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  accelerate-initializer:
+    lastUpdated: 20160904095616
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.1
+      - 1.0.0
+  accelerate-mail:
+    lastUpdated: 20160904105953
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  accelerate-myfaces:
+    lastUpdated: 20160904101409
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  accelerate-parent:
+    lastUpdated: 20160904040246
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 1.0.0
+  accelerate-primefaces:
+    lastUpdated: 20161025132512
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  accelerate-service:
+    lastUpdated: 20160904110223
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

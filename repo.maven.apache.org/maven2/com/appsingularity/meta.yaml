@@ -1,0 +1,53 @@
+artifacts:
+  postman:
+    lastUpdated: 20160418092313
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  postman-annotations:
+    lastUpdated: 20160418092313
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  postman-compiler:
+    lastUpdated: 20160418092314
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  ristretto:
+    lastUpdated: 20170119135915
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ristretto-lint:
+    lastUpdated: 20170119135915
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ristretto-sample:
+    lastUpdated: 20170119135916
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

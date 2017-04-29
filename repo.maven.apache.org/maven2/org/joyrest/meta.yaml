@@ -1,0 +1,97 @@
+artifacts:
+  joyrest:
+    lastUpdated: 20150527155639
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-core:
+    lastUpdated: 20150527155640
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-dagger:
+    lastUpdated: 20150527155641
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-grizzly:
+    lastUpdated: 20150527155641
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-guice:
+    lastUpdated: 20150527155641
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-hk2:
+    lastUpdated: 20150527155642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-jetty:
+    lastUpdated: 20150527155642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-servlet:
+    lastUpdated: 20150527155643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-spring:
+    lastUpdated: 20150527155643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-undertow:
+    lastUpdated: 20150527155643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+  joyrest-unit-tests:
+    lastUpdated: 20150527155106
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  joyrest-utils:
+    lastUpdated: 20150527155644
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+

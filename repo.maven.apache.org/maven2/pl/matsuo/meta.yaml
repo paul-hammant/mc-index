@@ -1,0 +1,92 @@
+artifacts:
+  accounting-core:
+    lastUpdated: 20151011144746
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  accounting-model:
+    lastUpdated: 20151011144747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  accounting-parent:
+    lastUpdated: 20151011144747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  accounting-util:
+    lastUpdated: 20151011144747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  accounting-web:
+    lastUpdated: 20151011144747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  accounting-webapp:
+    lastUpdated: 20151011144748
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hibernate-validator-pl:
+    lastUpdated: 20151010222521
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  matsuo-core:
+    lastUpdated: 20151011142433
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  matsuo-core-parent:
+    lastUpdated: 20151011142433
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  matsuo-model:
+    lastUpdated: 20151011142433
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  matsuo-util:
+    lastUpdated: 20151011142434
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  matsuo-web:
+    lastUpdated: 20151011142434
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  matsuo-webapp:
+    lastUpdated: 20151011142435
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+

@@ -1,0 +1,125 @@
+artifacts:
+  bom:
+    lastUpdated: 20170418161958
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  build:
+    lastUpdated: 20170418161958
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  ca-icpbrasil:
+    lastUpdated: 20161213160631
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  ca-icpbrasil-homologacao:
+    lastUpdated: 20161213164256
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  chain-icp-brasil:
+    lastUpdated: 20170418161958
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  core:
+    lastUpdated: 20170418161958
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  cryptography:
+    lastUpdated: 20170418161959
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  jnlp:
+    lastUpdated: 20161213164729
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  parent:
+    lastUpdated: 20170418161959
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  policy-engine:
+    lastUpdated: 20170418161959
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  policy-impl-cades:
+    lastUpdated: 20170418162000
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+  signature-applet:
+    lastUpdated: 20161213134128
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signature-core:
+    lastUpdated: 20161213133511
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signature-criptography:
+    lastUpdated: 20161213134522
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signature-policy-engine:
+    lastUpdated: 20161213134218
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signature-signer:
+    lastUpdated: 20161213171637
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signature-timestamp:
+    lastUpdated: 20161213140706
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  signer-parent:
+    lastUpdated: 20161213124012
+    latest: 2.0.0-BETA1
+    release: 2.0.0-BETA1
+    versions:
+      - 2.0.0-BETA1
+  timestamp:
+    lastUpdated: 20170418162000
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0
+

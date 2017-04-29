@@ -1,0 +1,25 @@
+artifacts:
+  grchaos-application:
+    lastUpdated: 20160708035821
+    latest: 1.0.0-rc
+    release: 1.0.0-rc
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-rc
+  grchaos-summer:
+    lastUpdated: 20160708035822
+    latest: 1.0.0-rc
+    release: 1.0.0-rc
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+      - 1.0.0-rc
+  grchaos-tools:
+    lastUpdated: 20160624233559
+    latest: 1.0.0-alpha-2
+    release: 1.0.0-alpha-2
+    versions:
+      - 1.0.0-alpha
+      - 1.0.0-alpha-2
+

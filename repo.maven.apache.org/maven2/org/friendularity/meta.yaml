@@ -1,0 +1,658 @@
+artifacts:
+  org.friendularity.bundle.animplayer:
+    lastUpdated: 20170316012353
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.bento:
+    lastUpdated: 20170316012354
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.blockflow:
+    lastUpdated: 20170316012355
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.demo.ccmio:
+    lastUpdated: 20170316012355
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.demo.ccrk:
+    lastUpdated: 20131212043710
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  org.friendularity.bundle.demo.convo.dictation:
+    lastUpdated: 20170316012356
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.demo.convo.response:
+    lastUpdated: 20170316012357
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.demo.liftoff:
+    lastUpdated: 20140420001119
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  org.friendularity.bundle.demoserv.semrepo:
+    lastUpdated: 20150506030451
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  org.friendularity.bundle.discovery:
+    lastUpdated: 20170316012357
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.gaze:
+    lastUpdated: 20170316012358
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.headless.animation:
+    lastUpdated: 20170316012358
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.headless.messaging:
+    lastUpdated: 20170316012358
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.headless.speech:
+    lastUpdated: 20170316012359
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.infra:
+    lastUpdated: 20170316012359
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.friendularity.bundle.jvision:
+    lastUpdated: 20170316012359
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.launcher.oglweb:
+    lastUpdated: 20170316012402
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.launcher.webonly:
+    lastUpdated: 20170316012403
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.lifter:
+    lastUpdated: 20140420001124
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  org.friendularity.bundle.messagemonitor:
+    lastUpdated: 20170316012403
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.messageplayer:
+    lastUpdated: 20170316012404
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.netconfig:
+    lastUpdated: 20140420001126
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  org.friendularity.bundle.qpid_broker_wrap:
+    lastUpdated: 20170316012404
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.friendularity.bundle.repo:
+    lastUpdated: 20150506030504
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  org.friendularity.bundle.test.facedetect.r50:
+    lastUpdated: 20170316012406
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.ui.swing.animation:
+    lastUpdated: 20170316012406
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.vision:
+    lastUpdated: 20170316012407
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.vscli:
+    lastUpdated: 20170316012407
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.friendularity.bundle.vsim:
+    lastUpdated: 20170316012408
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.friendularity.bundle.wbrst:
+    lastUpdated: 20170316012408
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.friendularity.bundle.webapp.semrepo:
+    lastUpdated: 20170316012408
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.xweb.fustdb:
+    lastUpdated: 20170316012410
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.xweb.minlift:
+    lastUpdated: 20170316012411
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.bundle.xweb.xgra:
+    lastUpdated: 20170316012412
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.connection:
+    lastUpdated: 20170316012413
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.basic.r25:
+    lastUpdated: 20170316012414
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.connection:
+    lastUpdated: 20170316012415
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.egosphere:
+    lastUpdated: 20140420001130
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  org.friendularity.demo.jme3.maven:
+    lastUpdated: 20170316012415
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.lifecycles:
+    lastUpdated: 20170316012416
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.owlbind:
+    lastUpdated: 20170316012417
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.rkbasic:
+    lastUpdated: 20170316012417
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.demo.spec.connection:
+    lastUpdated: 20170316012418
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.lib.viz:
+    lastUpdated: 20170316012418
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.model.test:
+    lastUpdated: 20150506030521
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  org.friendularity.modules.main:
+    lastUpdated: 20170316012419
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.project.root:
+    lastUpdated: 20170316012419
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.spec.connection:
+    lastUpdated: 20170316012419
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.test.audio.r50:
+    lastUpdated: 20170316012420
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.test.camera.r50:
+    lastUpdated: 20170316012420
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.test.facedetect.r50:
+    lastUpdated: 20170316012421
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+  org.friendularity.test.sensors.r50:
+    lastUpdated: 20170316012422
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+

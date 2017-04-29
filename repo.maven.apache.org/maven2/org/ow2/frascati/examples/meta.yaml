@@ -1,0 +1,533 @@
+artifacts:
+  bpel-parent:
+    lastUpdated: 20110603120403
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  calculator-client:
+    lastUpdated: 20110603114214
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  calculator-parent:
+    lastUpdated: 20110603114200
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  calculator-server:
+    lastUpdated: 20110603114230
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  callback:
+    lastUpdated: 20110603114249
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  chat-client:
+    lastUpdated: 20110603115345
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  chat-parent:
+    lastUpdated: 20110603115333
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  chat-server:
+    lastUpdated: 20110603115401
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  comanche:
+    lastUpdated: 20110603114311
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  counter-client:
+    lastUpdated: 20110603114513
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  counter-contribution:
+    lastUpdated: 20110603115325
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  counter-parent:
+    lastUpdated: 20110603114503
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  counter-server:
+    lastUpdated: 20110603114530
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  counter-server-explorer-web-application:
+    lastUpdated: 20110603115318
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  counter-server-web-application:
+    lastUpdated: 20110603114853
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  crisis-bpel:
+    lastUpdated: 20110603120707
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  dictionary:
+    lastUpdated: 20100820110218
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+  echo-bpel:
+    lastUpdated: 20110603120433
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  factorial-bpel:
+    lastUpdated: 20110603120518
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  frascati-availability-intent:
+    lastUpdated: 20110603115745
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  frascati-helloworld-servlet:
+    lastUpdated: 20110603113951
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-annotations:
+    lastUpdated: 20110603113426
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-auth:
+    lastUpdated: 20110603113844
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-fractal:
+    lastUpdated: 20110603113505
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-jms:
+    lastUpdated: 20110603114041
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-jms-publisher:
+    lastUpdated: 20110603114102
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-jms-subscriber:
+    lastUpdated: 20110603114126
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-jsonrpc-client:
+    lastUpdated: 20110603114010
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-jsonrpc-parent:
+    lastUpdated: 20110603114001
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-jsonrpc-server:
+    lastUpdated: 20110603114029
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-api:
+    lastUpdated: 20110603113631
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-bundles-parent:
+    lastUpdated: 20110603113621
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-client:
+    lastUpdated: 20110603113645
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-equinox:
+    lastUpdated: 20110603113731
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-felix:
+    lastUpdated: 20110603113742
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-knopflerfish:
+    lastUpdated: 20110603113753
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-osgi-parent:
+    lastUpdated: 20110603113616
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-runtime-parent:
+    lastUpdated: 20110603113718
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  helloworld-osgi-sca:
+    lastUpdated: 20110603113711
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-osgi-server:
+    lastUpdated: 20110603113659
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-pojo:
+    lastUpdated: 20110603113408
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-property:
+    lastUpdated: 20110603113447
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-rmi-client:
+    lastUpdated: 20110603113807
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-rmi-parent:
+    lastUpdated: 20110603113758
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-rmi-server:
+    lastUpdated: 20110603113821
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-script:
+    lastUpdated: 20110603113546
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-spring:
+    lastUpdated: 20110603113605
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-ws-client:
+    lastUpdated: 20110603113914
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-ws-parent:
+    lastUpdated: 20110603113859
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-ws-server:
+    lastUpdated: 20110603113934
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  helloworld-xquery:
+    lastUpdated: 20110603114150
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  isbntest:
+    lastUpdated: 20110603114427
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  nrbc:
+    lastUpdated: 20110603120819
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  ohloh-proxy-parent:
+    lastUpdated: 20110603115952
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  ohloh-proxy-standalone:
+    lastUpdated: 20110603120010
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  ohloh-proxy-web:
+    lastUpdated: 20110603120354
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  ohloh-proxy-web-application:
+    lastUpdated: 20110603120347
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  parent:
+    lastUpdated: 20110603113342
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  reconfig:
+    lastUpdated: 20110603115426
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+  sales-bpel:
+    lastUpdated: 20110603120608
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  twitter:
+    lastUpdated: 20110603114452
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  twitter-weather:
+    lastUpdated: 20100820110338
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.3
+  verifymail:
+    lastUpdated: 20110603114347
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  weather:
+    lastUpdated: 20100820110117
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+  ws-parent:
+    lastUpdated: 20110603113855
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.4
+

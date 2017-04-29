@@ -1,0 +1,184 @@
+artifacts:
+  flume-event-filter:
+    lastUpdated: 20120320103536
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  flume-filter-plugin:
+    lastUpdated: 20120627135727
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-formatter-plugin:
+    lastUpdated: 20120627135728
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-geoip-extractor:
+    lastUpdated: 20120320103535
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  flume-geoip-plugin:
+    lastUpdated: 20120627135727
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-haproxy-extractor:
+    lastUpdated: 20120320103536
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.2
+      - 1.3
+      - 1.4
+  flume-haproxy-plugin:
+    lastUpdated: 20120627135727
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-hbase-plugin:
+    lastUpdated: 20120627135728
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-parent:
+    lastUpdated: 20120320095828
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  flume-plugins:
+    lastUpdated: 20120627135727
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-rabbitmq-plugin:
+    lastUpdated: 20120627135727
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-rabbitmq-sink:
+    lastUpdated: 20120320103541
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  flume-uri-plugin:
+    lastUpdated: 20120627135728
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.3
+      - 1.5
+      - 1.6
+      - 1.3
+      - 1.5
+      - 1.6
+  flume-uriparams-plugin:
+    lastUpdated: 20120523085541
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+

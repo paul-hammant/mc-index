@@ -1,0 +1,29 @@
+artifacts:
+  jjson:
+    lastUpdated: 20160709180414
+    latest: 0.1.7
+    release: 0.1.7
+    versions:
+      - 0.1.2
+      - 0.1.4
+      - 0.1.7
+  jjson-struts2:
+    lastUpdated: 20160709180415
+    latest: 0.0.9
+    release: 0.0.9
+    versions:
+      - 0.0.4
+      - 0.0.7
+      - 0.0.9
+  parent:
+    lastUpdated: 20160709180415
+    latest: 7
+    release: 7
+    versions:
+      - 3
+      - 5
+      - 7
+      - 3
+      - 5
+      - 7
+

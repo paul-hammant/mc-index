@@ -1,0 +1,63 @@
+artifacts:
+  vertx-completable-future:
+    lastUpdated: 20170217132443
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  vertx-configuration:
+    lastUpdated: 20161212104208
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-git-store:
+    lastUpdated: 20161212104209
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-hocon-processor:
+    lastUpdated: 20161212104210
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-kubernetes-configmap:
+    lastUpdated: 20161212104210
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-parent:
+    lastUpdated: 20161212104210
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-redis-store:
+    lastUpdated: 20161212104211
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-spring-config-server-store:
+    lastUpdated: 20161212104211
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-yaml-processor:
+    lastUpdated: 20161212104211
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-configuration-zookeeper-store:
+    lastUpdated: 20161212104212
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

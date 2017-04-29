@@ -1,0 +1,167 @@
+artifacts:
+  livy-api:
+    lastUpdated: 20170207044648
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-assembly:
+    lastUpdated: 20170207044648
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-client-common:
+    lastUpdated: 20170207044649
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-client-http:
+    lastUpdated: 20170207044650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-core:
+    lastUpdated: 20161020055831
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  livy-core-parent:
+    lastUpdated: 20170207144144
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-core_2.10:
+    lastUpdated: 20170207044650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-core_2.11:
+    lastUpdated: 20170207044650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-coverage-report:
+    lastUpdated: 20170207044650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-examples:
+    lastUpdated: 20170207044651
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-integration-test:
+    lastUpdated: 20170207044651
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-main:
+    lastUpdated: 20170207044652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-python-api:
+    lastUpdated: 20170207044652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-repl:
+    lastUpdated: 20161020055832
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  livy-repl-parent:
+    lastUpdated: 20170207144146
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-repl_2.10:
+    lastUpdated: 20170207044652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-repl_2.11:
+    lastUpdated: 20170207044652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-rsc:
+    lastUpdated: 20170207044652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-scala-api-parent:
+    lastUpdated: 20170207144147
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-scala-api_2.10:
+    lastUpdated: 20170207044653
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-scala-api_2.11:
+    lastUpdated: 20170207044653
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  livy-server:
+    lastUpdated: 20170207044654
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  livy-test-lib:
+    lastUpdated: 20170207044654
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  minicluster-dependencies_2.10:
+    lastUpdated: 20170207044654
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  minicluster-dependencies_2.11:
+    lastUpdated: 20170207044655
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  multi-scala-project-root:
+    lastUpdated: 20170207150748
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+

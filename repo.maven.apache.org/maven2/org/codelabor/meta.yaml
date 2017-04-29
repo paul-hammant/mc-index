@@ -1,0 +1,171 @@
+artifacts:
+  codelabor-commons-calendar:
+    lastUpdated: 20100909061757
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  codelabor-parent:
+    lastUpdated: 20110621082858
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  codelabor-system-anyframe:
+    lastUpdated: 20110614051916
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 3.1.1
+  codelabor-system-core:
+    lastUpdated: 20140326123841
+    latest: 4.0.1
+    release: 4.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.0.7
+      - 4.0.0
+      - 4.0.1
+  codelabor-system-file:
+    lastUpdated: 20110629034322
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  codelabor-system-file-servlet:
+    lastUpdated: 20101001023527
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  codelabor-system-file-spring-mvc:
+    lastUpdated: 20110629041316
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.1
+      - 3.1.0
+  codelabor-system-file-struts1:
+    lastUpdated: 20101001031438
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  codelabor-system-host:
+    lastUpdated: 20101222060430
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  codelabor-system-mime:
+    lastUpdated: 20110420061310
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 3.0.0
+      - 3.0.1
+  codelabor-system-pattern:
+    lastUpdated: 20140422083346
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 4.0.0
+  codelabor-system-security:
+    lastUpdated: 20140422083710
+    latest: 4.0.2
+    release: 4.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+  codelabor-system-sniffer:
+    lastUpdated: 20140408140145
+    latest: 4.0.3
+    release: 4.0.3
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+  codelabor-system-web:
+    lastUpdated: 20140428143513
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 3.0.0
+      - 3.0.2
+      - 3.0.3
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  codelabor-system-xecure:
+    lastUpdated: 20101006045911
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  codelabor-system-xplatform-ant:
+    lastUpdated: 20120614063717
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.0.1
+      - 1.0.0
+      - 1.0.1
+  maven-example:
+    lastUpdated: 20110621020016
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+

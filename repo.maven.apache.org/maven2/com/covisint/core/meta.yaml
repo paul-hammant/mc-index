@@ -1,0 +1,56 @@
+artifacts:
+  aspectj-bom:
+    lastUpdated: 20150422193242
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+  core-support:
+    lastUpdated: 20150402015046
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  hibernate-orm-bom:
+    lastUpdated: 20150422193301
+    latest: 4.3.1.Final
+    release: 4.3.1.Final
+    versions:
+      - 4.3.1.Final
+  httpclient-bom:
+    lastUpdated: 20150422193318
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.3.2
+  httpclient-support:
+    lastUpdated: 20150422193412
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  metrics-bom:
+    lastUpdated: 20150422193224
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.2
+  slf4j-bom:
+    lastUpdated: 20150422193336
+    latest: 1.7.6
+    release: 1.7.6
+    versions:
+      - 1.7.6
+  spring-framework-bom:
+    lastUpdated: 20150422193353
+    latest: 4.0.2.RELEASE
+    release: 4.0.2.RELEASE
+    versions:
+      - 4.0.2.RELEASE
+  trace:
+    lastUpdated: 20150422194245
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+

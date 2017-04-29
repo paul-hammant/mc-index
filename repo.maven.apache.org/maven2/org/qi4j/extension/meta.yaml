@@ -1,0 +1,140 @@
+artifacts:
+  org.qi4j.extension.cache-ehcache:
+    lastUpdated: 20150731130928
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.cache-memcache:
+    lastUpdated: 20150731130928
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-file:
+    lastUpdated: 20150731130929
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-hazelcast:
+    lastUpdated: 20150731130929
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-jclouds:
+    lastUpdated: 20150731130930
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-jdbm:
+    lastUpdated: 20150731130931
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-leveldb:
+    lastUpdated: 20150731130931
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-memory:
+    lastUpdated: 20150731130932
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-mongodb:
+    lastUpdated: 20150731130933
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-preferences:
+    lastUpdated: 20150731130934
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-redis:
+    lastUpdated: 20150731130934
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-riak:
+    lastUpdated: 20150731130934
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.entitystore-sql:
+    lastUpdated: 20150731130936
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.indexing-elasticsearch:
+    lastUpdated: 20150731130936
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.indexing-rdf:
+    lastUpdated: 20150731130937
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.indexing-solr:
+    lastUpdated: 20150731130938
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.indexing-sql:
+    lastUpdated: 20150731130938
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.metrics-yammer:
+    lastUpdated: 20150731130938
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.migration:
+    lastUpdated: 20150731130941
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.reindexer:
+    lastUpdated: 20150731130941
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.valueserialization-jackson:
+    lastUpdated: 20150731130941
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.valueserialization-orgjson:
+    lastUpdated: 20150731130943
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.extension.valueserialization-stax:
+    lastUpdated: 20150731130943
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+

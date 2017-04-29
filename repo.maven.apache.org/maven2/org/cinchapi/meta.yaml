@@ -1,0 +1,107 @@
+artifacts:
+  concourse:
+    lastUpdated: 20150302235203
+    latest: 0.4.4
+    release: 0.4.4
+    versions:
+      - 0.2.0-rc2
+      - 0.2.0
+      - 0.3.0-rc1
+      - 0.3.0-rc2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3-rc1
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.4.0-rc1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+  concourse-api:
+    lastUpdated: 20131120140632
+    latest: 0.2.0.841-BETA
+    release: 0.2.0.841-BETA
+    versions:
+      - 0.2.0.176-BETA
+      - 0.2.0.841-BETA
+  concourse-cli:
+    lastUpdated: 20150201184710
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  concourse-config:
+    lastUpdated: 20140630003317
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  concourse-config-framework:
+    lastUpdated: 20140209132318
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  concourse-import:
+    lastUpdated: 20140626140845
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+  concourse-test:
+    lastUpdated: 20150714201417
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+  jarsh:
+    lastUpdated: 20140712132628
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  quest-api:
+    lastUpdated: 20141003123922
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  runway:
+    lastUpdated: 20141203150718
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+

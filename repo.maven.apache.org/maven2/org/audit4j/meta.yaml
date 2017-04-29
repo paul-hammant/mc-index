@@ -1,0 +1,66 @@
+artifacts:
+  audit4j-cdi:
+    lastUpdated: 20150321130248
+    latest: 1.0.0.alpha1
+    release: 1.0.0.alpha1
+    versions:
+      - 1.0.0.alpha1
+  audit4j-core:
+    lastUpdated: 20160302074843
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0-alpha1
+      - 2.4.0-alpha2
+      - 2.4.0-alpha3
+      - 2.4.0
+      - 2.4.1-RC1
+      - 2.4.1-RC2
+      - 2.4.1-RC3
+      - 2.4.1
+  audit4j-db:
+    lastUpdated: 20160305121838
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 2.2.0
+      - 2.3.1
+      - 2.4.0-alpha1
+      - 2.4.0
+      - 2.4.1-RC1
+      - 2.4.1-RC2
+      - 2.4.1
+  audit4j-spring:
+    lastUpdated: 20160305124804
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 2.2.0
+      - 2.3.1
+      - 2.4.0-alpha3
+      - 2.4.0-alpha4
+      - 2.4.0
+      - 2.4.1-RC1
+      - 2.4.1
+

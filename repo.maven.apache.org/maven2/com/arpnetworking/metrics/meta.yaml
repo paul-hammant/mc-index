@@ -1,0 +1,99 @@
+artifacts:
+  generator:
+    lastUpdated: 20170404083116
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+  metrics-aggregator-daemon:
+    lastUpdated: 20170404001205
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+  metrics-aggregator-protocol:
+    lastUpdated: 20161205060540
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  metrics-client:
+    lastUpdated: 20170314200546
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.3.4
+      - 0.3.5
+      - 0.3.7
+      - 0.3.8
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  metrics-cluster-aggregator:
+    lastUpdated: 20170316221543
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  metrics-portal_2.11:
+    lastUpdated: 20170226055721
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+      - 0.4.9
+      - 0.4.10
+      - 0.4.11
+      - 0.4.12
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+  sink-http-apache:
+    lastUpdated: 20161010174525
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+

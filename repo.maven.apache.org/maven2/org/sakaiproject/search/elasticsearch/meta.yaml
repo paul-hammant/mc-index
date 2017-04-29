@@ -1,0 +1,37 @@
+artifacts:
+  elasticsearch-base:
+    lastUpdated: 20170225000148
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  elasticsearch-component:
+    lastUpdated: 20160422165015
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  elasticsearch-impl:
+    lastUpdated: 20170225000149
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+

@@ -1,0 +1,76 @@
+artifacts:
+  avatica:
+    lastUpdated: 20161031034417
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-core:
+    lastUpdated: 20161031034418
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.9.0
+  avatica-metrics:
+    lastUpdated: 20161031034419
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-metrics-dropwizardmetrics3:
+    lastUpdated: 20161031034420
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-noop-driver:
+    lastUpdated: 20161031034421
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-parent:
+    lastUpdated: 20161031034421
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-server:
+    lastUpdated: 20161031034422
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+  avatica-standalone-server:
+    lastUpdated: 20161031034423
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.8.0
+      - 1.9.0
+  avatica-tck:
+    lastUpdated: 20161031034424
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.8.0
+      - 1.9.0
+

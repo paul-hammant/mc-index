@@ -1,0 +1,51 @@
+artifacts:
+  jparsec:
+    lastUpdated: 20161227074210
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.1
+      - 2.2.1
+      - 2.3
+      - 3.0-rc1
+      - 3.0
+  jparsec-examples:
+    lastUpdated: 20161227074211
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.2.1
+      - 2.3
+      - 3.0-rc1
+      - 3.0
+  jparsec-g:
+    lastUpdated: 20141214052239
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  jparsec-g-root:
+    lastUpdated: 20141214052240
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  jparsec-root:
+    lastUpdated: 20161227074211
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.2.1
+      - 2.3
+      - 3.0-rc1
+      - 3.0
+  jparsec-testutils:
+    lastUpdated: 20161227074211
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.2.1
+      - 2.3
+      - 3.0-rc1
+      - 3.0
+

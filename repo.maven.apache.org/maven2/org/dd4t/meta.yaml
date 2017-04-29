@@ -1,0 +1,173 @@
+artifacts:
+  dd4t-api:
+    lastUpdated: 20170419075419
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-bom:
+    lastUpdated: 20170419075419
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-bom-2013SP1:
+    lastUpdated: 20170419075420
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-bom-web8:
+    lastUpdated: 20170419075420
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-caching:
+    lastUpdated: 20170419075420
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-compatibility:
+    lastUpdated: 20170419075421
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-core:
+    lastUpdated: 20170419075422
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-databind:
+    lastUpdated: 20170419075422
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-mvc-support:
+    lastUpdated: 20170419075423
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-parent:
+    lastUpdated: 20170419075423
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-providers:
+    lastUpdated: 20170419075423
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.1-beta
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-providers-common:
+    lastUpdated: 20170419075424
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-providers-web8:
+    lastUpdated: 20170419075424
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+  dd4t-spring-mvc-archetype:
+    lastUpdated: 20151228140506
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  dd4t-thymeleaf-support:
+    lastUpdated: 20170419075425
+    latest: 2.0.8
+    release: 2.0.8
+    versions:
+      - 2.0.7
+      - 2.0.8
+

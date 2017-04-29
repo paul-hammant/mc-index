@@ -1,0 +1,226 @@
+artifacts:
+  odps:
+    lastUpdated: 20170222041235
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-common-local:
+    lastUpdated: 20170222041235
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-graph-local:
+    lastUpdated: 20170222041236
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-jdbc:
+    lastUpdated: 20170224060026
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.0-public
+      - 1.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.9.1
+      - 2.0-beta
+      - 2.2
+      - 1.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 2.2
+  odps-lot-proto:
+    lastUpdated: 20170222041236
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-mapred-bridge:
+    lastUpdated: 20170222041236
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-mapred-local:
+    lastUpdated: 20170222041237
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk:
+    lastUpdated: 20170222041237
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-commons:
+    lastUpdated: 20170222041237
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-core:
+    lastUpdated: 20170222041237
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-graph:
+    lastUpdated: 20170222041238
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-impl:
+    lastUpdated: 20170222041238
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-lot:
+    lastUpdated: 20170222041238
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-mapred:
+    lastUpdated: 20170222041239
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-udf:
+    lastUpdated: 20170222041239
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.17.3
+      - 0.18.3-public
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-sdk-volumefs:
+    lastUpdated: 20170222041239
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-udf-example:
+    lastUpdated: 20170222041240
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+  odps-udf-local:
+    lastUpdated: 20170222041240
+    latest: 0.26.2-public
+    release: 0.26.2-public
+    versions:
+      - 0.19.3-public
+      - 0.20.7-public
+      - 0.21.3-public
+      - 0.23.3-public
+      - 0.24.0-public
+      - 0.26.2-public
+

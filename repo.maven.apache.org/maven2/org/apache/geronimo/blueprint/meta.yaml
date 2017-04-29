@@ -1,0 +1,44 @@
+artifacts:
+  blueprint:
+    lastUpdated: 20090916062234
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  geronimo-blueprint:
+    lastUpdated: 20090916062231
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  geronimo-blueprint-api:
+    lastUpdated: 20090916062235
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  geronimo-blueprint-cm:
+    lastUpdated: 20090916062214
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  geronimo-blueprint-core:
+    lastUpdated: 20090916062220
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.geronimo.blueprint.itests:
+    lastUpdated: 20090916062232
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.apache.geronimo.blueprint.sample:
+    lastUpdated: 20090916062224
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

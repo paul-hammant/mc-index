@@ -1,0 +1,430 @@
+artifacts:
+  beam-examples-java:
+    lastUpdated: 20170314214645
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-examples-java8:
+    lastUpdated: 20170314214645
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-examples-parent:
+    lastUpdated: 20170314214646
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-parent:
+    lastUpdated: 20170314214646
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-apex:
+    lastUpdated: 20170314214646
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-core-construction-java:
+    lastUpdated: 20170314214647
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-runners-core-java:
+    lastUpdated: 20170314214648
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-direct-java:
+    lastUpdated: 20170314214648
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-flink-parent:
+    lastUpdated: 20170314214649
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-flink_2.10:
+    lastUpdated: 20170314214649
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-flink_2.10-examples:
+    lastUpdated: 20170314214650
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-google-cloud-dataflow-java:
+    lastUpdated: 20170314214650
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-parent:
+    lastUpdated: 20170314214651
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-runners-spark:
+    lastUpdated: 20170314214651
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-common-fn-api:
+    lastUpdated: 20170314214652
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-common-parent:
+    lastUpdated: 20170314214652
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-common-runner-api:
+    lastUpdated: 20170314214653
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-build-tools:
+    lastUpdated: 20170314214653
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-core:
+    lastUpdated: 20170314214654
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-extensions-join-library:
+    lastUpdated: 20170314214655
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-extensions-json-jackson:
+    lastUpdated: 20170314214655
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-extensions-parent:
+    lastUpdated: 20170314214656
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-extensions-sorter:
+    lastUpdated: 20170314214656
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-harness:
+    lastUpdated: 20170314214657
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-io-elasticsearch:
+    lastUpdated: 20170314214658
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-google-cloud-platform:
+    lastUpdated: 20170314214658
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-hadoop-common:
+    lastUpdated: 20170314214659
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-io-hbase:
+    lastUpdated: 20170314214659
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-io-hdfs:
+    lastUpdated: 20170314214700
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-jdbc:
+    lastUpdated: 20170314214701
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-jms:
+    lastUpdated: 20170314214701
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-kafka:
+    lastUpdated: 20170314214702
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-kinesis:
+    lastUpdated: 20170314214703
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-mongodb:
+    lastUpdated: 20170314214703
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-mqtt:
+    lastUpdated: 20170314214704
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-io-parent:
+    lastUpdated: 20170314214704
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-java8tests:
+    lastUpdated: 20170314214704
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-javadoc:
+    lastUpdated: 20170314214705
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  beam-sdks-java-maven-archetypes-examples:
+    lastUpdated: 20170314214705
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-maven-archetypes-examples-java8:
+    lastUpdated: 20170314214706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-maven-archetypes-parent:
+    lastUpdated: 20170314214706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-maven-archetypes-starter:
+    lastUpdated: 20170314214706
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-java-microbenchmarks:
+    lastUpdated: 20161031133421
+    latest: 0.3.0-incubating
+    release: 0.3.0-incubating
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+  beam-sdks-java-parent:
+    lastUpdated: 20170314214707
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-parent:
+    lastUpdated: 20170314214707
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  beam-sdks-python:
+    lastUpdated: 20170314214707
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+

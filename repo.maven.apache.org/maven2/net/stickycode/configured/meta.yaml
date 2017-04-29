@@ -1,0 +1,146 @@
+artifacts:
+  sticky-configured:
+    lastUpdated: 20161128102208
+    latest: 6.5
+    release: 6.5
+    versions:
+      - 2.5
+      - 2.7
+      - 3.2
+      - 3.4
+      - 3.5
+      - 3.6
+      - 4.5
+      - 4.7
+      - 5.4
+      - 5.5
+      - 6.5
+      - 2.5
+      - 2.7
+      - 3.2
+      - 3.4
+      - 3.5
+      - 3.6
+      - 4.5
+      - 4.7
+      - 5.4
+      - 5.5
+      - 6.5
+  sticky-configured-api:
+    lastUpdated: 20161128091739
+    latest: 5.3
+    release: 5.3
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.4
+      - 4.5
+      - 5.3
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.4
+      - 4.5
+      - 5.3
+  sticky-configured-content-api:
+    lastUpdated: 20120307112900
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.1
+      - 2.1
+      - 1.1
+      - 2.1
+  sticky-configured-guice3:
+    lastUpdated: 20161129205356
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 0.4
+      - 1.5
+      - 1.7
+      - 1.9
+      - 1.1
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.15
+      - 2.3
+      - 4.4
+      - 0.4
+      - 1.5
+      - 1.7
+      - 1.9
+      - 1.1
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.15
+      - 2.3
+      - 4.4
+  sticky-configured-guice4:
+    lastUpdated: 20161128102209
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  sticky-configured-spring25:
+    lastUpdated: 20110713191556
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.4
+      - 2.4
+  sticky-configured-spring3:
+    lastUpdated: 20161128205008
+    latest: 5.1
+    release: 5.1
+    versions:
+      - 5.5
+      - 5.6
+      - 5.1
+      - 5.5
+      - 5.6
+      - 5.1
+  sticky-configured-spring30:
+    lastUpdated: 20120307112901
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 2.4
+      - 2.5
+      - 3.2
+      - 3.3
+      - 4.4
+      - 2.4
+      - 2.5
+      - 3.2
+      - 3.3
+      - 4.4
+  sticky-configured-spring4:
+    lastUpdated: 20170316082732
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  sticky-configured-tck:
+    lastUpdated: 20161128102209
+    latest: 6.4
+    release: 6.4
+    versions:
+      - 2.4
+      - 3.4
+      - 4.2
+      - 5.2
+      - 5.3
+      - 6.4
+      - 2.4
+      - 3.4
+      - 4.2
+      - 5.2
+      - 5.3
+      - 6.4
+

@@ -1,0 +1,190 @@
+artifacts:
+  datavec-api:
+    lastUpdated: 20170313051419
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-camel:
+    lastUpdated: 20170313051419
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-cli:
+    lastUpdated: 20160711084049
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  datavec-data:
+    lastUpdated: 20170313051420
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-data-audio:
+    lastUpdated: 20170313051420
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-data-codec:
+    lastUpdated: 20170313051420
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-data-image:
+    lastUpdated: 20170313051420
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-data-nlp:
+    lastUpdated: 20170313051421
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-dataframe:
+    lastUpdated: 20170313051421
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-geo:
+    lastUpdated: 20170313051422
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  datavec-hadoop:
+    lastUpdated: 20170313051422
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-local:
+    lastUpdated: 20170313051422
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-nd4j-common:
+    lastUpdated: 20170313051423
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-parent:
+    lastUpdated: 20170313051423
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+  datavec-spark-inference-server_2.10:
+    lastUpdated: 20170313051423
+    latest: 0.8.0_spark_1
+    release: 0.8.0_spark_1
+    versions:
+      - 0.8.0_spark_1
+  datavec-spark-inference-server_2.11:
+    lastUpdated: 20170313051424
+    latest: 0.8.0_spark_2
+    release: 0.8.0_spark_2
+    versions:
+      - 0.8.0_spark_1
+      - 0.8.0_spark_2
+  datavec-spark_2.10:
+    lastUpdated: 20170313051424
+    latest: 0.8.0_spark_1
+    release: 0.8.0_spark_1
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0_spark_1
+  datavec-spark_2.11:
+    lastUpdated: 20170313051425
+    latest: 0.8.0_spark_2
+    release: 0.8.0_spark_2
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0_spark_1
+      - 0.8.0_spark_2
+

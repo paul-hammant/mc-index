@@ -1,0 +1,32 @@
+artifacts:
+  ldap_2.10:
+    lastUpdated: 20140424101352
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  mail_2.10:
+    lastUpdated: 20141005211726
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  mail_2.11:
+    lastUpdated: 20141005211727
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  zip_2.10:
+    lastUpdated: 20140424104244
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

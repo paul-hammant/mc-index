@@ -1,0 +1,44 @@
+artifacts:
+  mule-331-test:
+    lastUpdated: 20160401105525
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  mule-370-with-patch-test:
+    lastUpdated: 20160401105525
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  mule-370-without-patch-test:
+    lastUpdated: 20160401105526
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  mule-common-test:
+    lastUpdated: 20160401105527
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  patch-parent:
+    lastUpdated: 20160401105527
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  skltp-patch-cxf-rt-bindings-soap:
+    lastUpdated: 20160401105528
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+

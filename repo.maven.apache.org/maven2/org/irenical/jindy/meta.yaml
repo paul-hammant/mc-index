@@ -1,0 +1,148 @@
+artifacts:
+  jindy:
+    lastUpdated: 20160309120042
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  jindy-apacheconfig-impl:
+    lastUpdated: 20160606173935
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  jindy-api:
+    lastUpdated: 20160606173753
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+      - 2.0.0
+      - 2.1.0
+  jindy-archaius-base:
+    lastUpdated: 20160606184917
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+  jindy-archaius-consul:
+    lastUpdated: 20160606185138
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+  jindy-archaius-etcd:
+    lastUpdated: 20160821193854
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.1
+  jindy-archaius-zookeeper:
+    lastUpdated: 20160606185433
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+  jindy-commons-base:
+    lastUpdated: 20160425202618
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+  jindy-commons-impl:
+    lastUpdated: 20160425203216
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.4
+      - 1.1.5
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+  jindy-test:
+    lastUpdated: 20160606173810
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+

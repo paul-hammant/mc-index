@@ -1,0 +1,537 @@
+artifacts:
+  apache-brooklyn:
+    lastUpdated: 20161225201512
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn:
+    lastUpdated: 20161225201518
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-all:
+    lastUpdated: 20161225201518
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-api:
+    lastUpdated: 20161225201519
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-archetype-quickstart:
+    lastUpdated: 20161225201519
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-camp:
+    lastUpdated: 20161225201520
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-cli:
+    lastUpdated: 20161225201520
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-client:
+    lastUpdated: 20161225201521
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-client-cli:
+    lastUpdated: 20161225201521
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-commands:
+    lastUpdated: 20161225201522
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-core:
+    lastUpdated: 20161225201522
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-dist:
+    lastUpdated: 20161225201524
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-dist-features:
+    lastUpdated: 20161225201530
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-dist-karaf:
+    lastUpdated: 20161225201530
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-dist-root:
+    lastUpdated: 20161225201530
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-downstream-parent:
+    lastUpdated: 20161225201530
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-features:
+    lastUpdated: 20161225201531
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-itest:
+    lastUpdated: 20161225201531
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-jmxmp-agent:
+    lastUpdated: 20161225201531
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-jmxrmi-agent:
+    lastUpdated: 20161225201532
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-jsgui:
+    lastUpdated: 20161225201533
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-karaf:
+    lastUpdated: 20161225201534
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-karaf-httpcomponents-extension:
+    lastUpdated: 20161225201534
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-karaf-init:
+    lastUpdated: 20161225201534
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-karaf-jetty-config:
+    lastUpdated: 20161225201535
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-launcher:
+    lastUpdated: 20161225201535
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-launcher-common:
+    lastUpdated: 20161225201536
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-library:
+    lastUpdated: 20161225201537
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-library-catalog:
+    lastUpdated: 20161225201537
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-library-features:
+    lastUpdated: 20161225201538
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-library-karaf:
+    lastUpdated: 20161225201538
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  brooklyn-locations-jclouds:
+    lastUpdated: 20161225201538
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-logback-includes:
+    lastUpdated: 20161225201539
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-logback-xml:
+    lastUpdated: 20161225201539
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-packaging:
+    lastUpdated: 20160412114038
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-parent:
+    lastUpdated: 20161225201540
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-policy:
+    lastUpdated: 20161225201540
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-qa:
+    lastUpdated: 20161225201541
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-rest-api:
+    lastUpdated: 20161225201542
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-rest-client:
+    lastUpdated: 20161225201543
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-rest-resources:
+    lastUpdated: 20161225201543
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-rest-server:
+    lastUpdated: 20161225201544
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-rest-server-jersey:
+    lastUpdated: 20160412114208
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  brooklyn-rt-felix:
+    lastUpdated: 20161225201545
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-server:
+    lastUpdated: 20161225201545
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-base:
+    lastUpdated: 20161225201545
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-cm:
+    lastUpdated: 20161225201546
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-cm-ansible:
+    lastUpdated: 20161225201546
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-cm-salt:
+    lastUpdated: 20161225201547
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-database:
+    lastUpdated: 20161225201548
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-messaging:
+    lastUpdated: 20161225201548
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-monitoring:
+    lastUpdated: 20161225201549
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-network:
+    lastUpdated: 20161225201550
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-nosql:
+    lastUpdated: 20161225201551
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-osgi:
+    lastUpdated: 20161225201552
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-webapp:
+    lastUpdated: 20161225201552
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-software-winrm:
+    lastUpdated: 20161225201553
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-storage-hazelcast:
+    lastUpdated: 20161225201554
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-test-framework:
+    lastUpdated: 20161225201554
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  brooklyn-test-support:
+    lastUpdated: 20161225201555
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-utils-common:
+    lastUpdated: 20161225201556
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-utils-groovy:
+    lastUpdated: 20161225201556
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-utils-rest-swagger:
+    lastUpdated: 20161225201557
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-utils-test-support:
+    lastUpdated: 20161225201557
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  brooklyn-vagrant:
+    lastUpdated: 20161225201558
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  deb-packaging:
+    lastUpdated: 20161225201600
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  rpm-packaging:
+    lastUpdated: 20161225201610
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  shared-packaging:
+    lastUpdated: 20161225201610
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+

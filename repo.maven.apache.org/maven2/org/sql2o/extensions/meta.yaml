@@ -1,0 +1,40 @@
+artifacts:
+  extensions-parent:
+    lastUpdated: 20161113232517
+    latest: 1.6.0-RC3
+    release: 1.6.0-RC3
+    versions:
+      - 1.6.0-RC1
+      - 1.6.0-RC2
+      - 1.6.0-RC3
+  sql2o-db2:
+    lastUpdated: 20161113232517
+    latest: 1.6.0-RC3
+    release: 1.6.0-RC3
+    versions:
+      - 1.6.0-RC1
+      - 1.6.0-RC2
+      - 1.6.0-RC3
+  sql2o-oracle:
+    lastUpdated: 20161113232517
+    latest: 1.6.0-RC3
+    release: 1.6.0-RC3
+    versions:
+      - 1.6.0-RC1
+      - 1.6.0-RC2
+      - 1.6.0-RC3
+  sql2o-oracle-joda-time:
+    lastUpdated: 20161113232518
+    latest: 1.6.0-RC3
+    release: 1.6.0-RC3
+    versions:
+      - 1.6.0-RC3
+  sql2o-postgres:
+    lastUpdated: 20161113232518
+    latest: 1.6.0-RC3
+    release: 1.6.0-RC3
+    versions:
+      - 1.6.0-RC1
+      - 1.6.0-RC2
+      - 1.6.0-RC3
+

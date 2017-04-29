@@ -1,0 +1,336 @@
+artifacts:
+  kadai-all_2.10:
+    lastUpdated: 20160611113633
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-all_2.11:
+    lastUpdated: 20170202035231
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-all_2.12:
+    lastUpdated: 20170202035233
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-cmdopts_2.10:
+    lastUpdated: 20160611113635
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-cmdopts_2.11:
+    lastUpdated: 20170202035234
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-cmdopts_2.12:
+    lastUpdated: 20170202035235
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-concurrent_2.10:
+    lastUpdated: 20160611113637
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-concurrent_2.11:
+    lastUpdated: 20170202035237
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-concurrent_2.12:
+    lastUpdated: 20170202035238
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-config_2.10:
+    lastUpdated: 20160611113639
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-config_2.11:
+    lastUpdated: 20170202035240
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-config_2.12:
+    lastUpdated: 20170202035241
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-core_2.10:
+    lastUpdated: 20160611113642
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-core_2.11:
+    lastUpdated: 20170202035244
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-core_2.12:
+    lastUpdated: 20170202035244
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-hash_2.10:
+    lastUpdated: 20160611113644
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-hash_2.11:
+    lastUpdated: 20170202035246
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-hash_2.12:
+    lastUpdated: 20170202035248
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  kadai-logging-all_2.10:
+    lastUpdated: 20160706014713
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+  kadai-logging-all_2.11:
+    lastUpdated: 20170131071234
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+      - 7.0.0
+  kadai-logging-all_2.12:
+    lastUpdated: 20170131071234
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  kadai-logging-core_2.10:
+    lastUpdated: 20160706014716
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+  kadai-logging-core_2.11:
+    lastUpdated: 20170131071236
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+      - 7.0.0
+  kadai-logging-core_2.12:
+    lastUpdated: 20170131071238
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  kadai-logging-json-circe_2.10:
+    lastUpdated: 20160706014719
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+  kadai-logging-json-circe_2.11:
+    lastUpdated: 20170131071239
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+      - 7.0.0
+  kadai-logging-json-circe_2.12:
+    lastUpdated: 20170131071241
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  kadai-logging-json_2.10:
+    lastUpdated: 20160706014722
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.4
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+  kadai-logging-json_2.11:
+    lastUpdated: 20170131071242
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.0
+      - 4.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 6.0.0
+      - 6.0.1
+      - 7.0.0
+  kadai-logging-json_2.12:
+    lastUpdated: 20170131071244
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  kadai-logging_2.10:
+    lastUpdated: 20150724025029
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.3.4
+  kadai-logging_2.11:
+    lastUpdated: 20150724025029
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.3.3
+      - 3.3.4
+  kadai-result_2.10:
+    lastUpdated: 20160611113646
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+  kadai-result_2.11:
+    lastUpdated: 20170202035249
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 4.0.1
+      - 5.0.0
+      - 6.0.0
+      - 6.0.1
+  kadai-result_2.12:
+    lastUpdated: 20170202035250
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+

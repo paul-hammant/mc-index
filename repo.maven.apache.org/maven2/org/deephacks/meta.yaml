@@ -1,0 +1,223 @@
+artifacts:
+  confit:
+    lastUpdated: 20130806202703
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-admin-jaxrs:
+    lastUpdated: 20130806202704
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-api-admin:
+    lastUpdated: 20130806202704
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-api-model:
+    lastUpdated: 20130806202705
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-api-provider:
+    lastUpdated: 20130806202706
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-api-runtime:
+    lastUpdated: 20130806202707
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-core:
+    lastUpdated: 20130806202708
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-docbkx:
+    lastUpdated: 20130806202708
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-examples:
+    lastUpdated: 20130727123757
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  confit-perf:
+    lastUpdated: 20130806202708
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-provider-cached:
+    lastUpdated: 20130806202709
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-provider-hbase:
+    lastUpdated: 20130806202709
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-provider-hbase-filter:
+    lastUpdated: 20130806202710
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-provider-jpa20:
+    lastUpdated: 20130806202710
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-provider-yaml:
+    lastUpdated: 20130806202711
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-root:
+    lastUpdated: 20130806202711
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  confit-tck:
+    lastUpdated: 20130806202712
+    latest: 0.17.0
+    release: 0.17.0
+    versions:
+      - 0.16.0
+      - 0.16.1
+      - 0.16.2
+      - 0.16.3
+      - 0.17.0
+  graphene-cdi:
+    lastUpdated: 20140405211837
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.1
+      - 0.2.2
+  graphene-core:
+    lastUpdated: 20140405211837
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.1
+      - 0.2.2
+  graphene-examples:
+    lastUpdated: 20140405211837
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.2.2
+  graphene-root:
+    lastUpdated: 20140405211838
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.1
+      - 0.2.2
+  logbuffers:
+    lastUpdated: 20141123200948
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  logbuffers-cli:
+    lastUpdated: 20141123200948
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  logbuffers-root:
+    lastUpdated: 20141123200949
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+

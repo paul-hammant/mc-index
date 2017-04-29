@@ -1,0 +1,43 @@
+artifacts:
+  bnd-platform:
+    lastUpdated: 20161027133940
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+  gradle-eclipseconfig:
+    lastUpdated: 20161025130319
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  gradle-include-plugin:
+    lastUpdated: 20140907110020
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1
+      - 0.2.0
+  gradle-versioneye-plugin:
+    lastUpdated: 20160515062114
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+

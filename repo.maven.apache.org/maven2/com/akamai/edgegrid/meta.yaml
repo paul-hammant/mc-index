@@ -1,0 +1,44 @@
+artifacts:
+  edgegrid-signer-apache-http-client:
+    lastUpdated: 20170329194348
+    latest: 2.1.0-RC1
+    release: 2.1.0-RC1
+    versions:
+      - 2.1.0-RC1
+  edgegrid-signer-core:
+    lastUpdated: 20170329194348
+    latest: 2.1.0-RC1
+    release: 2.1.0-RC1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0
+      - 2.1.0-RC1
+  edgegrid-signer-google-http-client:
+    lastUpdated: 20170329194348
+    latest: 2.1.0-RC1
+    release: 2.1.0-RC1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0
+      - 2.1.0-RC1
+  edgegrid-signer-parent:
+    lastUpdated: 20170329194349
+    latest: 2.1.0-RC1
+    release: 2.1.0-RC1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0
+      - 2.1.0-RC1
+  edgegrid-signer-rest-assured:
+    lastUpdated: 20170329194349
+    latest: 2.1.0-RC1
+    release: 2.1.0-RC1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0
+      - 2.1.0-RC1
+

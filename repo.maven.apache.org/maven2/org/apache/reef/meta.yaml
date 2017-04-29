@@ -1,0 +1,355 @@
+artifacts:
+  reef-annotations:
+    lastUpdated: 20160526004647
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-applications:
+    lastUpdated: 20160526004648
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-bridge-client:
+    lastUpdated: 20160526004648
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-bridge-java:
+    lastUpdated: 20160526004648
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-checkpoint:
+    lastUpdated: 20160526004649
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-common:
+    lastUpdated: 20160526004650
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-dotnet:
+    lastUpdated: 20160526004650
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-examples:
+    lastUpdated: 20160526004650
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-examples-clr:
+    lastUpdated: 20160526004651
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-examples-hdinsight:
+    lastUpdated: 20160526004651
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-io:
+    lastUpdated: 20160526004652
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-poison:
+    lastUpdated: 20160526004652
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-project:
+    lastUpdated: 20160526004653
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-hdinsight:
+    lastUpdated: 20160526004654
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-local:
+    lastUpdated: 20160526004656
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-mesos:
+    lastUpdated: 20160526004659
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-multi:
+    lastUpdated: 20160526004659
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-standalone:
+    lastUpdated: 20160526004700
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.14.0
+      - 0.15.0
+  reef-runtime-yarn:
+    lastUpdated: 20160526004700
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-tests:
+    lastUpdated: 20160526004701
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-utils:
+    lastUpdated: 20160526004701
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-utils-hadoop:
+    lastUpdated: 20160526004702
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  reef-webserver:
+    lastUpdated: 20160526004702
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang:
+    lastUpdated: 20160526004702
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-project:
+    lastUpdated: 20160526004703
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-test-jarA:
+    lastUpdated: 20160526004703
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-test-jarAB:
+    lastUpdated: 20160526004703
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-test-jarB:
+    lastUpdated: 20160526004703
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-test-jarB-conflictA:
+    lastUpdated: 20160526004703
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  tang-tint:
+    lastUpdated: 20160526004704
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.14.0
+      - 0.15.0
+  vortex:
+    lastUpdated: 20160526004704
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  wake:
+    lastUpdated: 20160526004704
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  wake-project:
+    lastUpdated: 20160526004704
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0-incubating
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+  website:
+    lastUpdated: 20160526004704
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.11.0-incubating
+      - 0.12.0-incubating
+      - 0.13.0-incubating
+      - 0.14.0
+      - 0.15.0
+

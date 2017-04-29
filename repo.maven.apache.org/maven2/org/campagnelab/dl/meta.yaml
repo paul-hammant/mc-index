@@ -1,0 +1,69 @@
+artifacts:
+  framework:
+    lastUpdated: 20170407191514
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.1
+      - 1.2
+  genotype:
+    lastUpdated: 20170407191515
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.1
+      - 1.2
+  gpus:
+    lastUpdated: 20170407191515
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2
+  somatic:
+    lastUpdated: 20170407191516
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.1
+      - 1.2
+  variation-analysis:
+    lastUpdated: 20170407191517
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.1
+      - 1.2
+

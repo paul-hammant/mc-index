@@ -1,0 +1,138 @@
+artifacts:
+  bmo:
+    lastUpdated: 20170307220137
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  bmo-bom:
+    lastUpdated: 20170307220138
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  bmo-event-processor:
+    lastUpdated: 20170307220138
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  bmo-proxy:
+    lastUpdated: 20160703004841
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  design:
+    lastUpdated: 20170307220138
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  execution:
+    lastUpdated: 20170307220139
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gir:
+    lastUpdated: 20170307220139
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gir-cli:
+    lastUpdated: 20170307220141
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gir-data:
+    lastUpdated: 20170307220142
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  gir-mobile:
+    lastUpdated: 20170307220143
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gir-rest:
+    lastUpdated: 20170307220144
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gir-webdriver:
+    lastUpdated: 20170307220147
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gireat:
+    lastUpdated: 20170307220149
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  gunter:
+    lastUpdated: 20170307220151
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gunter-events:
+    lastUpdated: 20170307220154
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gunter-rabbit:
+    lastUpdated: 20170307220156
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  toolchain:
+    lastUpdated: 20170307220158
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  webdriver-sikulix-driver:
+    lastUpdated: 20170307220158
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+

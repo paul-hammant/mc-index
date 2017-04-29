@@ -1,0 +1,212 @@
+artifacts:
+  scalut-akka-http-json_2.11:
+    lastUpdated: 20170110152617
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-akka-http-json_2.12:
+    lastUpdated: 20170110152618
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-akka-http_2.11:
+    lastUpdated: 20170110152618
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-akka-http_2.12:
+    lastUpdated: 20170110152619
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-akka-stream_2.11:
+    lastUpdated: 20170110152620
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-akka-stream_2.12:
+    lastUpdated: 20170110152621
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-akka_2.11:
+    lastUpdated: 20170110152621
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-akka_2.12:
+    lastUpdated: 20170110152622
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-daemon_2.11:
+    lastUpdated: 20170110152622
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-daemon_2.12:
+    lastUpdated: 20170110152623
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-data-jdbc_2.11:
+    lastUpdated: 20170110152623
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-data-jdbc_2.12:
+    lastUpdated: 20170110152624
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-data_2.11:
+    lastUpdated: 20170110152624
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-data_2.12:
+    lastUpdated: 20170110152625
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-log4j_2.11:
+    lastUpdated: 20170110152626
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-log4j_2.12:
+    lastUpdated: 20170110152626
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-misc_2.11:
+    lastUpdated: 20170110152627
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-misc_2.12:
+    lastUpdated: 20170110152628
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-net_2.11:
+    lastUpdated: 20170110152628
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-net_2.12:
+    lastUpdated: 20170110152629
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-security_2.11:
+    lastUpdated: 20170110152630
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-security_2.12:
+    lastUpdated: 20170110152631
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-soap_2.11:
+    lastUpdated: 20170110152632
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-soap_2.12:
+    lastUpdated: 20170110152632
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-wizard_2.11:
+    lastUpdated: 20170110152633
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-wizard_2.12:
+    lastUpdated: 20170110152634
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scalut-xml_2.11:
+    lastUpdated: 20170110152634
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scalut-xml_2.12:
+    lastUpdated: 20170110152634
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+

@@ -1,0 +1,104 @@
+artifacts:
+  mvnsh:
+    lastUpdated: 20130429180355
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-archetype:
+    lastUpdated: 20130429180356
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-assembly:
+    lastUpdated: 20100225074735
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.9
+      - 0.1
+  mvnsh-bar:
+    lastUpdated: 20100225074721
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  mvnsh-bootstrap:
+    lastUpdated: 20130429180358
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-car:
+    lastUpdated: 20100225074720
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  mvnsh-commands:
+    lastUpdated: 20130429180358
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-core:
+    lastUpdated: 20100127074440
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+  mvnsh-distribution:
+    lastUpdated: 20100225074724
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  mvnsh-itar:
+    lastUpdated: 20100225074726
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  mvnsh-maven:
+    lastUpdated: 20130429180359
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-nexus:
+    lastUpdated: 20130429180401
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-personality:
+    lastUpdated: 20130429180402
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.10
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+

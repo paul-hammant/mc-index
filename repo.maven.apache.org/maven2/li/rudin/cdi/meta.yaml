@@ -1,0 +1,106 @@
+artifacts:
+  cdi-async:
+    lastUpdated: 20140509094019
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cdi-async-api:
+    lastUpdated: 20140509094020
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cdi-async-impl:
+    lastUpdated: 20140509094020
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cdi-security:
+    lastUpdated: 20140513184056
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  cdi-security-api:
+    lastUpdated: 20140513184057
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  cdi-security-impl:
+    lastUpdated: 20140513184057
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.0
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  cdi-security-impl-h2-jooq:
+    lastUpdated: 20140117134935
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.2
+      - 2.0
+      - 1.0
+      - 1.2
+      - 2.0
+  cdi-security-impl-static:
+    lastUpdated: 20140513184058
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+

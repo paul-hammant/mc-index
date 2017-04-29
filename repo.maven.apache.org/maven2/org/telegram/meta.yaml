@@ -1,0 +1,52 @@
+artifacts:
+  telegramapi:
+    lastUpdated: 20170127205718
+    latest: 57.3
+    release: 57.3
+    versions:
+      - 57.0
+      - 57.1
+      - 57.2
+      - 57.3
+  telegrambots:
+    lastUpdated: 20170225194056
+    latest: 2.4.4.5
+    release: 2.4.4.5
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.4.1
+      - 2.4.4.2
+      - 2.4.4.3
+      - 2.4.4.4
+      - 2.4.4.5
+  telegrambots-meta:
+    lastUpdated: 20170225194057
+    latest: 2.4.4.5
+    release: 2.4.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.4.1
+      - 2.4.4.2
+      - 2.4.4.3
+      - 2.4.4.4
+      - 2.4.4.5
+  telegraph:
+    lastUpdated: 20161220142134
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  telegraph-meta:
+    lastUpdated: 20161220142135
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

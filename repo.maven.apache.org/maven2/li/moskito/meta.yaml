@@ -1,0 +1,125 @@
+artifacts:
+  halite:
+    lastUpdated: 20141124215406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.13
+      - 0.0.15
+      - 0.1.0
+  halite-core:
+    lastUpdated: 20141124215407
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.13
+      - 0.0.15
+      - 0.1.0
+  halite-json:
+    lastUpdated: 20141124215407
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.13
+      - 0.0.15
+      - 0.1.0
+  halite-model:
+    lastUpdated: 20141027221909
+    latest: 0.0.13
+    release: 0.0.13
+    versions:
+      - 0.0.13
+  halite-rs:
+    lastUpdated: 20141124215408
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  halite-xml:
+    lastUpdated: 20141124215409
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.13
+      - 0.0.15
+      - 0.1.0
+  inkstand:
+    lastUpdated: 20141222072914
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-core:
+    lastUpdated: 20141222072915
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-deployment-resteasy:
+    lastUpdated: 20141222072916
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-deployments:
+    lastUpdated: 20141222072916
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-http-undertow:
+    lastUpdated: 20141222072916
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-jcr:
+    lastUpdated: 20141222072917
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-jcr-jackrabbit:
+    lastUpdated: 20141222072917
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-ms:
+    lastUpdated: 20141222072918
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+  inkstand-test-util:
+    lastUpdated: 20141205075838
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  scribble:
+    lastUpdated: 20141213215715
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

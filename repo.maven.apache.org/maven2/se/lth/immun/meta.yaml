@@ -1,0 +1,191 @@
+artifacts:
+  Collections:
+    lastUpdated: 20160519085727
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  DianaLib:
+    lastUpdated: 20160520104833
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ExtendedSeparatedValues:
+    lastUpdated: 20160520143820
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  Files:
+    lastUpdated: 20160519105729
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  Graphs:
+    lastUpdated: 20160519110048
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  IRT:
+    lastUpdated: 20160519110641
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  MSDataProtocol:
+    lastUpdated: 20160520151715
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  MSDataProtocolActors:
+    lastUpdated: 20160520152331
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  MSFeatureProtocol:
+    lastUpdated: 20160519134736
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  MSFragmentationProtocol:
+    lastUpdated: 20160519133917
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.3.0
+      - 0.5.2
+  MarkovChain:
+    lastUpdated: 20160519110952
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  Math:
+    lastUpdated: 20160519111718
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+  MsFeatureIO:
+    lastUpdated: 20160519135015
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  MsFragmentationIO:
+    lastUpdated: 20160519134352
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.3.0
+      - 0.5.2
+  MsNumpress:
+    lastUpdated: 20160519183011
+    latest: 0.1.21
+    release: 0.1.21
+    versions:
+      - 0.1.17
+      - 0.1.18
+      - 0.1.19
+      - 0.1.20
+      - 0.1.21
+  MsNumpressCollections:
+    lastUpdated: 20160519112140
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  MzML:
+    lastUpdated: 20160519190523
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  Proteins:
+    lastUpdated: 20160520064634
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2.0
+      - 1.3.2
+      - 1.3.3
+  Proteomics:
+    lastUpdated: 20160519112500
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  SalvatorDenoise:
+    lastUpdated: 20160519113227
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  Signal:
+    lastUpdated: 20160519113638
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  TraML:
+    lastUpdated: 20160519132032
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.1.0
+      - 1.2.1
+      - 2.0.0
+      - 2.0.1
+  UniMod:
+    lastUpdated: 20160519123949
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.1.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.3.3
+  XLMasterFormat:
+    lastUpdated: 20160525080536
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  XLink:
+    lastUpdated: 20160519124643
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.0
+      - 0.3.3
+      - 0.3.4
+  Xml:
+    lastUpdated: 20160519125758
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+

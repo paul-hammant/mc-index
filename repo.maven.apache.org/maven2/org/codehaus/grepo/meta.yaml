@@ -1,0 +1,82 @@
+artifacts:
+  grepo:
+    lastUpdated: 20110412161935
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-buildtools:
+    lastUpdated: 20101013134952
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+  grepo-core:
+    lastUpdated: 20110412161935
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-procedure:
+    lastUpdated: 20110412161935
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-query-commons:
+    lastUpdated: 20110412161935
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-query-hibernate:
+    lastUpdated: 20110412161934
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-query-jpa:
+    lastUpdated: 20110412161934
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+  grepo-statistics:
+    lastUpdated: 20110412161935
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+

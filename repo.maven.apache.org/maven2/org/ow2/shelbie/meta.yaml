@@ -1,0 +1,151 @@
+artifacts:
+  build-support:
+    lastUpdated: 20130830144747
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  parent:
+    lastUpdated: 20130830141222
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+      - 2.0-M3
+      - 2.0
+  shelbie:
+    lastUpdated: 20130830144748
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-api:
+    lastUpdated: 20130830144749
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-RC1
+  shelbie-command-archetype:
+    lastUpdated: 20130830144750
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-command-testing:
+    lastUpdated: 20130830144751
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-commands:
+    lastUpdated: 20130329205838
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  shelbie-commands-builtin:
+    lastUpdated: 20130329205838
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  shelbie-commands-hello:
+    lastUpdated: 20130329205838
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  shelbie-core:
+    lastUpdated: 20130830144752
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-core-blueprint-extension:
+    lastUpdated: 20130830144753
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-core-it:
+    lastUpdated: 20130830144756
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-gogocommands:
+    lastUpdated: 20130830144756
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-RC1
+  shelbie-scheduler:
+    lastUpdated: 20120830095508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  shelbie-scheduler-commands:
+    lastUpdated: 20120830095508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  shelbie-scheduler-service:
+    lastUpdated: 20120830095508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  shelbie-ssh:
+    lastUpdated: 20120830095507
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+  shelbie-ssh-commands:
+    lastUpdated: 20120402095049
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  shelbie-ssh-server:
+    lastUpdated: 20120830095508
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+  shelbie-startup-console:
+    lastUpdated: 20130830144757
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-RC1
+

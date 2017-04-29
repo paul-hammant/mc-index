@@ -1,0 +1,40 @@
+artifacts:
+  easycluster-cluster:
+    lastUpdated: 20130907132647
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  easycluster-core:
+    lastUpdated: 20130907132647
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  easycluster-parent:
+    lastUpdated: 20130907132648
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  easycluster-serialization:
+    lastUpdated: 20130907132648
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  easylock:
+    lastUpdated: 20140421034213
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  easyquartz:
+    lastUpdated: 20140530053944
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

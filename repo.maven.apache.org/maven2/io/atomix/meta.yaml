@@ -1,0 +1,345 @@
+artifacts:
+  atomix:
+    lastUpdated: 20170415084430
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-all:
+    lastUpdated: 20170415084431
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-atomic:
+    lastUpdated: 20151026070100
+    latest: 0.1.0-beta4
+    release: 0.1.0-beta4
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+  atomix-collections:
+    lastUpdated: 20170415084431
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-concurrent:
+    lastUpdated: 20170415084431
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-coordination:
+    lastUpdated: 20160221095915
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+  atomix-group:
+    lastUpdated: 20160314162059
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-rc3
+  atomix-groups:
+    lastUpdated: 20170415084432
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-messaging:
+    lastUpdated: 20160314162100
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  atomix-parent:
+    lastUpdated: 20170415084432
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-resource:
+    lastUpdated: 20170415084432
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0-beta4
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-resource-manager:
+    lastUpdated: 20170415084432
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-standalone-parent:
+    lastUpdated: 20170415084433
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-standalone-server:
+    lastUpdated: 20170415084434
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-testing:
+    lastUpdated: 20170415084434
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  atomix-variables:
+    lastUpdated: 20170415084436
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.1.0-beta5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+      - 1.0.0-rc7
+      - 1.0.0-rc8
+      - 1.0.0-rc9
+      - 1.0.0
+      - 1.0.1-rc1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  catalyst-buffer:
+    lastUpdated: 20151010054922
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-common:
+    lastUpdated: 20151010054923
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-local:
+    lastUpdated: 20151010054923
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-netty:
+    lastUpdated: 20151010054924
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-parent:
+    lastUpdated: 20151010054924
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-serializer:
+    lastUpdated: 20151010054924
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  catalyst-transport:
+    lastUpdated: 20151010054925
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+

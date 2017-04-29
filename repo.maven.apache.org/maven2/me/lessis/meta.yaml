@@ -1,0 +1,690 @@
+artifacts:
+  after-party_2.11:
+    lastUpdated: 20160715201636
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  base64_2.10:
+    lastUpdated: 20150120003504
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  base64_2.11:
+    lastUpdated: 20150120003505
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  bintry_2.10:
+    lastUpdated: 20150216062725
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  bintry_2.11:
+    lastUpdated: 20150216062731
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  bintry_2.9.3:
+    lastUpdated: 20130807050110
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+  courier_2.10:
+    lastUpdated: 20140706185859
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  courier_2.11:
+    lastUpdated: 20140706185900
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  fixie-grips-core_2.10:
+    lastUpdated: 20150105132819
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  fixie-grips-core_2.11:
+    lastUpdated: 20150105132821
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  fixie-grips-json4s_2.10:
+    lastUpdated: 20150105132821
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  fixie-grips-json4s_2.11:
+    lastUpdated: 20150105132822
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  gist-script_2.9.2:
+    lastUpdated: 20121030183616
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  gist_2.9.2:
+    lastUpdated: 20121030183617
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  hiroko_2.8.1:
+    lastUpdated: 20130205053521
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hiroko_2.8.2:
+    lastUpdated: 20130205053523
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hiroko_2.9.0-1:
+    lastUpdated: 20130205053528
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hiroko_2.9.1:
+    lastUpdated: 20130205053531
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hiroko_2.9.1-1:
+    lastUpdated: 20130205053535
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hiroko_2.9.2:
+    lastUpdated: 20130205053543
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hostclub_2.9.2:
+    lastUpdated: 20130304044410
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.10:
+    lastUpdated: 20130720202030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  hubcat_2.8.2:
+    lastUpdated: 20121221064745
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.9.0-1:
+    lastUpdated: 20121221064746
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.9.1:
+    lastUpdated: 20121221064746
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.9.1-1:
+    lastUpdated: 20121221064747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.9.2:
+    lastUpdated: 20121221064747
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hubcat_2.9.3:
+    lastUpdated: 20130720202031
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  lapse_2.10:
+    lastUpdated: 20140929121337
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  lapse_2.11:
+    lastUpdated: 20140929121339
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ls-app_2.10:
+    lastUpdated: 20130802024628
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.2
+      - 0.1.3
+  ls-app_2.9.1:
+    lastUpdated: 20120309014542
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  ls_2.10:
+    lastUpdated: 20130802024630
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.2
+      - 0.1.3
+  ls_2.9.1:
+    lastUpdated: 20120309014542
+    latest: 0.1.2-RC2
+    release: 0.1.2-RC2
+    versions:
+      - 0.1.1
+      - 0.1.2-RC2
+  ls_2.9.2:
+    lastUpdated: 20120612053055
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  meow_2.10:
+    lastUpdated: 20130611035208
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  meow_2.9.2:
+    lastUpdated: 20120612063144
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  odelay-core_2.10:
+    lastUpdated: 20160510052826
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-core_2.11:
+    lastUpdated: 20160510052826
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-netty3_2.10:
+    lastUpdated: 20160510052956
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-netty3_2.11:
+    lastUpdated: 20160510052956
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-netty_2.10:
+    lastUpdated: 20160510052435
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-netty_2.11:
+    lastUpdated: 20160510052436
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-twitter_2.10:
+    lastUpdated: 20160510052425
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  odelay-twitter_2.11:
+    lastUpdated: 20160510052426
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  pictureshow-conscript_2.9.1:
+    lastUpdated: 20120507151608
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pictureshow-conscript_2.9.2:
+    lastUpdated: 20130612185632
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  pictureshow-core_2.9.1:
+    lastUpdated: 20120507151611
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pictureshow-core_2.9.2:
+    lastUpdated: 20130612185632
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  pictureshow-offline_2.9.1:
+    lastUpdated: 20120507151609
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pictureshow-offline_2.9.2:
+    lastUpdated: 20130612185632
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  pictureshow-server_2.9.1:
+    lastUpdated: 20120507151610
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pictureshow-server_2.9.2:
+    lastUpdated: 20130612185633
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  pj-app_2.9.1:
+    lastUpdated: 20141102115847
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pj-app_2.9.2:
+    lastUpdated: 20120609190027
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pj_2.10:
+    lastUpdated: 20130611132424
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pj_2.9.1:
+    lastUpdated: 20141102115902
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  pj_2.9.2:
+    lastUpdated: 20120609190027
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  prints_2.10:
+    lastUpdated: 20150810005114
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  prints_2.11:
+    lastUpdated: 20150810005114
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-core_2.10:
+    lastUpdated: 20130609171144
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-core_2.11:
+    lastUpdated: 20140711043355
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-core_2.9.3:
+    lastUpdated: 20130609171145
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-netty_2.10:
+    lastUpdated: 20130609171145
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-netty_2.11:
+    lastUpdated: 20140711043356
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-netty_2.9.3:
+    lastUpdated: 20130609171145
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-twitter_2.10:
+    lastUpdated: 20130609171146
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry-twitter_2.9.3:
+    lastUpdated: 20130609171146
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  retry_2.10:
+    lastUpdated: 20160510043856
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  retry_2.11:
+    lastUpdated: 20160510043857
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  semverfi_2.10:
+    lastUpdated: 20130329031852
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  semverfi_2.8.1:
+    lastUpdated: 20120930172711
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  semverfi_2.8.2:
+    lastUpdated: 20120930172711
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  semverfi_2.9.0:
+    lastUpdated: 20120930172712
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  semverfi_2.9.0-1:
+    lastUpdated: 20120930172712
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  semverfi_2.9.1:
+    lastUpdated: 20120930172713
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  semverfi_2.9.1-1:
+    lastUpdated: 20130329031853
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  semverfi_2.9.2:
+    lastUpdated: 20130329031855
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  treeline_2.10:
+    lastUpdated: 20130228051526
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.8.1:
+    lastUpdated: 20130228051527
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.8.2:
+    lastUpdated: 20130228051529
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.9.0-1:
+    lastUpdated: 20130228051530
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.9.1:
+    lastUpdated: 20130228051532
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.9.1-1:
+    lastUpdated: 20130228051534
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  treeline_2.9.2:
+    lastUpdated: 20130228051535
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.10:
+    lastUpdated: 20130107014457
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.11:
+    lastUpdated: 20140420224602
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.8.1:
+    lastUpdated: 20120727192410
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.8.2:
+    lastUpdated: 20120712052445
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.9.0-1:
+    lastUpdated: 20120712052445
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.9.1:
+    lastUpdated: 20120712052446
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.9.1-1:
+    lastUpdated: 20120727192411
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.9.2:
+    lastUpdated: 20120712052445
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tubesocks_2.9.3:
+    lastUpdated: 20130331202251
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tugboat_2.10:
+    lastUpdated: 20150106052409
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tugboat_2.11:
+    lastUpdated: 20150106052409
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  undelay_2.10:
+    lastUpdated: 20140929121932
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  undelay_2.11:
+    lastUpdated: 20140929121933
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  unisockets-core_2.10:
+    lastUpdated: 20150105132457
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  unisockets-core_2.11:
+    lastUpdated: 20150105132458
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  unisockets-netty_2.10:
+    lastUpdated: 20150105132457
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  unisockets-netty_2.11:
+    lastUpdated: 20150105132458
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  yoyo_2.10:
+    lastUpdated: 20150127131904
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  yoyo_2.11:
+    lastUpdated: 20150127131905
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  zoey-core_2.10:
+    lastUpdated: 20150209035956
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zoey-core_2.11:
+    lastUpdated: 20150209035958
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zoey-testing_2.10:
+    lastUpdated: 20150209035954
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zoey-testing_2.11:
+    lastUpdated: 20150209035958
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+

@@ -1,0 +1,73 @@
+artifacts:
+  jetty-osgi-httpservice:
+    lastUpdated: 20100617094701
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wrhapi:
+    lastUpdated: 20100614163334
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.9
+  wrhapi-jetty:
+    lastUpdated: 20100614163333
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8.1
+      - 0.9
+  wrhapi-osgi:
+    lastUpdated: 20100815213042
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.2
+  wrhapi-osgi-parent:
+    lastUpdated: 20100815213044
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3
+      - 0.4.2
+  wrhapi-osgi-tests:
+    lastUpdated: 20100130133907
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  wrhapi-testing:
+    lastUpdated: 20100130133908
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.1
+  wymiwyg:
+    lastUpdated: 20170320225022
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+  wymiwyg-commons-core:
+    lastUpdated: 20140526084613
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7.5
+      - 0.7.6
+      - 0.8
+  wymiwyg-commons-jena:
+    lastUpdated: 20170321102126
+    latest: 0.5.6
+    release: 0.5.6
+    versions:
+      - 0.5.6
+

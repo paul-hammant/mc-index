@@ -1,0 +1,626 @@
+artifacts:
+  52n-common-xml:
+    lastUpdated: 20161109100709
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-inspire-schema:
+    lastUpdated: 20161109100709
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-isotc211-schema:
+    lastUpdated: 20161109100709
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-oasis-schema:
+    lastUpdated: 20161109100710
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-ogc-bp-schema:
+    lastUpdated: 20161109100710
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-ogc-schema:
+    lastUpdated: 20161109100711
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-portele-schema:
+    lastUpdated: 20161109100711
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-w3c-schema:
+    lastUpdated: 20161109100711
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-aixm-v511:
+    lastUpdated: 20161109100713
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-context-v100:
+    lastUpdated: 20161109100714
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-csw-v202:
+    lastUpdated: 20161109100714
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-cv-v022:
+    lastUpdated: 20161109100715
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-em-v020:
+    lastUpdated: 20161109100715
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-eml-v001:
+    lastUpdated: 20161109100716
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-eml-v002:
+    lastUpdated: 20161109100716
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-filter-v100:
+    lastUpdated: 20161109100716
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-filter-v110:
+    lastUpdated: 20161109100717
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-filter-v20:
+    lastUpdated: 20161109100717
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gco-v20120713:
+    lastUpdated: 20161109100718
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gmd-v20120713:
+    lastUpdated: 20161109100718
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gmi-v01:
+    lastUpdated: 20161109100718
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gml-v212:
+    lastUpdated: 20161109100719
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gml-v311:
+    lastUpdated: 20161109100719
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gml-v321:
+    lastUpdated: 20161109100720
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gml-v33:
+    lastUpdated: 20161109100721
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-gmlcov-v10:
+    lastUpdated: 20161109100722
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-gwml-v22:
+    lastUpdated: 20161109100723
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-ad-v40:
+    lastUpdated: 20161109100723
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-au-v40:
+    lastUpdated: 20161109100723
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-base-v33:
+    lastUpdated: 20161109100724
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-base2-v20:
+    lastUpdated: 20161109100724
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-bu-base-v40:
+    lastUpdated: 20161109100724
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-cp-v40:
+    lastUpdated: 20161109100725
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-ef-v40:
+    lastUpdated: 20161109100725
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-gn-v40:
+    lastUpdated: 20161109100726
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-net-v40:
+    lastUpdated: 20161109100726
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-omor-v30:
+    lastUpdated: 20161109100727
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-ompr-v30:
+    lastUpdated: 20161109100727
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-omso-v30:
+    lastUpdated: 20161109100727
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-omso-v301:
+    lastUpdated: 20161109100728
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-inspire-tn-v40:
+    lastUpdated: 20161109100728
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-kml-v220:
+    lastUpdated: 20161109100729
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-om-v100:
+    lastUpdated: 20161109100729
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-om-v20:
+    lastUpdated: 20161109100730
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-ows-v100:
+    lastUpdated: 20161109100730
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-ows-v110:
+    lastUpdated: 20161109100731
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-ows-v20:
+    lastUpdated: 20161109100731
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-portele:
+    lastUpdated: 20161109100732
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-pubsub-v10:
+    lastUpdated: 20161109100732
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-rim-v300:
+    lastUpdated: 20161109100733
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sampling-v100:
+    lastUpdated: 20161109100734
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sampling-v20:
+    lastUpdated: 20161109100734
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sensorML-v100:
+    lastUpdated: 20161109100735
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sensorML-v101:
+    lastUpdated: 20161109100735
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sensorML-v20:
+    lastUpdated: 20161109100736
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-xml-ses-v00:
+    lastUpdated: 20161109100736
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sir-v032:
+    lastUpdated: 20161109100737
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sld-v100:
+    lastUpdated: 20161109100738
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sld-v110:
+    lastUpdated: 20161109100738
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-soap-v12:
+    lastUpdated: 20161109100739
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sor-v031:
+    lastUpdated: 20161109100740
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sos-v100:
+    lastUpdated: 20161109100740
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sos-v20:
+    lastUpdated: 20161109100741
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sosdo-v10:
+    lastUpdated: 20161109100741
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-sosdo-v20:
+    lastUpdated: 20161109100742
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  52n-xml-sosgda-v10:
+    lastUpdated: 20161109100743
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sps-v100:
+    lastUpdated: 20161109100743
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sps-v20:
+    lastUpdated: 20161109100743
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sweCommon-v100:
+    lastUpdated: 20161109100744
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sweCommon-v101:
+    lastUpdated: 20161109100744
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-sweCommon-v20:
+    lastUpdated: 20161109100745
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-swes-v20:
+    lastUpdated: 20161109100746
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-waterML-dr-v20:
+    lastUpdated: 20161109100746
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-waterML-v20:
+    lastUpdated: 20161109100747
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wcs-v11:
+    lastUpdated: 20161109100747
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wfs-v110:
+    lastUpdated: 20161109100748
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wfs-v20:
+    lastUpdated: 20161109100748
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wms-v130:
+    lastUpdated: 20161109100749
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wns-v009:
+    lastUpdated: 20161109100750
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wps-v100:
+    lastUpdated: 20161109100750
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wrs-v101:
+    lastUpdated: 20161109100751
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wsa-v10:
+    lastUpdated: 20161109100752
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wsn-v13:
+    lastUpdated: 20161109100752
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-wsrf-v12:
+    lastUpdated: 20161109100752
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  52n-xml-xlink-v110:
+    lastUpdated: 20161109100753
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+

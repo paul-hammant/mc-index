@@ -1,0 +1,328 @@
+artifacts:
+  trimou-core:
+    lastUpdated: 20170311092113
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-cdi:
+    lastUpdated: 20170311092114
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-dropwizard:
+    lastUpdated: 20170311092114
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-el:
+    lastUpdated: 20170311092115
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-gson:
+    lastUpdated: 20170311092115
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-jdk8:
+    lastUpdated: 20160305100358
+    latest: 1.8.4.Final
+    release: 1.8.4.Final
+    versions:
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+  trimou-extension-json-p:
+    lastUpdated: 20170311092115
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-minify:
+    lastUpdated: 20170311092115
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-prettytime:
+    lastUpdated: 20170311092116
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-servlet:
+    lastUpdated: 20170311092116
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-spring-boot-starter:
+    lastUpdated: 20170311092116
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 2.2.0.Final
+  trimou-extension-spring-mvc:
+    lastUpdated: 20170311092117
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  trimou-extension-spring4-mvc:
+    lastUpdated: 20170311092117
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 2.2.0.Final
+  trimou-integration-tests:
+    lastUpdated: 20160305100402
+    latest: 1.8.4.Final
+    release: 1.8.4.Final
+    versions:
+      - 1.7.0.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+  trimou-parent:
+    lastUpdated: 20170311092117
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.3.0.Final
+      - 1.3.1.Final
+      - 1.3.2.Final
+      - 1.4.0.Final
+      - 1.4.1.Final
+      - 1.5.0.Final
+      - 1.5.1.Final
+      - 1.5.2.Final
+      - 1.5.3.Final
+      - 1.6.0.Final
+      - 1.6.1.Final
+      - 1.6.2.Final
+      - 1.7.0.Final
+      - 1.7.1.Final
+      - 1.7.2.Final
+      - 1.7.3.Final
+      - 1.8.0.Final
+      - 1.8.1.Final
+      - 1.8.2.Final
+      - 1.8.3.Final
+      - 1.8.4.Final
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+

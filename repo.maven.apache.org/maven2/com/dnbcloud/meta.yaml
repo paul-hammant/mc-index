@@ -1,0 +1,38 @@
+artifacts:
+  dnbcloud-rest-api:
+    lastUpdated: 20150826173250
+    latest: 4.0.0-beta.36
+    release: 4.0.0-beta.36
+    versions:
+      - 4.0.0-beta.36
+  dnbcloud-rest-value-objects:
+    lastUpdated: 20150914211216
+    latest: 1.0.143
+    release: 1.0.143
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 1.0.1
+      - 1.0.141
+      - 1.0.142
+      - 1.0.143
+      - 0.1
+      - 0.2
+  rest-shared-objects:
+    lastUpdated: 20150401201653
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

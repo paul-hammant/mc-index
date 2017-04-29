@@ -1,0 +1,28 @@
+artifacts:
+  selenium-driver-helper:
+    lastUpdated: 20150324235934
+    latest: 2.45.0
+    release: 2.45.0
+    versions:
+      - 2.45.0
+  selenium-driver-helper-base:
+    lastUpdated: 20160418144610
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  selenium-driver-helper-internetexplorer:
+    lastUpdated: 20160418213158
+    latest: 2.53.1
+    release: 2.53.1
+    versions:
+      - 2.45.0
+      - 2.53.0
+      - 2.53.1
+  selenium-driver-helper-phantomjs:
+    lastUpdated: 20160418211024
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.1
+

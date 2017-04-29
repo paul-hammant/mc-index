@@ -1,0 +1,28 @@
+artifacts:
+  mail-service:
+    lastUpdated: 20140409122009
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  mail-service-impl:
+    lastUpdated: 20140409122009
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  mail-service-it:
+    lastUpdated: 20140409122010
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  mail-service-reactor:
+    lastUpdated: 20140409122010
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

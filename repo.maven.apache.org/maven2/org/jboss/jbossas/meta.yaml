@@ -1,0 +1,827 @@
+artifacts:
+  jboss-as-adminclient:
+    lastUpdated: 20100425061935
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-aspects:
+    lastUpdated: 20110816132452
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-bootstrap:
+    lastUpdated: 20100425062630
+    latest: 5.0.1.GA
+    release: 5.0.1.GA
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+  jboss-as-build:
+    lastUpdated: 20110816132505
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.Final
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-client:
+    lastUpdated: 20110816132532
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-cluster:
+    lastUpdated: 20110816132454
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-component-matrix:
+    lastUpdated: 20110816132451
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-connector:
+    lastUpdated: 20110816132454
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-console:
+    lastUpdated: 20110816132455
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-depchain:
+    lastUpdated: 20110816132505
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-deployment:
+    lastUpdated: 20110816132453
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-dist:
+    lastUpdated: 20100425064815
+    latest: 4.2.3.GA
+    release: 4.2.3.GA
+    versions:
+      - 4.2.3.GA
+  jboss-as-distribution:
+    lastUpdated: 20110816132506
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-ejb3:
+    lastUpdated: 20110816132456
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 0.1.2.Beta1
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-ejb3-core:
+    lastUpdated: 20100425064851
+    latest: 0.1.2.Beta1
+    release: 0.1.2.Beta1
+    versions:
+      - 0.1.2.Beta1
+  jboss-as-ejb3-ext-API:
+    lastUpdated: 20100425064902
+    latest: 0.1.2.Beta1
+    release: 0.1.2.Beta1
+    versions:
+      - 0.1.2.Beta1
+  jboss-as-embedded:
+    lastUpdated: 20110816132506
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 6.0.0.Final
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-hibernate-int:
+    lastUpdated: 20110816132456
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-hornetq-int:
+    lastUpdated: 20110816132457
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-iiop:
+    lastUpdated: 20110816132456
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-j2se:
+    lastUpdated: 20100425070459
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-jbossas:
+    lastUpdated: 20100425071014
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-jbossas-jmx-remoting:
+    lastUpdated: 20100425070715
+    latest: 6.0.0.20100216-M2
+    release: 6.0.0.20100216-M2
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.20100216-M2
+  jboss-as-jbossas-remoting:
+    lastUpdated: 20110816132457
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-jbossmq:
+    lastUpdated: 20100425071111
+    latest: 5.0.0.CR2
+    release: 5.0.0.CR2
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+  jboss-as-jmx:
+    lastUpdated: 20100425071623
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-jmx-remoting:
+    lastUpdated: 20100425071309
+    latest: 6.0.0.20100216-M2
+    release: 6.0.0.20100216-M2
+    versions:
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.20100216-M2
+  jboss-as-main:
+    lastUpdated: 20110816132456
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-management:
+    lastUpdated: 20110816132455
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-mbeans:
+    lastUpdated: 20100425072725
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-messaging:
+    lastUpdated: 20100425072930
+    latest: 6.0.0.20100216-M2
+    release: 6.0.0.20100216-M2
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.20100216-M2
+  jboss-as-naming:
+    lastUpdated: 20100425072958
+    latest: 5.0.0.Beta4
+    release: 5.0.0.Beta4
+    versions:
+      - 5.0.0.Beta4
+  jboss-as-parent:
+    lastUpdated: 20110816132452
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-profileservice:
+    lastUpdated: 20110816132458
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-profileservice-client:
+    lastUpdated: 20110816132531
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.1.0.Final
+  jboss-as-resteasy:
+    lastUpdated: 20110816132458
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-security:
+    lastUpdated: 20110816132453
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-server:
+    lastUpdated: 20110816132453
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-spring-int:
+    lastUpdated: 20100425074448
+    latest: 6.0.0.M1
+    release: 6.0.0.M1
+    versions:
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+  jboss-as-sprint-int:
+    lastUpdated: 20100425074542
+    latest: 5.0.1.GA
+    release: 5.0.1.GA
+    versions:
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+  jboss-as-system:
+    lastUpdated: 20110816132452
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-system-jmx:
+    lastUpdated: 20110816132452
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.Beta1
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-testsuite:
+    lastUpdated: 20110816132532
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-tomcat:
+    lastUpdated: 20110816132459
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-varia:
+    lastUpdated: 20110816132500
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-webservices:
+    lastUpdated: 20110816132503
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 5.0.0.Beta4
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.1.0.CR1
+      - 5.1.0.GA
+      - 6.0.0.M1
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-as-weld-int:
+    lastUpdated: 20110816132501
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  jboss-metadata:
+    lastUpdated: 20100425082301
+    latest: 5.0.0.Beta4
+    release: 5.0.0.Beta4
+    versions:
+      - 5.0.0.Beta4
+  jboss-server-manager:
+    lastUpdated: 20131220074720
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 0.1.0.GA
+      - 0.1.1.GA
+      - 0.1.2.GA
+      - 1.0.0.GA
+      - 1.0.1.GA
+      - 1.0.2.GA
+      - 1.0.2.GA_CP02
+      - 1.0.2.GA_CP03
+      - 1.0.3-alpha-1
+      - 1.0.3-alpha-2
+      - 1.0.3.GA
+      - 1.0.4.Beta1
+      - 1.0.4.Final
+  jboss-snmp:
+    lastUpdated: 20110811154511
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 5.1.0
+  resteasy-int-dist:
+    lastUpdated: 20110816132458
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100216-M2
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  resteasy-int-pom:
+    lastUpdated: 20110816132531
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  weld-int-assembly:
+    lastUpdated: 20110816132505
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  weld-int-deployer:
+    lastUpdated: 20110816132503
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  weld-int-deployer-mc-int:
+    lastUpdated: 20110816132504
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  weld-int-ejb:
+    lastUpdated: 20110816132502
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+  weld-int-webtier:
+    lastUpdated: 20110816132504
+    latest: 6.1.0.Final
+    release: 6.1.0.Final
+    versions:
+      - 6.0.0.Final
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+      - 6.0.0.20101110-CR1
+      - 6.1.0.Final
+

@@ -1,0 +1,54 @@
+artifacts:
+  fuse-project:
+    lastUpdated: 20140124182353
+    latest: 7.2.0.redhat-060
+    release: 7.2.0.redhat-060
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 1.1
+  fusesource-pom:
+    lastUpdated: 20140724200350
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.0
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.0
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  sigar:
+    lastUpdated: 20110322190933
+    latest: 1.6.4
+    release: 1.6.4
+    versions:
+      - 1.6.4
+  tooling:
+    lastUpdated: 20130410162900
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+

@@ -1,0 +1,673 @@
+artifacts:
+  msdk:
+    lastUpdated: 20161208060144
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-all:
+    lastUpdated: 20161208060144
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-centroiding:
+    lastUpdated: 20151124202804
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-chromatogrambuilder:
+    lastUpdated: 20151124202805
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-chromatogramtofeaturetable:
+    lastUpdated: 20151124202805
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-datamodel:
+    lastUpdated: 20161208060145
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-db:
+    lastUpdated: 20161208060146
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-db-gnps:
+    lastUpdated: 20161208060146
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-db-kegg:
+    lastUpdated: 20161208060147
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-db-metabolights:
+    lastUpdated: 20161208060147
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-db-mona:
+    lastUpdated: 20161208060147
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet:
+    lastUpdated: 20161208060148
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-chromatogrambuilder:
+    lastUpdated: 20161208060148
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-chromatogramtofeaturetable:
+    lastUpdated: 20161208060148
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-gridmass:
+    lastUpdated: 20161208060149
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-msmsdetection:
+    lastUpdated: 20161208060149
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-srmdetection:
+    lastUpdated: 20161208060150
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featdet-targeteddetection:
+    lastUpdated: 20161208060150
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-featuredetection:
+    lastUpdated: 20151124202806
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-features:
+    lastUpdated: 20161208060150
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-features-filtering:
+    lastUpdated: 20161208060150
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-features-gapfilling:
+    lastUpdated: 20161208060151
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-features-isotopegrouper:
+    lastUpdated: 20161208060151
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-features-joinaligner:
+    lastUpdated: 20161208060152
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-features-normalization-compound:
+    lastUpdated: 20161208060152
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  msdk-features-row-filtering:
+    lastUpdated: 20161208060152
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-fileimport:
+    lastUpdated: 20151124202806
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-filetypedetection:
+    lastUpdated: 20151124202807
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-id:
+    lastUpdated: 20161208060153
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-id-localdatabasesearch:
+    lastUpdated: 20161208060153
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-id-metfrag:
+    lastUpdated: 20161208060153
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-id-sirius:
+    lastUpdated: 20161208060153
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-identification:
+    lastUpdated: 20151124202807
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-io:
+    lastUpdated: 20161208060154
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-chromatof:
+    lastUpdated: 20161208060154
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-csv:
+    lastUpdated: 20161208060154
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-fileimport:
+    lastUpdated: 20161208060155
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-filetypedetection:
+    lastUpdated: 20161208060155
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-mgf:
+    lastUpdated: 20161208060156
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-msp:
+    lastUpdated: 20161208060156
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-mzdata:
+    lastUpdated: 20161208060157
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-mzml:
+    lastUpdated: 20161208060157
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-mztab:
+    lastUpdated: 20161208060158
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-mzxml:
+    lastUpdated: 20161208060158
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-nativeformats:
+    lastUpdated: 20161208060159
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-netcdf:
+    lastUpdated: 20161208060159
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-io-txt:
+    lastUpdated: 20161208060200
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-mona:
+    lastUpdated: 20151124202807
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-mzdataimport:
+    lastUpdated: 20151124202808
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-mzmlimport:
+    lastUpdated: 20151124202808
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-mztabimport:
+    lastUpdated: 20151124202808
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-mzxmlimport:
+    lastUpdated: 20151124202809
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-nativeformatimport:
+    lastUpdated: 20151124202809
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-netcdfimport:
+    lastUpdated: 20151124202810
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-rawdata:
+    lastUpdated: 20161208060200
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-rawdata-baselinecorrection:
+    lastUpdated: 20161208060200
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-rawdata-centroiding:
+    lastUpdated: 20161208060200
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-rawdata-filters:
+    lastUpdated: 20161208060201
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-rawdata-peakinvestigator:
+    lastUpdated: 20161208060202
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  msdk-rawdata-xic:
+    lastUpdated: 20161208060202
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-search:
+    lastUpdated: 20151124202810
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-spectra:
+    lastUpdated: 20161208060202
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectra-comparison:
+    lastUpdated: 20161208060203
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectra-isotopepattern:
+    lastUpdated: 20161208060203
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectra-shoulderpeaks:
+    lastUpdated: 20161208060204
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectra-spectrumtypedetection:
+    lastUpdated: 20161208060204
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectra-spectrumtypedetectiontest:
+    lastUpdated: 20160524215611
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  msdk-spectra-splash:
+    lastUpdated: 20161208060205
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  msdk-spectrumtypedetection:
+    lastUpdated: 20151124202811
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-spectrumtypedetectiontest:
+    lastUpdated: 20151124202811
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-targeteddetection:
+    lastUpdated: 20151124202811
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  msdk-test:
+    lastUpdated: 20161208060205
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+

@@ -1,0 +1,37 @@
+artifacts:
+  android-oembed:
+    lastUpdated: 20150130080505
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0
+      - 1.0.1
+  tophe:
+    lastUpdated: 20150414071125
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0
+      - 1.0.1
+  tophe-ion:
+    lastUpdated: 20150414071126
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  tophe-oauth1:
+    lastUpdated: 20150414071127
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0
+      - 1.0.1
+

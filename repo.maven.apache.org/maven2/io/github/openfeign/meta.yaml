@@ -1,0 +1,145 @@
+artifacts:
+  feign-core:
+    lastUpdated: 20161108185027
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-gson:
+    lastUpdated: 20161108185028
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-httpclient:
+    lastUpdated: 20161108185028
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-hystrix:
+    lastUpdated: 20161108185029
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-jackson:
+    lastUpdated: 20161108185029
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-jackson-jaxb:
+    lastUpdated: 20161108185030
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-jaxb:
+    lastUpdated: 20161108185030
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-jaxrs:
+    lastUpdated: 20161108185030
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-okhttp:
+    lastUpdated: 20161108185031
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-ribbon:
+    lastUpdated: 20161108185031
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-sax:
+    lastUpdated: 20161108185032
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  feign-slf4j:
+    lastUpdated: 20161108185032
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+  parent:
+    lastUpdated: 20161108185032
+    latest: 9.4.0
+    release: 9.4.0
+    versions:
+      - 9.0.0
+      - 9.1.0
+      - 9.2.0
+      - 9.3.0
+      - 9.3.1
+      - 9.4.0
+

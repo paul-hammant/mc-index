@@ -1,0 +1,56 @@
+artifacts:
+  gemini-blueprint:
+    lastUpdated: 20170330124853
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+  gemini-blueprint-core:
+    lastUpdated: 20170330124854
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+  gemini-blueprint-extender:
+    lastUpdated: 20170330124854
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+  gemini-blueprint-extensions:
+    lastUpdated: 20170330124854
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.1.0.M2
+  gemini-blueprint-io:
+    lastUpdated: 20170330124855
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+  gemini-blueprint-mock:
+    lastUpdated: 20170330124855
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+  gemini-blueprint-test:
+    lastUpdated: 20170330124856
+    latest: 2.1.0.M2
+    release: 2.1.0.M2
+    versions:
+      - 2.0.0.RELEASE
+      - 2.1.0.M1
+      - 2.1.0.M2
+

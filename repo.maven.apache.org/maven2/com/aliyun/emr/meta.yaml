@@ -1,0 +1,140 @@
+artifacts:
+  emr-core:
+    lastUpdated: 20170315041830
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+  emr-examples_2.10:
+    lastUpdated: 20170315041831
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+  emr-examples_2.11:
+    lastUpdated: 20170315041831
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+  emr-logservice_2.10:
+    lastUpdated: 20170315041831
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-logservice_2.11:
+    lastUpdated: 20170315041831
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-maxcompute_2.10:
+    lastUpdated: 20170315041832
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-maxcompute_2.11:
+    lastUpdated: 20170315041833
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-mns_2.10:
+    lastUpdated: 20170315041833
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-mns_2.11:
+    lastUpdated: 20170315041833
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-ons_2.10:
+    lastUpdated: 20170315041834
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-ons_2.11:
+    lastUpdated: 20170315041834
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr-sdk_2.10:
+    lastUpdated: 20170106143934
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  emr-sdk_2.11:
+    lastUpdated: 20170106143934
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.1
+      - 1.3.2
+  emr-tablestore:
+    lastUpdated: 20170315041834
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  emr_2.10:
+    lastUpdated: 20170315041750
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+  emr_2.11:
+    lastUpdated: 20170315041821
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.1.3
+      - 1.1.3.1
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+

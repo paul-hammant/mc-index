@@ -1,0 +1,149 @@
+artifacts:
+  sticky-composite-cxf-soap:
+    lastUpdated: 20120812221714
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 2.3
+      - 3.1
+      - 4.2
+      - 5.1
+      - 5.2
+      - 6.1
+      - 2.3
+      - 3.1
+      - 4.2
+      - 5.1
+      - 5.2
+      - 6.1
+  sticky-composite-cxf-soap-http:
+    lastUpdated: 20120812221715
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.1
+      - 2.1
+      - 1.1
+      - 2.1
+  sticky-composite-cxf-soap-unittest:
+    lastUpdated: 20120812221715
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.2
+      - 2.1
+      - 1.2
+      - 2.1
+  sticky-composite-datetime:
+    lastUpdated: 20111018105744
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  sticky-composite-guice3:
+    lastUpdated: 20161129205356
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.1
+      - 1.2
+      - 3.1
+      - 1.1
+      - 1.2
+      - 3.1
+  sticky-composite-guice4:
+    lastUpdated: 20161128102207
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  sticky-composite-jaxb22:
+    lastUpdated: 20121014221641
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.1
+      - 2.1
+      - 1.1
+      - 2.1
+  sticky-composite-jersey-spring:
+    lastUpdated: 20121012005335
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  sticky-composite-logging-api:
+    lastUpdated: 20161128091738
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 1.3
+      - 1.4
+      - 2.1
+      - 3.2
+      - 1.3
+      - 1.4
+      - 2.1
+      - 3.2
+  sticky-composite-logging-deploy:
+    lastUpdated: 20161128091738
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.4
+      - 1.5
+      - 2.1
+      - 3.1
+      - 1.4
+      - 1.5
+      - 2.1
+      - 3.1
+  sticky-composite-spring25:
+    lastUpdated: 20110712125632
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  sticky-composite-spring3:
+    lastUpdated: 20161128205008
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.3
+      - 2.1
+      - 1.3
+      - 2.1
+  sticky-composite-spring30:
+    lastUpdated: 20111018105744
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  sticky-composite-spring4:
+    lastUpdated: 20170316082732
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  sticky-composite-unittest:
+    lastUpdated: 20161128102207
+    latest: 3.7
+    release: 3.7
+    versions:
+      - 1.7
+      - 2.1
+      - 3.6
+      - 3.7
+      - 1.7
+      - 2.1
+      - 3.6
+      - 3.7
+

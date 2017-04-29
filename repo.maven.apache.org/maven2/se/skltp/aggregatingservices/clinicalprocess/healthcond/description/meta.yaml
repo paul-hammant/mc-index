@@ -1,0 +1,56 @@
+artifacts:
+  GetAggregatedCareDocumentation:
+    lastUpdated: 20140901140908
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0-RC7
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.1.1-RC1
+      - 1.1.1-RC2
+      - 1.1.1
+  GetAggregatedCareDocumentation-teststub:
+    lastUpdated: 20140901140818
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0-RC1
+      - 1.1.1
+  GetAggregatedDiagnosis:
+    lastUpdated: 20150211113455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+  GetAggregatedDiagnosis-parent:
+    lastUpdated: 20150211113456
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  GetAggregatedDiagnosis-schemas:
+    lastUpdated: 20150211113456
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0
+  GetAggregatedDiagnosis-teststub:
+    lastUpdated: 20150211113457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0
+

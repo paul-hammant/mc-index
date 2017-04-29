@@ -1,0 +1,143 @@
+artifacts:
+  asdk-db-service:
+    lastUpdated: 20160407140918
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-sdt:
+    lastUpdated: 20160407140919
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-service-env:
+    lastUpdated: 20160407140920
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-sql-server:
+    lastUpdated: 20160407140920
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-ssh:
+    lastUpdated: 20160407140921
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-tools-commandline:
+    lastUpdated: 20160407140922
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-tools-common:
+    lastUpdated: 20160407140922
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-tools-exec:
+    lastUpdated: 20160407140923
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-tools-reflection:
+    lastUpdated: 20160407140924
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  asdk-tools-test:
+    lastUpdated: 20160407140924
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  db-service:
+    lastUpdated: 20160401110112
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  pom-parent-nature-all:
+    lastUpdated: 20160407140925
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 2.0.0
+  pom-parent-nature-java:
+    lastUpdated: 20160407140925
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 2.0.0
+  pom-parent-root:
+    lastUpdated: 20160408145727
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 2.0.0
+  sdt:
+    lastUpdated: 20160401110117
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  service-env:
+    lastUpdated: 20160401110120
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  sql-server:
+    lastUpdated: 20160401110121
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  ssh:
+    lastUpdated: 20160401110123
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  tools-commandline:
+    lastUpdated: 20160401110125
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  tools-common:
+    lastUpdated: 20160401110127
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  tools-exec:
+    lastUpdated: 20160401110129
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  tools-reflection:
+    lastUpdated: 20160401110129
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  tools-test:
+    lastUpdated: 20160401110131
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+

@@ -1,0 +1,30 @@
+artifacts:
+  repository-api:
+    lastUpdated: 20130728084441
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.11
+      - 1.12
+  repository-jpa-impl:
+    lastUpdated: 20130728084442
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.11
+      - 1.12
+  repository-ldap-impl:
+    lastUpdated: 20130728084442
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.11
+      - 1.12
+  repository-parent:
+    lastUpdated: 20130728084442
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.11
+      - 1.12
+

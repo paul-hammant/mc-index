@@ -1,0 +1,487 @@
+artifacts:
+  capsule:
+    lastUpdated: 20160804164721
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 1.0-rc1
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0
+  capsule-build:
+    lastUpdated: 20141121165831
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  capsule-container:
+    lastUpdated: 20141121165832
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  capsule-daemon:
+    lastUpdated: 20160408104833
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  capsule-desktop:
+    lastUpdated: 20150910115740
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  capsule-maven:
+    lastUpdated: 20160502152822
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0-rc1
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0
+  capsule-osv:
+    lastUpdated: 20150910115741
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  capsule-secure:
+    lastUpdated: 20150910115741
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  capsule-shield:
+    lastUpdated: 20151008093105
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  capsule-util:
+    lastUpdated: 20160804164721
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 1.0-rc1
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0
+  comsat-actors-api:
+    lastUpdated: 20160406132231
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-actors-netty:
+    lastUpdated: 20160406132232
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-actors-servlet:
+    lastUpdated: 20160406132232
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-actors-undertow:
+    lastUpdated: 20160406132233
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-dropwizard:
+    lastUpdated: 20160406132234
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-httpclient:
+    lastUpdated: 20160406132234
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jax-rs-client:
+    lastUpdated: 20160406132235
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jdbc:
+    lastUpdated: 20160406132236
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jdbi:
+    lastUpdated: 20160406132236
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jersey-server:
+    lastUpdated: 20160406132237
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jetty-loader:
+    lastUpdated: 20160406132238
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-jooq:
+    lastUpdated: 20160406132239
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-kafka:
+    lastUpdated: 20160406132240
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  comsat-mongodb-allanbank:
+    lastUpdated: 20160406132240
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-okhttp:
+    lastUpdated: 20160406132241
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-retrofit:
+    lastUpdated: 20160406132242
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-servlet:
+    lastUpdated: 20160406132243
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-shiro:
+    lastUpdated: 20160406132243
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  comsat-spring-boot:
+    lastUpdated: 20160406132244
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-spring-boot-security:
+    lastUpdated: 20160406132244
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-spring-security:
+    lastUpdated: 20160406132245
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-spring-webmvc:
+    lastUpdated: 20160406132245
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-test-utils:
+    lastUpdated: 20160406132246
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  comsat-tomcat-loader:
+    lastUpdated: 20160406132247
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  galaxy:
+    lastUpdated: 20140723102352
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  javafs:
+    lastUpdated: 20151019094536
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  quasar:
+    lastUpdated: 20130506102129
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1
+  quasar-actors:
+    lastUpdated: 20161202154448
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+  quasar-core:
+    lastUpdated: 20161202154449
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+  quasar-disruptor:
+    lastUpdated: 20161202154450
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+  quasar-galaxy:
+    lastUpdated: 20161202154450
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+  quasar-kotlin:
+    lastUpdated: 20161202154451
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+  quasar-reactive-streams:
+    lastUpdated: 20161202154451
+    latest: 0.7.7
+    release: 0.7.7
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+

@@ -1,0 +1,23 @@
+artifacts:
+  mjsip-fork:
+    lastUpdated: 20160821065157
+    latest: 1.6+lumicall.3
+    release: 1.6+lumicall.3
+    versions:
+      - 1.6+lumicall.1
+      - 1.6+lumicall.2
+      - 1.6+lumicall.3
+  sip-api:
+    lastUpdated: 20150725173126
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  sip-api-1.2:
+    lastUpdated: 20160412205900
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+

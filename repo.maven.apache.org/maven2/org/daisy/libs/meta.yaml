@@ -1,0 +1,124 @@
+artifacts:
+  brailleutils-catalog:
+    lastUpdated: 20130523214244
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  brailleutils-core:
+    lastUpdated: 20130523214245
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  com.xmlcalabash:
+    lastUpdated: 20150128175543
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0.3
+      - 1.0.8
+      - 1.0.9
+      - 1.0.18
+      - 1.0.23
+  commons-httpclient:
+    lastUpdated: 20120620225540
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.1.0
+  dotify-translator:
+    lastUpdated: 20131216092524
+    latest: 1.0-alpha1
+    release: 1.0-alpha1
+    versions:
+      - 1.0-alpha1
+  hyphen:
+    lastUpdated: 20160601133421
+    latest: 2.8.8
+    release: 2.8.8
+    versions:
+      - 2.6.0
+      - 2.8.8
+  io.bit3.jsass:
+    lastUpdated: 20160314205157
+    latest: 4.1.0-p1
+    release: 4.1.0-p1
+    versions:
+      - 4.1.0-p1
+  jing:
+    lastUpdated: 20121019140428
+    latest: 20120724.0.0
+    release: 20120724.0.0
+    versions:
+      - 20091111.0.0
+      - 20120724.0.0
+  jnaerator:
+    lastUpdated: 20140520132247
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.11
+      - 0.11
+  jsslutils:
+    lastUpdated: 20120820162201
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  jstyleparser:
+    lastUpdated: 20170209133535
+    latest: 1.20-p10
+    release: 1.20-p10
+    versions:
+      - 1.7.0
+      - 1.13.0-p1
+      - 1.20-p1
+      - 1.20-p2
+      - 1.20-p3
+      - 1.20-p4
+      - 1.20-p5
+      - 1.20-p6
+      - 1.20-p7
+      - 1.20-p8
+      - 1.20-p9
+      - 1.20-p10
+  logback-osgi-adapter:
+    lastUpdated: 20160802105350
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  parboiled:
+    lastUpdated: 20160919075822
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  pegdown:
+    lastUpdated: 20160919075823
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  saxon-he:
+    lastUpdated: 20140602105704
+    latest: 9.5.1.5
+    release: 9.5.1.5
+    versions:
+      - 9.4.0
+      - 9.4.0.7
+      - 9.5.1.5
+  servlet-api:
+    lastUpdated: 20120620225540
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  xml2:
+    lastUpdated: 20131108121652
+    latest: 2.7.3
+    release: 2.7.3
+    versions:
+      - 2.7.3
+

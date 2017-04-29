@@ -1,0 +1,44 @@
+artifacts:
+  carol:
+    lastUpdated: 20070710134019
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.10
+  carol-iiop-delegate:
+    lastUpdated: 20070710134135
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.10
+  carol-parent:
+    lastUpdated: 20070710133902
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.10
+  cmi:
+    lastUpdated: 20070710141238
+    latest: {}
+    release: {}
+    versions:
+      - 1.3.12
+  cmi-api:
+    lastUpdated: 20070710141326
+    latest: {}
+    release: {}
+    versions:
+      - 1.3.12
+  cmi-impl:
+    lastUpdated: 20070710141415
+    latest: {}
+    release: {}
+    versions:
+      - 1.3.12
+  cmi-parent:
+    lastUpdated: 20070710141209
+    latest: {}
+    release: {}
+    versions:
+      - 1.3.12
+

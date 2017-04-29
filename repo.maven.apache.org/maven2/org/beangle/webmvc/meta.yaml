@@ -1,0 +1,477 @@
+artifacts:
+  beangle-webmvc-api:
+    lastUpdated: 20150602051152
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-api_2.11:
+    lastUpdated: 20151202135840
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-api_2.12:
+    lastUpdated: 20170102064746
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-archetype-parent:
+    lastUpdated: 20150602051153
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-archetype-starter:
+    lastUpdated: 20150602051153
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-bootstrap-ui:
+    lastUpdated: 20150602051154
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-capatcha-plugin:
+    lastUpdated: 20150602051155
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-config-plugin:
+    lastUpdated: 20150602051155
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-core:
+    lastUpdated: 20150602051156
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-core_2.11:
+    lastUpdated: 20151202135842
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-core_2.12:
+    lastUpdated: 20170102064745
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-entity-plugin:
+    lastUpdated: 20150602051157
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-entity-plugin_2.11:
+    lastUpdated: 20151202135842
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-entity-plugin_2.12:
+    lastUpdated: 20170102064747
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-hibernate-plugin:
+    lastUpdated: 20150602051157
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-html2pdf-plugin_2.11:
+    lastUpdated: 20151202135838
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-html2pdf-plugin_2.12:
+    lastUpdated: 20170102064747
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-parent:
+    lastUpdated: 20150602051158
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-parent_2.11:
+    lastUpdated: 20151202135841
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-parent_2.12:
+    lastUpdated: 20170102064746
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-plugins:
+    lastUpdated: 20150602051159
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-plugins_2.11:
+    lastUpdated: 20151202135841
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-plugins_2.12:
+    lastUpdated: 20170102064746
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-serializer-plugin:
+    lastUpdated: 20150602051159
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-serializer-plugin_2.11:
+    lastUpdated: 20151202135840
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-serializer-plugin_2.12:
+    lastUpdated: 20170102064746
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-spring-plugin_2.11:
+    lastUpdated: 20151202135841
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-spring-plugin_2.12:
+    lastUpdated: 20170102064746
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-tag:
+    lastUpdated: 20150602051200
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-ui-parent:
+    lastUpdated: 20141124142655
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  beangle-webmvc-view-parent:
+    lastUpdated: 20150602051201
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-view_2.11:
+    lastUpdated: 20151202135839
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  beangle-webmvc-view_2.12:
+    lastUpdated: 20170102064745
+    latest: 0.3.10
+    release: 0.3.10
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.3.9
+      - 0.3.10
+  beangle-webmvc-webxml-plugin:
+    lastUpdated: 20150602051201
+    latest: 0.2.7
+    release: 0.2.7
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+  beangle-webmvc-webxml-plugin_2.11:
+    lastUpdated: 20150920155810
+    latest: 0.2.10
+    release: 0.2.10
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+

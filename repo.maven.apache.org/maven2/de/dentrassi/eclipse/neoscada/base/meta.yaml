@@ -1,0 +1,122 @@
+artifacts:
+  org.eclipse.scada.base.doc.isv:
+    lastUpdated: 20160929113813
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.base.extractor:
+    lastUpdated: 20160929113814
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.base.extractor.mqtt:
+    lastUpdated: 20160929113814
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.base.json:
+    lastUpdated: 20160929113814
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.base.pipe:
+    lastUpdated: 20160929113815
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core:
+    lastUpdated: 20160929113815
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ds:
+    lastUpdated: 20160929113816
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ds.storage:
+    lastUpdated: 20160929113816
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ds.storage.file:
+    lastUpdated: 20160929113816
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ds.storage.jdbc:
+    lastUpdated: 20160929113817
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hds:
+    lastUpdated: 20160929113817
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec:
+    lastUpdated: 20160929113818
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.audit.log.slf4j:
+    lastUpdated: 20160929113818
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.auth.logon:
+    lastUpdated: 20160929113818
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.authn.osgi.cfg.priority:
+    lastUpdated: 20160929113819
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.equinox:
+    lastUpdated: 20160929113819
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.osgi:
+    lastUpdated: 20160929113821
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.provider.dummy:
+    lastUpdated: 20160929113822
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.provider.plain.property:
+    lastUpdated: 20160929113823
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.utils:
+    lastUpdated: 20160929113825
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

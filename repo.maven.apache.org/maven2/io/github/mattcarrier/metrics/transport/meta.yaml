@@ -1,0 +1,36 @@
+artifacts:
+  metrics-rabbit:
+    lastUpdated: 20170422200925
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  metrics-serialization-core:
+    lastUpdated: 20170422200925
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  metrics-serialization-kryo:
+    lastUpdated: 20170422200925
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  metrics-serialization-serializer-tests:
+    lastUpdated: 20170422200925
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  metrics-transport-parent:
+    lastUpdated: 20170422200926
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

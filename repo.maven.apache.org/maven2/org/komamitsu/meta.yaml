@@ -1,0 +1,52 @@
+artifacts:
+  android-logger-bridge:
+    lastUpdated: 20151127085829
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  fluency:
+    lastUpdated: 20170409025920
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  jackson-dataformat-msgpack:
+    lastUpdated: 20141004090718
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  keen-client-java-core:
+    lastUpdated: 20140724070629
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  phi-accural-failure-detector:
+    lastUpdated: 20150921044251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

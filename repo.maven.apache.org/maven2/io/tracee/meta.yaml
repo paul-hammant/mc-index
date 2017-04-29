@@ -1,0 +1,186 @@
+artifacts:
+  tracee-api:
+    lastUpdated: 20161031123559
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+  tracee-bom:
+    lastUpdated: 20161031123559
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+  tracee-context-logger-api:
+    lastUpdated: 20140515100644
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-connector-parent:
+    lastUpdated: 20140515100644
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-ejb:
+    lastUpdated: 20140515100644
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-http-connector:
+    lastUpdated: 20140515100644
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-impl:
+    lastUpdated: 20140515100645
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-parent:
+    lastUpdated: 20140515100645
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-context-logger-watchdog:
+    lastUpdated: 20140515100645
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  tracee-core:
+    lastUpdated: 20161031123559
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+  tracee-cxf:
+    lastUpdated: 20141217140504
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  tracee-jaxrs2:
+    lastUpdated: 20141217140504
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  tracee-jaxws:
+    lastUpdated: 20141217140505
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  tracee-jms:
+    lastUpdated: 20141217140506
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  tracee-parent:
+    lastUpdated: 20161031123559
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+  tracee-testhelper:
+    lastUpdated: 20161031123559
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+

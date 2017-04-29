@@ -1,0 +1,20 @@
+artifacts:
+  hadoop-v1-mr:
+    lastUpdated: 20150117165250
+    latest: 0.0.2-RELEASE
+    release: 0.0.2-RELEASE
+    versions:
+      - 0.0.2-RELEASE
+  parent:
+    lastUpdated: 20150117165250
+    latest: 0.0.2-RELEASE
+    release: 0.0.2-RELEASE
+    versions:
+      - 0.0.2-RELEASE
+  webapp-ssm-basic:
+    lastUpdated: 20150117165251
+    latest: 0.0.2-RELEASE
+    release: 0.0.2-RELEASE
+    versions:
+      - 0.0.2-RELEASE
+

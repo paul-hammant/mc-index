@@ -1,0 +1,26 @@
+artifacts:
+  mule-without-patch-test:
+    lastUpdated: 20160524204604
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-RC1
+      - 1.0
+      - 1.1
+  patch-parent:
+    lastUpdated: 20160524204604
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-RC1
+      - 1.0
+      - 1.1
+  skltp-patch-mule-transport-http:
+    lastUpdated: 20160524204605
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-RC1
+      - 1.0
+      - 1.1
+

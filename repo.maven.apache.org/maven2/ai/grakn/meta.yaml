@@ -1,0 +1,272 @@
+artifacts:
+  grakn:
+    lastUpdated: 20170421014009
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-client:
+    lastUpdated: 20170421014009
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-core:
+    lastUpdated: 20170421014010
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-dashboard:
+    lastUpdated: 20170421014010
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-dist:
+    lastUpdated: 20170421014010
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-engine:
+    lastUpdated: 20170421014015
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-factory:
+    lastUpdated: 20170421014015
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-graph:
+    lastUpdated: 20170421014015
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-graql:
+    lastUpdated: 20170421014015
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-graql-shell:
+    lastUpdated: 20170421014015
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-migration:
+    lastUpdated: 20170421014016
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-orientdb-factory:
+    lastUpdated: 20170119034908
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  grakn-test:
+    lastUpdated: 20170421014016
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.1
+  grakn-test-profiles:
+    lastUpdated: 20170421014016
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  grakn-titan-factory:
+    lastUpdated: 20170119034909
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  migration-base:
+    lastUpdated: 20170421014016
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-csv:
+    lastUpdated: 20170421014016
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-export:
+    lastUpdated: 20170421014017
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-json:
+    lastUpdated: 20170421014017
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-owl:
+    lastUpdated: 20170421014017
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-sql:
+    lastUpdated: 20170421014017
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  migration-xml:
+    lastUpdated: 20170421014018
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.12.0
+      - 0.12.1
+  orientdb-factory:
+    lastUpdated: 20170421014018
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.11.0
+      - 0.12.1
+  titan-factory:
+    lastUpdated: 20170421014018
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+

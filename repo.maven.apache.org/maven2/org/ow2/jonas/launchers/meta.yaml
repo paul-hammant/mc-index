@@ -1,0 +1,30 @@
+artifacts:
+  felix-launcher:
+    lastUpdated: 20130122142928
+    latest: 5.2.4
+    release: 5.2.4
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+  jonas-launcher:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-launcher-for-addons:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+

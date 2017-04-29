@@ -1,0 +1,204 @@
+artifacts:
+  zk-archetype-component:
+    lastUpdated: 20161201105404
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 0.8.1
+      - 6.0.0
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-archetype-datahandler:
+    lastUpdated: 20161201105420
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-archetype-extension:
+    lastUpdated: 20161201105437
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 6.0.0
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-archetype-theme:
+    lastUpdated: 20161201105453
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 7.0.0-RC
+      - 7.0.0
+      - 7.0.0-Preview
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-archetype-webapp:
+    lastUpdated: 20161201105509
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 0.8.1
+      - 6.5.2
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-ee-eval-archetype-webapp:
+    lastUpdated: 20161201105527
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 6.5.2
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-ee-eval-archetype-webapp-spring:
+    lastUpdated: 20161201105546
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 6.5.2
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zk-ee-eval-archetype-webapp-spring-jpa:
+    lastUpdated: 20161201105609
+    latest: 8.0.2.2
+    release: 8.0.2.2
+    versions:
+      - 6.5.2
+      - 7.0.2
+      - 7.0.3
+      - 7.0.3.1
+      - 8.0.0
+      - 8.0.0.1
+      - 8.0.0.3
+      - 8.0.0.4
+      - 8.0.1.1
+      - 8.0.2.2
+  zkfontawesome:
+    lastUpdated: 20160322070206
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.1
+      - 0.2
+      - 1.0
+      - 1.1
+  zkgooglecharts:
+    lastUpdated: 20160529184315
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  zkgridster:
+    lastUpdated: 20160516184734
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+  zkopenlayers:
+    lastUpdated: 20150505074226
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  zksortable:
+    lastUpdated: 20160405073657
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  zkspectrum:
+    lastUpdated: 20161014233803
+    latest: 1.8.0.1
+    release: 1.8.0.1
+    versions:
+      - 1.8.0.0
+      - 1.8.0.1
+  zktypeahead:
+    lastUpdated: 20161028042458
+    latest: 0.11.1.5
+    release: 0.11.1.5
+    versions:
+      - 0.2
+      - 0.3
+      - 0.11.1.1
+      - 0.11.1.2
+      - 0.11.1.3
+      - 0.11.1.4
+      - 0.11.1.5
+  zkunit:
+    lastUpdated: 20160512022339
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.4
+      - 1.5
+

@@ -1,0 +1,80 @@
+artifacts:
+  commands-testsuite:
+    lastUpdated: 20101014050307
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.2
+  console-testsuite:
+    lastUpdated: 20101014050331
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  corba-testsuite:
+    lastUpdated: 20101014050321
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  deployment-testsuite:
+    lastUpdated: 20101014050336
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  enterprise-testsuite:
+    lastUpdated: 20101014050305
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  security-testsuite:
+    lastUpdated: 20101014050311
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  testsuite:
+    lastUpdated: 20101014050316
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  web-testsuite:
+    lastUpdated: 20101014050327
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  webservices-testsuite:
+    lastUpdated: 20101014050301
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+

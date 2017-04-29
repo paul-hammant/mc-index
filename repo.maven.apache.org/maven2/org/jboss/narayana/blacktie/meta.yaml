@@ -1,0 +1,412 @@
+artifacts:
+  atmibroker-core:
+    lastUpdated: 20110726100828
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-hybrid:
+    lastUpdated: 20110726100829
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-idl:
+    lastUpdated: 20110726100827
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-idl-cxx:
+    lastUpdated: 20110726100827
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-idl-java:
+    lastUpdated: 20110726100827
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-tx:
+    lastUpdated: 20110726100829
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  atmibroker-xatmi:
+    lastUpdated: 20110726100829
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-C:
+    lastUpdated: 20110726100826
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-admin-services:
+    lastUpdated: 20110726100828
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-admin-services-ear:
+    lastUpdated: 20110726100828
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-all:
+    lastUpdated: 20170331184642
+    latest: 5.5.6.Final
+    release: 5.5.6.Final
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+      - 5.2.6.Final
+      - 5.2.7.Final
+      - 5.2.8.Final
+      - 5.2.9.Final
+      - 5.2.10.Final
+      - 5.2.11.Final
+      - 5.2.12.Final
+      - 5.2.13.Final
+      - 5.2.14.Final
+      - 5.3.0.Final
+      - 5.3.1.Final
+      - 5.3.2.Final
+      - 5.3.3.Final
+      - 5.3.4.Final
+      - 5.3.5.Final
+      - 5.4.0.Final
+      - 5.5.0.Final
+      - 5.5.1.Final
+      - 5.5.2.Final
+      - 5.5.3.Final
+      - 5.5.4.Final
+      - 5.5.5.Final
+      - 5.5.6.Final
+  blacktie-common:
+    lastUpdated: 20150930135015
+    latest: 5.2.5.Final
+    release: 5.2.5.Final
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+  blacktie-idl:
+    lastUpdated: 20140602162605
+    latest: 5.0.2.Final
+    release: 5.0.2.Final
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+  blacktie-idl-jacorb:
+    lastUpdated: 20140602162606
+    latest: 5.0.2.Final
+    release: 5.0.2.Final
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+  blacktie-jatmibroker-nbf:
+    lastUpdated: 20170331184643
+    latest: 5.5.6.Final
+    release: 5.5.6.Final
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+      - 5.2.6.Final
+      - 5.2.7.Final
+      - 5.2.8.Final
+      - 5.2.9.Final
+      - 5.2.10.Final
+      - 5.2.11.Final
+      - 5.2.12.Final
+      - 5.2.13.Final
+      - 5.2.14.Final
+      - 5.3.0.Final
+      - 5.3.1.Final
+      - 5.3.2.Final
+      - 5.3.3.Final
+      - 5.3.4.Final
+      - 5.3.5.Final
+      - 5.4.0.Final
+      - 5.5.0.Final
+      - 5.5.1.Final
+      - 5.5.2.Final
+      - 5.5.3.Final
+      - 5.5.4.Final
+      - 5.5.5.Final
+      - 5.5.6.Final
+  blacktie-jatmibroker-xatmi:
+    lastUpdated: 20170331184644
+    latest: 5.5.6.Final
+    release: 5.5.6.Final
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+      - 5.2.6.Final
+      - 5.2.7.Final
+      - 5.2.8.Final
+      - 5.2.9.Final
+      - 5.2.10.Final
+      - 5.2.11.Final
+      - 5.2.12.Final
+      - 5.2.13.Final
+      - 5.2.14.Final
+      - 5.3.0.Final
+      - 5.3.1.Final
+      - 5.3.2.Final
+      - 5.3.3.Final
+      - 5.3.4.Final
+      - 5.3.5.Final
+      - 5.4.0.Final
+      - 5.5.0.Final
+      - 5.5.1.Final
+      - 5.5.2.Final
+      - 5.5.3.Final
+      - 5.5.4.Final
+      - 5.5.5.Final
+      - 5.5.6.Final
+  blacktie-java:
+    lastUpdated: 20150930135017
+    latest: 5.2.5.Final
+    release: 5.2.5.Final
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+  blacktie-nbf:
+    lastUpdated: 20110726100829
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-rhq-plugin:
+    lastUpdated: 20110726100828
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  blacktie-xsd:
+    lastUpdated: 20170331184645
+    latest: 5.5.6.Final
+    release: 5.5.6.Final
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+      - 5.2.6.Final
+      - 5.2.7.Final
+      - 5.2.8.Final
+      - 5.2.9.Final
+      - 5.2.10.Final
+      - 5.2.11.Final
+      - 5.2.12.Final
+      - 5.2.13.Final
+      - 5.2.14.Final
+      - 5.3.0.Final
+      - 5.3.1.Final
+      - 5.3.2.Final
+      - 5.3.3.Final
+      - 5.3.4.Final
+      - 5.3.5.Final
+      - 5.4.0.Final
+      - 5.5.0.Final
+      - 5.5.1.Final
+      - 5.5.2.Final
+      - 5.5.3.Final
+      - 5.5.4.Final
+      - 5.5.5.Final
+      - 5.5.6.Final
+  btadmin:
+    lastUpdated: 20150930135018
+    latest: 5.2.5.Final
+    release: 5.2.5.Final
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.M5
+      - 5.0.0.M6
+      - 5.0.0.M8
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.Final
+      - 5.0.2.Final
+      - 5.0.4.Final
+      - 5.1.0.Final
+      - 5.1.1.Final
+      - 5.2.0.Final
+      - 5.2.1.Final
+      - 5.2.2.Final
+      - 5.2.4.Final
+      - 5.2.5.Final
+  codeGeneration:
+    lastUpdated: 20110726100830
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  docs:
+    lastUpdated: 20110726100830
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  integration-tests:
+    lastUpdated: 20110726100830
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  jatmibroker-xatmi:
+    lastUpdated: 20110826144312
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 3.0.0.Final
+      - 5.0.0.M1
+  jatmibroker-xatmi-client:
+    lastUpdated: 20110726100828
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  stompconnectservice:
+    lastUpdated: 20110726100827
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  stompconnectservice-ear:
+    lastUpdated: 20110726100827
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  tx-test-utilities:
+    lastUpdated: 20110726100829
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+  userguide:
+    lastUpdated: 20110726100830
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 3.0.0.Final
+

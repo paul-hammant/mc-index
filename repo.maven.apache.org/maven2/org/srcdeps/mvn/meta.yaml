@@ -1,0 +1,59 @@
+artifacts:
+  srcdeps-maven-base:
+    lastUpdated: 20170123182515
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.3
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  srcdeps-maven-enforcer:
+    lastUpdated: 20170123182515
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.3
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  srcdeps-maven-local-repository:
+    lastUpdated: 20170123182515
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  srcdeps-maven-parent:
+    lastUpdated: 20170123182516
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  srcdeps-maven-plugin:
+    lastUpdated: 20170123182516
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  srcdeps-maven-quickstarts:
+    lastUpdated: 20170123182516
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.3
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+

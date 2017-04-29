@@ -1,0 +1,377 @@
+artifacts:
+  annis-benchmark-generator:
+    lastUpdated: 20170306231453
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  exmaralda-emf-api:
+    lastUpdated: 20151222184804
+    latest: 1.1.8
+    release: 1.1.8
+    versions:
+      - 1.1.8
+  graphannis-api:
+    lastUpdated: 20170306231454
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  graphannis-root:
+    lastUpdated: 20170306231454
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  pepper:
+    lastUpdated: 20170216205920
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepper-doc:
+    lastUpdated: 20170216205921
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepper-framework:
+    lastUpdated: 20170216205921
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepper-lib:
+    lastUpdated: 20170216205922
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepper-newModule:
+    lastUpdated: 20170216205923
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepper-parentModule:
+    lastUpdated: 20170216205924
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  pepperModules-ANNISModules:
+    lastUpdated: 20170219221522
+    latest: 2.0.9
+    release: 2.0.9
+    versions:
+      - 2.0.7
+      - 2.0.8
+      - 2.0.9
+  pepperModules-CoNLLModules:
+    lastUpdated: 20170219221523
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  pepperModules-CoraXMLModules:
+    lastUpdated: 20170219221523
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.6
+      - 1.1.7
+  pepperModules-EXMARaLDAModules:
+    lastUpdated: 20170219221523
+    latest: 1.1.10
+    release: 1.1.10
+    versions:
+      - 1.1.9
+      - 1.1.10
+  pepperModules-ElanModules:
+    lastUpdated: 20170219221524
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.5
+      - 1.1.6
+  pepperModules-FALKOModules:
+    lastUpdated: 20170226212107
+    latest: 1.1.9
+    release: 1.1.9
+    versions:
+      - 1.1.8
+      - 1.1.9
+  pepperModules-GATEModules:
+    lastUpdated: 20170226212107
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  pepperModules-GenericXMLModules:
+    lastUpdated: 20170227202254
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.5
+      - 1.1.6
+  pepperModules-GrAFModules:
+    lastUpdated: 20170227202254
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  pepperModules-GraphAnnoModules:
+    lastUpdated: 20170227202254
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.6
+      - 1.1.7
+  pepperModules-MMAX2Modules:
+    lastUpdated: 20170227202255
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.3
+      - 1.0.6
+      - 1.0.7
+  pepperModules-MergingModules:
+    lastUpdated: 20170227202255
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  pepperModules-ModuleBox:
+    lastUpdated: 20170227202256
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  pepperModules-PAULAModules:
+    lastUpdated: 20170227202256
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  pepperModules-PTBModules:
+    lastUpdated: 20151222220940
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  pepperModules-PerseusModules:
+    lastUpdated: 20170227202257
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.9
+      - 0.0.10
+  pepperModules-RSTModules:
+    lastUpdated: 20170227202257
+    latest: 0.0.9
+    release: 0.0.9
+    versions:
+      - 0.0.8
+      - 0.0.9
+  pepperModules-SaltInfoModules:
+    lastUpdated: 20170227202258
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  pepperModules-SampleModules:
+    lastUpdated: 20151222155448
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  pepperModules-SpreadsheetModules:
+    lastUpdated: 20170227202259
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  pepperModules-TCFModules:
+    lastUpdated: 20170227205328
+    latest: 1.1.8
+    release: 1.1.8
+    versions:
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+  pepperModules-TEIModules:
+    lastUpdated: 20170227202300
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  pepperModules-TigerModules:
+    lastUpdated: 20170227202300
+    latest: 2.0.7
+    release: 2.0.7
+    versions:
+      - 2.0.6
+      - 2.0.7
+  pepperModules-ToolboxModules:
+    lastUpdated: 20170227202301
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  pepperModules-TreetaggerModules:
+    lastUpdated: 20170227202302
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.8
+      - 2.0.0
+  pepperModules-TueBaDZModules:
+    lastUpdated: 20170227202302
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.9
+      - 0.0.10
+  pepperModules-UAMModules:
+    lastUpdated: 20170227202302
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.9
+      - 0.0.10
+  pepperModules-WebannoTSVModules:
+    lastUpdated: 20161020151918
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  pepperModules-nlpModules:
+    lastUpdated: 20170227202303
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.6
+      - 1.1.7
+  rst-emf-api:
+    lastUpdated: 20151222203551
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  salt:
+    lastUpdated: 20170114211317
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  salt-api:
+    lastUpdated: 20170114211317
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  salt-doc:
+    lastUpdated: 20170114211318
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  salt-extensions:
+    lastUpdated: 20170114211318
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+  tiger2-api:
+    lastUpdated: 20151222201107
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  treetagger-emf-api:
+    lastUpdated: 20151222190251
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.2
+

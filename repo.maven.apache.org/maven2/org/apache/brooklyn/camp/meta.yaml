@@ -1,0 +1,35 @@
+artifacts:
+  camp-base:
+    lastUpdated: 20161225201558
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  camp-parent:
+    lastUpdated: 20161225201559
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  camp-server:
+    lastUpdated: 20161225201559
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0-incubating
+      - 0.8.0-incubating
+      - 0.9.0
+      - 0.10.0
+  camp-server-jersey:
+    lastUpdated: 20160412114321
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+

@@ -1,0 +1,59 @@
+artifacts:
+  aws-aware-eureka-instance:
+    lastUpdated: 20170227213521
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  docker-aware-eureka-instance-autoconfigure:
+    lastUpdated: 20170226220804
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  docker-aware-eureka-instance-starter:
+    lastUpdated: 20170226220805
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  docker-java-spring-boot-autoconfigure:
+    lastUpdated: 20170226220805
+    latest: 3.0.7
+    release: 3.0.7
+    versions:
+      - 3.0.7
+  docker-java-spring-boot-starter:
+    lastUpdated: 20170226220806
+    latest: 3.0.7
+    release: 3.0.7
+    versions:
+      - 3.0.7
+  etag-header-spring-boot-autoconfigure:
+    lastUpdated: 20170302084355
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  overpass-api:
+    lastUpdated: 20170130084336
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  patchagent:
+    lastUpdated: 20161126103445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  wms:
+    lastUpdated: 20170130084336
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+

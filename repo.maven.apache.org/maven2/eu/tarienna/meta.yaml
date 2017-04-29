@@ -1,0 +1,29 @@
+artifacts:
+  first-archetype-basic:
+    lastUpdated: 20150114083704
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  jms-helper:
+    lastUpdated: 20160308115910
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  spring-jwt:
+    lastUpdated: 20150607160840
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0
+  tools:
+    lastUpdated: 20150219102846
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

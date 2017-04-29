@@ -1,0 +1,37 @@
+artifacts:
+  tinyos:
+    lastUpdated: 20080313181810
+    latest: {}
+    release: {}
+    versions:
+      - 1
+      - 1.0.1
+      - 1.0.2
+      - 1
+  tinyos-bundle:
+    lastUpdated: 20080923121025
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-000
+      - 2.1.0-0001
+  tinyos-core:
+    lastUpdated: 20080313185542
+    latest: {}
+    release: 1.1.14
+    versions:
+      - 1.1.14
+  tinyos-core-rxtx:
+    lastUpdated: 20080313185756
+    latest: {}
+    release: 1.1.15.1
+    versions:
+      - 1.1.15.1
+  tinyos-java:
+    lastUpdated: 20080918131709
+    latest: {}
+    release: {}
+    versions:
+      - 2.1
+      - 2.1
+

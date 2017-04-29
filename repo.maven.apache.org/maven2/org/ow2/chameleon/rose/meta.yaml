@@ -1,0 +1,48 @@
+artifacts:
+  json-configurator:
+    lastUpdated: 20131220172319
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+  org.ow2.chameleon.rose.core:
+    lastUpdated: 20110418153531
+    latest: {}
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.2
+      - 0.2.3
+  rose-core:
+    lastUpdated: 20131220172320
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+  rose-grizzly-bundle:
+    lastUpdated: 20131220172320
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.2
+      - 1.2.3
+  rose-parent:
+    lastUpdated: 20131220172320
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+  rose.dp:
+    lastUpdated: 20131220172320
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.2
+      - 1.2.3
+

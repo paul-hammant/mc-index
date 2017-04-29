@@ -1,0 +1,50 @@
+artifacts:
+  jdbc:
+    lastUpdated: 20150622232326
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  mysql:
+    lastUpdated: 20150622232326
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  nginx:
+    lastUpdated: 20150622232326
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  postgresql:
+    lastUpdated: 20150622232327
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  selenium:
+    lastUpdated: 20150622232327
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  tcp-unix-socket-proxy:
+    lastUpdated: 20160530081430
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  test-containers:
+    lastUpdated: 20150622232328
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  test-containers-parent:
+    lastUpdated: 20150622232328
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+

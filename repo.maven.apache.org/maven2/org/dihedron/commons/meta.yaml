@@ -1,0 +1,55 @@
+artifacts:
+  base:
+    lastUpdated: 20140501092022
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  commons:
+    lastUpdated: 20140427180511
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.10
+      - 0.1.0
+      - 0.1.1
+  dihedron-commons:
+    lastUpdated: 20150208103231
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  dihedron-core:
+    lastUpdated: 20140501145250
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  dihedron-patterns:
+    lastUpdated: 20140501145250
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  parent:
+    lastUpdated: 20140501145251
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  patterns:
+    lastUpdated: 20140501092023
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

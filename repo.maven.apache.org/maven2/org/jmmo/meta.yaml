@@ -1,0 +1,96 @@
+artifacts:
+  async-hessian:
+    lastUpdated: 20151031084856
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  bean-proxy:
+    lastUpdated: 20151206072100
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  bresenham-line:
+    lastUpdated: 20140608135838
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  component:
+    lastUpdated: 20150421114940
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  component8:
+    lastUpdated: 20150421122321
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  hibernate-unproxy:
+    lastUpdated: 20151018173010
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  iterators:
+    lastUpdated: 20151024072932
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+  junit-factory:
+    lastUpdated: 20140523063358
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  object-serializer:
+    lastUpdated: 20140922092530
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  observable:
+    lastUpdated: 20150420113959
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+  option:
+    lastUpdated: 20150421103051
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  stream-util:
+    lastUpdated: 20170204074622
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  streaming-cassandra:
+    lastUpdated: 20170308203004
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 2.0
+      - 2.1
+  vertx-hessian:
+    lastUpdated: 20151031095905
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

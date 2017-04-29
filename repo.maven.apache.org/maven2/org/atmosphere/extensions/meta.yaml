@@ -1,0 +1,561 @@
+artifacts:
+  atmosphere-gwt-client20:
+    lastUpdated: 20130327200320
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  atmosphere-gwt-common20:
+    lastUpdated: 20130327200321
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  atmosphere-gwt-jersey:
+    lastUpdated: 20130327200322
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  atmosphere-gwt-project:
+    lastUpdated: 20130726232452
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  atmosphere-gwt-project20:
+    lastUpdated: 20130327200324
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  atmosphere-gwt-server20:
+    lastUpdated: 20130327200324
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  atmosphere-gwt20:
+    lastUpdated: 20160905070216
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-client:
+    lastUpdated: 20160905070217
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-common:
+    lastUpdated: 20160905070217
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-jackson:
+    lastUpdated: 20160905070217
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-jersey:
+    lastUpdated: 20160905070217
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-managed:
+    lastUpdated: 20160905070218
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-project:
+    lastUpdated: 20160905070218
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-gwt20-server:
+    lastUpdated: 20160905070218
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-GWT27
+      - 2.2.2-GWT27
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.0-GWT27
+      - 2.3.1
+      - 2.3.2
+      - 2.3.2-gwt27
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-rmi:
+    lastUpdated: 20160905070218
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0-RC1
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.4.0-RC1
+      - 2.4.0-RC2
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  atmosphere-samples-gwt20-project:
+    lastUpdated: 20161115120543
+    latest: 2.4.8
+    release: 2.4.8
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.2.7
+      - 2.2.8
+      - 2.2.9
+      - 2.2.10
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0-RC5
+      - 2.3.0-RC6
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.4
+      - 2.4.5
+      - 2.4.6
+      - 2.4.8
+  org.atmosphere.extensions.cometd:
+    lastUpdated: 20130726232456
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.guice:
+    lastUpdated: 20130726232456
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.hazelcast:
+    lastUpdated: 20130726232456
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.jgroups:
+    lastUpdated: 20130726232456
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.jms:
+    lastUpdated: 20130726232457
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.rabbitmq:
+    lastUpdated: 20130726232457
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.redis:
+    lastUpdated: 20130726232457
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.rmi:
+    lastUpdated: 20130726232457
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.socketio:
+    lastUpdated: 20130726232458
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.spring:
+    lastUpdated: 20130726232458
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.weblogic:
+    lastUpdated: 20130726232458
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+  org.atmosphere.extensions.xmpp:
+    lastUpdated: 20130726232458
+    latest: 1.1.0.RC5
+    release: 1.1.0.RC5
+    versions:
+      - 1.1.0.beta1
+      - 1.1.0.beta2
+      - 1.1.0.beta3
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.1.0.RC3
+      - 1.1.0.RC4
+      - 1.1.0.RC5
+

@@ -1,0 +1,38 @@
+artifacts:
+  chefclient_2.10:
+    lastUpdated: 20140411181751
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  hipchatclient_2.10:
+    lastUpdated: 20141126181710
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+  hipchatclient_2.11:
+    lastUpdated: 20141126181710
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  influxdbreporter_2.10:
+    lastUpdated: 20141126183122
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+  influxdbreporter_2.11:
+    lastUpdated: 20141126183122
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+

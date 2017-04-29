@@ -1,0 +1,1047 @@
+artifacts:
+  jadex-android-antlr:
+    lastUpdated: 20170401230652
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-android-bluetooth:
+    lastUpdated: 20170401230652
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-android-commons:
+    lastUpdated: 20170401230653
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-android-xmlpull:
+    lastUpdated: 20170401230653
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applib-bdi:
+    lastUpdated: 20170401230653
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-android:
+    lastUpdated: 20170401230654
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-android-chat:
+    lastUpdated: 20170401230654
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-android-demos:
+    lastUpdated: 20170401230654
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-android-puzzle:
+    lastUpdated: 20170401230655
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-bdi:
+    lastUpdated: 20170401230655
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-bdiv3:
+    lastUpdated: 20170401230656
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-bpmn:
+    lastUpdated: 20170401230656
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-java8:
+    lastUpdated: 20170401230657
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-micro:
+    lastUpdated: 20170401230657
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-mixed:
+    lastUpdated: 20170401230658
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-web:
+    lastUpdated: 20170401230658
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-applications-webservice:
+    lastUpdated: 20170401230659
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-bridge:
+    lastUpdated: 20170401230659
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-commons:
+    lastUpdated: 20170401230659
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-commons-gui:
+    lastUpdated: 20170401230700
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-commons-security:
+    lastUpdated: 20170401230700
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-distribution-android:
+    lastUpdated: 20170401230700
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-distribution-minimal:
+    lastUpdated: 20170401230701
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-distribution-server:
+    lastUpdated: 20170401230701
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-distribution-standard:
+    lastUpdated: 20170401230702
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-editor-bpmn:
+    lastUpdated: 20170401230702
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-gradle-plugin:
+    lastUpdated: 20170401230702
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-integration-test:
+    lastUpdated: 20170401230703
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-javaparser:
+    lastUpdated: 20170401230703
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-json:
+    lastUpdated: 20170401230704
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-application:
+    lastUpdated: 20170401230704
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-base:
+    lastUpdated: 20170401230704
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-bdiv3:
+    lastUpdated: 20170401230705
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-bdiv3-android:
+    lastUpdated: 20170401230705
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-bpmn:
+    lastUpdated: 20170401230705
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-component:
+    lastUpdated: 20170401230706
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-extension-agr:
+    lastUpdated: 20170401230706
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-extension-envsupport:
+    lastUpdated: 20170401230706
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-extension-envsupport-jmonkey:
+    lastUpdated: 20170401230707
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-extension-envsupport-opengl:
+    lastUpdated: 20170401230708
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-kernel-micro:
+    lastUpdated: 20170401230708
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-model-bpmn:
+    lastUpdated: 20170401230709
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform:
+    lastUpdated: 20170401230709
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-android:
+    lastUpdated: 20170401230709
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-relay:
+    lastUpdated: 20170401230709
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-webservice:
+    lastUpdated: 20170401230710
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-webservice-android:
+    lastUpdated: 20170401230710
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-webservice-desktop:
+    lastUpdated: 20170401230710
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-webservice-desktop-grizzly:
+    lastUpdated: 20170401230711
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-extension-webservice-desktop-jetty:
+    lastUpdated: 20170401230711
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-platform-standalone-launch:
+    lastUpdated: 20170401230711
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-rules:
+    lastUpdated: 20170401230711
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-rules-applications:
+    lastUpdated: 20170401230712
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-rules-eca:
+    lastUpdated: 20170401230712
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-rules-tools:
+    lastUpdated: 20170401230713
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-runtimetools-android:
+    lastUpdated: 20170401230713
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-runtimetools-swing:
+    lastUpdated: 20170401230714
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-base:
+    lastUpdated: 20170401230714
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-base-swing:
+    lastUpdated: 20170401230714
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-bdi:
+    lastUpdated: 20170401230715
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-benchmarks:
+    lastUpdated: 20170401230715
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-bpmn:
+    lastUpdated: 20170401230715
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-tools-comanalyzer:
+    lastUpdated: 20170401230716
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+  jadex-xml:
+    lastUpdated: 20170401230716
+    latest: 3.0.69
+    release: 3.0.69
+    versions:
+      - 3.0.0-RC16
+      - 3.0.0-RC32
+      - 3.0.0-RC51
+      - 3.0.0-RC63
+      - 3.0.0-RC68
+      - 3.0.0-RC80
+      - 3.0.0
+      - 3.0-DEVELOPMENT
+      - 3.0.1
+      - 3.0.7
+      - 3.0.43
+      - 3.0.69
+

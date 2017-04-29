@@ -1,0 +1,212 @@
+artifacts:
+  datafx-cell:
+    lastUpdated: 20140402212825
+    latest: 8.0b1
+    release: 8.0b1
+    versions:
+      - 2.0-b1
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 8.0b1
+      - 2.0
+  datafx-controller:
+    lastUpdated: 20140325134529
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 2.0
+  datafx-core:
+    lastUpdated: 20140604184040
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 1.0
+      - 2.0-b1
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+      - 1.0
+      - 2.0
+  datafx-crud:
+    lastUpdated: 20140604184040
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-datareader:
+    lastUpdated: 20140604184041
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-ejb:
+    lastUpdated: 20140604184041
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-ejb-wildfly:
+    lastUpdated: 20140402212831
+    latest: 8.0b1
+    release: 8.0b1
+    versions:
+      - 8.0b1
+  datafx-featuretoggle:
+    lastUpdated: 20140604184042
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-flow:
+    lastUpdated: 20140604184042
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-flow-wysiwyg:
+    lastUpdated: 20140402212838
+    latest: 8.0b1
+    release: 8.0b1
+    versions:
+      - 8.0b1
+  datafx-parent:
+    lastUpdated: 20140604184043
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+      - 2.0
+  datafx-samples:
+    lastUpdated: 20140604184043
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 2.0-b1
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+      - 2.0
+  datafx-samples-ejb:
+    lastUpdated: 20140604184044
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-tutorial1:
+    lastUpdated: 20140604184044
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b4
+      - 8.0b5
+  datafx-tutorial2:
+    lastUpdated: 20140604184045
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b4
+      - 8.0b5
+  datafx-tutorial3:
+    lastUpdated: 20140604184045
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b5
+  datafx-tutorial4:
+    lastUpdated: 20140604184046
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b5
+  datafx-ui:
+    lastUpdated: 20140604184046
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+  datafx-websocket:
+    lastUpdated: 20140604184047
+    latest: 8.0b5
+    release: 8.0b5
+    versions:
+      - 2.0-b1
+      - 2.0-b3
+      - 2.0b4
+      - 2.0b5
+      - 2.0b6
+      - 2.0b7
+      - 2.0
+      - 2.0.2
+      - 8.0b1
+      - 8.0b2
+      - 8.0b3
+      - 8.0b4
+      - 8.0b5
+      - 2.0
+

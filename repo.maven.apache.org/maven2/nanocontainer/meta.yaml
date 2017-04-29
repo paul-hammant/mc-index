@@ -1,0 +1,364 @@
+artifacts:
+  booter-maven-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0
+      - 1.0
+  nanocontainer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-2
+      - 1.0-beta-3
+      - 1.0-beta-4
+      - 1.0-RC-2
+      - 20051006.102624
+      - 20051006.102618
+      - 1.0-RC-3
+      - 1.0
+      - 20051006.102624
+      - 20051006.102618
+      - 1.0
+  nanocontainer-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-avalon:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-4
+  nanocontainer-axis:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-booter:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-2
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+      - 1.0-RC-2
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-distribution:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-2
+  nanocontainer-ejb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-groovy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-hibernate:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-jmx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-nanning:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-nanowar:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 1.0-beta-1
+      - 1.0-beta-3
+      - 1.0-beta-4
+      - 1.0-RC-2
+      - 1.0-20051007.105005
+      - 1.0-20051010.000410
+      - 1.0-20051007.104951
+      - 0
+      - 1.0-20051010.000335
+      - 1.0-RC-3
+      - 1.0
+      - 0
+      - 1.0
+  nanocontainer-nanowar-sample:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-2
+      - 1.0-20051008.180012
+      - 1.0-20051008.181704
+      - 1.0-RC-1
+      - nanoweb
+      - struts
+      - webwork
+      - 0
+      - 1.0-20051008.175950
+      - 1.0-20051008.181638
+      - 0
+  nanocontainer-nanowar-sample-nanoweb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-nanowar-sample-struts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-nanowar-sample-webwork1:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-nanowar-sample-webwork2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-nanoweb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-persistence:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 20050922.101153
+      - 1.0-RC-2
+      - 1.0-RC-3
+      - 1.0
+      - 20050922.101153
+      - 1.0
+  nanocontainer-piccolo:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-picometer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-pool:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-pool2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-proxytoys:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-remoting:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-sample:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - webwork
+      - nanoweb
+  nanocontainer-sample-nanoweb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-sample-webwork:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-servlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-struts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+  nanocontainer-swing:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-swt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+      - 1.0-beta-4
+  nanocontainer-testmodel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-2
+      - 1.0-beta-3
+      - 1.0-beta-4
+      - 1.0-RC-2
+      - 1.0-RC-3
+      - 1.0
+      - 1.0
+  nanocontainer-tools:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-RC-1
+      - 1.0
+      - 1.0
+  nanocontainer-type1:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+      - 1.0-beta-3
+  nanocontainer-webwork:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanocontainer-webwork2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-1.pico-1.0
+  nanodist-maven-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+

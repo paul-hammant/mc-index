@@ -1,0 +1,54 @@
+artifacts:
+  api-scraper:
+    lastUpdated: 20170402060652
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+  resources:
+    lastUpdated: 20161019065328
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tinyMediaManager:
+    lastUpdated: 20170404161427
+    latest: 2.9.3.1
+    release: 2.9.3.1
+    versions:
+      - 2.7
+      - 2.7.1
+      - 2.7.2
+      - 2.7.2.1
+      - 2.7.3
+      - 2.7.3.1
+      - 2.7.4
+      - 2.8
+      - 2.8.1
+      - 2.8.2
+      - 2.8.3
+      - 2.8.3.1
+      - 2.9
+      - 2.9.1
+      - 2.9.2
+      - 2.9.3
+      - 2.9.3.1
+  tmm-parent:
+    lastUpdated: 20150924155633
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

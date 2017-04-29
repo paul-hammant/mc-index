@@ -1,0 +1,797 @@
+artifacts:
+  android-superpom:
+    lastUpdated: 20110705224202
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill:
+    lastUpdated: 20110604214939
+    latest: 1.0-ALPHA-2
+    release: 1.0-ALPHA-2
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+  bluebill-android-modules:
+    lastUpdated: 20110705224204
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill-core:
+    lastUpdated: 20110703093114
+    latest: 0.22
+    release: 0.22
+    versions:
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+  bluebill-core-modules:
+    lastUpdated: 20110703093114
+    latest: 0.22
+    release: 0.22
+    versions:
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+  bluebill-mobile:
+    lastUpdated: 20110705224210
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill-mobile-android:
+    lastUpdated: 20110705224205
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill-mobile-android-test-functional:
+    lastUpdated: 20110705224216
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill-mobile-android-test-integration:
+    lastUpdated: 20110705224210
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+  bluebill-mobile-resources:
+    lastUpdated: 20110705001428
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  bluebill-mobile-resources-generator:
+    lastUpdated: 20110705072651
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  bluebill-resources:
+    lastUpdated: 20110705072653
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.16
+      - 0.17
+      - 0.16
+      - 0.17
+  bluebill-resources-modules:
+    lastUpdated: 20110705072658
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.16
+      - 0.17
+      - 0.16
+      - 0.17
+  bluebill-stats:
+    lastUpdated: 20110811170748
+    latest: 1.0-ALPHA-5
+    release: 1.0-ALPHA-5
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+  bluebill-stats-modules:
+    lastUpdated: 20110811170747
+    latest: 1.0-ALPHA-5
+    release: 1.0-ALPHA-5
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+  it-tidalwave-android-awt:
+    lastUpdated: 20110604214939
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.12
+  it-tidalwave-android-it-tidalwave-semantic-io:
+    lastUpdated: 20110524205340
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.10
+  it-tidalwave-android-javax-xml-datatype:
+    lastUpdated: 20110604214941
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  it-tidalwave-android-org-openrdf-sesame-model:
+    lastUpdated: 20110524205340
+    latest: 2.2.3.8
+    release: 2.2.3.8
+    versions:
+      - 2.2.3.8
+  it-tidalwave-android-utilities:
+    lastUpdated: 20110705224221
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+  it-tidalwave-bluebill-factsheet:
+    lastUpdated: 20110705224212
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-bluebill-factsheet-bbc:
+    lastUpdated: 20110705224224
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  it-tidalwave-bluebill-factsheet-wikipedia:
+    lastUpdated: 20110705072650
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  it-tidalwave-bluebill-factsheet-wikipedia-photos:
+    lastUpdated: 20110705072653
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  it-tidalwave-bluebill-factsheet-xenocanto:
+    lastUpdated: 20110705072650
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-bluebill-mobile:
+    lastUpdated: 20110524205339
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+  it-tidalwave-bluebill-mobile-android-common:
+    lastUpdated: 20110705224212
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  it-tidalwave-bluebill-mobile-android-news:
+    lastUpdated: 20110705224220
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  it-tidalwave-bluebill-mobile-android-taxonomy-factsheet:
+    lastUpdated: 20110705224216
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  it-tidalwave-bluebill-mobile-commons:
+    lastUpdated: 20110705224203
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-news:
+    lastUpdated: 20110705224220
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-observation:
+    lastUpdated: 20110705224209
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-splash:
+    lastUpdated: 20110705224217
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-taxonomy:
+    lastUpdated: 20110705224223
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-taxonomy-factsheet:
+    lastUpdated: 20110705224215
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-mobile-website:
+    lastUpdated: 20110811170749
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  it-tidalwave-bluebill-observation:
+    lastUpdated: 20100903112635
+    latest: 1.5.16
+    release: 1.5.16
+    versions:
+      - 0.14.1.RC1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.9
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+      - 1.5.15
+      - 1.5.16
+  it-tidalwave-bluebill-observation-simple:
+    lastUpdated: 20100903112609
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  it-tidalwave-bluebill-observation-simple-rdf:
+    lastUpdated: 20100903112637
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  it-tidalwave-bluebill-stats-commons:
+    lastUpdated: 20110811170748
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  it-tidalwave-bluebill-stats-core:
+    lastUpdated: 20110811170747
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-bluebill-stats-jpa:
+    lastUpdated: 20110811170747
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  it-tidalwave-bluebill-stats-legacyweb:
+    lastUpdated: 20110717220134
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  it-tidalwave-bluebill-stats-rest:
+    lastUpdated: 20110811170747
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  it-tidalwave-bluebill-stats-test-commons:
+    lastUpdated: 20110811170748
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  it-tidalwave-bluebill-stats-ui:
+    lastUpdated: 20110811170749
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-bluebill-stats-ui-vaadin:
+    lastUpdated: 20110716093931
+    latest: 1.0-ALPHA-3
+    release: 1.0-ALPHA-3
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+  it-tidalwave-bluebill-stats-webapp-vaadin:
+    lastUpdated: 20110811170748
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-bluebill-taxonomy:
+    lastUpdated: 20110703093117
+    latest: 1.3.23
+    release: 1.3.23
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.3.17
+      - 1.3.18
+      - 1.3.19
+      - 1.3.20
+      - 1.3.21
+      - 1.3.22
+      - 1.3.23
+  it-tidalwave-bluebill-taxonomy-birds:
+    lastUpdated: 20110705072656
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 0.14.1.RC1
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-taxonomy-birds-aou-7th:
+    lastUpdated: 20110705072654
+    latest: 18
+    release: 18
+    versions:
+      - 17
+      - 18
+      - 17
+      - 18
+  it-tidalwave-bluebill-taxonomy-birds-birdsofindia-2009:
+    lastUpdated: 20110705072657
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  it-tidalwave-bluebill-taxonomy-birds-clements-2008:
+    lastUpdated: 20110705072637
+    latest: 18
+    release: 18
+    versions:
+      - 17
+      - 18
+      - 17
+      - 18
+  it-tidalwave-bluebill-taxonomy-birds-ebn-italia-2003:
+    lastUpdated: 20110705072652
+    latest: 18
+    release: 18
+    versions:
+      - 17
+      - 18
+      - 17
+      - 18
+  it-tidalwave-bluebill-taxonomy-birds-ebn-italia-2011:
+    lastUpdated: 20110705072654
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  it-tidalwave-bluebill-taxonomy-birds-itis:
+    lastUpdated: 20110705072657
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  it-tidalwave-bluebill-taxonomy-birds-roberts-vii:
+    lastUpdated: 20110705072653
+    latest: 18
+    release: 18
+    versions:
+      - 17
+      - 18
+      - 17
+      - 18
+  it-tidalwave-bluebill-taxonomy-elmo:
+    lastUpdated: 20110703093114
+    latest: 1.0.22
+    release: 1.0.22
+    versions:
+      - 0.14.1.RC1
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.22
+  it-tidalwave-bluebill-taxonomy-mobile:
+    lastUpdated: 20110705224222
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  it-tidalwave-bluebill-taxonomy2:
+    lastUpdated: 20100903112556
+    latest: 1.3.16
+    release: 1.3.16
+    versions:
+      - 0.14.1.RC1
+      - 1.3.10
+      - 1.3.11
+      - 1.3.12
+      - 1.3.13
+      - 1.3.14
+      - 1.3.15
+      - 1.3.16
+  it-tidalwave-mobile-utilities:
+    lastUpdated: 20110703093115
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-mobile-utilities-rdf:
+    lastUpdated: 20110703093118
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-observation:
+    lastUpdated: 20110703093114
+    latest: 1.5.23
+    release: 1.5.23
+    versions:
+      - 1.5.17
+      - 1.5.18
+      - 1.5.19
+      - 1.5.20
+      - 1.5.21
+      - 1.5.22
+      - 1.5.23
+  it-tidalwave-observation-simple:
+    lastUpdated: 20110703093113
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+  it-tidalwave-observation-simple-rdf:
+    lastUpdated: 20110703093115
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-semantic-aux:
+    lastUpdated: 20110703093114
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+  it-tidalwave-semantic-io:
+    lastUpdated: 20110703093115
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 0.14.1.RC1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-semantic-io-json:
+    lastUpdated: 20110703093115
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  it-tidalwave-xml:
+    lastUpdated: 20110703093119
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  json:
+    lastUpdated: 20110703093114
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+

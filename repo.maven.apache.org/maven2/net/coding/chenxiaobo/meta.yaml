@@ -1,0 +1,56 @@
+artifacts:
+  base-framework-archetype:
+    lastUpdated: 20141029033106
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  framework-extension:
+    lastUpdated: 20150520085258
+    latest: 1.2.2.RELEASE
+    release: 1.2.2.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+  map-validation:
+    lastUpdated: 20150520085258
+    latest: 1.2.2.RELEASE
+    release: 1.2.2.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+  parent:
+    lastUpdated: 20150520085259
+    latest: 1.2.2.RELEASE
+    release: 1.2.2.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+  shiro-extension:
+    lastUpdated: 20150520085259
+    latest: 1.2.2.RELEASE
+    release: 1.2.2.RELEASE
+    versions:
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+  spring-data-jpa-extension:
+    lastUpdated: 20150520085300
+    latest: 1.2.2.RELEASE
+    release: 1.2.2.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.2.2.RELEASE
+

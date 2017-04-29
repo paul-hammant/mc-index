@@ -1,0 +1,86 @@
+artifacts:
+  atmodem4j:
+    lastUpdated: 20161111150142
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+  atmodem4j-core:
+    lastUpdated: 20140425093934
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  atmodem4j-parent:
+    lastUpdated: 20161111170231
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  libspsw-linux-amd64:
+    lastUpdated: 20161111170231
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.7
+  libspsw-linux-armhf:
+    lastUpdated: 20161111170626
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.7
+  libspsw-linux-i386:
+    lastUpdated: 20161111170232
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.7
+  spsw-java:
+    lastUpdated: 20161111170232
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+  spsw-native:
+    lastUpdated: 20150524132045
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  spsw-nativelibs-bundle:
+    lastUpdated: 20161111175110
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+  spsw-tests:
+    lastUpdated: 20140425093936
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  spsw-windows-x86:
+    lastUpdated: 20161111170234
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.7
+  spsw-windows-x86_64:
+    lastUpdated: 20161111170235
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.7
+

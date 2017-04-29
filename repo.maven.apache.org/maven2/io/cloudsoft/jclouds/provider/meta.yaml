@@ -1,0 +1,496 @@
+artifacts:
+  aws-cloudwatch:
+    lastUpdated: 20140613213420
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  aws-ec2:
+    lastUpdated: 20141102025019
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  aws-route53:
+    lastUpdated: 20140613213421
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  aws-s3:
+    lastUpdated: 20140613213422
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  aws-sqs:
+    lastUpdated: 20140613213422
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  aws-sts:
+    lastUpdated: 20140613213423
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  azureblob:
+    lastUpdated: 20140613213423
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  bluelock-vcloud-zone01:
+    lastUpdated: 20140613213424
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudfiles-uk:
+    lastUpdated: 20140613213424
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudfiles-us:
+    lastUpdated: 20140613213425
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudonestorage:
+    lastUpdated: 20140613213425
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudservers-uk:
+    lastUpdated: 20140613213426
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudservers-us:
+    lastUpdated: 20140613213426
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma-lvs:
+    lastUpdated: 20140613213427
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma-zrh:
+    lastUpdated: 20140613213427
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  dynect:
+    lastUpdated: 20140613213428
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  elastichosts-lax-p:
+    lastUpdated: 20140613213428
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  elastichosts-lon-b:
+    lastUpdated: 20140613213429
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  elastichosts-lon-p:
+    lastUpdated: 20140613213429
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  elastichosts-sat-p:
+    lastUpdated: 20140613213430
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  elastichosts-tor-p:
+    lastUpdated: 20140613213430
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  glesys:
+    lastUpdated: 20140613213431
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  go2cloud-jhb1:
+    lastUpdated: 20140613213431
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  gogrid:
+    lastUpdated: 20140613213432
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  greenhousedata-element-vcloud:
+    lastUpdated: 20140613213432
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  hpcloud-compute:
+    lastUpdated: 20140613213433
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  hpcloud-objectstorage:
+    lastUpdated: 20140613213433
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-providers-project:
+    lastUpdated: 20140613213434
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  ninefold-compute:
+    lastUpdated: 20140613213434
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  ninefold-storage:
+    lastUpdated: 20140613213435
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  openhosting-east1:
+    lastUpdated: 20140613213435
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudblockstorage-uk:
+    lastUpdated: 20140613213436
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudblockstorage-us:
+    lastUpdated: 20140613213436
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-clouddatabases-uk:
+    lastUpdated: 20140613213437
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-clouddatabases-us:
+    lastUpdated: 20140613213437
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-clouddns-uk:
+    lastUpdated: 20140613213437
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-clouddns-us:
+    lastUpdated: 20140613213438
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudloadbalancers-uk:
+    lastUpdated: 20140613213438
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudloadbalancers-us:
+    lastUpdated: 20140613213439
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudservers-uk:
+    lastUpdated: 20140613213440
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  rackspace-cloudservers-us:
+    lastUpdated: 20140613213440
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  serverlove-z1-man:
+    lastUpdated: 20140613213440
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  skalicloud-sdg-my:
+    lastUpdated: 20140613213441
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  softlayer:
+    lastUpdated: 20140613213441
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  ultradns-ws:
+    lastUpdated: 20140613213442
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+

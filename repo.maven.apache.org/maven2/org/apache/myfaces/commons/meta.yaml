@@ -1,0 +1,223 @@
+artifacts:
+  commons-examples11:
+    lastUpdated: 20111018191036
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  commons-examples12:
+    lastUpdated: 20111018191032
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  commons-examples20:
+    lastUpdated: 20120206213101
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  commons11:
+    lastUpdated: 20111018191037
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  commons12:
+    lastUpdated: 20111018191038
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  commons20:
+    lastUpdated: 20120206213103
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-commons:
+    lastUpdated: 20101014105002
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.2
+  myfaces-commons-assembly11:
+    lastUpdated: 20111018191039
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-assembly12:
+    lastUpdated: 20111018191038
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-assembly20:
+    lastUpdated: 20120206213102
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-commons-examples11:
+    lastUpdated: 20111018191040
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-examples12:
+    lastUpdated: 20111018191035
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-examples20:
+    lastUpdated: 20120206213104
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-commons-facelets-examples11:
+    lastUpdated: 20111018191036
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-facelets-examples12:
+    lastUpdated: 20111018191033
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-facelets-examples20:
+    lastUpdated: 20120206213101
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-commons-utils11:
+    lastUpdated: 20111018191032
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-utils12:
+    lastUpdated: 20111018191031
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-commons-utils20:
+    lastUpdated: 20120206213100
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-components11:
+    lastUpdated: 20111018191037
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-components12:
+    lastUpdated: 20111018191039
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  myfaces-components20:
+    lastUpdated: 20120206213103
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-converters11:
+    lastUpdated: 20111018191033
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-converters12:
+    lastUpdated: 20111018191037
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-converters20:
+    lastUpdated: 20120206213102
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-resourcehandler20:
+    lastUpdated: 20120206213100
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.2
+      - 1.0.2.1
+  myfaces-validators11:
+    lastUpdated: 20111018191038
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-validators12:
+    lastUpdated: 20111018191031
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  myfaces-validators20:
+    lastUpdated: 20120206213103
+    latest: 1.0.2.1
+    release: 1.0.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.2.1
+

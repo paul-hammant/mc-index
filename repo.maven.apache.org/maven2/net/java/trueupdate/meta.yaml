@@ -1,0 +1,944 @@
+artifacts:
+  trueupdate:
+    lastUpdated: 20160227122116
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent:
+    lastUpdated: 20160227122116
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent-core:
+    lastUpdated: 20160227122117
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent-ejb:
+    lastUpdated: 20160227122118
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent-impl-javaee:
+    lastUpdated: 20130829225410
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-agent-jms:
+    lastUpdated: 20160227122119
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent-servlet:
+    lastUpdated: 20160227122119
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-agent-spec:
+    lastUpdated: 20160227122120
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-archetype:
+    lastUpdated: 20160227122120
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-archetype-glassfish:
+    lastUpdated: 20160227122120
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-archetype-tomcat:
+    lastUpdated: 20160227122120
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-artifact:
+    lastUpdated: 20160227122121
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-artifact-impl-maven:
+    lastUpdated: 20130829225411
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-artifact-maven:
+    lastUpdated: 20160227122122
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-artifact-spec:
+    lastUpdated: 20160227122122
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-core:
+    lastUpdated: 20160227122123
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-installer:
+    lastUpdated: 20160227122123
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-installer-cargo:
+    lastUpdated: 20160227122123
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-installer-core:
+    lastUpdated: 20160227122124
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-installer-jsr88:
+    lastUpdated: 20160227122124
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.7
+      - 0.8
+  trueupdate-installer-openejb:
+    lastUpdated: 20160227122125
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-installer-tomcat:
+    lastUpdated: 20160227122125
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-jax-rs:
+    lastUpdated: 20130829225412
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-jax-rs-client:
+    lastUpdated: 20130829225412
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-jax-rs-server:
+    lastUpdated: 20130829225412
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-jax-rs-util:
+    lastUpdated: 20130829225413
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-jaxrs:
+    lastUpdated: 20160227122125
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-jaxrs-client:
+    lastUpdated: 20160227122125
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-jaxrs-server:
+    lastUpdated: 20160227122126
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-jaxrs-util:
+    lastUpdated: 20160227122126
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-jms:
+    lastUpdated: 20160227122127
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager:
+    lastUpdated: 20160227122127
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager-appl-openejb:
+    lastUpdated: 20130829225413
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-manager-core:
+    lastUpdated: 20160227122127
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager-ejb:
+    lastUpdated: 20160227122128
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager-impl-javaee:
+    lastUpdated: 20130829225414
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-manager-jms:
+    lastUpdated: 20160227122128
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager-plug-openejb:
+    lastUpdated: 20130829225414
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-manager-servlet:
+    lastUpdated: 20160227122128
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-manager-spec:
+    lastUpdated: 20160227122129
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-message:
+    lastUpdated: 20160227122129
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-sample:
+    lastUpdated: 20130829225415
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-sample-appl-javaee:
+    lastUpdated: 20130829225415
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-sample-impl-javaee:
+    lastUpdated: 20130829225415
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-server:
+    lastUpdated: 20160227122129
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-server-appl-javaee:
+    lastUpdated: 20130829225415
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-server-impl-maven:
+    lastUpdated: 20130829225416
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-server-maven:
+    lastUpdated: 20160227122130
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  trueupdate-shed:
+    lastUpdated: 20130829225416
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  trueupdate-util:
+    lastUpdated: 20160227122130
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+

@@ -1,0 +1,269 @@
+artifacts:
+  composite-ant:
+    lastUpdated: 20130811005651
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  composite-antisamy:
+    lastUpdated: 20130823031115
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  composite-configuration:
+    lastUpdated: 20130813035428
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.2
+      - 3.2
+  composite-cxf:
+    lastUpdated: 20130816010135
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.2
+      - 3.2
+  composite-cxf-tools:
+    lastUpdated: 20130816013454
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  composite-ebean:
+    lastUpdated: 20150624233948
+    latest: 3.4
+    release: 3.4
+    versions:
+      - 2.2
+      - 2.3
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.4
+      - 2.2
+      - 2.3
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.4
+  composite-groovy:
+    lastUpdated: 20141128064050
+    latest: 6.4
+    release: 6.4
+    versions:
+      - 5.7
+      - 5.8
+      - 5.9
+      - 5.1
+      - 6.1
+      - 6.2
+      - 6.3
+      - 6.4
+      - 5.7
+      - 5.8
+      - 5.9
+      - 5.1
+      - 6.1
+      - 6.2
+      - 6.3
+      - 6.4
+  composite-jackson:
+    lastUpdated: 20130812223107
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.4
+      - 2.4
+  composite-jersey:
+    lastUpdated: 20130820014556
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.3
+      - 2.3
+  composite-jetty:
+    lastUpdated: 20140506082648
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 3.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 3.1
+  composite-joda-time:
+    lastUpdated: 20150511235624
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  composite-joda-time-hibernate:
+    lastUpdated: 20150511235624
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  composite-liquibase:
+    lastUpdated: 20130811010306
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  composite-logging-api:
+    lastUpdated: 20131015002527
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.2
+      - 3.3
+      - 3.2
+      - 3.3
+  composite-logging-deploy:
+    lastUpdated: 20140510033003
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.3
+      - 3.4
+      - 3.5
+      - 3.3
+      - 3.4
+      - 3.5
+  composite-logging-jcl:
+    lastUpdated: 20131015003924
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.2
+      - 3.3
+      - 3.2
+      - 3.3
+  composite-logging-simple:
+    lastUpdated: 20131015003925
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.2
+      - 3.3
+      - 3.2
+      - 3.3
+  composite-s3-base:
+    lastUpdated: 20140703011748
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.3
+      - 1.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.3
+      - 1.4
+      - 2.1
+      - 2.2
+      - 2.3
+  composite-s3-bus:
+    lastUpdated: 20140703012121
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.1
+      - 3.1
+      - 2.1
+      - 3.1
+  composite-s3-runnable:
+    lastUpdated: 20141027090147
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 5.1
+      - 5.2
+      - 5.1
+      - 5.2
+  composite-s3-webjar:
+    lastUpdated: 20140826061703
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 5.1
+      - 5.2
+      - 5.1
+      - 5.2
+  composite-servlet:
+    lastUpdated: 20140316015313
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  composite-spring:
+    lastUpdated: 20140628232205
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 5.3
+      - 5.4
+      - 6.1
+      - 5.3
+      - 5.4
+      - 6.1
+  composite-spring-aspects:
+    lastUpdated: 20140628232752
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 5.2
+      - 5.3
+      - 6.1
+      - 5.2
+      - 5.3
+      - 6.1
+  composite-spring-test:
+    lastUpdated: 20131015005925
+    latest: 5.3
+    release: 5.3
+    versions:
+      - 5.2
+      - 5.3
+      - 5.2
+      - 5.3
+  composite-spring-web:
+    lastUpdated: 20140629235901
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 5.2
+      - 5.3
+      - 6.1
+      - 5.2
+      - 5.3
+      - 6.1
+  composite-unittest:
+    lastUpdated: 20131015005926
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+

@@ -1,0 +1,76 @@
+artifacts:
+  appenders:
+    lastUpdated: 20170109162833
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2
+      - 1.2.1
+      - 2.0.0
+      - 1.2
+  coralogix-parent:
+    lastUpdated: 20170109162833
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 2.0.0
+      - 1.2
+  coralogix-sdk:
+    lastUpdated: 20170109162833
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 2.0.0
+      - 1.1
+      - 1.2
+  java-logger:
+    lastUpdated: 20170109162834
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 2.0.0
+      - 1.2
+  log4j-appender:
+    lastUpdated: 20170109162834
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  log4j2-appender:
+    lastUpdated: 20170109162835
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  logback-appender:
+    lastUpdated: 20170109162835
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+

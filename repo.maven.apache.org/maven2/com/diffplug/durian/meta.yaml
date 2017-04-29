@@ -1,0 +1,132 @@
+artifacts:
+  durian:
+    lastUpdated: 20160406122406
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 2.0
+      - 3.0
+      - 3.1
+      - 3.1.1
+      - 3.1.2
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 2.0
+      - 3.0
+      - 3.1
+  durian-cache:
+    lastUpdated: 20160627185410
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-collect:
+    lastUpdated: 20160627185614
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-concurrent:
+    lastUpdated: 20160627185454
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-core:
+    lastUpdated: 20160627185528
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-debug:
+    lastUpdated: 20160627193145
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  durian-eventbus:
+    lastUpdated: 20160627185551
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-io:
+    lastUpdated: 20160627185748
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-parse:
+    lastUpdated: 20160627185701
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-reflect:
+    lastUpdated: 20160627185637
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  durian-rx:
+    lastUpdated: 20170308095329
+    latest: 3.0.0.BETA2
+    release: 3.0.0.BETA2
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 2.0.0
+      - 3.0.0.ALPHA
+      - 3.0.0.BETA
+      - 3.0.0.BETA2
+      - 1.0
+  durian-swt:
+    lastUpdated: 20170308102700
+    latest: 3.0.0.BETA2
+    release: 3.0.0.BETA2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.7.0
+      - 2.0.0
+      - 3.0.0.ALPHA
+      - 3.0.0.BETA
+      - 3.0.0.BETA2
+      - 1.0
+      - 1.1
+  durian-testlib:
+    lastUpdated: 20160627185725
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+

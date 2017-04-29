@@ -1,0 +1,119 @@
+artifacts:
+  dkpro-tc:
+    lastUpdated: 20150408163308
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-api:
+    lastUpdated: 20150408163311
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-api-features:
+    lastUpdated: 20150408163316
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-core:
+    lastUpdated: 20150408163319
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-evaluation:
+    lastUpdated: 20150408163320
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-features:
+    lastUpdated: 20150408163322
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-features-ngram:
+    lastUpdated: 20150408163325
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-features-pair:
+    lastUpdated: 20150408163326
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-features-spelling:
+    lastUpdated: 20150408163327
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-fstore-simple:
+    lastUpdated: 20150408163328
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  dkpro-tc-mallet:
+    lastUpdated: 20140706170315
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  dkpro-tc-ml:
+    lastUpdated: 20150408163329
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-ml-crfsuite:
+    lastUpdated: 20150408163330
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-ml-liblinear:
+    lastUpdated: 20150408163330
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-ml-mallet:
+    lastUpdated: 20150408163330
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-ml-svmhmm:
+    lastUpdated: 20150408163331
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-ml-weka:
+    lastUpdated: 20150408163332
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  dkpro-tc-weka:
+    lastUpdated: 20140706170315
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+

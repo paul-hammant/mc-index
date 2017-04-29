@@ -1,0 +1,69 @@
+artifacts:
+  socko-buildtools_2.10:
+    lastUpdated: 20140228030452
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  socko-buildtools_2.11:
+    lastUpdated: 20141006041528
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  socko-rest_2.10:
+    lastUpdated: 20140228030453
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  socko-rest_2.11:
+    lastUpdated: 20141006041528
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  socko-webserver_2.10:
+    lastUpdated: 20140228030454
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.4
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  socko-webserver_2.11:
+    lastUpdated: 20141006041529
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  socko-webserver_2.9.1:
+    lastUpdated: 20120807004051
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  socko-webserver_2.9.2:
+    lastUpdated: 20120910034046
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+

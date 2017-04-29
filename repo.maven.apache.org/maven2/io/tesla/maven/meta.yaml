@@ -1,0 +1,136 @@
+artifacts:
+  apache-maven:
+    lastUpdated: 20130721190523
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-aether-provider:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-artifact:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-compat:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-core:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-embedder:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-model:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-model-builder:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-plugin-api:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-repository-metadata:
+    lastUpdated: 20130721190523
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-settings:
+    lastUpdated: 20130721190523
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-settings-builder:
+    lastUpdated: 20130721190524
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 1.0.0
+      - 3.1.0
+      - 3.1.2
+  maven-verifier:
+    lastUpdated: 20130217223247
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  sisu-maven-bridge:
+    lastUpdated: 20130202220057
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tesla-configuration:
+    lastUpdated: 20130518222210
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  tesla-launcher:
+    lastUpdated: 20130518222210
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  tesla-runtime:
+    lastUpdated: 20130518222210
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+

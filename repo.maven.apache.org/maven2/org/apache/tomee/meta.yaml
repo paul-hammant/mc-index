@@ -1,0 +1,1111 @@
+artifacts:
+  apache-tomee:
+    lastUpdated: 20170313075844
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian:
+    lastUpdated: 20170313075900
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-common:
+    lastUpdated: 20170313075900
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-openejb-embedded:
+    lastUpdated: 20170313075901
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-openejb-transaction-provider:
+    lastUpdated: 20170313075901
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tck:
+    lastUpdated: 20170313075902
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-codi-tests:
+    lastUpdated: 20170313075902
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-common:
+    lastUpdated: 20170313075905
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-config-tests:
+    lastUpdated: 20170313075905
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-embedded:
+    lastUpdated: 20170313075906
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-jaxrs-tests:
+    lastUpdated: 20170313075906
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-jaxws-tests:
+    lastUpdated: 20170313075906
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-jms-tests:
+    lastUpdated: 20170313075907
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-remote:
+    lastUpdated: 20170313075908
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-tests:
+    lastUpdated: 20170313075908
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-webapp-remote:
+    lastUpdated: 20170313075908
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  arquillian-tomee-webprofile-tests:
+    lastUpdated: 20170313075909
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  assembly:
+    lastUpdated: 20170313075909
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  bval-embedded:
+    lastUpdated: 20170313075909
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  bval-tomee:
+    lastUpdated: 20170313075910
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  cdi-embedded:
+    lastUpdated: 20170313075910
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  cdi-tomee:
+    lastUpdated: 20170313075911
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  cdi-tomee-embedded:
+    lastUpdated: 20160627103335
+    latest: 7.0.1
+    release: 7.0.1
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+  container:
+    lastUpdated: 20170313075911
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  examples:
+    lastUpdated: 20170313075912
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  itests:
+    lastUpdated: 20170313075913
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  javaee-api:
+    lastUpdated: 20161111184653
+    latest: 7.0-1
+    release: 7.0-1
+    versions:
+      - 7.0
+      - 7.0-1
+      - 7.0
+  livereload-tomee:
+    lastUpdated: 20170313075913
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  log4j2-tomee:
+    lastUpdated: 20170313075914
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  mbean-annotation-api:
+    lastUpdated: 20170313075919
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-activemq:
+    lastUpdated: 20170313075919
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-api:
+    lastUpdated: 20170313075920
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-axis:
+    lastUpdated: 20170313075920
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-bonecp:
+    lastUpdated: 20170313075921
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-client:
+    lastUpdated: 20170313075921
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-common-cli:
+    lastUpdated: 20170313075922
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-core:
+    lastUpdated: 20170313075923
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-core-eclipselink:
+    lastUpdated: 20170313075924
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-core-hibernate:
+    lastUpdated: 20170313075924
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-cxf:
+    lastUpdated: 20170313075924
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-cxf-rs:
+    lastUpdated: 20170313075925
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-cxf-transport:
+    lastUpdated: 20170313075925
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-daemon:
+    lastUpdated: 20170313075926
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-derbynet:
+    lastUpdated: 20170313075926
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-ejbd:
+    lastUpdated: 20170313075927
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-hessian:
+    lastUpdated: 20170313075928
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-hsql:
+    lastUpdated: 20170313075928
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-http:
+    lastUpdated: 20170313075929
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-app:
+    lastUpdated: 20170313075929
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-beans:
+    lastUpdated: 20170313075930
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-client:
+    lastUpdated: 20170313075931
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-interceptor-beans:
+    lastUpdated: 20170313075931
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-servlets:
+    lastUpdated: 20170313075932
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-itests-web:
+    lastUpdated: 20170313075932
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-javaagent:
+    lastUpdated: 20170313075933
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-jee:
+    lastUpdated: 20170313075934
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-jee-accessors:
+    lastUpdated: 20170313075934
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-jpa-integration:
+    lastUpdated: 20170313075935
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-junit:
+    lastUpdated: 20170313075936
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-lite:
+    lastUpdated: 20170313075937
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-loader:
+    lastUpdated: 20170313075939
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-mockito:
+    lastUpdated: 20170313075939
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-multicast:
+    lastUpdated: 20170313075940
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-provisionning:
+    lastUpdated: 20170313075941
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-rest:
+    lastUpdated: 20170313075942
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-server:
+    lastUpdated: 20170313075942
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-ssh:
+    lastUpdated: 20170313075943
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-standalone:
+    lastUpdated: 20170313075946
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  openejb-webservices:
+    lastUpdated: 20170313075948
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  server:
+    lastUpdated: 20170313075949
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tck:
+    lastUpdated: 20170313075949
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tck-common:
+    lastUpdated: 20170313075949
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee:
+    lastUpdated: 20170313075950
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-catalina:
+    lastUpdated: 20170313075950
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-common:
+    lastUpdated: 20170313075950
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-embedded:
+    lastUpdated: 20170313075951
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-jaxrs:
+    lastUpdated: 20170313075958
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-jdbc:
+    lastUpdated: 20170313075958
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-juli:
+    lastUpdated: 20170313075959
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-loader:
+    lastUpdated: 20170313075959
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-mojarra:
+    lastUpdated: 20170313080000
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-myfaces:
+    lastUpdated: 20170313080000
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-overlay-runner:
+    lastUpdated: 20170313080001
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-plume-webapp:
+    lastUpdated: 20170313080002
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-plus-webapp:
+    lastUpdated: 20170313080007
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-project:
+    lastUpdated: 20170313080008
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-util:
+    lastUpdated: 20170313080008
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-webaccess:
+    lastUpdated: 20170313080009
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-webapp:
+    lastUpdated: 20170313080011
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  tomee-webservices:
+    lastUpdated: 20170313080012
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  utils:
+    lastUpdated: 20170313080013
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  webdeployer:
+    lastUpdated: 20170313080013
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+  ziplock:
+    lastUpdated: 20170313080014
+    latest: 7.0.3
+    release: 7.0.3
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+

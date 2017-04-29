@@ -1,0 +1,194 @@
+artifacts:
+  ks-common:
+    lastUpdated: 20120717220734
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-common-api:
+    lastUpdated: 20120717220734
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-common-impl:
+    lastUpdated: 20120717220735
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-common-test:
+    lastUpdated: 20120717220736
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-common-ui:
+    lastUpdated: 20120717220736
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-common-util:
+    lastUpdated: 20120717220737
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-cxf:
+    lastUpdated: 20120717220737
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-eclipselink:
+    lastUpdated: 20120717220738
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-hibernate:
+    lastUpdated: 20120717220738
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-jta:
+    lastUpdated: 20120717220738
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-metro:
+    lastUpdated: 20120717220738
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-rice-lessdep:
+    lastUpdated: 20120717220738
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+

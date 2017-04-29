@@ -1,0 +1,43 @@
+artifacts:
+  jcommon:
+    lastUpdated: 20110926034415
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.16
+  jfreechart:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.21
+      - 1.0.0-rc1
+      - 1.0.0
+      - 1.0.1
+  jfreechart-experimental:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+  jfreechart-swt:
+    lastUpdated: 20140624201641
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  jfreereport:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.6
+      - 0.8.5-5
+  jfreereport-ext:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.6
+      - 0.8.5-2
+

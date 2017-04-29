@@ -1,0 +1,35 @@
+artifacts:
+  Utils:
+    lastUpdated: 20140331144337
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  publish:
+    lastUpdated: 20140926122503
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  sparse:
+    lastUpdated: 20151013093531
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  sparse_2.11:
+    lastUpdated: 20150912101538
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

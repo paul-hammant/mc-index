@@ -1,0 +1,109 @@
+artifacts:
+  cas-overlay:
+    lastUpdated: 20160816174230
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  soaf-classification-security-module:
+    lastUpdated: 20160816174231
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-core:
+    lastUpdated: 20160816174231
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-distribution-assembly:
+    lastUpdated: 20160816174231
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-examples-webapp:
+    lastUpdated: 20160816174231
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-generic-security-module:
+    lastUpdated: 20160816174231
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-parent:
+    lastUpdated: 20160816174232
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-relto-security-module:
+    lastUpdated: 20160816174232
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-sap-security-module:
+    lastUpdated: 20160816174232
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-sci-security-module:
+    lastUpdated: 20160816174232
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-services-webapp:
+    lastUpdated: 20160816174232
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  soaf-thirdparty-parent:
+    lastUpdated: 20160815183710
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

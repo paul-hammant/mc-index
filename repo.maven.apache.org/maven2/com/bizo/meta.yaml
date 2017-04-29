@@ -1,0 +1,62 @@
+artifacts:
+  args4j-helpers_2.10:
+    lastUpdated: 20140528213902
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  asperatus:
+    lastUpdated: 20151022214332
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  crucible-client-scala_2.10:
+    lastUpdated: 20140528235401
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  mighty-csv_2.10:
+    lastUpdated: 20130422145844
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mighty-csv_2.11:
+    lastUpdated: 20140708023253
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mighty-csv_2.9.1:
+    lastUpdated: 20130422145844
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  spark-plug_2.10:
+    lastUpdated: 20160210151638
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.4.2
+      - 1.2.5
+      - 1.2.6
+  spark-plug_2.11:
+    lastUpdated: 20160210151627
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.2.6
+

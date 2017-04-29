@@ -1,0 +1,79 @@
+artifacts:
+  client:
+    lastUpdated: 20141003022900
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  client-android:
+    lastUpdated: 20141003022900
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  client-android-mock:
+    lastUpdated: 20141003022901
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  client-java:
+    lastUpdated: 20141003022901
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  client-mock:
+    lastUpdated: 20141003022902
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  dao:
+    lastUpdated: 20140801004103
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  dao-common:
+    lastUpdated: 20140801004103
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  dao-objectify:
+    lastUpdated: 20140929225337
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  dao-orientdb:
+    lastUpdated: 20140801004104
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  parent:
+    lastUpdated: 20140801004104
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  server:
+    lastUpdated: 20140801004104
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  shared:
+    lastUpdated: 20140801004105
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+

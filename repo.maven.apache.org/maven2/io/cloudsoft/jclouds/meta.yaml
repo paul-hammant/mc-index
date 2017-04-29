@@ -1,0 +1,156 @@
+artifacts:
+  jclouds:
+    lastUpdated: 20140613213330
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-all:
+    lastUpdated: 20140613213330
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-allblobstore:
+    lastUpdated: 20140613213331
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-allcompute:
+    lastUpdated: 20140613213331
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-allloadbalancer:
+    lastUpdated: 20140613213332
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-blobstore:
+    lastUpdated: 20140613213332
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-compute:
+    lastUpdated: 20140613213333
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-core:
+    lastUpdated: 20140613213334
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-drivers-project:
+    lastUpdated: 20140613213334
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-loadbalancer:
+    lastUpdated: 20140613213335
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-project:
+    lastUpdated: 20140613213335
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-resources:
+    lastUpdated: 20140613213336
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-scriptbuilder:
+    lastUpdated: 20140613213338
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-skeletons-project:
+    lastUpdated: 20140613213343
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+

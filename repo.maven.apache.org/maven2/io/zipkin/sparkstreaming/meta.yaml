@@ -1,0 +1,132 @@
+artifacts:
+  zipkin-sparkstreaming:
+    lastUpdated: 20170422082932
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-adjuster-finagle:
+    lastUpdated: 20170422082932
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-adjuster-parent:
+    lastUpdated: 20170422082932
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-autoconfigure-adjuster-finagle:
+    lastUpdated: 20170422082932
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-autoconfigure-consumer-storage:
+    lastUpdated: 20170422082933
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-autoconfigure-parent:
+    lastUpdated: 20170422082933
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-autoconfigure-stream-kafka:
+    lastUpdated: 20170422082933
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-consumer-parent:
+    lastUpdated: 20170422082934
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-consumer-storage:
+    lastUpdated: 20170422082934
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-job:
+    lastUpdated: 20170422082934
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-parent:
+    lastUpdated: 20170422082936
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-stream-kafka:
+    lastUpdated: 20170422082936
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  zipkin-sparkstreaming-stream-parent:
+    lastUpdated: 20170422082936
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+

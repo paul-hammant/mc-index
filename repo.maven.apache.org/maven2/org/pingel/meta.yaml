@@ -1,0 +1,126 @@
+artifacts:
+  axle-aggregate_2.10:
+    lastUpdated: 20140226085916
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M11
+  axle-aggregate_2.11:
+    lastUpdated: 20141009054511
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle-core_2.10:
+    lastUpdated: 20140226085919
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M9
+      - 0.1-M10
+      - 0.1-M11
+  axle-core_2.11:
+    lastUpdated: 20141009054514
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle-games_2.10:
+    lastUpdated: 20140226085920
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M10
+      - 0.1-M11
+  axle-games_2.11:
+    lastUpdated: 20141009054514
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle-hbase_2.10:
+    lastUpdated: 20140226085921
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M9
+      - 0.1-M10
+      - 0.1-M11
+  axle-hbase_2.11:
+    lastUpdated: 20141009054516
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle-languages_2.10:
+    lastUpdated: 20140226085922
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M9
+      - 0.1-M10
+      - 0.1-M11
+  axle-languages_2.11:
+    lastUpdated: 20141009054516
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle-scalding_2.10:
+    lastUpdated: 20130515014939
+    latest: 0.1-M10
+    release: 0.1-M10
+    versions:
+      - 0.1-M9
+      - 0.1-M10
+  axle-visualize_2.10:
+    lastUpdated: 20140226085924
+    latest: 0.1-M11
+    release: 0.1-M11
+    versions:
+      - 0.1-M9
+      - 0.1-M10
+      - 0.1-M11
+  axle-visualize_2.11:
+    lastUpdated: 20141009054517
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1-M12
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+  axle_2.10:
+    lastUpdated: 20130311200010
+    latest: 0.1-M8
+    release: 0.1-M8
+    versions:
+      - 0.1-M7
+      - 0.1-M8
+  axle_2.9.1:
+    lastUpdated: 20130214031040
+    latest: 0.1-M6
+    release: 0.1-M6
+    versions:
+      - 0.1-M1
+      - 0.1-M2
+      - 0.1-M3
+      - 0.1-M4
+      - 0.1-M5
+      - 0.1-M6
+

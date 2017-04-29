@@ -1,0 +1,537 @@
+artifacts:
+  chemistry-opencmis:
+    lastUpdated: 20170405073723
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-android-client:
+    lastUpdated: 20170405073723
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-bridge:
+    lastUpdated: 20170405073724
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-client-api:
+    lastUpdated: 20170405073725
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-client-bindings:
+    lastUpdated: 20170405073725
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-client-bindings-weblogic:
+    lastUpdated: 20130204232731
+    latest: 0.9.0-beta-1
+    release: 0.9.0-beta-1
+    versions:
+      - 0.8.0
+      - 0.9.0-beta-1
+  chemistry-opencmis-client-bindings-websphere:
+    lastUpdated: 20130204232737
+    latest: 0.9.0-beta-1
+    release: 0.9.0-beta-1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+  chemistry-opencmis-client-impl:
+    lastUpdated: 20170405073726
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-commons-api:
+    lastUpdated: 20170405073727
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-commons-impl:
+    lastUpdated: 20170405073727
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-dist:
+    lastUpdated: 20170405073728
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-osgi-client:
+    lastUpdated: 20170405073729
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-osgi-server:
+    lastUpdated: 20130819150846
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+  chemistry-opencmis-server-archetype:
+    lastUpdated: 20170405073729
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-async:
+    lastUpdated: 20170405073730
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-bindings:
+    lastUpdated: 20170405073731
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-bindings-war:
+    lastUpdated: 20170405073732
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.5.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-extension-archetype:
+    lastUpdated: 20170405073732
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-fileshare:
+    lastUpdated: 20170405073733
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-inmemory:
+    lastUpdated: 20170405073733
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-server-inmemory-war:
+    lastUpdated: 20110922161755
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  chemistry-opencmis-server-jcr:
+    lastUpdated: 20140414225634
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+  chemistry-opencmis-server-support:
+    lastUpdated: 20170405073735
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-test-browser:
+    lastUpdated: 20160524000253
+    latest: 0.14.0
+    release: 0.14.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+  chemistry-opencmis-test-browser-app:
+    lastUpdated: 20160524000253
+    latest: 0.14.0
+    release: 0.14.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+  chemistry-opencmis-test-client:
+    lastUpdated: 20120425233932
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  chemistry-opencmis-test-fit:
+    lastUpdated: 20170405073736
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-test-tck:
+    lastUpdated: 20170405073736
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+  chemistry-opencmis-test-tools:
+    lastUpdated: 20160524000256
+    latest: 0.14.0
+    release: 0.14.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+  chemistry-opencmis-test-util:
+    lastUpdated: 20160524000258
+    latest: 0.14.0
+    release: 0.14.0
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+  chemistry-opencmis-workbench:
+    lastUpdated: 20170405073737
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0-beta-1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 1.0.0
+      - 1.1.0
+

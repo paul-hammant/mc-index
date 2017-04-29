@@ -1,0 +1,1387 @@
+artifacts:
+  BlameSubversion:
+    lastUpdated: 20120901012314
+    latest: 1.26-h-1
+    release: 1.26-h-1
+    versions:
+      - 1.26-h-1
+  JumbleHudsonPlugin:
+    lastUpdated: 20120111140642
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  active-directory:
+    lastUpdated: 20140903190633
+    latest: 1.31-h3
+    release: 1.31-h3
+    versions:
+      - 1.31-h1
+      - 1.31-h2
+      - 1.31-h3
+  analysis-collector:
+    lastUpdated: 20120727210728
+    latest: 1.28-h-1
+    release: 1.28-h-1
+    versions:
+      - 1.28
+      - 1.28-h-1
+      - 1.28
+  analysis-core:
+    lastUpdated: 20130306032034
+    latest: 1.49-h-1
+    release: 1.49-h-1
+    versions:
+      - 1.42
+      - 1.42-h-1
+      - 1.47-h-1
+      - 1.48-h-1
+      - 1.49-h-1
+      - 1.42
+  analysis-pom:
+    lastUpdated: 20130326191612
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.42-h-1
+      - 1.42-h-2
+      - 3.0.0-M2-1
+      - 3.0.0-M3
+      - 3.0.0-RC2
+      - 3.0.0
+  analysis-test:
+    lastUpdated: 20130128235917
+    latest: 1.10-h-1
+    release: 1.10-h-1
+    versions:
+      - 1.9-h-1
+      - 1.10-h-1
+  ansicolor:
+    lastUpdated: 20130325202156
+    latest: 0.1.2-h-1
+    release: 0.1.2-h-1
+    versions:
+      - 0.1.2-h-1
+  artifactdeployer:
+    lastUpdated: 20130402214100
+    latest: 0.27-h-1
+    release: 0.27-h-1
+    versions:
+      - 0.27-h-1
+  artifactory:
+    lastUpdated: 20120924141146
+    latest: 2.1.3-h-2
+    release: 2.1.3-h-2
+    versions:
+      - 2.1.3-h-1
+      - 2.1.3-h-2
+  audit-trail:
+    lastUpdated: 20140507004429
+    latest: 1.8-h-2
+    release: 1.8-h-2
+    versions:
+      - 1.8-h-1
+      - 1.8-h-2
+  backup:
+    lastUpdated: 20120810202925
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  batch-task:
+    lastUpdated: 20120821220033
+    latest: 1.16-h-1
+    release: 1.16-h-1
+    versions:
+      - 1.16-h-1
+  birt-charts:
+    lastUpdated: 20120815031236
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+  broadcast-message-plugin:
+    lastUpdated: 20140926064539
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  buckminster:
+    lastUpdated: 20131004022957
+    latest: 1.1.2-h-2
+    release: 1.1.2-h-2
+    versions:
+      - 1.1.2-h-1
+      - 1.1.2-h-2
+  bugzilla:
+    lastUpdated: 20120325143634
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+  build-name-setter:
+    lastUpdated: 20130404182545
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.0
+      - 1.3-h-1
+      - 1.0
+  build-pipeline-plugin:
+    lastUpdated: 20130918001914
+    latest: 1.3.4-h-1
+    release: 1.3.4-h-1
+    versions:
+      - 1.3.4-h-1
+  build-timeout:
+    lastUpdated: 20121029153606
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.7-h-1
+      - 1.11
+      - 1.11
+  checkstyle:
+    lastUpdated: 20130315185553
+    latest: 3.35-h-1
+    release: 3.35-h-1
+    versions:
+      - 3.28
+      - 3.28-h-1
+      - 3.35-h-1
+      - 3.28
+  claim:
+    lastUpdated: 20121217154023
+    latest: 1.8-h-1
+    release: 1.8-h-1
+    versions:
+      - 1.8-h-1
+  clone-workspace-scm:
+    lastUpdated: 20130209041733
+    latest: 0.5-h-1
+    release: 0.5-h-1
+    versions:
+      - 0.5-h-1
+  clover:
+    lastUpdated: 20161017093701
+    latest: 4.6.1
+    release: 4.6.1
+    versions:
+      - 4.0.6-h-1
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+  cobertura:
+    lastUpdated: 20130114193210
+    latest: 1.6-h-3
+    release: 1.6-h-3
+    versions:
+      - 1.6-h-1
+      - 1.6-h-2
+      - 1.6-h-3
+  compact-columns:
+    lastUpdated: 20130830010612
+    latest: 1.10-h-1
+    release: 1.10-h-1
+    versions:
+      - 1.10-h-1
+  conditional-buildstep:
+    lastUpdated: 20140114204554
+    latest: 1.3.2-h-1
+    release: 1.3.2-h-1
+    versions:
+      - 1.3.2-h-1
+  console-column-plugin:
+    lastUpdated: 20121116193144
+    latest: 1.5-h-1
+    release: 1.5-h-1
+    versions:
+      - 1.5
+      - 1.5-h-1
+      - 1.5
+  copy-team-cli:
+    lastUpdated: 20140811194828
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  copy-to-slave:
+    lastUpdated: 20121217154023
+    latest: 1.4.1-h-1
+    release: 1.4.1-h-1
+    versions:
+      - 1.4.1-h-1
+  copyartifact:
+    lastUpdated: 20140507004429
+    latest: 1.25-h-3
+    release: 1.25-h-3
+    versions:
+      - 1.23-h-1
+      - 1.25-h-1
+      - 1.25-h-2
+      - 1.25-h-3
+  coverity:
+    lastUpdated: 20130821015311
+    latest: 1.2.8-h-1
+    release: 1.2.8-h-1
+    versions:
+      - 1.2.8-h-1
+  cppcheck:
+    lastUpdated: 20130129221543
+    latest: 1.14-h-1
+    release: 1.14-h-1
+    versions:
+      - 1.14-h-1
+  createjobadvanced:
+    lastUpdated: 20141014190321
+    latest: 1.5-h-2
+    release: 1.5-h-2
+    versions:
+      - 1.5-h-1
+      - 1.5-h-2
+  crowd2:
+    lastUpdated: 20140507034129
+    latest: 1.5-h-3
+    release: 1.5-h-3
+    versions:
+      - 1.5-h-1
+      - 1.5-h-2
+      - 1.5-h-3
+  cvs:
+    lastUpdated: 20121029153607
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.1.0
+      - 2.1.0_1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  cvs-tag:
+    lastUpdated: 20121015154421
+    latest: 1.8-h-1
+    release: 1.8-h-1
+    versions:
+      - 1.7
+      - 1.8-h-1
+      - 1.7
+  dashboard-view:
+    lastUpdated: 20130920022559
+    latest: 2.9.2-h-1
+    release: 2.9.2-h-1
+    versions:
+      - 2.3-h-1
+      - 2.3-h-2
+      - 2.5-h-1
+      - 2.9.2-h-1
+  delete-team-cli:
+    lastUpdated: 20130819233010
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dependency-viewer:
+    lastUpdated: 20120211110737
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  deploy:
+    lastUpdated: 20130416192046
+    latest: 1.9-h-2
+    release: 1.9-h-2
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.9-h-1
+      - 1.9-h-2
+      - 1.7
+      - 1.8
+      - 1.9
+  description-column-plugin:
+    lastUpdated: 20130322004017
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.3-h-1
+  description-setter:
+    lastUpdated: 20130813190021
+    latest: 1.8-h-1
+    release: 1.8-h-1
+    versions:
+      - 1.8-h-1
+  disk-usage:
+    lastUpdated: 20130402192744
+    latest: 0.19-h-1
+    release: 0.19-h-1
+    versions:
+      - 0.17-h-1
+      - 0.19-h-1
+  displayname:
+    lastUpdated: 20110820102913
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  downstream-buildview:
+    lastUpdated: 20120907040115
+    latest: 1.9-h-1
+    release: 1.9-h-1
+    versions:
+      - 1.9-h-1
+  downstream-ext:
+    lastUpdated: 20130403181821
+    latest: 1.8-h-1
+    release: 1.8-h-1
+    versions:
+      - 1.8-h-1
+  dry:
+    lastUpdated: 20130402205015
+    latest: 2.34-h-1
+    release: 2.34-h-1
+    versions:
+      - 2.28
+      - 2.28-h-1
+      - 2.34-h-1
+      - 2.28
+  dry-run-lib:
+    lastUpdated: 20150529181631
+    latest: 0.2-h-1
+    release: 0.2-h-1
+    versions:
+      - 0.2-h-1
+  email-ext:
+    lastUpdated: 20141031204840
+    latest: 2.12-h-1
+    release: 2.12-h-1
+    versions:
+      - 2.12-h-1
+  emma:
+    lastUpdated: 20120815164346
+    latest: 1.29-h-1
+    release: 1.29-h-1
+    versions:
+      - 1.29-h-1
+  envfile:
+    lastUpdated: 20130104115502
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.3-h-1
+  extra-columns:
+    lastUpdated: 20121116205809
+    latest: 1.6-h-1
+    release: 1.6-h-1
+    versions:
+      - 1.6-h-1
+  favorite:
+    lastUpdated: 20140507004430
+    latest: 1.10-h-2
+    release: 1.10-h-2
+    versions:
+      - 1.10-h-1
+      - 1.10-h-2
+  findbugs:
+    lastUpdated: 20150629182926
+    latest: 4.48-h-2
+    release: 4.48-h-2
+    versions:
+      - 4.41
+      - 4.41-h-1
+      - 4.41-h-2
+      - 4.44-h-1
+      - 4.47-h-1
+      - 4.48-h-1
+      - 4.48-h-2
+      - 4.41
+  findbugs-library:
+    lastUpdated: 20120917025937
+    latest: 2.0.1-h-3
+    release: 2.0.1-h-3
+    versions:
+      - 2.0.1
+      - 2.0.1-h-1
+      - 2.0.1-h-3
+  findbugs-parent:
+    lastUpdated: 20120917025941
+    latest: 1.0-h-3
+    release: 1.0-h-3
+    versions:
+      - 1.0
+      - 1.0-h-1
+      - 1.0-h-3
+      - 1.0
+  ftppublisher:
+    lastUpdated: 20120829024331
+    latest: 1.2-h-1
+    release: 1.2-h-1
+    versions:
+      - 1.2-h-1
+  gerrit-build-config:
+    lastUpdated: 20150326073719
+    latest: 1.2.8-h-2
+    release: 1.2.8-h-2
+    versions:
+      - 1.2.8-h-1
+      - 1.2.8-h-2
+  gerrit-events:
+    lastUpdated: 20150326073720
+    latest: 1.2.8-h-2
+    release: 1.2.8-h-2
+    versions:
+      - 1.2.8-h-1
+      - 1.2.8-h-2
+  gerrit-trigger:
+    lastUpdated: 20150326073720
+    latest: 2.5.3-h-2
+    release: 2.5.3-h-2
+    versions:
+      - 2.5.3-h-1
+      - 2.5.3-h-2
+  gerrit-trigger-parent:
+    lastUpdated: 20150326073721
+    latest: 1.6.4-h-2
+    release: 1.6.4-h-2
+    versions:
+      - 1.6.4-h-1
+      - 1.6.4-h-2
+  git:
+    lastUpdated: 20150529225545
+    latest: 2.2.14
+    release: 2.2.14
+    versions:
+      - 2.1.0
+      - 2.1.0_1
+      - 2.1.1
+      - 2.1.1_1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.1-h-1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.2.7
+      - 2.2.8
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+      - 2.2.13
+      - 2.2.14
+  git-parameter:
+    lastUpdated: 20150318035321
+    latest: 0.3-h-2
+    release: 0.3-h-2
+    versions:
+      - 0.3-h-1
+      - 0.3-h-2
+  gitlab-merge-request-builder-plugin:
+    lastUpdated: 20140530200429
+    latest: 1.2.1-h
+    release: 1.2.1-h
+    versions:
+      - 1.2.1-h
+  global-build-stats:
+    lastUpdated: 20120829015619
+    latest: 1.4-h-2
+    release: 1.4-h-2
+    versions:
+      - 1.4-h-1
+      - 1.4-h-2
+  google-api-client-plugin:
+    lastUpdated: 20150501025256
+    latest: 2.0-1.20.0
+    release: 2.0-1.20.0
+    versions:
+      - 1.0.1
+      - 2.0-1.20.0
+  google-login-plugin:
+    lastUpdated: 20150417073353
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.1
+      - 3.0
+      - 2.1
+      - 3.0
+  goovy-support-plugin:
+    lastUpdated: 20120417051558
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  gradle:
+    lastUpdated: 20150901050933
+    latest: 1.24-h-3
+    release: 1.24-h-3
+    versions:
+      - 1.24-h-1
+      - 1.24-h-3
+  grails:
+    lastUpdated: 20130209020355
+    latest: 1.7-h-1
+    release: 1.7-h-1
+    versions:
+      - 1.7-h-1
+  greenballs:
+    lastUpdated: 20140508180017
+    latest: 1.13
+    release: 1.13
+    versions:
+      - 1.12-h-1
+      - 1.13
+      - 1.13
+  grinder:
+    lastUpdated: 20130104115502
+    latest: 1.5-h-1
+    release: 1.5-h-1
+    versions:
+      - 1.5-h-1
+  groovy:
+    lastUpdated: 20140507004430
+    latest: 1.13-h-3
+    release: 1.13-h-3
+    versions:
+      - 1.13-h-1
+      - 1.13-h-2
+      - 1.13-h-3
+  groovy-postbuild:
+    lastUpdated: 20131025003804
+    latest: 1.9-h-2
+    release: 1.9-h-2
+    versions:
+      - 1.9-h-1
+      - 1.9-h-2
+  groovy-support-plugin:
+    lastUpdated: 20120816210629
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+  htmlpublisher:
+    lastUpdated: 20140805225816
+    latest: 1.4-h-1
+    release: 1.4-h-1
+    versions:
+      - 1.0-h-1
+      - 1.1
+      - 1.4-h-1
+      - 1.1
+  hudson-maven-legacy:
+    lastUpdated: 20150408011606
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  hudson-maven3:
+    lastUpdated: 20120616024614
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  instant-messaging:
+    lastUpdated: 20140507054002
+    latest: 1.22-h-2
+    release: 1.22-h-2
+    versions:
+      - 1.22-h-1
+      - 1.22-h-2
+  instant-messaging-parent:
+    lastUpdated: 20140507034130
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 1.2
+      - 3.0.0-M4
+      - 3.2.0
+      - 1.2
+  integrity-plugin:
+    lastUpdated: 20150401222808
+    latest: 1.16-h-5
+    release: 1.16-h-5
+    versions:
+      - 1.16-h-1
+      - 1.16-h-4
+      - 1.16-h-5
+  ircbot:
+    lastUpdated: 20140507054003
+    latest: 2.19-h-2
+    release: 2.19-h-2
+    versions:
+      - 2.19-h-1
+      - 2.19-h-2
+  ivy:
+    lastUpdated: 20120813232325
+    latest: 1.21-h-1
+    release: 1.21-h-1
+    versions:
+      - 1.21-h-1
+  jabber:
+    lastUpdated: 20140507071010
+    latest: 1.23-h-2
+    release: 1.23-h-2
+    versions:
+      - 1.23-h-1
+      - 1.23-h-2
+  jacoco:
+    lastUpdated: 20140805225735
+    latest: 1.0.16-h-1
+    release: 1.0.16-h-1
+    versions:
+      - 1.0.10-h-1
+      - 1.0.16-h-1
+  jcaptcha-plugin:
+    lastUpdated: 20111213001424
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  jdepend:
+    lastUpdated: 20130523182651
+    latest: 1.2.4-h-2
+    release: 1.2.4-h-2
+    versions:
+      - 1.2.4-h-1
+      - 1.2.4-h-2
+  jdom-shaded-library:
+    lastUpdated: 20130206040039
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  jenkins-multijob-plugin:
+    lastUpdated: 20141002130051
+    latest: 1.8-h-4
+    release: 1.8-h-4
+    versions:
+      - 1.8-h-1
+      - 1.8-h-2
+      - 1.8-h-3
+      - 1.8-h-4
+  jfreechart-plugin:
+    lastUpdated: 20131004062254
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  jira:
+    lastUpdated: 20120824124407
+    latest: 1.36-h-1
+    release: 1.36-h-1
+    versions:
+      - 1.36-h-1
+  jmx-monitoring:
+    lastUpdated: 20130113192111
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  jna-native-support-plugin:
+    lastUpdated: 20131016205408
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 3.0.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 1.0
+  job-import-plugin:
+    lastUpdated: 20121017170704
+    latest: 1.0-h-1
+    release: 1.0-h-1
+    versions:
+      - 1.0-h-1
+  job-node-stalker:
+    lastUpdated: 20140114201452
+    latest: 1.0.4-h-1
+    release: 1.0.4-h-1
+    versions:
+      - 1.0.4-h-1
+  join:
+    lastUpdated: 20131025001241
+    latest: 1.13-h-2
+    release: 1.13-h-2
+    versions:
+      - 1.13-h-1
+      - 1.13-h-2
+  junit-attachments:
+    lastUpdated: 20121203162136
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  just-exit-lifecycle:
+    lastUpdated: 20130821022939
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  m2release:
+    lastUpdated: 20140904005345
+    latest: 0.10.0-h-2
+    release: 0.10.0-h-2
+    versions:
+      - 0.10.0-h-1
+      - 0.10.0-h-2
+  mantis:
+    lastUpdated: 20130109011028
+    latest: 0.25-h-1
+    release: 0.25-h-1
+    versions:
+      - 0.25-h-1
+  maven-agent:
+    lastUpdated: 20150408011606
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  maven-interceptor:
+    lastUpdated: 20150408011607
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  maven-plugin:
+    lastUpdated: 20150408011608
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.2.0_1
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  maven-repository-server:
+    lastUpdated: 20110731172103
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  maven3-agent:
+    lastUpdated: 20150408011610
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  maven3-eventspy-3.0:
+    lastUpdated: 20160219192156
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-eventspy-3.1:
+    lastUpdated: 20160219192156
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-eventspy-common:
+    lastUpdated: 20160219192157
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-interceptor:
+    lastUpdated: 20150408011610
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  maven3-model:
+    lastUpdated: 20160219192157
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-plugin:
+    lastUpdated: 20160219192158
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-plugin-parent:
+    lastUpdated: 20160219192158
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-slavebundle:
+    lastUpdated: 20160219191839
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  maven3-snapshots:
+    lastUpdated: 20160219192159
+    latest: 3.0.6
+    release: 3.0.6
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+  measurement-plots:
+    lastUpdated: 20130104115503
+    latest: 0.2-h-1
+    release: 0.2-h-1
+    versions:
+      - 0.2-h-1
+  mercurial:
+    lastUpdated: 20150325224806
+    latest: 1.45-h-2
+    release: 1.45-h-2
+    versions:
+      - 1.41-h-1
+      - 1.45-h-1
+      - 1.45-h-2
+  msbuild:
+    lastUpdated: 20120913113443
+    latest: 1.14-h-1
+    release: 1.14-h-1
+    versions:
+      - 1.14-h-1
+  multiple-scms:
+    lastUpdated: 20121126184859
+    latest: 0.2-h-1
+    release: 0.2-h-1
+    versions:
+      - 0.2-h-1
+  mysql-auth:
+    lastUpdated: 20120829214135
+    latest: 1.1-h-1
+    release: 1.1-h-1
+    versions:
+      - 1.1-h-1
+  nant:
+    lastUpdated: 20130325213428
+    latest: 1.4.3-h-1
+    release: 1.4.3-h-1
+    versions:
+      - 1.4.3-h-1
+  nodejs:
+    lastUpdated: 20140623225920
+    latest: 0.2.1-h-1
+    release: 0.2.1-h-1
+    versions:
+      - 0.2.1-h-1
+  nodelabelparameter:
+    lastUpdated: 20140114201344
+    latest: 1.4.1-h-1
+    release: 1.4.1-h-1
+    versions:
+      - 1.4.1-h-1
+  nunit:
+    lastUpdated: 20120905014756
+    latest: 0.14-h-1
+    release: 0.14-h-1
+    versions:
+      - 0.14-h-1
+  parameterized-trigger:
+    lastUpdated: 20121113075740
+    latest: 2.17-h-1
+    release: 2.17-h-1
+    versions:
+      - 2.17-h-1
+  perforce:
+    lastUpdated: 20130502171914
+    latest: 1.3.23-h-1
+    release: 1.3.23-h-1
+    versions:
+      - 1.3.17-h-1
+      - 1.3.17-h-2
+      - 1.3.23-h-1
+  performance:
+    lastUpdated: 20140722233423
+    latest: 1.8-h-2
+    release: 1.8-h-2
+    versions:
+      - 1.8-h-1
+      - 1.8-h-2
+  plot:
+    lastUpdated: 20130104115504
+    latest: 1.6-h-1
+    release: 1.6-h-1
+    versions:
+      - 1.6-h-1
+  pmd:
+    lastUpdated: 20130402184353
+    latest: 3.34-h-1
+    release: 3.34-h-1
+    versions:
+      - 3.29
+      - 3.29-h-1
+      - 3.34-h-1
+      - 3.29
+  project-stats-plugin:
+    lastUpdated: 20130325204542
+    latest: 0.4-h-1
+    release: 0.4-h-1
+    versions:
+      - 0.4-h-1
+  promoted-builds:
+    lastUpdated: 20140507004436
+    latest: 2.4-h-3
+    release: 2.4-h-3
+    versions:
+      - 2.4-h-1
+      - 2.4-h-2
+      - 2.4-h-3
+  publish-over-ssh:
+    lastUpdated: 20130320171734
+    latest: 1.10-h-1
+    release: 1.10-h-1
+    versions:
+      - 1.10-h-1
+  rebuild:
+    lastUpdated: 20150326003042
+    latest: 1.16-h-1
+    release: 1.16-h-1
+    versions:
+      - 1.16-h-1
+  release:
+    lastUpdated: 20120926180229
+    latest: 2.3-h-1
+    release: 2.3-h-1
+    versions:
+      - 2.3-h-1
+  rest-plugin:
+    lastUpdated: 20150519213353
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  rest-plugin-api:
+    lastUpdated: 20150519213354
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  rest-plugin-common:
+    lastUpdated: 20150519213354
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  rest-plugin-model:
+    lastUpdated: 20150519213355
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  rest-plugin-parent:
+    lastUpdated: 20150519213356
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  rest-plugin-server:
+    lastUpdated: 20150519213356
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  reviewboard:
+    lastUpdated: 20120906014858
+    latest: 1.0.2-h-1
+    release: 1.0.2-h-1
+    versions:
+      - 1.0.2-h-1
+  robot:
+    lastUpdated: 20130104115504
+    latest: 1.2.4-h-1
+    release: 1.2.4-h-1
+    versions:
+      - 1.2.4-h-1
+  role-strategy:
+    lastUpdated: 20150902205310
+    latest: 1.1.3-h-4
+    release: 1.1.3-h-4
+    versions:
+      - 1.1.3-h-1
+      - 1.1.3-h-2
+      - 1.1.3-h-3
+      - 1.1.3-h-4
+  rubyMetrics:
+    lastUpdated: 20140319230302
+    latest: 1.5.1-h-1
+    release: 1.5.1-h-1
+    versions:
+      - 1.5.1-h-1
+  run-condition:
+    lastUpdated: 20140114202714
+    latest: 1.1-h-1
+    release: 1.1-h-1
+    versions:
+      - 1.1-h-1
+  scis-ad:
+    lastUpdated: 20120806185159
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  scm-sync-configuration:
+    lastUpdated: 20140507072718
+    latest: 0.0.6-h-2
+    release: 0.0.6-h-2
+    versions:
+      - 0.0.6-h-1
+      - 0.0.6-h-2
+  script-realm:
+    lastUpdated: 20140507004440
+    latest: 1.6-h-2
+    release: 1.6-h-2
+    versions:
+      - 1.6-h-1
+      - 1.6-h-2
+  sectioned-view:
+    lastUpdated: 20130325211823
+    latest: 1.16-h-1
+    release: 1.16-h-1
+    versions:
+      - 1.16-h-1
+  seleniumhq:
+    lastUpdated: 20120918122430
+    latest: 0.4-h-1
+    release: 0.4-h-1
+    versions:
+      - 0.4-h-1
+  seleniumhtmlreport:
+    lastUpdated: 20130325220743
+    latest: 0.94-h-1
+    release: 0.94-h-1
+    versions:
+      - 0.94-h-1
+  sfee:
+    lastUpdated: 20140507004441
+    latest: 1.0.5-h-2
+    release: 1.0.5-h-2
+    versions:
+      - 1.0.5-h-1
+      - 1.0.5-h-2
+  slave-squatter:
+    lastUpdated: 20120907005626
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.3-h-1
+  ssh:
+    lastUpdated: 20120823184041
+    latest: 2.1-h-1
+    release: 2.1-h-1
+    versions:
+      - 2.1-h-1
+  ssh-slaves:
+    lastUpdated: 20150917021942
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 3.0.0
+      - 3.0.2
+      - 3.0.3
+  subversion:
+    lastUpdated: 20150127192724
+    latest: 2.3.11
+    release: 2.3.11
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.0_1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.4-h-1
+      - 2.3.5
+      - 2.3.6
+      - 2.3.6-h-1
+      - 2.3.7
+      - 2.3.7-h-1
+      - 2.3.8
+      - 2.3.8-h-1
+      - 2.3.9
+      - 2.3.10
+      - 2.3.11
+  svn-release-mgr:
+    lastUpdated: 20130214120812
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.3-h-1
+  svn-tag:
+    lastUpdated: 20140116235601
+    latest: 1.17-h-1
+    release: 1.17-h-1
+    versions:
+      - 1.17-h-1
+  svncompat13:
+    lastUpdated: 20130120032614
+    latest: 1.2-h-1
+    release: 1.2-h-1
+    versions:
+      - 1.2-h-1
+  svncompat14:
+    lastUpdated: 20130120064023
+    latest: 1.1-h-1
+    release: 1.1-h-1
+    versions:
+      - 1.1-h-1
+  tasks:
+    lastUpdated: 20130402210457
+    latest: 4.36-h-1
+    release: 4.36-h-1
+    versions:
+      - 4.31
+      - 4.31-h-1
+      - 4.35-h-1
+      - 4.36-h-1
+      - 4.31
+  team-ui-ext:
+    lastUpdated: 20140518111224
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  template-project:
+    lastUpdated: 20130325214640
+    latest: 1.3-h-1
+    release: 1.3-h-1
+    versions:
+      - 1.3-h-1
+  testng-plugin:
+    lastUpdated: 20120905013331
+    latest: 0.32-h-1
+    release: 0.32-h-1
+    versions:
+      - 0.32-h-1
+  thinBackup:
+    lastUpdated: 20140507004442
+    latest: 1.7.2-h-2
+    release: 1.7.2-h-2
+    versions:
+      - 1.7.2-h-1
+      - 1.7.2-h-2
+  throttle-concurrents:
+    lastUpdated: 20121029153610
+    latest: 1.7.3
+    release: 1.7.3
+    versions:
+      - 1.7.3
+  token-macro:
+    lastUpdated: 20141025172808
+    latest: 1.8.1-h-1
+    release: 1.8.1-h-1
+    versions:
+      - 1.6-h-1
+      - 1.8.1-h-1
+  translation:
+    lastUpdated: 20120915042135
+    latest: 1.10-h-1
+    release: 1.10-h-1
+    versions:
+      - 1.10-h-1
+  url-change-trigger:
+    lastUpdated: 20130104115505
+    latest: 1.4-h-1
+    release: 1.4-h-1
+    versions:
+      - 1.4-h-1
+  violations:
+    lastUpdated: 20120727184415
+    latest: 0.7.11-h-1
+    release: 0.7.11-h-1
+    versions:
+      - 0.7.11
+      - 0.7.11-h-1
+  warnings:
+    lastUpdated: 20130326191613
+    latest: 4.23-h-1
+    release: 4.23-h-1
+    versions:
+      - 4.6
+      - 4.6-h-1
+      - 4.20-h-1
+      - 4.23-h-1
+      - 4.6
+  windows-slaves-plugin:
+    lastUpdated: 20111213001424
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  ws-cleanup:
+    lastUpdated: 20130218010917
+    latest: 0.12-h-1
+    release: 0.12-h-1
+    versions:
+      - 0.12-h-1
+  xcode-plugin:
+    lastUpdated: 20130404181247
+    latest: 1.3.1-h-1
+    release: 1.3.1-h-1
+    versions:
+      - 1.3.1-h-1
+  xfpanel:
+    lastUpdated: 20130327182938
+    latest: 1.1.5-h-1
+    release: 1.1.5-h-1
+    versions:
+      - 1.0.12
+      - 1.1.5-h-1
+  xunit:
+    lastUpdated: 20130402203518
+    latest: 1.53-h-1
+    release: 1.53-h-1
+    versions:
+      - 1.47-h-1
+      - 1.53-h-1
+  xvfb-plugin:
+    lastUpdated: 20130927230234
+    latest: 1.0.9-h-1
+    release: 1.0.9-h-1
+    versions:
+      - 1.0.9-h-1
+  xvnc:
+    lastUpdated: 20150902220454
+    latest: 1.13-h-6
+    release: 1.13-h-6
+    versions:
+      - 1.13-h-1
+      - 1.13-h-2
+      - 1.13-h-4
+      - 1.13-h-5
+      - 1.13-h-6
+  zabbix-integration:
+    lastUpdated: 20130113192112
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

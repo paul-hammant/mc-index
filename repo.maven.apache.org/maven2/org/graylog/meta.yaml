@@ -1,0 +1,94 @@
+artifacts:
+  graylog-parent:
+    lastUpdated: 20170404123837
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.0-alpha.1
+      - 2.2.0-alpha.2
+      - 2.2.0-alpha.3
+      - 2.2.0-alpha.4
+      - 2.2.0-beta.1
+      - 2.2.0-beta.2
+      - 2.2.0-beta.3
+      - 2.2.0-beta.4
+      - 2.2.0-beta.5
+      - 2.2.0-beta.6
+      - 2.2.0-rc.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  graylog-plugin-archetype:
+    lastUpdated: 20170404123838
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0.0-beta.2
+      - 1.0.0-rc.1
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-beta.1
+      - 2.0.0-beta.2
+      - 2.0.0-beta.3
+      - 2.0.0-rc.1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0-alpha.1
+      - 2.1.0-alpha.2
+      - 2.1.0-beta.1
+      - 2.1.0-beta.2
+      - 2.1.0-beta.3
+      - 2.1.0-beta.4
+      - 2.1.0-rc.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-alpha.1
+      - 2.2.0-alpha.3
+      - 2.2.0-alpha.4
+      - 2.2.0-beta.1
+      - 2.2.0-beta.2
+      - 2.2.0-beta.3
+      - 2.2.0-beta.4
+      - 2.2.0-beta.5
+      - 2.2.0-beta.6
+      - 2.2.0-rc.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  graylog-project-parent:
+    lastUpdated: 20170404123838
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.0-alpha.1
+      - 2.2.0-alpha.2
+      - 2.2.0-alpha.3
+      - 2.2.0-alpha.4
+      - 2.2.0-beta.1
+      - 2.2.0-beta.2
+      - 2.2.0-beta.3
+      - 2.2.0-beta.4
+      - 2.2.0-beta.5
+      - 2.2.0-beta.6
+      - 2.2.0-rc.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  selenese-runner-java:
+    lastUpdated: 20160713152902
+    latest: 2.9.4
+    release: 2.9.4
+    versions:
+      - 2.8.1
+      - 2.8.2
+      - 2.9.1
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+

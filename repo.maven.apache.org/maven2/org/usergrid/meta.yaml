@@ -1,0 +1,220 @@
+artifacts:
+  geocell:
+    lastUpdated: 20130618212913
+    latest: 0.0.11
+    release: 0.0.11
+    versions:
+      - 0.0.11
+  hector-core:
+    lastUpdated: 20130430222547
+    latest: 1.1-2-1
+    release: 1.1-2-1
+    versions:
+      - 1.1-2-1
+  usergrid:
+    lastUpdated: 20130712224821
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-android-client:
+    lastUpdated: 20130502180828
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.5
+      - 0.0.6
+  usergrid-config:
+    lastUpdated: 20130712224821
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-core:
+    lastUpdated: 20130712224822
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-count-batcher:
+    lastUpdated: 20130712224822
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-count-common:
+    lastUpdated: 20130712224823
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-count-inserter:
+    lastUpdated: 20130712224824
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-java-client:
+    lastUpdated: 20130626002322
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  usergrid-launcher:
+    lastUpdated: 20130712224824
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-mongo-emulator:
+    lastUpdated: 20130712224826
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-rest:
+    lastUpdated: 20130712224826
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-scheduler:
+    lastUpdated: 20130712224829
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-services:
+    lastUpdated: 20130712224829
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-standalone:
+    lastUpdated: 20130712224829
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-test-utils:
+    lastUpdated: 20130712224831
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-tools:
+    lastUpdated: 20130712224832
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+  usergrid-websocket:
+    lastUpdated: 20130712224833
+    latest: 0.0.27.1
+    release: 0.0.27.1
+    versions:
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.26
+      - 0.0.26.1
+      - 0.0.27
+      - 0.0.27.1
+

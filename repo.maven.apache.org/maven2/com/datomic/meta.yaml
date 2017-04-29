@@ -1,0 +1,61 @@
+artifacts:
+  client-impl-cloud:
+    lastUpdated: 20170421160319
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.1
+      - 0.8.2
+  client-impl-shared:
+    lastUpdated: 20170421160319
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.2
+      - 0.8.4
+  client.wire-specs:
+    lastUpdated: 20161127190803
+    latest: 0.1.21
+    release: 0.1.21
+    versions:
+      - 0.1.21
+  clj-client:
+    lastUpdated: 20161127193618
+    latest: 0.8.606
+    release: 0.8.606
+    versions:
+      - 0.8.606
+  clojure-admin-protocols:
+    lastUpdated: 20170420221409
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  clojure-client-protocols:
+    lastUpdated: 20170420221410
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.3
+  datomic-lucene-core:
+    lastUpdated: 20131213164128
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  s3-access-keys:
+    lastUpdated: 20170420221410
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  simulant:
+    lastUpdated: 20151113203221
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+

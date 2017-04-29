@@ -1,0 +1,486 @@
+artifacts:
+  dsh-analysis:
+    lastUpdated: 20140228194416
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-archetype:
+    lastUpdated: 20150120222836
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  dsh-bitset:
+    lastUpdated: 20150327044925
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 2.0
+      - 2.1
+      - 3.0
+      - 1.0
+      - 2.0
+      - 2.1
+      - 3.0
+  dsh-codegen:
+    lastUpdated: 20120405044301
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-codegen-shell:
+    lastUpdated: 20120405045157
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-collect:
+    lastUpdated: 20120405044259
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-color-scheme:
+    lastUpdated: 20160923210738
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 2.0
+      - 3.0
+      - 1.0
+      - 2.0
+      - 3.0
+  dsh-commandline:
+    lastUpdated: 20141112033749
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  dsh-compress:
+    lastUpdated: 20160923210739
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  dsh-curate:
+    lastUpdated: 20120405044308
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-curate-examples:
+    lastUpdated: 20120405044257
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-disclosure-triangle:
+    lastUpdated: 20120405044256
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-disclosure-triangle-examples:
+    lastUpdated: 20120405044307
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-eventlist-view:
+    lastUpdated: 20130920222839
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 1.0
+      - 2.0
+  dsh-eventlist-view-examples:
+    lastUpdated: 20130920222839
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 1.0
+      - 2.0
+  dsh-evolve:
+    lastUpdated: 20120406034635
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-evolve-examples:
+    lastUpdated: 20120406034634
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-functor:
+    lastUpdated: 20120405044308
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-graph:
+    lastUpdated: 20120406034634
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-graph-io:
+    lastUpdated: 20120406034635
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-iconbundle:
+    lastUpdated: 20120405044258
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-iconbundle-svg:
+    lastUpdated: 20120405044259
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-iconbundle-tango:
+    lastUpdated: 20120405044300
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-iconbundle-tools:
+    lastUpdated: 20120405044300
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-identify:
+    lastUpdated: 20130920222840
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  dsh-interpolate:
+    lastUpdated: 20120405044301
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-layout:
+    lastUpdated: 20120403162014
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-layout-examples:
+    lastUpdated: 20120406034635
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-matrix:
+    lastUpdated: 20120405044257
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-matrix-io:
+    lastUpdated: 20120405044259
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-matrix-io-nonblocking:
+    lastUpdated: 20120405044258
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-matrix-nonblocking:
+    lastUpdated: 20120405044307
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-multi-map:
+    lastUpdated: 20160923210739
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 1.0
+      - 2.0
+  dsh-observable:
+    lastUpdated: 20120405044306
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-observable-graph:
+    lastUpdated: 20120406034636
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-parent:
+    lastUpdated: 20160923210740
+    latest: 12
+    release: 12
+    versions:
+      - 1
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 1
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  dsh-piccolo-ease:
+    lastUpdated: 20131208010412
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-ease-examples:
+    lastUpdated: 20131208010412
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-eventlist-view:
+    lastUpdated: 20131208010413
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-eventlist-view-examples:
+    lastUpdated: 20131208010413
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-identify:
+    lastUpdated: 20131208010413
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-identify-examples:
+    lastUpdated: 20131208010413
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-physics:
+    lastUpdated: 20131208010414
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-physics-examples:
+    lastUpdated: 20131208010414
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-ribbon:
+    lastUpdated: 20131208010414
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-sprite:
+    lastUpdated: 20131208010414
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-sprite-examples:
+    lastUpdated: 20131208010415
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-state-machine-sprite:
+    lastUpdated: 20131208010415
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-state-machine-sprite-examples:
+    lastUpdated: 20131208010415
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-tilemap:
+    lastUpdated: 20131208010415
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-tilemap-examples:
+    lastUpdated: 20131208010416
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-transition:
+    lastUpdated: 20131208010423
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-transition-examples:
+    lastUpdated: 20131209202215
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-venn:
+    lastUpdated: 20131208010424
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-piccolo-venn-examples:
+    lastUpdated: 20131208010424
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-swarm:
+    lastUpdated: 20120406034636
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-swarm-examples:
+    lastUpdated: 20120406034636
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-timer:
+    lastUpdated: 20120405044307
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-venn:
+    lastUpdated: 20131208010424
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  dsh-venn-tools:
+    lastUpdated: 20120411042118
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dsh-vocabulary:
+    lastUpdated: 20120405044257
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  dsh-weighted:
+    lastUpdated: 20120405044255
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

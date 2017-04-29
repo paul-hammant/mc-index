@@ -1,0 +1,41 @@
+artifacts:
+  jcstress-core:
+    lastUpdated: 20170329114214
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.3
+  jcstress-java-test-archetype:
+    lastUpdated: 20170329114214
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.3
+  jcstress-parent:
+    lastUpdated: 20170329114214
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.3
+  jcstress-samples:
+    lastUpdated: 20170329114214
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.3
+

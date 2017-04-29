@@ -1,0 +1,152 @@
+artifacts:
+  mule-tests:
+    lastUpdated: 20160822031914
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-tests-core:
+    lastUpdated: 20061219180019
+    latest: {}
+    release: 1.3.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  mule-tests-external:
+    lastUpdated: 20080318183644
+    latest: {}
+    release: 2.0.0-RC3
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  mule-tests-external-applications:
+    lastUpdated: 20080318183710
+    latest: {}
+    release: 2.0.0-RC3
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  mule-tests-external-axis:
+    lastUpdated: 20080318183829
+    latest: {}
+    release: 2.0.0-RC3
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  mule-tests-external-common:
+    lastUpdated: 20080318183748
+    latest: {}
+    release: 2.0.0-RC3
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  mule-tests-external-xfire:
+    lastUpdated: 20080129054405
+    latest: {}
+    release: 2.0.0-RC2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+  mule-tests-functional:
+    lastUpdated: 20160822031914
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-tests-infrastructure:
+    lastUpdated: 20160822031914
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-tests-integration:
+    lastUpdated: 20160822031914
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-tests-integration-jdk5:
+    lastUpdated: 20081205050029
+    latest: {}
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  mule-tests-integration-jdk6:
+    lastUpdated: 20131021073352
+    latest: {}
+    release: 3.5.0-bighorn
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.2.0-M1
+      - 3.2.0
+      - 3.2.1
+      - 3.3-M1
+      - 3.3-M2
+      - 3.3.0-RC1
+      - 3.3.0-RC2
+      - 3.3.0-RC3
+      - 3.3.0-EA
+      - 3.3.0
+      - 3.4-M1
+      - 3.3.1
+      - 3.4.0-RC1
+      - 3.4.0
+      - 3.5.0-bighorn-RC3
+      - 3.5.0-bighorn
+  mule-tests-oracle:
+    lastUpdated: 20061002231458
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.3
+  mule-tests-performance:
+    lastUpdated: 20160822031915
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-tests-vendor:
+    lastUpdated: 20070416195707
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+

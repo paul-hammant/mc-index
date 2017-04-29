@@ -1,0 +1,66 @@
+artifacts:
+  dynjs-addon:
+    lastUpdated: 20140923145036
+    latest: 2.8.0.Final
+    release: 2.8.0.Final
+    versions:
+      - 1.0.0
+      - 2.6.0.Final
+      - 2.7.2.Final
+      - 2.8.0.Final
+  forge-addon:
+    lastUpdated: 20170223171425
+    latest: 4
+    release: 4
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 1
+      - 2
+      - 3
+      - 4
+  forge-js-addon:
+    lastUpdated: 20170223173253
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  jaxrs-wiki-processor:
+    lastUpdated: 20160701074451
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.1
+      - 2.2
+      - 2.1
+      - 2.2
+  jvm-npm:
+    lastUpdated: 20161216094909
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.1
+      - 1.0.0
+  jvm-npm-core:
+    lastUpdated: 20161216094909
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.1
+      - 1.0.0
+  jvm-npm-rhino:
+    lastUpdated: 20161216094909
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.1
+      - 1.0.0
+  jvm-npm-test:
+    lastUpdated: 20161216094910
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

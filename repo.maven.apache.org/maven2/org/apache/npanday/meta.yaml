@@ -1,0 +1,206 @@
+artifacts:
+  NPanday.Artifact:
+    lastUpdated: 20110506030407
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Assemblies:
+    lastUpdated: 20110506030306
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Logging:
+    lastUpdated: 20110506030358
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Model.AutomationExtensibility:
+    lastUpdated: 20110506030349
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Model.Pom:
+    lastUpdated: 20110506030323
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Model.Settings:
+    lastUpdated: 20110506030338
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Project:
+    lastUpdated: 20110506030259
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  NPanday.Utils:
+    lastUpdated: 20110506030511
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-archetypes:
+    lastUpdated: 20110506025726
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-artifact:
+    lastUpdated: 20110506025547
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-assembler:
+    lastUpdated: 20110506025603
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-components:
+    lastUpdated: 20110506025458
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-core:
+    lastUpdated: 20110506025516
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-dao-project:
+    lastUpdated: 20110506025526
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-executable:
+    lastUpdated: 20110506025643
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model:
+    lastUpdated: 20110506025533
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-assembly-plugins:
+    lastUpdated: 20110506025554
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-compiler-plugins:
+    lastUpdated: 20110506025618
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-configuration-appenders:
+    lastUpdated: 20110506025653
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-entries:
+    lastUpdated: 20110506025701
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-executable-plugins:
+    lastUpdated: 20110506025610
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-netdependency:
+    lastUpdated: 20110506025537
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-model-settings:
+    lastUpdated: 20110506025625
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-plugin:
+    lastUpdated: 20110506025709
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-registry:
+    lastUpdated: 20110506025504
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-repository:
+    lastUpdated: 20110506025717
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-repository-builder:
+    lastUpdated: 20110506030756
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  dotnet-vendor:
+    lastUpdated: 20110506025634
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  maven-archetype-dotnet-simple:
+    lastUpdated: 20110506025730
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  maven-archetype-netexecutable:
+    lastUpdated: 20110506025738
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  maven-archetype-vb-simple:
+    lastUpdated: 20110506025745
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  npanday-installer:
+    lastUpdated: 20110506030849
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  npanday-project:
+    lastUpdated: 20110506025409
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+  npanday-repository-builder:
+    lastUpdated: 20110506030816
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.0-incubating
+

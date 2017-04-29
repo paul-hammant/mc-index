@@ -1,0 +1,63 @@
+artifacts:
+  fab-core:
+    lastUpdated: 20140530182753
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-osgi:
+    lastUpdated: 20140530182755
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-project:
+    lastUpdated: 20140530182756
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-fab-core:
+    lastUpdated: 20110726174013
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  fabric-fab-osgi:
+    lastUpdated: 20110726174013
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

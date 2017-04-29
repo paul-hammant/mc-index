@@ -1,0 +1,1235 @@
+artifacts:
+  flex-websocket-client:
+    lastUpdated: 20130806152203
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  granite-beanvalidation:
+    lastUpdated: 20130815155908
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-binding:
+    lastUpdated: 20141118225152
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-binding-android:
+    lastUpdated: 20141118225155
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-cdi:
+    lastUpdated: 20130815155909
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-client:
+    lastUpdated: 20130815162242
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-client-android:
+    lastUpdated: 20141118225158
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.M3
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-android-advanced:
+    lastUpdated: 20141118225159
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-flex:
+    lastUpdated: 20141118225200
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-flex-advanced:
+    lastUpdated: 20141118225203
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-flex-udp:
+    lastUpdated: 20141118225206
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-flex45-advanced:
+    lastUpdated: 20141118225210
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-java:
+    lastUpdated: 20141118225212
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-java-advanced:
+    lastUpdated: 20141118225213
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-java-udp:
+    lastUpdated: 20141118225214
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-javafx:
+    lastUpdated: 20141118225215
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.M3
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-client-javafx-advanced:
+    lastUpdated: 20141118225217
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-core:
+    lastUpdated: 20130815155909
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-core-swc:
+    lastUpdated: 20110815134213
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-datanucleus:
+    lastUpdated: 20130815155910
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-eclipselink:
+    lastUpdated: 20130815155910
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-eclipselink-swc:
+    lastUpdated: 20110815134151
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-essentials-swc:
+    lastUpdated: 20130815155910
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-flex45-swc:
+    lastUpdated: 20130815155911
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-gas:
+    lastUpdated: 20110815134157
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-gen-root:
+    lastUpdated: 20130815155911
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-generator:
+    lastUpdated: 20141118225218
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-generator-share:
+    lastUpdated: 20141118225219
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-gravity:
+    lastUpdated: 20110815134215
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-gravity-swc:
+    lastUpdated: 20110815134201
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-guice:
+    lastUpdated: 20130815155912
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-hibernate:
+    lastUpdated: 20130815155913
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-hibernate-swc:
+    lastUpdated: 20110815134150
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-hibernate4:
+    lastUpdated: 20130815155913
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-java-client:
+    lastUpdated: 20130520102223
+    latest: 3.0.0.M2
+    release: 3.0.0.M2
+    versions:
+      - 3.0.0.M1
+      - 3.0.0.M2
+  granite-javafx-client:
+    lastUpdated: 20130520102223
+    latest: 3.0.0.M2
+    release: 3.0.0.M2
+    versions:
+      - 3.0.0.M1
+      - 3.0.0.M2
+  granite-jmf-java8:
+    lastUpdated: 20141118225221
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-openjpa:
+    lastUpdated: 20130815155914
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-root:
+    lastUpdated: 20130815155914
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-root-swc:
+    lastUpdated: 20130815155914
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-seam:
+    lastUpdated: 20130815155915
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-seam-swc:
+    lastUpdated: 20110815134159
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-seam21:
+    lastUpdated: 20130815155915
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-server:
+    lastUpdated: 20141118225221
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-activemq:
+    lastUpdated: 20141118225223
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-appengine:
+    lastUpdated: 20141118225224
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-beanvalidation:
+    lastUpdated: 20141118225225
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-cdi:
+    lastUpdated: 20141118225226
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-core:
+    lastUpdated: 20141118225227
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-datanucleus:
+    lastUpdated: 20141118225228
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-eclipselink:
+    lastUpdated: 20141118225229
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-ejb:
+    lastUpdated: 20141118225230
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-glassfishv2:
+    lastUpdated: 20141118225234
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-glassfishv3:
+    lastUpdated: 20141118225234
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-hazelcast:
+    lastUpdated: 20141118225235
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-hibernate:
+    lastUpdated: 20141118225236
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-hibernate4:
+    lastUpdated: 20141118225237
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-jboss:
+    lastUpdated: 20141118225237
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-jetty6:
+    lastUpdated: 20141118225243
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-jetty8:
+    lastUpdated: 20141118225244
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-jetty9:
+    lastUpdated: 20141118225246
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-openjpa:
+    lastUpdated: 20141118225246
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-seam:
+    lastUpdated: 20141118225247
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-servlet3:
+    lastUpdated: 20141118225248
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-spring:
+    lastUpdated: 20141118225249
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-spring2:
+    lastUpdated: 20141118225249
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-tomcat6:
+    lastUpdated: 20141118225250
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-tomcat7:
+    lastUpdated: 20141118225251
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-toplink:
+    lastUpdated: 20141118225252
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-udp:
+    lastUpdated: 20141118225254
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-weblogic:
+    lastUpdated: 20141118225255
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.0.RC1
+      - 3.0.0.GA
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-server-wildfly:
+    lastUpdated: 20141118225256
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 3.1.1.GA
+  granite-spring:
+    lastUpdated: 20130815155915
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-swc:
+    lastUpdated: 20130815155916
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-tide:
+    lastUpdated: 20110815134152
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-eclipselink:
+    lastUpdated: 20110815134201
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-eclipselink-swc:
+    lastUpdated: 20110815134158
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-ejb:
+    lastUpdated: 20110815134214
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-ejb-swc:
+    lastUpdated: 20110815134202
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-hibernate:
+    lastUpdated: 20110815134202
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-hibernate-swc:
+    lastUpdated: 20110815134153
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-seam:
+    lastUpdated: 20110815134156
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-seam-swc:
+    lastUpdated: 20110815134214
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-spring:
+    lastUpdated: 20110815134214
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-spring-swc:
+    lastUpdated: 20110815134219
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-swc:
+    lastUpdated: 20110815134150
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.1.0.GA
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-toplink:
+    lastUpdated: 20110815134202
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-tide-toplink-swc:
+    lastUpdated: 20110815134207
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-toplink:
+    lastUpdated: 20130815155916
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 2.1.0.RC2
+      - 2.1.0.GA
+      - 2.2.0.RC2
+      - 2.2.0.GA
+      - 2.2.0.SP1
+      - 2.2.0.SP2
+      - 2.2.1.GA
+      - 2.3.0.RC1
+      - 2.3.0.GA
+      - 2.3.1.GA
+      - 2.3.2.GA
+      - 3.0.0.M1
+      - 3.0.0.M2
+      - 3.0.0.M3
+  granite-toplink-swc:
+    lastUpdated: 20110815134152
+    latest: 1.2.0_SP1
+    release: 1.2.0_SP1
+    versions:
+      - 1.2.0.RC1
+      - 1.2.0
+      - 1.2.0_SP1
+  granite-websocket:
+    lastUpdated: 20130815162245
+    latest: 3.0.0.M3
+    release: 3.0.0.M3
+    versions:
+      - 3.0.0.M3
+  graniteds-docbook-xslt:
+    lastUpdated: 20110712215643
+    latest: 1.0.RC1
+    release: 1.0.RC1
+    versions:
+      - 1.0.RC1
+  graniteds-jdocbook-style:
+    lastUpdated: 20110712215643
+    latest: 1.0.RC1
+    release: 1.0.RC1
+    versions:
+      - 1.0.RC1
+

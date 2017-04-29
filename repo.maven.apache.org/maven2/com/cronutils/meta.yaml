@@ -1,0 +1,49 @@
+artifacts:
+  cron-utils:
+    lastUpdated: 20161129130607
+    latest: 5.0.5
+    release: 5.0.5
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+  cron-utils-spring:
+    lastUpdated: 20160310014225
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  cron-utils-timestrings:
+    lastUpdated: 20160620015852
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  htime:
+    lastUpdated: 20150604021555
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

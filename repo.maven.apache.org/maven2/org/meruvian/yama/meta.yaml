@@ -1,0 +1,114 @@
+artifacts:
+  yama:
+    lastUpdated: 20150805070533
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-archetype:
+    lastUpdated: 20121225165225
+    latest: 1.0-Beta1
+    release: 1.0-Beta1
+    versions:
+      - 1.0-Beta1
+  yama-archetypes:
+    lastUpdated: 20150805070534
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-core:
+    lastUpdated: 20150805070535
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-jaxrs:
+    lastUpdated: 20120828091208
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  yama-jaxrs-archetype:
+    lastUpdated: 20120828091209
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  yama-persistence:
+    lastUpdated: 20120828091210
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  yama-social:
+    lastUpdated: 20150805070536
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-starter-archetype:
+    lastUpdated: 20150805070537
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-struts:
+    lastUpdated: 20120828091211
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  yama-struts-archetype:
+    lastUpdated: 20120828091211
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  yama-struts-core:
+    lastUpdated: 20120828091211
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  yama-webapi:
+    lastUpdated: 20150805070539
+    latest: 2.0.0.Beta2
+    release: 2.0.0.Beta2
+    versions:
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+  yama-webapp:
+    lastUpdated: 20120828091212
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

@@ -1,0 +1,36 @@
+artifacts:
+  isorelax-jaxp-bridge-ILM:
+    lastUpdated: 20120430022626
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  jOpenDocument:
+    lastUpdated: 20130730204514
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3b1
+      - 1.3
+  jdom:
+    lastUpdated: 20120430022625
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  ognl-engine:
+    lastUpdated: 20120430022625
+    latest: 2.6.9
+    release: 2.6.9
+    versions:
+      - 2.6.9
+  rhino:
+    lastUpdated: 20120430022626
+    latest: 1.7R1
+    release: 1.7R1
+    versions:
+      - 1.7R1
+

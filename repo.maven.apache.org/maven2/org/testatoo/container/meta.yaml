@@ -1,0 +1,107 @@
+artifacts:
+  testatoo-container:
+    lastUpdated: 20121127171122
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 1.0-rc1
+      - 1.0-rc2
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+      - 1.0.0
+      - 1.1.ga
+      - 2.0.ga
+      - 2.1.ga
+  testatoo-container-core:
+    lastUpdated: 20121127171123
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 1.0-rc1
+      - 1.0-rc2
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+      - 1.0.0
+      - 1.1.ga
+      - 2.0.ga
+      - 2.1.ga
+  testatoo-container-grizzly:
+    lastUpdated: 20120117213620
+    latest: 1.1.ga
+    release: 1.1.ga
+    versions:
+      - 1.0-rc5
+      - 1.0.ga
+      - 1.1.ga
+  testatoo-container-jetty:
+    lastUpdated: 20120117213621
+    latest: 1.1.ga
+    release: 1.1.ga
+    versions:
+      - 1.0-rc1
+      - 1.0-rc2
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+      - 1.0.ga
+      - 1.0.0_7.1.0
+      - 1.1.ga
+  testatoo-container-jetty-full:
+    lastUpdated: 20110712172438
+    latest: 1.0-rc5
+    release: 1.0-rc5
+    versions:
+      - 1.0-rc1
+      - 1.0-rc2
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+  testatoo-container-jetty8:
+    lastUpdated: 20121127171124
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 2.0.ga
+      - 2.1.ga
+  testatoo-container-jetty9:
+    lastUpdated: 20121127171126
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 2.0.ga
+      - 2.1.ga
+  testatoo-container-tomcat:
+    lastUpdated: 20120117213620
+    latest: 1.1.ga
+    release: 1.1.ga
+    versions:
+      - 1.0-rc1
+      - 1.0-rc2
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+      - 1.0.ga
+      - 1.0.0_6.0.18
+      - 1.1.ga
+  testatoo-container-tomcat6:
+    lastUpdated: 20121127171140
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 1.0-rc3
+      - 1.0-rc4
+      - 1.0-rc5
+      - 1.0.ga
+      - 1.1.ga
+      - 2.0.ga
+      - 2.1.ga
+  testatoo-container-tomcat7:
+    lastUpdated: 20121127171144
+    latest: 2.1.ga
+    release: 2.1.ga
+    versions:
+      - 2.0.ga
+      - 2.1.ga
+

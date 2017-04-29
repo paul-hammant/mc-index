@@ -1,0 +1,349 @@
+artifacts:
+  wunderboss:
+    lastUpdated: 20160627140225
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-artemis:
+    lastUpdated: 20160308161632
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  wunderboss-caching:
+    lastUpdated: 20160627140225
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-caching-ispan5:
+    lastUpdated: 20160627140226
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-caching-ispan6:
+    lastUpdated: 20160627140227
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-caching-ispan8:
+    lastUpdated: 20160627140227
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-clojure:
+    lastUpdated: 20160627140228
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-core:
+    lastUpdated: 20160627140229
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-messaging:
+    lastUpdated: 20160627140229
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-messaging-hornetq:
+    lastUpdated: 20160627140230
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-modules:
+    lastUpdated: 20150901145532
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+  wunderboss-ruby:
+    lastUpdated: 20160627140231
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-scheduling:
+    lastUpdated: 20160627140232
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-transactions:
+    lastUpdated: 20160627140232
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-web:
+    lastUpdated: 20160627140233
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-web-undertow:
+    lastUpdated: 20160627140234
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly:
+    lastUpdated: 20160627140234
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-caching:
+    lastUpdated: 20160627140235
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-core:
+    lastUpdated: 20160627140236
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-messaging:
+    lastUpdated: 20160627140236
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-parent:
+    lastUpdated: 20160627140236
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-singletons:
+    lastUpdated: 20160627140236
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+  wunderboss-wildfly-transactions:
+    lastUpdated: 20160627140237
+    latest: 0.12.2
+    release: 0.12.2
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+

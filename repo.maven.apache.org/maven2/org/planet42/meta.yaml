@@ -1,0 +1,71 @@
+artifacts:
+  laika-core_2.10:
+    lastUpdated: 20170417140405
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  laika-core_2.11:
+    lastUpdated: 20170417140406
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  laika-core_2.12:
+    lastUpdated: 20170417140407
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  laika-pdf_2.10:
+    lastUpdated: 20170417140408
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  laika-pdf_2.11:
+    lastUpdated: 20170417140409
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  laika-pdf_2.12:
+    lastUpdated: 20170417140409
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  laika_2.10:
+    lastUpdated: 20131122160911
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  laika_2.9.2:
+    lastUpdated: 20131122160912
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  laika_2.9.3:
+    lastUpdated: 20131122160912
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+

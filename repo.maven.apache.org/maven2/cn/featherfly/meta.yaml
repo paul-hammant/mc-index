@@ -1,0 +1,174 @@
+artifacts:
+  bccs-api:
+    lastUpdated: 20150908104453
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  featherfly-algorithm:
+    lastUpdated: 20150617045833
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  featherfly-common:
+    lastUpdated: 20170419080135
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.4.3
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+  featherfly-common-bean-javassist:
+    lastUpdated: 20150617055433
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  featherfly-configuration-api:
+    lastUpdated: 20160323034403
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  featherfly-configuration-dynamic:
+    lastUpdated: 20160323034403
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  featherfly-constant-core:
+    lastUpdated: 20170419111100
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  featherfly-constant-spring:
+    lastUpdated: 20170419103942
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  featherfly-conversion:
+    lastUpdated: 20170413032227
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  featherfly-conversion-jdk8:
+    lastUpdated: 20170413035430
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  featherfly-data-office:
+    lastUpdated: 20170419084932
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  featherfly-db:
+    lastUpdated: 20150826045227
+    latest: 1.4.9
+    release: 1.4.9
+    versions:
+      - 1.4.8
+      - 1.4.9
+  featherfly-net:
+    lastUpdated: 20150930122031
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+  featherfly-permission:
+    lastUpdated: 20161208032329
+    latest: 0.1.10
+    release: 0.1.10
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.8
+      - 0.1.9
+      - 0.1.10
+  featherfly-persistence:
+    lastUpdated: 20150617063537
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  featherfly-persistence-jdbc:
+    lastUpdated: 20160805074816
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.2.11
+      - 1.2.12
+      - 1.2.13
+      - 1.2.14
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  featherfly-sorm:
+    lastUpdated: 20160811090614
+    latest: 1.3.8
+    release: 1.3.8
+    versions:
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.3.8
+  featherfly-web:
+    lastUpdated: 20160801063912
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  featherfly-web-springmvc:
+    lastUpdated: 20170420095820
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.1.5
+      - 0.1.7
+      - 0.1.8
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  location-lookup:
+    lastUpdated: 20170412091216
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

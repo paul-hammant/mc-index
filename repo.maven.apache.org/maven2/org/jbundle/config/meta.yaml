@@ -1,0 +1,123 @@
+artifacts:
+  jbundle-artifacts:
+    lastUpdated: 20150103130857
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.3.0
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.3.8
+      - 1.4.0
+  jbundle-config-reactor:
+    lastUpdated: 20150103014027
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.7
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  jbundle-obr:
+    lastUpdated: 20150103014027
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  jbundle-parent:
+    lastUpdated: 20150103013706
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 0.7.1
+      - 0.7.2
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.0
+  jbundle-project:
+    lastUpdated: 20150103014028
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.7
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+  org.jbundle.base.model:
+    lastUpdated: 20130710081340
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.jbundle.base.screen.view.xml:
+    lastUpdated: 20130710081340
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.jbundle.config.archetype:
+    lastUpdated: 20110913062130
+    latest: 0.7.8
+    release: 0.7.8
+    versions:
+      - 0.7.7
+      - 0.7.8
+  org.jbundle.res.data:
+    lastUpdated: 20130710081341
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.jbundle.res.docs.help:
+    lastUpdated: 20130710081341
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.jbundle.res.docs.styles.xsl:
+    lastUpdated: 20130716073220
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+

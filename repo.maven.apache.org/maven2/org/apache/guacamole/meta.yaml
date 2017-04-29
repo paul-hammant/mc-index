@@ -1,0 +1,23 @@
+artifacts:
+  guacamole-common:
+    lastUpdated: 20161231042601
+    latest: 0.9.10-incubating
+    release: 0.9.10-incubating
+    versions:
+      - 0.9.10-incubating
+  guacamole-common-js:
+    lastUpdated: 20170401181908
+    latest: 0.9.12-incubating
+    release: 0.9.12-incubating
+    versions:
+      - 0.9.10-incubating
+      - 0.9.12-incubating
+  guacamole-ext:
+    lastUpdated: 20170401181908
+    latest: 0.9.12-incubating
+    release: 0.9.12-incubating
+    versions:
+      - 0.9.10-incubating
+      - 0.9.11-incubating
+      - 0.9.12-incubating
+

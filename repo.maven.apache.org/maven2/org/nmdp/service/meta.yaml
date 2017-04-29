@@ -1,0 +1,27 @@
+artifacts:
+  common-dropwizard:
+    lastUpdated: 20160804163817
+    latest: 3
+    release: 3
+    versions:
+      - 0.0.1-RC1
+      - 1.0
+      - 2
+      - 3
+  common-service:
+    lastUpdated: 20160213190258
+    latest: 2
+    release: 2
+    versions:
+      - 0.0.1-RC1
+      - 1.0
+      - 2
+  service-parent:
+    lastUpdated: 20160207230245
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 2
+      - 3
+

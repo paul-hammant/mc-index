@@ -1,0 +1,36 @@
+artifacts:
+  core_2.10:
+    lastUpdated: 20170315212334
+    latest: 1.2.42-scalaz-7.2
+    release: 1.2.42-scalaz-7.2
+    versions:
+      - 1.1.37
+      - 1.1.38
+      - 1.1.39
+      - 1.2.40-scalaz-7.1
+      - 1.2.40-scalaz-7.2
+      - 1.2.41-scalaz-7.1
+      - 1.2.42-scalaz-7.1
+      - 1.2.42-scalaz-7.2
+  core_2.11:
+    lastUpdated: 20170315212344
+    latest: 1.2.42-scalaz-7.2
+    release: 1.2.42-scalaz-7.2
+    versions:
+      - 1.1.37
+      - 1.1.39
+      - 1.2.40-scalaz-7.1
+      - 1.2.40-scalaz-7.2
+      - 1.2.41-scalaz-7.1
+      - 1.2.42-scalaz-7.1
+      - 1.2.42-scalaz-7.2
+  core_2.12:
+    lastUpdated: 20170315212553
+    latest: 1.2.42-scalaz-7.2
+    release: 1.2.42-scalaz-7.2
+    versions:
+      - 1.2.40-scalaz-7.1
+      - 1.2.40-scalaz-7.2
+      - 1.2.42-scalaz-7.1
+      - 1.2.42-scalaz-7.2
+

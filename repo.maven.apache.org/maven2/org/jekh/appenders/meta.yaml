@@ -1,0 +1,38 @@
+artifacts:
+  redis-appender:
+    lastUpdated: 20160930022225
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  redis-appender-core:
+    lastUpdated: 20160930022226
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  redis-appender-jboss:
+    lastUpdated: 20160930022226
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  redis-appender-jul:
+    lastUpdated: 20160930022226
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  redis-appender-log4j:
+    lastUpdated: 20160930022226
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  redis-appender-logback:
+    lastUpdated: 20160930022227
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+

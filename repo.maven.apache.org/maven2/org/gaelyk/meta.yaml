@@ -1,0 +1,99 @@
+artifacts:
+  gaelyk:
+    lastUpdated: 20150604082609
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1-alpha0
+      - 2.1-alpha1
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+  gaelyk-bootstrap-resources:
+    lastUpdated: 20160514040838
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.0.3
+      - 2.2.0
+      - 2.0
+  gaelyk-console:
+    lastUpdated: 20160514075928
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0
+      - 2.2.0
+      - 2.0
+  gaelyk-datastore-viewer:
+    lastUpdated: 20130516214910
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  gaelyk-functional-test:
+    lastUpdated: 20121202160103
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  gaelyk-functional-test-datastore-builder:
+    lastUpdated: 20121202160105
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  gaelyk-guice-plugin:
+    lastUpdated: 20121014090329
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  gaelyk-remote:
+    lastUpdated: 20120908211933
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  gaelyk-resources:
+    lastUpdated: 20160514034620
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 0.1.1
+      - 2.0
+      - 2.2.0
+      - 2.0
+  gaelyk-spock:
+    lastUpdated: 20160512085753
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.3
+      - 0.3.0.1
+      - 0.3.0.2
+      - 0.3.1
+      - 0.4
+      - 0.5
+      - 0.3
+      - 0.4
+      - 0.5
+

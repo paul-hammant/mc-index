@@ -1,0 +1,576 @@
+artifacts:
+  ca:
+    lastUpdated: 20160202075947
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  caj:
+    lastUpdated: 20150331124336
+    latest: 1.1.15
+    release: 1.1.15
+    versions:
+      - 1.1.5
+      - 1.1.5b
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.11
+      - 1.1.12
+      - 1.1.13
+      - 1.1.14
+      - 1.1.15
+  epics-core:
+    lastUpdated: 20160918205029
+    latest: 4.6.0-pre1
+    release: 4.6.0-pre1
+    versions:
+      - 4.6.0-rc1
+      - 4.6.0
+      - 4.6.0-pre1
+  epics-deploy:
+    lastUpdated: 20160918205029
+    latest: 4.6.0-pre1
+    release: 4.6.0-pre1
+    versions:
+      - 4.6.0-rc1
+      - 4.6.0
+      - 4.6.0-pre1
+  epics-ntypes:
+    lastUpdated: 20160918205029
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+  epics-parent:
+    lastUpdated: 20160918205030
+    latest: 4.6.0-pre1
+    release: 4.6.0-pre1
+    versions:
+      - 4.6.0-rc1
+      - 4.6.0
+      - 4.6.0-pre1
+  epics-pvaccess:
+    lastUpdated: 20160918205030
+    latest: 5.0.2
+    release: 5.0.2
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+  epics-pvaclient:
+    lastUpdated: 20160918205030
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+  epics-pvdata:
+    lastUpdated: 20160918205030
+    latest: 6.0.2
+    release: 6.0.2
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+  epics-pvdatabase:
+    lastUpdated: 20160918205031
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+  epics-util:
+    lastUpdated: 20140731192738
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.2
+  epics-vtype:
+    lastUpdated: 20150202171459
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  graphene:
+    lastUpdated: 20140731200032
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7.0
+      - 0.8.0
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  graphene-all:
+    lastUpdated: 20140731200033
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7.0
+      - 0.8.0
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  graphene-profile:
+    lastUpdated: 20140731200033
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  graphene-rrdtool:
+    lastUpdated: 20140122205101
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+  jca:
+    lastUpdated: 20130301203259
+    latest: 2.3.6
+    release: 2.3.6
+    versions:
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+      - 2.3.6
+  pvmanager:
+    lastUpdated: 20150202171500
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-core:
+    lastUpdated: 20150202171503
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-exec:
+    lastUpdated: 20150202171504
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-extra:
+    lastUpdated: 20150202171523
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-file:
+    lastUpdated: 20150202171528
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-file-json:
+    lastUpdated: 20150202171533
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.8.0
+      - 2.9.0
+  pvmanager-graphene:
+    lastUpdated: 20150202171534
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-integration:
+    lastUpdated: 20150202171535
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-jca:
+    lastUpdated: 20150202171536
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-jdbc:
+    lastUpdated: 20150202171536
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-loc:
+    lastUpdated: 20150202171537
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-pva:
+    lastUpdated: 20150202171538
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-sample:
+    lastUpdated: 20150202171539
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-sim:
+    lastUpdated: 20150202171539
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-sys:
+    lastUpdated: 20150202171540
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-test:
+    lastUpdated: 20150202171540
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-timecache:
+    lastUpdated: 20150202171541
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  pvmanager-vtype:
+    lastUpdated: 20150202171542
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+      - 2.9.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  vtype-json:
+    lastUpdated: 20150202171549
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.8.0
+      - 2.9.0
+  vtype-seds:
+    lastUpdated: 20140808142547
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.7.0
+      - 2.7.1
+

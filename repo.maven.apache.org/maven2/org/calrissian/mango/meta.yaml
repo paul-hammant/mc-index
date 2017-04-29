@@ -1,0 +1,55 @@
+artifacts:
+  mango-accumulo:
+    lastUpdated: 20140429025929
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  mango-core:
+    lastUpdated: 20170307042331
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 2.0.0
+  mango-jms:
+    lastUpdated: 20170307042314
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+  mango-json:
+    lastUpdated: 20170307042332
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 2.0.0
+  mango-parent:
+    lastUpdated: 20170307042332
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 2.0.0
+

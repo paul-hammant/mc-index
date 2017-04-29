@@ -1,0 +1,134 @@
+artifacts:
+  cluster-watchdog:
+    lastUpdated: 20160515112010
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  gateleen-core:
+    lastUpdated: 20160414121354
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-delta:
+    lastUpdated: 20160414121354
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-expansion:
+    lastUpdated: 20160414121355
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-hook:
+    lastUpdated: 20160414121355
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-logging:
+    lastUpdated: 20160414121355
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-monitoring:
+    lastUpdated: 20160414121356
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-packing:
+    lastUpdated: 20160414121356
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-player:
+    lastUpdated: 20160414121357
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-qos:
+    lastUpdated: 20160414121357
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-queue:
+    lastUpdated: 20160414121358
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-routing:
+    lastUpdated: 20160414121359
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-scheduler:
+    lastUpdated: 20160414121359
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-security:
+    lastUpdated: 20160414121400
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-user:
+    lastUpdated: 20160414121400
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  gateleen-validation:
+    lastUpdated: 20160414121401
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  mod-metrics:
+    lastUpdated: 20160413225644
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  redisques:
+    lastUpdated: 20170313161324
+    latest: 2.2.9
+    release: 2.2.9
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.2.2
+      - 2.2.3
+      - 2.2.9
+  rest-mirror:
+    lastUpdated: 20160515114452
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.1
+      - 2.1.3
+  rest-storage:
+    lastUpdated: 20160515115052
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 2.1.0
+      - 2.1.5
+  vertx-redisques:
+    lastUpdated: 20160602101249
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+

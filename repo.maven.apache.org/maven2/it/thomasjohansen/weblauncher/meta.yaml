@@ -1,0 +1,30 @@
+artifacts:
+  jetty-launcher:
+    lastUpdated: 20160305213036
+    latest: 1.0-RC2
+    release: 1.0-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+  tomcat-launcher:
+    lastUpdated: 20160305213037
+    latest: 1.0-RC2
+    release: 1.0-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+  web-launcher:
+    lastUpdated: 20160305213037
+    latest: 1.0-RC2
+    release: 1.0-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+  web-launcher-common:
+    lastUpdated: 20160305213037
+    latest: 1.0-RC2
+    release: 1.0-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+

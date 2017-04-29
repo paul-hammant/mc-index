@@ -1,0 +1,68 @@
+artifacts:
+  create-partition:
+    lastUpdated: 20130520180026
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+  example-vsv-validator:
+    lastUpdated: 20170211041142
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.2.1
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+  hello-world:
+    lastUpdated: 20130520180025
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+  juddi-examples:
+    lastUpdated: 20170211041142
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.1.5
+      - 3.2.0
+      - 3.2.1
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+  simple-browse:
+    lastUpdated: 20130520180026
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+  simple-publish:
+    lastUpdated: 20130520180025
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+  uddiv2-api-bridge-example:
+    lastUpdated: 20170211041143
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+  wsdl2uddi:
+    lastUpdated: 20130520180025
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+

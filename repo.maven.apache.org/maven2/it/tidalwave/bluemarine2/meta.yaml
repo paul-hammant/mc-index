@@ -1,0 +1,651 @@
+artifacts:
+  blueMarine2:
+    lastUpdated: 20161213095352
+    latest: 1.0-ALPHA-11
+    release: 1.0-ALPHA-11
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+  blueMarine2-master:
+    lastUpdated: 20150425200330
+    latest: 1.0-ALPHA-6
+    release: 1.0-ALPHA-6
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+  blueMarine2-modules:
+    lastUpdated: 20161231223252
+    latest: 1.0-ALPHA-13
+    release: 1.0-ALPHA-13
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+  blueMarine2-plugins-modules:
+    lastUpdated: 20170103165208
+    latest: 1.0-ALPHA-14
+    release: 1.0-ALPHA-14
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+  blueMarine2-services-modules:
+    lastUpdated: 20170103165208
+    latest: 1.0-ALPHA-14
+    release: 1.0-ALPHA-14
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+  blueMarine2-upnp-modules:
+    lastUpdated: 20170103165208
+    latest: 1.0-ALPHA-14
+    release: 1.0-ALPHA-14
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+  bluemarine2-application-javafx-linux:
+    lastUpdated: 20170220111947
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  bluemarine2-application-javafx-linux-armv6-embedded-jre:
+    lastUpdated: 20170220111947
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  bluemarine2-application-javafx-linux-armv6-embedded-jre-deb:
+    lastUpdated: 20170220111950
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-20
+  bluemarine2-application-javafx-linux-deb:
+    lastUpdated: 20170220111950
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-20
+  bluemarine2-application-javafx-macosx-embedded-jre:
+    lastUpdated: 20170220111951
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  bluemarine2-installers:
+    lastUpdated: 20170220111952
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  bluemarine2-linux:
+    lastUpdated: 20160503192128
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  bluemarine2-linux-armv6-embedded-jre:
+    lastUpdated: 20160503192129
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  bluemarine2-macosx-embedded-jre:
+    lastUpdated: 20160503192132
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  bluemarine2-service:
+    lastUpdated: 20170220111953
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  bluemarine2-service-linux:
+    lastUpdated: 20170220111953
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-application-javafx:
+    lastUpdated: 20170220111954
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-catalog:
+    lastUpdated: 20170220111954
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-cecnavigationadapter:
+    lastUpdated: 20170220111955
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-commons:
+    lastUpdated: 20170220111955
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-commons-test:
+    lastUpdated: 20170220111955
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-downloader:
+    lastUpdated: 20170220111955
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-headlessservice:
+    lastUpdated: 20170220111956
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-initializer:
+    lastUpdated: 20170220111956
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-mediascanner:
+    lastUpdated: 20170220111957
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-mediaserver:
+    lastUpdated: 20170220111957
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-metadata-musicbrainz:
+    lastUpdated: 20170220111958
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-model:
+    lastUpdated: 20170220111958
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-musicbrainz:
+    lastUpdated: 20161218153158
+    latest: 1.0-ALPHA-12
+    release: 1.0-ALPHA-12
+    versions:
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+  it-tidalwave-bluemarine2-musicbrainz-datamodel:
+    lastUpdated: 20170220111959
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-persistence:
+    lastUpdated: 20170220112000
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-rest:
+    lastUpdated: 20170220112000
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-service:
+    lastUpdated: 20161231223302
+    latest: 1.0-ALPHA-13
+    release: 1.0-ALPHA-13
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+  it-tidalwave-bluemarine2-services-stoppingdown:
+    lastUpdated: 20170220112001
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-ui:
+    lastUpdated: 20170220112001
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-ui-javafx:
+    lastUpdated: 20170220112002
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-upnp-mediaserver:
+    lastUpdated: 20170220112002
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-bluemarine2-vocabulary:
+    lastUpdated: 20170220112003
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-cec:
+    lastUpdated: 20170220112003
+    latest: 1.0-ALPHA-20
+    release: 1.0-ALPHA-20
+    versions:
+      - 1.0-ALPHA-2
+      - 1.0-ALPHA-3
+      - 1.0-ALPHA-4
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+      - 1.0-ALPHA-10
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.0-ALPHA-13
+      - 1.0-ALPHA-14
+      - 1.0-ALPHA-15
+      - 1.0-ALPHA-16
+      - 1.0-ALPHA-17
+      - 1.0-ALPHA-18
+      - 1.0-ALPHA-19
+      - 1.0-ALPHA-20
+  it-tidalwave-role-ui-javafxsupplements:
+    lastUpdated: 20161211133015
+    latest: 1.0-ALPHA-10
+    release: 1.0-ALPHA-10
+    versions:
+      - 1.0-ALPHA-10
+  testsets-expected-metadata-iTunes-fg-20160504-1:
+    lastUpdated: 20161212232353
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+

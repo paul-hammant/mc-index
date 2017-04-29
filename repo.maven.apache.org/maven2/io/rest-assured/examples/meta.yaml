@@ -1,0 +1,50 @@
+artifacts:
+  example-parent:
+    lastUpdated: 20170120121235
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  rest-assured-itest-java:
+    lastUpdated: 20170120121235
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  scala-example:
+    lastUpdated: 20170120121235
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  scala-mock-mvc-example:
+    lastUpdated: 20170120121236
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  scalatra-webapp:
+    lastUpdated: 20170120121237
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  spring-mvc-webapp:
+    lastUpdated: 20170120121238
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+

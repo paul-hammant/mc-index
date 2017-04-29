@@ -1,0 +1,504 @@
+artifacts:
+  togglz-amazon-s3:
+    lastUpdated: 20170308133943
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-appengine:
+    lastUpdated: 20170308133944
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-archaius:
+    lastUpdated: 20170308133944
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-cassandra:
+    lastUpdated: 20170308133944
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-cdi:
+    lastUpdated: 20170308133945
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-cloud-datastore:
+    lastUpdated: 20170308133945
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-console:
+    lastUpdated: 20170308133945
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-core:
+    lastUpdated: 20170308133945
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-deltaspike:
+    lastUpdated: 20170308133946
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-distribution:
+    lastUpdated: 20170308133946
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-dynamodb:
+    lastUpdated: 20170308133946
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-guice:
+    lastUpdated: 20170308133947
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-hazelcast:
+    lastUpdated: 20170308133947
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-jsf:
+    lastUpdated: 20170308133947
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-jsp:
+    lastUpdated: 20170308133947
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-junit:
+    lastUpdated: 20170308133948
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-mongodb:
+    lastUpdated: 20170308133948
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-project:
+    lastUpdated: 20170308133948
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-seam-security:
+    lastUpdated: 20150728043626
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+  togglz-servlet:
+    lastUpdated: 20170308133948
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-shiro:
+    lastUpdated: 20170308133949
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-slack:
+    lastUpdated: 20170308133949
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-slf4j:
+    lastUpdated: 20170308133949
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-spring:
+    lastUpdated: 20141229082630
+    latest: 2.1.0.Final
+    release: 2.1.0.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+  togglz-spring-boot-starter:
+    lastUpdated: 20170308133949
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-spring-core:
+    lastUpdated: 20170308133950
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-spring-mobile:
+    lastUpdated: 20170308133950
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-spring-security:
+    lastUpdated: 20170308133950
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-spring-web:
+    lastUpdated: 20170308133951
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-test-harness:
+    lastUpdated: 20170308133951
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-testing:
+    lastUpdated: 20170308133951
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.RC1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.1.0.Final
+      - 2.2.0.Final
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+  togglz-zookeeper:
+    lastUpdated: 20170308133952
+    latest: 2.4.1.Final
+    release: 2.4.1.Final
+    versions:
+      - 2.3.0.RC2
+      - 2.3.0.Final
+      - 2.4.0.RC1
+      - 2.4.0.Final
+      - 2.4.1.Final
+

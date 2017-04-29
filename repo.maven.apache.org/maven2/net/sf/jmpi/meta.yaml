@@ -1,0 +1,68 @@
+artifacts:
+  jmpi-main:
+    lastUpdated: 20150422050938
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+  jmpi-solver-cplex:
+    lastUpdated: 20150422050939
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+  jmpi-solver-gurobi:
+    lastUpdated: 20150422050939
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+  jmpi-solver-mosek:
+    lastUpdated: 20150422050940
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+  jmpi-solver-sat4j:
+    lastUpdated: 20150422050940
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+  jmpi-solver-xpress:
+    lastUpdated: 20150422050941
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.4
+      - 0.5
+      - 0.6
+

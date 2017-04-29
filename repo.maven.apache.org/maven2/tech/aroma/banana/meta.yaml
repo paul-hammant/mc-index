@@ -1,0 +1,60 @@
+artifacts:
+  authentication-service:
+    lastUpdated: 20151224054812
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  banana:
+    lastUpdated: 20160217182149
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  banana-application-service:
+    lastUpdated: 20160222203834
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  banana-authentication-service:
+    lastUpdated: 20160222200821
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  banana-data-operations:
+    lastUpdated: 20160218183241
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  banana-java-client:
+    lastUpdated: 20160222194319
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  banana-service:
+    lastUpdated: 20160222212438
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  banana-thrift:
+    lastUpdated: 20160217192259
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+

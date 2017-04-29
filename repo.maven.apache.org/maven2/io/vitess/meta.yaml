@@ -1,0 +1,38 @@
+artifacts:
+  vitess-client:
+    lastUpdated: 20170412042729
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+  vitess-example:
+    lastUpdated: 20170412042729
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+  vitess-grpc-client:
+    lastUpdated: 20170412042730
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+  vitess-hadoop:
+    lastUpdated: 20170412042730
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+  vitess-jdbc:
+    lastUpdated: 20170412042731
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+  vitess-parent:
+    lastUpdated: 20170412042731
+    latest: 2.1.0-rc.1
+    release: 2.1.0-rc.1
+    versions:
+      - 2.1.0-rc.1
+

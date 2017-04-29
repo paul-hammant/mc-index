@@ -1,0 +1,110 @@
+artifacts:
+  org.eclipse.scada.protocol.arduino:
+    lastUpdated: 20160929114117
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.protocol.common:
+    lastUpdated: 20160929114117
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.dave:
+    lastUpdated: 20160929114118
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.iso8073:
+    lastUpdated: 20160929114119
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.modbus:
+    lastUpdated: 20160929114119
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.protocol.ngp.common:
+    lastUpdated: 20160929114120
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.protocol.ngp.generator:
+    lastUpdated: 20160929114120
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.protocol.ngp.generator.ui:
+    lastUpdated: 20160929114120
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.protocol.ngp.model:
+    lastUpdated: 20160929114121
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.protocol.ngp.model.edit:
+    lastUpdated: 20160929114121
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.protocol.ngp.model.editor:
+    lastUpdated: 20160929114122
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.protocol.relp:
+    lastUpdated: 20160929114122
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.relp.service:
+    lastUpdated: 20160929114123
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.relp.service.main:
+    lastUpdated: 20160929114124
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.syslog:
+    lastUpdated: 20160929114124
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.tkpt:
+    lastUpdated: 20160929114125
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.utils:
+    lastUpdated: 20160929114125
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocols:
+    lastUpdated: 20160929114126
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

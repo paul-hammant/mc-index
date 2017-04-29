@@ -1,0 +1,84 @@
+artifacts:
+  all:
+    lastUpdated: 20170128220140
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  annotations:
+    lastUpdated: 20170128165750
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+  api:
+    lastUpdated: 20160120180848
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  client:
+    lastUpdated: 20170127192020
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  core:
+    lastUpdated: 20170127172954
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.2
+      - 2.0.3
+  discriminator:
+    lastUpdated: 20170125042527
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+  json2json:
+    lastUpdated: 20140808020603
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  metadata:
+    lastUpdated: 20170126192231
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+  pycaller:
+    lastUpdated: 20140818213618
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  serialization:
+    lastUpdated: 20170125223820
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  vocabulary:
+    lastUpdated: 20170125194218
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+

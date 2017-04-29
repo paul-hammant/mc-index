@@ -1,0 +1,63 @@
+artifacts:
+  aws-gateway-executor:
+    lastUpdated: 20160128144108
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  fluent-r:
+    lastUpdated: 20151001215125
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  lambda-spark-executor_2.10:
+    lastUpdated: 20160128205057
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  opencpu-r-executor:
+    lastUpdated: 20160101214700
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  opencpu-spark-executor_2.10:
+    lastUpdated: 20160105162925
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  renjin-r-executor:
+    lastUpdated: 20160115214735
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  renjin-spark-executor_2.10:
+    lastUpdated: 20160116193758
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

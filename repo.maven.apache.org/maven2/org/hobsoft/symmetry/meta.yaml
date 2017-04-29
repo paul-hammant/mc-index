@@ -1,0 +1,204 @@
+artifacts:
+  symmetry-api:
+    lastUpdated: 20121229160400
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-core:
+    lastUpdated: 20121229160401
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-integration-parent:
+    lastUpdated: 20121229160401
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-jax-rs:
+    lastUpdated: 20121229160402
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-parent:
+    lastUpdated: 20121229160402
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-support-bean:
+    lastUpdated: 20121229160402
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-support-codec:
+    lastUpdated: 20121229160403
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-support-io:
+    lastUpdated: 20121229160403
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  symmetry-support-parent:
+    lastUpdated: 20121229160404
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-support-test:
+    lastUpdated: 20121229160404
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-support-xml:
+    lastUpdated: 20121229160405
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-swing:
+    lastUpdated: 20121229160405
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-test-support:
+    lastUpdated: 20121229160406
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui:
+    lastUpdated: 20121229160406
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-adapters:
+    lastUpdated: 20121229160407
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-binding:
+    lastUpdated: 20121229160407
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-common:
+    lastUpdated: 20121229160408
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-common-test-support:
+    lastUpdated: 20121229160409
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-html:
+    lastUpdated: 20121229160409
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-html-test-support:
+    lastUpdated: 20121229160410
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-parent:
+    lastUpdated: 20121229160410
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-swing:
+    lastUpdated: 20121229160411
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-test:
+    lastUpdated: 20121229160412
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-test-support:
+    lastUpdated: 20121229160412
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-xml-test-support:
+    lastUpdated: 20121229160412
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-ui-xul:
+    lastUpdated: 20121229160413
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-web:
+    lastUpdated: 20121229160414
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-xml:
+    lastUpdated: 20121229160414
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+  symmetry-xml-test-support:
+    lastUpdated: 20121229160415
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+

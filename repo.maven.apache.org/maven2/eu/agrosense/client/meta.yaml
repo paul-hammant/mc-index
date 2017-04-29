@@ -1,0 +1,501 @@
+artifacts:
+  activity:
+    lastUpdated: 20140706083602
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  activityfield:
+    lastUpdated: 20140706083603
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  agent:
+    lastUpdated: 20140706083604
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  branding:
+    lastUpdated: 20140706083604
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  building:
+    lastUpdated: 20140706083605
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  crop:
+    lastUpdated: 20140706083605
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  crop-javafx:
+    lastUpdated: 20140706083606
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  crop-nb:
+    lastUpdated: 20140706083606
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  customer:
+    lastUpdated: 20140706083607
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  env-check:
+    lastUpdated: 20140706083607
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  farm:
+    lastUpdated: 20140706083608
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  field:
+    lastUpdated: 20140706083608
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  field-soilsample-type:
+    lastUpdated: 20130415213516
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.03-beta
+  fleet:
+    lastUpdated: 20140706083609
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  fleet-implement:
+    lastUpdated: 20140706083609
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  fleet-machine:
+    lastUpdated: 20140706083610
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  fleet-vehicle:
+    lastUpdated: 20140706083611
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  geotiff:
+    lastUpdated: 20130415213518
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  grid:
+    lastUpdated: 20130304122908
+    latest: 13.01-beta
+    release: 13.01-beta
+    versions:
+      - 13.01-beta
+  grid-api:
+    lastUpdated: 20130415213520
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  import:
+    lastUpdated: 20140706083611
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io:
+    lastUpdated: 20140706083611
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io-csv:
+    lastUpdated: 20140706083612
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io-dbf:
+    lastUpdated: 20140706083612
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io-esri-shape:
+    lastUpdated: 20140706083613
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io-geotiff:
+    lastUpdated: 20140706083613
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  io-shape:
+    lastUpdated: 20140706083614
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  lib-dolphin:
+    lastUpdated: 20151130135545
+    latest: 1.0-RC1-NB80
+    release: 1.0-RC1-NB80
+    versions:
+      - 0.7-NB72
+      - 0.8-NB72
+      - 0.8.1-NB72
+      - 0.8.2-NB72
+      - 0.8.3-NB72
+      - 0.8.3-NB80
+      - 0.8.4-NB80
+      - 0.11-NB80
+      - 1.0-RC1-NB80
+  lib-geotools:
+    lastUpdated: 20141123130258
+    latest: 10.3-NB80
+    release: 10.3-NB80
+    versions:
+      - 10.0-NB72
+      - 10.1-NB72
+      - 10.2-NB72
+      - 10.2-NB80
+      - 10.3-NB80
+  lib-javafx:
+    lastUpdated: 20131013190624
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 2.2.4-NB72
+      - 2.2.7-NB72
+      - 2.2.8-NB72
+      - 2.2.9-NB72
+      - 13.02-beta
+      - 13.03-beta
+  lib-jfxtras:
+    lastUpdated: 20141123132344
+    latest: 8.0.1-r3-NB80
+    release: 8.0.1-r3-NB80
+    versions:
+      - 2.2-r4-NB72
+      - 2.2-r4-1-NB72
+      - 8.0-r3-NB80
+      - 8.0.1-r3-NB80
+  lib-miglayout:
+    lastUpdated: 20141123132829
+    latest: 4.2.4-NB80
+    release: 4.2.4-NB80
+    versions:
+      - 4.2-NB72
+      - 4.2.1-NB72
+      - 4.2.2-NB72
+      - 4.2.3-NB72
+      - 4.2.3-NB80
+      - 4.2.4-NB80
+  lib-slf4j-api:
+    lastUpdated: 20141123133837
+    latest: 1.7.7-NB80
+    release: 1.7.7-NB80
+    versions:
+      - 1.7.5-NB72
+      - 1.7.6-NB80
+      - 1.7.7-NB80
+  lib-slf4j-jdk14:
+    lastUpdated: 20141123134346
+    latest: 1.7.7-NB80
+    release: 1.7.7-NB80
+    versions:
+      - 1.7.5-NB72
+      - 1.7.6-NB80
+      - 1.7.7-NB80
+  lib-slf4j-simple:
+    lastUpdated: 20141123134750
+    latest: 1.7.7-NB80
+    release: 1.7.7-NB80
+    versions:
+      - 1.7.5-NB72
+      - 1.7.6-NB80
+      - 1.7.7-NB80
+  lib-xml:
+    lastUpdated: 20141107131422
+    latest: 1.4.02-NB80
+    release: 1.4.02-NB80
+    versions:
+      - 1.4.02-NB72
+      - 1.4.02-NB80
+  logging:
+    lastUpdated: 20140706083615
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  mapping:
+    lastUpdated: 20140706083615
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  menu:
+    lastUpdated: 20140706083616
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  model:
+    lastUpdated: 20140706083617
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  observation:
+    lastUpdated: 20140706083617
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  operation:
+    lastUpdated: 20140706083618
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  parent:
+    lastUpdated: 20140706083618
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  platform:
+    lastUpdated: 20140525140628
+    latest: 14.04-beta
+    release: 14.04-beta
+    versions:
+      - 14.04-beta
+  productionunit:
+    lastUpdated: 20140706083619
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  productionunit-javafx:
+    lastUpdated: 20140706083619
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  productionunit-nb:
+    lastUpdated: 20140706083619
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  sensor:
+    lastUpdated: 20140706083620
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  task:
+    lastUpdated: 20140706083621
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  treatmentzone:
+    lastUpdated: 20140706083621
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  uc-core:
+    lastUpdated: 20140706083622
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  util:
+    lastUpdated: 20140706083622
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  util-javafx:
+    lastUpdated: 20140706083623
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  util-swing:
+    lastUpdated: 20140706083623
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  welcome:
+    lastUpdated: 20140706083624
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  worker:
+    lastUpdated: 20140706083624
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.01-beta
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+

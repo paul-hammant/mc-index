@@ -1,0 +1,76 @@
+artifacts:
+  commons-asic:
+    lastUpdated: 20160407122745
+    latest: 0.9.2
+    release: 0.9.2
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+  commons-bdx:
+    lastUpdated: 20170323151319
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  commons-busdox:
+    lastUpdated: 20170323151319
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  commons-certvalidator:
+    lastUpdated: 20170226080647
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+  commons-datahotel:
+    lastUpdated: 20151101205541
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  commons-parent:
+    lastUpdated: 20170323151319
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  commons-sbdh:
+    lastUpdated: 20170323151319
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.4
+      - 0.9.5
+  commons-schematron:
+    lastUpdated: 20170323151319
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+  commons-ubl21:
+    lastUpdated: 20170323151320
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0
+      - 0.9.4
+      - 0.9.5
+

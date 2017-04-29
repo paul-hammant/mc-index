@@ -1,0 +1,62 @@
+artifacts:
+  generic-bean-tests:
+    lastUpdated: 20140424153148
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  thymeleaf-bean:
+    lastUpdated: 20150219205314
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  thymeleaf-extras:
+    lastUpdated: 20170327103916
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0
+      - 2.0.1
+      - 1.0
+  thymeleaf-tdd:
+    lastUpdated: 20150219211651
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  thymeleaf-tdd-spring4:
+    lastUpdated: 20150219210936
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  thymesheet:
+    lastUpdated: 20170327113131
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.0-beta2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+  thymesheet-spring3:
+    lastUpdated: 20140623145902
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0-beta2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  thymesheet-spring4:
+    lastUpdated: 20150219212250
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.2
+

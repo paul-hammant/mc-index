@@ -1,0 +1,542 @@
+artifacts:
+  archetypes:
+    lastUpdated: 20150607181546
+    latest: 1.0.0.M9
+    release: 1.0.0.M9
+    versions:
+      - 1.0.0.M9
+  blueprints:
+    lastUpdated: 20151220123249
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  framework:
+    lastUpdated: 20151220123249
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  generation:
+    lastUpdated: 20151220123249
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  java-generation:
+    lastUpdated: 20151220123250
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  java-generation-ocl:
+    lastUpdated: 20151220123250
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  java-generation-util:
+    lastUpdated: 20151220123251
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  java-metamodel:
+    lastUpdated: 20151220123251
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  ocl:
+    lastUpdated: 20151220123251
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  restlet:
+    lastUpdated: 20151220123252
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime:
+    lastUpdated: 20151220123252
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-domain:
+    lastUpdated: 20151220123252
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-domain-sqlg:
+    lastUpdated: 20151220123253
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-groovy:
+    lastUpdated: 20151220123253
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-jetty:
+    lastUpdated: 20151220123253
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-jetty-websocket:
+    lastUpdated: 20151220123254
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-jetty-websocket-client:
+    lastUpdated: 20151220123254
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-restlet:
+    lastUpdated: 20151220123254
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-restlet-client:
+    lastUpdated: 20151220123255
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-servlet:
+    lastUpdated: 20151220123255
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-test:
+    lastUpdated: 20151220123256
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-test-restlet:
+    lastUpdated: 20151220123256
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-test-sqlg:
+    lastUpdated: 20151220123256
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-ui:
+    lastUpdated: 20151220123257
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  runtime-uml:
+    lastUpdated: 20151220123257
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  sqlg:
+    lastUpdated: 20161130133957
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M6
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-benchmark:
+    lastUpdated: 20161130133957
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-benchmark-h2:
+    lastUpdated: 20161130133958
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-benchmark-hsqldb:
+    lastUpdated: 20161130133958
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-benchmark-postgres:
+    lastUpdated: 20161130133958
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-core:
+    lastUpdated: 20161130133959
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M6
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-h2:
+    lastUpdated: 20161130133959
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-h2-dialect:
+    lastUpdated: 20161130133959
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-h2-parent:
+    lastUpdated: 20161130133959
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-hsqldb:
+    lastUpdated: 20161130134000
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M6
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-hsqldb-dialect:
+    lastUpdated: 20161130134000
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-hsqldb-parent:
+    lastUpdated: 20161130134000
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-postgres:
+    lastUpdated: 20161130134000
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M6
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-postgres-dialect:
+    lastUpdated: 20161130134000
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-postgres-parent:
+    lastUpdated: 20161130134001
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  sqlg-test:
+    lastUpdated: 20161130134001
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M6
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  test:
+    lastUpdated: 20151220123300
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  test-generation:
+    lastUpdated: 20151220123301
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  test-restlet:
+    lastUpdated: 20151208143655
+    latest: 1.1.0.RC1
+    release: 1.1.0.RC1
+    versions:
+      - 1.1.0.RC1
+  uml:
+    lastUpdated: 20151220123301
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg:
+    lastUpdated: 20151220123301
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.0.0.M9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-archetype:
+    lastUpdated: 20150615184023
+    latest: 0.0.1-SNAPSHOT
+    release:
+    versions:
+      - 0.0.1-SNAPSHOT
+  umlg-test-basic:
+    lastUpdated: 20151220123301
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-test-blueprints:
+    lastUpdated: 20151220123302
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-test-blueprints-tests:
+    lastUpdated: 20151220123302
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-test-ocl:
+    lastUpdated: 20151220123303
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-test-sqlg-blueprints:
+    lastUpdated: 20151220123303
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+  umlg-test-tinkergraph:
+    lastUpdated: 20151220123304
+    latest: 1.1.0.RC2
+    release: 1.1.0.RC2
+    versions:
+      - 1.1.0.RC1
+      - 1.1.0.RC2
+

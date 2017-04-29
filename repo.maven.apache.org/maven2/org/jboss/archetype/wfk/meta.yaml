@@ -1,0 +1,44 @@
+artifacts:
+  jboss-html5-mobile-archetype:
+    lastUpdated: 20150206204717
+    latest: 2.7.0.Final
+    release: 2.7.0.Final
+    versions:
+      - 2.4.0.Final
+      - 2.5.0.Final
+      - 2.6.0.Final
+      - 2.7.0.Final
+  jboss-html5-mobile-blank-archetype:
+    lastUpdated: 20150206204718
+    latest: 2.7.0.Final
+    release: 2.7.0.Final
+    versions:
+      - 2.4.0.Final
+      - 2.5.0.Final
+      - 2.6.0.Final
+      - 2.7.0.Final
+  jboss-spring-mvc-archetype:
+    lastUpdated: 20150206204718
+    latest: 2.7.0.Final
+    release: 2.7.0.Final
+    versions:
+      - 2.5.0.Final
+      - 2.6.0.Final
+      - 2.7.0.Final
+  richfaces-archetype-kitchensink:
+    lastUpdated: 20150206204719
+    latest: 2.7.0.Final
+    release: 2.7.0.Final
+    versions:
+      - 2.5.0.Final
+      - 2.6.0.Final
+      - 2.7.0.Final
+  richfaces-archetype-simpleapp:
+    lastUpdated: 20150206204719
+    latest: 2.7.0.Final
+    release: 2.7.0.Final
+    versions:
+      - 2.5.0.Final
+      - 2.6.0.Final
+      - 2.7.0.Final
+

@@ -1,0 +1,47 @@
+artifacts:
+  cassandra-test-core:
+    lastUpdated: 20160618013055
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  cassandra-test-junit:
+    lastUpdated: 20160618013055
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  cassandra-test-project:
+    lastUpdated: 20160618013056
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  cassandra-test-spring:
+    lastUpdated: 20160618013056
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  cassandra-test-testng:
+    lastUpdated: 20160618013057
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

@@ -1,0 +1,49 @@
+artifacts:
+  gradle-jcpp-plugin:
+    lastUpdated: 20140129091203
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  gradle-sablecc-plugin:
+    lastUpdated: 20170322223024
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+  gradle-stdproject-plugin:
+    lastUpdated: 20170322214525
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  gradle-thrift-plugin:
+    lastUpdated: 20161230213122
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gradle-velocity-plugin:
+    lastUpdated: 20160119214652
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

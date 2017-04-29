@@ -1,0 +1,179 @@
+artifacts:
+  xo.api:
+    lastUpdated: 20170404143906
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.doc:
+    lastUpdated: 20170404143907
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.impl:
+    lastUpdated: 20170404143907
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.inject:
+    lastUpdated: 20170404143908
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.json:
+    lastUpdated: 20170404143908
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j:
+    lastUpdated: 20170404143909
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.api:
+    lastUpdated: 20170404143910
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.doc:
+    lastUpdated: 20170404143910
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.embedded:
+    lastUpdated: 20170404143911
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.remote:
+    lastUpdated: 20170404143911
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.spi:
+    lastUpdated: 20170404143912
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.neo4j.test:
+    lastUpdated: 20170404143913
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  xo.parent:
+    lastUpdated: 20170404143913
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.spi:
+    lastUpdated: 20170404143913
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+  xo.test:
+    lastUpdated: 20170404143914
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.5
+      - 0.4.6
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+

@@ -1,0 +1,52 @@
+artifacts:
+  sticky-stereotype-component:
+    lastUpdated: 20161128091739
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.1
+      - 2.2
+      - 3.1
+      - 2.1
+      - 2.2
+      - 3.1
+  sticky-stereotype-configured:
+    lastUpdated: 20161128091739
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 3.1
+      - 2.2
+      - 3.1
+  sticky-stereotype-failure:
+    lastUpdated: 20161128091740
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.1
+      - 2.3
+      - 1.1
+      - 2.3
+  sticky-stereotype-primitive:
+    lastUpdated: 20130216110001
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  sticky-stereotype-resource:
+    lastUpdated: 20121014221648
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  sticky-stereotype-scheduled:
+    lastUpdated: 20170316082733
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.2
+      - 3.2
+

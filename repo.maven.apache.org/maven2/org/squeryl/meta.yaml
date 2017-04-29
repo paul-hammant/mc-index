@@ -1,0 +1,179 @@
+artifacts:
+  squeryl_2.10:
+    lastUpdated: 20170313140751
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.5-6
+      - 0.9.5-7
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+      - 0.9.6-RC3
+      - 0.9.6-RC4
+      - 0.9.7
+      - 0.9.8
+  squeryl_2.10.0-M7:
+    lastUpdated: 20120920191219
+    latest: 0.9.5-3
+    release: 0.9.5-3
+    versions:
+      - 0.9.5-3
+  squeryl_2.10.0-RC1:
+    lastUpdated: 20121023020002
+    latest: 0.9.5-4
+    release: 0.9.5-4
+    versions:
+      - 0.9.5-3
+      - 0.9.5-4
+  squeryl_2.10.0-RC2:
+    lastUpdated: 20121106170244
+    latest: 0.9.5-4
+    release: 0.9.5-4
+    versions:
+      - 0.9.5-4
+  squeryl_2.10.0-RC3:
+    lastUpdated: 20121126221223
+    latest: 0.9.5-5
+    release: 0.9.5-5
+    versions:
+      - 0.9.5-5
+  squeryl_2.10.0-RC5:
+    lastUpdated: 20121217191649
+    latest: 0.9.5-5
+    release: 0.9.5-5
+    versions:
+      - 0.9.5-5
+  squeryl_2.11:
+    lastUpdated: 20170313140752
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.5-7
+      - 0.9.6-RC3
+      - 0.9.6-RC4
+      - 0.9.7
+      - 0.9.8
+  squeryl_2.12:
+    lastUpdated: 20170313140752
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.5-7
+      - 0.9.6-RC3
+      - 0.9.7
+      - 0.9.8
+  squeryl_2.12.0-RC1:
+    lastUpdated: 20161001223733
+    latest: 0.9.7
+    release: 0.9.7
+    versions:
+      - 0.9.7
+  squeryl_2.12.0-RC2:
+    lastUpdated: 20161019002920
+    latest: 0.9.7
+    release: 0.9.7
+    versions:
+      - 0.9.7
+  squeryl_2.8.0:
+    lastUpdated: 20121221215919
+    latest: 0.9.5-6
+    release: 0.9.5-6
+    versions:
+      - 0.9.5-RC2
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+  squeryl_2.8.1:
+    lastUpdated: 20121221215919
+    latest: 0.9.5-6
+    release: 0.9.5-6
+    versions:
+      - 0.9.5-RC2
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+  squeryl_2.8.2:
+    lastUpdated: 20121221215920
+    latest: 0.9.5-6
+    release: 0.9.5-6
+    versions:
+      - 0.9.5-5
+      - 0.9.5-6
+  squeryl_2.9.0:
+    lastUpdated: 20140613215100
+    latest: 0.9.6-RC2
+    release: 0.9.6-RC2
+    versions:
+      - 0.9.5-RC2
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+      - 0.9.5-7
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+  squeryl_2.9.0-1:
+    lastUpdated: 20140613215101
+    latest: 0.9.6-RC2
+    release: 0.9.6-RC2
+    versions:
+      - 0.9.5-RC2
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+      - 0.9.5-7
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+  squeryl_2.9.1:
+    lastUpdated: 20140613215102
+    latest: 0.9.6-RC2
+    release: 0.9.6-RC2
+    versions:
+      - 0.9.5-RC2
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+      - 0.9.5-7
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+  squeryl_2.9.2:
+    lastUpdated: 20140613215102
+    latest: 0.9.6-RC2
+    release: 0.9.6-RC2
+    versions:
+      - 0.9.5
+      - 0.9.5-1
+      - 0.9.5-2
+      - 0.9.5-3
+      - 0.9.5-4
+      - 0.9.5-5
+      - 0.9.5-6
+      - 0.9.5-7
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+  squeryl_2.9.3:
+    lastUpdated: 20140613215102
+    latest: 0.9.5-7
+    release: 0.9.5-7
+    versions:
+      - 0.9.5-7
+

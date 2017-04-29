@@ -1,0 +1,2266 @@
+artifacts:
+  address-book-business:
+    lastUpdated: 20170419175855
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-data:
+    lastUpdated: 20170419175855
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-domain:
+    lastUpdated: 20170419175855
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-entities:
+    lastUpdated: 20170419175856
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-init:
+    lastUpdated: 20170419175857
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-rest-api:
+    lastUpdated: 20170419175857
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-rest-client:
+    lastUpdated: 20170419175858
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address-book-rest-web:
+    lastUpdated: 20170419175900
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  address.book:
+    lastUpdated: 20151003124745
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  application.db.modules:
+    lastUpdated: 20151003124122
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  auth-security:
+    lastUpdated: 20170419075428
+    latest: 4.20.0
+    release: 4.20.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+      - 4.20.0
+  authorization-strategy-api:
+    lastUpdated: 20170421180636
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  authorization.strategy.api:
+    lastUpdated: 20170226162428
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  bootstrap-less:
+    lastUpdated: 20151209142501
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  builder:
+    lastUpdated: 20170419090012
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.9.0
+  business-api:
+    lastUpdated: 20170419121533
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.17.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  c10n.interface.generator:
+    lastUpdated: 20151026080833
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+  chat-systems:
+    lastUpdated: 20170421174250
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+  command:
+    lastUpdated: 20170419090013
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.8.0
+      - 4.9.0
+  crypt-core:
+    lastUpdated: 20170419075429
+    latest: 4.20.0
+    release: 4.20.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+      - 4.20.0
+  crypt-data:
+    lastUpdated: 20170419075430
+    latest: 4.20.0
+    release: 4.20.0
+    versions:
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+      - 4.20.0
+  dao.api:
+    lastUpdated: 20151003124122
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.4
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  data-api:
+    lastUpdated: 20170419121534
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.16.0
+      - 3.17.0
+      - 3.18.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  data-initialization:
+    lastUpdated: 20170419121534
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.16.0
+      - 3.17.0
+      - 3.18.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  data-usertype:
+    lastUpdated: 20170419121535
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.16.0
+      - 3.17.0
+      - 3.18.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  dating-system-business:
+    lastUpdated: 20170420160253
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-data:
+    lastUpdated: 20170420160255
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-domain:
+    lastUpdated: 20170420160255
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-entities:
+    lastUpdated: 20170420160256
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-init:
+    lastUpdated: 20170420160256
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-rest-api:
+    lastUpdated: 20170420160256
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-rest-client:
+    lastUpdated: 20170420160257
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating-system-rest-web:
+    lastUpdated: 20170420160259
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  dating.system:
+    lastUpdated: 20150913163313
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  dating.system.client:
+    lastUpdated: 20150913163313
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  db.resource.bundles:
+    lastUpdated: 20151003124123
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  design-patterns:
+    lastUpdated: 20170419090014
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.8.0
+      - 4.9.0
+  domain-api:
+    lastUpdated: 20170419121536
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.10.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.17.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  email-tails:
+    lastUpdated: 20170418181249
+    latest: 4.15.0
+    release: 4.15.0
+    versions:
+      - 4.4.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+  event-system-business:
+    lastUpdated: 20170420162447
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-data:
+    lastUpdated: 20170420162447
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-domain:
+    lastUpdated: 20170420162447
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-entities:
+    lastUpdated: 20170420162448
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-init:
+    lastUpdated: 20170420162448
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-rest-api:
+    lastUpdated: 20170420162448
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-rest-client:
+    lastUpdated: 20170420162449
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  event-system-rest-web:
+    lastUpdated: 20170420162450
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  events.system:
+    lastUpdated: 20150913163314
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  file-worker:
+    lastUpdated: 20170418171110
+    latest: 4.15.0
+    release: 4.15.0
+    versions:
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+  gen-tree:
+    lastUpdated: 20170418135613
+    latest: 4.10.0
+    release: 4.10.0
+    versions:
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+  jaulp-wicket:
+    lastUpdated: 20170421162415
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-annotated-header-contributors:
+    lastUpdated: 20170421162416
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-base:
+    lastUpdated: 20170421162416
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-behaviors:
+    lastUpdated: 20170421162417
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-components:
+    lastUpdated: 20170421162417
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-data-provider:
+    lastUpdated: 20170421162418
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-dialogs:
+    lastUpdated: 20170421162418
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp-wicket-dropdownchoices:
+    lastUpdated: 20170421162418
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  jaulp.collections:
+    lastUpdated: 20151112140711
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.core:
+    lastUpdated: 20151112140711
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.design.patterns:
+    lastUpdated: 20151112140711
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.email:
+    lastUpdated: 20151112140712
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.file:
+    lastUpdated: 20151112140713
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.generic.tree:
+    lastUpdated: 20151112140713
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.lang:
+    lastUpdated: 20151112140714
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.net:
+    lastUpdated: 20151112140714
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.random:
+    lastUpdated: 20150210171807
+    latest: 3.10.0
+    release: 3.10.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+  jaulp.security:
+    lastUpdated: 20150701110322
+    latest: 3.12.0
+    release: 3.12.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+  jaulp.swing:
+    lastUpdated: 20151112140715
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.test.objects:
+    lastUpdated: 20151112140715
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.time:
+    lastUpdated: 20151112140716
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jaulp.wicket:
+    lastUpdated: 20170218113648
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.annotated.header.contributors:
+    lastUpdated: 20170218113649
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.base:
+    lastUpdated: 20170218113649
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.behaviors:
+    lastUpdated: 20170218113649
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.components:
+    lastUpdated: 20170218113650
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.data.provider:
+    lastUpdated: 20170218113650
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.dialogs:
+    lastUpdated: 20170218113650
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.wicket.dropdownchoices:
+    lastUpdated: 20170218113651
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.19.0
+      - 6.20.0
+      - 6.20.1
+      - 6.20.2
+      - 6.20.3
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  jaulp.xml:
+    lastUpdated: 20151112140716
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  jcommons-lang:
+    lastUpdated: 20170418165240
+    latest: 4.19.0
+    release: 4.19.0
+    versions:
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+  jetty-runner:
+    lastUpdated: 20170419112402
+    latest: 3.12.0
+    release: 3.12.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.10.0
+      - 3.12.0
+  jetty-runner-config:
+    lastUpdated: 20170419112403
+    latest: 3.12.0
+    release: 3.12.0
+    versions:
+      - 3.1.0
+      - 3.3.0
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.10.0
+      - 3.12.0
+  jetty-runner-core:
+    lastUpdated: 20170419112403
+    latest: 3.12.0
+    release: 3.12.0
+    versions:
+      - 3.1.0
+      - 3.3.0
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.10.0
+      - 3.12.0
+  jgeohash:
+    lastUpdated: 20170419172152
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.4.4
+      - 1.4.5
+      - 1.4.6
+      - 1.4.7
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+  jgeohash-core:
+    lastUpdated: 20170419172153
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.3.0
+      - 2.4.0
+  jgeohash-geoip:
+    lastUpdated: 20170419172153
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.3.0
+      - 2.4.0
+  message-system-business:
+    lastUpdated: 20170420142530
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-data:
+    lastUpdated: 20170420142530
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-domain:
+    lastUpdated: 20170420142530
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-entities:
+    lastUpdated: 20170420142531
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-init:
+    lastUpdated: 20170420142531
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-rest-api:
+    lastUpdated: 20170420142531
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-rest-client:
+    lastUpdated: 20170420142532
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message-system-rest-web:
+    lastUpdated: 20170420142532
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  message.system:
+    lastUpdated: 20150913163315
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.6
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  mvn-java-parent:
+    lastUpdated: 20170418132229
+    latest: 2.24.0
+    release: 2.24.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.12.0
+      - 2.14.0
+      - 2.15.0
+      - 2.16.0
+      - 2.17.0
+      - 2.18.0
+      - 2.19.0
+      - 2.20.0
+      - 2.21.0
+      - 2.22.0
+      - 2.23.0
+      - 2.24.0
+  mvn-less-css:
+    lastUpdated: 20151209142502
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  mvn-parent-projects:
+    lastUpdated: 20170418125716
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+  mvn-persistence-parent:
+    lastUpdated: 20170419114115
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.12.0
+      - 2.14.0
+      - 2.15.0
+      - 2.16.0
+      - 2.17.0
+      - 2.19.0
+      - 2.20.0
+      - 2.21.0
+      - 2.22.0
+      - 2.23.0
+      - 2.24.0
+      - 2.25.0
+      - 2.26.0
+      - 2.27.0
+      - 2.28.0
+      - 2.29.0
+      - 2.32.0
+      - 2.33.0
+      - 2.34.0
+      - 2.35.0
+      - 2.36.0
+      - 2.37.0
+      - 2.38.0
+      - 2.39.0
+      - 2.40.0
+      - 2.41.0
+      - 2.42.0
+      - 2.43.0
+      - 2.44.0
+      - 2.45.0
+      - 2.46.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+  mvn-ui-parent:
+    lastUpdated: 20170122172717
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+  mvn-wicket-application-parent:
+    lastUpdated: 20170421181121
+    latest: 7.4.2
+    release: 7.4.2
+    versions:
+      - 6.25.0
+      - 7.1.21
+      - 7.3.1
+      - 7.4.0
+      - 7.4.1
+      - 7.4.2
+  mvn-wicket-parent:
+    lastUpdated: 20170421154941
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.0.0
+      - 6.20.0
+      - 6.21.0
+      - 6.21.1
+      - 6.21.2
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.3
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.14
+      - 7.1.15
+      - 7.1.18
+      - 7.1.19
+      - 7.1.20
+      - 7.1.21
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  mystic-crypt:
+    lastUpdated: 20170419075431
+    latest: 4.20.0
+    release: 4.20.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+      - 4.20.0
+  mystic.crypt:
+    lastUpdated: 20150210171810
+    latest: 3.10.0
+    release: 3.10.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+  net-extensions:
+    lastUpdated: 20170418143206
+    latest: 4.12.0
+    release: 4.12.0
+    versions:
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+  observer:
+    lastUpdated: 20170419090014
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.8.0
+      - 4.9.0
+  payment-system-data:
+    lastUpdated: 20170421141630
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.11.0
+  payment-system-domain:
+    lastUpdated: 20170421141630
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.11.0
+  payment-system-entities:
+    lastUpdated: 20170421141630
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.11.0
+  payment.module:
+    lastUpdated: 20151003124123
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  persistence-api:
+    lastUpdated: 20170419121536
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.16.0
+      - 3.17.0
+      - 3.18.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  phone-data-management-system:
+    lastUpdated: 20170421134411
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-business:
+    lastUpdated: 20170421134411
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-domain:
+    lastUpdated: 20170421134412
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-entities:
+    lastUpdated: 20170421134412
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-init:
+    lastUpdated: 20170421134413
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-rest-api:
+    lastUpdated: 20170421134413
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-rest-client:
+    lastUpdated: 20170421134414
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  phone-data-management-system-rest-web:
+    lastUpdated: 20170421134415
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  randomizer:
+    lastUpdated: 20170419075431
+    latest: 4.20.0
+    release: 4.20.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+      - 4.19.0
+      - 4.20.0
+  rating-system-data:
+    lastUpdated: 20170420151548
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  rating-system-domain:
+    lastUpdated: 20170420151548
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  rating-system-entities:
+    lastUpdated: 20170420151549
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  rating.system:
+    lastUpdated: 20150913163316
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  resource-bundles-business:
+    lastUpdated: 20170420123058
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-data:
+    lastUpdated: 20170420123058
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-domain:
+    lastUpdated: 20170420123059
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-entities:
+    lastUpdated: 20170420123059
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-init:
+    lastUpdated: 20170420123059
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-rest-api:
+    lastUpdated: 20170420123100
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-rest-client:
+    lastUpdated: 20170420123100
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-bundles-rest-web:
+    lastUpdated: 20170420123101
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-business:
+    lastUpdated: 20170420112847
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-data:
+    lastUpdated: 20170420112848
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-domain:
+    lastUpdated: 20170420112848
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-entities:
+    lastUpdated: 20170420112849
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-init:
+    lastUpdated: 20170420112849
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-rest-api:
+    lastUpdated: 20170420112850
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-rest-client:
+    lastUpdated: 20170420112851
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource-system-rest-web:
+    lastUpdated: 20170420112852
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  resource.system:
+    lastUpdated: 20151003124124
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  resourcebundle-core:
+    lastUpdated: 20170418174819
+    latest: 2.12.0
+    release: 2.12.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.10.0
+      - 2.11.0
+      - 2.12.0
+  resourcebundle-inspector:
+    lastUpdated: 20170418175040
+    latest: 2.12.0
+    release: 2.12.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+      - 2.9.0
+      - 2.10.0
+      - 2.11.0
+      - 2.12.0
+  resourcebundle.inspector:
+    lastUpdated: 20151003102327
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.1
+      - 2.0.0
+      - 2.0.1
+  resourcebundle.inspector.core:
+    lastUpdated: 20151003102328
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.1
+      - 2.0.0
+      - 2.0.1
+  rest-api:
+    lastUpdated: 20170419121537
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.3.0
+      - 3.4.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.9.0
+      - 3.12.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  rest-client:
+    lastUpdated: 20170419121537
+    latest: 3.28.0
+    release: 3.28.0
+    versions:
+      - 3.9.0
+      - 3.10.0
+      - 3.11.0
+      - 3.12.0
+      - 3.14.0
+      - 3.15.0
+      - 3.16.0
+      - 3.17.0
+      - 3.18.0
+      - 3.19.0
+      - 3.21.0
+      - 3.22.0
+      - 3.23.0
+      - 3.26.0
+      - 3.27.0
+      - 3.28.0
+  runtime-compiler:
+    lastUpdated: 20160807165938
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scheduler-system-business:
+    lastUpdated: 20170420161324
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-data:
+    lastUpdated: 20170420161324
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-domain:
+    lastUpdated: 20170420161324
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-entities:
+    lastUpdated: 20170420161325
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-init:
+    lastUpdated: 20170420161326
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-rest-api:
+    lastUpdated: 20170420161326
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler-system-rest-client:
+    lastUpdated: 20170420161326
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.11.0
+  scheduler-system-rest-web:
+    lastUpdated: 20170420161327
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  scheduler.system:
+    lastUpdated: 20151003124125
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  server.configurations:
+    lastUpdated: 20150708100015
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  silly-collections:
+    lastUpdated: 20170418144402
+    latest: 4.15.0
+    release: 4.15.0
+    versions:
+      - 4.4.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+  simple-tmpl-less:
+    lastUpdated: 20151209151534
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  state:
+    lastUpdated: 20170419090015
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.9.0
+  strategy:
+    lastUpdated: 20170419090016
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.8.0
+      - 4.9.0
+  swing-components:
+    lastUpdated: 20170419102640
+    latest: 4.18.0
+    release: 4.18.0
+    versions:
+      - 4.4.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+      - 4.17.0
+      - 4.18.0
+  test-objects:
+    lastUpdated: 20170418141750
+    latest: 4.16.0
+    release: 4.16.0
+    versions:
+      - 4.4.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+  turbo-ninja:
+    lastUpdated: 20170421174250
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+      - 4.0.0
+      - 7.3.1
+  turbo-sansa:
+    lastUpdated: 20151003124125
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+  turbo.sansa.wicket.components:
+    lastUpdated: 20150708100015
+    latest: 6.20.0
+    release: 6.20.0
+    versions:
+      - 6.18.0
+      - 6.20.0
+  user-business:
+    lastUpdated: 20170419155400
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-data:
+    lastUpdated: 20170419155400
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-domain:
+    lastUpdated: 20170419155401
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-entities:
+    lastUpdated: 20170419155402
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-init:
+    lastUpdated: 20170419155403
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-management-business:
+    lastUpdated: 20170420140545
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-data:
+    lastUpdated: 20170420140545
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-domain:
+    lastUpdated: 20170420140545
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-entities:
+    lastUpdated: 20170420140546
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-init:
+    lastUpdated: 20170420140546
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-rest-api:
+    lastUpdated: 20170420140547
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-rest-client:
+    lastUpdated: 20170420140547
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-management-rest-web:
+    lastUpdated: 20170420140549
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.6.0
+      - 3.11.0
+  user-rest-api:
+    lastUpdated: 20170419155404
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-rest-client:
+    lastUpdated: 20170419155405
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user-rest-web:
+    lastUpdated: 20170419155407
+    latest: 3.11.0
+    release: 3.11.0
+    versions:
+      - 3.10.0
+      - 3.11.0
+  user.management:
+    lastUpdated: 20150913163318
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.4
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.0.0
+  vintage-time:
+    lastUpdated: 20170418134019
+    latest: 4.11.0
+    release: 4.11.0
+    versions:
+      - 4.4.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+  visitor:
+    lastUpdated: 20170419090017
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.8.0
+      - 4.9.0
+  wi-ko-tooltipster:
+    lastUpdated: 20170421150233
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.25.0
+      - 7.3.1
+  wicket-application:
+    lastUpdated: 20170205180028
+    latest: 7.3.13
+    release: 7.3.13
+    versions:
+      - 6.0.0
+      - 6.20.0
+      - 6.21.0
+      - 6.21.1
+      - 6.21.2
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.1.14
+      - 7.1.15
+      - 7.1.18
+      - 7.1.19
+      - 7.1.20
+      - 7.1.21
+      - 7.2.0
+      - 7.3.0
+      - 7.3.1
+      - 7.3.2
+      - 7.3.4
+      - 7.3.6
+      - 7.3.7
+      - 7.3.8
+      - 7.3.9
+      - 7.3.11
+      - 7.3.12
+      - 7.3.13
+  wicket-bootstrap2:
+    lastUpdated: 20170421174250
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  wicket-bootstrap3:
+    lastUpdated: 20170421174251
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  wicket-channel-chat:
+    lastUpdated: 20170423130915
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+  wicket-chat-api:
+    lastUpdated: 20170421174251
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+  wicket-collapsible:
+    lastUpdated: 20170421150234
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-component-authorization-strategy:
+    lastUpdated: 20170421180636
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 7.3.1
+  wicket-component-expressions:
+    lastUpdated: 20170421174252
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 0.2.0
+      - 6.15.0
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+  wicket-iscroll:
+    lastUpdated: 20170421150234
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.25.0
+      - 7.3.1
+  wicket-jetty9-runner:
+    lastUpdated: 20170419112404
+    latest: 3.12.0
+    release: 3.12.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+      - 3.0.0
+      - 3.1.0
+      - 3.3.0
+      - 3.4.0
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.10.0
+      - 3.12.0
+  wicket-js-addons:
+    lastUpdated: 20170421150235
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-js-addons-core:
+    lastUpdated: 20170421150235
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-knockout:
+    lastUpdated: 20170421150236
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.25.0
+      - 7.3.1
+  wicket-ko-bindings:
+    lastUpdated: 20170421150236
+    latest: 7.3.1
+    release: 7.3.1
+    versions:
+      - 6.25.0
+      - 7.3.1
+  wicket-pnotify:
+    lastUpdated: 20170421150236
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-popupoverlay:
+    lastUpdated: 20170421150237
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-session-timeout:
+    lastUpdated: 20170421150238
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-spin.js:
+    lastUpdated: 20170421150238
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-toastr:
+    lastUpdated: 20170421150239
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket-tooltipster:
+    lastUpdated: 20170421150240
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 6.18.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+      - 7.3.1
+      - 7.4.0
+  wicket.bootstrap2:
+    lastUpdated: 20160905114944
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 7.0.0
+      - 7.3.0
+  wicket.bootstrap3:
+    lastUpdated: 20160905114944
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.15.0
+      - 6.18.0
+      - 6.20.0
+      - 6.20.1
+      - 6.21.0
+      - 7.1.0
+      - 7.3.0
+  wicket.component.authorization.strategy:
+    lastUpdated: 20170226162428
+    latest: 7.3.0
+    release: 7.3.0
+    versions:
+      - 6.18.0
+      - 6.20.0
+      - 6.21.0
+      - 6.25.0
+      - 7.0.0
+      - 7.1.0
+      - 7.3.0
+  xml-extensions:
+    lastUpdated: 20170418173121
+    latest: 4.16.0
+    release: 4.16.0
+    versions:
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8.0
+      - 4.9.0
+      - 4.10.0
+      - 4.11.0
+      - 4.12.0
+      - 4.13.0
+      - 4.14.0
+      - 4.15.0
+      - 4.16.0
+

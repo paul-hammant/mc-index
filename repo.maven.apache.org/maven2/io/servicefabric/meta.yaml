@@ -1,0 +1,48 @@
+artifacts:
+  servicefabric-benchmark:
+    lastUpdated: 20150930113235
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  servicefabric-cluster:
+    lastUpdated: 20150930113235
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  servicefabric-examples:
+    lastUpdated: 20150930113236
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  servicefabric-parent:
+    lastUpdated: 20150930113236
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  servicefabric-testlib:
+    lastUpdated: 20150930113237
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  servicefabric-transport:
+    lastUpdated: 20150930113237
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  socketio:
+    lastUpdated: 20150910112431
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+

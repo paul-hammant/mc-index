@@ -1,0 +1,202 @@
+artifacts:
+  cas-mfa:
+    lastUpdated: 20160612001520
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-authy:
+    lastUpdated: 20160612001521
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-authy-web:
+    lastUpdated: 20160612001521
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-duo:
+    lastUpdated: 20160612001523
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-duo-web:
+    lastUpdated: 20160612001523
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-java:
+    lastUpdated: 20160612001524
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-overlay:
+    lastUpdated: 20160612001525
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-radius-web:
+    lastUpdated: 20160612001527
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-s2f:
+    lastUpdated: 20160612001529
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-toopher:
+    lastUpdated: 20160612001529
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-toopher-web:
+    lastUpdated: 20160612001529
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+  cas-mfa-web:
+    lastUpdated: 20160612001531
+    latest: 2.0.0-RC3
+    release: 2.0.0-RC3
+    versions:
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+  cas-mfa-yubikey-web:
+    lastUpdated: 20160612001534
+    latest: 1.0.0-RC10
+    release: 1.0.0-RC10
+    versions:
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+      - 1.0.0-RC10
+

@@ -1,0 +1,479 @@
+artifacts:
+  jbundle-util-webapp-archetype-reactor:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  jbundle-util-webapp-archetype-root:
+    lastUpdated: 20100604065544
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-cgi-archetype:
+    lastUpdated: 20100604065540
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-files-archetype:
+    lastUpdated: 20100604065537
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-proxy-archetype:
+    lastUpdated: 20100604065542
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-reactor:
+    lastUpdated: 20150103013911
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  jbundle-util-webapp-redirect-archetype:
+    lastUpdated: 20100604065538
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-site:
+    lastUpdated: 20150103013911
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  jbundle-util-webapp-upload-archetype:
+    lastUpdated: 20100604065544
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-webdav-archetype:
+    lastUpdated: 20100604065542
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-website-archetype:
+    lastUpdated: 20100604065536
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-webstart-archetype:
+    lastUpdated: 20100604065545
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  jbundle-util-webapp-webstart-reactor:
+    lastUpdated: 20111027005516
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  jbundle-util-webapp-webstart-reactor-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org-jbundle-util-webapp-site:
+    lastUpdated: 20110607235749
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  org.jbundle.util.webapp.base:
+    lastUpdated: 20150103013911
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.cgi:
+    lastUpdated: 20150103013912
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.cgi-archetype:
+    lastUpdated: 20111027010726
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.files:
+    lastUpdated: 20150103013912
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.files-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.filter:
+    lastUpdated: 20111027005515
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.jnlpservlet:
+    lastUpdated: 20111027005516
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.osgi:
+    lastUpdated: 20111027005516
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.proxy:
+    lastUpdated: 20150103013913
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.proxy-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.redirect:
+    lastUpdated: 20150103013913
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.redirect-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.sample:
+    lastUpdated: 20150103013914
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.upload:
+    lastUpdated: 20150103013914
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.upload-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.upload.unjar:
+    lastUpdated: 20150103013915
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.webdav:
+    lastUpdated: 20150103013915
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.webdav-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.website:
+    lastUpdated: 20150103013916
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.website-archetype:
+    lastUpdated: 20111027010727
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.webstart:
+    lastUpdated: 20150103013916
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+  org.jbundle.util.webapp.webstart.code:
+    lastUpdated: 20111027005515
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.webstart.jnlp:
+    lastUpdated: 20111027005516
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+  org.jbundle.util.webapp.xsl:
+    lastUpdated: 20150103013916
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 0.9.1
+      - 0.9.3
+      - 0.9.4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.6
+

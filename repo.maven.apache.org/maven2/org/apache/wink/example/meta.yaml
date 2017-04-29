@@ -1,0 +1,410 @@
+artifacts:
+  Asset:
+    lastUpdated: 20130916015712
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Bookmarks:
+    lastUpdated: 20130916015720
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  CustomContext:
+    lastUpdated: 20130916015722
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  CustomExceptionMapper:
+    lastUpdated: 20130916015724
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  DynamicResource:
+    lastUpdated: 20130916015716
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  GoogleDocs-client:
+    lastUpdated: 20130916015723
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  HelloWorld:
+    lastUpdated: 20130916015717
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  History:
+    lastUpdated: 20130916015715
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Jaxb:
+    lastUpdated: 20130916015722
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  LinkBuilders:
+    lastUpdated: 20130916015716
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  MultiPart:
+    lastUpdated: 20130916015718
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Osgi:
+    lastUpdated: 20130916015724
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Preconditions:
+    lastUpdated: 20130916015717
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  QADefect:
+    lastUpdated: 20130916015714
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  QADefects-client:
+    lastUpdated: 20130916015718
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  ReadRSS-client:
+    lastUpdated: 20130916015725
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  RuntimeRegistration:
+    lastUpdated: 20130916015721
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Scope:
+    lastUpdated: 20130916015720
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  SimpleDefects:
+    lastUpdated: 20130916015721
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  Spring:
+    lastUpdated: 20130916015719
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  WebDAV:
+    lastUpdated: 20130916015724
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  apps:
+    lastUpdated: 20130916015714
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  client:
+    lastUpdated: 20130916015716
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  core:
+    lastUpdated: 20130916015720
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  ext:
+    lastUpdated: 20130916015723
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-examples:
+    lastUpdated: 20130916015713
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+

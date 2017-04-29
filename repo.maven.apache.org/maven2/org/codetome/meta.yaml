@@ -1,0 +1,58 @@
+artifacts:
+  hexameter:
+    lastUpdated: 20160830111617
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 3.0.0
+  hexameter-core:
+    lastUpdated: 20160830111617
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 3.0.0
+  hexameter-examples:
+    lastUpdated: 20160830111617
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  hexameter-rest:
+    lastUpdated: 20160830111617
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  hexameter-rest-example:
+    lastUpdated: 20160830111618
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  hexameter-swt-example:
+    lastUpdated: 20160830111618
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  hexameter-util:
+    lastUpdated: 20160126012301
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

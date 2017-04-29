@@ -1,0 +1,128 @@
+artifacts:
+  hama:
+    lastUpdated: 20110603000821
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  hama-commons:
+    lastUpdated: 20160314104639
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-core:
+    lastUpdated: 20160314104641
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-dist:
+    lastUpdated: 20160314104643
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-examples:
+    lastUpdated: 20160314104652
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-graph:
+    lastUpdated: 20160314104653
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-mesos:
+    lastUpdated: 20160314104654
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  hama-ml:
+    lastUpdated: 20160314104655
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-parent:
+    lastUpdated: 20160314104656
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-pipes:
+    lastUpdated: 20160314104657
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+  hama-yarn:
+    lastUpdated: 20160314104659
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+

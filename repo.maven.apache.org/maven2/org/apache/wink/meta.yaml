@@ -1,0 +1,361 @@
+artifacts:
+  apache-wink:
+    lastUpdated: 20130916015737
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink:
+    lastUpdated: 20130916015731
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-abdera-provider:
+    lastUpdated: 20130916015728
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-assembly:
+    lastUpdated: 20130916015711
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-assembly-aggregatejar:
+    lastUpdated: 20130916015737
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-assembly-aggregatejar-osgi:
+    lastUpdated: 20130916015726
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-client:
+    lastUpdated: 20130916015729
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-client-apache-httpclient:
+    lastUpdated: 20130916015732
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-client-asynchttpclient:
+    lastUpdated: 20130916015731
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-common:
+    lastUpdated: 20130916015733
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-component-test-support:
+    lastUpdated: 20130916015726
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-guice-server:
+    lastUpdated: 20130916015736
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-jackson-provider:
+    lastUpdated: 20130916015736
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-jcdi-server:
+    lastUpdated: 20130916015734
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-jettison-provider:
+    lastUpdated: 20130916015731
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-json-provider:
+    lastUpdated: 20130916015729
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-json4j:
+    lastUpdated: 20130916015738
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-json4j-provider:
+    lastUpdated: 20130916015733
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-osgi:
+    lastUpdated: 20130916015733
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-protobuf-provider:
+    lastUpdated: 20130916015732
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-providers:
+    lastUpdated: 20130916015727
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-scripts:
+    lastUpdated: 20091109153527
+    latest: 1.0-incubating
+    release: 1.0-incubating
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+  wink-server:
+    lastUpdated: 20130916015735
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-spring-support:
+    lastUpdated: 20130916015730
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-thrift-provider:
+    lastUpdated: 20130916015727
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+  wink-webdav:
+    lastUpdated: 20130916015734
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 0.1-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.1.2-incubating
+      - 1.1.3-incubating
+      - 1.2.0-incubating
+      - 1.2.1-incubating
+      - 1.3.0
+      - 1.4
+      - 1.4
+

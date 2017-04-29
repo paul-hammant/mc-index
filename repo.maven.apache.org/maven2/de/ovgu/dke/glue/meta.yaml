@@ -1,0 +1,27 @@
+artifacts:
+  glue-apitest:
+    lastUpdated: 20130212100946
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.3
+  glue-core:
+    lastUpdated: 20130211155615
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  glue-util:
+    lastUpdated: 20130212103028
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  glue-xmpp:
+    lastUpdated: 20140507151758
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+

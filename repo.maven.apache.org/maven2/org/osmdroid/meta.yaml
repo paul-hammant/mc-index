@@ -1,0 +1,206 @@
+artifacts:
+  GoogleWrapperSample:
+    lastUpdated: 20170205010310
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+  OSMMapTilePackager:
+    lastUpdated: 20170205010312
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+  OpenStreetMapViewer:
+    lastUpdated: 20170205010314
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+  OpenStreetMapViewer-Forge:
+    lastUpdated: 20160428215535
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 5.2
+  osmdroid-android:
+    lastUpdated: 20170205010315
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+  osmdroid-android-it:
+    lastUpdated: 20160428215538
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+  osmdroid-forge-app:
+    lastUpdated: 20161228233840
+    latest: 5.6.2
+    release: 5.6.2
+    versions:
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+  osmdroid-geopackage:
+    lastUpdated: 20170205010317
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 5.6.3
+      - 5.6.4
+  osmdroid-mapsforge:
+    lastUpdated: 20170205010318
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 5.2
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+  osmdroid-packager:
+    lastUpdated: 20160428215540
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+  osmdroid-parent:
+    lastUpdated: 20160428215540
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+  osmdroid-server-jdk:
+    lastUpdated: 20170205010319
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 5.6.3
+      - 5.6.4
+  osmdroid-third-party:
+    lastUpdated: 20170205010320
+    latest: 5.6.4
+    release: 5.6.4
+    versions:
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.2
+      - 5.4
+      - 5.4.1
+      - 5.5
+      - 5.6
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.6.4
+

@@ -1,0 +1,62 @@
+artifacts:
+  aroma:
+    lastUpdated: 20160511175357
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.4
+      - 1.5
+  aroma-application-service:
+    lastUpdated: 20160511192716
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  aroma-authentication-service:
+    lastUpdated: 20160511192355
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  aroma-data-operations:
+    lastUpdated: 20160511184534
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  aroma-email-service:
+    lastUpdated: 20160511201123
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  aroma-java-client:
+    lastUpdated: 20160511211204
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  aroma-service:
+    lastUpdated: 20160511202144
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  aroma-thrift:
+    lastUpdated: 20160511010644
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.7
+      - 1.8
+      - 1.9
+  aroma-thrift-generators:
+    lastUpdated: 20160511065344
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

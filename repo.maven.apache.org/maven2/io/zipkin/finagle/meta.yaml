@@ -1,0 +1,103 @@
+artifacts:
+  zipkin-finagle-http_2.11:
+    lastUpdated: 20170422071918
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  zipkin-finagle-http_2.12:
+    lastUpdated: 20170422080304
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  zipkin-finagle-kafka_2.11:
+    lastUpdated: 20170422071918
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  zipkin-finagle-kafka_2.12:
+    lastUpdated: 20170422080304
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  zipkin-finagle-parent_2.11:
+    lastUpdated: 20170422071918
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  zipkin-finagle-parent_2.12:
+    lastUpdated: 20170422080305
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  zipkin-finagle-scribe_2.11:
+    lastUpdated: 20170422071918
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  zipkin-finagle-scribe_2.12:
+    lastUpdated: 20170422080304
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  zipkin-finagle_2.11:
+    lastUpdated: 20170422071918
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  zipkin-finagle_2.12:
+    lastUpdated: 20170422080305
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

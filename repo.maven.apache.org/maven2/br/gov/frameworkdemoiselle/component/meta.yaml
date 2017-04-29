@@ -1,0 +1,123 @@
+artifacts:
+  demoiselle-certificate-applet:
+    lastUpdated: 20170327131617
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-ca-icpbrasil:
+    lastUpdated: 20170327131618
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-ca-icpbrasil-homologacao:
+    lastUpdated: 20170327131618
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-core:
+    lastUpdated: 20170327131619
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-criptography:
+    lastUpdated: 20170327131619
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-desktop:
+    lastUpdated: 20170327131620
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-parent:
+    lastUpdated: 20170327131620
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-certificate-signer:
+    lastUpdated: 20170327131620
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0
+  demoiselle-junit:
+    lastUpdated: 20140218170127
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.3.0
+      - 2.3.1
+  demoiselle-mail:
+    lastUpdated: 20131105122402
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  demoiselle-report:
+    lastUpdated: 20131105122402
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.5
+      - 2.1.0
+      - 2.2.0
+  demoiselle-vaadin:
+    lastUpdated: 20121203180612
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  demoiselle-vaadin-parent:
+    lastUpdated: 20121203180613
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+

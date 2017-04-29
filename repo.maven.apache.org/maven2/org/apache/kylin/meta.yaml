@@ -1,0 +1,424 @@
+artifacts:
+  atopcalcite:
+    lastUpdated: 20161126081310
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+      - 1.2
+  kylin:
+    lastUpdated: 20161126081312
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+      - 1.2
+  kylin-assembly:
+    lastUpdated: 20161126081312
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-common:
+    lastUpdated: 20160314015702
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-core-common:
+    lastUpdated: 20161126081313
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-core-cube:
+    lastUpdated: 20161126081314
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-core-dictionary:
+    lastUpdated: 20161126081315
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-core-job:
+    lastUpdated: 20161126081316
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-core-metadata:
+    lastUpdated: 20161126081316
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-core-storage:
+    lastUpdated: 20161126081317
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-cube:
+    lastUpdated: 20160314015703
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-dictionary:
+    lastUpdated: 20160314015704
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-engine-mr:
+    lastUpdated: 20161126081318
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-engine-spark:
+    lastUpdated: 20161126081319
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-engine-streaming:
+    lastUpdated: 20160928061231
+    latest: 1.5.4.1
+    release: 1.5.4.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+  kylin-invertedindex:
+    lastUpdated: 20160607134550
+    latest: 1.5.2.1
+    release: 1.5.2.1
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.2
+  kylin-it:
+    lastUpdated: 20161126081321
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-jdbc:
+    lastUpdated: 20161126081322
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+      - 1.2
+  kylin-job:
+    lastUpdated: 20160314015705
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-metadata:
+    lastUpdated: 20160314015706
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-monitor:
+    lastUpdated: 20160314015707
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-query:
+    lastUpdated: 20161126081323
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+      - 1.2
+  kylin-server:
+    lastUpdated: 20161126081324
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+      - 1.2
+  kylin-server-base:
+    lastUpdated: 20161126081327
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-source-hive:
+    lastUpdated: 20161126081327
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-source-kafka:
+    lastUpdated: 20161126081329
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-storage:
+    lastUpdated: 20160314015709
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.7.1-incubating
+      - 0.7.2-incubating
+      - 1.0-incubating
+      - 1.1-incubating
+      - 1.1.1-incubating
+      - 1.2
+      - 1.3.0
+      - 1.2
+  kylin-storage-hbase:
+    lastUpdated: 20161126081329
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-tomcat-ext:
+    lastUpdated: 20161126081330
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+  kylin-tool:
+    lastUpdated: 20161126081331
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.1
+      - 1.5.2
+      - 1.5.2.1
+      - 1.5.3
+      - 1.5.4
+      - 1.5.4.1
+      - 1.6.0
+

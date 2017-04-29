@@ -1,0 +1,1271 @@
+artifacts:
+  fcrepo:
+    lastUpdated: 20170318214540
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+      - 3.5
+      - 3.6
+  fcrepo-audit:
+    lastUpdated: 20170318231028
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-auth-common:
+    lastUpdated: 20170318214540
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-auth-oauth:
+    lastUpdated: 20140419225318
+    latest: 4.0.0-alpha-5
+    release: 4.0.0-alpha-5
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+  fcrepo-auth-roles-basic:
+    lastUpdated: 20170318215926
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-auth-roles-common:
+    lastUpdated: 20170318215926
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-bagit-object-serialization:
+    lastUpdated: 20130705175352
+    latest: 4.0.0-alpha-1
+    release: 4.0.0-alpha-1
+    versions:
+      - 4.0.0-alpha-1
+  fcrepo-boms:
+    lastUpdated: 20170318214541
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-build-tools:
+    lastUpdated: 20160707234002
+    latest: 4.4.2
+    release: 4.4.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0-RC
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fcrepo-client:
+    lastUpdated: 20151013202021
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 3.5
+      - 3.6
+  fcrepo-client-admin:
+    lastUpdated: 20150619162914
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-client-impl:
+    lastUpdated: 20151013202022
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+  fcrepo-client-messaging:
+    lastUpdated: 20141123143549
+    latest: 3.8.0
+    release: 3.8.0
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.5
+      - 3.6
+  fcrepo-common:
+    lastUpdated: 20150619162910
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-configs:
+    lastUpdated: 20170318214541
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-connector-file:
+    lastUpdated: 20170318140202
+    latest: 4.7.0
+    release: 4.7.0
+    versions:
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+  fcrepo-event-serialization:
+    lastUpdated: 20170318214541
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-fedora3-federation:
+    lastUpdated: 20131011165313
+    latest: 4.0.0-alpha-2
+    release: 4.0.0-alpha-2
+    versions:
+      - 4.0.0-alpha-2
+  fcrepo-fedora3-federation-connector:
+    lastUpdated: 20131015000936
+    latest: 4.0.0-alpha-2
+    release: 4.0.0-alpha-2
+    versions:
+      - 4.0.0-alpha-2
+  fcrepo-generate:
+    lastUpdated: 20111019101701
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.5
+      - 3.5
+  fcrepo-generator-dc:
+    lastUpdated: 20140830195416
+    latest: 4.0.0-beta-03
+    release: 4.0.0-beta-03
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+  fcrepo-http-api:
+    lastUpdated: 20170318214542
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-http-commons:
+    lastUpdated: 20170318214542
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-installer:
+    lastUpdated: 20141123143554
+    latest: 3.8.0
+    release: 3.8.0
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.5
+      - 3.6
+  fcrepo-integration-ldp:
+    lastUpdated: 20170318214543
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-integration-rdf:
+    lastUpdated: 20170318214543
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-integrationtest:
+    lastUpdated: 20150619162819
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-integrationtest-configA:
+    lastUpdated: 20150619162845
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-integrationtest-configB:
+    lastUpdated: 20150619162843
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-integrationtest-configC:
+    lastUpdated: 20150619162806
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-integrationtest-configQ:
+    lastUpdated: 20150619162909
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-integrationtest-core:
+    lastUpdated: 20150619162821
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-jcr:
+    lastUpdated: 20140419225321
+    latest: 4.0.0-alpha-5
+    release: 4.0.0-alpha-5
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+  fcrepo-jcr-bom:
+    lastUpdated: 20170318214543
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-jms:
+    lastUpdated: 20170318214543
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-jms-indexer-core:
+    lastUpdated: 20140605185231
+    latest: 4.0.0-beta-01
+    release: 4.0.0-beta-01
+    versions:
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+  fcrepo-jms-indexer-elasticsearch:
+    lastUpdated: 20140605185232
+    latest: 4.0.0-beta-01
+    release: 4.0.0-beta-01
+    versions:
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+  fcrepo-jms-indexer-pluggable:
+    lastUpdated: 20140605185232
+    latest: 4.0.0-beta-01
+    release: 4.0.0-beta-01
+    versions:
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+  fcrepo-jms-indexer-webapp:
+    lastUpdated: 20140605185235
+    latest: 4.0.0-beta-01
+    release: 4.0.0-beta-01
+    versions:
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+  fcrepo-karaf:
+    lastUpdated: 20151019210455
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.4.0
+  fcrepo-kernel:
+    lastUpdated: 20150519220710
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+  fcrepo-kernel-api:
+    lastUpdated: 20170318214544
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-kernel-impl:
+    lastUpdated: 20150519220711
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+  fcrepo-kernel-modeshape:
+    lastUpdated: 20170318214544
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-kitchen-sink:
+    lastUpdated: 20130705182435
+    latest: 4.0.0-alpha-1
+    release: 4.0.0-alpha-1
+    versions:
+      - 4.0.0-alpha-1
+  fcrepo-legacy-api:
+    lastUpdated: 20130705175353
+    latest: 4.0.0-alpha-1
+    release: 4.0.0-alpha-1
+    versions:
+      - 4.0.0-alpha-1
+  fcrepo-message-consumer:
+    lastUpdated: 20150724234753
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+  fcrepo-message-consumer-core:
+    lastUpdated: 20150724234753
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+  fcrepo-message-consumer-elasticsearch:
+    lastUpdated: 20150724234753
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+  fcrepo-message-consumer-webapp:
+    lastUpdated: 20150724234755
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+  fcrepo-metrics:
+    lastUpdated: 20170318214544
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-mint:
+    lastUpdated: 20170318230411
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-module-auth-rbacl:
+    lastUpdated: 20170318215927
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-module-auth-webac:
+    lastUpdated: 20170318225703
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-module-auth-xacml:
+    lastUpdated: 20170318221737
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-parent:
+    lastUpdated: 20170318214545
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-rss:
+    lastUpdated: 20140419225326
+    latest: 4.0.0-alpha-5
+    release: 4.0.0-alpha-5
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+  fcrepo-security:
+    lastUpdated: 20150619162905
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-security-http:
+    lastUpdated: 20141123143608
+    latest: 3.8.0
+    release: 3.8.0
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.6
+  fcrepo-security-jaas:
+    lastUpdated: 20150619162913
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-security-pdp:
+    lastUpdated: 20150619162918
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-security-pep:
+    lastUpdated: 20150619162912
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-sequencer-archives:
+    lastUpdated: 20130705173401
+    latest: 4.0.0-alpha-1
+    release: 4.0.0-alpha-1
+    versions:
+      - 4.0.0-alpha-1
+  fcrepo-serialization:
+    lastUpdated: 20160430000854
+    latest: 4.5.1
+    release: 4.5.1
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+  fcrepo-server:
+    lastUpdated: 20150619162908
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-shared-resources:
+    lastUpdated: 20150619162815
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.8.0
+      - 3.8.1
+  fcrepo-storage-policy:
+    lastUpdated: 20140830195420
+    latest: 4.0.0-beta-03
+    release: 4.0.0-beta-03
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+  fcrepo-transform:
+    lastUpdated: 20151012224059
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+  fcrepo-webapp:
+    lastUpdated: 20170318214545
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+      - 3.5
+      - 3.6
+  fcrepo-webapp-democontent:
+    lastUpdated: 20150619162905
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-webapp-fedora:
+    lastUpdated: 20150619162902
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-webapp-fop:
+    lastUpdated: 20150619162916
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-webapp-imagemanip:
+    lastUpdated: 20150619162818
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-webapp-plus:
+    lastUpdated: 20170318232035
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.2
+  fcrepo-webapp-saxon:
+    lastUpdated: 20150619162906
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5
+      - 3.6
+      - 3.6.1
+      - 3.6.2
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.8.1
+      - 3.5
+      - 3.6
+  fcrepo-webhooks:
+    lastUpdated: 20140419225333
+    latest: 4.0.0-alpha-5
+    release: 4.0.0-alpha-5
+    versions:
+      - 4.0.0-alpha-1
+      - 4.0.0-alpha-2
+      - 4.0.0-alpha-3
+      - 4.0.0-alpha-4
+      - 4.0.0-alpha-5
+  fcrepo4-bom:
+    lastUpdated: 20170318214546
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.0.0-beta-01
+      - 4.0.0-beta-02
+      - 4.0.0-beta-03
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo4-client:
+    lastUpdated: 20151013202023
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.0.0-beta-04
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+  fcrepo4-oaiprovider:
+    lastUpdated: 20151013204620
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.4.0
+  fcrepo4-swordserver:
+    lastUpdated: 20151013205409
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.4.0
+  jena-patch:
+    lastUpdated: 20170318214546
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.1
+      - 4.7.2
+  local-legacy-fedora3:
+    lastUpdated: 20131011165314
+    latest: 4.0.0-alpha-2
+    release: 4.0.0-alpha-2
+    versions:
+      - 4.0.0-alpha-2
+

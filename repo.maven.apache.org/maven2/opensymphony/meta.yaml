@@ -1,0 +1,157 @@
+artifacts:
+  clickstream:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.2
+  ognl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.6.10
+  oscache:
+    lastUpdated: 20110112055954
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.1
+  oscore:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.4
+  osuser:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-dev
+      - 1.0-20060106
+  osworkflow:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.7.0
+  pell-multipart:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5
+  propertyset:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.3
+      - 1.3
+  quartz:
+    lastUpdated: {}
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.4.0
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.0
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+  quartz-all:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.2
+  quartz-jboss:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.0
+      - 1.5.2
+  quartz-oracle:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.0
+      - 1.5.2
+  quartz-weblogic:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.0
+      - 1.5.2
+  seraph:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.7.20
+  sitemesh:
+    lastUpdated: 20090425134702
+    latest: {}
+    release: {}
+    versions:
+      - 2.4.1
+      - 2.4.2
+  webwork:
+    lastUpdated: 20070624104005
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.5
+  webwork-src:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.2.2
+      - 2.2
+  xwork:
+    lastUpdated: 20070623135219
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.2
+      - 2.0.2
+      - 2.0.3
+  xwork-src:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.3
+      - 1.1
+  xwork-tiger:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.3
+      - 1.1
+  xwork-tiger-src:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.3
+      - 1.1
+

@@ -1,0 +1,45 @@
+artifacts:
+  authz-cass:
+    lastUpdated: 20161201231739
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+  authz-certman:
+    lastUpdated: 20161201231739
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+  authz-client:
+    lastUpdated: 20161201164730
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 2.6
+      - 2.6
+  authz-cmd:
+    lastUpdated: 20161201231740
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+  authz-fs:
+    lastUpdated: 20161201231740
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+  authz-gw:
+    lastUpdated: 20161201231741
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+  authz-service:
+    lastUpdated: 20161201231741
+    latest: 2.0.15
+    release: 2.0.15
+    versions:
+      - 2.0.15
+

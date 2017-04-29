@@ -1,0 +1,278 @@
+artifacts:
+  continuations:
+    lastUpdated: 20150922091701
+    latest: 2.11.0-M7
+    release: 2.11.0-M7
+    versions:
+      - 2.8.0.RC1
+      - 2.8.0.RC2
+      - 2.8.0.RC3
+      - 2.8.0.RC4
+      - 2.8.0.RC5
+      - 2.8.0.RC6
+      - 2.8.0.RC7
+      - 2.8.0
+      - 2.8.1.RC1
+      - 2.8.1.RC2
+      - 2.8.1.RC3
+      - 2.8.1.RC4
+      - 2.8.1
+      - 2.8.2.RC1
+      - 2.8.2.RC2
+      - 2.8.2.RC3
+      - 2.8.2
+      - 2.9.0.RC1
+      - 2.9.0.RC2
+      - 2.9.0.RC3
+      - 2.9.0.RC4
+      - 2.9.0.RC5
+      - 2.9.0
+      - 2.9.0-1
+      - 2.9.1.RC1
+      - 2.9.1.RC2
+      - 2.9.1.RC3
+      - 2.9.1.RC4
+      - 2.9.1
+      - 2.9.1-1-RC1
+      - 2.9.1-1
+      - 2.9.2-RC1
+      - 2.9.2-RC2
+      - 2.9.2-RC3
+      - 2.9.2
+      - 2.9.3-RC1
+      - 2.9.3-RC2
+      - 2.9.3
+      - 2.10.0-M1
+      - 2.10.0-M1-virtualized
+      - 2.10.0-M1-virtualized.rdev-4217-2012-01-24-g9118644
+      - 2.10.0-M2
+      - 2.10.0-M3
+      - 2.10.0-M4
+      - 2.10.0-M5
+      - 2.10.0-M6
+      - 2.10.0-M7
+      - 2.10.0-RC1
+      - 2.10.0-RC2
+      - 2.10.0-RC3
+      - 2.10.0-RC4
+      - 2.10.0-RC5
+      - 2.10.0
+      - 2.10.1-RC1
+      - 2.10.1-RC2
+      - 2.10.1-RC3
+      - 2.10.1
+      - 2.10.2-RC1
+      - 2.10.2-RC2
+      - 2.10.2
+      - 2.10.3-RC1
+      - 2.10.3-RC2
+      - 2.10.3-RC3
+      - 2.10.3
+      - 2.10.4-RC1
+      - 2.10.4-RC2
+      - 2.10.4-RC3
+      - 2.10.4
+      - 2.10.5
+      - 2.10.6
+      - 2.11.0-M1
+      - 2.11.0-M2
+      - 2.11.0-M3
+      - 2.11.0-M4
+      - 2.11.0-M5
+      - 2.11.0-M6
+      - 2.11.0-M7
+  scala-continuations-library_2.11:
+    lastUpdated: 20161031135554
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC3
+      - 1.0.3
+  scala-continuations-library_2.11.0-M7:
+    lastUpdated: 20131206233717
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  scala-continuations-library_2.11.0-M8:
+    lastUpdated: 20140121225903
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  scala-continuations-library_2.11.0-RC1:
+    lastUpdated: 20140228171323
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-continuations-library_2.11.0-RC3:
+    lastUpdated: 20140319025420
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-continuations-library_2.11.0-RC4:
+    lastUpdated: 20140405105731
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-continuations-library_2.12:
+    lastUpdated: 20161031135612
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  scala-continuations-library_2.12.0-RC2:
+    lastUpdated: 20161018202401
+    latest: 1.0.3-RC3
+    release: 1.0.3-RC3
+    versions:
+      - 1.0.3-RC3
+  scala-continuations-library_2.13.0-M1:
+    lastUpdated: 20170421112721
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  scala-continuations-plugin_2.11.0:
+    lastUpdated: 20140416175729
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-continuations-plugin_2.11.0-M7:
+    lastUpdated: 20131206233717
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  scala-continuations-plugin_2.11.0-M8:
+    lastUpdated: 20140121225903
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  scala-continuations-plugin_2.11.0-RC1:
+    lastUpdated: 20140228171325
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-continuations-plugin_2.11.0-RC3:
+    lastUpdated: 20140319025421
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-continuations-plugin_2.11.0-RC4:
+    lastUpdated: 20140405105731
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-continuations-plugin_2.11.1:
+    lastUpdated: 20140520082720
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.10:
+    lastUpdated: 20170407224937
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.11:
+    lastUpdated: 20170421112604
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  scala-continuations-plugin_2.11.2:
+    lastUpdated: 20140723094628
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.3:
+    lastUpdated: 20141010235129
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.5:
+    lastUpdated: 20150108021815
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.6:
+    lastUpdated: 20150302195145
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.7:
+    lastUpdated: 20150623204611
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.8:
+    lastUpdated: 20161031135554
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3-RC3
+      - 1.0.3
+  scala-continuations-plugin_2.11.8-18269ea:
+    lastUpdated: 20170105212147
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.11.9:
+    lastUpdated: 20170328161052
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scala-continuations-plugin_2.12.0:
+    lastUpdated: 20161031135613
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  scala-continuations-plugin_2.12.0-RC2:
+    lastUpdated: 20161018202402
+    latest: 1.0.3-RC3
+    release: 1.0.3-RC3
+    versions:
+      - 1.0.3-RC3
+  scala-continuations-plugin_2.12.1:
+    lastUpdated: 20170421112514
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  scala-continuations-plugin_2.12.2:
+    lastUpdated: 20170421112536
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  scala-continuations-plugin_2.13.0-M1:
+    lastUpdated: 20170421112722
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+

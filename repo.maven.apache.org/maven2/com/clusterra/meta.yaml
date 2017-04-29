@@ -1,0 +1,529 @@
+artifacts:
+  clusterra-email-sender:
+    lastUpdated: 20150809142045
+    latest: 1.2.0.RELEASE
+    release: 1.2.0.RELEASE
+    versions:
+      - 1.0.13.RELEASE
+      - 1.2.0.RELEASE
+  clusterra-freemarker-renderer:
+    lastUpdated: 20150809160344
+    latest: 1.1.1.RELEASE
+    release: 1.1.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+  clusterra-hibernate-base64-id:
+    lastUpdated: 20150809110436
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+  clusterra-hibernate-jpa-schema-generator:
+    lastUpdated: 20150809110437
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+  clusterra-iam-application:
+    lastUpdated: 20151108215045
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-avatar:
+    lastUpdated: 20151108215046
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-core:
+    lastUpdated: 20151108215046
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-demo-tenants:
+    lastUpdated: 20151108215047
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-email:
+    lastUpdated: 20151108215047
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-rest:
+    lastUpdated: 20151108215048
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-rest-api-docs:
+    lastUpdated: 20151108215048
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-iam-session:
+    lastUpdated: 20151108215049
+    latest: 1.2.1.RELEASE
+    release: 1.2.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.2.1.RELEASE
+  clusterra-pmbok-application:
+    lastUpdated: 20150910101920
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-document:
+    lastUpdated: 20150910101921
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-document-pdf:
+    lastUpdated: 20150910101922
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-document-templates:
+    lastUpdated: 20150910101922
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-plan:
+    lastUpdated: 20150910101922
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-project:
+    lastUpdated: 20150910101923
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-reference:
+    lastUpdated: 20150910101923
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-rest-api:
+    lastUpdated: 20150910101924
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-rest-api-docs:
+    lastUpdated: 20150910101924
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-pmbok-server-runner:
+    lastUpdated: 20150801201004
+    latest: 1.0.14.RELEASE
+    release: 1.0.14.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+  clusterra-pmbok-term:
+    lastUpdated: 20150910101925
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.10.RELEASE
+      - 1.0.11.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+      - 1.0.14.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  clusterra-server-runner:
+    lastUpdated: 20150831134651
+    latest: 1.1.8.RELEASE
+    release: 1.1.8.RELEASE
+    versions:
+      - 1.1.7.RELEASE
+      - 1.1.8.RELEASE
+  email-sender:
+    lastUpdated: 20150801115330
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  freemarker-renderer:
+    lastUpdated: 20150801115330
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  hibernate-base64-id:
+    lastUpdated: 20150801115331
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  hibernate-jpa-schema-generator:
+    lastUpdated: 20150801115331
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-avatar:
+    lastUpdated: 20150801115332
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-core:
+    lastUpdated: 20150801115332
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-demo-application:
+    lastUpdated: 20150518201645
+    latest: 1.0.3.RELEASE
+    release: 1.0.3.RELEASE
+    versions:
+      - 1.0.3.RELEASE
+  iam-demo-server-runner:
+    lastUpdated: 20150511190739
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  iam-demo-tenants:
+    lastUpdated: 20150801115333
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-email:
+    lastUpdated: 20150801115333
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-rest:
+    lastUpdated: 20150801115333
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-rest-api-docs:
+    lastUpdated: 20150801115334
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-server-runner:
+    lastUpdated: 20150801115334
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  iam-session:
+    lastUpdated: 20150801115335
+    latest: 1.0.13.RELEASE
+    release: 1.0.13.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.0.6.RELEASE
+      - 1.0.7.RELEASE
+      - 1.0.8.RELEASE
+      - 1.0.9.RELEASE
+      - 1.0.12.RELEASE
+      - 1.0.13.RELEASE
+  pmbok-document:
+    lastUpdated: 20150606082810
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-document-pdf:
+    lastUpdated: 20150606082811
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-document-templates:
+    lastUpdated: 20150606082812
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-plan:
+    lastUpdated: 20150606082813
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-project:
+    lastUpdated: 20150606082814
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-reference:
+    lastUpdated: 20150606082816
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-rest-api:
+    lastUpdated: 20150606082818
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-server-runner:
+    lastUpdated: 20150606082820
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  pmbok-term:
+    lastUpdated: 20150606082820
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+

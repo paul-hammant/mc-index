@@ -1,0 +1,74 @@
+artifacts:
+  sirocco-vmm-agent:
+    lastUpdated: 20120114000747
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-core:
+    lastUpdated: 20120114000707
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-driver-dummy:
+    lastUpdated: 20120114000710
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-driver-libvirt:
+    lastUpdated: 20120114000716
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-driver-vmware:
+    lastUpdated: 20120114000718
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-driver-xenapi:
+    lastUpdated: 20120114000726
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-mega-bundle:
+    lastUpdated: 20120114000750
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-monitoring-driver-collectd:
+    lastUpdated: 20120114000741
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-monitoring-driver-dummy:
+    lastUpdated: 20120114000744
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-agent-multi:
+    lastUpdated: 20120114000649
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  sirocco-vmm-api:
+    lastUpdated: 20120113011537
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  sirocco-vmm-placement-manager-api:
+    lastUpdated: 20120114000656
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+

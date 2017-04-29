@@ -1,0 +1,64 @@
+artifacts:
+  esclient_2.10:
+    lastUpdated: 20140724162209
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.20.2
+      - 0.20.3
+      - 1.0.0
+      - 1.2.1
+      - 1.3.0
+  esclient_2.11:
+    lastUpdated: 20140724162210
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.2.1
+      - 1.3.0
+  json-parser_2.10:
+    lastUpdated: 20140612095636
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  json-parser_2.11:
+    lastUpdated: 20140612095636
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  scalabeans:
+    lastUpdated: 20120616094129
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+  scalabeans_2.8.1:
+    lastUpdated: 20110827141151
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalabeans_2.9.0:
+    lastUpdated: 20110827141152
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+

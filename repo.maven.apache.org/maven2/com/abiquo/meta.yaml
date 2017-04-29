@@ -1,0 +1,290 @@
+artifacts:
+  am-model:
+    lastUpdated: 20130429153747
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.2.1
+      - 2.2.0
+  am-model-transport:
+    lastUpdated: 20170405074148
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 2.3.0
+      - 2.3.1
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.4.0
+      - 3.6.0
+      - 3.6.3
+      - 3.8.0
+      - 3.8.1
+      - 3.8.2
+      - 3.8.3
+      - 3.10.0
+      - 3.10.1
+      - 3.10.2
+      - 4.0.0
+  api-java-client:
+    lastUpdated: 20160407100625
+    latest: 3.8.1.1
+    release: 3.8.1.1
+    versions:
+      - 1.0.0
+      - 3.6.0
+      - 3.8.1
+      - 3.8.1.1
+  api-java-client-project:
+    lastUpdated: 20160407100625
+    latest: 3.8.1.1
+    release: 3.8.1.1
+    versions:
+      - 1.0.0
+      - 3.6.0
+      - 3.8.1
+      - 3.8.1.1
+  api-java-stream-client:
+    lastUpdated: 20160407100625
+    latest: 3.8.1.1
+    release: 3.8.1.1
+    versions:
+      - 1.0.0
+      - 3.6.0
+      - 3.8.1
+      - 3.8.1.1
+  api-model:
+    lastUpdated: 20130429153748
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  api-model-transport:
+    lastUpdated: 20170405074148
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 2.2.0.1
+      - 2.3.0
+      - 2.6.0
+      - 2.6.1
+      - 3.0.0
+      - 3.1.0
+      - 3.1.3
+      - 3.2.0
+      - 3.4.0
+      - 3.6.0
+      - 3.6.2
+      - 3.8.0
+      - 3.8.1
+      - 3.8.2
+      - 3.8.3
+      - 3.8.6
+      - 3.10.0
+      - 3.10.1
+      - 4.0.0
+  bpm-model-transport:
+    lastUpdated: 20141125091500
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  commons-amqp:
+    lastUpdated: 20141125091501
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+  commons-redis:
+    lastUpdated: 20141126113046
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  commons-test:
+    lastUpdated: 20170405074149
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 3.4.0
+      - 3.6.0
+      - 3.8.0
+      - 3.8.2
+      - 3.10.0
+      - 4.0.0
+  cpp-model-transport:
+    lastUpdated: 20150109113049
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+  discovery-manager-model-transport:
+    lastUpdated: 20150109113049
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+  event-model-transport:
+    lastUpdated: 20170405074149
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 3.4.0
+      - 3.6.0
+      - 3.6.2
+      - 3.8.0
+      - 3.8.1
+      - 3.8.2
+      - 3.8.3
+      - 3.8.6
+      - 3.10.0
+      - 3.10.1
+      - 4.0.0
+  hypervisor-plugin-model:
+    lastUpdated: 20150109113050
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+  model:
+    lastUpdated: 20150109113050
+    latest: 3.2.1
+    release: 3.2.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.2.1
+  platform:
+    lastUpdated: 20170405074149
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 2.3.0.1
+      - 2.4.0
+      - 2.6.0
+      - 2.6.1
+      - 2.6.2
+      - 2.6.3
+      - 2.6.4
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+      - 3.2.6
+      - 3.4.0
+      - 3.4.2
+      - 3.6.0
+      - 3.6.2
+      - 3.6.3
+      - 3.6.4
+      - 3.6.5
+      - 3.8.0
+      - 3.8.1
+      - 3.8.2
+      - 3.8.3
+      - 3.8.6
+      - 3.10.0
+      - 3.10.1
+      - 3.10.2
+      - 3.10.3
+      - 4.0.0
+  ssm-model:
+    lastUpdated: 20170405074149
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.4.0
+      - 3.6.0
+      - 3.6.4
+      - 3.8.0
+      - 3.8.2
+      - 3.10.0
+      - 4.0.0
+  storage-plugin-archetype:
+    lastUpdated: 20170405074150
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.4.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 3.4.0
+      - 3.6.0
+      - 3.8.0
+      - 3.8.2
+      - 3.10.0
+      - 4.0.0
+  virtualfactory-model-transport:
+    lastUpdated: 20150109113053
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+  vsm-model-transport:
+    lastUpdated: 20150109113053
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+

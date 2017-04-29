@@ -1,0 +1,215 @@
+artifacts:
+  slice-activator:
+    lastUpdated: 20140618124015
+    latest: 4.0.0-incubator
+    release: 4.0.0-incubator
+    versions:
+      - 4.0.0
+      - 4.0.0-incubator
+  slice-assembly:
+    lastUpdated: 20160822074208
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-base-test:
+    lastUpdated: 20160822074209
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-core:
+    lastUpdated: 20160822074209
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-core-api:
+    lastUpdated: 20160822074209
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-core-test:
+    lastUpdated: 20160822074209
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-cq:
+    lastUpdated: 20130308103819
+    latest: 3.0.1-cq56
+    release: 3.0.1-cq56
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+  slice-cq-taglib:
+    lastUpdated: 20130308103820
+    latest: 3.0.1-cq56
+    release: 3.0.1-cq56
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+  slice-mapper:
+    lastUpdated: 20160822074210
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-mapper-api:
+    lastUpdated: 20160822074210
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-mapper-test:
+    lastUpdated: 20160822074210
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-parent:
+    lastUpdated: 20160822074211
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0
+      - 4.0.0-incubator
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-persistence:
+    lastUpdated: 20160822074211
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-persistence-api:
+    lastUpdated: 20160822074211
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-test:
+    lastUpdated: 20160822074211
+    latest: 4.3.2
+    release: 4.3.2
+    versions:
+      - 4.2.1
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+  slice-validation:
+    lastUpdated: 20131114142440
+    latest: 4.0.0-incubator
+    release: 4.0.0-incubator
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0-incubator
+  slice-validation-api:
+    lastUpdated: 20131114142440
+    latest: 4.0.0-incubator
+    release: 4.0.0-incubator
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.1-cq56
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+      - 4.0.0-incubator
+

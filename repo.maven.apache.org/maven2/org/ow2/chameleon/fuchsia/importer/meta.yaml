@@ -1,0 +1,115 @@
+artifacts:
+  fake-importer:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  fuchsia-importers:
+    lastUpdated: 20150114102250
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jabsorb-importer:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  jax-rs:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  jaxws:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  json-rpc:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  mqtt:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  mqtt-importer:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  org.ow2.chameleon.fuchsia.importer.jax-ws:
+    lastUpdated: 20150114102250
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.json-rpc:
+    lastUpdated: 20150114102250
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.json-rpc-it:
+    lastUpdated: 20140923112153
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  org.ow2.chameleon.fuchsia.importer.knx:
+    lastUpdated: 20150114102251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.mqtt:
+    lastUpdated: 20150114102251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.philips-hue:
+    lastUpdated: 20150114102251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.protobuffer:
+    lastUpdated: 20150114102251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.importer.raspberrypi:
+    lastUpdated: 20150114102251
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

@@ -1,0 +1,255 @@
+artifacts:
+  jmx-bean-management:
+    lastUpdated: 20130924182404
+    latest: 1.1.0-final
+    release: 1.1.0-final
+    versions:
+      - 1.1.0-final
+  oss-parent:
+    lastUpdated: 20160706183238
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+      - 2.0.0
+      - 2.1.0
+  oss-parent-vertx:
+    lastUpdated: 20140716204125
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+  vertx-assemblies:
+    lastUpdated: 20130913025005
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  vertx-jersey:
+    lastUpdated: 20150305170540
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.5.0
+      - 2.6.0
+      - 2.6.1
+      - 2.7.0
+      - 2.7.1
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+  vertx-mod-cassandra:
+    lastUpdated: 20150305212058
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  vertx-mod-cassandra-binarystore:
+    lastUpdated: 20140912193248
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0-final
+      - 1.1.0-final
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  vertx-mod-couchbase:
+    lastUpdated: 20130722205712
+    latest: 1.0.0-final
+    release: 1.0.0-final
+    versions:
+      - 1.0.0-final
+  vertx-mod-elasticsearch:
+    lastUpdated: 20140912174516
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  vertx-mod-guice:
+    lastUpdated: 20131107192352
+    latest: 1.3.0-final
+    release: 1.3.0-final
+    versions:
+      - 1.0.0-final
+      - 1.1.0-final
+      - 1.2.0-final
+      - 1.3.0-final
+  vertx-mod-hk2:
+    lastUpdated: 20140604191537
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-CR2
+      - 1.0.0-CR3
+      - 1.0.0-final
+      - 1.0.1-final
+      - 1.1.0-final
+      - 1.2.0-final
+      - 1.3.0-final
+      - 1.4.0-final
+      - 1.5.0-final
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+  vertx-mod-httpservlet:
+    lastUpdated: 20140918023313
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-mod-jersey:
+    lastUpdated: 20150305170721
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-CR2
+      - 1.0.0-CR3
+      - 1.0.0-final
+      - 2.0.0-final
+      - 2.1.0-final
+      - 2.2.0-final
+      - 2.3.0-final
+      - 2.4.0-final
+      - 2.5.0
+      - 2.6.0
+      - 2.6.1
+      - 2.7.0
+      - 2.7.1
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+  vertx-mod-jerseymetrics:
+    lastUpdated: 20150305171312
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.5.0
+      - 2.6.0
+      - 2.6.1
+      - 2.7.0
+      - 2.7.1
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+  vertx-mod-mailer:
+    lastUpdated: 20140925001452
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-mod-metrics:
+    lastUpdated: 20140613205326
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  vertx-mod-mongo-gridfs:
+    lastUpdated: 20140702184221
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-final
+      - 1.1.0
+  vertx-mod-solr:
+    lastUpdated: 20150515172544
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  vertx-mod-when:
+    lastUpdated: 20141030193953
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0-final
+      - 1.1.0-final
+      - 1.1.1-final
+      - 1.1.2-final
+      - 1.2.0-final
+      - 2.0.0
+      - 2.0.1
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+  vertx-mod-zookeeper:
+    lastUpdated: 20141209214500
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  vertx-zookeeper:
+    lastUpdated: 20141209214500
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  when.java:
+    lastUpdated: 20160718133850
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+  when.java-parent:
+    lastUpdated: 20160718133850
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+  when.java-testtools:
+    lastUpdated: 20141113192206
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0-RC1
+      - 3.0.0
+      - 3.0.1
+

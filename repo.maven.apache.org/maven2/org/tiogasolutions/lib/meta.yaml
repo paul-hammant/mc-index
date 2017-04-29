@@ -1,0 +1,200 @@
+artifacts:
+  tioga-lib-couchace:
+    lastUpdated: 20170409020753
+    latest: 5.1.7
+    release: 5.1.7
+    versions:
+      - 5.0.8
+      - 5.0.9
+      - 5.0.10
+      - 5.0.11
+      - 5.0.12
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7
+  tioga-lib-hal:
+    lastUpdated: 20170305193917
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  tioga-lib-jaxrs:
+    lastUpdated: 20170412011005
+    latest: 6.0.2
+    release: 6.0.2
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.1.4
+      - 5.1.5
+      - 5.1.6
+      - 5.1.7
+      - 5.1.8
+      - 5.1.9
+      - 5.1.10
+      - 5.1.11
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+  tioga-lib-jaxrs-jackson:
+    lastUpdated: 20151124202156
+    latest: 5.2.1
+    release: 5.2.1
+    versions:
+      - 5.0.6
+      - 5.1.0
+      - 5.1.2
+      - 5.1.3
+      - 5.1.4
+      - 5.1.5
+      - 5.2.0
+      - 5.2.1
+  tioga-lib-joda:
+    lastUpdated: 20161123060652
+    latest: 4.2.5
+    release: 4.2.5
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+  tioga-lib-pub:
+    lastUpdated: 20170305061111
+    latest: 1.0.2.DEPRECATED
+    release: 1.0.2.DEPRECATED
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.DEPRECATED
+  tioga-lib-selenium:
+    lastUpdated: 20161123060652
+    latest: 4.2.5
+    release: 4.2.5
+    versions:
+      - 4.1.5
+      - 4.1.6
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+  tioga-lib-servlet:
+    lastUpdated: 20161123060653
+    latest: 4.2.5
+    release: 4.2.5
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+  tioga-lib-spring:
+    lastUpdated: 20161123060653
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  tioga-lib-spring-amazon:
+    lastUpdated: 20161123060654
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  tioga-lib-spring-couchace:
+    lastUpdated: 20161123060654
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  tioga-lib-spring-jaxrs:
+    lastUpdated: 20150501032804
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tioga-lib-spring-jersey:
+    lastUpdated: 20150615183945
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  tioga-lib-spring-security:
+    lastUpdated: 20170331024702
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 4.1.9
+      - 4.1.10
+      - 4.1.11
+      - 4.1.12
+      - 4.1.13
+      - 4.2.0
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 5.0.0
+  tioga-lib-thymeleaf:
+    lastUpdated: 20161123060655
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+

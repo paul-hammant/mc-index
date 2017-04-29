@@ -1,0 +1,227 @@
+artifacts:
+  geotrellis-accumulo_2.11:
+    lastUpdated: 20170420212408
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-cassandra_2.11:
+    lastUpdated: 20170420212408
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-geomesa_2.11:
+    lastUpdated: 20170420212408
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-geotools_2.11:
+    lastUpdated: 20170420212409
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-geowave_2.11:
+    lastUpdated: 20170404204514
+    latest: 1.1.0-RC3
+    release: 1.1.0-RC3
+    versions:
+      - 1.1.0-RC3
+  geotrellis-hbase_2.11:
+    lastUpdated: 20170420212409
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-macros_2.11:
+    lastUpdated: 20170420212409
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-proj4_2.11:
+    lastUpdated: 20170420212410
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-raster-testkit_2.11:
+    lastUpdated: 20170420212410
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-raster_2.11:
+    lastUpdated: 20170420212411
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-s3-testkit_2.11:
+    lastUpdated: 20170420212411
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-s3_2.11:
+    lastUpdated: 20170420212411
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-shapefile_2.11:
+    lastUpdated: 20170420212412
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-slick_2.11:
+    lastUpdated: 20170420212412
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-spark-etl_2.11:
+    lastUpdated: 20170420212412
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-spark-testkit_2.11:
+    lastUpdated: 20170420212412
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-spark_2.11:
+    lastUpdated: 20170420212413
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-util_2.11:
+    lastUpdated: 20170420212414
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-vector-testkit_2.11:
+    lastUpdated: 20170420212414
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-vector_2.11:
+    lastUpdated: 20170420212415
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+  geotrellis-vectortile_2.11:
+    lastUpdated: 20170420212415
+    latest: 1.1.0-RC4
+    release: 1.1.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0-RC3
+      - 1.1.0-RC4
+

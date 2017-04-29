@@ -1,0 +1,803 @@
+artifacts:
+  console-application:
+    lastUpdated: 20131003084909
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-audit:
+    lastUpdated: 20131003084909
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-audit-client:
+    lastUpdated: 20131003084909
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-audit-server:
+    lastUpdated: 20131003084909
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-builder:
+    lastUpdated: 20131003084909
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-builder-client:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-builder-server:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-classloader:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-classloader-client:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-classloader-server:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-jdbcconnections:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-jdbcconnections-client:
+    lastUpdated: 20131003084910
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-jdbcconnections-server:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-osgiconsole:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-osgiconsole-client:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-osgiconsole-server:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-webservices:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-webservices-client:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  console-module-webservices-server:
+    lastUpdated: 20131003084911
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  jar:
+    lastUpdated: 20090909144116
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jonas-console:
+    lastUpdated: 20131003084912
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  jonas-console-assemblies:
+    lastUpdated: 20131003084912
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  jonas-console-modules:
+    lastUpdated: 20131003084912
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  jonasadmin-flex:
+    lastUpdated: 20090909144106
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 1.0.0
+      - 1.0.1
+  jonasadmin-flex-modules:
+    lastUpdated: 20090312130138
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-jar:
+    lastUpdated: 20090312131942
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swc:
+    lastUpdated: 20090312130154
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf:
+    lastUpdated: 20090312130203
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-begun-transactions:
+    lastUpdated: 20090312131408
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-cluster:
+    lastUpdated: 20090312130812
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-cluster-syntheticview:
+    lastUpdated: 20090312131209
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-clusterdaemons:
+    lastUpdated: 20090312130715
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-clusters:
+    lastUpdated: 20090312130609
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-committed-transactions:
+    lastUpdated: 20090312131446
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-current-transactions:
+    lastUpdated: 20090312131602
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-domain:
+    lastUpdated: 20090312130354
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-domain-syntheticview:
+    lastUpdated: 20090312131124
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-expired-transactions:
+    lastUpdated: 20090312131524
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-graphcluster:
+    lastUpdated: 20090312131037
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-graphdomain:
+    lastUpdated: 20090312130857
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-home:
+    lastUpdated: 20090312130239
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-parametrizedchart:
+    lastUpdated: 20090312131741
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-rolledback-transactions:
+    lastUpdated: 20090312131647
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-server:
+    lastUpdated: 20090312130523
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-server-monitoring:
+    lastUpdated: 20090312130938
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-servers:
+    lastUpdated: 20090312130444
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-stackdump:
+    lastUpdated: 20090312131824
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-threadcount:
+    lastUpdated: 20090312131327
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-tree:
+    lastUpdated: 20090312130316
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-swf-used-memorychart:
+    lastUpdated: 20090312131250
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-flex-modules-war:
+    lastUpdated: 20090312131956
+    latest: {}
+    release: {}
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jonasadmin-kerneos:
+    lastUpdated: 20121023143136
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-assemblies:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-assemblies-war:
+    lastUpdated: 20121023143141
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules:
+    lastUpdated: 20121023143137
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-audit:
+    lastUpdated: 20121023143138
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-audit-client:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-audit-server:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-builder:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-builder-client:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-builder-server:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-classloader:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-classloader-client:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-classloader-server:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-jdbcconnections:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-jdbcconnections-client:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-jdbcconnections-server:
+    lastUpdated: 20121023143139
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-osgiconsole:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-osgiconsole-client:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-osgiconsole-server:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-webservices:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-webservices-client:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jonasadmin-kerneos-modules-webservices-server:
+    lastUpdated: 20121023143140
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  modules:
+    lastUpdated: 20090909144110
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swc:
+    lastUpdated: 20090909144129
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf:
+    lastUpdated: 20090909144134
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-cluster:
+    lastUpdated: 20090909144137
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-cluster-chart:
+    lastUpdated: 20090909144154
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-cluster-info:
+    lastUpdated: 20090909144213
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-cluster-syntheticview:
+    lastUpdated: 20090909144229
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-clusterdaemon:
+    lastUpdated: 20090909144234
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-clusterdaemon-info:
+    lastUpdated: 20090909144252
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-domain:
+    lastUpdated: 20090909144258
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-domain-chart:
+    lastUpdated: 20090909144313
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-domain-syntheticview:
+    lastUpdated: 20090909144330
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-home:
+    lastUpdated: 20090909144349
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-server:
+    lastUpdated: 20090909144353
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-server-info:
+    lastUpdated: 20090909144409
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-server-monitoring:
+    lastUpdated: 20090909144429
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-server-stackdump:
+    lastUpdated: 20090909144451
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree:
+    lastUpdated: 20090909144457
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree-builder:
+    lastUpdated: 20090909144515
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree-cluster:
+    lastUpdated: 20090909144536
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree-clusterdaemon:
+    lastUpdated: 20090909144558
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree-domain:
+    lastUpdated: 20090909144619
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  swf-tree-server:
+    lastUpdated: 20090909144637
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  war:
+    lastUpdated: 20090909144646
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+

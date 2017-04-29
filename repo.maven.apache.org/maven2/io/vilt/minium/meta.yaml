@@ -1,0 +1,238 @@
+artifacts:
+  minium:
+    lastUpdated: 20170321142142
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-actions:
+    lastUpdated: 20170321142142
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-cucumber:
+    lastUpdated: 20170321142142
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-cucumber-archetype:
+    lastUpdated: 20150521162547
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+  minium-cucumber-parent:
+    lastUpdated: 20170321142143
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-cucumber-rest:
+    lastUpdated: 20170321142143
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-developer-e2e-tests:
+    lastUpdated: 20161228120339
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.3.0
+      - 1.4.1
+      - 1.5.0
+  minium-docs:
+    lastUpdated: 20170321142143
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-elements:
+    lastUpdated: 20170321142144
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-logback-test:
+    lastUpdated: 20170321142144
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  minium-parent:
+    lastUpdated: 20170321142144
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-script-js:
+    lastUpdated: 20170321142145
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-script-rhinojs:
+    lastUpdated: 20170321142145
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-webelements:
+    lastUpdated: 20170321142145
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  minium-webelements-config:
+    lastUpdated: 20170321142146
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+

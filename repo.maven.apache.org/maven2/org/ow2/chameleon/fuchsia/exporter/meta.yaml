@@ -1,0 +1,41 @@
+artifacts:
+  fuchsia-exporters:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jaxws:
+    lastUpdated: 20131130100715
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  org.ow2.chameleon.fuchsia.exporter.jax-ws:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.exporter.json-rpc:
+    lastUpdated: 20150114102249
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  org.ow2.chameleon.fuchsia.exporter.protobuffer:
+    lastUpdated: 20150114102250
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

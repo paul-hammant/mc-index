@@ -1,0 +1,27 @@
+artifacts:
+  binpack:
+    lastUpdated: 20140824143117
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  cube-parent:
+    lastUpdated: 20141024055238
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  cube-parent-for-oss:
+    lastUpdated: 20141121151449
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  parent:
+    lastUpdated: 20140806022621
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

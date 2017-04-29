@@ -1,0 +1,348 @@
+artifacts:
+  sscontrol-api:
+    lastUpdated: 20150604213423
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-cli-app:
+    lastUpdated: 20150604223439
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-cli-install:
+    lastUpdated: 20150604223444
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-cli-parent:
+    lastUpdated: 20150604223446
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-core:
+    lastUpdated: 20150604213431
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-database:
+    lastUpdated: 20150427220324
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-database-mysql:
+    lastUpdated: 20150427220326
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-dhclient:
+    lastUpdated: 20150427220327
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-dns:
+    lastUpdated: 20150427220339
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-dns-maradns:
+    lastUpdated: 20150427220345
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-firewall:
+    lastUpdated: 20150427220347
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-firewall-ufw:
+    lastUpdated: 20150427220347
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-hostname:
+    lastUpdated: 20150427220348
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-hosts:
+    lastUpdated: 20150414175829
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd:
+    lastUpdated: 20150427220348
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-apache:
+    lastUpdated: 20150414175833
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-citadel:
+    lastUpdated: 20150414175839
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-gitit:
+    lastUpdated: 20150414175841
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-nginx:
+    lastUpdated: 20150414175844
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-owncloud:
+    lastUpdated: 20150414175845
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-phpmyadmin:
+    lastUpdated: 20150414175847
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-piwik:
+    lastUpdated: 20150414175849
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-redmine:
+    lastUpdated: 20150414175852
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-roundcube:
+    lastUpdated: 20150414175854
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-thin:
+    lastUpdated: 20150414175856
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-webservice:
+    lastUpdated: 20150427220349
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-wordpress:
+    lastUpdated: 20150414175840
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-httpd-yourls:
+    lastUpdated: 20150414175842
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-4
+  sscontrol-mail:
+    lastUpdated: 20150414175844
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-mail-postfix:
+    lastUpdated: 20150414175847
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-parent:
+    lastUpdated: 20150604213437
+    latest: 1.0-alpha-5
+    release: 1.0-alpha-5
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+      - 1.0-alpha-5
+  sscontrol-profile:
+    lastUpdated: 20150427220351
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-remoteaccess:
+    lastUpdated: 20150414175848
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-repo:
+    lastUpdated: 20150414175851
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-scripts-unix:
+    lastUpdated: 20150427220352
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-security:
+    lastUpdated: 20150414175853
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-security-clamav:
+    lastUpdated: 20150414175855
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-security-fail2ban:
+    lastUpdated: 20150414175900
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-security-service:
+    lastUpdated: 20150414175901
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-security-spamassassin:
+    lastUpdated: 20150414175910
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+  sscontrol-source:
+    lastUpdated: 20150414175917
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-4
+  sscontrol-source-gitolite:
+    lastUpdated: 20150414175919
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-4
+  sscontrol-source-service:
+    lastUpdated: 20150414175922
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-4
+  sscontrol-testutils:
+    lastUpdated: 20150427220353
+    latest: 1.0-alpha-4
+    release: 1.0-alpha-4
+    versions:
+      - 1.0-alpha-3
+      - 1.0-alpha-4
+

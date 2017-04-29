@@ -1,0 +1,113 @@
+artifacts:
+  example:
+    lastUpdated: 20170317160448
+    latest: 1.15
+    release: 1.15
+    versions:
+      - 1.13
+      - 1.14
+      - 1.15
+      - 1.13
+      - 1.14
+      - 1.15
+  jansi:
+    lastUpdated: 20130513132321
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  jansi-linux32:
+    lastUpdated: 20160427163159
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  jansi-linux64:
+    lastUpdated: 20160427163200
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  jansi-native:
+    lastUpdated: 20160427163254
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  jansi-osx:
+    lastUpdated: 20160427163255
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  jansi-project:
+    lastUpdated: 20130513132321
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  jansi-website:
+    lastUpdated: 20130513132321
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  jansi-windows32:
+    lastUpdated: 20160427163217
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  jansi-windows64:
+    lastUpdated: 20160427163235
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+

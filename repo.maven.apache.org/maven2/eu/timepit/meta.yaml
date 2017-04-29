@@ -1,0 +1,638 @@
+artifacts:
+  crjdt-circe_2.11:
+    lastUpdated: 20170217061553
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  crjdt-circe_2.12:
+    lastUpdated: 20170217061554
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  crjdt-circe_sjs0.6_2.11:
+    lastUpdated: 20170217061554
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  crjdt-circe_sjs0.6_2.12:
+    lastUpdated: 20170217061554
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  crjdt-core_2.11:
+    lastUpdated: 20170217061433
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  crjdt-core_2.12:
+    lastUpdated: 20170217061434
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  crjdt-core_sjs0.6_2.11:
+    lastUpdated: 20170217061434
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  crjdt-core_sjs0.6_2.12:
+    lastUpdated: 20170217061435
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  refined-eval_2.10:
+    lastUpdated: 20170317044514
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-eval_2.11:
+    lastUpdated: 20170317044514
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-eval_2.12:
+    lastUpdated: 20170317044515
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-eval_sjs0.6_2.10:
+    lastUpdated: 20170317044515
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-eval_sjs0.6_2.11:
+    lastUpdated: 20170317044515
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-eval_sjs0.6_2.12:
+    lastUpdated: 20170317044515
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  refined-pureconfig_2.10:
+    lastUpdated: 20170317045049
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-pureconfig_2.11:
+    lastUpdated: 20170317045049
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-pureconfig_2.12:
+    lastUpdated: 20170317045049
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_2.10:
+    lastUpdated: 20170317044642
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_2.11:
+    lastUpdated: 20170317044642
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_2.12:
+    lastUpdated: 20170317044643
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_2.12.0-M4:
+    lastUpdated: 20160509182410
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  refined-scalacheck_2.12.0-M5:
+    lastUpdated: 20160706213557
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  refined-scalacheck_2.12.0-RC2:
+    lastUpdated: 20161020124745
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  refined-scalacheck_sjs0.6_2.10:
+    lastUpdated: 20170317044643
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_sjs0.6_2.11:
+    lastUpdated: 20170317044643
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_sjs0.6_2.12:
+    lastUpdated: 20170317044644
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalacheck_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160509182412
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  refined-scalacheck_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160706213558
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  refined-scalacheck_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020124747
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  refined-scalaz_2.10:
+    lastUpdated: 20170317044813
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_2.11:
+    lastUpdated: 20170317044813
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_2.12:
+    lastUpdated: 20170317044813
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_2.12.0-RC2:
+    lastUpdated: 20161020124941
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  refined-scalaz_sjs0.6_2.10:
+    lastUpdated: 20170317044813
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_sjs0.6_2.11:
+    lastUpdated: 20170317044814
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_sjs0.6_2.12:
+    lastUpdated: 20170317044814
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scalaz_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020124942
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  refined-scodec_2.10:
+    lastUpdated: 20170317044940
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_2.11:
+    lastUpdated: 20170317044940
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_2.12:
+    lastUpdated: 20170317044940
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_2.12.0-RC2:
+    lastUpdated: 20161020125051
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  refined-scodec_sjs0.6_2.10:
+    lastUpdated: 20170317044940
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_sjs0.6_2.11:
+    lastUpdated: 20170317044941
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_sjs0.6_2.12:
+    lastUpdated: 20170317044941
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined-scodec_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020125052
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  refined_2.10:
+    lastUpdated: 20170317044348
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_2.11:
+    lastUpdated: 20170317044348
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_2.12:
+    lastUpdated: 20170317044349
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_2.12.0-M4:
+    lastUpdated: 20160509182240
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  refined_2.12.0-M5:
+    lastUpdated: 20160706211146
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  refined_2.12.0-RC2:
+    lastUpdated: 20161020124635
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  refined_sjs0.6_2.10:
+    lastUpdated: 20170317044349
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_sjs0.6_2.11:
+    lastUpdated: 20170317044349
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.3.7
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_sjs0.6_2.12:
+    lastUpdated: 20170317044350
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+  refined_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160509182241
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  refined_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160706211147
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  refined_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020124636
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  singleton-ops_2.11:
+    lastUpdated: 20170216025040
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  singleton-ops_2.12:
+    lastUpdated: 20170216025040
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+

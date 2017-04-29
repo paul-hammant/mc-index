@@ -1,0 +1,170 @@
+artifacts:
+  openiab:
+    lastUpdated: 20150508133539
+    latest: 0.9.8.7
+    release: 0.9.8.7
+    versions:
+      - 0.9.7
+      - 0.9.7.1
+      - 0.9.7.2
+      - 0.9.7.2-fortumo
+      - 0.9.8
+      - 0.9.8.1
+      - 0.9.8.2
+      - 0.9.8.3
+      - 0.9.8.4
+      - 0.9.8.6
+      - 0.9.8.7
+  opfiab:
+    lastUpdated: 20150713024954
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+  opfiab-amazon:
+    lastUpdated: 20150713030351
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 0.4.0
+  opfiab-google:
+    lastUpdated: 20150713030352
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+  opfiab-openstore:
+    lastUpdated: 20150713030353
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  opfiab-samsung:
+    lastUpdated: 20150713030354
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  opfmaps:
+    lastUpdated: 20151104174701
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opfmaps-amazon:
+    lastUpdated: 20151104174702
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opfmaps-google:
+    lastUpdated: 20151104174703
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opfmaps-osmdroid:
+    lastUpdated: 20151104174704
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opfmaps-yandex-web:
+    lastUpdated: 20151104174704
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  opfpush:
+    lastUpdated: 20150722140406
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+  opfpush-adm:
+    lastUpdated: 20150722141752
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+  opfpush-gcm:
+    lastUpdated: 20150722141753
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+  opfpush-nokia:
+    lastUpdated: 20150722141753
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+  opfutils:
+    lastUpdated: 20150928134330
+    latest: 0.1.26
+    release: 0.1.26
+    versions:
+      - 0.1.11
+      - 0.1.12
+      - 0.1.15
+      - 0.1.20
+      - 0.1.21
+      - 0.1.22
+      - 0.1.23
+      - 0.1.24
+      - 0.1.25
+      - 0.1.26
+

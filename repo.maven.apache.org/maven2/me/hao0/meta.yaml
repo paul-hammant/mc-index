@@ -1,0 +1,249 @@
+artifacts:
+  alipay:
+    lastUpdated: 20170109025352
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  alipay-api:
+    lastUpdated: 20170109025352
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  alipay-core:
+    lastUpdated: 20170109025352
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  antares:
+    lastUpdated: 20170411135054
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  antares-client:
+    lastUpdated: 20170411135054
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  antares-client-spring:
+    lastUpdated: 20170411135054
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  antares-common:
+    lastUpdated: 20170411135054
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  common:
+    lastUpdated: 20160803024349
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  diablo:
+    lastUpdated: 20170310032646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  diablo-client:
+    lastUpdated: 20170310032646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  diablo-client-spring:
+    lastUpdated: 20170310032646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  diablo-common:
+    lastUpdated: 20170310032646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  session:
+    lastUpdated: 20151225071005
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  session-api:
+    lastUpdated: 20151225071005
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  session-redis:
+    lastUpdated: 20151225071006
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  wechat:
+    lastUpdated: 20170307122704
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.6.7
+      - 1.6.8
+      - 1.6.9
+      - 1.6.10
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  wepay:
+    lastUpdated: 20170423070940
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  wepay-core:
+    lastUpdated: 20170423070940
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+  wepay-demo:
+    lastUpdated: 20170423070941
+    latest: 1.2.5
+    release: 1.2.5
+    versions:
+      - 1.2.5
+

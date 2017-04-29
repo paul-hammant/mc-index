@@ -1,0 +1,49 @@
+artifacts:
+  xmlrpc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.0-beta
+      - 1.2-a1
+      - 1.2-a2
+      - 1.2-a3-dev
+      - 1.2-a3-dev.20030102.111633
+      - 1.2-b1
+      - 2.0.1
+      - 3.0a1
+  xmlrpc-1.2-a3:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - dev
+      - dev.20030102.111633
+  xmlrpc-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.0b1
+  xmlrpc-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.0b1
+  xmlrpc-helma:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  xmlrpc-server:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.0b1
+

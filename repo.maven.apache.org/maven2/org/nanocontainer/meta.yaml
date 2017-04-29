@@ -1,0 +1,289 @@
+artifacts:
+  nanocontainer:
+    lastUpdated: 20071211230920
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-aop:
+    lastUpdated: 20071211232724
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-booter:
+    lastUpdated: 20071212000310
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-bsh:
+    lastUpdated: 20071211233459
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-deployer:
+    lastUpdated: 20071212000753
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-distribution:
+    lastUpdated: 20071212002633
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-groovy:
+    lastUpdated: 20071211234002
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-jruby:
+    lastUpdated: 20071211234720
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-jython:
+    lastUpdated: 20071211235214
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-nanowar:
+    lastUpdated: 20071212215331
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-axis:
+    lastUpdated: 20071212220250
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-distribution:
+    lastUpdated: 20071212223443
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-example:
+    lastUpdated: 20070318140657
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-nanowar-jsf:
+    lastUpdated: 20071212220821
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-nanoweb:
+    lastUpdated: 20071212221321
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-parent:
+    lastUpdated: 20071212214741
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-struts:
+    lastUpdated: 20071212221849
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-webwork:
+    lastUpdated: 20071212222413
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-nanowar-webwork2:
+    lastUpdated: 20071212222937
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+  nanocontainer-parent:
+    lastUpdated: 20071211225750
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-persistence:
+    lastUpdated: 20070318121159
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-persistence-distribution:
+    lastUpdated: 20070318121504
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-persistence-hibernate-annotations:
+    lastUpdated: 20070318121344
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-persistence-hibernate2:
+    lastUpdated: 20070318121237
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-persistence-hibernate3:
+    lastUpdated: 20070318121309
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-persistence-parent:
+    lastUpdated: 20070318121139
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanocontainer-rhino:
+    lastUpdated: 20071211235649
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-tck:
+    lastUpdated: 20071211231823
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-testmodel:
+    lastUpdated: 20071211230100
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanocontainer-webcontainer:
+    lastUpdated: 20071212001451
+    latest: {}
+    release: 1.1.2
+    versions:
+      - 1.1-RC-1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+  nanowar-jsf-webapp:
+    lastUpdated: 20070318140727
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanowar-nanoweb-webapp:
+    lastUpdated: 20070318141031
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanowar-struts-webapp:
+    lastUpdated: 20070318141258
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanowar-webwork-webapp:
+    lastUpdated: 20070318141436
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+  nanowar-webwork2-webapp:
+    lastUpdated: 20070318141608
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-RC-1
+      - 1.1
+

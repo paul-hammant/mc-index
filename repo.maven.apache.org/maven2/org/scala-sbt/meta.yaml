@@ -1,0 +1,1996 @@
+artifacts:
+  actions_2.10:
+    lastUpdated: 20160512203140
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  actions_2.11:
+    lastUpdated: 20160512203141
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  actions_2.12:
+    lastUpdated: 20170418170802
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  benchmarks-of-zinc-and-the-compiler-bridge_2.11:
+    lastUpdated: 20170418041744
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  benchmarks-of-zinc-and-the-compiler-bridge_2.12:
+    lastUpdated: 20170418041745
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  command_2.10:
+    lastUpdated: 20160512203142
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  command_2.11:
+    lastUpdated: 20160512203143
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  command_2.12:
+    lastUpdated: 20170418170802
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  compiler-bridge_2.10:
+    lastUpdated: 20170418041745
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  compiler-bridge_2.11:
+    lastUpdated: 20170418041745
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  compiler-bridge_2.12:
+    lastUpdated: 20170418041746
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  compiler-interface:
+    lastUpdated: 20170418041746
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  contraband_2.10:
+    lastUpdated: 20170125202359
+    latest: 0.3.0-M4
+    release: 0.3.0-M4
+    versions:
+      - 0.3.0-M1
+      - 0.3.0-M2
+      - 0.3.0-M3
+      - 0.3.0-M4
+  contraband_2.11:
+    lastUpdated: 20170125202359
+    latest: 0.3.0-M4
+    release: 0.3.0-M4
+    versions:
+      - 0.3.0-M1
+      - 0.3.0-M2
+      - 0.3.0-M3
+      - 0.3.0-M4
+  contraband_2.12:
+    lastUpdated: 20170125202400
+    latest: 0.3.0-M4
+    release: 0.3.0-M4
+    versions:
+      - 0.3.0-M1
+      - 0.3.0-M2
+      - 0.3.0-M3
+      - 0.3.0-M4
+  incrementalcompiler-apiinfo_2.10:
+    lastUpdated: 20160226050041
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-apiinfo_2.11:
+    lastUpdated: 20160226050043
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-classfile_2.10:
+    lastUpdated: 20160226050043
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-classfile_2.11:
+    lastUpdated: 20160226050044
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-classpath_2.10:
+    lastUpdated: 20160226050046
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-classpath_2.11:
+    lastUpdated: 20160226050046
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-compile-core_2.10:
+    lastUpdated: 20160226050047
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-compile-core_2.11:
+    lastUpdated: 20160226050049
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-compile_2.10:
+    lastUpdated: 20160226050050
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-compile_2.11:
+    lastUpdated: 20160226050051
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-core_2.10:
+    lastUpdated: 20160226050052
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-core_2.11:
+    lastUpdated: 20160226050053
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-ivy-integration_2.10:
+    lastUpdated: 20160226050054
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-ivy-integration_2.11:
+    lastUpdated: 20160226050055
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-persist_2.10:
+    lastUpdated: 20160226050056
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-persist_2.11:
+    lastUpdated: 20160226050057
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler-scripted_2.10:
+    lastUpdated: 20160226050058
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M3
+  incrementalcompiler-scripted_2.11:
+    lastUpdated: 20160226050059
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M3
+  incrementalcompiler_2.10:
+    lastUpdated: 20160226050100
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  incrementalcompiler_2.11:
+    lastUpdated: 20160226050101
+    latest: 0.1.0-M3
+    release: 0.1.0-M3
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+  io_2.10:
+    lastUpdated: 20170412131831
+    latest: 1.0.0-M11
+    release: 1.0.0-M11
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+  io_2.11:
+    lastUpdated: 20170412131832
+    latest: 1.0.0-M11
+    release: 1.0.0-M11
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+  io_2.12:
+    lastUpdated: 20170412131832
+    latest: 1.0.0-M11
+    release: 1.0.0-M11
+    versions:
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+  io_2.12.0-M4:
+    lastUpdated: 20160504200739
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+  launcher:
+    lastUpdated: 20170311045758
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-M1
+      - 1.0.0
+      - 1.0.1
+  launcher-interface:
+    lastUpdated: 20170311045759
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-M1
+      - 1.0.0
+      - 1.0.1
+  librarymanagement_2.10:
+    lastUpdated: 20160604202444
+    latest: 0.1.0-M12
+    release: 0.1.0-M12
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+  librarymanagement_2.11:
+    lastUpdated: 20170417175602
+    latest: 1.0.0-X10
+    release: 1.0.0-X10
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-X1
+      - 0.1.0-X2
+      - 0.1.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X7
+      - 1.0.0-X9
+      - 1.0.0-X10
+  librarymanagement_2.12:
+    lastUpdated: 20170417175602
+    latest: 1.0.0-X10
+    release: 1.0.0-X10
+    versions:
+      - 0.1.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X7
+      - 1.0.0-X9
+      - 1.0.0-X10
+  main-settings_2.10:
+    lastUpdated: 20160512203144
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  main-settings_2.11:
+    lastUpdated: 20160512203144
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  main-settings_2.12:
+    lastUpdated: 20170418170803
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  main_2.10:
+    lastUpdated: 20160512203145
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  main_2.11:
+    lastUpdated: 20160512203146
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  main_2.12:
+    lastUpdated: 20170418170803
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  protocol_2.12:
+    lastUpdated: 20170418170804
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  run_2.10:
+    lastUpdated: 20160512203147
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  run_2.11:
+    lastUpdated: 20160512203147
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  run_2.12:
+    lastUpdated: 20170418170805
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  sbinary_2.10:
+    lastUpdated: 20170107074810
+    latest: 0.4.4
+    release: 0.4.4
+    versions:
+      - 0.4.3
+      - 0.4.4
+  sbinary_2.11:
+    lastUpdated: 20170107074810
+    latest: 0.4.4
+    release: 0.4.4
+    versions:
+      - 0.4.3
+      - 0.4.4
+  sbinary_2.12:
+    lastUpdated: 20170107074810
+    latest: 0.4.4
+    release: 0.4.4
+    versions:
+      - 0.4.4
+  sbt:
+    lastUpdated: 20170418170805
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+  sbt-launch:
+    lastUpdated: 20170418170805
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+  scripted-plugin_2.10:
+    lastUpdated: 20160512203150
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scripted-plugin_2.11:
+    lastUpdated: 20160512203151
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scripted-plugin_2.12:
+    lastUpdated: 20170418170806
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  scripted-sbt_2.10:
+    lastUpdated: 20160512203152
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scripted-sbt_2.11:
+    lastUpdated: 20160512203154
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scripted-sbt_2.12:
+    lastUpdated: 20170418170807
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  serialization_2.10:
+    lastUpdated: 20150602062019
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  serialization_2.11:
+    lastUpdated: 20150602062020
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  task-system_2.10:
+    lastUpdated: 20160512203156
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  task-system_2.11:
+    lastUpdated: 20160512203157
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  task-system_2.12:
+    lastUpdated: 20170418170808
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  tasks_2.10:
+    lastUpdated: 20160512203158
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  tasks_2.11:
+    lastUpdated: 20160512203159
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  tasks_2.12:
+    lastUpdated: 20170418170808
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  template-resolver:
+    lastUpdated: 20160822024848
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  test-agent:
+    lastUpdated: 20170418170809
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+  test-interface:
+    lastUpdated: 20130701144425
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  testing_2.10:
+    lastUpdated: 20160512203201
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  testing_2.11:
+    lastUpdated: 20160512203202
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 0.99.2
+      - 0.99.4
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  testing_2.12:
+    lastUpdated: 20170418170809
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  util-apply-macro_2.10:
+    lastUpdated: 20160511155851
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-apply-macro_2.11:
+    lastUpdated: 20170418002238
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-apply-macro_2.12:
+    lastUpdated: 20170418002239
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-cache_2.10:
+    lastUpdated: 20160511155852
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-cache_2.11:
+    lastUpdated: 20170418002239
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-cache_2.12:
+    lastUpdated: 20170418002240
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-collection_2.10:
+    lastUpdated: 20170418002240
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-collection_2.11:
+    lastUpdated: 20170418002241
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-collection_2.12:
+    lastUpdated: 20170418002241
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-completion_2.10:
+    lastUpdated: 20160511155855
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-completion_2.11:
+    lastUpdated: 20170418002242
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-completion_2.12:
+    lastUpdated: 20170418002243
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-control_2.10:
+    lastUpdated: 20160511155856
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-control_2.11:
+    lastUpdated: 20170418002243
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-control_2.12:
+    lastUpdated: 20170418002243
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-interface:
+    lastUpdated: 20170418002244
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-interface_2.10:
+    lastUpdated: 20150905054334
+    latest: 0.1.0-M2
+    release: 0.1.0-M2
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+  util-interface_2.11:
+    lastUpdated: 20150902064146
+    latest: 0.1.0-M1
+    release: 0.1.0-M1
+    versions:
+      - 0.1.0-M1
+  util-logging_2.10:
+    lastUpdated: 20170418002245
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-logging_2.11:
+    lastUpdated: 20170418002245
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-logging_2.12:
+    lastUpdated: 20170418002245
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-logic_2.10:
+    lastUpdated: 20160511155900
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-logic_2.11:
+    lastUpdated: 20170418002246
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-logic_2.12:
+    lastUpdated: 20170418002246
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-relation_2.10:
+    lastUpdated: 20160511155902
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-relation_2.11:
+    lastUpdated: 20170418002247
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-relation_2.12:
+    lastUpdated: 20170418002247
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-scripted_2.10:
+    lastUpdated: 20160511155905
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-scripted_2.11:
+    lastUpdated: 20170418002248
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-scripted_2.12:
+    lastUpdated: 20170418002248
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-testing_2.10:
+    lastUpdated: 20170418002248
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-testing_2.11:
+    lastUpdated: 20170418002249
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-testing_2.12:
+    lastUpdated: 20170418002249
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-tracking_2.10:
+    lastUpdated: 20160511155908
+    latest: 0.1.0-M13
+    release: 0.1.0-M13
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+  util-tracking_2.11:
+    lastUpdated: 20170418002250
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-M7
+      - 0.1.0-M8
+      - 0.1.0-M9
+      - 0.1.0-M10
+      - 0.1.0-M11
+      - 0.1.0-M12
+      - 0.1.0-M13
+      - 0.1.0-M14
+      - 0.1.0-M15
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  util-tracking_2.12:
+    lastUpdated: 20170418002250
+    latest: 1.0.0-M23
+    release: 1.0.0-M23
+    versions:
+      - 0.1.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+  zinc-apiinfo_2.10:
+    lastUpdated: 20170418041747
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-apiinfo_2.11:
+    lastUpdated: 20170418041747
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-apiinfo_2.12:
+    lastUpdated: 20170418041748
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classfile_2.10:
+    lastUpdated: 20170418041748
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classfile_2.11:
+    lastUpdated: 20170418041749
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classfile_2.12:
+    lastUpdated: 20170418041749
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classpath_2.10:
+    lastUpdated: 20170418041750
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classpath_2.11:
+    lastUpdated: 20170418041750
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-classpath_2.12:
+    lastUpdated: 20170418041750
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-compile-core_2.10:
+    lastUpdated: 20161116032544
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-compile-core_2.11:
+    lastUpdated: 20170418041751
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-compile-core_2.12:
+    lastUpdated: 20170418041751
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-compile_2.10:
+    lastUpdated: 20161116032545
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-compile_2.11:
+    lastUpdated: 20170418041752
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-compile_2.12:
+    lastUpdated: 20170418041752
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-core_2.10:
+    lastUpdated: 20161116032546
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-core_2.11:
+    lastUpdated: 20170418041753
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-core_2.12:
+    lastUpdated: 20170418041753
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-ivy-integration_2.10:
+    lastUpdated: 20161116032547
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-ivy-integration_2.11:
+    lastUpdated: 20170418041753
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-ivy-integration_2.12:
+    lastUpdated: 20170418041754
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-persist_2.10:
+    lastUpdated: 20161116032548
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-persist_2.11:
+    lastUpdated: 20170418041755
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-persist_2.12:
+    lastUpdated: 20170418041755
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-scripted_2.10:
+    lastUpdated: 20161116032549
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc-scripted_2.11:
+    lastUpdated: 20170418041756
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc-scripted_2.12:
+    lastUpdated: 20170418041756
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc_2.10:
+    lastUpdated: 20161116032550
+    latest: 1.0.0-X6
+    release: 1.0.0-X6
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+  zinc_2.11:
+    lastUpdated: 20170418041756
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-X1
+      - 1.0.0-X2
+      - 1.0.0-X3
+      - 1.0.0-X4
+      - 1.0.0-X5
+      - 1.0.0-X6
+      - 1.0.0-X7
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+  zinc_2.12:
+    lastUpdated: 20170418041757
+    latest: 1.0.0-X14
+    release: 1.0.0-X14
+    versions:
+      - 1.0.0-X8
+      - 1.0.0-X9
+      - 1.0.0-X10
+      - 1.0.0-X11
+      - 1.0.0-X12
+      - 1.0.0-X13
+      - 1.0.0-X14
+

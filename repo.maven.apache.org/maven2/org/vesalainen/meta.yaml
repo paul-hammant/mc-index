@@ -1,0 +1,57 @@
+artifacts:
+  comm:
+    lastUpdated: 20160622185640
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  dev:
+    lastUpdated: 20170119175821
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  parent:
+    lastUpdated: 20170119184015
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.8.0
+  security:
+    lastUpdated: 20170119180707
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+  util:
+    lastUpdated: 20170119180707
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.8.0
+  utilities:
+    lastUpdated: 20170119180708
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+

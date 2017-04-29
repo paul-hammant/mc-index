@@ -1,0 +1,227 @@
+artifacts:
+  android-commons-iterables:
+    lastUpdated: 20160418073818
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  android-commons-iterators:
+    lastUpdated: 20160418073818
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  commons-collections:
+    lastUpdated: 20170305151407
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  commons-datastructures:
+    lastUpdated: 20170305122007
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+  commons-interfaces:
+    lastUpdated: 20170305121809
+    latest: 4.0.2
+    release: 4.0.2
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.0.1
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+  commons-iterables:
+    lastUpdated: 20170305122333
+    latest: 3.2.1
+    release: 3.2.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+  commons-iterators:
+    lastUpdated: 20170305122148
+    latest: 3.2.1
+    release: 3.2.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.2.1
+  commons-nulls:
+    lastUpdated: 20170305120845
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  utils-data-fetcher:
+    lastUpdated: 20170305121326
+    latest: 4.0.2
+    release: 4.0.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.1.0
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+  utils-json-common:
+    lastUpdated: 20170305122532
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+  utils-json-handler:
+    lastUpdated: 20170305122944
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  utils-json-handler-replay:
+    lastUpdated: 20170305123216
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  utils-json-handler-text:
+    lastUpdated: 20170305124531
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  utils-json-handler-xml:
+    lastUpdated: 20170305123635
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  utils-json-parser:
+    lastUpdated: 20170305123918
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  utils-lrucache:
+    lastUpdated: 20170305120310
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  utils-mail-dkim:
+    lastUpdated: 20170305121608
+    latest: 1.1.9
+    release: 1.1.9
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+  utils-mail-smime:
+    lastUpdated: 20170305120041
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  utils-text-fetcher:
+    lastUpdated: 20170305121138
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  utils-text-indentation:
+    lastUpdated: 20170305115534
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+

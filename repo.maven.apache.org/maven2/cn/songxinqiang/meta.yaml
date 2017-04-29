@@ -1,0 +1,88 @@
+artifacts:
+  com.baidu.ueditor:
+    lastUpdated: 20160918090143
+    latest: 1.1.2-offical
+    release: 1.1.2-offical
+    versions:
+      - 1.1.2-edit-1.0
+      - 1.1.2-offical
+  oss-parent:
+    lastUpdated: 20170113084324
+    latest: 1.7.1
+    release: 1.7.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2_java7
+      - 1.2_java8
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.7.1
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  oss-parent-java7:
+    lastUpdated: 20150303100858
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  oss-parent-java8:
+    lastUpdated: 20150303100858
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  ssmv-parent:
+    lastUpdated: 20170113085239
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  stool:
+    lastUpdated: 20170422063140
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 2.0.0
+      - 2.0.1
+  weixin4j:
+    lastUpdated: 20151030062622
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  weixin4j-parent:
+    lastUpdated: 20140723085405
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

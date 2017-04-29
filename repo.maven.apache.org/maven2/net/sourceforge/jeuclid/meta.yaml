@@ -1,0 +1,168 @@
+artifacts:
+  ams-fonts:
+    lastUpdated: 20080404142326
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  build-tools:
+    lastUpdated: 20090909073937
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+  dejavu-fonts:
+    lastUpdated: 20090713140057
+    latest: {}
+    release: {}
+    versions:
+      - 2.23
+      - 2.23-2
+      - 2.26
+      - 2.29
+      - 2.23
+      - 2.26
+      - 2.29
+  jeuclid:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.4
+  jeuclid-cli:
+    lastUpdated: 20100212142315
+    latest: {}
+    release: {}
+    versions:
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  jeuclid-core:
+    lastUpdated: 20100212141719
+    latest: {}
+    release: 3.1.5
+    versions:
+      - 2.9.7
+      - 2.9.8
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  jeuclid-core16:
+    lastUpdated: 20100212141840
+    latest: {}
+    release: 3.1.5
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  jeuclid-fop:
+    lastUpdated: 20150812200810
+    latest: 3.1.9
+    release: 3.1.9
+    versions:
+      - 3.1.9
+  jeuclid-foprep:
+    lastUpdated: 20080404160859
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.8
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+  jeuclid-mathviewer:
+    lastUpdated: 20100212142154
+    latest: {}
+    release: 3.1.5
+    versions:
+      - 2.9.7
+      - 2.9.8
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  jeuclid-parent:
+    lastUpdated: 20100212141537
+    latest: {}
+    release: 3.1.6
+    versions:
+      - 2.9.7
+      - 2.9.8
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  jeuclid-support:
+    lastUpdated: 20080924045127
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jeuclid-swt:
+    lastUpdated: 20100212141959
+    latest: {}
+    release: 3.1.5
+    versions:
+      - 3.1.5
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+  stix-fonts:
+    lastUpdated: 20080404141859
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta
+      - 1.0-beta-2
+

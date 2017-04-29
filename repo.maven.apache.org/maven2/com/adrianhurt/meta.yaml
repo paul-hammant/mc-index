@@ -1,0 +1,78 @@
+artifacts:
+  play-bootstrap-core_2.10:
+    lastUpdated: 20160828181037
+    latest: 1.1-P24
+    release: 1.1-P24
+    versions:
+      - 1.0-P23
+      - 1.0-P24
+      - 1.1-P24
+  play-bootstrap-core_2.11:
+    lastUpdated: 20160828181050
+    latest: 1.1-P25
+    release: 1.1-P25
+    versions:
+      - 1.0-P23
+      - 1.0-P24
+      - 1.0-P25
+      - 1.1-P24
+      - 1.1-P25
+  play-bootstrap3_2.10:
+    lastUpdated: 20151119141929
+    latest: 0.4.5-P24
+    release: 0.4.5-P24
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.4.2
+      - 0.4.5-P23
+      - 0.4.5-P24
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  play-bootstrap3_2.11:
+    lastUpdated: 20151119141930
+    latest: 0.4.5-P24
+    release: 0.4.5-P24
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.4.2
+      - 0.4.5-P23
+      - 0.4.5-P24
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  play-bootstrap_2.10:
+    lastUpdated: 20160828185559
+    latest: 1.1-P24-B4
+    release: 1.1-P24-B4
+    versions:
+      - 1.0-P23-B3
+      - 1.0-P24-B3
+      - 1.0-P24-B4
+      - 1.1-P24-B3
+      - 1.1-P24-B4
+  play-bootstrap_2.11:
+    lastUpdated: 20160828190640
+    latest: 1.1-P25-B4
+    release: 1.1-P25-B4
+    versions:
+      - 1.0-P23-B3
+      - 1.0-P24-B3
+      - 1.0-P24-B4
+      - 1.0-P25-B3
+      - 1.0-P25-B4
+      - 1.1-P24-B3
+      - 1.1-P24-B4
+      - 1.1-P25-B3
+      - 1.1-P25-B4
+

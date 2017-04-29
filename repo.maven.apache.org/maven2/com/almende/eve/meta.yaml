@@ -1,0 +1,381 @@
+artifacts:
+  eve:
+    lastUpdated: 20150330125209
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-agents:
+    lastUpdated: 20150330125210
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-algorithms:
+    lastUpdated: 20150330125211
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-algorithms-dht:
+    lastUpdated: 20150330125211
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-algorithms-simple:
+    lastUpdated: 20150330125211
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-android:
+    lastUpdated: 20140402135247
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  eve-bundle:
+    lastUpdated: 20150330125212
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-bundle-android:
+    lastUpdated: 20150330125212
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-bundle-android-ws:
+    lastUpdated: 20150330125213
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-bundle-full:
+    lastUpdated: 20150330125214
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-bundle-full-embed:
+    lastUpdated: 20150330125215
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-common:
+    lastUpdated: 20150330125216
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-core:
+    lastUpdated: 20150330125216
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.1.0
+      - 3.1.1
+  eve-deploy:
+    lastUpdated: 20150330125217
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-gae:
+    lastUpdated: 20140402135248
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  eve-gae-demo:
+    lastUpdated: 20130303220932
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  eve-gae-test:
+    lastUpdated: 20130303220933
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  eve-instantiation:
+    lastUpdated: 20150330125217
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-planning:
+    lastUpdated: 20140402135248
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 2.0.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  eve-protocol:
+    lastUpdated: 20150330125218
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-protocol-common:
+    lastUpdated: 20150330125218
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-protocol-jsonrpc:
+    lastUpdated: 20150330125219
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-scheduling:
+    lastUpdated: 20150330125220
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-scheduling-common:
+    lastUpdated: 20150330125220
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-scheduling-persistent:
+    lastUpdated: 20150330125220
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-scheduling-sync:
+    lastUpdated: 20150330125221
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-state:
+    lastUpdated: 20150330125222
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-state-common:
+    lastUpdated: 20150330125222
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-state-couch:
+    lastUpdated: 20150330125223
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-state-mongo:
+    lastUpdated: 20150330125223
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-state-redis:
+    lastUpdated: 20150330125224
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+  eve-tests:
+    lastUpdated: 20150330125225
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-tests-war:
+    lastUpdated: 20150330125225
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transform:
+    lastUpdated: 20140711122435
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  eve-transform-common:
+    lastUpdated: 20140711122435
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  eve-transform-rpc:
+    lastUpdated: 20140711122436
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  eve-transport:
+    lastUpdated: 20150330125226
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-common:
+    lastUpdated: 20150330125226
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-http:
+    lastUpdated: 20150330125227
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-http-apache40:
+    lastUpdated: 20150330125227
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-http-common:
+    lastUpdated: 20150330125228
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-http-jetty:
+    lastUpdated: 20150330125229
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-ws:
+    lastUpdated: 20150330125229
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-xmpp:
+    lastUpdated: 20150330125230
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-transport-zmq:
+    lastUpdated: 20150330125230
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  eve-wake:
+    lastUpdated: 20140711122439
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+

@@ -1,0 +1,22 @@
+artifacts:
+  oaiharvester:
+    lastUpdated: 20121010102200
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  oaipmh-spec:
+    lastUpdated: 20121010102201
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0
+  scheduled-task-manager:
+    lastUpdated: 20121010102202
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

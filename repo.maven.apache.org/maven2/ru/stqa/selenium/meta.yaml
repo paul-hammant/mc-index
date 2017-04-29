@@ -1,0 +1,151 @@
+artifacts:
+  decorated-webdriver:
+    lastUpdated: 20161218071015
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+  webdriver-expected-conditions:
+    lastUpdated: 20160218084207
+    latest: 1.0.52
+    release: 1.0.52
+    versions:
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+      - 1.0.45
+      - 1.0.46
+      - 1.0.47
+      - 1.0.49
+      - 1.0.51
+      - 1.0.52
+  webdriver-extensions:
+    lastUpdated: 20160218084207
+    latest: 1.2.52
+    release: 1.2.52
+    versions:
+      - 1.2.40
+      - 1.2.41
+      - 1.2.42
+      - 1.2.43
+      - 1.2.45
+      - 1.2.46
+      - 1.2.47
+      - 1.2.49
+      - 1.2.51
+      - 1.2.52
+  webdriver-factory:
+    lastUpdated: 20170310133607
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.0
+      - 1.1.41
+      - 1.1.42
+      - 1.1.43
+      - 1.1.45
+      - 1.1.46
+      - 1.1.47
+      - 1.1.49
+      - 1.1.51
+      - 1.1.52
+      - 2.0
+      - 2.1
+      - 3.0
+      - 4.0
+  webdriver-implicit-wait-wrapper:
+    lastUpdated: 20160319064634
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+      - 1.0.45
+      - 1.0.46
+      - 1.0.47
+      - 1.0.49
+      - 1.0.51
+      - 1.0.52
+      - 2.0
+  webdriver-java-archetype:
+    lastUpdated: 20140321234716
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  webdriver-junit-archetype:
+    lastUpdated: 20170310180717
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.1.41
+      - 1.1.42
+      - 1.1.43
+      - 1.1.45
+      - 1.1.46
+      - 2.0
+      - 2.1
+      - 3.0
+      - 4.0
+  webdriver-logging-wrapper:
+    lastUpdated: 20160319065453
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+      - 1.0.45
+      - 1.0.46
+      - 1.0.47
+      - 1.0.49
+      - 1.0.51
+      - 1.0.52
+      - 2.0
+  webdriver-repeatable-actions:
+    lastUpdated: 20160907143042
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+      - 1.0.45
+      - 1.0.46
+      - 1.0.47
+      - 1.0.49
+      - 1.0.51
+      - 1.0.52
+      - 2.0
+      - 2.1
+  webdriver-testng-archetype:
+    lastUpdated: 20170310180718
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.1.41
+      - 1.1.42
+      - 1.1.43
+      - 1.1.45
+      - 1.1.46
+      - 2.0
+      - 2.1
+      - 3.0
+      - 4.0
+  webdriver-wrapper:
+    lastUpdated: 20160319063224
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+      - 1.0.45
+      - 1.0.46
+      - 1.0.47
+      - 1.0.49
+      - 1.0.51
+      - 1.0.52
+      - 2.0
+

@@ -1,0 +1,131 @@
+artifacts:
+  JGlobus-Core:
+    lastUpdated: 20110718130028
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  JGlobus-GRAM:
+    lastUpdated: 20110125152157
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  JGlobus-GridFTP:
+    lastUpdated: 20110125152026
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  JGlobus-Tomcat:
+    lastUpdated: 20110720212839
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.4
+  axisg:
+    lastUpdated: 20140926035401
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  container-test-utils:
+    lastUpdated: 20140926035402
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  gram:
+    lastUpdated: 20140926035403
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  gridftp:
+    lastUpdated: 20140926035403
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  gss:
+    lastUpdated: 20140926035404
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  io:
+    lastUpdated: 20140926035405
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  jglobus-all:
+    lastUpdated: 20130905124713
+    latest: 2.0.6
+    release: 2.0.6
+    versions:
+      - 2.0.5
+      - 2.0.6
+  jsse:
+    lastUpdated: 20140926035405
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  myproxy:
+    lastUpdated: 20140926035406
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  parent:
+    lastUpdated: 20140926035406
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  ssl-proxies:
+    lastUpdated: 20140926035407
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  ssl-proxies-tomcat:
+    lastUpdated: 20140926035407
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  test-utils:
+    lastUpdated: 20140926035408
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+

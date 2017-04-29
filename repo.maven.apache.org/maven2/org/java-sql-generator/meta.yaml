@@ -1,0 +1,50 @@
+artifacts:
+  java-sql-generator:
+    lastUpdated: 20101018123811
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  org.java-sql-generator:
+    lastUpdated: 20121028165514
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.2
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  org.java-sql-generator.api:
+    lastUpdated: 20121028165514
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.2
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  org.java-sql-generator.api.qi4j:
+    lastUpdated: 20121028165515
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+  org.java-sql-generator.implementation:
+    lastUpdated: 20121028165516
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.2
+      - 0.3
+      - 0.3.1
+      - 0.3.2
+      - 0.3
+

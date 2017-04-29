@@ -1,0 +1,63 @@
+artifacts:
+  checkstyle:
+    lastUpdated: 20130819100202
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 0.3
+      - 1.0
+      - 0.1
+      - 0.3
+      - 1.0
+  checkstyle-suppression:
+    lastUpdated: 20140226163159
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  config:
+    lastUpdated: 20140227113551
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 0.1
+  galib:
+    lastUpdated: 20150314203951
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2
+      - 1.2
+  http-client-wrapper:
+    lastUpdated: 20140922125404
+    latest: 0.1.12
+    release: 0.1.12
+    versions:
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.1.11
+      - 0.1.12
+  testAutomation:
+    lastUpdated: 20140305144953
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

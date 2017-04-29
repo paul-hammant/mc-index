@@ -1,0 +1,68 @@
+artifacts:
+  liferay-user-associations-core-bc:
+    lastUpdated: 20130220154306
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.1
+  liferay-user-associations-core-bc-composite-webcomp:
+    lastUpdated: 20130220154308
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  liferay-user-associations-core-bc-module-community-hook:
+    lastUpdated: 20130220154310
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.1
+  liferay-user-associations-core-bc-module-portlet:
+    lastUpdated: 20110909133729
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  liferay-user-associations-core-bc-module-user-update-hook:
+    lastUpdated: 20130220154312
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.1
+  liferay-user-associations-system:
+    lastUpdated: 20130220154314
+    latest: 1.10
+    release: 1.10
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.10
+

@@ -1,0 +1,49 @@
+artifacts:
+  helm2-ChemistryToolkit:
+    lastUpdated: 20160929134815
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  helm2-chemistrytoolkit-cdk:
+    lastUpdated: 20170418063733
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  helm2-chemistrytoolkit-marvin:
+    lastUpdated: 20170331113855
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  helm2-helmnotationparser:
+    lastUpdated: 20170324094856
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  helm2-notationtoolkit:
+    lastUpdated: 20170418071758
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  helm2-webservice:
+    lastUpdated: 20170331132831
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 2.1.0
+

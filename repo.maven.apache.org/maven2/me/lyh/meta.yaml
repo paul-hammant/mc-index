@@ -1,0 +1,196 @@
+artifacts:
+  parquet-avro-examples_2.10:
+    lastUpdated: 20150901160230
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.6
+      - 0.2.0
+  parquet-avro-examples_2.11:
+    lastUpdated: 20150901160232
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.6
+      - 0.2.0
+  parquet-avro-extra_2.10:
+    lastUpdated: 20161114193550
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.2.0
+      - 0.2.1
+  parquet-avro-extra_2.11:
+    lastUpdated: 20161114193550
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.2.0
+      - 0.2.1
+  parquet-avro-extra_2.12:
+    lastUpdated: 20161114193551
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  protobuf-generic_2.10:
+    lastUpdated: 20161101172744
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  protobuf-generic_2.11:
+    lastUpdated: 20161110210940
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+  protobuf-generic_2.12:
+    lastUpdated: 20161110210941
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  root_2.10:
+    lastUpdated: 20150901160238
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.6
+      - 0.2.0
+  root_2.11:
+    lastUpdated: 20150901160240
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.6
+      - 0.2.0
+  shapeless-datatype-bigquery_2.10:
+    lastUpdated: 20161111164208
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-bigquery_2.11:
+    lastUpdated: 20161111164209
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-bigquery_2.12:
+    lastUpdated: 20161111164210
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  shapeless-datatype-core_2.10:
+    lastUpdated: 20161111164210
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-core_2.11:
+    lastUpdated: 20161111164211
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-core_2.12:
+    lastUpdated: 20161111164212
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  shapeless-datatype-datastore_1.1_2.10:
+    lastUpdated: 20161111164212
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.1_2.11:
+    lastUpdated: 20161111164213
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.1_2.12:
+    lastUpdated: 20161111164214
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  shapeless-datatype-datastore_1.2_2.10:
+    lastUpdated: 20161111164214
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.2_2.11:
+    lastUpdated: 20161111164214
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.2_2.12:
+    lastUpdated: 20161111164215
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  shapeless-datatype-datastore_1.3_2.10:
+    lastUpdated: 20161111164216
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.3_2.11:
+    lastUpdated: 20161111164216
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  shapeless-datatype-datastore_1.3_2.12:
+    lastUpdated: 20161111164217
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+

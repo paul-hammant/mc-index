@@ -1,0 +1,145 @@
+artifacts:
+  annotation-cleaner:
+    lastUpdated: 20100309123924
+    latest: {}
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+  blank-lines-remover:
+    lastUpdated: 20110520173348
+    latest: {}
+    release: 1.2.1
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.2.1
+  contentConsumer-service:
+    lastUpdated: 20100309153303
+    latest: {}
+    release: 1.6.1
+    versions:
+      - 1.6
+      - 1.6.1
+  contentProvider-service:
+    lastUpdated: 20100309153507
+    latest: {}
+    release: 1.6
+    versions:
+      - 1.6
+  file-repository:
+    lastUpdated: 20101202104951
+    latest: {}
+    release: 1.6
+    versions:
+      - 1.4
+      - 1.5
+      - 1.6
+  folder-crawler-service:
+    lastUpdated: 20110525090631
+    latest: {}
+    release: 1.5.2
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+  folder-source-reader:
+    lastUpdated: 20100709083759
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  gate-extraction:
+    lastUpdated: 20110121171913
+    latest: {}
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 2.0
+      - 1.7
+  local-file-exposer:
+    lastUpdated: 20100309150541
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  moses-translation:
+    lastUpdated: 20110503093438
+    latest: {}
+    release: 1.0-SNAPSHOT
+    versions:
+      - 1.0-SNAPSHOT
+  ngramj-language-extraction:
+    lastUpdated: 20100309151129
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+  simple-file-repository:
+    lastUpdated: 20100709082434
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  simple-gazetteer:
+    lastUpdated: 20100423082743
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+  solr-duplicates-detector:
+    lastUpdated: 20100505082207
+    latest: {}
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+  solr-engine:
+    lastUpdated: 20110127143849
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.1
+      - 1.0
+      - 1.2
+      - 1.4
+      - 1.3
+  sphinx-transcription:
+    lastUpdated: 20110503135016
+    latest: {}
+    release: 1.0-SNAPSHOT
+    versions:
+      - 1.0-SNAPSHOT
+  stringquery-creator-service:
+    lastUpdated: 20100309151703
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.1
+  tika-normaliser:
+    lastUpdated: 20110428075632
+    latest: {}
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  xml-normaliser:
+    lastUpdated: 20100527163539
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0
+

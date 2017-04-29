@@ -1,0 +1,52 @@
+artifacts:
+  license:
+    lastUpdated: 20131001083444
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.1
+      - 3.0.2
+  license-atlassian:
+    lastUpdated: 20131001083446
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.1
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  license-confluence:
+    lastUpdated: 20131001083447
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.0
+      - 3.0.1
+      - 3.0.2
+  license-jira:
+    lastUpdated: 20131001083448
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  license-support:
+    lastUpdated: 20141102032517
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.0
+      - 3.0.1-SNAPSHOT
+      - 3.0.1
+      - 3.0.2
+  license-webapp:
+    lastUpdated: 20131001083451
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.0
+      - 3.0.1
+      - 3.0.2
+

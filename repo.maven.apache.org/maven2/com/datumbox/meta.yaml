@@ -1,0 +1,79 @@
+artifacts:
+  datumbox-framework:
+    lastUpdated: 20170114160710
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.8.0
+  datumbox-framework-applications:
+    lastUpdated: 20170114160710
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  datumbox-framework-common:
+    lastUpdated: 20170114160711
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  datumbox-framework-core:
+    lastUpdated: 20170114160711
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  datumbox-framework-lib:
+    lastUpdated: 20170114160712
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  datumbox-framework-storage:
+    lastUpdated: 20170114160712
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  datumbox-framework-storage-inmemory:
+    lastUpdated: 20170114160712
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  datumbox-framework-storage-mapdb:
+    lastUpdated: 20170114160713
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  datumbox-framework-tests:
+    lastUpdated: 20170114160713
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  libsvm:
+    lastUpdated: 20161231175653
+    latest: 3.22
+    release: 3.22
+    versions:
+      - 3.21
+      - 3.22
+      - 3.21
+      - 3.22
+  lpsolve:
+    lastUpdated: 20141105210823
+    latest: 5.5.2.0
+    release: 5.5.2.0
+    versions:
+      - 5.5.2.0
+

@@ -1,0 +1,38 @@
+artifacts:
+  dme2:
+    lastUpdated: 20161129213635
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+  dme2-api:
+    lastUpdated: 20170119050347
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+  dme2-jaxws-client:
+    lastUpdated: 20170119050348
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+  dme2-jms-provider:
+    lastUpdated: 20170119050348
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+  dme2-schemas:
+    lastUpdated: 20170119050222
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+  scld-config-api:
+    lastUpdated: 20170105203207
+    latest: 3.1.200
+    release: 3.1.200
+    versions:
+      - 3.1.200
+

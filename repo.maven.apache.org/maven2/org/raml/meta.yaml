@@ -1,0 +1,102 @@
+artifacts:
+  com.mulesoft.jaxrs-raml.all:
+    lastUpdated: 20151221140119
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  com.mulesoft.jaxrs.raml.generator:
+    lastUpdated: 20151221140120
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  com.mulesoft.jaxrs.raml.generator.annotations:
+    lastUpdated: 20151221140121
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  jaxrs-to-raml:
+    lastUpdated: 20151221140122
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  raml-gradle-plugin:
+    lastUpdated: 20151221140127
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.4
+  raml-jaxrs-codegen-core:
+    lastUpdated: 20151221140128
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  raml-jaxrs-codegen-parent:
+    lastUpdated: 20151221140134
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.3
+      - 1.3.4
+  raml-parser:
+    lastUpdated: 20160914200332
+    latest: 0.8.17
+    release: 0.8.17
+    versions:
+      - 0.8.9
+      - 0.8.11
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.8.15
+      - 0.8.16
+      - 0.8.17
+  raml-parser-2:
+    lastUpdated: 20170307144034
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  raml-parser-parent:
+    lastUpdated: 20170307144034
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  yagi:
+    lastUpdated: 20170307144034
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

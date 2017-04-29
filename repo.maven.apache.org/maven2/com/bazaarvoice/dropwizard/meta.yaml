@@ -1,0 +1,84 @@
+artifacts:
+  dropwizard-caching-bundle:
+    lastUpdated: 20140926203618
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 0.0.11
+      - 1.0.0
+      - 2.0.5
+  dropwizard-caching-bundle-complete:
+    lastUpdated: 20140926203619
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 0.0.11
+      - 1.0.0
+      - 2.0.5
+  dropwizard-caching-bundle-example:
+    lastUpdated: 20140926203619
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 0.0.11
+      - 1.0.0
+      - 2.0.5
+  dropwizard-caching-bundle-memcached:
+    lastUpdated: 20140926203619
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  dropwizard-configurable-assets-bundle:
+    lastUpdated: 20141028191459
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.4
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.2.0-rc1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+  dropwizard-redirect-bundle:
+    lastUpdated: 20141017215759
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  dropwizard-webjars-bundle:
+    lastUpdated: 20140701165646
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+  dropwizard-webjars-resource:
+    lastUpdated: 20130507144208
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.8
+      - 0.1.9
+      - 0.1.10
+      - 0.2.0
+      - 0.2.1
+  parent:
+    lastUpdated: 20140926203620
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 0.0.11
+      - 1.0.0
+      - 2.0.5
+

@@ -1,0 +1,299 @@
+artifacts:
+  beadledom-archetype:
+    lastUpdated: 20170216210235
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client:
+    lastUpdated: 20170216210236
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-example:
+    lastUpdated: 20170216210236
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-example-api:
+    lastUpdated: 20170216210236
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-example-client:
+    lastUpdated: 20170216210237
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-example-service:
+    lastUpdated: 20170216210237
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-guice:
+    lastUpdated: 20170216210237
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-jackson:
+    lastUpdated: 20170216210238
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-parent:
+    lastUpdated: 20170216210238
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-client-test:
+    lastUpdated: 20170216210238
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-common:
+    lastUpdated: 20170216210238
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-configuration:
+    lastUpdated: 20170216210239
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-core:
+    lastUpdated: 20170216210239
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-guice:
+    lastUpdated: 20170216210240
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-guice-dynamicbindings:
+    lastUpdated: 20170216210240
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-health:
+    lastUpdated: 20170216210241
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-health-api:
+    lastUpdated: 20170216210241
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-health-parent:
+    lastUpdated: 20170216210241
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-jackson:
+    lastUpdated: 20170216210241
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-jaxrs:
+    lastUpdated: 20170216210242
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-jaxrs-clientproxy:
+    lastUpdated: 20170216210244
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-jaxrs-genericresponse:
+    lastUpdated: 20170216210244
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-lifecycle:
+    lastUpdated: 20170216210245
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-lifecycle-governator:
+    lastUpdated: 20170216210246
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-parent:
+    lastUpdated: 20170216210246
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-resteasy:
+    lastUpdated: 20170216210246
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-resteasy-genericresponse:
+    lastUpdated: 20170216210247
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-stagemonitor:
+    lastUpdated: 20170216210248
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-swagger:
+    lastUpdated: 20170216210248
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  beadledom-testing:
+    lastUpdated: 20170216210249
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  docs:
+    lastUpdated: 20170216210249
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  resteasy-client:
+    lastUpdated: 20170216210250
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  simple-service:
+    lastUpdated: 20170216210250
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+

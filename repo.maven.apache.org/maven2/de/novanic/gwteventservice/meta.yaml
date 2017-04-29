@@ -1,0 +1,37 @@
+artifacts:
+  eventservice:
+    lastUpdated: 20121221234303
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  eventservice-rpc:
+    lastUpdated: 20121221234304
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  gwteventservice:
+    lastUpdated: 20121221234308
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  parent:
+    lastUpdated: 20121221234309
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  zip:
+    lastUpdated: 20121221234309
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+

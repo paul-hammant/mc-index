@@ -1,0 +1,74 @@
+artifacts:
+  dexcoder-assistant:
+    lastUpdated: 20160608074934
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+  dexcoder-commons:
+    lastUpdated: 20160608074934
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+  dexcoder-dal:
+    lastUpdated: 20160608074934
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+  dexcoder-dal-batis:
+    lastUpdated: 20160608074935
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+  dexcoder-dal-spring:
+    lastUpdated: 20160608074935
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+  dexcoder-test:
+    lastUpdated: 20160608074936
+    latest: 2.3.5
+    release: 2.3.5
+    versions:
+      - 2.2.0-beta1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+

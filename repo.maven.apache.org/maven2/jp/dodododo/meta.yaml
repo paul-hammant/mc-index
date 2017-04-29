@@ -1,0 +1,25 @@
+artifacts:
+  head-elasticsearch5:
+    lastUpdated: 20170119035422
+    latest: 5.1.1.0
+    release: 5.1.1.0
+    versions:
+      - 5.1.1.0
+  samurai-dao:
+    lastUpdated: 20151224042925
+    latest: 1.2.0-RC4
+    release: 1.2.0-RC4
+    versions:
+      - 1.1.33
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+      - 1.2.0-RC4
+  samurai-dao-auto-proxy-guice:
+    lastUpdated: 20151009082344
+    latest: 1.2.0-RC1
+    release: 1.2.0-RC1
+    versions:
+      - 1.1.3
+      - 1.2.0-RC1
+

@@ -1,0 +1,656 @@
+artifacts:
+  respiro:
+    lastUpdated: 20170411120458
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-activemq-client-plugin:
+    lastUpdated: 20170411120458
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-api:
+    lastUpdated: 20170411120458
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-camel-collect-plugin:
+    lastUpdated: 20170411120458
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-camel-deploy-plugin:
+    lastUpdated: 20161202125112
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+  respiro-camel-plugin:
+    lastUpdated: 20170411120459
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-cxf-deploy-plugin:
+    lastUpdated: 20161202125113
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+  respiro-cxf-metrics-plugin:
+    lastUpdated: 20170411120500
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-cxf-plugin:
+    lastUpdated: 20170411120500
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-documenter-plugin:
+    lastUpdated: 20170411120501
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-dummy-password-plugin:
+    lastUpdated: 20170411120501
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-dummy-plugin:
+    lastUpdated: 20170411120501
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-exchanges-plugin:
+    lastUpdated: 20170411120502
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-executor-plugin:
+    lastUpdated: 20170411120502
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-jdbc-plugin:
+    lastUpdated: 20170411120502
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-jersey-deploy-plugin:
+    lastUpdated: 20161202125117
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+  respiro-jersey-metrics-plugin:
+    lastUpdated: 20170411120505
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-jersey-plugin:
+    lastUpdated: 20170411120505
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-jersey-validation-plugin:
+    lastUpdated: 20170411120507
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-jms-api:
+    lastUpdated: 20170411120507
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-ldap-password-plugin:
+    lastUpdated: 20170411120508
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-logging-plugin:
+    lastUpdated: 20170411120509
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mail-plugin:
+    lastUpdated: 20170411120509
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-message-collector-plugin:
+    lastUpdated: 20170411120510
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mongodb-api:
+    lastUpdated: 20170411120511
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mongodb-exchanges-plugin:
+    lastUpdated: 20170411120512
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mongodb-plugin:
+    lastUpdated: 20170411120512
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mongodb-test-modifier-plugin:
+    lastUpdated: 20170411120512
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-mongodb-test-plugin:
+    lastUpdated: 20170411120513
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-plugins:
+    lastUpdated: 20170411120513
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-security-plugin:
+    lastUpdated: 20170411120513
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-test-activemq-plugin:
+    lastUpdated: 20170411120514
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-test-database-plugin:
+    lastUpdated: 20170411120514
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-test-smtp-plugin:
+    lastUpdated: 20170411120516
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-test-sshd-plugin:
+    lastUpdated: 20170411120517
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-test-utils:
+    lastUpdated: 20170411120517
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-ui-metrics-plugin:
+    lastUpdated: 20170411120517
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-ui-plugin:
+    lastUpdated: 20170411120518
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-ui-plugins-plugin:
+    lastUpdated: 20170411120518
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-ui-registry-plugin:
+    lastUpdated: 20170411120519
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-validation-api:
+    lastUpdated: 20170411120519
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 2.0
+      - 2.1
+  respiro-webapp:
+    lastUpdated: 20151214151406
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

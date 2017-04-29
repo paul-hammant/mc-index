@@ -1,0 +1,62 @@
+artifacts:
+  enjin-api-impl:
+    lastUpdated: 20160125180612
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  enjin-api-spec:
+    lastUpdated: 20160125175004
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  javatorrent:
+    lastUpdated: 20160718183846
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  javatorrent-bittorrent:
+    lastUpdated: 20160718183847
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  javatorrent-bittorrent-extension:
+    lastUpdated: 20160718183847
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  javatorrent-bittorrent-extension-ut-metadata:
+    lastUpdated: 20160718183847
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  javatorrent-bittorrent-tracker-udp:
+    lastUpdated: 20160718183847
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  javatorrent-bittorrent-utp:
+    lastUpdated: 20160718183848
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  util:
+    lastUpdated: 20150824183910
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

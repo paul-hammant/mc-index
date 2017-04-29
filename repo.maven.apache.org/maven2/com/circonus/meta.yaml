@@ -1,0 +1,32 @@
+artifacts:
+  dropwizard-metrics-circonus:
+    lastUpdated: 20160513050202
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  example-app:
+    lastUpdated: 20160606200519
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fqclient:
+    lastUpdated: 20160606202217
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  metrics-circonus:
+    lastUpdated: 20160513050204
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  metrics-circonus-parent:
+    lastUpdated: 20160606200520
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

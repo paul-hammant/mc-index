@@ -1,0 +1,1787 @@
+artifacts:
+  agrosense:
+    lastUpdated: 20130415213545
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  application:
+    lastUpdated: 20110819134033
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  area:
+    lastUpdated: 20111220123153
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  area-field:
+    lastUpdated: 20111220123143
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  area-plot:
+    lastUpdated: 20110516203251
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  branding:
+    lastUpdated: 20130415213546
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  calendar:
+    lastUpdated: 20130415213547
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  calendar-api:
+    lastUpdated: 20130415213547
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  calendar-core:
+    lastUpdated: 20130415213548
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  cloudfarming-client:
+    lastUpdated: 20110819134035
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  cloudfarming-client-geoviewer-api:
+    lastUpdated: 20110516203251
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  cloudfarming-client-geoviewer-jxmap:
+    lastUpdated: 20110516203251
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  cloudfarming-client-geoviewer-layers:
+    lastUpdated: 20110302094516
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  crop:
+    lastUpdated: 20130415213548
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  crop-model:
+    lastUpdated: 20130415213549
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  crop-nl:
+    lastUpdated: 20110709100052
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  crop-persistence-serialization:
+    lastUpdated: 20130415213550
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  crop-protection-clm:
+    lastUpdated: 20111220123143
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.17
+  crop-type:
+    lastUpdated: 20120116133254
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.18
+  db:
+    lastUpdated: 20111118142355
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+  db-local:
+    lastUpdated: 20111118142354
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+  db-test:
+    lastUpdated: 20111118142352
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+  farm:
+    lastUpdated: 20130415213550
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.17
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  farm-cropfield-type:
+    lastUpdated: 20120408185452
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  farm-fieldplan:
+    lastUpdated: 20120408185451
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  farm-fieldplan-model:
+    lastUpdated: 20120226224942
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.20
+      - 1.0.21
+  farm-model:
+    lastUpdated: 20130415213550
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  farm-productionunit:
+    lastUpdated: 20130415213551
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  farm-project:
+    lastUpdated: 20130415213552
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  farm-type:
+    lastUpdated: 20120226224951
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+  field:
+    lastUpdated: 20130415213552
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  field-model:
+    lastUpdated: 20130415213553
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  field-project:
+    lastUpdated: 20120408185336
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  field-shape:
+    lastUpdated: 20111220123152
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  field-shape-type:
+    lastUpdated: 20130415213554
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  field-type:
+    lastUpdated: 20130415213555
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fieldplan:
+    lastUpdated: 20111220123149
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  fleet:
+    lastUpdated: 20130415213555
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-gpssimulator:
+    lastUpdated: 20130415213556
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-gpstrackerexample:
+    lastUpdated: 20130415213557
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-implement:
+    lastUpdated: 20130415213558
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-machine:
+    lastUpdated: 20130415213559
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-model:
+    lastUpdated: 20130415213601
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-project:
+    lastUpdated: 20130415213602
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  fleet-vehicle:
+    lastUpdated: 20130415213604
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geometry:
+    lastUpdated: 20120408185400
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  geometry-import:
+    lastUpdated: 20120408185456
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  geometry-model:
+    lastUpdated: 20120408185448
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  geometry-shape-type:
+    lastUpdated: 20120408185502
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  geoviewer:
+    lastUpdated: 20130415213605
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geoviewer-api:
+    lastUpdated: 20130415213605
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geoviewer-data:
+    lastUpdated: 20110428125526
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  geoviewer-editor:
+    lastUpdated: 20130415213606
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geoviewer-jxmap:
+    lastUpdated: 20130415213607
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geoviewer-render:
+    lastUpdated: 20130415213607
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  geoviewer-wms:
+    lastUpdated: 20120116133256
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+  grid:
+    lastUpdated: 20130415213608
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 13.02-beta
+      - 13.03-beta
+  import:
+    lastUpdated: 20130415213608
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus:
+    lastUpdated: 20130415213608
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.13
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus-export:
+    lastUpdated: 20130415213609
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus-import:
+    lastUpdated: 20130415213609
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus-model:
+    lastUpdated: 20130415213610
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus-project:
+    lastUpdated: 20120408185352
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  isobus-tree:
+    lastUpdated: 20130415213611
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  isobus-type:
+    lastUpdated: 20130415213612
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  lib-beansbinding:
+    lastUpdated: 20141123122253
+    latest: 1.2.2-NB80
+    release: 1.2.2-NB80
+    versions:
+      - 1.2.1-NB72
+      - 1.2.1-NB80
+      - 1.2.1-RELEASE712
+      - 1.2.2-NB80
+  lib-common:
+    lastUpdated: 20141123123428
+    latest: 1.2.2-NB80
+    release: 1.2.2-NB80
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.1
+      - 1.2
+      - 1.2-NB72
+      - 1.2-NB80
+      - 1.2.1-NB80
+      - 1.2.2-NB80
+      - 1.1
+      - 1.2
+  lib-flamengo:
+    lastUpdated: 20141123124607
+    latest: 5.1-NB80
+    release: 5.1-NB80
+    versions:
+      - 5.0
+      - 5.0-NB72
+      - 5.0-NB80
+      - 5.1-NB80
+      - 5.0
+  lib-geotools:
+    lastUpdated: 20130207221111
+    latest: 2.7.7-NB72
+    release: 2.7.7-NB72
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.1
+      - 2.7.2
+      - 2.7.2.1
+      - 2.7.2.2
+      - 2.7.4
+      - 2.7.5
+      - 2.7.5-NB72
+      - 2.7.6-NB72
+      - 2.7.7-NB72
+      - 1.1
+  lib-hsqldb:
+    lastUpdated: 20110525074607
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.1
+      - 1.1.1
+      - 1.1
+  lib-jaxb:
+    lastUpdated: 20141123131206
+    latest: 2.2.8-NB80
+    release: 2.2.8-NB80
+    versions:
+      - 2.2.4
+      - 2.2.4.1
+      - 2.2.6-NB72
+      - 2.2.6.1-NB72
+      - 2.2.7-NB72
+      - 2.2.7-NB80
+      - 2.2.8-NB80
+  lib-platform-l10n:
+    lastUpdated: 20141123133311
+    latest: 1.1-NB80
+    release: 1.1-NB80
+    versions:
+      - 1.0-NB72
+      - 1.0-NB80
+      - 1.1-NB80
+  lib-swingx:
+    lastUpdated: 20141123135251
+    latest: 1.6.2-NB80-NO-WS
+    release: 1.6.2-NB80-NO-WS
+    versions:
+      - 1.6.1
+      - 1.6.1-NB72
+      - 1.6.1-NB72-NO-WS
+      - 1.6.1-NB80-NO-WS
+      - 1.6.2-NB80-NO-WS
+  logging:
+    lastUpdated: 20130415213613
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  mask:
+    lastUpdated: 20120408185500
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  mask-model:
+    lastUpdated: 20120408185414
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  mask-project:
+    lastUpdated: 20120408185455
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  mask-type:
+    lastUpdated: 20120408185355
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  menu:
+    lastUpdated: 20130415213613
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  message:
+    lastUpdated: 20111220123141
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  message-api:
+    lastUpdated: 20111220123149
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  message-inbox:
+    lastUpdated: 20111220123156
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  message-notifier:
+    lastUpdated: 20111220123144
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  messaging:
+    lastUpdated: 20110819134030
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  mock-vehicle-data-service:
+    lastUpdated: 20130415213614
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  model:
+    lastUpdated: 20130415213615
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  modules-core:
+    lastUpdated: 20111220123154
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  modules-experimental:
+    lastUpdated: 20111220123148
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.17
+  modules-free:
+    lastUpdated: 20120129123721
+    latest: 1.0.19
+    release: 1.0.19
+    versions:
+      - 1.0.12
+      - 1.0.17
+      - 1.0.19
+  nbtaskfocus:
+    lastUpdated: 20120408185446
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  nbtaskfocus-core:
+    lastUpdated: 20120408185425
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  nbtaskfocus-idutil:
+    lastUpdated: 20120408185357
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  nbtaskfocus-model:
+    lastUpdated: 20120408185447
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  nbtaskfocus-monitor:
+    lastUpdated: 20120408185444
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.24
+  parent-core:
+    lastUpdated: 20120213125439
+    latest: 1.0.20
+    release: 1.0.20
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+  parent-extra:
+    lastUpdated: 20120323222040
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0.12
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+  planning:
+    lastUpdated: 20111220123148
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  planning-api:
+    lastUpdated: 20111220123155
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  planning-tactical:
+    lastUpdated: 20111220123150
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+  productionunit:
+    lastUpdated: 20111220123153
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  sensor:
+    lastUpdated: 20130415213616
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-api:
+    lastUpdated: 20130415213616
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-area:
+    lastUpdated: 20111220123145
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.17
+  sensor-cropcircle:
+    lastUpdated: 20130415213617
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-fritzmeier:
+    lastUpdated: 20130415213618
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-fritzmeijer:
+    lastUpdated: 20120408185345
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.9
+      - 1.0.9.1
+      - 1.0.10
+      - 1.0.12
+      - 1.0.17
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  sensor-greenseeker:
+    lastUpdated: 20130415213619
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.17
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-model:
+    lastUpdated: 20130415213620
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  sensor-yara:
+    lastUpdated: 20111220123142
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.17
+  stock:
+    lastUpdated: 20130415213620
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  stock-api:
+    lastUpdated: 20130415213621
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  stock-crop:
+    lastUpdated: 20130415213622
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  stock-crop-model:
+    lastUpdated: 20120408185416
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  stock-crop-old:
+    lastUpdated: 20120408185413
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.23
+      - 1.0.24
+  stock-crop-provider-clm:
+    lastUpdated: 20130415213622
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  stock-crop-type:
+    lastUpdated: 20120226224952
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+  stock-meta:
+    lastUpdated: 20111220123155
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  stock-model:
+    lastUpdated: 20120226224951
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+  stock-project:
+    lastUpdated: 20120408185424
+    latest: 1.0.24
+    release: 1.0.24
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+  stock-type:
+    lastUpdated: 20120226224952
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+  task:
+    lastUpdated: 20130415213623
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.17
+      - 1.0.18
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  task-core:
+    lastUpdated: 20130415213623
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  task-field:
+    lastUpdated: 20130415213624
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  task-model:
+    lastUpdated: 20120323154335
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0.23
+  task-project:
+    lastUpdated: 20120323154350
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0.23
+  task-shape:
+    lastUpdated: 20130415213625
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  task-spray:
+    lastUpdated: 20130415213625
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  task-type:
+    lastUpdated: 20120323154342
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0.23
+  twitter:
+    lastUpdated: 20120117132103
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.12
+      - 1.0.17
+      - 1.0.18
+  uc-core:
+    lastUpdated: 20130415213626
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+      - 1.0
+  uc-experimental:
+    lastUpdated: 20111220123144
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.17
+  uc-free:
+    lastUpdated: 20120323222045
+    latest: 1.0.23
+    release: 1.0.23
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.12
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0
+  util:
+    lastUpdated: 20130415213627
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  util-swing:
+    lastUpdated: 20130415213627
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.23
+      - 1.0.24
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+  welcome:
+    lastUpdated: 20130415213628
+    latest: 13.03-beta
+    release: 13.03-beta
+    versions:
+      - 12.10-beta
+      - 12.10.1-beta
+      - 12.11-beta
+      - 12.12-beta
+      - 13.01-beta
+      - 13.02-beta
+      - 13.03-beta
+

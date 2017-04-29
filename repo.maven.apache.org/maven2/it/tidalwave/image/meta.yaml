@@ -1,0 +1,228 @@
+artifacts:
+  ExampleCustomOperation:
+    lastUpdated: 20090710060034
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  ExampleFaxManager:
+    lastUpdated: 20090710061906
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  ExampleHistogramViewer:
+    lastUpdated: 20090710061209
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  ExampleMiscellaneous:
+    lastUpdated: 20090710061542
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  ExampleViewer:
+    lastUpdated: 20090710060406
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralContributions:
+    lastUpdated: 20090706115307
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralCore:
+    lastUpdated: 20090706114710
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralJAIPlugin:
+    lastUpdated: 20090706125755
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralOperations:
+    lastUpdated: 20090706115101
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralProcessor:
+    lastUpdated: 20090704200214
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  MistralRenderer:
+    lastUpdated: 20090706125539
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+  image:
+    lastUpdated: 20161228203047
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-contributions:
+    lastUpdated: 20161228203048
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-core:
+    lastUpdated: 20161228203048
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-examples:
+    lastUpdated: 20161228203049
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-examples-customoperation:
+    lastUpdated: 20161228203049
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-examples-histogramviewer:
+    lastUpdated: 20161228203049
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-examples-miscellaneous:
+    lastUpdated: 20161228203049
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-examples-viewer:
+    lastUpdated: 20161228203050
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-modules:
+    lastUpdated: 20161228203050
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-operations:
+    lastUpdated: 20161228203050
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-plugin-jai:
+    lastUpdated: 20161228203051
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-processor:
+    lastUpdated: 20161228203051
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  image-renderer:
+    lastUpdated: 20161228203051
+    latest: 1.0-ALPHA-4
+    release: 1.0-ALPHA-4
+    versions:
+      - 1.0-ALPHA-4
+  mistral:
+    lastUpdated: 20090717222006
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+      - 0.9.9-SNAPSHOT
+  mistral-contributions:
+    lastUpdated: 20090717223658
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-core:
+    lastUpdated: 20090717223049
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-examples-customoperation:
+    lastUpdated: 20090712221401
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-examples-faxmanager:
+    lastUpdated: 20090712221954
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-examples-histogramviewer:
+    lastUpdated: 20090712221601
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-examples-miscellaneous:
+    lastUpdated: 20090712221754
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-examples-viewer:
+    lastUpdated: 20090712215439
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-imagej-plugin:
+    lastUpdated: 20090717224937
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+      - 0.9.9-SNAPSHOT
+  mistral-jai-plugin:
+    lastUpdated: 20090717224638
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-operations:
+    lastUpdated: 20090717223344
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.9-SNAPSHOT
+  mistral-processor:
+    lastUpdated: 20090717223952
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+      - 0.9.9-SNAPSHOT
+  mistral-renderer:
+    lastUpdated: 20090717224312
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.8-SNAPSHOT
+      - 0.9.9-SNAPSHOT
+

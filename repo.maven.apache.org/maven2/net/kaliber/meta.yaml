@@ -1,0 +1,35 @@
+artifacts:
+  jira-exception-processor_2.11:
+    lastUpdated: 20170306192650
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  play-s3_2.10:
+    lastUpdated: 20160608140354
+    latest: 7.0.2
+    release: 7.0.2
+    versions:
+      - 7.0.2
+  play-s3_2.11:
+    lastUpdated: 20160608140354
+    latest: 8.0.0
+    release: 8.0.0
+    versions:
+      - 7.0.2
+      - 8.0.0
+  scala-mailer-core_2.11:
+    lastUpdated: 20170228085214
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  scala-mailer-play_2.11:
+    lastUpdated: 20170228085524
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+

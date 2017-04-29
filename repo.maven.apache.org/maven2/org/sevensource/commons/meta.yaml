@@ -1,0 +1,27 @@
+artifacts:
+  configuration.jdbc:
+    lastUpdated: 20130211083602
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  html-email-service:
+    lastUpdated: 20140711121134
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+  jdbc-configuration:
+    lastUpdated: 20121115004828
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

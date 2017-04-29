@@ -1,0 +1,26 @@
+artifacts:
+  jboss-as-osgi-distribution:
+    lastUpdated: 20100923025105
+    latest: 6.0.0.20100911-M5
+    release: 6.0.0.20100911-M5
+    versions:
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+  jboss-as-osgi-integration:
+    lastUpdated: 20100923025102
+    latest: 6.0.0.20100911-M5
+    release: 6.0.0.20100911-M5
+    versions:
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+  jboss-as-osgi-pom:
+    lastUpdated: 20100923025100
+    latest: 6.0.0.20100911-M5
+    release: 6.0.0.20100911-M5
+    versions:
+      - 6.0.0.20100429-M3
+      - 6.0.0.20100721-M4
+      - 6.0.0.20100911-M5
+

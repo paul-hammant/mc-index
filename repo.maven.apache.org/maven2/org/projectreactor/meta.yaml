@@ -1,0 +1,88 @@
+artifacts:
+  reactor-benchmark:
+    lastUpdated: 20131121153901
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  reactor-core:
+    lastUpdated: 20150317143752
+    latest: 1.1.6.RELEASE
+    release: 1.1.6.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+      - 1.1.4.RELEASE
+      - 1.1.5.RELEASE
+      - 1.1.6.RELEASE
+  reactor-groovy:
+    lastUpdated: 20150317143753
+    latest: 1.1.6.RELEASE
+    release: 1.1.6.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+      - 1.1.4.RELEASE
+      - 1.1.5.RELEASE
+      - 1.1.6.RELEASE
+  reactor-groovy-extensions:
+    lastUpdated: 20150317143754
+    latest: 1.1.6.RELEASE
+    release: 1.1.6.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+      - 1.1.4.RELEASE
+      - 1.1.5.RELEASE
+      - 1.1.6.RELEASE
+  reactor-logback:
+    lastUpdated: 20150317143755
+    latest: 1.1.6.RELEASE
+    release: 1.1.6.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+      - 1.1.4.RELEASE
+      - 1.1.5.RELEASE
+      - 1.1.6.RELEASE
+  reactor-net:
+    lastUpdated: 20150317143756
+    latest: 1.1.6.RELEASE
+    release: 1.1.6.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+      - 1.1.4.RELEASE
+      - 1.1.5.RELEASE
+      - 1.1.6.RELEASE
+  reactor-spring:
+    lastUpdated: 20140317161123
+    latest: 1.0.1.RELEASE
+    release: 1.0.1.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+  reactor-tcp:
+    lastUpdated: 20140317161124
+    latest: 1.0.1.RELEASE
+    release: 1.0.1.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+

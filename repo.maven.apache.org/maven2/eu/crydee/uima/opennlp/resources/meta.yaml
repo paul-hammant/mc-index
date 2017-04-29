@@ -1,0 +1,289 @@
+artifacts:
+  da-pos-maxent:
+    lastUpdated: 20150511095544
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  da-pos-perceptron:
+    lastUpdated: 20150511095711
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  da-sent:
+    lastUpdated: 20150511095837
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  da-token:
+    lastUpdated: 20150511100022
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  de-pos-maxent:
+    lastUpdated: 20150511100212
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  de-pos-perceptron:
+    lastUpdated: 20150511100424
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  de-sent:
+    lastUpdated: 20150511100552
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  de-token:
+    lastUpdated: 20150511100721
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-chunker:
+    lastUpdated: 20150511100855
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-date:
+    lastUpdated: 20150511101029
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-location:
+    lastUpdated: 20150511101205
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-money:
+    lastUpdated: 20150511101337
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-organization:
+    lastUpdated: 20150511101539
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-percentage:
+    lastUpdated: 20150511101731
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-person:
+    lastUpdated: 20150511101907
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-ner-time:
+    lastUpdated: 20150511102054
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-parser-chunking:
+    lastUpdated: 20150511102306
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-pos-maxent:
+    lastUpdated: 20150511102449
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-pos-perceptron:
+    lastUpdated: 20150511102636
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-sent:
+    lastUpdated: 20150511102802
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  en-token:
+    lastUpdated: 20150511102929
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  es-ner-location:
+    lastUpdated: 20150511103104
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  es-ner-misc:
+    lastUpdated: 20150511103247
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  es-ner-organization:
+    lastUpdated: 20150511103422
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  es-ner-person:
+    lastUpdated: 20150511103551
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-ner-location:
+    lastUpdated: 20150511103720
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-ner-misc:
+    lastUpdated: 20150511103848
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-ner-organization:
+    lastUpdated: 20150511104017
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-ner-person:
+    lastUpdated: 20150511104150
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-pos-maxent:
+    lastUpdated: 20150511104315
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-pos-perceptron:
+    lastUpdated: 20150511104441
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-sent:
+    lastUpdated: 20150511104604
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  nl-token:
+    lastUpdated: 20150511104730
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  pt-pos-maxent:
+    lastUpdated: 20150511104857
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  pt-pos-perceptron:
+    lastUpdated: 20150511105025
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  pt-sent:
+    lastUpdated: 20150511105203
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  pt-token:
+    lastUpdated: 20150511105334
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  se-pos-maxent:
+    lastUpdated: 20150511105516
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  se-pos-perceptron:
+    lastUpdated: 20150511105657
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  se-sent:
+    lastUpdated: 20150511105834
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  se-token:
+    lastUpdated: 20150511110003
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+

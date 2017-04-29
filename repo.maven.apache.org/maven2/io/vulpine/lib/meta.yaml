@@ -1,0 +1,69 @@
+artifacts:
+  Catcher:
+    lastUpdated: 20170324110856
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+  Jackfish:
+    lastUpdated: 20170324001247
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  Kalo:
+    lastUpdated: 20170406225707
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  cli:
+    lastUpdated: 20160906162809
+    latest: 0.1.12
+    release: 0.1.12
+    versions:
+      - 0.1.12
+  connectwise:
+    lastUpdated: 20170310151317
+    latest: 0.0.20
+    release: 0.0.20
+    versions:
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.17
+      - 0.0.18
+      - 0.0.19
+      - 0.0.20
+  http:
+    lastUpdated: 20160906191835
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  lib-connectwise:
+    lastUpdated: 20170309231701
+    latest: 0.0.17
+    release: 0.0.17
+    versions:
+      - 0.0.17
+  logging:
+    lastUpdated: 20170324110643
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.2.0
+  simple-sql:
+    lastUpdated: 20160906221044
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.5
+

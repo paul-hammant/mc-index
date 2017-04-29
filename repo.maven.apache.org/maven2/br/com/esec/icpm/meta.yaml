@@ -1,0 +1,93 @@
+artifacts:
+  certillion-client-library:
+    lastUpdated: 20160414183355
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.3
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.12
+      - 1.2.0
+  certillion-client-library-resteasy-plugin:
+    lastUpdated: 20151217175148
+    latest: 1.1.10
+    release: 1.1.10
+    versions:
+      - 1.1.9
+      - 1.1.10
+  esec-itext:
+    lastUpdated: 20151109200958
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  icpm-mss-parent:
+    lastUpdated: 20170215182012
+    latest: 1.13.4
+    release: 1.13.4
+    versions:
+      - 1.8.4
+      - 1.8.5
+      - 1.8.6
+      - 1.9.2
+      - 1.10.0
+      - 1.13.0
+      - 1.13.4
+  icpm-server-parent:
+    lastUpdated: 20170215182012
+    latest: 1.13.4
+    release: 1.13.4
+    versions:
+      - 1.8.5
+      - 1.8.6
+      - 1.9.2
+      - 1.10.0
+      - 1.13.0
+      - 1.13.4
+  icpm-system-parent:
+    lastUpdated: 20170215182012
+    latest: 1.13.4
+    release: 1.13.4
+    versions:
+      - 1.8.5
+      - 1.8.6
+      - 1.9.2
+      - 1.10.0
+      - 1.13.0
+      - 1.13.4
+  icpm-ws-client-common:
+    lastUpdated: 20170215182013
+    latest: 1.13.4
+    release: 1.13.4
+    versions:
+      - 1.8.4
+      - 1.8.5
+      - 1.8.6
+      - 1.9.2
+      - 1.10.0
+      - 1.13.0
+      - 1.13.4
+  mss-ws-client:
+    lastUpdated: 20170215182013
+    latest: 1.13.4
+    release: 1.13.4
+    versions:
+      - 1.8.4
+      - 1.8.5
+      - 1.8.6
+      - 1.9.2
+      - 1.10.0
+      - 1.13.0
+      - 1.13.4
+  security-helper:
+    lastUpdated: 20151217133401
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.2.5
+      - 1.2.6
+

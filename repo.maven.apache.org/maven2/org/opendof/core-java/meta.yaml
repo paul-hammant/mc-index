@@ -1,0 +1,52 @@
+artifacts:
+  dof-connection-reconnecting-listener:
+    lastUpdated: 20151117084154
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  dof-domain-management:
+    lastUpdated: 20151117084325
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  dof-domain-management-command-line:
+    lastUpdated: 20151117084413
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  dof-domain-management-command-line-cred-gen:
+    lastUpdated: 20151117084432
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  dof-inet:
+    lastUpdated: 20161025204545
+    latest: 7.0.2
+    release: 7.0.2
+    versions:
+      - 7.0.1
+      - 7.0.2
+  dof-oal:
+    lastUpdated: 20161025202734
+    latest: 7.0.4
+    release: 7.0.4
+    versions:
+      - 7.0.1
+      - 7.0.4
+  dof-server-restarting-listener:
+    lastUpdated: 20151117084340
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  dof-slf4j-log-listener:
+    lastUpdated: 20151117084350
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+

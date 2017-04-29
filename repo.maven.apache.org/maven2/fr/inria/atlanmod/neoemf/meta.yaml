@@ -1,0 +1,114 @@
+artifacts:
+  neoemf:
+    lastUpdated: 20170117000827
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  neoemf-blueprints:
+    lastUpdated: 20161206155136
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  neoemf-blueprints-neo4j:
+    lastUpdated: 20161206155137
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  neoemf-core:
+    lastUpdated: 20170117000827
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  neoemf-data:
+    lastUpdated: 20170117000828
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-berkeleydb:
+    lastUpdated: 20170117000828
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-blueprints:
+    lastUpdated: 20170117000828
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-blueprints-core:
+    lastUpdated: 20170117000829
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-blueprints-neo4j:
+    lastUpdated: 20170117000829
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-blueprints-neo4j-wrapper:
+    lastUpdated: 20170117000829
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-hbase:
+    lastUpdated: 20170117000830
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-map:
+    lastUpdated: 20170117000831
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-data-mapdb:
+    lastUpdated: 20170117000831
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  neoemf-graph:
+    lastUpdated: 20161206155137
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  neoemf-hbase:
+    lastUpdated: 20161206155138
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  neoemf-io:
+    lastUpdated: 20170117000832
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  neoemf-map:
+    lastUpdated: 20161206155139
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  neoemf-tests:
+    lastUpdated: 20170117000832
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

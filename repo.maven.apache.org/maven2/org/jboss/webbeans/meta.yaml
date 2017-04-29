@@ -1,0 +1,74 @@
+artifacts:
+  jsr299-api:
+    lastUpdated: 20110815134243
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-api:
+    lastUpdated: 20110815134243
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-build-aggregator:
+    lastUpdated: 20110815134243
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-core:
+    lastUpdated: 20110815134240
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-core-test:
+    lastUpdated: 20110815134239
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-jboss-tck-runner:
+    lastUpdated: 20110815134242
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-logging:
+    lastUpdated: 20110815134240
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-osgi-bundle:
+    lastUpdated: 20110815134241
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-parent:
+    lastUpdated: 20110815134243
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-porting-package:
+    lastUpdated: 20110815134241
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-spi:
+    lastUpdated: 20110815134242
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+  webbeans-version-matrix:
+    lastUpdated: 20110815134241
+    latest: 1.0.0.PREVIEW1
+    release: 1.0.0.PREVIEW1
+    versions:
+      - 1.0.0.PREVIEW1
+

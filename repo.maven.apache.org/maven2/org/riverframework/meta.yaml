@@ -1,0 +1,60 @@
+artifacts:
+  river-core:
+    lastUpdated: 20150910052728
+    latest: 0.2.11
+    release: 0.2.11
+    versions:
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+  river-credentials:
+    lastUpdated: 20150910052500
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  river-lotus-domino:
+    lastUpdated: 20150910052900
+    latest: 0.2.11
+    release: 0.2.11
+    versions:
+      - 0.2.7
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+  river-module-lotus-domino:
+    lastUpdated: 20150416065830
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  river-module-org-openntf-domino:
+    lastUpdated: 20150416065353
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  river-org-openntf-domino:
+    lastUpdated: 20150910053316
+    latest: 0.2.11
+    release: 0.2.11
+    versions:
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+      - 0.2.11
+  river-utils:
+    lastUpdated: 20150910052316
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.0
+      - 0.2.2
+      - 0.2.3
+      - 0.2.5
+

@@ -1,0 +1,443 @@
+artifacts:
+  endpoints-akka-http-server-circe_2.11:
+    lastUpdated: 20170312170845
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-akka-http-server-circe_2.12:
+    lastUpdated: 20170312170846
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-akka-http-server_2.11:
+    lastUpdated: 20170312170846
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-akka-http-server_2.12:
+    lastUpdated: 20170312170847
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra-circe_2.11:
+    lastUpdated: 20170312170847
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra-circe_2.12:
+    lastUpdated: 20170312170847
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra-circe_sjs0.6_2.11:
+    lastUpdated: 20170312170848
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra-circe_sjs0.6_2.12:
+    lastUpdated: 20170312170848
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra_2.11:
+    lastUpdated: 20170312170849
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra_2.12:
+    lastUpdated: 20170312170849
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra_sjs0.6_2.11:
+    lastUpdated: 20170312170850
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-algebra_sjs0.6_2.12:
+    lastUpdated: 20170312170850
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-play-circe_2.11:
+    lastUpdated: 20170312170851
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-play-client-circe_2.11:
+    lastUpdated: 20170312170851
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-play-client_2.11:
+    lastUpdated: 20170312170852
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-play-server-circe_2.11:
+    lastUpdated: 20170312170852
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-play-server_2.11:
+    lastUpdated: 20170312170853
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-xhr-client-circe_sjs0.6_2.11:
+    lastUpdated: 20170312170853
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-xhr-client-circe_sjs0.6_2.12:
+    lastUpdated: 20170312170854
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-xhr-client-faithful_sjs0.6_2.11:
+    lastUpdated: 20170312170854
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-xhr-client_sjs0.6_2.11:
+    lastUpdated: 20170312170855
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.1
+      - 0.2.0
+      - 0.2.0-09602e4
+  endpoints-xhr-client_sjs0.6_2.12:
+    lastUpdated: 20170312170855
+    latest: 0.2.0-09602e4
+    release: 0.2.0-09602e4
+    versions:
+      - 0.2.0
+      - 0.2.0-09602e4
+  enum-labels_2.10:
+    lastUpdated: 20170202105214
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum-labels_2.11:
+    lastUpdated: 20170202105214
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum-labels_2.12:
+    lastUpdated: 20170202105215
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  enum-labels_sjs0.6_2.10:
+    lastUpdated: 20170202105215
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum-labels_sjs0.6_2.11:
+    lastUpdated: 20170202105216
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum-labels_sjs0.6_2.12:
+    lastUpdated: 20170202105216
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  enum-values_2.10:
+    lastUpdated: 20170202105217
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum-values_2.11:
+    lastUpdated: 20170202105217
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum-values_2.12:
+    lastUpdated: 20170202105218
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  enum-values_sjs0.6_2.10:
+    lastUpdated: 20170202105218
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum-values_sjs0.6_2.11:
+    lastUpdated: 20170202105218
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum-values_sjs0.6_2.12:
+    lastUpdated: 20170202105219
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  enum_2.10:
+    lastUpdated: 20170202105219
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum_2.11:
+    lastUpdated: 20170202105220
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum_2.12:
+    lastUpdated: 20170202105220
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  enum_sjs0.6_2.10:
+    lastUpdated: 20170202105220
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.3
+      - 3.0
+      - 3.1
+  enum_sjs0.6_2.11:
+    lastUpdated: 20170202105221
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.2
+      - 3.0
+      - 3.1
+  enum_sjs0.6_2.12:
+    lastUpdated: 20170202105221
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.1
+  faithful-cats_sjs0.6_2.11:
+    lastUpdated: 20170405202327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 0.2
+      - 1.0.0
+  faithful-cats_sjs0.6_2.12:
+    lastUpdated: 20170405202327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  faithful_sjs0.6_2.11:
+    lastUpdated: 20170405202327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 0.2
+      - 1.0.0
+  faithful_sjs0.6_2.12:
+    lastUpdated: 20170405202328
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  play-jsmessages_2.10:
+    lastUpdated: 20150528070532
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 2.0.0
+  play-jsmessages_2.11:
+    lastUpdated: 20150528070533
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.6.2
+      - 2.0.0
+  play-json-derived-codecs_2.11:
+    lastUpdated: 20170306184516
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.2
+      - 3.3
+      - 4.0.0-RC1
+  play-json-derived-codecs_2.12:
+    lastUpdated: 20170306184517
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 4.0.0-RC1
+  play-json-derived-codecs_sjs0.6_2.11:
+    lastUpdated: 20170306184518
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 4.0.0-RC1
+  play-json-derived-codecs_sjs0.6_2.12:
+    lastUpdated: 20170306184519
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 4.0.0-RC1
+  play-json-variants_2.10:
+    lastUpdated: 20150716194736
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 0.2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0
+  play-json-variants_2.11:
+    lastUpdated: 20150716194736
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 0.2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0
+  play-jsonp-filter_2.10:
+    lastUpdated: 20140616115031
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  play-jsonp-filter_2.11:
+    lastUpdated: 20140616115031
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  play-products_2.11:
+    lastUpdated: 20160229152006
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  reactivemongo-derived-codecs_2.11:
+    lastUpdated: 20160501130433
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0
+

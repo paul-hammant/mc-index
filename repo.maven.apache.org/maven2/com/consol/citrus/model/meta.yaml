@@ -1,0 +1,332 @@
+artifacts:
+  citrus-model:
+    lastUpdated: 20170315104212
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-camel:
+    lastUpdated: 20170315104212
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-core:
+    lastUpdated: 20170315104212
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-cucumber:
+    lastUpdated: 20170315104213
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.6
+      - 2.7
+  citrus-model-docker:
+    lastUpdated: 20170315104213
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-ftp:
+    lastUpdated: 20170315104214
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-http:
+    lastUpdated: 20170315104214
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-jms:
+    lastUpdated: 20170315104215
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-jmx:
+    lastUpdated: 20170315104215
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-kubernetes:
+    lastUpdated: 20170315104215
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.7
+      - 2.7.1
+      - 2.7
+  citrus-model-mail:
+    lastUpdated: 20170315104216
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-rmi:
+    lastUpdated: 20170315104216
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-selenium:
+    lastUpdated: 20170315104217
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.7
+      - 2.7.1
+      - 2.7
+  citrus-model-ssh:
+    lastUpdated: 20170315104217
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-vertx:
+    lastUpdated: 20170315104218
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-websocket:
+    lastUpdated: 20170315104218
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-ws:
+    lastUpdated: 20170315104219
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.5.1
+      - 2.5.2
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+  citrus-model-zookeeper:
+    lastUpdated: 20170315104219
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.6
+      - 2.6.1
+      - 2.6.2
+      - 2.7
+      - 2.7.1
+      - 2.6
+      - 2.7
+

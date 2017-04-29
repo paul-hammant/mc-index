@@ -1,0 +1,69 @@
+artifacts:
+  ficus_2.10:
+    lastUpdated: 20140512113936
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0
+      - 1.0.1
+  ficus_2.11:
+    lastUpdated: 20141229161104
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  scrutinator-core_2.10:
+    lastUpdated: 20140805210920
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  scrutinator-json4s_2.10:
+    lastUpdated: 20140805210921
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  scrutinator-scalatra_2.10:
+    lastUpdated: 20140805210921
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  scrutinator-swagger_2.10:
+    lastUpdated: 20140805210922
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  scrutinator_2.10:
+    lastUpdated: 20140805210922
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+

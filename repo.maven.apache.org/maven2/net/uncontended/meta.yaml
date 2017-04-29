@@ -1,0 +1,62 @@
+artifacts:
+  Precipice:
+    lastUpdated: 20150628021143
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  precipice-core:
+    lastUpdated: 20160822035045
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  precipice-reporting:
+    lastUpdated: 20160822035046
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  precipice-samples:
+    lastUpdated: 20160822035046
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  precipice-threadpool:
+    lastUpdated: 20160822035047
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+

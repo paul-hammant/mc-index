@@ -1,0 +1,316 @@
+artifacts:
+  ate:
+    lastUpdated: 20160708132412
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  atomikos-parent:
+    lastUpdated: 20160708132412
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  atomikos-util:
+    lastUpdated: 20160708132412
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions:
+    lastUpdated: 20160708132413
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-api:
+    lastUpdated: 20160708132413
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-eclipselink:
+    lastUpdated: 20160708132413
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-essentials-all:
+    lastUpdated: 20100322022645
+    latest: 3.6.4
+    release: 3.6.4
+    versions:
+      - 3.6.4
+  transactions-hibernate2:
+    lastUpdated: 20160708132414
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-hibernate3:
+    lastUpdated: 20160708132414
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-hibernate4:
+    lastUpdated: 20160708132414
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-jdbc:
+    lastUpdated: 20160708132415
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-jdbc-deprecated:
+    lastUpdated: 20120528210722
+    latest: 3.8.0
+    release: 3.8.0
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+  transactions-jms:
+    lastUpdated: 20160708132415
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-jms-deprecated:
+    lastUpdated: 20120528210730
+    latest: 3.8.0
+    release: 3.8.0
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+  transactions-jndi-provider:
+    lastUpdated: 20160708132416
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-jta:
+    lastUpdated: 20160708132416
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.6.4
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-osgi:
+    lastUpdated: 20160708132416
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 3.7.0
+      - 3.7.1
+      - 3.8.0
+      - 3.9.0.M1
+      - 3.9.0
+      - 3.9.1
+      - 3.9.2
+      - 3.9.3
+      - 4.0.0M4
+      - 4.0.0M5
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-tcc-rest:
+    lastUpdated: 20160708132417
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  transactions-tcc-rest-api:
+    lastUpdated: 20160708132417
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+

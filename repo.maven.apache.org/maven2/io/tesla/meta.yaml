@@ -1,0 +1,70 @@
+artifacts:
+  airline:
+    lastUpdated: 20140120233853
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.6
+      - 0.5
+      - 0.6
+  tesla:
+    lastUpdated: 20131102151005
+    latest: 7
+    release: 7
+    versions:
+      - 5
+      - 7
+      - 5
+      - 7
+  tesla-build:
+    lastUpdated: 20131010025529
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  tesla-concurrent-localrepo:
+    lastUpdated: 20121103232235
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  tesla-conf:
+    lastUpdated: 20131010025529
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  tesla-delta:
+    lastUpdated: 20131010025529
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  tesla-distribution:
+    lastUpdated: 20131010025529
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  tesla-filelock:
+    lastUpdated: 20130802032358
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  tesla-launcher:
+    lastUpdated: 20131010025529
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  tesla-snapshot-purger:
+    lastUpdated: 20121103232235
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

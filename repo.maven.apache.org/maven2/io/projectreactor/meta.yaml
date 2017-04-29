@@ -1,0 +1,144 @@
+artifacts:
+  reactor:
+    lastUpdated: 20160428175638
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-alloc:
+    lastUpdated: 20160428175639
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-bom:
+    lastUpdated: 20170404112735
+    latest: Aluminium-SR2
+    release: Aluminium-SR2
+    versions:
+      - Aluminium-RELEASE
+      - Aluminium-SR1
+      - Aluminium-SR2
+  reactor-bus:
+    lastUpdated: 20160428175639
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-core:
+    lastUpdated: 20170420090416
+    latest: 3.0.7.RELEASE
+    release: 3.0.7.RELEASE
+    versions:
+      - 2.0.0.RC1
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+      - 2.5.0.M1
+      - 2.5.0.M2
+      - 2.5.0.M3
+      - 2.5.0.M4
+      - 3.0.0.RC1
+      - 3.0.0.RELEASE
+      - 3.0.1.RELEASE
+      - 3.0.2.RELEASE
+      - 3.0.3.RELEASE
+      - 3.0.4.RELEASE
+      - 3.0.5.RELEASE
+      - 3.0.6.RELEASE
+      - 3.0.7.RELEASE
+  reactor-groovy:
+    lastUpdated: 20160428175641
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.0.RC1
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-groovy-extensions:
+    lastUpdated: 20160428175641
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.0.RC1
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-logback:
+    lastUpdated: 20160428175642
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.0.RC1
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-net:
+    lastUpdated: 20160428175643
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.0.RC1
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+  reactor-scala-extensions:
+    lastUpdated: 20170423180543
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.3
+  reactor-stream:
+    lastUpdated: 20160428175644
+    latest: 2.0.8.RELEASE
+    release: 2.0.8.RELEASE
+    versions:
+      - 2.0.1.RELEASE
+      - 2.0.2.RELEASE
+      - 2.0.3.RELEASE
+      - 2.0.4.RELEASE
+      - 2.0.5.RELEASE
+      - 2.0.6.RELEASE
+      - 2.0.7.RELEASE
+      - 2.0.8.RELEASE
+

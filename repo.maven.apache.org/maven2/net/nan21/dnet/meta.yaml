@@ -1,0 +1,938 @@
+artifacts:
+  nan21.dnet.core:
+    lastUpdated: 20130219123550
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.api:
+    lastUpdated: 20130219123552
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.business:
+    lastUpdated: 20130219123554
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.config:
+    lastUpdated: 20130219123556
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.db:
+    lastUpdated: 20130219123556
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.domain:
+    lastUpdated: 20130219123559
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.email:
+    lastUpdated: 20130219123600
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.extjs.lib:
+    lastUpdated: 20130219123603
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.extjs.themes:
+    lastUpdated: 20130219123606
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.home:
+    lastUpdated: 20130219123608
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.i18n:
+    lastUpdated: 20130219123610
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.jdbc:
+    lastUpdated: 20130219123613
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.presenter:
+    lastUpdated: 20130219123616
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.scheduler:
+    lastUpdated: 20130219123618
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.security:
+    lastUpdated: 20130219123620
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.setup:
+    lastUpdated: 20130219123620
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.ui.extjs:
+    lastUpdated: 20130219123621
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.web:
+    lastUpdated: 20130219123622
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.welcome:
+    lastUpdated: 20120731044806
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.core.workflow:
+    lastUpdated: 20130219123623
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.core.www:
+    lastUpdated: 20130219123624
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.fragment.activiti:
+    lastUpdated: 20130219123626
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.jpa:
+    lastUpdated: 20120731045010
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ad:
+    lastUpdated: 20130219123632
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.business:
+    lastUpdated: 20130219123637
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.business.api:
+    lastUpdated: 20130219123639
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.data:
+    lastUpdated: 20130219123639
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.db:
+    lastUpdated: 20130219123640
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.domain:
+    lastUpdated: 20130219123640
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.presenter:
+    lastUpdated: 20130219123642
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ad.ui.extjs:
+    lastUpdated: 20130219123642
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd:
+    lastUpdated: 20130219123643
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.business:
+    lastUpdated: 20130219123644
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.business.api:
+    lastUpdated: 20130219123644
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.data:
+    lastUpdated: 20130219123645
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.db:
+    lastUpdated: 20130219123646
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.domain:
+    lastUpdated: 20130219123646
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.presenter:
+    lastUpdated: 20130219123647
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.bd.ui.extjs:
+    lastUpdated: 20130219123649
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi:
+    lastUpdated: 20130219123649
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.business:
+    lastUpdated: 20130219123650
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.business.api:
+    lastUpdated: 20130219123652
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.data:
+    lastUpdated: 20130219123652
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.db:
+    lastUpdated: 20130219123653
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.domain:
+    lastUpdated: 20130219123654
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.presenter:
+    lastUpdated: 20130219123654
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.fi.ui.extjs:
+    lastUpdated: 20130219123656
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr:
+    lastUpdated: 20130219123656
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.business:
+    lastUpdated: 20130219123657
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.business.api:
+    lastUpdated: 20130219123658
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.data:
+    lastUpdated: 20130219123659
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.db:
+    lastUpdated: 20130219123659
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.domain:
+    lastUpdated: 20130219123702
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.presenter:
+    lastUpdated: 20130219123703
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.hr.ui.extjs:
+    lastUpdated: 20130219123704
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md:
+    lastUpdated: 20130219123705
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.business:
+    lastUpdated: 20130219123706
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.business.api:
+    lastUpdated: 20130219123707
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.data:
+    lastUpdated: 20130219123709
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.db:
+    lastUpdated: 20130219123710
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.domain:
+    lastUpdated: 20130219123711
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.presenter:
+    lastUpdated: 20130219123712
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.ui.extjs:
+    lastUpdated: 20130219123713
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.md.www:
+    lastUpdated: 20130219123714
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj:
+    lastUpdated: 20130219123715
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.business:
+    lastUpdated: 20130219123715
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.business.api:
+    lastUpdated: 20130219123716
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.data:
+    lastUpdated: 20130219123717
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.db:
+    lastUpdated: 20130219123718
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.domain:
+    lastUpdated: 20130219123719
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.presenter:
+    lastUpdated: 20130219123719
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.pj.ui.extjs:
+    lastUpdated: 20130219123720
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc:
+    lastUpdated: 20130219123720
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.business:
+    lastUpdated: 20130219123721
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.business.api:
+    lastUpdated: 20130219123721
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.data:
+    lastUpdated: 20130219123722
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.db:
+    lastUpdated: 20130219123723
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.domain:
+    lastUpdated: 20130219123724
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.presenter:
+    lastUpdated: 20130219123724
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sc.ui.extjs:
+    lastUpdated: 20130219123725
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd:
+    lastUpdated: 20130219123726
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.business:
+    lastUpdated: 20130219123726
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.business.api:
+    lastUpdated: 20130219123727
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.data:
+    lastUpdated: 20130219123728
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.db:
+    lastUpdated: 20130219123728
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.domain:
+    lastUpdated: 20130219123729
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.presenter:
+    lastUpdated: 20130219123730
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.sd.ui.extjs:
+    lastUpdated: 20130219123731
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.module.ux:
+    lastUpdated: 20120731045042
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ux.business:
+    lastUpdated: 20120731045042
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ux.business.api:
+    lastUpdated: 20120731045042
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ux.domain:
+    lastUpdated: 20120731045043
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ux.presenter:
+    lastUpdated: 20120731045043
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.module.ux.ui.extjs:
+    lastUpdated: 20120731045043
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.modules:
+    lastUpdated: 20120731045043
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  nan21.dnet.modules_oss:
+    lastUpdated: 20130219123731
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.modules_oss.i18n:
+    lastUpdated: 20130219123732
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  nan21.dnet.modules_oss.jpa_all:
+    lastUpdated: 20130219123733
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+

@@ -1,0 +1,127 @@
+artifacts:
+  jimix:
+    lastUpdated: 20150817185639
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-core:
+    lastUpdated: 20150817185639
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-dropwizard:
+    lastUpdated: 20150817185640
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-samples:
+    lastUpdated: 20150817185640
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-samples-dropwizard:
+    lastUpdated: 20150817185640
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-samples-jetty:
+    lastUpdated: 20150817185641
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-samples-vertx:
+    lastUpdated: 20150817185641
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-samples-war:
+    lastUpdated: 20150817185642
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-servlet:
+    lastUpdated: 20150817185642
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-ui:
+    lastUpdated: 20150817185643
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+  jimix-vertx:
+    lastUpdated: 20150817185643
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.1.0
+      - 2.1.1
+

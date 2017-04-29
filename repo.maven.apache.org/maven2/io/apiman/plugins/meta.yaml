@@ -1,0 +1,296 @@
+artifacts:
+  apiman-plugins:
+    lastUpdated: 20170106205133
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-apikey-policy:
+    lastUpdated: 20170106205133
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-circuit-breaker-policy:
+    lastUpdated: 20170106205133
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-config-policy:
+    lastUpdated: 20170106205133
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-cors-policy:
+    lastUpdated: 20170106205134
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-http-security-policy:
+    lastUpdated: 20170106205134
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-jsonp-policy:
+    lastUpdated: 20170106205134
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-jwt-policy:
+    lastUpdated: 20170106205135
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.9.Final
+  apiman-plugins-keycloak-oauth-policy:
+    lastUpdated: 20170106205135
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-log-policy:
+    lastUpdated: 20170106205136
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-noop-policy:
+    lastUpdated: 20170106205136
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-repository:
+    lastUpdated: 20170106205136
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-simple-header-policy:
+    lastUpdated: 20170106205137
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-soap-authorization-policy:
+    lastUpdated: 20170106205137
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-test-policy:
+    lastUpdated: 20170106205138
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-transformation-policy:
+    lastUpdated: 20170106205138
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.Final
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-unique-header-policy:
+    lastUpdated: 20170106205138
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.8.Final
+      - 1.2.9.Final
+  apiman-plugins-url-whitelist-policy:
+    lastUpdated: 20170106205139
+    latest: 1.2.9.Final
+    release: 1.2.9.Final
+    versions:
+      - 1.2.3.CR1
+      - 1.2.3.Final
+      - 1.2.4.Final
+      - 1.2.5.Final
+      - 1.2.6.Beta1
+      - 1.2.6.Final
+      - 1.2.7.Beta1
+      - 1.2.7.Final
+      - 1.2.8.Final
+      - 1.2.9.Final
+

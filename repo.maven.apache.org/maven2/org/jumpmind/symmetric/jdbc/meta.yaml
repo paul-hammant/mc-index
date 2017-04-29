@@ -1,0 +1,20 @@
+artifacts:
+  mariadb-java-client:
+    lastUpdated: 20130414142200
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  postgresql:
+    lastUpdated: 20130117205338
+    latest: {}
+    release: 9.2-1002-jdbc4
+    versions:
+      - 9.2-1002-jdbc4
+  xerial-sqlite:
+    lastUpdated: 20130610171914
+    latest: {}
+    release: 3.7.15.SNAPSHOT.2
+    versions:
+      - 3.7.15.SNAPSHOT.2
+

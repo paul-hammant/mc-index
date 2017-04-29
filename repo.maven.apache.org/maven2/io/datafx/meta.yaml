@@ -1,0 +1,215 @@
+artifacts:
+  core:
+    lastUpdated: 20150130102352
+    latest: 8.0.7
+    release: 8.0.7
+    versions:
+      - 8.0b7
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0.7
+      - 8.0
+  crud:
+    lastUpdated: 20150130102352
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  datafx:
+    lastUpdated: 20150130102353
+    latest: 8.0.7
+    release: 8.0.7
+    versions:
+      - 8.0b7
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0.7
+      - 8.0
+  datasources:
+    lastUpdated: 20150130102353
+    latest: 8.0.7
+    release: 8.0.7
+    versions:
+      - 8.0b7
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0.7
+      - 8.0
+  ejb:
+    lastUpdated: 20150130102354
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  ejb-wildfly:
+    lastUpdated: 20150130102354
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  eventsystem:
+    lastUpdated: 20150130102355
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  featuretoggle:
+    lastUpdated: 20150130102355
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  flow:
+    lastUpdated: 20150130102356
+    latest: 8.0.7
+    release: 8.0.7
+    versions:
+      - 8.0b7
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0.7
+      - 8.0
+  injection:
+    lastUpdated: 20150130102357
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  samples:
+    lastUpdated: 20150130102358
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  samples-ejb:
+    lastUpdated: 20150130102358
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials:
+    lastUpdated: 20140801101936
+    latest: 8.0.7
+    release: 8.0.7
+    versions:
+      - 8.0b7
+      - 8.0.7
+  tutorials-flow1:
+    lastUpdated: 20150130102359
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials-flow2:
+    lastUpdated: 20150130102400
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials-flow3:
+    lastUpdated: 20150130102400
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials-flow4:
+    lastUpdated: 20150130102401
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials-flow5:
+    lastUpdated: 20150130102402
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b8
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  tutorials-flow6:
+    lastUpdated: 20150130102402
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  tutorials-flow7:
+    lastUpdated: 20150130102402
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  ui:
+    lastUpdated: 20150130102403
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  validation:
+    lastUpdated: 20150130102403
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+  websocket:
+    lastUpdated: 20150130102404
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0b9
+      - 8.0
+      - 8.0.1
+      - 8.0
+

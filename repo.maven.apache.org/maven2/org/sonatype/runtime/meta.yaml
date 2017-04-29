@@ -1,0 +1,49 @@
+artifacts:
+  aggregator:
+    lastUpdated: 20100329152733
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  aggregator-ars:
+    lastUpdated: 20110210190615
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  archive-template:
+    lastUpdated: 20110210190609
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  runtime-assembler:
+    lastUpdated: 20100329152732
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  runtime-assembler-cli:
+    lastUpdated: 20100329152737
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+

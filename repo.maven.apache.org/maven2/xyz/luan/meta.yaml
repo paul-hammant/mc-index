@@ -1,0 +1,33 @@
+artifacts:
+  http-facade:
+    lastUpdated: 20170416161856
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  parent-pom:
+    lastUpdated: 20150503190737
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  reflection-utils:
+    lastUpdated: 20150121011801
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.1
+  validum:
+    lastUpdated: 20150208174338
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

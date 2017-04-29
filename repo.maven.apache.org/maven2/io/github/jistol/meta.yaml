@@ -1,0 +1,32 @@
+artifacts:
+  jistol-spring-remote:
+    lastUpdated: 20170323080439
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  line-bot-api-client:
+    lastUpdated: 20170415051254
+    latest: 1.6.0.JISTOL
+    release: 1.6.0.JISTOL
+    versions:
+      - 1.6.0.JISTOL
+  line-bot-model:
+    lastUpdated: 20170415050156
+    latest: 1.6.0.JISTOL
+    release: 1.6.0.JISTOL
+    versions:
+      - 1.6.0.JISTOL
+  line-bot-servlet:
+    lastUpdated: 20170415051824
+    latest: 1.6.0.JISTOL
+    release: 1.6.0.JISTOL
+    versions:
+      - 1.6.0.JISTOL
+  line-bot-spring-boot:
+    lastUpdated: 20170415053259
+    latest: 1.6.0.JISTOL
+    release: 1.6.0.JISTOL
+    versions:
+      - 1.6.0.JISTOL
+

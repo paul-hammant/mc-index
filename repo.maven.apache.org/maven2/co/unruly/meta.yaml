@@ -1,0 +1,51 @@
+artifacts:
+  control:
+    lastUpdated: 20170412142227
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.7.10
+      - 0.8.0
+      - 0.6
+      - 0.7
+  java-8-matchers:
+    lastUpdated: 20170405122315
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.4
+      - 1.5
+  junit-rules:
+    lastUpdated: 20150416112745
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  validation:
+    lastUpdated: 20150529152443
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

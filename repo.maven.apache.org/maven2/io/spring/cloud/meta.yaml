@@ -1,0 +1,38 @@
+artifacts:
+  batch-events:
+    lastUpdated: 20160629060430
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  batch-job:
+    lastUpdated: 20160629060431
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  partitioned-batch-job:
+    lastUpdated: 20160629060432
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  taskprocessor:
+    lastUpdated: 20160629060433
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  tasksink:
+    lastUpdated: 20160629060434
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  timestamp-task:
+    lastUpdated: 20160629060434
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+

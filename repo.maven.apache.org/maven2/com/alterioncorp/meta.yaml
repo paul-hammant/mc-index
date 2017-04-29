@@ -1,0 +1,29 @@
+artifacts:
+  parent-pom:
+    lastUpdated: 20160524173704
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  perf-jdbc:
+    lastUpdated: 20160524174018
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  request-logger:
+    lastUpdated: 20160524174506
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+

@@ -1,0 +1,88 @@
+artifacts:
+  scalatest-embedded-kafka-streams_2.10:
+    lastUpdated: 20161119224138
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  scalatest-embedded-kafka-streams_2.11:
+    lastUpdated: 20170226185414
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+  scalatest-embedded-kafka-streams_2.12:
+    lastUpdated: 20170226185415
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+  scalatest-embedded-kafka_2.10:
+    lastUpdated: 20161119224034
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.1-kafka09
+      - 0.4.2
+      - 0.4.2-kafka09
+      - 0.4.3
+      - 0.4.3-kafka09
+      - 0.5.0
+      - 0.5.0-kafka08
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.10.0
+  scalatest-embedded-kafka_2.11:
+    lastUpdated: 20170226184957
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.2.1
+      - 0.2.3
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.1-kafka09
+      - 0.4.2
+      - 0.4.2-kafka09
+      - 0.4.3
+      - 0.4.3-kafka09
+      - 0.5.0
+      - 0.5.0-kafka08
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+  scalatest-embedded-kafka_2.12:
+    lastUpdated: 20170226184958
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+

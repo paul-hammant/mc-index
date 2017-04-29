@@ -1,0 +1,227 @@
+artifacts:
+  classpath-shrinker_2.11:
+    lastUpdated: 20170403143320
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  classpath-shrinker_2.12:
+    lastUpdated: 20170403143321
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  collection-strawman_2.12:
+    lastUpdated: 20170227133620
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  readme_2.11:
+    lastUpdated: 20161213132251
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0-RC1
+      - 0.1.0
+      - 0.2.0
+  scalafix-cli_2.11:
+    lastUpdated: 20170320225120
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0-RC1
+      - 0.1.0
+      - 0.3.2
+  scalafix-cli_2.11.10:
+    lastUpdated: 20170412183949
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-cli_2.11.8:
+    lastUpdated: 20170403182225
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  scalafix-cli_2.12.1:
+    lastUpdated: 20170412183950
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.3
+      - 0.3.4
+  scalafix-core_2.11:
+    lastUpdated: 20170320225120
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0-RC1
+      - 0.1.0
+      - 0.2.0-RC1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2-RC1
+      - 0.2.2-RC2
+      - 0.2.2-RC3
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix-core_2.11.10:
+    lastUpdated: 20170412183950
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-core_2.11.8:
+    lastUpdated: 20170403182226
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  scalafix-core_2.12:
+    lastUpdated: 20170320225120
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2-RC1
+      - 0.2.2-RC2
+      - 0.2.2-RC3
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix-core_2.12.1:
+    lastUpdated: 20170412183950
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.3
+      - 0.3.4
+  scalafix-fatcli_2.11.10:
+    lastUpdated: 20170412183951
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-fatcli_2.11.8:
+    lastUpdated: 20170403182227
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  scalafix-fatcli_2.12.1:
+    lastUpdated: 20170412183951
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.3
+      - 0.3.4
+  scalafix-nsc_2.11:
+    lastUpdated: 20170320225121
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.0-RC1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2-RC1
+      - 0.2.2-RC2
+      - 0.2.2-RC3
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix-nsc_2.11.10:
+    lastUpdated: 20170412183952
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-nsc_2.11.8:
+    lastUpdated: 20170403182228
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  scalafix-nsc_2.12:
+    lastUpdated: 20170320225121
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2-RC1
+      - 0.2.2-RC2
+      - 0.2.2-RC3
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix-nsc_2.12.1:
+    lastUpdated: 20170412183952
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.3
+      - 0.3.4
+  scalafix-testkit_2.11:
+    lastUpdated: 20170412183953
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-testkit_2.12:
+    lastUpdated: 20170412183953
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  scalafix-testutils_2.11:
+    lastUpdated: 20170320225121
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix-testutils_2.12:
+    lastUpdated: 20170320225122
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  scalafix_2.11:
+    lastUpdated: 20161026150450
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-RC1
+      - 0.1.0
+  spores-serialization_2.11:
+    lastUpdated: 20161203231652
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  spores_2.11:
+    lastUpdated: 20161203230620
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+

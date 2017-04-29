@@ -1,0 +1,29 @@
+artifacts:
+  tftp-protocol:
+    lastUpdated: 20150717040351
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  tftp-server-mina:
+    lastUpdated: 20150717040352
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  tftp-server-netty:
+    lastUpdated: 20150717040353
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

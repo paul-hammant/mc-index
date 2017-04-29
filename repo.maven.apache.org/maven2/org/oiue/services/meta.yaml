@@ -1,0 +1,338 @@
+artifacts:
+  actions:
+    lastUpdated: 20161101123432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  bytes:
+    lastUpdated: 20161101123437
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  drivers:
+    lastUpdated: 20161101123439
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  imports:
+    lastUpdated: 20161101123442
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  interfaces:
+    lastUpdated: 20161101123442
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.auth:
+    lastUpdated: 20161101123448
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.auth.impl:
+    lastUpdated: 20161101123449
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.auth.local:
+    lastUpdated: 20161101123449
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.buffer:
+    lastUpdated: 20161101123450
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.buffer.impl:
+    lastUpdated: 20161101123450
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.buffer.synchronization.db:
+    lastUpdated: 20161101123451
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache:
+    lastUpdated: 20161101123451
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.buffer:
+    lastUpdated: 20161101123452
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.impl:
+    lastUpdated: 20161101123452
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.jedis:
+    lastUpdated: 20161101123453
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.script:
+    lastUpdated: 20161101123453
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.tree:
+    lastUpdated: 20161101123454
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.tree.script:
+    lastUpdated: 20161101123454
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.cache.tree.zookeeper.curator:
+    lastUpdated: 20161101123455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.debug.cache:
+    lastUpdated: 20161101123456
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.debug.httpclient:
+    lastUpdated: 20161101123456
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.debug.insertmodule:
+    lastUpdated: 20161101123457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.debug.res:
+    lastUpdated: 20161101123457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.debug.treecache:
+    lastUpdated: 20161101123457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.event.execute:
+    lastUpdated: 20161101123458
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.event.execute.impl:
+    lastUpdated: 20161101123459
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.event.system.time:
+    lastUpdated: 20161101123459
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.event.system.time.impl:
+    lastUpdated: 20161101123500
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.file.upload:
+    lastUpdated: 20161101123500
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.file.upload.impl:
+    lastUpdated: 20161101123501
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.http.client:
+    lastUpdated: 20161101123502
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.http.client.apache:
+    lastUpdated: 20161101123502
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.log:
+    lastUpdated: 20161101123503
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.log4j:
+    lastUpdated: 20161101123503
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.message:
+    lastUpdated: 20161101123504
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.message.impl:
+    lastUpdated: 20161101123504
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.online:
+    lastUpdated: 20161101123505
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.online.impl:
+    lastUpdated: 20161101123505
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.osgi.rpc:
+    lastUpdated: 20161101123506
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.permission:
+    lastUpdated: 20161101123507
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.permission.impl:
+    lastUpdated: 20161101123507
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.permission.verify:
+    lastUpdated: 20161101123508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.socketio:
+    lastUpdated: 20161101123508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.sql:
+    lastUpdated: 20161101123509
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.system.analyzer:
+    lastUpdated: 20161101123509
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.system.analyzer.impl:
+    lastUpdated: 20161101123510
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.task:
+    lastUpdated: 20161101123511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.task.quartz:
+    lastUpdated: 20161101123511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.tcp:
+    lastUpdated: 20161101123511
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.tcp.mina:
+    lastUpdated: 20161101123512
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.template.beetl:
+    lastUpdated: 20161101123513
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.threadpool:
+    lastUpdated: 20161101123513
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.threadpool.impl:
+    lastUpdated: 20161101123514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  reactor:
+    lastUpdated: 20161101123514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  services:
+    lastUpdated: 20161101123514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  templates:
+    lastUpdated: 20161101123514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

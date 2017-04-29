@@ -1,0 +1,136 @@
+artifacts:
+  tutorial-parent:
+    lastUpdated: 20140828171801
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-client-flex:
+    lastUpdated: 20140828171801
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-client-java:
+    lastUpdated: 20140828171802
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-client-java-base:
+    lastUpdated: 20140828171803
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-client-javafx:
+    lastUpdated: 20140828171804
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-client-javafx8:
+    lastUpdated: 20140828171805
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+  tutorial-parent-server-base:
+    lastUpdated: 20140828171805
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-server-cdi:
+    lastUpdated: 20140828171808
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-server-ejb:
+    lastUpdated: 20140828171808
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+  tutorial-parent-server-spring:
+    lastUpdated: 20140828171808
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 1.0
+      - 3.0.1.GA
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.1.0.M1
+      - 3.1.0.RC1
+      - 3.1.0.GA
+      - 1.0
+

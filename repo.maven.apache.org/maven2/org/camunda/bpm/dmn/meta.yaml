@@ -1,0 +1,122 @@
+artifacts:
+  camunda-engine-dmn:
+    lastUpdated: 20170208155327
+    latest: 7.7.0-alpha1
+    release: 7.7.0-alpha1
+    versions:
+      - 7.4.0-alpha2
+      - 7.4.0-alpha3
+      - 7.4.0
+      - 7.5.0-alpha1
+      - 7.5.0-alpha2
+      - 7.5.0-alpha3
+      - 7.5.0-alpha4
+      - 7.5.0-alpha5
+      - 7.5.0
+      - 7.6.0-alpha1
+      - 7.6.0-alpha2
+      - 7.6.0-alpha3
+      - 7.6.0-alpha4
+      - 7.6.0-alpha5
+      - 7.6.0-alpha6
+      - 7.6.0
+      - 7.7.0-alpha1
+  camunda-engine-dmn-bom:
+    lastUpdated: 20170208155328
+    latest: 7.7.0-alpha1
+    release: 7.7.0-alpha1
+    versions:
+      - 7.4.0-alpha2
+      - 7.4.0-alpha3
+      - 7.4.0
+      - 7.5.0-alpha1
+      - 7.5.0-alpha2
+      - 7.5.0-alpha3
+      - 7.5.0-alpha4
+      - 7.5.0-alpha5
+      - 7.5.0
+      - 7.6.0-alpha1
+      - 7.6.0-alpha2
+      - 7.6.0-alpha3
+      - 7.6.0-alpha4
+      - 7.6.0-alpha5
+      - 7.6.0-alpha6
+      - 7.6.0
+      - 7.7.0-alpha1
+  camunda-engine-dmn-root:
+    lastUpdated: 20170208155328
+    latest: 7.7.0-alpha1
+    release: 7.7.0-alpha1
+    versions:
+      - 7.4.0-alpha2
+      - 7.4.0-alpha3
+      - 7.4.0
+      - 7.5.0-alpha1
+      - 7.5.0-alpha2
+      - 7.5.0-alpha3
+      - 7.5.0-alpha4
+      - 7.5.0-alpha5
+      - 7.5.0
+      - 7.6.0-alpha1
+      - 7.6.0-alpha2
+      - 7.6.0-alpha3
+      - 7.6.0-alpha4
+      - 7.6.0-alpha5
+      - 7.6.0-alpha6
+      - 7.6.0
+      - 7.7.0-alpha1
+  camunda-engine-feel-api:
+    lastUpdated: 20170208155328
+    latest: 7.7.0-alpha1
+    release: 7.7.0-alpha1
+    versions:
+      - 7.4.0-alpha3
+      - 7.4.0
+      - 7.5.0-alpha1
+      - 7.5.0-alpha2
+      - 7.5.0-alpha3
+      - 7.5.0-alpha4
+      - 7.5.0-alpha5
+      - 7.5.0
+      - 7.6.0-alpha1
+      - 7.6.0-alpha2
+      - 7.6.0-alpha3
+      - 7.6.0-alpha4
+      - 7.6.0-alpha5
+      - 7.6.0-alpha6
+      - 7.6.0
+      - 7.7.0-alpha1
+  camunda-engine-feel-juel:
+    lastUpdated: 20170208155329
+    latest: 7.7.0-alpha1
+    release: 7.7.0-alpha1
+    versions:
+      - 7.4.0-alpha3
+      - 7.4.0
+      - 7.5.0-alpha1
+      - 7.5.0-alpha2
+      - 7.5.0-alpha3
+      - 7.5.0-alpha4
+      - 7.5.0-alpha5
+      - 7.5.0
+      - 7.6.0-alpha1
+      - 7.6.0-alpha2
+      - 7.6.0-alpha3
+      - 7.6.0-alpha4
+      - 7.6.0-alpha5
+      - 7.6.0-alpha6
+      - 7.6.0
+      - 7.7.0-alpha1
+  camunda-scriptengine-dmn:
+    lastUpdated: 20151106091704
+    latest: 7.4.0-alpha2
+    release: 7.4.0-alpha2
+    versions:
+      - 7.4.0-alpha2
+  camunda-scriptengine-juel:
+    lastUpdated: 20151106091705
+    latest: 7.4.0-alpha2
+    release: 7.4.0-alpha2
+    versions:
+      - 7.4.0-alpha2
+

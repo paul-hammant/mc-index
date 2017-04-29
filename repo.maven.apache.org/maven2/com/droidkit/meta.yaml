@@ -1,0 +1,100 @@
+artifacts:
+  actors:
+    lastUpdated: 20141115091448
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.1.7
+      - 0.1.9
+      - 0.2.11
+      - 0.2.12
+      - 0.2.44
+      - 0.2.47
+      - 0.2.48
+      - 0.3
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+      - 0.3
+      - 0.5
+  actors-android:
+    lastUpdated: 20141115091910
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.2.45
+      - 0.2.47
+      - 0.2.48
+      - 0.3
+      - 0.5
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.3
+      - 0.5
+  bser:
+    lastUpdated: 20141115140455
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  droidkit-bser:
+    lastUpdated: 20141115093851
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  engines:
+    lastUpdated: 20140830140542
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  opus:
+    lastUpdated: 20141001000109
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  pickers:
+    lastUpdated: 20141018104222
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.5
+      - 0.6
+      - 0.7
+  progress:
+    lastUpdated: 20141016052001
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+  webrtc:
+    lastUpdated: 20140826001312
+    latest: 0.2.11
+    release: 0.2.11
+    versions:
+      - 0.2.11
+

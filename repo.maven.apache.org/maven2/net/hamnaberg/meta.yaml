@@ -1,0 +1,39 @@
+artifacts:
+  funclite:
+    lastUpdated: 20140701212112
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  hbase-scala_2.10:
+    lastUpdated: 20140820102734
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  hbase-scala_2.11:
+    lastUpdated: 20140820102734
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  scala-archiver_2.10:
+    lastUpdated: 20150507080923
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  scala-archiver_2.11:
+    lastUpdated: 20150507080923
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

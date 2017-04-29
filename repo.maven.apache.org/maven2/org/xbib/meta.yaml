@@ -1,0 +1,268 @@
+artifacts:
+  bibliographic-character-sets:
+    lastUpdated: 20160820171613
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  catalog-entities:
+    lastUpdated: 20170417123204
+    latest: 1.0.37
+    release: 1.0.37
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.20
+      - 1.0.21
+      - 1.0.22
+      - 1.0.23
+      - 1.0.24
+      - 1.0.25
+      - 1.0.27
+      - 1.0.28
+      - 1.0.29
+      - 1.0.35
+      - 1.0.36
+      - 1.0.37
+  classloader:
+    lastUpdated: 20161123104235
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  content:
+    lastUpdated: 20161207145320
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-core:
+    lastUpdated: 20161207145320
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-csv:
+    lastUpdated: 20161207145321
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-json:
+    lastUpdated: 20161207145321
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-language:
+    lastUpdated: 20161207145322
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-rdf:
+    lastUpdated: 20161207145322
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-resource:
+    lastUpdated: 20161207145323
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-smile:
+    lastUpdated: 20161207145323
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-xml:
+    lastUpdated: 20161207145323
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  content-yaml:
+    lastUpdated: 20161207145323
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  cql:
+    lastUpdated: 20170126203715
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  elasticsearch-extras-client:
+    lastUpdated: 20170401153139
+    latest: 5.3.0.0
+    release: 5.3.0.0
+    versions:
+      - 2.2.1.0
+      - 2.2.1.1
+      - 2.2.1.2
+      - 5.0.1.0
+      - 5.1.1.0
+      - 5.2.2.0
+      - 5.3.0.0
+  guice:
+    lastUpdated: 20170203113818
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.3
+      - 4.0.4
+  hibiscus:
+    lastUpdated: 20170414195828
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jacc:
+    lastUpdated: 20161123230414
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  jsr-305:
+    lastUpdated: 20161123111249
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  marc:
+    lastUpdated: 20170307200816
+    latest: 1.0.11
+    release: 1.0.11
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+  metrics:
+    lastUpdated: 20161101153559
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  oai:
+    lastUpdated: 20161113231020
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  oai-client:
+    lastUpdated: 20161113231020
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  oai-common:
+    lastUpdated: 20161113231020
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  oai-server:
+    lastUpdated: 20161113231021
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  standardnumber:
+    lastUpdated: 20170202211441
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  time:
+    lastUpdated: 20161102155829
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,21 @@
+artifacts:
+  google-geocoding:
+    lastUpdated: 20140924154903
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  mapquest-open-directions:
+    lastUpdated: 20141126182331
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  mapquest-open-geocoding:
+    lastUpdated: 20140924004339
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

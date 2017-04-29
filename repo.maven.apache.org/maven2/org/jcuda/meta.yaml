@@ -1,0 +1,116 @@
+artifacts:
+  jcublas:
+    lastUpdated: 20170227193449
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcublas-natives:
+    lastUpdated: 20170227193408
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcuda:
+    lastUpdated: 20170227193346
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcuda-common:
+    lastUpdated: 20170227193310
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcuda-natives:
+    lastUpdated: 20170227193327
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcuda-parent:
+    lastUpdated: 20170227193254
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcuda-vec:
+    lastUpdated: 20170308173311
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  jcudnn:
+    lastUpdated: 20170227193508
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcudnn-natives:
+    lastUpdated: 20170227193532
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcufft:
+    lastUpdated: 20170227193554
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcufft-natives:
+    lastUpdated: 20170227193612
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcurand:
+    lastUpdated: 20170227193630
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcurand-natives:
+    lastUpdated: 20170227193647
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcusolver:
+    lastUpdated: 20170227193723
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcusolver-natives:
+    lastUpdated: 20170227193746
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcusparse:
+    lastUpdated: 20170227193818
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jcusparse-natives:
+    lastUpdated: 20170227193838
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jnvgraph:
+    lastUpdated: 20170227193905
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  jnvgraph-natives:
+    lastUpdated: 20170227193925
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+

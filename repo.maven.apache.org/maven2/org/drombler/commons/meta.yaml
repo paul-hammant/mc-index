@@ -1,0 +1,376 @@
+artifacts:
+  drombler-commons:
+    lastUpdated: 20170111002420
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-action:
+    lastUpdated: 20170111002420
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-action-command:
+    lastUpdated: 20170111002420
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-action-core:
+    lastUpdated: 20170111002421
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-action-fx:
+    lastUpdated: 20170111002421
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-client:
+    lastUpdated: 20170111002421
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-client-core:
+    lastUpdated: 20170111002421
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-client-docking:
+    lastUpdated: 20150225213755
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  drombler-commons-client-docking-spi:
+    lastUpdated: 20150225213756
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  drombler-commons-client-parent:
+    lastUpdated: 20170111002422
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-context:
+    lastUpdated: 20170111002422
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-data:
+    lastUpdated: 20170111002422
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-commons-docking:
+    lastUpdated: 20170111002422
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-docking-context:
+    lastUpdated: 20170111002422
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-commons-docking-core:
+    lastUpdated: 20170111002423
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-docking-fx:
+    lastUpdated: 20170111002423
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-docking-fx-context:
+    lastUpdated: 20170111002423
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-docking-spi:
+    lastUpdated: 20170111002424
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-fx:
+    lastUpdated: 20170111002424
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-fx-core:
+    lastUpdated: 20170111002424
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-fx-docking:
+    lastUpdated: 20150225213758
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  drombler-commons-fx-parent:
+    lastUpdated: 20170111002424
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-fx-time:
+    lastUpdated: 20170111002425
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-commons-parent:
+    lastUpdated: 20170111002425
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+

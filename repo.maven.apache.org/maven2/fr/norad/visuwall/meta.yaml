@@ -1,0 +1,80 @@
+artifacts:
+  visuwall:
+    lastUpdated: 20150210103211
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  visuwall-api:
+    lastUpdated: 20150210103211
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-cli:
+    lastUpdated: 20150210103211
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-core:
+    lastUpdated: 20150210103212
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-bamboo:
+    lastUpdated: 20150210103212
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-continuum:
+    lastUpdated: 20150210103213
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-hudson:
+    lastUpdated: 20150210103213
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-jenkins:
+    lastUpdated: 20150210103213
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-sonar:
+    lastUpdated: 20150210103214
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-plugin-teamcity:
+    lastUpdated: 20150210103214
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  visuwall-web:
+    lastUpdated: 20150210103215
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+

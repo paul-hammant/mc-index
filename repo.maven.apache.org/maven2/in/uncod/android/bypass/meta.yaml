@@ -1,0 +1,38 @@
+artifacts:
+  bypass:
+    lastUpdated: 20130320221107
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  functional-test:
+    lastUpdated: 20130320221108
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  functional-test-tests:
+    lastUpdated: 20130320221110
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  parent:
+    lastUpdated: 20130320221110
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+

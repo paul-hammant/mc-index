@@ -1,0 +1,636 @@
+artifacts:
+  a3:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  a3-common:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  a3-osgi:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  a3-rt:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  a3-services:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  conf:
+    lastUpdated: 20161025144914
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  jndi:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  jndi-client:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  jndi-server:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  jndi-shared:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-assembly:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-client:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-client-jca:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-client-jms:
+    lastUpdated: 20161025144915
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-client-spring:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-jca:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-jca-ironjacamar:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.13.0
+  joram-jca-jonas:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-jca-ra:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-jca-remote:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom:
+    lastUpdated: 20161025144916
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-amqp:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-core:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-amqp:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-collector:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-ftp:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-jmsbridge:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-mail:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-mom-extensions-scheduler:
+    lastUpdated: 20161025144917
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-release:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-samples:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-security:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-security-jonas:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-shared:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-tools:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-tools-jasp:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  joram-tools-monitoring:
+    lastUpdated: 20161025144918
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.13.0
+  joram-tools-rest:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.12.0
+      - 5.13.0
+  joram-tools-rest-admin:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.12.0
+      - 5.13.0
+  joram-tools-rest-jms:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.12.0
+      - 5.13.0
+  joram-tools-rest-jmx:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.12.0
+      - 5.13.0
+  licenses:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  parent:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.7.1
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  shell:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  shell-a3:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  shell-jndi:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+  shell-mom:
+    lastUpdated: 20161025144919
+    latest: 5.13.0
+    release: 5.13.0
+    versions:
+      - 5.8.0
+      - 5.8.1
+      - 5.9.0
+      - 5.9.1
+      - 5.10.0
+      - 5.11.0
+      - 5.12.0
+      - 5.13.0
+

@@ -1,0 +1,61 @@
+artifacts:
+  foxhttp:
+    lastUpdated: 20170224192834
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2-RC
+      - 1.2
+      - 1.2.1
+      - 1.0
+      - 1.1
+      - 1.2
+  pom:
+    lastUpdated: 20170213065145
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  restclient:
+    lastUpdated: 20161206172516
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.1
+      - 2.2
+      - 2.1
+      - 2.2
+  restclient-android:
+    lastUpdated: 20161205232529
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  restclient-http:
+    lastUpdated: 20161205232429
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  service-result:
+    lastUpdated: 20170224192941
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.0
+      - 1.1
+      - 1.2
+

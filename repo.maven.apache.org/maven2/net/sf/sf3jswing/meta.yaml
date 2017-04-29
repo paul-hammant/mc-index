@@ -1,0 +1,53 @@
+artifacts:
+  AntBuildFiles:
+    lastUpdated: 20160615215235
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.3
+  asl-descriptors:
+    lastUpdated: 20160522152531
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  kernel:
+    lastUpdated: 20160522203205
+    latest: 1.3.14
+    release: 1.3.14
+    versions:
+      - 1.3.14
+  kernel-core:
+    lastUpdated: 20160522203206
+    latest: 1.3.14
+    release: 1.3.14
+    versions:
+      - 1.3.14
+  kernel-lnx:
+    lastUpdated: 20160522203207
+    latest: 1.3.14
+    release: 1.3.14
+    versions:
+      - 1.3.14
+  kernel-osx:
+    lastUpdated: 20160522203208
+    latest: 1.3.14
+    release: 1.3.14
+    versions:
+      - 1.3.9
+      - 1.3.14
+  kernel-win:
+    lastUpdated: 20160522203210
+    latest: 1.3.14
+    release: 1.3.14
+    versions:
+      - 1.3.14
+  mojo-archetype:
+    lastUpdated: 20160522151359
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+

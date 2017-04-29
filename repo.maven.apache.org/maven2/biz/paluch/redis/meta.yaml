@@ -1,0 +1,68 @@
+artifacts:
+  lettuce:
+    lastUpdated: 20170131162014
+    latest: 5.0.0.Beta1
+    release: 5.0.0.Beta1
+    versions:
+      - 3.0.Beta1
+      - 3.0.Beta2
+      - 3.0.Beta3
+      - 3.0.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.Final
+      - 3.2.Beta1
+      - 3.2.Final
+      - 3.3.Beta1
+      - 3.3.Final
+      - 3.3.1.Final
+      - 3.3.2.Final
+      - 3.4.Final
+      - 3.4.1.Final
+      - 3.4.2.Final
+      - 3.4.3.Final
+      - 3.5.0.Final
+      - 4.0.Beta1
+      - 4.0.Beta2
+      - 4.0.Final
+      - 4.0.1.Final
+      - 4.0.2.Final
+      - 4.1.Final
+      - 4.1.1.Final
+      - 4.1.2.Final
+      - 4.2.0.Final
+      - 4.2.1.Final
+      - 4.2.2.Final
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 5.0.0.Beta1
+  lettuce-parent:
+    lastUpdated: 20140815175229
+    latest: 3.0.Beta3
+    release: 3.0.Beta3
+    versions:
+      - 3.0.Beta1
+      - 3.0.Beta2
+      - 3.0.Beta3
+  lettuce-shaded:
+    lastUpdated: 20140815175230
+    latest: 3.0.Beta3
+    release: 3.0.Beta3
+    versions:
+      - 3.0.Beta1
+      - 3.0.Beta2
+      - 3.0.Beta3
+  spinach:
+    lastUpdated: 20160218195230
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+

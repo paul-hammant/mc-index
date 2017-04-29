@@ -1,0 +1,83 @@
+artifacts:
+  coordinator:
+    lastUpdated: 20150410090333
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.5
+  coordinator-commmon:
+    lastUpdated: 20150408085023
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  coordinator-common:
+    lastUpdated: 20150410090336
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.5
+  coordinator-compiler:
+    lastUpdated: 20150410090342
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.5
+  drawableview:
+    lastUpdated: 20150406065414
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  threaddecoratedview-common:
+    lastUpdated: 20160223211446
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.1
+      - 1.5
+  threaddecoratedview-compiler:
+    lastUpdated: 20160223211447
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.1
+      - 1.5
+  wizard:
+    lastUpdated: 20160108222630
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.1
+      - 1.2
+

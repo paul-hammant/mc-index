@@ -1,0 +1,78 @@
+artifacts:
+  internetenvsetting:
+    lastUpdated: 20160118074108
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mipushcollect:
+    lastUpdated: 20160108034757
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  multi-image-selector:
+    lastUpdated: 20160118084023
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  positionupload:
+    lastUpdated: 20160109083728
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  upgrade:
+    lastUpdated: 20160118093952
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+  upgrade-with-ui:
+    lastUpdated: 20160118095742
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+  uploadimage:
+    lastUpdated: 20160108060256
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

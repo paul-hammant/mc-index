@@ -1,0 +1,170 @@
+artifacts:
+  android-superpom:
+    lastUpdated: 20100903112500
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.14.1.RC1
+      - 0.14.1.RC2
+      - 0.14.1.RC3
+      - 0.14.1
+      - 0.15.RC1
+      - 0.15
+      - 0.15
+  bluebill:
+    lastUpdated: 20100903112508
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.RC1
+      - 0.14
+      - 0.14.1.RC1
+      - 0.14.1.RC2
+      - 0.14.1.RC3
+      - 0.14.1
+      - 0.15.RC1
+      - 0.15
+      - 0.14
+      - 0.15
+  bluebill-mobile-android:
+    lastUpdated: 20100903112510
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.RC1
+      - 0.14
+      - 0.14.1.RC1
+      - 0.14.1.RC2
+      - 0.14.1.RC3
+      - 0.14.1
+      - 0.15.RC1
+      - 0.15
+      - 0.14
+      - 0.15
+  bluebill-mobile-android-plugin-xenocanto:
+    lastUpdated: 20100603151629
+    latest: 0.11.1
+    release: 0.11.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+  bluebill-mobile-android-test-functional:
+    lastUpdated: 20100903112520
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.14.RC1
+      - 0.14
+      - 0.14.1.RC1
+      - 0.14.1.RC2
+      - 0.14.1.RC3
+      - 0.14.1
+      - 0.15.RC1
+      - 0.15
+      - 0.14
+      - 0.15
+  bluebill-mobile-android-test-integration:
+    lastUpdated: 20100903112525
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.14.RC1
+      - 0.14
+      - 0.14.1.RC1
+      - 0.14.1.RC2
+      - 0.14.1.RC3
+      - 0.14.1
+      - 0.15.RC1
+      - 0.15
+      - 0.14
+      - 0.15
+  it-tidalwave-android-it-tidalwave-semantic-io:
+    lastUpdated: 20100903112532
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.14.1.RC1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  it-tidalwave-android-org-openrdf-sesame-model:
+    lastUpdated: 20100903112539
+    latest: 2.2.3.7
+    release: 2.2.3.7
+    versions:
+      - 0.14.1.RC1
+      - 2.2.3.1
+      - 2.2.3.2
+      - 2.2.3.3
+      - 2.2.3.4
+      - 2.2.3.5
+      - 2.2.3.6
+      - 2.2.3.7
+  it-tidalwave-android-utilities:
+    lastUpdated: 20100903112454
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  it-tidalwave-mobile-utilities:
+    lastUpdated: 20100903112544
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  it-tidalwave-mobile-xml:
+    lastUpdated: 20100903112535
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.14.1.RC1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

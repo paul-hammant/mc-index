@@ -1,0 +1,207 @@
+artifacts:
+  api:
+    lastUpdated: 20100114160005
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  cldcapi10:
+    lastUpdated: 20100114160008
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  cldcapi11:
+    lastUpdated: 20100114160010
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu:
+    lastUpdated: 20100114160005
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-cldc:
+    lastUpdated: 20100114160018
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-device-large:
+    lastUpdated: 20100114160109
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-device-minimum:
+    lastUpdated: 20100114160109
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-device-resizable:
+    lastUpdated: 20100114160109
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-extensions:
+    lastUpdated: 20100114160109
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-injected:
+    lastUpdated: 20100114160033
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-javase:
+    lastUpdated: 20100114160049
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-javase-applet:
+    lastUpdated: 20100114160108
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-javase-swing:
+    lastUpdated: 20100114160101
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-javase-swt:
+    lastUpdated: 20070505055553
+    latest: {}
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  microemu-jsr-120:
+    lastUpdated: 20100114160117
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-jsr-135:
+    lastUpdated: 20100114160118
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-jsr-75:
+    lastUpdated: 20100114160111
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-jsr-82:
+    lastUpdated: 20100114160115
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-midp:
+    lastUpdated: 20100114160031
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-nokiaui:
+    lastUpdated: 20100114160120
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemu-siemensapi:
+    lastUpdated: 20100114160122
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemulator:
+    lastUpdated: 20100114160129
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  microemulator-app-swing:
+    lastUpdated: 20070128085122
+    latest: {}
+    release: {}
+    versions:
+      - 2.0.0
+  midpapi20:
+    lastUpdated: 20100114160012
+    latest: {}
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+

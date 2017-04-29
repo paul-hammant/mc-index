@@ -1,0 +1,136 @@
+artifacts:
+  activityfield:
+    lastUpdated: 20140706083625
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.04-beta
+      - 14.06-beta
+  agent:
+    lastUpdated: 20140706083625
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  farm:
+    lastUpdated: 20140706083626
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  field:
+    lastUpdated: 20140706083626
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  machine:
+    lastUpdated: 20140706083627
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  model-tinkerpop:
+    lastUpdated: 20140706083627
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  observations:
+    lastUpdated: 20140706083628
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  platform:
+    lastUpdated: 20140706083628
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  rest:
+    lastUpdated: 20140706083629
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  server:
+    lastUpdated: 20140706083629
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  server-parent:
+    lastUpdated: 20140706083630
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  storage-api:
+    lastUpdated: 20140706083630
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  storage-tinkerpop:
+    lastUpdated: 20140706083631
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  task:
+    lastUpdated: 20140706083631
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  web-app:
+    lastUpdated: 20140525140645
+    latest: 14.04-beta
+    release: 14.04-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+  worker:
+    lastUpdated: 20140706083631
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+  ws:
+    lastUpdated: 20140706083632
+    latest: 14.06-beta
+    release: 14.06-beta
+    versions:
+      - 14.02-beta
+      - 14.04-beta
+      - 14.06-beta
+

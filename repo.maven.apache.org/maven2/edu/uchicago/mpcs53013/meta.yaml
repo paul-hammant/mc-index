@@ -1,0 +1,103 @@
+artifacts:
+  WeatherTopology-archetype:
+    lastUpdated: 20161124201437
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  flight-topology-archetype:
+    lastUpdated: 20161124201940
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 2.0.1
+      - 2.0.2
+  hadoop-archetype:
+    lastUpdated: 20151020013557
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  hadoop-thrift-archetype:
+    lastUpdated: 20161014015501
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  hadoop-thrift-example-archetype:
+    lastUpdated: 20161014024620
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  hdfs-ingest-weather-archetype:
+    lastUpdated: 20161104033812
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  kafka-flight-archetype:
+    lastUpdated: 20161121023212
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 2.0
+      - 2.0.1
+      - 2.0
+  kafka-weather-archetype:
+    lastUpdated: 20151126113906
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  parent:
+    lastUpdated: 20151013153451
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  storm-word-count-archetype:
+    lastUpdated: 20161118202426
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  thrift-archetype:
+    lastUpdated: 20161014012454
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  thrift-example-archetype:
+    lastUpdated: 20161014020937
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  word-count-archetype:
+    lastUpdated: 20161019181110
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+

@@ -1,0 +1,600 @@
+artifacts:
+  accumulo-rest:
+    lastUpdated: 20170403151128
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  accumulo-store:
+    lastUpdated: 20170403151129
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  array-list-store:
+    lastUpdated: 20170315193341
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  bitmap-library:
+    lastUpdated: 20170403151129
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  common-util:
+    lastUpdated: 20170403151130
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  core:
+    lastUpdated: 20170403151130
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  core-library:
+    lastUpdated: 20170403151130
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  core-rest:
+    lastUpdated: 20170403151131
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  data:
+    lastUpdated: 20170403151132
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  example:
+    lastUpdated: 20170403151132
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  example-graph:
+    lastUpdated: 20170403151132
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  example-rest:
+    lastUpdated: 20170403151133
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  exception:
+    lastUpdated: 20170403151135
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  federated-rest:
+    lastUpdated: 20170406114046
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.3
+      - 0.6.6
+  function:
+    lastUpdated: 20170403151135
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  gaffer-tools:
+    lastUpdated: 20170406114048
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  gaffer2:
+    lastUpdated: 20170403151136
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  graffer-ql:
+    lastUpdated: 20170406114048
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  graph:
+    lastUpdated: 20170403151136
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  hdfs-library:
+    lastUpdated: 20170403151136
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  integration-test:
+    lastUpdated: 20170403151137
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  job-tracker-jcs:
+    lastUpdated: 20170403151137
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  job-tracker-library:
+    lastUpdated: 20170403151137
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  library:
+    lastUpdated: 20170403151138
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  map-rest:
+    lastUpdated: 20170403151138
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  map-store:
+    lastUpdated: 20170403151138
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  mini-accumulo-cluster:
+    lastUpdated: 20170406114049
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  named-operation:
+    lastUpdated: 20170403151139
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  named-operation-jcs-cache:
+    lastUpdated: 20170403151139
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  named-operation-library:
+    lastUpdated: 20170403151140
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  operation:
+    lastUpdated: 20170403151140
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  proxy-store:
+    lastUpdated: 20170403151140
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  rest-api:
+    lastUpdated: 20170403151141
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  road-traffic:
+    lastUpdated: 20170406114051
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  road-traffic-demo:
+    lastUpdated: 20170406114052
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  road-traffic-generators:
+    lastUpdated: 20170406114053
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  road-traffic-model:
+    lastUpdated: 20170406114053
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  road-traffic-rest:
+    lastUpdated: 20170406114053
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  schema-builder:
+    lastUpdated: 20170406114055
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  schema-builder-rest:
+    lastUpdated: 20170406114056
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  serialisation:
+    lastUpdated: 20170403151141
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  sketches-library:
+    lastUpdated: 20170403151141
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  slider:
+    lastUpdated: 20170406114057
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  spark:
+    lastUpdated: 20170403151142
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  spark-accumulo-library:
+    lastUpdated: 20170403151144
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  spark-examples:
+    lastUpdated: 20170403151144
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  spark-library:
+    lastUpdated: 20170403151145
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  store:
+    lastUpdated: 20170403151145
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  store-implementation:
+    lastUpdated: 20170403151146
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  ui:
+    lastUpdated: 20170403151146
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+

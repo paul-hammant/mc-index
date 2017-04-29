@@ -1,0 +1,131 @@
+artifacts:
+  FkEintygAdapterIC:
+    lastUpdated: 20160316114740
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  FkEintygAdapterIC-tests:
+    lastUpdated: 20160316114740
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  FkEintygAdapterIC-teststub:
+    lastUpdated: 20160316114741
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  FkEintygAdapterIC-validator:
+    lastUpdated: 20160316114741
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.1.1
+      - 2.2-RC1
+  ForsakringskassanEintygAdapter:
+    lastUpdated: 20160316114742
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  Schemas:
+    lastUpdated: 20160316114742
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  fk-vardgivare-sjukvard-schemas:
+    lastUpdated: 20160316114742
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  insuranceprocess-healthreporting-schemas:
+    lastUpdated: 20160316114743
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.0.5-RC1
+      - 2.0.5-RC2
+      - 2.0.5-RC3
+      - 2.0.5
+      - 2.0.6-RC1
+      - 2.0.6-RC2
+      - 2.0.6-RC3
+      - 2.0.6
+      - 2.0.7
+      - 2.1.1
+      - 2.2-RC1
+  intyg-wiretap:
+    lastUpdated: 20150615170823
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.1.1
+  schemas-support:
+    lastUpdated: 20160316114744
+    latest: 2.2-RC1
+    release: 2.2-RC1
+    versions:
+      - 2.1.1
+      - 2.2-RC1
+

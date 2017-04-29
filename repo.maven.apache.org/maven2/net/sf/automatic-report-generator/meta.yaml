@@ -1,0 +1,41 @@
+artifacts:
+  birt-generator:
+    lastUpdated: 20161103230738
+    latest: v1.1
+    release: v1.1
+    versions:
+      - v1.0
+      - v1.1
+  csv-generator:
+    lastUpdated: 20161103230136
+    latest: v1.2
+    release: v1.2
+    versions:
+      - v1.0
+      - v1.1
+      - v1.2
+  generic-generator:
+    lastUpdated: 20161103221334
+    latest: v1.2
+    release: v1.2
+    versions:
+      - v1.0
+      - v1.1
+      - v1.2
+  xls-generator:
+    lastUpdated: 20161104125700
+    latest: v1.2
+    release: v1.2
+    versions:
+      - v1.0
+      - v1.1
+      - v1.2
+  xml-generator:
+    lastUpdated: 20161104130120
+    latest: v1.2
+    release: v1.2
+    versions:
+      - v1.0
+      - v1.1
+      - v1.2
+

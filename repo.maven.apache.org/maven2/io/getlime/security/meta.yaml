@@ -1,0 +1,191 @@
+artifacts:
+  powerauth-android:
+    lastUpdated: 20160910093610
+    latest: 0.11.1
+    release: 0.11.1
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+  powerauth-cmd-parent:
+    lastUpdated: 20170408172232
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.15.0
+  powerauth-java:
+    lastUpdated: 20161222151854
+    latest: 0.13.1
+    release: 0.13.1
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+  powerauth-java-client:
+    lastUpdated: 20161011145230
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+  powerauth-java-client-axis:
+    lastUpdated: 20170408173954
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-java-client-spring:
+    lastUpdated: 20170408173955
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-java-cmd-lib:
+    lastUpdated: 20170408172232
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.15.0
+  powerauth-java-crypto:
+    lastUpdated: 20170408173955
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-java-http:
+    lastUpdated: 20170408173955
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-java-prov:
+    lastUpdated: 20170408173955
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-parent:
+    lastUpdated: 20170408173956
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-restful-model:
+    lastUpdated: 20170408173956
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-restful-security:
+    lastUpdated: 20161011145232
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.0.8
+      - 0.0.9
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+  powerauth-restful-security-base:
+    lastUpdated: 20170408173956
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-restful-security-javaee:
+    lastUpdated: 20170408173956
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+  powerauth-restful-security-spring:
+    lastUpdated: 20170408173956
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.14.0
+      - 0.15.0
+

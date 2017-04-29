@@ -1,0 +1,73 @@
+artifacts:
+  configuration:
+    lastUpdated: 20141020100929
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+  jexpresso:
+    lastUpdated: 20140901131032
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+  jexpresso-accesslog:
+    lastUpdated: 20140805131113
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jexpresso-base-auth:
+    lastUpdated: 20140805083959
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jexpresso-basic-auth:
+    lastUpdated: 20140805131427
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jexpresso-session:
+    lastUpdated: 20140805131731
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jexpresso-static-resources:
+    lastUpdated: 20140805131623
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  mongo-repository:
+    lastUpdated: 20141107210942
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  spring-jwt:
+    lastUpdated: 20141102192104
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+

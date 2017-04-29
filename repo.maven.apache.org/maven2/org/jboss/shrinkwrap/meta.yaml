@@ -1,0 +1,486 @@
+artifacts:
+  shrinkwrap-api:
+    lastUpdated: 20160618042203
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 0.1.0
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-alpha-4
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+      - 1.0.0-cr-1
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-api-nio2:
+    lastUpdated: 20160618042205
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-assembly:
+    lastUpdated: 20100425221931
+    latest: 1.0.0-alpha-1
+    release: 1.0.0-alpha-1
+    versions:
+      - 1.0.0-alpha-1
+  shrinkwrap-bom:
+    lastUpdated: 20160618042206
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-build:
+    lastUpdated: 20110310032959
+    latest: 1.0.0-alpha-12
+    release: 1.0.0-alpha-12
+    versions:
+      - 0.1.0
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-alpha-4
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+  shrinkwrap-build-resources:
+    lastUpdated: 20160618042207
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-depchain:
+    lastUpdated: 20160618042208
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-depchain-java7:
+    lastUpdated: 20160618042208
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-extension-classloader:
+    lastUpdated: 20100718031145
+    latest: 1.0.0-alpha-11
+    release: 1.0.0-alpha-11
+    versions:
+      - 1.0.0-alpha-11
+  shrinkwrap-extension-descriptors:
+    lastUpdated: 20110922070005
+    latest: 1.0.0-beta-6
+    release: 1.0.0-beta-6
+    versions:
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+  shrinkwrap-extension-glassfish:
+    lastUpdated: 20110427190510
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-jetty:
+    lastUpdated: 20100601225136
+    latest: 1.0.0-alpha-10
+    release: 1.0.0-alpha-10
+    versions:
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+  shrinkwrap-extension-jetty-6:
+    lastUpdated: 20110427190512
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-jetty-7:
+    lastUpdated: 20110427190513
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-mobicents-sip-servlets-1x:
+    lastUpdated: 20110427190520
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-openejb:
+    lastUpdated: 20110427190521
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-tomcat-6:
+    lastUpdated: 20110427190527
+    latest: 1.0.0-alpha-13
+    release: 1.0.0-alpha-13
+    versions:
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+  shrinkwrap-extension-vdf:
+    lastUpdated: 20110922070004
+    latest: 1.0.0-beta-6
+    release: 1.0.0-beta-6
+    versions:
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+  shrinkwrap-extension-vfs3:
+    lastUpdated: 20110922070003
+    latest: 1.0.0-beta-6
+    release: 1.0.0-beta-6
+    versions:
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+  shrinkwrap-impl-base:
+    lastUpdated: 20160618042209
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 0.1.0
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-alpha-4
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+      - 1.0.0-cr-1
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-impl-nio2:
+    lastUpdated: 20160618042210
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-parent:
+    lastUpdated: 20160618042211
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-alpha-4
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+      - 1.0.0-cr-1
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-spi:
+    lastUpdated: 20160618042212
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 0.1.0
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+      - 1.0.0-alpha-4
+      - 1.0.0-alpha-5
+      - 1.0.0-alpha-6
+      - 1.0.0-alpha-7
+      - 1.0.0-alpha-8
+      - 1.0.0-alpha-9
+      - 1.0.0-alpha-10
+      - 1.0.0-alpha-11
+      - 1.0.0-alpha-12
+      - 1.0.0-alpha-13
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0-beta-4
+      - 1.0.0-beta-5
+      - 1.0.0-beta-6
+      - 1.0.0-cr-1
+      - 1.0.0-cr-2
+      - 1.0.0-cr-3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha-1
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-3
+      - 1.1.0-alpha-4
+      - 1.1.0
+      - 1.1.1-alpha-1
+      - 1.1.1-alpha-2
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+  shrinkwrap-spring-boot-api:
+    lastUpdated: 20170225121356
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  shrinkwrap-spring-boot-ftest:
+    lastUpdated: 20170225121357
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  shrinkwrap-spring-boot-impl:
+    lastUpdated: 20170225121358
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  shrinkwrap-springboot-parent:
+    lastUpdated: 20170225121359
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

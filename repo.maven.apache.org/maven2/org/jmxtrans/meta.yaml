@@ -1,0 +1,309 @@
+artifacts:
+  jmxtrans:
+    lastUpdated: 20170421080916
+    latest: 265
+    release: 265
+    versions:
+      - 247
+      - 248
+      - 249
+      - 250
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-core:
+    lastUpdated: 20170421080918
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-docker-test:
+    lastUpdated: 20170421080919
+    latest: 265
+    release: 265
+    versions:
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-examples:
+    lastUpdated: 20170421080920
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output:
+    lastUpdated: 20170421080921
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-cloudwatch:
+    lastUpdated: 20170421080921
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-core:
+    lastUpdated: 20170421080922
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-elastic:
+    lastUpdated: 20170421080923
+    latest: 265
+    release: 265
+    versions:
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-ganglia:
+    lastUpdated: 20170421080924
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-influxdb:
+    lastUpdated: 20170421080925
+    latest: 265
+    release: 265
+    versions:
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-jrobin:
+    lastUpdated: 20170421080925
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-kafka:
+    lastUpdated: 20170421080926
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-log4j:
+    lastUpdated: 20170421080927
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-output-velocity:
+    lastUpdated: 20170421080927
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-packaging:
+    lastUpdated: 20170421080928
+    latest: 265
+    release: 265
+    versions:
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-parent:
+    lastUpdated: 20170421080928
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-systemd:
+    lastUpdated: 20170421080929
+    latest: 265
+    release: 265
+    versions:
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-test-utils:
+    lastUpdated: 20170421080930
+    latest: 265
+    release: 265
+    versions:
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+  jmxtrans-utils:
+    lastUpdated: 20170421080930
+    latest: 265
+    release: 265
+    versions:
+      - 251
+      - 252
+      - 253
+      - 254
+      - 256
+      - 259
+      - 260
+      - 261
+      - 262
+      - 263
+      - 264
+      - 265
+

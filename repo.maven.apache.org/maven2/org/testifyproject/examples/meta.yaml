@@ -1,0 +1,72 @@
+artifacts:
+  example-junit-guice-integrationtest:
+    lastUpdated: 20170321234116
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-hk2-integrationtest:
+    lastUpdated: 20170321234117
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-jersey-systemtest:
+    lastUpdated: 20170321234117
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-resourceprovider:
+    lastUpdated: 20170321234117
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-spring-integrationtest:
+    lastUpdated: 20170321234118
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-spring-systemtest:
+    lastUpdated: 20170321234118
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-springboot-systemtest:
+    lastUpdated: 20170321234119
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  example-junit-unittest:
+    lastUpdated: 20170321234119
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit4:
+    lastUpdated: 20170321234120
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  parent:
+    lastUpdated: 20170321234120
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+

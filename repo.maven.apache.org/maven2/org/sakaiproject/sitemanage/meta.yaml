@@ -1,0 +1,113 @@
+artifacts:
+  sakai-site-manage-api:
+    lastUpdated: 20170225000156
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-site-manage-hbm:
+    lastUpdated: 20170225000157
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-site-manage-impl:
+    lastUpdated: 20170225000157
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-site-manage-util:
+    lastUpdated: 20170225000158
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-siteassociation-api:
+    lastUpdated: 20170225000159
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-siteassociation-hbm:
+    lastUpdated: 20170225000159
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-siteassociation-impl:
+    lastUpdated: 20170225000200
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-siteassociation-util:
+    lastUpdated: 20170225000200
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sitemanage:
+    lastUpdated: 20170225000201
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+

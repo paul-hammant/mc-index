@@ -1,0 +1,1015 @@
+artifacts:
+  benchmarks:
+    lastUpdated: 20150605191244
+    latest: 4.1.0-RC2
+    release: 4.1.0-RC2
+    versions:
+      - 4.0.2
+      - 4.1.0-RC2
+  binaryowl:
+    lastUpdated: 20170411031418
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 2.0.0
+      - 2.0.1
+  jfact:
+    lastUpdated: 20161016141233
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.4
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 5.0.0
+      - 5.0.1
+  oboformat-included-owlapi:
+    lastUpdated: 20131125214401
+    latest: 3.4.9
+    release: 3.4.9
+    versions:
+      - 3.4.9
+  oppl2-oppl2:
+    lastUpdated: 20150921071509
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  oppl2-oppl2patterns:
+    lastUpdated: 20150921071510
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  oppl2-oppl2plugin:
+    lastUpdated: 20150921071510
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  oppl2-oppl2templates:
+    lastUpdated: 20150921071511
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  oppl2-oppl2testcase:
+    lastUpdated: 20150921071511
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  oppl2-parent:
+    lastUpdated: 20150921071512
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.5.0
+  org.semanticweb.hermit:
+    lastUpdated: 20170330000618
+    latest: 1.3.8.510
+    release: 1.3.8.510
+    versions:
+      - 1.3.8.413
+      - 1.3.8.431
+      - 1.3.8.500
+      - 1.3.8.510
+  owlapi-api:
+    lastUpdated: 20170329234139
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.3
+      - 3.4
+  owlapi-apibinding:
+    lastUpdated: 20170329234139
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.3
+      - 3.4
+  owlapi-change:
+    lastUpdated: 20120521185341
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-compatibility:
+    lastUpdated: 20170329234140
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+  owlapi-contract:
+    lastUpdated: 20170329234140
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.4
+  owlapi-debugging:
+    lastUpdated: 20120521185345
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-distribution:
+    lastUpdated: 20170329234140
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.3
+      - 3.4
+  owlapi-dlsyntax:
+    lastUpdated: 20120521185339
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-examples:
+    lastUpdated: 20120521185337
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-fixers:
+    lastUpdated: 20170327224408
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+  owlapi-functional:
+    lastUpdated: 20120521185340
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-gwt:
+    lastUpdated: 20170417232147
+    latest: 4.3.1
+    release: 4.3.1
+    versions:
+      - 3.4.8
+      - 3.4.9
+      - 4.3.1
+  owlapi-gwt-client-side-emul:
+    lastUpdated: 20170417232147
+    latest: 4.3.1
+    release: 4.3.1
+    versions:
+      - 4.3.1
+  owlapi-gwt-parent:
+    lastUpdated: 20170417232148
+    latest: 4.3.1
+    release: 4.3.1
+    versions:
+      - 3.4.8
+      - 3.4.9
+      - 4.3.1
+  owlapi-gwt-serialization:
+    lastUpdated: 20170417232148
+    latest: 4.3.1
+    release: 4.3.1
+    versions:
+      - 4.3.1
+  owlapi-gwt-serialization-tests:
+    lastUpdated: 20170417232148
+    latest: 4.3.1
+    release: 4.3.1
+    versions:
+      - 3.4.8
+      - 3.4.9
+      - 4.3.1
+  owlapi-gwt-supersource:
+    lastUpdated: 20131127021744
+    latest: 3.4.9
+    release: 3.4.9
+    versions:
+      - 3.4.8
+      - 3.4.9
+  owlapi-impl:
+    lastUpdated: 20170329234141
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.3
+      - 3.4
+  owlapi-krss:
+    lastUpdated: 20120521185342
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-latex:
+    lastUpdated: 20120521185341
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-mansyntax:
+    lastUpdated: 20120521185341
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-metrics:
+    lastUpdated: 20120521185339
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-modularity:
+    lastUpdated: 20120521185344
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-ncbitaxon:
+    lastUpdated: 20141224180823
+    latest: 4.0.1
+    release: 4.0.1
+    versions:
+      - 4.0.1
+  owlapi-normalform:
+    lastUpdated: 20120521185344
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-obo:
+    lastUpdated: 20120521185343
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-oboformat:
+    lastUpdated: 20170329234141
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+  owlapi-osgidistribution:
+    lastUpdated: 20170329234142
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+  owlapi-owlexpression:
+    lastUpdated: 20120521185342
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-owlxml:
+    lastUpdated: 20120521185349
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-parent:
+    lastUpdated: 20170329234142
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.3
+      - 3.4
+  owlapi-parsers:
+    lastUpdated: 20170329234142
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.4
+  owlapi-rdfapi:
+    lastUpdated: 20120521185340
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-rdfxml:
+    lastUpdated: 20120521185344
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-reasoner:
+    lastUpdated: 20120521185344
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-rio:
+    lastUpdated: 20170329234143
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+  owlapi-testsupport:
+    lastUpdated: 20150307172136
+    latest: 3.5.2
+    release: 3.5.2
+    versions:
+      - 3.5.2
+  owlapi-tools:
+    lastUpdated: 20170329234143
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.4
+      - 3.4.1
+      - 3.4.2
+      - 3.4.3
+      - 3.4.4
+      - 3.4.5
+      - 3.4.8
+      - 3.4.9
+      - 3.4.10
+      - 3.5.0
+      - 3.5.1
+      - 3.5.2
+      - 3.5.3
+      - 3.5.4
+      - 3.5.5
+      - 3.5.6
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0-RC2
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+      - 4.2.4
+      - 4.2.5
+      - 4.2.6
+      - 4.2.7
+      - 4.2.8
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 3.4
+  owlapi-turtle:
+    lastUpdated: 20120521185338
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-tutorial:
+    lastUpdated: 20120521185341
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapi-util:
+    lastUpdated: 20120521185338
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  owlapibenchmarks:
+    lastUpdated: 20141224180824
+    latest: 4.0.1
+    release: 4.0.1
+    versions:
+      - 4.0.1
+  owlapitools-atomicdecomposition:
+    lastUpdated: 20151101153531
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 3.5.4
+      - 4.0.1
+      - 4.1.0
+  owlapitools-concurrentimpl:
+    lastUpdated: 20151101153532
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 3.5.4
+      - 4.0.1
+      - 4.1.0
+  owlapitools-fixers:
+    lastUpdated: 20151101153532
+    latest: 3.5.4
+    release: 3.5.4
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 3.5.4
+  owlapitools-parent:
+    lastUpdated: 20151101153533
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 3.5.4
+      - 4.0.1
+      - 4.1.0
+  owlapitools-suggestor:
+    lastUpdated: 20151101153533
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 3.5.4
+      - 4.0.1
+      - 4.1.0
+  owlexplanation:
+    lastUpdated: 20151208034757
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+  pellet-cli-ignazio1977:
+    lastUpdated: 20150418220937
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-core-ignazio1977:
+    lastUpdated: 20150418220938
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-explanation-ignazio1977:
+    lastUpdated: 20150418220939
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-jena-ignazio1977:
+    lastUpdated: 20150418220939
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-modularity-ignazio1977:
+    lastUpdated: 20150418220939
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-owlapi-ignazio1977:
+    lastUpdated: 20150418220940
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-parent-ignazio1977:
+    lastUpdated: 20150418220940
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-pellint-ignazio1977:
+    lastUpdated: 20150418220941
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-profiler-ignazio1977:
+    lastUpdated: 20150418220941
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  pellet-query-ignazio1977:
+    lastUpdated: 20150418220941
+    latest: 2.4.0-ignazio1977
+    release: 2.4.0-ignazio1977
+    versions:
+      - 2.4.0-ignazio1977
+  telemetry:
+    lastUpdated: 20151208034758
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+

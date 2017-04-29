@@ -1,0 +1,279 @@
+artifacts:
+  auto-parser:
+    lastUpdated: 20151022015526
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  commons-continuations_2.10:
+    lastUpdated: 20140507162655
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+  commons-continuations_2.10.0-M1:
+    lastUpdated: 20120601135614
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  commons-continuations_2.10.0-M2:
+    lastUpdated: 20120601135610
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  commons-continuations_2.10.0-M3:
+    lastUpdated: 20120601135615
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  commons-continuations_2.11:
+    lastUpdated: 20140507162655
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  fastring_2.10:
+    lastUpdated: 20170123095621
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+      - 0.3.1
+  fastring_2.10.0-RC5:
+    lastUpdated: 20121212113200
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  fastring_2.11:
+    lastUpdated: 20170123095621
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+      - 0.3.1
+  fastring_2.12:
+    lastUpdated: 20170123095622
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.5
+      - 0.3.0
+      - 0.3.1
+  fastring_sjs0.6_2.10:
+    lastUpdated: 20170123095622
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  fastring_sjs0.6_2.11:
+    lastUpdated: 20170123095623
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  fastring_sjs0.6_2.12:
+    lastUpdated: 20170123095623
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  memcontinuationed_2.10:
+    lastUpdated: 20140507174638
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  memcontinuationed_2.11:
+    lastUpdated: 20140507174639
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.2
+  scala-junction_2.10.0-M1:
+    lastUpdated: 20120320111358
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.10.0-M2:
+    lastUpdated: 20120320111400
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.8.0:
+    lastUpdated: 20120320111359
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.8.1:
+    lastUpdated: 20120320111401
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.8.2:
+    lastUpdated: 20120320111404
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.9.0:
+    lastUpdated: 20120320111400
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.9.0-1:
+    lastUpdated: 20120320111400
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.9.1:
+    lastUpdated: 20120320111401
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-junction_2.9.1-1:
+    lastUpdated: 20120320111359
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  zero-log_2.10:
+    lastUpdated: 20170217072408
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+  zero-log_2.10.0-M1:
+    lastUpdated: 20120601135611
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.10.0-M2:
+    lastUpdated: 20120601135612
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.10.0-M3:
+    lastUpdated: 20120601135609
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  zero-log_2.10.0-RC5:
+    lastUpdated: 20121212113201
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  zero-log_2.11:
+    lastUpdated: 20170217072409
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.5
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+  zero-log_2.12:
+    lastUpdated: 20170217072409
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+  zero-log_2.8.0:
+    lastUpdated: 20120601135615
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.8.1:
+    lastUpdated: 20120601135609
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.8.2:
+    lastUpdated: 20120601135614
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.9.0:
+    lastUpdated: 20120601135612
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.9.0-1:
+    lastUpdated: 20120601135610
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.9.1:
+    lastUpdated: 20120601135608
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.9.1-1:
+    lastUpdated: 20120601135613
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  zero-log_2.9.2:
+    lastUpdated: 20120601135613
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+

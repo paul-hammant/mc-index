@@ -1,0 +1,34 @@
+artifacts:
+  jboss-javaee6-webapp-archetype:
+    lastUpdated: 20150420204703
+    latest: 6.4.0.GA
+    release: 6.4.0.GA
+    versions:
+      - 6.2.0.GA
+      - 6.3.0.GA
+      - 6.4.0.GA
+  jboss-javaee6-webapp-blank-archetype:
+    lastUpdated: 20150420204704
+    latest: 6.4.0.GA
+    release: 6.4.0.GA
+    versions:
+      - 6.2.0.GA
+      - 6.3.0.GA
+      - 6.4.0.GA
+  jboss-javaee6-webapp-ear-archetype:
+    lastUpdated: 20150420204705
+    latest: 6.4.0.GA
+    release: 6.4.0.GA
+    versions:
+      - 6.2.0.GA
+      - 6.3.0.GA
+      - 6.4.0.GA
+  jboss-javaee6-webapp-ear-blank-archetype:
+    lastUpdated: 20150420204706
+    latest: 6.4.0.GA
+    release: 6.4.0.GA
+    versions:
+      - 6.2.0.GA
+      - 6.3.0.GA
+      - 6.4.0.GA
+

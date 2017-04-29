@@ -1,0 +1,263 @@
+artifacts:
+  boon:
+    lastUpdated: 20160831214643
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+      - 0.28
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+      - 0.28
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+  boon-bundle:
+    lastUpdated: 20160831214643
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+  etcd-bundle:
+    lastUpdated: 20160831214643
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+  etcd-client:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+      - 0.29
+      - 0.3
+      - 0.31
+      - 0.32
+      - 0.33
+      - 0.34
+  osgi-plugins-parent:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.32
+      - 0.33
+      - 0.34
+      - 0.32
+      - 0.33
+      - 0.34
+  qbit:
+    lastUpdated: 20141013112715
+    latest: 0.29
+    release: 0.29
+    versions:
+      - 0.1
+      - 0.2
+      - 0.29
+      - 0.1
+      - 0.2
+      - 0.29
+  qbit-bundle:
+    lastUpdated: 20141013112716
+    latest: 0.29
+    release: 0.29
+    versions:
+      - 0.29
+      - 0.29
+  slumberdb:
+    lastUpdated: 20140929083451
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.1
+      - 0.5
+      - 0.1
+      - 0.5
+  slumberdb-bundle:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-core:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-leveldb:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-mysql:
+    lastUpdated: 20160831214644
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.1
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-service:
+    lastUpdated: 20160831214645
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-service-client:
+    lastUpdated: 20160831214645
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-service-model:
+    lastUpdated: 20160831214645
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+      - 0.5
+      - 0.29
+      - 0.3
+      - 0.34
+  slumberdb-service-model-common:
+    lastUpdated: 20160831214646
+    latest: 0.34
+    release: 0.34
+    versions:
+      - 0.34
+      - 0.34
+  vertx-qbit:
+    lastUpdated: 20141013112720
+    latest: 0.29
+    release: 0.29
+    versions:
+      - 0.29
+      - 0.29
+

@@ -1,0 +1,78 @@
+artifacts:
+  org.everit.email.api:
+    lastUpdated: 20151216091942
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.javamail:
+    lastUpdated: 20160229125142
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.email.javamail.dkim:
+    lastUpdated: 20160301110408
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.javamail.dkim.ecm:
+    lastUpdated: 20160301162336
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.javamail.ecm:
+    lastUpdated: 20161026080356
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 2.0.1
+  org.everit.email.queue:
+    lastUpdated: 20160306230637
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.queue.ecm:
+    lastUpdated: 20160307130012
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.queue.schema.qdsl:
+    lastUpdated: 20160306230242
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.store.api:
+    lastUpdated: 20160229124327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.store.ri:
+    lastUpdated: 20160303171628
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.store.ri.ecm:
+    lastUpdated: 20160304132000
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.email.store.ri.schema.qdsl:
+    lastUpdated: 20160303171321
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

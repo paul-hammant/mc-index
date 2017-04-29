@@ -1,0 +1,45 @@
+artifacts:
+  legacy-neo4j-jdbc:
+    lastUpdated: 20160827182845
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  maven-embedded-neo4j-archetype:
+    lastUpdated: 20140618184134
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  neo4j-sproc-compiler:
+    lastUpdated: 20170320111343
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-M01
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1-M01
+      - 1.1
+      - 1.0
+      - 1.1
+  neo4j-sproc-compiler-parent:
+    lastUpdated: 20170320111344
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-M01
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1-M01
+      - 1.1
+      - 1.0
+      - 1.1
+

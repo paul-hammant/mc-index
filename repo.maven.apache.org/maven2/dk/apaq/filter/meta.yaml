@@ -1,0 +1,55 @@
+artifacts:
+  filter:
+    lastUpdated: 20110721133917
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+  filter-core:
+    lastUpdated: 20110721133915
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+  filter-jpa:
+    lastUpdated: 20110721133917
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+  filter-lucene:
+    lastUpdated: 20110721133916
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+  filter-vaadin:
+    lastUpdated: 20110629193503
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+

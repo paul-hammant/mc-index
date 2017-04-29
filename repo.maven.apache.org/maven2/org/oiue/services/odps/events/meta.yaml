@@ -1,0 +1,26 @@
+artifacts:
+  org.oiue.service.odp.event.api:
+    lastUpdated: 20161101123442
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.event.sql.structure:
+    lastUpdated: 20161101123443
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.event.sql.structure.impl:
+    lastUpdated: 20161101123443
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  parent:
+    lastUpdated: 20161101123444
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

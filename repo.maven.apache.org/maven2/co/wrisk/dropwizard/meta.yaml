@@ -1,0 +1,30 @@
+artifacts:
+  dropwizard-hk2:
+    lastUpdated: 20161116145240
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  dropwizard-logging-cloudwatch:
+    lastUpdated: 20160916115136
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  dropwizard-logging-loggly:
+    lastUpdated: 20161109105402
+    latest: 0.0.9
+    release: 0.0.9
+    versions:
+      - 0.0.9
+  dropwizard-template-config:
+    lastUpdated: 20161208125821
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+

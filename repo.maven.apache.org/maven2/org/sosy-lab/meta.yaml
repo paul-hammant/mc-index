@@ -1,0 +1,50 @@
+artifacts:
+  common:
+    lastUpdated: 20160816154926
+    latest: 0.3000-47-g52a07d6
+    release: 0.3000-47-g52a07d6
+    versions:
+      - 0.2
+      - 0.2-6-g4ff4acf
+      - 0.2-7-gb05ab9d
+      - 0.1000-47-ga686f74
+      - 0.3000-5-gbde55de
+      - 0.3000-38-gcdb252b
+      - 0.3000-47-g52a07d6
+  java-smt:
+    lastUpdated: 20160825152656
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.3-121-g8371696
+      - 0.4
+      - 0.5
+      - 0.5-1-g9d26410
+      - 0.5-3-g103d67f
+      - 0.51
+      - 0.6
+      - 0.60-174-g7ab7771
+      - 1.0.0
+      - 1.0.1
+  javasmt-solver-z3:
+    lastUpdated: 20160816172245
+    latest: z3-4.4.1-1558-gf96cfea
+    release: z3-4.4.1-1558-gf96cfea
+    versions:
+      - z3-4.4.1-788-g8df145d
+      - z3-4.4.1-863-g96f6bf7-2
+      - z3-4.4.1-1558-gf96cfea
+  javasmt-solver-z3-native:
+    lastUpdated: 20160306121044
+    latest: z3-4.4.1-788-g8df145d
+    release: z3-4.4.1-788-g8df145d
+    versions:
+      - z3-4.4.1-788-g8df145d
+  smtinterpol:
+    lastUpdated: 20160816161215
+    latest: 2.1-255-gcdd5908
+    release: 2.1-255-gcdd5908
+    versions:
+      - 2.1-238-g1f06d6a
+      - 2.1-255-gcdd5908
+

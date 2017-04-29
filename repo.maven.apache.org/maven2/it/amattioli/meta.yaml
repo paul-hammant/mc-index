@@ -1,0 +1,237 @@
+artifacts:
+  applicate:
+    lastUpdated: 20130525161040
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  archetypes:
+    lastUpdated: 20130525161040
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  authorizate:
+    lastUpdated: 20130525161041
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  common:
+    lastUpdated: 20110905190837
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  dominate:
+    lastUpdated: 20130525161041
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  dominate-core:
+    lastUpdated: 20130525161041
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  dominate-hibernate:
+    lastUpdated: 20130525161041
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  dominate-jcr:
+    lastUpdated: 20130525161042
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.8
+      - 1.0.7
+      - 0.8
+  dominate-jpa:
+    lastUpdated: 20130525161042
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  dominate-morphia:
+    lastUpdated: 20130525161042
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.8
+      - 1.0.7
+      - 0.8
+  encapsulate:
+    lastUpdated: 20130525161043
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  guidate:
+    lastUpdated: 20130525161043
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  guidate-zk:
+    lastUpdated: 20130525161043
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  javate:
+    lastUpdated: 20130525161043
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  javate-zk-archetype:
+    lastUpdated: 20130525161044
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  javate-zk-jpa-archetype:
+    lastUpdated: 20130525161044
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  locate:
+    lastUpdated: 20110306210150
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  multimodule:
+    lastUpdated: 20131019155334
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  multimodule-db:
+    lastUpdated: 20131019155334
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  multimodule-test:
+    lastUpdated: 20131019155335
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  multimodule-zk:
+    lastUpdated: 20131019155335
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  springate:
+    lastUpdated: 20130525161044
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.6
+      - 0.7
+      - 0.8
+  workstate:
+    lastUpdated: 20130525161045
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.8
+      - 1.0.7
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+

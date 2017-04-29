@@ -1,0 +1,298 @@
+artifacts:
+  sample-maven-archetype:
+    lastUpdated: 20141126182854
+    latest: 2.5.2
+    release: 2.5.2
+    versions:
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+  shindig:
+    lastUpdated: 20141126182855
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-common:
+    lastUpdated: 20141126182856
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-extras:
+    lastUpdated: 20141126182857
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-features:
+    lastUpdated: 20141126182857
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-gadgets:
+    lastUpdated: 20141126182858
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-parent:
+    lastUpdated: 20100511044033
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+  shindig-php:
+    lastUpdated: 20131021222500
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-project:
+    lastUpdated: 20141126182858
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-sample-container:
+    lastUpdated: 20141126182859
+    latest: 2.5.2
+    release: 2.5.2
+    versions:
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+  shindig-samples:
+    lastUpdated: 20130316000033
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-server:
+    lastUpdated: 20141126182900
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-server-dependencies:
+    lastUpdated: 20141126182900
+    latest: 2.5.2
+    release: 2.5.2
+    versions:
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+  shindig-server-resources:
+    lastUpdated: 20141126182900
+    latest: 2.5.2
+    release: 2.5.2
+    versions:
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+  shindig-social-api:
+    lastUpdated: 20141126182901
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 1.0-incubating
+      - 1.0.1
+      - 1.1-BETA5-incubating
+      - 2.0.0
+      - 2.0.2
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+  shindig-uber:
+    lastUpdated: 20141126182902
+    latest: 3.0.0-beta4
+    release: 3.0.0-beta4
+    versions:
+      - 2.5.0-beta1
+      - 2.5.0-beta2
+      - 2.5.0-beta3
+      - 2.5.0-beta4
+      - 2.5.0-beta5
+      - 2.5.0-beta6
+      - 2.5.0
+      - 2.5.0-update1
+      - 2.5.1
+      - 2.5.2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+

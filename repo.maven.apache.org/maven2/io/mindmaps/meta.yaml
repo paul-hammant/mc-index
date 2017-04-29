@@ -1,0 +1,179 @@
+artifacts:
+  migration-csv:
+    lastUpdated: 20161029030700
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  migration-export:
+    lastUpdated: 20161029030700
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  migration-json:
+    lastUpdated: 20161029030701
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  migration-owl:
+    lastUpdated: 20161029030701
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  migration-sql:
+    lastUpdated: 20161029030701
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps:
+    lastUpdated: 20161029030701
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-core:
+    lastUpdated: 20161029030702
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-dashboard:
+    lastUpdated: 20161029030702
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-dist:
+    lastUpdated: 20161029030702
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-engine:
+    lastUpdated: 20161029030708
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-graph:
+    lastUpdated: 20161029030708
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-graql:
+    lastUpdated: 20161029030709
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-graql-shell:
+    lastUpdated: 20161029030709
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-migration:
+    lastUpdated: 20161029030709
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-orientdb-factory:
+    lastUpdated: 20161029030709
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-test:
+    lastUpdated: 20161029030710
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  mindmaps-titan-factory:
+    lastUpdated: 20161029030710
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+

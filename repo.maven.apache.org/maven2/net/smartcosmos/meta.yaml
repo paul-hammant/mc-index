@@ -1,0 +1,442 @@
+artifacts:
+  aws-s3-storage-service:
+    lastUpdated: 20150527235517
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  aws-ses-email-service:
+    lastUpdated: 20150527235535
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  aws-sns-notification-service:
+    lastUpdated: 20150527235540
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  aws-sqs-queue-service:
+    lastUpdated: 20150527235541
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  java-client:
+    lastUpdated: 20150109005847
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  platform-core:
+    lastUpdated: 20150717095804
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  smartcosmos-auth-server:
+    lastUpdated: 20161121112748
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.1
+      - 3.0.2
+  smartcosmos-build:
+    lastUpdated: 20161117195607
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  smartcosmos-build-dependencies:
+    lastUpdated: 20161117195607
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0
+      - 3.1.2
+  smartcosmos-build-tools:
+    lastUpdated: 20161117195607
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0
+      - 3.1.2
+  smartcosmos-builds-tools:
+    lastUpdated: 20160512084200
+    latest: 2.14.0
+    release: 2.14.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+  smartcosmos-config-server:
+    lastUpdated: 20161117222138
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  smartcosmos-core:
+    lastUpdated: 20160512084200
+    latest: 2.14.0
+    release: 2.14.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+  smartcosmos-dao-metadata:
+    lastUpdated: 20161117231442
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  smartcosmos-dao-metadata-default:
+    lastUpdated: 20160812170314
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-dao-relationships:
+    lastUpdated: 20161117232202
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  smartcosmos-dao-relationships-default:
+    lastUpdated: 20160812170315
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-dao-things:
+    lastUpdated: 20161117230459
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  smartcosmos-dao-things-default:
+    lastUpdated: 20160812170315
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-dependencies:
+    lastUpdated: 20161213142626
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-documentation:
+    lastUpdated: 20160512084201
+    latest: 2.14.0
+    release: 2.14.0
+    versions:
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+  smartcosmos-edge-bulkimport:
+    lastUpdated: 20161118193413
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  smartcosmos-edge-things:
+    lastUpdated: 20161118185002
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+  smartcosmos-edge-user-devkit:
+    lastUpdated: 20160812175924
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-event-listener:
+    lastUpdated: 20160812170316
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-events:
+    lastUpdated: 20161118163050
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+  smartcosmos-extension-api:
+    lastUpdated: 20160512084201
+    latest: 2.14.0
+    release: 2.14.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+  smartcosmos-framework:
+    lastUpdated: 20161213142626
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-framework-messaging:
+    lastUpdated: 20161213142627
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-framework-monitoring:
+    lastUpdated: 20161213142627
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-framework-parent:
+    lastUpdated: 20161213142628
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-framework-root:
+    lastUpdated: 20161213142628
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-framework-test:
+    lastUpdated: 20161213142628
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  smartcosmos-gateway:
+    lastUpdated: 20161117223748
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+  smartcosmos-java-client:
+    lastUpdated: 20160512084202
+    latest: 2.14.0
+    release: 2.14.0
+    versions:
+      - 2.10.10
+      - 2.10.11
+      - 2.10.13
+      - 2.10.14
+      - 2.10.15
+      - 2.10.16
+      - 2.11.1
+      - 2.12.0
+      - 2.12.1
+      - 2.13.0
+      - 2.13.1
+      - 2.14.0
+  smartcosmos-service-discovery:
+    lastUpdated: 20160811213240
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-user-details:
+    lastUpdated: 20161121113401
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  smartcosmos-user-details-devkit:
+    lastUpdated: 20160812175544
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-user-details-service:
+    lastUpdated: 20160812175544
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-user-details-stormpath:
+    lastUpdated: 20161121114725
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  smartcosmos-user-entity-devkit:
+    lastUpdated: 20160812161826
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  smartcosmos-validation:
+    lastUpdated: 20160812161826
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  stormpath-authn-service:
+    lastUpdated: 20150720102147
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+

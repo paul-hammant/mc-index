@@ -1,0 +1,26 @@
+artifacts:
+  aggregator:
+    lastUpdated: 20100929011855
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  jetty:
+    lastUpdated: 20100929011854
+    latest: 7.0.1.v20091125-v0001
+    release: 7.0.1.v20091125-v0001
+    versions:
+      - 7.0.1.v20091125-v0001
+  jetty-base:
+    lastUpdated: 20100929011858
+    latest: 7.0.1.v20091125-v0001
+    release: 7.0.1.v20091125-v0001
+    versions:
+      - 7.0.1.v20091125-v0001
+  recipes-aggregator:
+    lastUpdated: 20100929011857
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

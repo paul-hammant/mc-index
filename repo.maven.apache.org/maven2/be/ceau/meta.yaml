@@ -1,0 +1,31 @@
+artifacts:
+  chart:
+    lastUpdated: 20170111184151
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 0.9
+      - 2.0.0
+      - 2.0.1
+      - 2.2.0
+      - 0.9
+  itunes-search:
+    lastUpdated: 20170103200942
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0
+      - 1.0
+      - 2.0
+  simplemail:
+    lastUpdated: 20150808192816
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.5
+      - 0.9
+

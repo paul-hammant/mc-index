@@ -1,0 +1,26 @@
+artifacts:
+  julia-osgi-api:
+    lastUpdated: 20090618091201
+    latest: {}
+    release: 2.5.2
+    versions:
+      - 2.5.2
+  julia-osgi-launcher:
+    lastUpdated: 20090618091229
+    latest: {}
+    release: 2.5.2
+    versions:
+      - 2.5.2
+  julia-osgi-mixins:
+    lastUpdated: 20090618091215
+    latest: {}
+    release: 2.5.2
+    versions:
+      - 2.5.2
+  parent:
+    lastUpdated: 20090618091142
+    latest: {}
+    release: 2.5.2
+    versions:
+      - 2.5.2
+

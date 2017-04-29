@@ -1,0 +1,42 @@
+artifacts:
+  siren-aggregator:
+    lastUpdated: 20111213192700
+    latest: 0.2.3-RC2
+    release: 0.2.3-RC2
+    versions:
+      - 0.2.2
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+  siren-core:
+    lastUpdated: 20111213192700
+    latest: 0.2.3-RC2
+    release: 0.2.3-RC2
+    versions:
+      - 0.2.2
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+  siren-parent:
+    lastUpdated: 20111213192700
+    latest: 0.2.3-RC2
+    release: 0.2.3-RC2
+    versions:
+      - 0.2.2
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+  siren-qparser:
+    lastUpdated: 20111213192700
+    latest: 0.2.3-RC2
+    release: 0.2.3-RC2
+    versions:
+      - 0.2.2
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+  siren-solr:
+    lastUpdated: 20111213192700
+    latest: 0.2.3-RC2
+    release: 0.2.3-RC2
+    versions:
+      - 0.2.2
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+

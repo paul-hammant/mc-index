@@ -1,0 +1,122 @@
+artifacts:
+  it-tidalwave-openrdf-elmo:
+    lastUpdated: 20120925142150
+    latest: 1.13.29
+    release: 1.13.29
+    versions:
+      - 1.13.23
+      - 1.13.24
+      - 1.13.25
+      - 1.13.26
+      - 1.13.27
+      - 1.13.28
+      - 1.13.29
+  it-tidalwave-semantic-graph:
+    lastUpdated: 20120925142152
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.30
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  it-tidalwave-semantic-importexport:
+    lastUpdated: 20120925142153
+    latest: 1.0.30
+    release: 1.0.30
+    versions:
+      - 1.0.24
+      - 1.0.25
+      - 1.0.26
+      - 1.0.27
+      - 1.0.28
+      - 1.0.29
+      - 1.0.30
+  it-tidalwave-semantic-node:
+    lastUpdated: 20120925142154
+    latest: 1.0.31
+    release: 1.0.31
+    versions:
+      - 1.0.25
+      - 1.0.26
+      - 1.0.27
+      - 1.0.28
+      - 1.0.29
+      - 1.0.30
+      - 1.0.31
+  it-tidalwave-semantic-persistence:
+    lastUpdated: 20120925142155
+    latest: 1.2.29
+    release: 1.2.29
+    versions:
+      - 1.2.23
+      - 1.2.24
+      - 1.2.25
+      - 1.2.26
+      - 1.2.27
+      - 1.2.28
+      - 1.2.29
+  it-tidalwave-semantic-selection:
+    lastUpdated: 20120925142158
+    latest: 1.0.29
+    release: 1.0.29
+    versions:
+      - 1.0.23
+      - 1.0.24
+      - 1.0.25
+      - 1.0.26
+      - 1.0.27
+      - 1.0.28
+      - 1.0.29
+  it-tidalwave-semantic-test:
+    lastUpdated: 20120925142202
+    latest: 1.1.26
+    release: 1.1.26
+    versions:
+      - 1.1.20
+      - 1.1.21
+      - 1.1.22
+      - 1.1.23
+      - 1.1.24
+      - 1.1.25
+      - 1.1.26
+  it-tidalwave-semantic-viewer:
+    lastUpdated: 20120925142203
+    latest: 1.0.35
+    release: 1.0.35
+    versions:
+      - 1.0.29
+      - 1.0.30
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+  semantic:
+    lastUpdated: 20120925142205
+    latest: 1.0-ALPHA-1
+    release: 1.0-ALPHA-1
+    versions:
+      - 0.10.15
+      - 0.10.16
+      - 0.10.17
+      - 0.10.18
+      - 0.10.19
+      - 0.10.20
+      - 1.0-ALPHA-1
+  semantic-modules:
+    lastUpdated: 20120925142207
+    latest: 1.0-ALPHA-1
+    release: 1.0-ALPHA-1
+    versions:
+      - 0.10.15
+      - 0.10.16
+      - 0.10.17
+      - 0.10.18
+      - 0.10.19
+      - 0.10.20
+      - 1.0-ALPHA-1
+

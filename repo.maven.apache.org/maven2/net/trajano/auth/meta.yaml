@@ -1,0 +1,41 @@
+artifacts:
+  jaspic-tester:
+    lastUpdated: 20150920063632
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  jaspic-tester-ear:
+    lastUpdated: 20150920063632
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  jaspic-tester-war:
+    lastUpdated: 20150920063633
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  server-auth-modules:
+    lastUpdated: 20141128074929
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  test-server-auth-module:
+    lastUpdated: 20150920063633
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+

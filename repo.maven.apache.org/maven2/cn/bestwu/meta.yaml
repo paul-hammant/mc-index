@@ -1,0 +1,142 @@
+artifacts:
+  api-sign:
+    lastUpdated: 20170227015901
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1
+      - 1.1
+  api-test:
+    lastUpdated: 20170302013306
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.1
+      - 1.2
+      - 1.3
+  ccp-rest:
+    lastUpdated: 20160122014334
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  common-lang:
+    lastUpdated: 20170414081015
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  data-rest:
+    lastUpdated: 20161228141920
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.1
+      - 1.1
+  fastjson:
+    lastUpdated: 20160119071258
+    latest: 1.2-unwrap
+    release: 1.2-unwrap
+    versions:
+      - 1.1-unwrap
+      - 1.2-unwrap
+  gradle-plugin:
+    lastUpdated: 20160116012319
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  hibernate-core:
+    lastUpdated: 20161210122152
+    latest: 5.0.11.specid
+    release: 5.0.11.specid
+    versions:
+      - 5.0.11.specid
+  ik-analyzers:
+    lastUpdated: 20160927133710
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 5.1.0
+  security-oauth2-authorizationserver:
+    lastUpdated: 20161128122258
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  security-oauth2-social:
+    lastUpdated: 20160928043846
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  test:
+    lastUpdated: 20170227021304
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  ueditor:
+    lastUpdated: 20160119065501
+    latest: 1.1.3.1
+    release: 1.1.3.1
+    versions:
+      - 1.1.3.fix
+      - 1.1.3.1
+  umeng-push:
+    lastUpdated: 20160129143132
+    latest: 1.5.5
+    release: 1.5.5
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.0
+      - 1.5
+

@@ -1,0 +1,60 @@
+artifacts:
+  config:
+    lastUpdated: 20150304125022
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  master-pom:
+    lastUpdated: 20150309184915
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 2
+      - 3
+      - 1
+      - 2
+      - 3
+  wsc-container:
+    lastUpdated: 20150303174549
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  wsc-netty-core:
+    lastUpdated: 20150303174550
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  wsc-netty-pom:
+    lastUpdated: 20150303174550
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  wsc-netty-protocol:
+    lastUpdated: 20150303174550
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  wsc-pom:
+    lastUpdated: 20150303174551
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  wsc-server:
+    lastUpdated: 20150303174551
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+

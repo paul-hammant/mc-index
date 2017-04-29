@@ -1,0 +1,91 @@
+artifacts:
+  carbondata-common:
+    lastUpdated: 20170129001700
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-core:
+    lastUpdated: 20170129001701
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-examples:
+    lastUpdated: 20161119012431
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+  carbondata-examples-spark:
+    lastUpdated: 20170129001701
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  carbondata-format:
+    lastUpdated: 20170129001702
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-hadoop:
+    lastUpdated: 20170129001703
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-parent:
+    lastUpdated: 20170129001703
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-processing:
+    lastUpdated: 20170129001704
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-spark:
+    lastUpdated: 20170129001705
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 0.1.0-incubating
+      - 0.1.1-incubating
+      - 0.2.0-incubating
+      - 1.0.0-incubating
+  carbondata-spark-common:
+    lastUpdated: 20170129001705
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  carbondata-spark-common-test:
+    lastUpdated: 20170129001706
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+

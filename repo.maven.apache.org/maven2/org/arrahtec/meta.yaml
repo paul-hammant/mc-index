@@ -1,0 +1,28 @@
+artifacts:
+  osdq-core:
+    lastUpdated: 20170318144336
+    latest: 6.2.0
+    release: 6.2.0
+    versions:
+      - 6.1.8
+      - 6.1.9
+      - 6.2.0
+  profiler:
+    lastUpdated: 20160701170809
+    latest: 6.1.7
+    release: 6.1.7
+    versions:
+      - 6.1.7
+  profiler-core:
+    lastUpdated: 20160618170541
+    latest: 6.1.7
+    release: 6.1.7
+    versions:
+      - 6.1.7
+  profiler-ui:
+    lastUpdated: 20160701170811
+    latest: 6.1.7
+    release: 6.1.7
+    versions:
+      - 6.1.7
+

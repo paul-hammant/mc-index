@@ -1,0 +1,221 @@
+artifacts:
+  blue_commons:
+    lastUpdated: 20150511130320
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  bluima_abbreviations:
+    lastUpdated: 20150511130321
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_banner:
+    lastUpdated: 20150511130322
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_bbp:
+    lastUpdated: 20150511130323
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_commons:
+    lastUpdated: 20150511130324
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_corpora:
+    lastUpdated: 20150511130325
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_db:
+    lastUpdated: 20150511130340
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_elasticsearch:
+    lastUpdated: 20150511130349
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_fusion:
+    lastUpdated: 20150511130351
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_jsre:
+    lastUpdated: 20150511130354
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_jython:
+    lastUpdated: 20150511130355
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_lexica:
+    lastUpdated: 20150511130356
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_module:
+    lastUpdated: 20150511130356
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  bluima_mongodb:
+    lastUpdated: 20150511130358
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_neuroner:
+    lastUpdated: 20150511130359
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_opennlp:
+    lastUpdated: 20150511130359
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_oscar4:
+    lastUpdated: 20150511130359
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_parent:
+    lastUpdated: 20150511130400
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_pdf:
+    lastUpdated: 20150511130400
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_protein_concentrations:
+    lastUpdated: 20150511130401
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_pubmed_ws:
+    lastUpdated: 20150511130405
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_reference_classifier:
+    lastUpdated: 20150511130413
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_regions:
+    lastUpdated: 20150511130428
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_scripting:
+    lastUpdated: 20150511130429
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_text2pmid:
+    lastUpdated: 20150511130429
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_topic_models:
+    lastUpdated: 20150511130432
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_typesystem:
+    lastUpdated: 20150511130434
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  bluima_units:
+    lastUpdated: 20150511130435
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_utils:
+    lastUpdated: 20150511130435
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  bluima_xml:
+    lastUpdated: 20150511130436
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mallet_utils:
+    lastUpdated: 20150511130437
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  pdf_glyph_mapping:
+    lastUpdated: 20150511130438
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

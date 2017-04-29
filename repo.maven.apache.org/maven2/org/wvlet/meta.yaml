@@ -1,0 +1,433 @@
+artifacts:
+  airframe-macros_2.11:
+    lastUpdated: 20170408020434
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe-macros_2.12:
+    lastUpdated: 20170408020434
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe-macros_sjs0.6_2.11:
+    lastUpdated: 20170408020434
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe-macros_sjs0.6_2.12:
+    lastUpdated: 20170408020435
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe_2.11:
+    lastUpdated: 20170408020435
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe_2.12:
+    lastUpdated: 20170408020436
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe_sjs0.6_2.11:
+    lastUpdated: 20170408020437
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+  airframe_sjs0.6_2.12:
+    lastUpdated: 20170408020437
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+  object-schema_2.11:
+    lastUpdated: 20161125214043
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  object-schema_2.12:
+    lastUpdated: 20161125214043
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  surface_2.11:
+    lastUpdated: 20170414234404
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  surface_2.12:
+    lastUpdated: 20170414234405
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  surface_sjs0.6_2.11:
+    lastUpdated: 20170414234405
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  surface_sjs0.6_2.12:
+    lastUpdated: 20170414234406
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  wvlet-config_2.11:
+    lastUpdated: 20161125215650
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.6
+      - 0.7
+      - 0.9
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+      - 1.0
+  wvlet-config_2.12:
+    lastUpdated: 20161125215651
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.27
+      - 1.0
+  wvlet-core_2.11:
+    lastUpdated: 20161105180036
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.1
+      - 0.2
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.9
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+  wvlet-core_2.12:
+    lastUpdated: 20161105180036
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.27
+  wvlet-cui_2.11:
+    lastUpdated: 20160504212918
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wvlet-dataframe_2.11:
+    lastUpdated: 20160504212919
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wvlet-inject_2.11:
+    lastUpdated: 20160819232851
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+  wvlet-jdbc_2.11:
+    lastUpdated: 20160504212919
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wvlet-jmx_2.11:
+    lastUpdated: 20161125215651
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+      - 1.0
+  wvlet-jmx_2.12:
+    lastUpdated: 20161125215652
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.27
+      - 1.0
+  wvlet-lens_2.11:
+    lastUpdated: 20160504212923
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wvlet-log_2.11:
+    lastUpdated: 20170414193645
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  wvlet-log_2.12:
+    lastUpdated: 20170414193645
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  wvlet-log_2.12.0-M5:
+    lastUpdated: 20161001002232
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  wvlet-log_2.12.0-RC1:
+    lastUpdated: 20161001002233
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  wvlet-log_sjs0.6_2.11:
+    lastUpdated: 20170414193646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  wvlet-log_sjs0.6_2.12:
+    lastUpdated: 20170414193646
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  wvlet-obj_2.11:
+    lastUpdated: 20161105180039
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+  wvlet-obj_2.12:
+    lastUpdated: 20161105180040
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.27
+  wvlet-opts_2.11:
+    lastUpdated: 20161125215652
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+      - 1.0
+  wvlet-opts_2.12:
+    lastUpdated: 20161125215652
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.27
+      - 1.0
+  wvlet-rest_2.11:
+    lastUpdated: 20160504212925
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  wvlet-test_2.11:
+    lastUpdated: 20161105180043
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.1
+      - 0.2
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.9
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.18
+      - 0.19
+      - 0.2
+      - 0.21
+      - 0.22
+      - 0.23
+      - 0.24
+      - 0.25
+      - 0.26
+      - 0.27
+  wvlet-test_2.12:
+    lastUpdated: 20161105180044
+    latest: 0.27
+    release: 0.27
+    versions:
+      - 0.27
+

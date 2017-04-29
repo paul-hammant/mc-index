@@ -1,0 +1,272 @@
+artifacts:
+  samza-api:
+    lastUpdated: 20170217054316
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-autoscaling_2.10:
+    lastUpdated: 20170418043812
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-autoscaling_2.11:
+    lastUpdated: 20170217054317
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-core_2.10:
+    lastUpdated: 20170418043813
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-core_2.11:
+    lastUpdated: 20170217054318
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-core_2.9.2:
+    lastUpdated: 20140707183925
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  samza-elasticsearch:
+    lastUpdated: 20170217054319
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-hdfs_2.10:
+    lastUpdated: 20170418043815
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-hdfs_2.11:
+    lastUpdated: 20170217054319
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-kafka_2.10:
+    lastUpdated: 20170418043815
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-kafka_2.11:
+    lastUpdated: 20170217054320
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-kafka_2.9.2:
+    lastUpdated: 20140707183926
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  samza-kv-inmemory_2.10:
+    lastUpdated: 20170418043816
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-kv-inmemory_2.11:
+    lastUpdated: 20170217054321
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-kv-leveldb_2.10:
+    lastUpdated: 20141208220730
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  samza-kv-rocksdb_2.10:
+    lastUpdated: 20170418043816
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-kv-rocksdb_2.11:
+    lastUpdated: 20170217054321
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-kv_2.10:
+    lastUpdated: 20170418043817
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-kv_2.11:
+    lastUpdated: 20170217054322
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-kv_2.9.2:
+    lastUpdated: 20140707183926
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  samza-log4j:
+    lastUpdated: 20170217054323
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-operator:
+    lastUpdated: 20170217054324
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-rest:
+    lastUpdated: 20170217054324
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+  samza-serializers_2.10:
+    lastUpdated: 20141208220731
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  samza-serializers_2.9.2:
+    lastUpdated: 20140707183926
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  samza-shell:
+    lastUpdated: 20170217054326
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-test_2.10:
+    lastUpdated: 20170418043821
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-test_2.11:
+    lastUpdated: 20170217054326
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-test_2.9.2:
+    lastUpdated: 20140707183926
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  samza-yarn_2.10:
+    lastUpdated: 20170418043822
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+  samza-yarn_2.11:
+    lastUpdated: 20170217054327
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  samza-yarn_2.9.2:
+    lastUpdated: 20140707183926
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+

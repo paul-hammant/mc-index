@@ -1,0 +1,39 @@
+artifacts:
+  net.tirasa.connid.bundles.soap:
+    lastUpdated: 20160401113632
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+  soap:
+    lastUpdated: 20160401113633
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+  soap-utilities:
+    lastUpdated: 20160401113634
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  utilities:
+    lastUpdated: 20141023082906
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  wssample:
+    lastUpdated: 20160401113634
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+

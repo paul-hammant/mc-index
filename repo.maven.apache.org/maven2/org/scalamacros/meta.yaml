@@ -1,0 +1,406 @@
+artifacts:
+  macrotracker_2.11.6:
+    lastUpdated: 20150328212319
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  paradise_2.10.2:
+    lastUpdated: 20151119161352
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.10.3:
+    lastUpdated: 20151119161353
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.10.4:
+    lastUpdated: 20151119161353
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.10.5:
+    lastUpdated: 20151119161354
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.10.6:
+    lastUpdated: 20151119161354
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.0:
+    lastUpdated: 20151119161355
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-M8
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.0-M7:
+    lastUpdated: 20140409221028
+    latest: 2.0.0-M8
+    release: 2.0.0-M8
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+  paradise_2.11.0-M8:
+    lastUpdated: 20140409221029
+    latest: 2.0.0-M8
+    release: 2.0.0-M8
+    versions:
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+  paradise_2.11.0-RC1:
+    lastUpdated: 20140409221030
+    latest: 2.0.0-M8
+    release: 2.0.0-M8
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+  paradise_2.11.0-RC3:
+    lastUpdated: 20140409221030
+    latest: 2.0.0-M8
+    release: 2.0.0-M8
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+      - 2.0.0-M7
+      - 2.0.0-M8
+  paradise_2.11.0-RC4:
+    lastUpdated: 20140409221031
+    latest: 2.0.0-M8
+    release: 2.0.0-M8
+    versions:
+      - 2.0.0-M7
+      - 2.0.0-M8
+  paradise_2.11.1:
+    lastUpdated: 20151119161356
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.10:
+    lastUpdated: 20170408055542
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.11.11:
+    lastUpdated: 20170418143707
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.11.2:
+    lastUpdated: 20151119161356
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.3:
+    lastUpdated: 20151119161357
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.4:
+    lastUpdated: 20151119161357
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.5:
+    lastUpdated: 20151119161358
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M2
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.6:
+    lastUpdated: 20151119161359
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.7:
+    lastUpdated: 20151119161359
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+      - 2.1.0
+  paradise_2.11.8:
+    lastUpdated: 20170215230515
+    latest: 3.0.0-M4
+    release: 3.0.0-M4
+    versions:
+      - 2.0.1
+      - 2.1.0
+      - 3.0.0-M1
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+  paradise_2.11.9:
+    lastUpdated: 20170330161624
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0:
+    lastUpdated: 20161102044909
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0-M1:
+    lastUpdated: 20150801072656
+    latest: 2.1.0-M5
+    release: 2.1.0-M5
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+  paradise_2.12.0-M2:
+    lastUpdated: 20150801072656
+    latest: 2.1.0-M5
+    release: 2.1.0-M5
+    versions:
+      - 2.0.1
+      - 2.1.0-M5
+  paradise_2.12.0-M3:
+    lastUpdated: 20151212150159
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0-M4:
+    lastUpdated: 20160407052600
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0-M5:
+    lastUpdated: 20160703174657
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0-RC1:
+    lastUpdated: 20160908154205
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.0-RC2:
+    lastUpdated: 20161018190733
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.1:
+    lastUpdated: 20161205185100
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  paradise_2.12.2:
+    lastUpdated: 20170418143756
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  quasiquotes_2.10:
+    lastUpdated: 20151119161400
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-M7
+      - 2.0.0-M8
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0-M1
+      - 2.1.0-M3
+      - 2.1.0-M4
+      - 2.1.0-M5
+      - 2.1.0
+  quasiquotes_2.10.2:
+    lastUpdated: 20140330004821
+    latest: 2.0.0-M6
+    release: 2.0.0-M6
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+  quasiquotes_2.10.3:
+    lastUpdated: 20140330004822
+    latest: 2.0.0-M6
+    release: 2.0.0-M6
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+  quasiquotes_2.10.4:
+    lastUpdated: 20140330004822
+    latest: 2.0.0-M6
+    release: 2.0.0-M6
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+      - 2.0.0-M6
+  resetallattrs_2.11:
+    lastUpdated: 20150729205035
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-M1
+      - 1.0.0
+  resetallattrs_2.12:
+    lastUpdated: 20161102105438
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  resetallattrs_2.12.0-M2:
+    lastUpdated: 20150729175326
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  resetallattrs_2.12.0-M3:
+    lastUpdated: 20151202190357
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  resetallattrs_2.12.0-M4:
+    lastUpdated: 20160421162927
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  resetallattrs_2.12.0-M5:
+    lastUpdated: 20160804195600
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  xml_2.11:
+    lastUpdated: 20140418115245
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  xml_2.11.0-RC4:
+    lastUpdated: 20140409203624
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+

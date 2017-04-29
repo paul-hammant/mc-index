@@ -1,0 +1,47 @@
+artifacts:
+  base:
+    lastUpdated: 20161002221417
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.1.0
+  db-manager:
+    lastUpdated: 20161002221631
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 2.0.0
+      - 2.1.0
+  eve-xml-api:
+    lastUpdated: 20161128031942
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  license:
+    lastUpdated: 20160606225344
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  oauth:
+    lastUpdated: 20170108005450
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+

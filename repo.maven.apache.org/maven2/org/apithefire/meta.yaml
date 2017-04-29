@@ -1,0 +1,114 @@
+artifacts:
+  apithefire:
+    lastUpdated: 20080810083108
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  apithefire-all:
+    lastUpdated: 20080810083139
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.1
+      - 0.1.2
+  apithefire-persistence:
+    lastUpdated: 20080810083123
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-persistence-openjpa:
+    lastUpdated: 20080810083124
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-server:
+    lastUpdated: 20080412023529
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+  apithefire-server-jetty:
+    lastUpdated: 20080412023530
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+  apithefire-servlet:
+    lastUpdated: 20080810083129
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.1
+      - 0.1.2
+  apithefire-servlet-examples:
+    lastUpdated: 20080810083150
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-servlet-jetty:
+    lastUpdated: 20080810083131
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.1
+      - 0.1.2
+  apithefire-servlet-wicket:
+    lastUpdated: 20080810083134
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.1
+      - 0.1.2
+  apithefire-sql:
+    lastUpdated: 20080810083119
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-sql-c3p0:
+    lastUpdated: 20080810083136
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-sql-h2:
+    lastUpdated: 20080810083139
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.2
+  apithefire-test:
+    lastUpdated: 20080810083110
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  apithefire-util:
+    lastUpdated: 20080810083117
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  apithefire-web:
+    lastUpdated: 20080412023531
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+  apithefire-web-wicket:
+    lastUpdated: 20080412023532
+    latest: {}
+    release: {}
+    versions:
+      - 0.1.0
+

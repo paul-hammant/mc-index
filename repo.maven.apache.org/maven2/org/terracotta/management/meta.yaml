@@ -1,0 +1,78 @@
+artifacts:
+  cluster-messaging:
+    lastUpdated: 20160602143443
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  cluster-topology:
+    lastUpdated: 20160602143443
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  management-entity:
+    lastUpdated: 20160602143444
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0
+      - 2.5.0
+  management-entity-client:
+    lastUpdated: 20160602143444
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  management-entity-common:
+    lastUpdated: 20160602143445
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  management-entity-server:
+    lastUpdated: 20160602143446
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  management-entity-tests:
+    lastUpdated: 20160602143447
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  management-model:
+    lastUpdated: 20160602143447
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0
+      - 2.5.0
+  management-registry:
+    lastUpdated: 20160602143448
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0
+      - 2.5.0
+  monitoring-service:
+    lastUpdated: 20160602143449
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  sequence-generator:
+    lastUpdated: 20160602143451
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0
+  terracotta-management:
+    lastUpdated: 20160602143452
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0
+      - 2.5.0
+

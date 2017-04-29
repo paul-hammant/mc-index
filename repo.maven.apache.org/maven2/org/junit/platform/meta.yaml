@@ -1,0 +1,77 @@
+artifacts:
+  junit-platform-commons:
+    lastUpdated: 20170401193036
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-console:
+    lastUpdated: 20170401193036
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-console-standalone:
+    lastUpdated: 20170401193037
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M4
+  junit-platform-engine:
+    lastUpdated: 20170401193037
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-gradle-plugin:
+    lastUpdated: 20170401193038
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-launcher:
+    lastUpdated: 20170401193038
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-runner:
+    lastUpdated: 20170401193038
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+  junit-platform-suite-api:
+    lastUpdated: 20170401193039
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M4
+  junit-platform-surefire-provider:
+    lastUpdated: 20170401193039
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+

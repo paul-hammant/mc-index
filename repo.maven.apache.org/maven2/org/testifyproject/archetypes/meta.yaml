@@ -1,0 +1,65 @@
+artifacts:
+  archetypes:
+    lastUpdated: 20170321234113
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-guice-integrationtest-archetype:
+    lastUpdated: 20170321234113
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-hk2-integrationtest-archetype:
+    lastUpdated: 20170321234113
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-jersey-systemtest-archetype:
+    lastUpdated: 20170321234114
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-resourceprovider-archetype:
+    lastUpdated: 20170321234114
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-spring-integrationtest-archetype:
+    lastUpdated: 20170321234115
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-spring-systemtest-archetype:
+    lastUpdated: 20170321234115
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-springboot-systemtest-archetype:
+    lastUpdated: 20170321234115
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  junit-unittest-archetype:
+    lastUpdated: 20170321234116
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+

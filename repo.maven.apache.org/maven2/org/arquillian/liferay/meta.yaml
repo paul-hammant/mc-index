@@ -1,0 +1,47 @@
+artifacts:
+  arquillian-container-liferay:
+    lastUpdated: 20151124162929
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-container-osgi-allin:
+    lastUpdated: 20151124162930
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-deployment-generator-bnd:
+    lastUpdated: 20151124162931
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-extension-liferay:
+    lastUpdated: 20151124162932
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-liferay-extension-example:
+    lastUpdated: 20151124162933
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-portal-liferay-extension:
+    lastUpdated: 20151124162934
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-processor-osgi-allin:
+    lastUpdated: 20151124162934
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+

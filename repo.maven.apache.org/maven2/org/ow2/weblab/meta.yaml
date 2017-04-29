@@ -1,0 +1,55 @@
+artifacts:
+  components:
+    lastUpdated: 20120112101653
+    latest: {}
+    release: 1.2.2
+    versions:
+      - 1.2
+      - 1.2.2
+  content-manager:
+    lastUpdated: 20110105100523
+    latest: {}
+    release: 1.6.1
+    versions:
+      - 1.6
+      - 1.7-SNAPSHOT
+      - 1.6.1
+  core:
+    lastUpdated: 20110810155940
+    latest: {}
+    release: 1.2.2
+    versions:
+      - 1.2
+      - 1.2.2
+  folder-crawler:
+    lastUpdated: 20110107101345
+    latest: {}
+    release: 1.8-SNAPSHOT
+    versions:
+      - 1.6
+      - 1.7
+      - 1.7.1
+      - 1.8-SNAPSHOT
+      - 1.7.3
+  helpers:
+    lastUpdated: 20101108093800
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.2
+  tag:
+    lastUpdated: 20111012152630
+    latest: {}
+    release: 1.2.2-RC1
+    versions:
+      - 1.2.2-RC1
+  weblab-se-orchestra:
+    lastUpdated: 20110624123505
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-SNAPSHOT
+      - 1.0
+      - 1.1
+      - 1.2-SNAPSHOT
+

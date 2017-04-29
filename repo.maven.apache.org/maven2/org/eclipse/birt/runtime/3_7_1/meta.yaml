@@ -1,0 +1,453 @@
+artifacts:
+  Tidy:
+    lastUpdated: 20120309192439
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  com.ibm.icu:
+    lastUpdated: 20120309192449
+    latest: 4.4.2
+    release: 4.4.2
+    versions:
+      - 4.4.2
+  com.lowagie.text:
+    lastUpdated: 20120309192426
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  derby:
+    lastUpdated: 20120309192426
+    latest: 10.5.1000001
+    release: 10.5.1000001
+    versions:
+      - 10.5.1000001
+  javax.wsdl:
+    lastUpdated: 20120309192436
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.1
+  org.apache.batik.bridge:
+    lastUpdated: 20120309192439
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.css:
+    lastUpdated: 20120309192448
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.dom:
+    lastUpdated: 20120309192436
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.dom.svg:
+    lastUpdated: 20120309192426
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.ext.awt:
+    lastUpdated: 20120309192445
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.parser:
+    lastUpdated: 20120309192439
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.pdf:
+    lastUpdated: 20120309192437
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.svggen:
+    lastUpdated: 20120309192451
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.transcoder:
+    lastUpdated: 20120309192435
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.util:
+    lastUpdated: 20120309192447
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.util.gui:
+    lastUpdated: 20120309192427
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.batik.xml:
+    lastUpdated: 20120309192438
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  org.apache.commons.codec:
+    lastUpdated: 20120309192438
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.apache.xerces:
+    lastUpdated: 20120309192427
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.apache.xml.resolver:
+    lastUpdated: 20120309192449
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  org.apache.xml.serializer:
+    lastUpdated: 20120309192425
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.7.1
+  org.eclipse.birt.runtime:
+    lastUpdated: 20120309192437
+    latest: 3.7.1
+    release: 3.7.1
+    versions:
+      - 3.7.1
+  org.eclipse.core.contenttype:
+    lastUpdated: 20120309192434
+    latest: 3.4.100
+    release: 3.4.100
+    versions:
+      - 3.4.100
+  org.eclipse.core.expressions:
+    lastUpdated: 20120309192438
+    latest: 3.4.300
+    release: 3.4.300
+    versions:
+      - 3.4.300
+  org.eclipse.core.filesystem:
+    lastUpdated: 20120309192438
+    latest: 1.3.100
+    release: 1.3.100
+    versions:
+      - 1.3.100
+  org.eclipse.core.jobs:
+    lastUpdated: 20120309192445
+    latest: 3.5.100
+    release: 3.5.100
+    versions:
+      - 3.5.100
+  org.eclipse.core.runtime:
+    lastUpdated: 20120309192440
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.7.0
+  org.eclipse.datatools.connectivity:
+    lastUpdated: 20120309192446
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.3
+  org.eclipse.datatools.connectivity.apache.derby:
+    lastUpdated: 20120309192439
+    latest: 1.0.102
+    release: 1.0.102
+    versions:
+      - 1.0.102
+  org.eclipse.datatools.connectivity.apache.derby.dbdefinition:
+    lastUpdated: 20120309192437
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.eclipse.datatools.connectivity.console.profile:
+    lastUpdated: 20120309192440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.connectivity.db.generic:
+    lastUpdated: 20120309192433
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.connectivity.dbdefinition.genericJDBC:
+    lastUpdated: 20120309192435
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.connectivity.oda:
+    lastUpdated: 20120309192434
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.2
+  org.eclipse.datatools.connectivity.oda.consumer:
+    lastUpdated: 20120309192434
+    latest: 3.2.4
+    release: 3.2.4
+    versions:
+      - 3.2.4
+  org.eclipse.datatools.connectivity.oda.design:
+    lastUpdated: 20120309192450
+    latest: 3.3.3
+    release: 3.3.3
+    versions:
+      - 3.3.3
+  org.eclipse.datatools.connectivity.oda.flatfile:
+    lastUpdated: 20120309192451
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 3.1.1
+  org.eclipse.datatools.connectivity.oda.profile:
+    lastUpdated: 20120309192428
+    latest: 3.2.6
+    release: 3.2.6
+    versions:
+      - 3.2.6
+  org.eclipse.datatools.connectivity.sqm.core:
+    lastUpdated: 20120309192439
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.3
+  org.eclipse.datatools.enablement.hsqldb:
+    lastUpdated: 20120309192441
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.enablement.hsqldb.dbdefinition:
+    lastUpdated: 20120309192428
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.enablement.ibm.db2.luw:
+    lastUpdated: 20120309192440
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.eclipse.datatools.enablement.ibm.db2.luw.dbdefinition:
+    lastUpdated: 20120309192434
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.eclipse.datatools.enablement.ibm.informix:
+    lastUpdated: 20120309192447
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.enablement.ibm.informix.dbdefinition:
+    lastUpdated: 20120309192446
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.eclipse.datatools.enablement.msft.sqlserver:
+    lastUpdated: 20120309192448
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition:
+    lastUpdated: 20120309192436
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.enablement.mysql:
+    lastUpdated: 20120309192438
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.eclipse.datatools.enablement.mysql.dbdefinition:
+    lastUpdated: 20120309192447
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.eclipse.datatools.enablement.oda.ws:
+    lastUpdated: 20120309192434
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.2
+  org.eclipse.datatools.enablement.oda.xml:
+    lastUpdated: 20120309192439
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  org.eclipse.datatools.enablement.oracle:
+    lastUpdated: 20120309192445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.enablement.oracle.dbdefinition:
+    lastUpdated: 20120309192435
+    latest: 1.0.102
+    release: 1.0.102
+    versions:
+      - 1.0.102
+  org.eclipse.datatools.enablement.postgresql:
+    lastUpdated: 20120309192436
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.enablement.postgresql.dbdefinition:
+    lastUpdated: 20120309192443
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.eclipse.datatools.modelbase.dbdefinition:
+    lastUpdated: 20120309192440
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.eclipse.datatools.modelbase.derby:
+    lastUpdated: 20120309192438
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.datatools.modelbase.sql:
+    lastUpdated: 20120309192425
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.eclipse.datatools.modelbase.sql.query:
+    lastUpdated: 20120309192426
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.eclipse.emf:
+    lastUpdated: 20120309192451
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 2.6.0
+  org.eclipse.emf.common:
+    lastUpdated: 20120309192428
+    latest: 2.7.0
+    release: 2.7.0
+    versions:
+      - 2.7.0
+  org.eclipse.emf.ecore:
+    lastUpdated: 20120309192446
+    latest: 2.7.0
+    release: 2.7.0
+    versions:
+      - 2.7.0
+  org.eclipse.emf.ecore.change:
+    lastUpdated: 20120309192446
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.7.1
+  org.eclipse.emf.ecore.xmi:
+    lastUpdated: 20120309192429
+    latest: 2.7.0
+    release: 2.7.0
+    versions:
+      - 2.7.0
+  org.eclipse.equinox.app:
+    lastUpdated: 20120309192436
+    latest: 1.3.100
+    release: 1.3.100
+    versions:
+      - 1.3.100
+  org.eclipse.equinox.common:
+    lastUpdated: 20120309192427
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.6.0
+  org.eclipse.equinox.preferences:
+    lastUpdated: 20120309192427
+    latest: 3.4.1
+    release: 3.4.1
+    versions:
+      - 3.4.1
+  org.eclipse.equinox.registry:
+    lastUpdated: 20120309192435
+    latest: 3.5.101
+    release: 3.5.101
+    versions:
+      - 3.5.101
+  org.eclipse.osgi:
+    lastUpdated: 20120309192435
+    latest: 3.7.1
+    release: 3.7.1
+    versions:
+      - 3.7.1
+  org.eclipse.osgi.services:
+    lastUpdated: 20120309192452
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  org.eclipse.update.configurator:
+    lastUpdated: 20120309192440
+    latest: 3.3.100
+    release: 3.3.100
+    versions:
+      - 3.3.100
+  org.mozilla.javascript:
+    lastUpdated: 20120309192437
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.7.2
+  org.w3c.css.sac:
+    lastUpdated: 20120309192447
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.w3c.dom.smil:
+    lastUpdated: 20120309192428
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.w3c.dom.svg:
+    lastUpdated: 20120309192448
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

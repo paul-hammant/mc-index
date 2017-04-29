@@ -1,0 +1,583 @@
+artifacts:
+  array-datamodel:
+    lastUpdated: 20140110201736
+    latest: 0.4-hadoop2
+    release: 0.4-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.4
+  avro:
+    lastUpdated: 20140716142102
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.5
+  hadoop-compatibility:
+    lastUpdated: 20140716142122
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.5
+  hbase:
+    lastUpdated: 20140716142123
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-hadoop2
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3-hadoop2
+      - 0.5-hadoop2
+      - 0.5.1-hadoop2
+      - 0.5.2-hadoop2
+  hll:
+    lastUpdated: 20140113172011
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  jdbc:
+    lastUpdated: 20140716142125
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  meteor:
+    lastUpdated: 20140113172011
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  meteor-client:
+    lastUpdated: 20140113172011
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  meteor-meteor:
+    lastUpdated: 20140113172012
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  meteor-testing:
+    lastUpdated: 20140113172012
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  meteor-webfrontend:
+    lastUpdated: 20140113172013
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  quickstart-java:
+    lastUpdated: 20140716142126
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  quickstart-scala:
+    lastUpdated: 20140716142128
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  sopremo:
+    lastUpdated: 20140113172013
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-base:
+    lastUpdated: 20140113172014
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-client:
+    lastUpdated: 20140113172014
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-common:
+    lastUpdated: 20140113172014
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-query:
+    lastUpdated: 20140113172015
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-server:
+    lastUpdated: 20140113172015
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-testplan:
+    lastUpdated: 20140113172016
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  sopremo-testserver:
+    lastUpdated: 20140113172016
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  spargel:
+    lastUpdated: 20140716142130
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere:
+    lastUpdated: 20140716142130
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-addons:
+    lastUpdated: 20140716142131
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-clients:
+    lastUpdated: 20140716142132
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-compiler:
+    lastUpdated: 20140716142134
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-core:
+    lastUpdated: 20140716142135
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-examples:
+    lastUpdated: 20140716142136
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-java:
+    lastUpdated: 20140716142137
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-java-examples:
+    lastUpdated: 20140716142140
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-quickstart:
+    lastUpdated: 20140716142142
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-runtime:
+    lastUpdated: 20140716142143
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-scala:
+    lastUpdated: 20140716142145
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-scala-examples:
+    lastUpdated: 20140716142147
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-test-utils:
+    lastUpdated: 20140716142150
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.5
+  stratosphere-testplan:
+    lastUpdated: 20140520112624
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.2
+      - 0.4
+  stratosphere-tests:
+    lastUpdated: 20140716142152
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.5-rc1
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3
+      - 0.5-rc3-hadoop2
+      - 0.5
+      - 0.5-hadoop2
+      - 0.5.1
+      - 0.5.1-hadoop2
+      - 0.5.2
+      - 0.5.2-hadoop2
+      - 0.4
+      - 0.5
+  stratosphere-testutil:
+    lastUpdated: 20140113172016
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  stratosphere-util:
+    lastUpdated: 20140113172017
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  swt-visualization:
+    lastUpdated: 20140110201742
+    latest: 0.4-hadoop2
+    release: 0.4-hadoop2
+    versions:
+      - 0.4-rc1
+      - 0.4
+      - 0.4-hadoop2
+      - 0.4
+  yarn:
+    lastUpdated: 20140716142153
+    latest: 0.5.2-hadoop2
+    release: 0.5.2-hadoop2
+    versions:
+      - 0.4-hadoop2
+      - 0.5-rc1-hadoop2
+      - 0.5-rc2-hadoop2
+      - 0.5-rc3-hadoop2
+      - 0.5-hadoop2
+      - 0.5.1-hadoop2
+      - 0.5.2-hadoop2
+

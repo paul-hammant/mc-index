@@ -1,0 +1,211 @@
+artifacts:
+  dropwizard-scala-core_2.10:
+    lastUpdated: 20160921145333
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.7.1-2
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-core_2.11:
+    lastUpdated: 20160921145333
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-core_2.9.1:
+    lastUpdated: 20150122165931
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-core_2.9.3:
+    lastUpdated: 20150122165925
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-jdbi_2.10:
+    lastUpdated: 20160921145330
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.7.1-2
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-jdbi_2.11:
+    lastUpdated: 20160921145334
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-jdbi_2.9.1:
+    lastUpdated: 20150122165932
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-jdbi_2.9.3:
+    lastUpdated: 20150122165929
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-jersey_2.10:
+    lastUpdated: 20160921145330
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.7.1-2
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-jersey_2.11:
+    lastUpdated: 20160921145329
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-jersey_2.9.1:
+    lastUpdated: 20150122165929
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-jersey_2.9.3:
+    lastUpdated: 20150122165923
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-metrics_2.10:
+    lastUpdated: 20160921145336
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.7.1-2
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-metrics_2.11:
+    lastUpdated: 20160921145333
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-metrics_2.9.1:
+    lastUpdated: 20150122165926
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-metrics_2.9.3:
+    lastUpdated: 20150122165928
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-test_2.10:
+    lastUpdated: 20160921145331
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-test_2.11:
+    lastUpdated: 20160921145335
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-validation_2.10:
+    lastUpdated: 20160921145331
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.7.1-2
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-validation_2.11:
+    lastUpdated: 20160921145332
+    latest: 1.0.0-2
+    release: 1.0.0-2
+    versions:
+      - 0.8.5-1
+      - 0.8.5-2
+      - 0.9.2-1
+      - 0.9.3-1
+      - 0.9.3-2
+      - 1.0.0-1
+      - 1.0.0-2
+  dropwizard-scala-validation_2.9.1:
+    lastUpdated: 20150122165927
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+  dropwizard-scala-validation_2.9.3:
+    lastUpdated: 20150122165930
+    latest: 0.7.1-2
+    release: 0.7.1-2
+    versions:
+      - 0.7.1-2
+

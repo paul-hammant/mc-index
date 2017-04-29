@@ -1,0 +1,90 @@
+artifacts:
+  roshttp_2.10:
+    lastUpdated: 20170107200925
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.0.1
+  roshttp_2.11:
+    lastUpdated: 20170107200926
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.0.1
+  roshttp_2.12:
+    lastUpdated: 20170107200926
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  roshttp_sjs0.6_2.10:
+    lastUpdated: 20170107200926
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.0.1
+  roshttp_sjs0.6_2.11:
+    lastUpdated: 20170107200927
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.0.1
+  roshttp_sjs0.6_2.12:
+    lastUpdated: 20170107200927
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  scala-http-client_2.10:
+    lastUpdated: 20160608130027
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scala-http-client_2.11:
+    lastUpdated: 20160608130028
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scala-http-client_sjs0.6_2.10:
+    lastUpdated: 20160608130030
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scala-http-client_sjs0.6_2.11:
+    lastUpdated: 20160608130031
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+

@@ -1,0 +1,53 @@
+artifacts:
+  ical4j:
+    lastUpdated: 20161031224728
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.5.2
+      - 1.0.6
+      - 1.0.7
+      - 2.0-alpha1
+      - 2.0-beta1
+      - 2.0.0-rc2
+      - 2.0.0
+  ical4j-connector:
+    lastUpdated: 20131001121940
+    latest: 0.9.4.3
+    release: 0.9.4.3
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4.3
+  ical4j-extensions:
+    lastUpdated: 20170128040906
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.2
+      - 1.0.0
+  ical4j-vcard:
+    lastUpdated: 20170128042304
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6.2
+      - 1.0-alpha1
+      - 1.0.0-beta1
+      - 1.0.0
+  ical4j-zoneinfo-outlook:
+    lastUpdated: 20170128030611
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 2.0-beta2
+      - 2.0.0
+

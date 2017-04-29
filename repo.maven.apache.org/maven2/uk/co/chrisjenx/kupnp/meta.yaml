@@ -1,0 +1,26 @@
+artifacts:
+  control:
+    lastUpdated: 20161108214759
+    latest: 1.0.0-alpha-3
+    release: 1.0.0-alpha-3
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+  discovery:
+    lastUpdated: 20161108214800
+    latest: 1.0.0-alpha-3
+    release: 1.0.0-alpha-3
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+  kitchen-sink:
+    lastUpdated: 20161108214801
+    latest: 1.0.0-alpha-3
+    release: 1.0.0-alpha-3
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-alpha-2
+      - 1.0.0-alpha-3
+

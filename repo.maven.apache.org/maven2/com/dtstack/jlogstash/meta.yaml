@@ -1,0 +1,80 @@
+artifacts:
+  input.file:
+    lastUpdated: 20170210011228
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  input.kafka:
+    lastUpdated: 20170210012033
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  input.netty:
+    lastUpdated: 20170210012033
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  input.stdin:
+    lastUpdated: 20170210012951
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  input.tcp:
+    lastUpdated: 20170210013334
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jlogstash:
+    lastUpdated: 20170209071522
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.elasticsearch:
+    lastUpdated: 20170210013956
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.elasticsearch5:
+    lastUpdated: 20170210023239
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.file:
+    lastUpdated: 20170210023843
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.kafka:
+    lastUpdated: 20170210025130
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.netty:
+    lastUpdated: 20170210025432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.performance:
+    lastUpdated: 20170210030419
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  output.stdout:
+    lastUpdated: 20170210030705
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

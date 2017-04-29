@@ -1,0 +1,65 @@
+artifacts:
+  ghostwriter-api-java:
+    lastUpdated: 20170117202236
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.3.0
+      - 0.3.1
+  ghostwriter-jdk-v7:
+    lastUpdated: 20170418192615
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+  ghostwriter-jdk-v8:
+    lastUpdated: 20170418192616
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+  ghostwriter-openjdk-v7:
+    lastUpdated: 20161130061352
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.3.0
+  ghostwriter-openjdk-v8:
+    lastUpdated: 20161130061353
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ghostwriter-rt-snaperr:
+    lastUpdated: 20151209122557
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  ghostwriter-rt-tracer:
+    lastUpdated: 20170117203226
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.1
+      - 0.3.0
+      - 0.3.1
+  ghostwriter-rt-tracer-slf4j:
+    lastUpdated: 20170117203226
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+

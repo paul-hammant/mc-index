@@ -1,0 +1,158 @@
+artifacts:
+  adl-backend:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  adl-frontend:
+    lastUpdated: 20130115141703
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  adl-parser:
+    lastUpdated: 20130115141703
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  annotations:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  common-backend:
+    lastUpdated: 20130115141703
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  common-frontend:
+    lastUpdated: 20130115141702
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  cpl-preproc:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  fractal-adl-bundle:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  fractal-runtime:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  idl-backend:
+    lastUpdated: 20130115141704
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  idl-frontend:
+    lastUpdated: 20130115141703
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  idl-parser:
+    lastUpdated: 20130115141702
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  mind-compiler:
+    lastUpdated: 20130115141702
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  mind-maven-skin:
+    lastUpdated: 20100203144102
+    latest: {}
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  mind-parent:
+    lastUpdated: 20120215143848
+    latest: 6
+    release: 6
+    versions:
+      - 4
+      - 5
+      - 6
+  mindc:
+    lastUpdated: 20130115141709
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+  mindoc:
+    lastUpdated: 20120216105326
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  plugin-loader:
+    lastUpdated: 20130115141702
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 2.0-alpha1
+      - 2.0
+

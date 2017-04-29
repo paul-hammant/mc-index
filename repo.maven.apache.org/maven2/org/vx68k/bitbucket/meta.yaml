@@ -1,0 +1,68 @@
+artifacts:
+  bitbucket-api-client:
+    lastUpdated: 20150912110623
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.0
+      - 2.0
+      - 3.0
+      - 4.0
+  bitbucket-api-client-example:
+    lastUpdated: 20150912110624
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.0
+      - 2.0
+      - 3.0
+      - 4.0
+  bitbucket-api-client-oauth:
+    lastUpdated: 20150912110625
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.0
+      - 2.0
+      - 3.0
+      - 4.0
+  bitbucket-api-client-parent:
+    lastUpdated: 20150912110626
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 1.0
+      - 2.0
+      - 3.0
+      - 4.0
+  bitbucket-webhook:
+    lastUpdated: 20150905002235
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  bitbucket-webhook-example:
+    lastUpdated: 20150905002237
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  bitbucket-webhook-example-servlet:
+    lastUpdated: 20150905002237
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  bitbucket-webhook-example-standalone:
+    lastUpdated: 20150905002238
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  bitbucket-webhook-parent:
+    lastUpdated: 20150905002239
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

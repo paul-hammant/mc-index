@@ -1,0 +1,29 @@
+artifacts:
+  logback-gelf:
+    lastUpdated: 20160120022738
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.2beta1
+      - 0.2beta2
+      - 0.2beta3
+      - 0.2
+      - 0.3
+      - 0.9.6
+      - 0.9.6p1
+      - 0.9.6p2
+      - 0.10p1
+      - 0.10p2
+      - 0.11
+      - 0.12
+      - 0.2
+      - 0.3
+      - 0.11
+      - 0.12
+  socket-encoder-appender:
+    lastUpdated: 20150405142534
+    latest: 0.1beta1
+    release: 0.1beta1
+    versions:
+      - 0.1beta1
+

@@ -1,0 +1,945 @@
+artifacts:
+  CLOPE:
+    lastUpdated: 20120426090007
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  DMNBtext:
+    lastUpdated: 20120426090108
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  DTNB:
+    lastUpdated: 20140430005450
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  DilcaDistance:
+    lastUpdated: 20140426080845
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  EMImputation:
+    lastUpdated: 20120426090031
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  J48graft:
+    lastUpdated: 20140425015154
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  LibLINEAR:
+    lastUpdated: 20151111031213
+    latest: 1.9.7
+    release: 1.9.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.9.7
+  LibSVM:
+    lastUpdated: 20161120223042
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  NNge:
+    lastUpdated: 20120426090056
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  RBFNetwork:
+    lastUpdated: 20150116024445
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  SMOTE:
+    lastUpdated: 20130403193940
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  SPegasos:
+    lastUpdated: 20120426085935
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  SVMAttributeEval:
+    lastUpdated: 20120426090042
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  WekaExcel:
+    lastUpdated: 20150219005548
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  WekaODF:
+    lastUpdated: 20120513090435
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  XMeans:
+    lastUpdated: 20130827035629
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  alternatingDecisionTrees:
+    lastUpdated: 20140427083109
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  alternatingModelTrees:
+    lastUpdated: 20150118233058
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  associationRulesVisualizer:
+    lastUpdated: 20120426090024
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  attributeSelectionSearchMethods:
+    lastUpdated: 20140427084412
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.6
+      - 1.0.7
+  averagedOneDependenceEstimators:
+    lastUpdated: 20120720083250
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.2.1
+  bayesianLogisticRegression:
+    lastUpdated: 20160412050936
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+  bestFirstTree:
+    lastUpdated: 20140427085528
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  cascadeKMeans:
+    lastUpdated: 20151231035203
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  chiSquaredAttributeEval:
+    lastUpdated: 20140427090518
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  citationKNN:
+    lastUpdated: 20120426090040
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  classAssociationRules:
+    lastUpdated: 20140729031129
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  classificationViaClustering:
+    lastUpdated: 20170404235450
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  classifierBasedAttributeSelection:
+    lastUpdated: 20141016210026
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  clojureClassifier:
+    lastUpdated: 20140428112221
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  complementNaiveBayes:
+    lastUpdated: 20140429043910
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  conjunctiveRule:
+    lastUpdated: 20140429075749
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+  consistencySubsetEval:
+    lastUpdated: 20141016210036
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  costSensitiveAttributeSelection:
+    lastUpdated: 20140429082337
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  dagging:
+    lastUpdated: 20140429083426
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  decorate:
+    lastUpdated: 20120426090028
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  denormalize:
+    lastUpdated: 20140429103516
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  discriminantAnalysis:
+    lastUpdated: 20160603042243
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  distributedWekaBase:
+    lastUpdated: 20160830073433
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.6
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+  distributedWekaHadoop:
+    lastUpdated: 20150416051308
+    latest: 1.0.15
+    release: 1.0.15
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.15
+  distributedWekaHadoopCore:
+    lastUpdated: 20160830092911
+    latest: 1.0.21
+    release: 1.0.21
+    versions:
+      - 1.0.19
+      - 1.0.21
+  elasticNet:
+    lastUpdated: 20151116081623
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ensembleLibrary:
+    lastUpdated: 20120426090005
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  ensemblesOfNestedDichotomies:
+    lastUpdated: 20170221070415
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  extraTrees:
+    lastUpdated: 20140430011557
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  fastCorrBasedFS:
+    lastUpdated: 20120426085940
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  filteredAttributeSelection:
+    lastUpdated: 20120426090037
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  functionalTrees:
+    lastUpdated: 20140425013904
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  fuzzyLaticeReasoning:
+    lastUpdated: 20120426090033
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  fuzzyUnorderedRuleInduction:
+    lastUpdated: 20140729022241
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  generalizedSequentialPatterns:
+    lastUpdated: 20120426090111
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  grading:
+    lastUpdated: 20120426090025
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  gridSearch:
+    lastUpdated: 20170322082526
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  hiddenNaiveBayes:
+    lastUpdated: 20120426090110
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  hotSpot:
+    lastUpdated: 20120426090049
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  hyperPipes:
+    lastUpdated: 20120426090003
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  isolationForest:
+    lastUpdated: 20160121072703
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  isotonicRegression:
+    lastUpdated: 20120426090035
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  iterativeAbsoluteErrorRegression:
+    lastUpdated: 20160128033131
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  kernelLogisticRegression:
+    lastUpdated: 20130626034344
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  kfGroovy:
+    lastUpdated: 20160606235433
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.8
+      - 1.0.9
+      - 1.0.12
+  kfKettle:
+    lastUpdated: 20161102014639
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  kfPMMLClassifierScoring:
+    lastUpdated: 20120426090031
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  largeScaleKernelLearning:
+    lastUpdated: 20160301013337
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  latentSemanticAnalysis:
+    lastUpdated: 20170321054719
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+  lazyBayesianRules:
+    lastUpdated: 20120426090058
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  leastMedSquared:
+    lastUpdated: 20120426085930
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  levenshteinEditDistance:
+    lastUpdated: 20120426085943
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  linearForwardSelection:
+    lastUpdated: 20120426085942
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  localOutlierFactor:
+    lastUpdated: 20130723074602
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  logarithmicErrorMetrics:
+    lastUpdated: 20161129021504
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  metaCost:
+    lastUpdated: 20130206050548
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  multiBoostAB:
+    lastUpdated: 20120426090041
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  multiInstanceFilters:
+    lastUpdated: 20160222071613
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  multiInstanceLearning:
+    lastUpdated: 20170221070416
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.9
+  multiLayerPerceptrons:
+    lastUpdated: 20161031082523
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  multilayerPerceptronCS:
+    lastUpdated: 20120426090013
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  naiveBayesTree:
+    lastUpdated: 20120426090030
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  nifiLoader:
+    lastUpdated: 20151209081411
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  normalize:
+    lastUpdated: 20120426085936
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  oneClassClassifier:
+    lastUpdated: 20130514081827
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  optics_dbScan:
+    lastUpdated: 20140401015124
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  ordinalClassClassifier:
+    lastUpdated: 20150701041600
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  ordinalLearningMethod:
+    lastUpdated: 20120426090016
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  ordinalStochasticDominance:
+    lastUpdated: 20120426090009
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  paceRegression:
+    lastUpdated: 20120426085946
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  partialLeastSquares:
+    lastUpdated: 20151222013404
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  percentageErrorMetrics:
+    lastUpdated: 20161129021504
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  phmm4weka:
+    lastUpdated: 20120427220609
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.3
+  predictiveApriori:
+    lastUpdated: 20140804225454
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  prefuseGraph:
+    lastUpdated: 20160917093021
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  prefuseGraphViewer:
+    lastUpdated: 20160831000314
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  prefuseTree:
+    lastUpdated: 20120426090027
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  probabilisticSignificanceAE:
+    lastUpdated: 20120426090102
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  raceSearch:
+    lastUpdated: 20120426090019
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  racedIncrementalLogitBoost:
+    lastUpdated: 20120426090034
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  realAdaBoost:
+    lastUpdated: 20120426085949
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  ridor:
+    lastUpdated: 20120426090006
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  rotationForest:
+    lastUpdated: 20120426085956
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  scatterPlot3D:
+    lastUpdated: 20120426090001
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  scriptingClassifiers:
+    lastUpdated: 20120426090020
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  sequentialInformationalBottleneckClusterer:
+    lastUpdated: 20120426090021
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  simpleCART:
+    lastUpdated: 20120426090026
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  simpleEducationalLearningSchemes:
+    lastUpdated: 20120426090012
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  stackingC:
+    lastUpdated: 20161202005009
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  streamingUnivariateStats:
+    lastUpdated: 20160926090311
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  supervisedAttributeScaling:
+    lastUpdated: 20130627081436
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tabuAndScatterSearch:
+    lastUpdated: 20120426085934
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  tertius:
+    lastUpdated: 20120426090018
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  thresholdSelector:
+    lastUpdated: 20140425071514
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  timeSeriesFilters:
+    lastUpdated: 20150202081937
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  timeseriesForecasting:
+    lastUpdated: 20170118203737
+    latest: 1.1.25
+    release: 1.1.25
+    versions:
+      - 1.0.20
+      - 1.0.21
+      - 1.0.22
+      - 1.0.23
+      - 1.0.24
+      - 1.1.25
+  userClassifier:
+    lastUpdated: 20140425075715
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  votingFeatureIntervals:
+    lastUpdated: 20120426090101
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wavelet:
+    lastUpdated: 20120426085954
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  weka-dev:
+    lastUpdated: 20161219033117
+    latest: 3.9.1
+    release: 3.9.1
+    versions:
+      - 3.7.5
+      - 3.7.6
+      - 3.7.7
+      - 3.7.8
+      - 3.7.9
+      - 3.7.10
+      - 3.7.11
+      - 3.7.12
+      - 3.7.13
+      - 3.9.0
+      - 3.9.1
+  weka-stable:
+    lastUpdated: 20161219033118
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.6
+      - 3.6.7
+      - 3.6.8
+      - 3.6.9
+      - 3.6.10
+      - 3.6.11
+      - 3.6.12
+      - 3.6.13
+      - 3.6.14
+      - 3.8.0
+      - 3.8.1
+  winnow:
+    lastUpdated: 20120426090104
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+

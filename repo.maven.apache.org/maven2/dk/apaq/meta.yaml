@@ -1,0 +1,122 @@
+artifacts:
+  crud4j:
+    lastUpdated: 20120611213055
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  crud4j-core:
+    lastUpdated: 20120611213057
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  crud4j-example:
+    lastUpdated: 20120611213055
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  crud4j-jpa:
+    lastUpdated: 20120611213054
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  filter4j:
+    lastUpdated: 20120805142016
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  filter4j-core:
+    lastUpdated: 20120805142017
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  filter4j-jpa:
+    lastUpdated: 20120805142018
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  filter4j-lucene:
+    lastUpdated: 20120805142019
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  filter4j-mongodb:
+    lastUpdated: 20120805142019
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.4
+  vfs4j:
+    lastUpdated: 20120611213056
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-cifs:
+    lastUpdated: 20120611213056
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  vfs4j-core:
+    lastUpdated: 20120611213054
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-layered:
+    lastUpdated: 20120611213056
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-nativefs:
+    lastUpdated: 20120611213055
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-ram:
+    lastUpdated: 20120611213054
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-sftp:
+    lastUpdated: 20120611213053
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-subfs:
+    lastUpdated: 20120611213056
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vfs4j-test:
+    lastUpdated: 20120611213053
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+

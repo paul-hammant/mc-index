@@ -1,0 +1,338 @@
+artifacts:
+  ami:
+    lastUpdated: 20160720155036
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  any:
+    lastUpdated: 20160720155036
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  arrays:
+    lastUpdated: 20160720155037
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  bidir:
+    lastUpdated: 20160720155038
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  concurrency:
+    lastUpdated: 20160720155038
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  corbaloc:
+    lastUpdated: 20160720155038
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  dds:
+    lastUpdated: 20160720155039
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  demo-parent:
+    lastUpdated: 20160720155039
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  dii:
+    lastUpdated: 20160720155039
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  dynany:
+    lastUpdated: 20160720155039
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  events:
+    lastUpdated: 20160720155039
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  grid:
+    lastUpdated: 20160720155040
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  hello:
+    lastUpdated: 20160720155040
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  imr:
+    lastUpdated: 20160720155040
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  interceptors:
+    lastUpdated: 20160720155040
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  jacorb-appserver:
+    lastUpdated: 20160720155041
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  maven:
+    lastUpdated: 20160720155041
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  miop:
+    lastUpdated: 20160720155041
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  mtclient:
+    lastUpdated: 20160720155042
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  office:
+    lastUpdated: 20160720155042
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  outparam:
+    lastUpdated: 20160720155042
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  policies:
+    lastUpdated: 20160720155043
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  sas:
+    lastUpdated: 20160720155043
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  ssl:
+    lastUpdated: 20160720155043
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  tao_imr:
+    lastUpdated: 20160720155044
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  unions:
+    lastUpdated: 20160720155044
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  value:
+    lastUpdated: 20160720155044
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+  whiteboard:
+    lastUpdated: 20160720155045
+    latest: 3.8
+    release: 3.8
+    versions:
+      - 3.6
+      - 3.6.1
+      - 3.7
+      - 3.8
+      - 3.6
+      - 3.7
+      - 3.8
+

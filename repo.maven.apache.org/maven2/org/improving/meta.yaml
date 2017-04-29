@@ -1,0 +1,47 @@
+artifacts:
+  jsr331-api:
+    lastUpdated: 20150210181251
+    latest: 2.7.0-1
+    release: 2.7.0-1
+    versions:
+      - 2.7.0-1
+  psp-api_2.11:
+    lastUpdated: 20160210162736
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  psp-std_2.11:
+    lastUpdated: 20160210162736
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  scala-improving_2.10:
+    lastUpdated: 20131218002005
+    latest: 0.11.2m2
+    release: 0.11.2m2
+    versions:
+      - 0.11.1
+      - 0.11.2m2
+  scala-improving_2.11.0-M7:
+    lastUpdated: 20131218002005
+    latest: 0.11.2m2
+    release: 0.11.2m2
+    versions:
+      - 0.11.1
+      - 0.11.2m1
+      - 0.11.2m2
+  scala-improving_2.8.1:
+    lastUpdated: 20101119080218
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  scala-improving_2.9.1:
+    lastUpdated: 20120124191850
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.8
+

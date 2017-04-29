@@ -1,0 +1,1192 @@
+artifacts:
+  activemq:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  activemq-broker:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  axis:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  axis-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  client-corba:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  client-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  client-security:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  client-system:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-derby-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-derby-jetty-streamer-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-derby-jetty_streamer.jar:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  daytrader-derby-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-derby-tomcat-streamer-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-derby-tomcat_streamer.jar:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  daytrader-ear:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-ejb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-streamer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-web:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-wsappclient:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  directory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  ge-activemq-rar:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+  geronimo:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+  geronimo-activation:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-assembly:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+  geronimo-assembly-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-axis:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-axis-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-client-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-clustering:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-connector:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-connector-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-console:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-console-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-console-framework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-console-standard:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-console-web:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0-M1
+      - 1.0
+      - 1.0
+  geronimo-converter:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-daytrader-derby-db:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-demo:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M5
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0
+      - 1.0
+  geronimo-dependency-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  geronimo-deploy-config:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-deploy-jsr88:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-deploy-tool:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-deployment:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-deployment-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+  geronimo-derby:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-derby-connector:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+  geronimo-directory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-gbean-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-hot-deploy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-installer-processing:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  geronimo-installer-support:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  geronimo-interop:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-izpack-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-j2ee:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-j2ee-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-j2ee-schema:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-javamail-transport:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.0
+      - 1.1
+  geronimo-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-jetty-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-jmxdebug:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M5
+      - 1.0-M1
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0
+      - 1.0
+  geronimo-jmxremoting:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-jsp-examples-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  geronimo-kernel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - DEV
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-ldap-demo:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-mail:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-management:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-naming-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-network:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - DEV
+      - 1.0-M2
+      - 1.0-M3
+  geronimo-packaging-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 0.1.1
+      - 0.1
+      - 0.1
+  geronimo-remote-deploy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-remote-deploy-lib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-remoting:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - DEV
+      - 1.0-M2
+      - 1.0-M3
+  geronimo-scripts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-security:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-security-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-service-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-servicemix:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-servicemix-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-servlet-examples-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.5.12
+  geronimo-spring:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-spring-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+  geronimo-system:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - DEV
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-test-ddbean:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-timer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-tomcat-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-transaction:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M1
+      - 1.0-M2
+      - 1.0-M3
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-uddi-db:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-uddi-server:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-upgrade:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  geronimo-util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-web-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-webservices:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M4
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-welcome:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M5
+      - 1.0
+      - 1.0
+  geronimo-xmlbeans-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-20040908
+      - 1.0-M4
+  geronimo-xpom-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M3
+      - 1.0-M4
+  hot-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-corba:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-security:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-server:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-system:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  j2ee-system-experimental:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  javamail:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jetty-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jmxdebug-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jmxdebug-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jsp-examples-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jsp-examples-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  ldap-demo-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  ldap-demo-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  ldap-realm:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  magicGball:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  online-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  openejb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  openejb-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  remote-deploy-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  remote-deploy-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  rmi-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  servlets-examples-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  servlets-examples-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  sharedlib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  shutdown:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  system-database:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  tomcat-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  uddi-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  uddi-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  unavailable-client-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  unavailable-ejb-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  unavailable-webservices-deployer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  upgrade:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1
+  upgrade-cli:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.1
+      - 1.1
+      - 1.1
+  webconsole-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  webconsole-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  welcome-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  welcome-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  xmlbeans-maven-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0.0-beta1
+

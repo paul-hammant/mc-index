@@ -1,0 +1,277 @@
+artifacts:
+  cep:
+    lastUpdated: 20150121163711
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  cep-esper:
+    lastUpdated: 20150121163711
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  cep-system:
+    lastUpdated: 20150121163712
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  client:
+    lastUpdated: 20150121163713
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  core:
+    lastUpdated: 20150121163713
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata:
+    lastUpdated: 20150121163715
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata-bogus:
+    lastUpdated: 20150121163715
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata-core:
+    lastUpdated: 20150121163716
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata-csv:
+    lastUpdated: 20150121163717
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata-marketcetera:
+    lastUpdated: 20150121163717
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  marketdata-yahoo:
+    lastUpdated: 20150121163718
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  misc:
+    lastUpdated: 20150121163719
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  modules:
+    lastUpdated: 20150121163720
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  orderloader:
+    lastUpdated: 20150121163720
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  ors:
+    lastUpdated: 20120724190337
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  photon:
+    lastUpdated: 20150121163721
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  photon-app:
+    lastUpdated: 20150121163721
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  photon-bundle:
+    lastUpdated: 20150121163722
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  photon-maven:
+    lastUpdated: 20150121163723
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  photon-rcptarget:
+    lastUpdated: 20150121163724
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  photon-test-bundle:
+    lastUpdated: 20150121163724
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  public-parent:
+    lastUpdated: 20150121163725
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  remote:
+    lastUpdated: 20150121163725
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  remote-emitter:
+    lastUpdated: 20150121163725
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  remote-receiver:
+    lastUpdated: 20150121163727
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  saclient:
+    lastUpdated: 20150121163727
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  strategy:
+    lastUpdated: 20150121163728
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  strategyagent:
+    lastUpdated: 20150121163729
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  tools:
+    lastUpdated: 20150121163730
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  util:
+    lastUpdated: 20150121163730
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  util-test:
+    lastUpdated: 20150121163731
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 2.2.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+

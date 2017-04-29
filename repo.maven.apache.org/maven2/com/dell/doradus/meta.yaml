@@ -1,0 +1,68 @@
+artifacts:
+  doradus:
+    lastUpdated: 20150908160653
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  doradus-client:
+    lastUpdated: 20150908160654
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.1.1
+      - 2.3
+      - 2.3.1
+      - 2.4.0
+      - 2.3
+  doradus-common:
+    lastUpdated: 20150908160654
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.1.1
+      - 2.3
+      - 2.3.1
+      - 2.4.0
+      - 2.3
+  doradus-dynamodb:
+    lastUpdated: 20150908160655
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  doradus-jetty:
+    lastUpdated: 20150908160655
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.1.1
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  doradus-rest:
+    lastUpdated: 20150312190020
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.1
+  doradus-server:
+    lastUpdated: 20150908160656
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.1.1
+      - 2.3
+      - 2.3.1
+      - 2.4.0
+      - 2.3
+  doradus-tomcat:
+    lastUpdated: 20150404144023
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+

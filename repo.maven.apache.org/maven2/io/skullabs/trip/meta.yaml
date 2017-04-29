@@ -1,0 +1,87 @@
+artifacts:
+  sample:
+    lastUpdated: 20151018234224
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-core:
+    lastUpdated: 20151018234225
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-integration-tests:
+    lastUpdated: 20151018234225
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-jsr-330:
+    lastUpdated: 20151018234226
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-jsr-330-integration-tests:
+    lastUpdated: 20151018234226
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-parent:
+    lastUpdated: 20151018234226
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-processor:
+    lastUpdated: 20151018234226
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  trip-project:
+    lastUpdated: 20150302185155
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.3
+      - 1.2.4
+

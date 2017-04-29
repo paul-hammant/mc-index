@@ -1,0 +1,44 @@
+artifacts:
+  cement-parent:
+    lastUpdated: 20091030084151
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  cement-root-parent:
+    lastUpdated: 20091030084151
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.6
+      - 0.0.7
+  querybyproxy:
+    lastUpdated: 20091112153547
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.0.4
+      - 0.5.3
+  querybyproxy-hql:
+    lastUpdated: 20091112153548
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.0.4
+      - 0.5.3
+  querybyproxy-shared:
+    lastUpdated: 20091112153547
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.0.4
+      - 0.5.3
+  recordingproxy:
+    lastUpdated: 20091112003315
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.0.12
+      - 0.5.3
+

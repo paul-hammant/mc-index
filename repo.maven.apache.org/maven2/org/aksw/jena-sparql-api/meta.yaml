@@ -1,0 +1,226 @@
+artifacts:
+  jena-sparql-api-batch:
+    lastUpdated: 20161208132204
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-cache:
+    lastUpdated: 20161208132204
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-cache-h2:
+    lastUpdated: 20161208132205
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-concepts:
+    lastUpdated: 20161208132205
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-connection:
+    lastUpdated: 20161208132205
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-core:
+    lastUpdated: 20161208132206
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-data-cient:
+    lastUpdated: 20161208132206
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.1-1
+  jena-sparql-api-example-proxy:
+    lastUpdated: 20161208132206
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-example-views:
+    lastUpdated: 20161208132207
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-geo:
+    lastUpdated: 20161208132207
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-jgrapht:
+    lastUpdated: 20161208132208
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.1-1
+  jena-sparql-api-mapper:
+    lastUpdated: 20161208132208
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-parent:
+    lastUpdated: 20161208132208
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-playground:
+    lastUpdated: 20161208132208
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-resources:
+    lastUpdated: 20161208132209
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-resources-sparqlqc:
+    lastUpdated: 20161208132209
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-resources-test-config:
+    lastUpdated: 20161208132210
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.1-1
+  jena-sparql-api-server:
+    lastUpdated: 20160129151550
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+  jena-sparql-api-server-standalone:
+    lastUpdated: 20161208132210
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-server-utils:
+    lastUpdated: 20161208132210
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-sparql-ext:
+    lastUpdated: 20161208132211
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-update:
+    lastUpdated: 20161208132211
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-utils:
+    lastUpdated: 20161208132211
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-views:
+    lastUpdated: 20161208132212
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 3.1.0-1
+      - 3.1.1-1
+  jena-sparql-api-web:
+    lastUpdated: 20161208132212
+    latest: 3.1.1-1
+    release: 3.1.1-1
+    versions:
+      - 2.13.0-2
+      - 2.13.0-4
+      - 2.13.0-5
+      - 3.0.1-1
+      - 3.1.0-1
+      - 3.1.1-1
+

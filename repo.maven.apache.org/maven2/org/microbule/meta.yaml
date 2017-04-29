@@ -1,0 +1,211 @@
+artifacts:
+  microbule-annotation:
+    lastUpdated: 20161222121025
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-api:
+    lastUpdated: 20161222121025
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-core:
+    lastUpdated: 20161222121025
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-cache:
+    lastUpdated: 20161222121025
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-circuitbreaker:
+    lastUpdated: 20161222121026
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-cors:
+    lastUpdated: 20161222121026
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-errormap:
+    lastUpdated: 20161222121026
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-gson:
+    lastUpdated: 20161222121026
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-parent:
+    lastUpdated: 20161222121027
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-requestlog:
+    lastUpdated: 20161222121027
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-timeout:
+    lastUpdated: 20161222121027
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  microbule-decorator-tracer:
+    lastUpdated: 20161222121027
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-decorator-validation:
+    lastUpdated: 20161222121027
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-errormap-api:
+    lastUpdated: 20161222121028
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-errormap-impl:
+    lastUpdated: 20161222121028
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-errormap-parent:
+    lastUpdated: 20161222121028
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-errormap-spi:
+    lastUpdated: 20161222121028
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-activator:
+    lastUpdated: 20161222121029
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-blueprint:
+    lastUpdated: 20161222121029
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-cdi:
+    lastUpdated: 20161222121029
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-common:
+    lastUpdated: 20161222121029
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-parent:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-example-scr:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-features:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-itest-karaf:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-itest-parent:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-osgi:
+    lastUpdated: 20161222121030
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-parent:
+    lastUpdated: 20161222121031
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-spi:
+    lastUpdated: 20161222121031
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  microbule-test:
+    lastUpdated: 20161222121031
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+

@@ -1,0 +1,173 @@
+artifacts:
+  springlets-authentication:
+    lastUpdated: 20170303075630
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-autoconfigure:
+    lastUpdated: 20170303075631
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-authentication:
+    lastUpdated: 20170303075631
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-data-jpa:
+    lastUpdated: 20170303075631
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-jms:
+    lastUpdated: 20170303075631
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-mail:
+    lastUpdated: 20170303075631
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-test:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.2.0.RC1
+  springlets-boot-starter-web:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starter-webflow:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-boot-starters:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-context:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-data:
+    lastUpdated: 20170303075632
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-data-commons:
+    lastUpdated: 20170303075633
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-data-jpa:
+    lastUpdated: 20170303075633
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-framework:
+    lastUpdated: 20170303075633
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-jms:
+    lastUpdated: 20170303075633
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-mail:
+    lastUpdated: 20170303075634
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-parent:
+    lastUpdated: 20170303075634
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-security:
+    lastUpdated: 20170303075634
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-test-autoconfigure:
+    lastUpdated: 20170303075634
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.2.0.RC1
+  springlets-web:
+    lastUpdated: 20170303075634
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+  springlets-webflow:
+    lastUpdated: 20170303075635
+    latest: 1.2.0.RC1
+    release: 1.2.0.RC1
+    versions:
+      - 1.0.0.RELEASE
+      - 1.1.0.RELEASE
+      - 1.2.0.RC1
+

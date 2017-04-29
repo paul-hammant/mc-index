@@ -1,0 +1,104 @@
+artifacts:
+  build-resources:
+    lastUpdated: 20160811220000
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo:
+    lastUpdated: 20161005201433
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-accumulo:
+    lastUpdated: 20161005201434
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-api:
+    lastUpdated: 20161005201434
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-cluster:
+    lastUpdated: 20161005201435
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-core:
+    lastUpdated: 20161005201436
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-integration:
+    lastUpdated: 20161005201436
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-mapreduce:
+    lastUpdated: 20161005201436
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-mini:
+    lastUpdated: 20161005201437
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-parent:
+    lastUpdated: 20160811220000
+    latest: 1-incubating
+    release: 1-incubating
+    versions:
+      - 1-incubating
+  fluo-project:
+    lastUpdated: 20161005201438
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes:
+    lastUpdated: 20161027194214
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes-accumulo:
+    lastUpdated: 20161027194214
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes-core:
+    lastUpdated: 20161027194215
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes-kryo:
+    lastUpdated: 20161027194215
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes-spark:
+    lastUpdated: 20161027194216
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+  fluo-recipes-test:
+    lastUpdated: 20161027194216
+    latest: 1.0.0-incubating
+    release: 1.0.0-incubating
+    versions:
+      - 1.0.0-incubating
+

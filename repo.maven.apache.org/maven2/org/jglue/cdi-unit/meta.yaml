@@ -1,0 +1,95 @@
+artifacts:
+  cdi-unit:
+    lastUpdated: 20160727095734
+    latest: 3.1.4
+    release: 3.1.4
+    versions:
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+  cdi-unit-parent:
+    lastUpdated: 20160727095735
+    latest: 3.1.4
+    release: 3.1.4
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+  cdi-unit-tests:
+    lastUpdated: 20140513081713
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+  cdi-unit-tests-bare:
+    lastUpdated: 20140513081713
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+  cdi-unit-tests-easymock:
+    lastUpdated: 20140513081714
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+  cdi-unit-tests-external-dependency:
+    lastUpdated: 20140513081715
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  cdi-unit-tests-gradle:
+    lastUpdated: 20140513081715
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+  cdi-unit-tests-mockito:
+    lastUpdated: 20140513081715
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.0.1
+

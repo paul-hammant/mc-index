@@ -1,0 +1,3433 @@
+artifacts:
+  scalaz-concurrent_2.10:
+    lastUpdated: 20170418153049
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-concurrent_2.10.0-M5:
+    lastUpdated: 20120724205304
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-concurrent_2.10.0-M6:
+    lastUpdated: 20120806213739
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-concurrent_2.10.0-M7:
+    lastUpdated: 20120821223409
+    latest: 7.0.0-M3
+    release: 7.0.0-M3
+    versions:
+      - 7.0.0-M3
+  scalaz-concurrent_2.10.0-RC2:
+    lastUpdated: 20121107162714
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-concurrent_2.10.0-RC3:
+    lastUpdated: 20121123131944
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-concurrent_2.10.0-RC5:
+    lastUpdated: 20121209194024
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-concurrent_2.11:
+    lastUpdated: 20170418153051
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-concurrent_2.11.0-M7:
+    lastUpdated: 20131124170855
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-concurrent_2.11.0-M8:
+    lastUpdated: 20140206201431
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-concurrent_2.11.0-RC1:
+    lastUpdated: 20140309185149
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-concurrent_2.11.0-RC3:
+    lastUpdated: 20140320193710
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-concurrent_2.11.0-RC4:
+    lastUpdated: 20140408181404
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-concurrent_2.12:
+    lastUpdated: 20170418153051
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-concurrent_2.12.0-M1:
+    lastUpdated: 20150918161343
+    latest: 7.2.0-M2
+    release: 7.2.0-M2
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+      - 7.2.0-M2
+  scalaz-concurrent_2.12.0-M2:
+    lastUpdated: 20160206175225
+    latest: 7.2.0-M4
+    release: 7.2.0-M4
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+  scalaz-concurrent_2.12.0-M3:
+    lastUpdated: 20160521083251
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-concurrent_2.12.0-M4:
+    lastUpdated: 20160614190600
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-concurrent_2.12.0-M5:
+    lastUpdated: 20160909151810
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-concurrent_2.12.0-RC1:
+    lastUpdated: 20161027155036
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-concurrent_2.12.0-RC2:
+    lastUpdated: 20161027155036
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-concurrent_2.13.0-M1:
+    lastUpdated: 20170420065350
+    latest: 7.2.11
+    release: 7.2.11
+    versions:
+      - 7.2.11
+  scalaz-concurrent_2.9.2:
+    lastUpdated: 20160409031729
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-concurrent_2.9.3:
+    lastUpdated: 20170418153052
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-core_2.10:
+    lastUpdated: 20170418153054
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_2.10.0-M4:
+    lastUpdated: 20120616121818
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-core_2.10.0-M5:
+    lastUpdated: 20120724205305
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+  scalaz-core_2.10.0-M6:
+    lastUpdated: 20120806213741
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-core_2.10.0-M7:
+    lastUpdated: 20120821222601
+    latest: 7.0.0-M3
+    release: 7.0.0-M3
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M3
+  scalaz-core_2.10.0-RC2:
+    lastUpdated: 20121107162718
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 6.0.4
+      - 7.0.0-M4
+  scalaz-core_2.10.0-RC3:
+    lastUpdated: 20121123134555
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 6.0.4
+      - 7.0.0-M5
+  scalaz-core_2.10.0-RC5:
+    lastUpdated: 20121209194630
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 6.0.4
+      - 7.0.0-M6
+  scalaz-core_2.11:
+    lastUpdated: 20170418153055
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_2.11.0-M7:
+    lastUpdated: 20131124170856
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-core_2.11.0-M8:
+    lastUpdated: 20140206201434
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-core_2.11.0-RC1:
+    lastUpdated: 20140309185151
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-core_2.11.0-RC3:
+    lastUpdated: 20140320193711
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-core_2.11.0-RC4:
+    lastUpdated: 20140408181404
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-core_2.12:
+    lastUpdated: 20170418153056
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_2.12.0-M1:
+    lastUpdated: 20150918161346
+    latest: 7.2.0-M2
+    release: 7.2.0-M2
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+      - 7.2.0-M2
+  scalaz-core_2.12.0-M2:
+    lastUpdated: 20160206175229
+    latest: 7.2.0-M4
+    release: 7.2.0-M4
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+  scalaz-core_2.12.0-M3:
+    lastUpdated: 20160521083255
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-core_2.12.0-M4:
+    lastUpdated: 20160614190603
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-core_2.12.0-M5:
+    lastUpdated: 20160909151813
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-core_2.12.0-RC1:
+    lastUpdated: 20161027155037
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-core_2.12.0-RC2:
+    lastUpdated: 20161027155038
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-core_2.13.0-M1:
+    lastUpdated: 20170420065350
+    latest: 7.2.11
+    release: 7.2.11
+    versions:
+      - 7.2.11
+  scalaz-core_2.9.2:
+    lastUpdated: 20160409031733
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-core_2.9.3:
+    lastUpdated: 20170418153057
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-core_2.9.3-RC1:
+    lastUpdated: 20130104133907
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-core_native0.1_2.11:
+    lastUpdated: 20170414074217
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_sjs0.6_2.10:
+    lastUpdated: 20170414074218
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_sjs0.6_2.11:
+    lastUpdated: 20170414074219
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_sjs0.6_2.12:
+    lastUpdated: 20170414074220
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-core_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160521083321
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-core_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160614190607
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-core_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160909151817
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-core_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160909151818
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161027013143
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-effect_2.10:
+    lastUpdated: 20170418153058
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_2.10.0-M5:
+    lastUpdated: 20120724205309
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-effect_2.10.0-M6:
+    lastUpdated: 20120806213743
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-effect_2.10.0-M7:
+    lastUpdated: 20120821222603
+    latest: 7.0.0-M3
+    release: 7.0.0-M3
+    versions:
+      - 7.0.0-M3
+  scalaz-effect_2.10.0-RC2:
+    lastUpdated: 20121107162722
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-effect_2.10.0-RC3:
+    lastUpdated: 20121123131948
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-effect_2.10.0-RC5:
+    lastUpdated: 20121209194026
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-effect_2.11:
+    lastUpdated: 20170418153058
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_2.11.0-M7:
+    lastUpdated: 20131124170858
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-effect_2.11.0-M8:
+    lastUpdated: 20140206201437
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-effect_2.11.0-RC1:
+    lastUpdated: 20140309185153
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-effect_2.11.0-RC3:
+    lastUpdated: 20140320193712
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-effect_2.11.0-RC4:
+    lastUpdated: 20140408181405
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-effect_2.12:
+    lastUpdated: 20170418153059
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_2.12.0-M1:
+    lastUpdated: 20150918161349
+    latest: 7.2.0-M2
+    release: 7.2.0-M2
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+      - 7.2.0-M2
+  scalaz-effect_2.12.0-M2:
+    lastUpdated: 20160206175232
+    latest: 7.2.0-M4
+    release: 7.2.0-M4
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+  scalaz-effect_2.12.0-M3:
+    lastUpdated: 20160521083326
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-effect_2.12.0-M4:
+    lastUpdated: 20160614190610
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-effect_2.12.0-M5:
+    lastUpdated: 20160909151821
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-effect_2.12.0-RC1:
+    lastUpdated: 20161027155039
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-effect_2.12.0-RC2:
+    lastUpdated: 20161027155040
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-effect_2.13.0-M1:
+    lastUpdated: 20170420065351
+    latest: 7.2.11
+    release: 7.2.11
+    versions:
+      - 7.2.11
+  scalaz-effect_2.9.2:
+    lastUpdated: 20160409031736
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-effect_2.9.3:
+    lastUpdated: 20170418153100
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-effect_native0.1_2.11:
+    lastUpdated: 20170414074222
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_sjs0.6_2.10:
+    lastUpdated: 20170414074223
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_sjs0.6_2.11:
+    lastUpdated: 20170414074223
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_sjs0.6_2.12:
+    lastUpdated: 20170414074224
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-effect_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160521083352
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-effect_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160614190612
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-effect_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160909151824
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-effect_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160909151824
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-effect_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161027013147
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-example_2.10:
+    lastUpdated: 20130317200826
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz-example_2.10.0-M5:
+    lastUpdated: 20120724205309
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-example_2.10.0-M6:
+    lastUpdated: 20120806213744
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-example_2.10.0-RC2:
+    lastUpdated: 20121107162723
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-example_2.10.0-RC3:
+    lastUpdated: 20121123131949
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-example_2.10.0-RC5:
+    lastUpdated: 20121209194027
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-example_2.9.2:
+    lastUpdated: 20130317200827
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz-example_2.9.3-RC1:
+    lastUpdated: 20130104133909
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-full_2.10:
+    lastUpdated: 20130102093637
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-full_2.9.2:
+    lastUpdated: 20120416083851
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  scalaz-full_2.9.3-RC1:
+    lastUpdated: 20130104133909
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo-scalacheck_2.10:
+    lastUpdated: 20130102093638
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo-scalacheck_2.9.2:
+    lastUpdated: 20120416083859
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo-scalacheck_2.9.3-RC1:
+    lastUpdated: 20130104133915
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo_2.10:
+    lastUpdated: 20130102093638
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo_2.9.2:
+    lastUpdated: 20120416083857
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  scalaz-geo_2.9.3-RC1:
+    lastUpdated: 20130104133922
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-http_2.10:
+    lastUpdated: 20130102093639
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-http_2.9.2:
+    lastUpdated: 20120416083900
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  scalaz-http_2.9.3-RC1:
+    lastUpdated: 20130104133923
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-iteratee_2.10:
+    lastUpdated: 20170418153101
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_2.10.0-M5:
+    lastUpdated: 20120724205310
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-iteratee_2.10.0-M6:
+    lastUpdated: 20120806213745
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-iteratee_2.10.0-M7:
+    lastUpdated: 20120821222606
+    latest: 7.0.0-M3
+    release: 7.0.0-M3
+    versions:
+      - 7.0.0-M3
+  scalaz-iteratee_2.10.0-RC2:
+    lastUpdated: 20121107162726
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-iteratee_2.10.0-RC3:
+    lastUpdated: 20121123131950
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-iteratee_2.10.0-RC5:
+    lastUpdated: 20121209194029
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-iteratee_2.11:
+    lastUpdated: 20170418153102
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_2.11.0-M7:
+    lastUpdated: 20131124170900
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-iteratee_2.11.0-M8:
+    lastUpdated: 20140206201441
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-iteratee_2.11.0-RC1:
+    lastUpdated: 20140309185154
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-iteratee_2.11.0-RC3:
+    lastUpdated: 20140320193712
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-iteratee_2.11.0-RC4:
+    lastUpdated: 20140408181405
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-iteratee_2.12:
+    lastUpdated: 20170418153103
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_2.12.0-M1:
+    lastUpdated: 20150918161353
+    latest: 7.2.0-M2
+    release: 7.2.0-M2
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+      - 7.2.0-M2
+  scalaz-iteratee_2.12.0-M2:
+    lastUpdated: 20160206175235
+    latest: 7.2.0-M4
+    release: 7.2.0-M4
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+  scalaz-iteratee_2.12.0-M3:
+    lastUpdated: 20160521083354
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-iteratee_2.12.0-M4:
+    lastUpdated: 20160614190614
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-iteratee_2.12.0-M5:
+    lastUpdated: 20160909151826
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-iteratee_2.12.0-RC1:
+    lastUpdated: 20161027155041
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-iteratee_2.12.0-RC2:
+    lastUpdated: 20161027155041
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-iteratee_2.13.0-M1:
+    lastUpdated: 20170420065352
+    latest: 7.2.11
+    release: 7.2.11
+    versions:
+      - 7.2.11
+  scalaz-iteratee_2.9.2:
+    lastUpdated: 20160409031739
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-iteratee_2.9.3:
+    lastUpdated: 20170418153103
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-iteratee_native0.1_2.11:
+    lastUpdated: 20170414074225
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_sjs0.6_2.10:
+    lastUpdated: 20170414074226
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_sjs0.6_2.11:
+    lastUpdated: 20170414074226
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_sjs0.6_2.12:
+    lastUpdated: 20170414074227
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.7
+      - 7.2.8
+      - 7.2.9
+      - 7.2.10
+      - 7.2.11
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-iteratee_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160521083358
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-iteratee_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160614190616
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-iteratee_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160909151828
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-iteratee_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160909151828
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-iteratee_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161027013150
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.2.6
+      - 7.2.7
+      - 7.3.0-M6
+  scalaz-iterv_2.10:
+    lastUpdated: 20160409031740
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-iterv_2.10.0-M5:
+    lastUpdated: 20120724205311
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-iterv_2.10.0-M6:
+    lastUpdated: 20120806213747
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-iterv_2.10.0-M7:
+    lastUpdated: 20120821222607
+    latest: 7.0.0-M3
+    release: 7.0.0-M3
+    versions:
+      - 7.0.0-M3
+  scalaz-iterv_2.10.0-RC2:
+    lastUpdated: 20121107162728
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-iterv_2.10.0-RC3:
+    lastUpdated: 20121123131955
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-iterv_2.10.0-RC5:
+    lastUpdated: 20121209194032
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-iterv_2.11:
+    lastUpdated: 20160409031741
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-iterv_2.11.0-M7:
+    lastUpdated: 20131124170901
+    latest: 7.0.5
+    release: 7.0.5
+    versions:
+      - 7.0.5
+  scalaz-iterv_2.11.0-M8:
+    lastUpdated: 20140127213107
+    latest: 7.0.5
+    release: 7.0.5
+    versions:
+      - 7.0.5
+  scalaz-iterv_2.11.0-RC1:
+    lastUpdated: 20140305064438
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-iterv_2.11.0-RC3:
+    lastUpdated: 20140320193712
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-iterv_2.11.0-RC4:
+    lastUpdated: 20140408181406
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-iterv_2.12:
+    lastUpdated: 20161102165339
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.9
+  scalaz-iterv_2.12.0-M1:
+    lastUpdated: 20150814235711
+    latest: 7.0.8
+    release: 7.0.8
+    versions:
+      - 7.0.7
+      - 7.0.8
+  scalaz-iterv_2.12.0-M2:
+    lastUpdated: 20150717000146
+    latest: 7.0.8
+    release: 7.0.8
+    versions:
+      - 7.0.8
+  scalaz-iterv_2.12.0-M3:
+    lastUpdated: 20160409031741
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.8
+      - 7.0.9
+  scalaz-iterv_2.12.0-M4:
+    lastUpdated: 20160409031742
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.9
+  scalaz-iterv_2.9.2:
+    lastUpdated: 20160409031742
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-iterv_2.9.3:
+    lastUpdated: 20160409031743
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-scalacheck-binding_2.10:
+    lastUpdated: 20170418153104
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_2.10.0-M5:
+    lastUpdated: 20120724205312
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-scalacheck-binding_2.10.0-M6:
+    lastUpdated: 20120806213748
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-scalacheck-binding_2.10.0-RC2:
+    lastUpdated: 20121107162730
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-scalacheck-binding_2.10.0-RC3:
+    lastUpdated: 20121123131957
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-scalacheck-binding_2.10.0-RC5:
+    lastUpdated: 20121209194033
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-scalacheck-binding_2.11:
+    lastUpdated: 20170418153105
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.0-M1
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_2.11.0-M7:
+    lastUpdated: 20131124170902
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-scalacheck-binding_2.11.0-M8:
+    lastUpdated: 20140206201444
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-scalacheck-binding_2.11.0-RC1:
+    lastUpdated: 20140309185157
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-scalacheck-binding_2.11.0-RC3:
+    lastUpdated: 20140320193713
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-scalacheck-binding_2.11.0-RC4:
+    lastUpdated: 20140408181406
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-scalacheck-binding_2.12:
+    lastUpdated: 20170418153106
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_2.12.0-M1:
+    lastUpdated: 20150918161356
+    latest: 7.2.0-M2
+    release: 7.2.0-M2
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+      - 7.2.0-M2
+  scalaz-scalacheck-binding_2.12.0-M2:
+    lastUpdated: 20160206175238
+    latest: 7.2.0-M4
+    release: 7.2.0-M4
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.2.0-M2
+      - 7.2.0-M3
+      - 7.2.0-M4
+  scalaz-scalacheck-binding_2.12.0-M3:
+    lastUpdated: 20160521083424
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.2.0-M4
+      - 7.2.0-M5
+      - 7.2.0-RC1
+      - 7.2.0
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-scalacheck-binding_2.12.0-M4:
+    lastUpdated: 20160614190618
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-scalacheck-binding_2.12.0-M5:
+    lastUpdated: 20160909151830
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-scalacheck-binding_2.12.0-RC1:
+    lastUpdated: 20161027155042
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-scalacheck-binding_2.12.0-RC2:
+    lastUpdated: 20161027155042
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.1.10
+      - 7.1.11
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.3.0-M6
+  scalaz-scalacheck-binding_2.13.0-M1:
+    lastUpdated: 20170420072856
+    latest: 7.2.11-scalacheck-1.13
+    release: 7.2.11-scalacheck-1.13
+    versions:
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+  scalaz-scalacheck-binding_2.9.2:
+    lastUpdated: 20160409031745
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-scalacheck-binding_2.9.3:
+    lastUpdated: 20170418153107
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-scalacheck-binding_2.9.3-RC1:
+    lastUpdated: 20130104133924
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-scalacheck-binding_sjs0.6_2.10:
+    lastUpdated: 20170414074232
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_sjs0.6_2.11:
+    lastUpdated: 20170414074233
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M1
+      - 7.3.0-M2
+      - 7.3.0-M3
+      - 7.3.0-M4
+      - 7.3.0-M5
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_sjs0.6_2.12:
+    lastUpdated: 20170414074234
+    latest: 7.3.0-M11
+    release: 7.3.0-M11
+    versions:
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.2.8
+      - 7.2.8-scalacheck-1.13
+      - 7.2.9
+      - 7.2.9-scalacheck-1.13
+      - 7.2.10
+      - 7.2.10-scalacheck-1.13
+      - 7.2.11
+      - 7.2.11-scalacheck-1.13
+      - 7.3.0-M6
+      - 7.3.0-M7
+      - 7.3.0-M8
+      - 7.3.0-M9
+      - 7.3.0-M10
+      - 7.3.0-M11
+  scalaz-scalacheck-binding_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160521083426
+    latest: 7.3.0-M2
+    release: 7.3.0-M2
+    versions:
+      - 7.2.1
+      - 7.2.2
+      - 7.2.3
+      - 7.3.0-M1
+      - 7.3.0-M2
+  scalaz-scalacheck-binding_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160614190620
+    latest: 7.3.0-M3
+    release: 7.3.0-M3
+    versions:
+      - 7.2.2
+      - 7.2.3
+      - 7.2.4
+      - 7.3.0-M2
+      - 7.3.0-M3
+  scalaz-scalacheck-binding_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160909151834
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.4
+      - 7.2.5
+      - 7.2.6
+      - 7.3.0-M4
+      - 7.3.0-M5
+  scalaz-scalacheck-binding_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160909151835
+    latest: 7.3.0-M5
+    release: 7.3.0-M5
+    versions:
+      - 7.2.6
+      - 7.3.0-M5
+  scalaz-scalacheck-binding_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161027013156
+    latest: 7.3.0-M6
+    release: 7.3.0-M6
+    versions:
+      - 7.2.6
+      - 7.2.7
+      - 7.2.7-scalacheck-1.13
+      - 7.3.0-M6
+  scalaz-test-suite_2.10:
+    lastUpdated: 20130102093640
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-test-suite_2.9.2:
+    lastUpdated: 20120416083853
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  scalaz-test-suite_2.9.3-RC1:
+    lastUpdated: 20130104133925
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+  scalaz-tests_2.10:
+    lastUpdated: 20130317200835
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz-tests_2.10.0-M5:
+    lastUpdated: 20120724205313
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-tests_2.10.0-M6:
+    lastUpdated: 20120806213750
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M2
+  scalaz-tests_2.10.0-RC2:
+    lastUpdated: 20121107162732
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-tests_2.10.0-RC3:
+    lastUpdated: 20121123131959
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-tests_2.10.0-RC5:
+    lastUpdated: 20121209194033
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-tests_2.9.2:
+    lastUpdated: 20130317200835
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz-typelevel_2.10:
+    lastUpdated: 20170418153107
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-typelevel_2.10.0-M5:
+    lastUpdated: 20120724205313
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-typelevel_2.10.0-M6:
+    lastUpdated: 20120806213752
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-typelevel_2.10.0-RC2:
+    lastUpdated: 20121107162734
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-typelevel_2.10.0-RC3:
+    lastUpdated: 20121123132000
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-typelevel_2.10.0-RC5:
+    lastUpdated: 20121209194034
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-typelevel_2.11:
+    lastUpdated: 20170418153109
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-typelevel_2.11.0-M7:
+    lastUpdated: 20131124170903
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-typelevel_2.11.0-M8:
+    lastUpdated: 20140206201447
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-typelevel_2.11.0-RC1:
+    lastUpdated: 20140309185158
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-typelevel_2.11.0-RC3:
+    lastUpdated: 20140320193713
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-typelevel_2.11.0-RC4:
+    lastUpdated: 20140408181406
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-typelevel_2.12:
+    lastUpdated: 20170418153109
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-typelevel_2.12.0-M1:
+    lastUpdated: 20150918161358
+    latest: 7.1.4
+    release: 7.1.4
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+  scalaz-typelevel_2.12.0-M2:
+    lastUpdated: 20160206175241
+    latest: 7.1.7
+    release: 7.1.7
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+  scalaz-typelevel_2.12.0-M3:
+    lastUpdated: 20160424115614
+    latest: 7.1.8
+    release: 7.1.8
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+  scalaz-typelevel_2.12.0-M4:
+    lastUpdated: 20160424115615
+    latest: 7.1.8
+    release: 7.1.8
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+  scalaz-typelevel_2.12.0-M5:
+    lastUpdated: 20160908025455
+    latest: 7.1.10
+    release: 7.1.10
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+  scalaz-typelevel_2.12.0-RC1:
+    lastUpdated: 20161027155044
+    latest: 7.1.11
+    release: 7.1.11
+    versions:
+      - 7.1.10
+      - 7.1.11
+  scalaz-typelevel_2.12.0-RC2:
+    lastUpdated: 20161027155044
+    latest: 7.1.11
+    release: 7.1.11
+    versions:
+      - 7.1.10
+      - 7.1.11
+  scalaz-typelevel_2.9.2:
+    lastUpdated: 20160409031748
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-typelevel_2.9.3:
+    lastUpdated: 20170418153110
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-xml_2.10:
+    lastUpdated: 20170418153111
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-xml_2.10.0-M5:
+    lastUpdated: 20120724205314
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz-xml_2.10.0-M6:
+    lastUpdated: 20120806213754
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz-xml_2.10.0-RC2:
+    lastUpdated: 20121107162736
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz-xml_2.10.0-RC3:
+    lastUpdated: 20121123132001
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz-xml_2.10.0-RC5:
+    lastUpdated: 20121209194035
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz-xml_2.11:
+    lastUpdated: 20170418153112
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-xml_2.11.0-M7:
+    lastUpdated: 20131124170905
+    latest: 7.1.0-M4
+    release: 7.1.0-M4
+    versions:
+      - 7.0.5
+      - 7.1.0-M4
+  scalaz-xml_2.11.0-M8:
+    lastUpdated: 20140206201449
+    latest: 7.1.0-M5
+    release: 7.1.0-M5
+    versions:
+      - 7.0.5
+      - 7.1.0-M5
+  scalaz-xml_2.11.0-RC1:
+    lastUpdated: 20140309185200
+    latest: 7.1.0-M6
+    release: 7.1.0-M6
+    versions:
+      - 7.0.6
+      - 7.1.0-M6
+  scalaz-xml_2.11.0-RC3:
+    lastUpdated: 20140320193714
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-xml_2.11.0-RC4:
+    lastUpdated: 20140408181407
+    latest: 7.0.6
+    release: 7.0.6
+    versions:
+      - 7.0.6
+  scalaz-xml_2.12:
+    lastUpdated: 20170418153113
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.9
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz-xml_2.12.0-M1:
+    lastUpdated: 20150918161401
+    latest: 7.1.4
+    release: 7.1.4
+    versions:
+      - 7.0.7
+      - 7.0.8
+      - 7.1.2
+      - 7.1.4
+  scalaz-xml_2.12.0-M2:
+    lastUpdated: 20160206175243
+    latest: 7.1.7
+    release: 7.1.7
+    versions:
+      - 7.0.8
+      - 7.1.3
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+  scalaz-xml_2.12.0-M3:
+    lastUpdated: 20160424115617
+    latest: 7.1.8
+    release: 7.1.8
+    versions:
+      - 7.0.8
+      - 7.0.9
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+  scalaz-xml_2.12.0-M4:
+    lastUpdated: 20160424115617
+    latest: 7.1.8
+    release: 7.1.8
+    versions:
+      - 7.0.9
+      - 7.1.7
+      - 7.1.8
+  scalaz-xml_2.12.0-M5:
+    lastUpdated: 20160908025459
+    latest: 7.1.10
+    release: 7.1.10
+    versions:
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+  scalaz-xml_2.12.0-RC1:
+    lastUpdated: 20161027155046
+    latest: 7.1.11
+    release: 7.1.11
+    versions:
+      - 7.1.10
+      - 7.1.11
+  scalaz-xml_2.12.0-RC2:
+    lastUpdated: 20161027155046
+    latest: 7.1.11
+    release: 7.1.11
+    versions:
+      - 7.1.10
+      - 7.1.11
+  scalaz-xml_2.9.2:
+    lastUpdated: 20160409031752
+    latest: 7.0.9
+    release: 7.0.9
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+  scalaz-xml_2.9.3:
+    lastUpdated: 20170418153114
+    latest: 7.1.13
+    release: 7.1.13
+    versions:
+      - 7.0.0-RC1
+      - 7.0.0-RC2
+      - 7.0.0
+      - 7.0.1
+      - 7.0.2
+      - 7.0.3
+      - 7.0.4
+      - 7.0.5
+      - 7.0.6
+      - 7.0.7
+      - 7.0.8
+      - 7.0.9
+      - 7.1.0-M1
+      - 7.1.0-M2
+      - 7.1.0-M3
+      - 7.1.0-M4
+      - 7.1.0-M5
+      - 7.1.0-M6
+      - 7.1.0-M7
+      - 7.1.0-RC1
+      - 7.1.0-RC2
+      - 7.1.0
+      - 7.1.1
+      - 7.1.2
+      - 7.1.4
+      - 7.1.5
+      - 7.1.6
+      - 7.1.7
+      - 7.1.8
+      - 7.1.9
+      - 7.1.10
+      - 7.1.11
+      - 7.1.12
+      - 7.1.13
+  scalaz_2.10:
+    lastUpdated: 20130317200840
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz_2.10.0-M5:
+    lastUpdated: 20120724205315
+    latest: 7.0.0-M1
+    release: 7.0.0-M1
+    versions:
+      - 7.0.0-M1
+  scalaz_2.10.0-M6:
+    lastUpdated: 20120806213755
+    latest: 7.0.0-M2
+    release: 7.0.0-M2
+    versions:
+      - 7.0.0-M1
+      - 7.0.0-M2
+  scalaz_2.10.0-RC2:
+    lastUpdated: 20121107162737
+    latest: 7.0.0-M4
+    release: 7.0.0-M4
+    versions:
+      - 7.0.0-M4
+  scalaz_2.10.0-RC3:
+    lastUpdated: 20121123132002
+    latest: 7.0.0-M5
+    release: 7.0.0-M5
+    versions:
+      - 7.0.0-M5
+  scalaz_2.10.0-RC5:
+    lastUpdated: 20121209194035
+    latest: 7.0.0-M6
+    release: 7.0.0-M6
+    versions:
+      - 7.0.0-M6
+  scalaz_2.9.2:
+    lastUpdated: 20130317200840
+    latest: 7.0.0-M9
+    release: 7.0.0-M9
+    versions:
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 7.0.0-M1
+      - 7.0.0-M2
+      - 7.0.0-M3
+      - 7.0.0-M4
+      - 7.0.0-M5
+      - 7.0.0-M6
+      - 7.0.0-M7
+      - 7.0.0-M8
+      - 7.0.0-M9
+  scalaz_2.9.3-RC1:
+    lastUpdated: 20130104133926
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.3
+      - 6.0.4
+

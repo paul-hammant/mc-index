@@ -1,0 +1,38 @@
+artifacts:
+  android-api:
+    lastUpdated: 20160218180059
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  java-api:
+    lastUpdated: 20160218172438
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.1-hotfix
+      - 1.5.2
+      - 1.6.0
+      - 2.0.0
+      - 2.0.1
+  java-api-extended:
+    lastUpdated: 20150615171150
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+  rxandroid-api:
+    lastUpdated: 20160218181622
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+

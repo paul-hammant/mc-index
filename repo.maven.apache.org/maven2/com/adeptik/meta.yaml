@@ -1,0 +1,40 @@
+artifacts:
+  AlgorithmExecutorContracts:
+    lastUpdated: 20170330084152
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  AlgorithmPlugin:
+    lastUpdated: 20170330091553
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  AlgorithmRuntime:
+    lastUpdated: 20170330094716
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  CommandLineUtils:
+    lastUpdated: 20170330072949
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  GatewayContracts:
+    lastUpdated: 20170330095653
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+  GatewayInterface:
+    lastUpdated: 20170330100242
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,64 @@
+artifacts:
+  sakai-signup-tool:
+    lastUpdated: 20160422165022
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  signup:
+    lastUpdated: 20170225000153
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  signup-api:
+    lastUpdated: 20170225000153
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  signup-impl:
+    lastUpdated: 20170225000154
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  signup-pack:
+    lastUpdated: 20160422165024
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+

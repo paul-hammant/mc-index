@@ -1,0 +1,2225 @@
+artifacts:
+  adc-mgt-feature:
+    lastUpdated: 20131105223048
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  apache-stratos:
+    lastUpdated: 20150811060321
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  apache-stratos-agent:
+    lastUpdated: 20131105223048
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  apache-stratos-aws-extension:
+    lastUpdated: 20160810162141
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-cartridge-agent:
+    lastUpdated: 20150811060324
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  apache-stratos-cep-artifacts:
+    lastUpdated: 20151017213446
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+  apache-stratos-cep-extension:
+    lastUpdated: 20160810162143
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-cli:
+    lastUpdated: 20160810162143
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-cli-parent:
+    lastUpdated: 20160810162147
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-das-extension:
+    lastUpdated: 20160810162147
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-features-parent:
+    lastUpdated: 20131105223145
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  apache-stratos-haproxy-extension:
+    lastUpdated: 20160810162148
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-lvs-extension:
+    lastUpdated: 20160810162156
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-nginx-extension:
+    lastUpdated: 20160810162157
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-python-cartridge-agent:
+    lastUpdated: 20150811060410
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.1.0
+      - 4.1.1
+  apache-stratos-python-cli-parent:
+    lastUpdated: 20160810162201
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  apache-stratos-sc:
+    lastUpdated: 20131105222839
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  autoscaler-feature:
+    lastUpdated: 20140618100814
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  autoscaler-features:
+    lastUpdated: 20160810162202
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  aws-ec2:
+    lastUpdated: 20150906060115
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.7.1-stratos
+      - 1.8.1-stratos
+      - 1.8.1-stratosv1
+      - 1.9.1
+  cartidge-agent:
+    lastUpdated: 20160810162203
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  cartridge-agent:
+    lastUpdated: 20131105222932
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  cartridge-mgt-feature:
+    lastUpdated: 20140618100817
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  cep-extensions:
+    lastUpdated: 20160810162203
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  cep-features:
+    lastUpdated: 20160810162203
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  cloud-controller-feature:
+    lastUpdated: 20140618100817
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  cloud-controller-features:
+    lastUpdated: 20160810162203
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  cloud-services-icons:
+    lastUpdated: 20131105222958
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  cloudstack:
+    lastUpdated: 20150906060121
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  common-feature:
+    lastUpdated: 20140618100819
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  common-features:
+    lastUpdated: 20160810162204
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  das-extension:
+    lastUpdated: 20160810162204
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  ec2:
+    lastUpdated: 20150906060136
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.7.1-stratos
+      - 1.9.1
+  features-dashboard:
+    lastUpdated: 20131105223130
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gapp-feature:
+    lastUpdated: 20140618100822
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  gce:
+    lastUpdated: 20150811060413
+    latest: 1.8.1-stratosv1
+    release: 1.8.1-stratosv1
+    versions:
+      - 1.8.1-stratos
+      - 1.8.1-stratosv1
+  google-cloud-storage:
+    lastUpdated: 20150906060142
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  google-compute-engine:
+    lastUpdated: 20150906060143
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  google-jclouds-labs:
+    lastUpdated: 20160810162205
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  googlecloud:
+    lastUpdated: 20150906060144
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  guice:
+    lastUpdated: 20150906060147
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  guice-assistedinject:
+    lastUpdated: 20150906060148
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  guice-multibindings:
+    lastUpdated: 20150906060148
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  java-cartridge-agent-distribution:
+    lastUpdated: 20160810162207
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  jclouds-blobstore:
+    lastUpdated: 20150906060200
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-bouncycastle:
+    lastUpdated: 20150906060202
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-compute:
+    lastUpdated: 20150906060203
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-core:
+    lastUpdated: 20150906060204
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-enterprise:
+    lastUpdated: 20150906060204
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-joda:
+    lastUpdated: 20150906060205
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-netty:
+    lastUpdated: 20150906060208
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  jclouds-sshj:
+    lastUpdated: 20150906060208
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  kubernetes-api:
+    lastUpdated: 20150906060210
+    latest: 2.2.16-stratosv1
+    release: 2.2.16-stratosv1
+    versions:
+      - 2.1.11-stratosv1
+      - 2.2.16
+      - 2.2.16-stratosv1
+  kubernetes-model:
+    lastUpdated: 20150724085001
+    latest: 2.1.11-stratosv1
+    release: 2.1.11-stratosv1
+    versions:
+      - 2.1.11-stratosv1
+  load-balance-agent-feature:
+    lastUpdated: 20131105222933
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  loadbalancer-features:
+    lastUpdated: 20160810162224
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  logging-mgt-feature:
+    lastUpdated: 20150811060440
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  messaging-features:
+    lastUpdated: 20160810162224
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  metering-service-capps:
+    lastUpdated: 20160810162225
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  mock-iaas-features:
+    lastUpdated: 20160810162225
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  monitoring-service-capps:
+    lastUpdated: 20160810162225
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  net.schmizz.sshj:
+    lastUpdated: 20150906060318
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.1
+  oauth:
+    lastUpdated: 20150906060319
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  openstack-common:
+    lastUpdated: 20150906060320
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  openstack-keystone:
+    lastUpdated: 20150906060321
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  openstack-neutron:
+    lastUpdated: 20150906060351
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.8.1-stratos
+      - 1.8.1-stratosv1
+      - 1.9.1
+  openstack-nova:
+    lastUpdated: 20150906060353
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.7.1-stratos
+      - 1.9.1
+  org.apache.cartridge.agent.feature:
+    lastUpdated: 20131105222837
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.account.mgt:
+    lastUpdated: 20140618100833
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.account.mgt.stub:
+    lastUpdated: 20140618100833
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  org.apache.stratos.account.mgt.ui:
+    lastUpdated: 20140618100833
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.activation:
+    lastUpdated: 20140618100834
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.adc.instanceinfo.mgt.stub:
+    lastUpdated: 20140618100835
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.adc.mgt:
+    lastUpdated: 20131105222922
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.mgt.feature:
+    lastUpdated: 20131105222936
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.mgt.server.feature:
+    lastUpdated: 20131105222935
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.reponotification.service.stub:
+    lastUpdated: 20140618100835
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.adc.repositoryinformation.service.stub:
+    lastUpdated: 20131105223139
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.topology.mgt:
+    lastUpdated: 20131105223033
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.topology.mgt.feature:
+    lastUpdated: 20131105222942
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.adc.topologymgt.service.stub:
+    lastUpdated: 20131105222821
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.autoscaler:
+    lastUpdated: 20160810162228
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.autoscaler.feature:
+    lastUpdated: 20160810162228
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.autoscaler.service.stub:
+    lastUpdated: 20160810162229
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.aws.extension:
+    lastUpdated: 20151017213747
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.4
+  org.apache.stratos.billing.mgt.stub:
+    lastUpdated: 20140618100838
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.cartridge.agent:
+    lastUpdated: 20160810162230
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cartridge.agent.server.feature:
+    lastUpdated: 20131105222932
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.cartridge.agent.stub:
+    lastUpdated: 20140618100839
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.cartridge.messages:
+    lastUpdated: 20131105222946
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.cartridge.messages.feature:
+    lastUpdated: 20131105222838
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.cartridge.mgt.ui:
+    lastUpdated: 20140618100839
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.cartridge.mgt.ui.feature:
+    lastUpdated: 20140618100840
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.cep.310.extension:
+    lastUpdated: 20151017213805
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.3
+      - 4.1.4
+  org.apache.stratos.cep.extension:
+    lastUpdated: 20150906060405
+    latest: 4.1.2
+    release: 4.1.2
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+  org.apache.stratos.cep300.extension:
+    lastUpdated: 20160810162230
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cep310.extension:
+    lastUpdated: 20160810162231
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cli:
+    lastUpdated: 20160810162231
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cloud.controller:
+    lastUpdated: 20160810162232
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cloud.controller.feature:
+    lastUpdated: 20160810162232
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.cloud.controller.service.stub:
+    lastUpdated: 20160810162233
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.common:
+    lastUpdated: 20160810162234
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.common.feature:
+    lastUpdated: 20160810162235
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.common.server.feature:
+    lastUpdated: 20160810162235
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.common.stub:
+    lastUpdated: 20140618100850
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  org.apache.stratos.common.ui.feature:
+    lastUpdated: 20150811060503
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.custom.handlers:
+    lastUpdated: 20160810162235
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.custom.handlers.feature:
+    lastUpdated: 20160810162236
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.das.artifacts:
+    lastUpdated: 20151017213824
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.4
+  org.apache.stratos.das.extension:
+    lastUpdated: 20160810162236
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.das.extension.spark.time.udf:
+    lastUpdated: 20151017213843
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.4
+  org.apache.stratos.deployment:
+    lastUpdated: 20150811060505
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.deployment.feature:
+    lastUpdated: 20150811060506
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.email.sender:
+    lastUpdated: 20150811060509
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.event.processor.feature:
+    lastUpdated: 20160810162237
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.event.processor.server.feature:
+    lastUpdated: 20160810162237
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.feature:
+    lastUpdated: 20131105222825
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.gapp.feature:
+    lastUpdated: 20140618100854
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.gapp.server.feature:
+    lastUpdated: 20140618100854
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.gapp.ui.feature:
+    lastUpdated: 20140618100855
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.integration.common:
+    lastUpdated: 20160810162237
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.keystore.mgt:
+    lastUpdated: 20150724085338
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+  org.apache.stratos.kubernetes.client:
+    lastUpdated: 20160810162238
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.lb.agent:
+    lastUpdated: 20131105223141
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.agent.feature:
+    lastUpdated: 20131105223139
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.agent.server.feature:
+    lastUpdated: 20131105223124
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.agent.stub:
+    lastUpdated: 20131105223145
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.agent.ui.feature:
+    lastUpdated: 20131105222822
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.common:
+    lastUpdated: 20131105222938
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.common.feature:
+    lastUpdated: 20131105223117
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.endpoint:
+    lastUpdated: 20131105223034
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.lb.endpoint.server.feature:
+    lastUpdated: 20131105223129
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.load.balancer:
+    lastUpdated: 20160810162238
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.load.balancer.common:
+    lastUpdated: 20160810162239
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.load.balancer.common.feature:
+    lastUpdated: 20160810162239
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.load.balancer.extension.api:
+    lastUpdated: 20160810162240
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.load.balancer.feature:
+    lastUpdated: 20160810162240
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.logging.mgt.feature:
+    lastUpdated: 20150811060523
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.logging.view.ui:
+    lastUpdated: 20150811060525
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.manager:
+    lastUpdated: 20160810162241
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.manager.cleanup.notification.stub:
+    lastUpdated: 20140618100902
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  org.apache.stratos.manager.dashboard.stub:
+    lastUpdated: 20140618100902
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.manager.dashboard.ui:
+    lastUpdated: 20131105222919
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.manager.feature:
+    lastUpdated: 20160810162241
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.manager.login.ui:
+    lastUpdated: 20131105223123
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.manager.server.feature:
+    lastUpdated: 20160810162242
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.manager.service.stub:
+    lastUpdated: 20160810162242
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.manager.services.mgt:
+    lastUpdated: 20131105223017
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.manager.stub:
+    lastUpdated: 20140618100905
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  org.apache.stratos.manager.styles:
+    lastUpdated: 20160810162243
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.manager.styles.feature:
+    lastUpdated: 20160810162243
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.mediator.autoscale:
+    lastUpdated: 20131105222815
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.mediator.autoscale.feature:
+    lastUpdated: 20131105222946
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.messaging:
+    lastUpdated: 20160810162244
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.messaging.feature:
+    lastUpdated: 20160810162244
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.metadata.client:
+    lastUpdated: 20160810162245
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.metadata.client.feature:
+    lastUpdated: 20160810162245
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.metadata.service:
+    lastUpdated: 20160810162245
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.metadata.service.feature:
+    lastUpdated: 20160810162246
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.mock.iaas:
+    lastUpdated: 20160810162246
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.mock.iaas.api:
+    lastUpdated: 20160810162247
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.mock.iaas.api.feature:
+    lastUpdated: 20160810162248
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.mock.iaas.client:
+    lastUpdated: 20160810162248
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.python.cartridge.agent:
+    lastUpdated: 20160810162249
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.python.cartridge.agent.integration.common:
+    lastUpdated: 20160810162249
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.python.cli:
+    lastUpdated: 20160810162249
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.redirector.servlet:
+    lastUpdated: 20140618100909
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.redirector.servlet.stub:
+    lastUpdated: 20140618100910
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.redirector.servlet.ui:
+    lastUpdated: 20140618100910
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.register.ui:
+    lastUpdated: 20140618100911
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.rest.endpoint:
+    lastUpdated: 20160810162250
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.rest.endpoint.feature:
+    lastUpdated: 20160810162250
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  org.apache.stratos.server.feature:
+    lastUpdated: 20131105223100
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.sso.redirector.ui:
+    lastUpdated: 20150811060602
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.status.monitor:
+    lastUpdated: 20140618100916
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.agent:
+    lastUpdated: 20140618100917
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.agent.feature:
+    lastUpdated: 20140618100918
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.core:
+    lastUpdated: 20140618100919
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.feature:
+    lastUpdated: 20140618100919
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.server.feature:
+    lastUpdated: 20140618100923
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.ui:
+    lastUpdated: 20140618100925
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.status.monitor.ui.feature:
+    lastUpdated: 20140618100927
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.activity:
+    lastUpdated: 20150811060602
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.tenant.activity.server.feature:
+    lastUpdated: 20150811060602
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  org.apache.stratos.tenant.activity.stub:
+    lastUpdated: 20140618100932
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.activity.ui:
+    lastUpdated: 20140618100933
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.activity.ui.feature:
+    lastUpdated: 20140618100934
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.dispatcher:
+    lastUpdated: 20140618100934
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt:
+    lastUpdated: 20140618100934
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.core:
+    lastUpdated: 20140618100935
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.core.feature:
+    lastUpdated: 20140618100936
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.email.sender:
+    lastUpdated: 20140618100936
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.server.feature:
+    lastUpdated: 20140618100937
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.stub:
+    lastUpdated: 20140618100937
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  org.apache.stratos.tenant.mgt.ui:
+    lastUpdated: 20140618100938
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.register.gapp.stub:
+    lastUpdated: 20140618100939
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.tenant.register.stub:
+    lastUpdated: 20140618100940
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.theme.mgt:
+    lastUpdated: 20140618100943
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.theme.mgt.stub:
+    lastUpdated: 20140618100944
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.theme.mgt.ui:
+    lastUpdated: 20140618100945
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.throttle.stub:
+    lastUpdated: 20140618100947
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.throttling.agent:
+    lastUpdated: 20131105223012
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.throttling.agent.feature:
+    lastUpdated: 20131105222938
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.throttling.agent.stub:
+    lastUpdated: 20140618100950
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.throttling.manager:
+    lastUpdated: 20131105223002
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.throttling.manager.feature:
+    lastUpdated: 20131105223125
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.throttling.stub:
+    lastUpdated: 20140618100950
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.throttling.ui:
+    lastUpdated: 20131105223111
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.ui.feature:
+    lastUpdated: 20131105223102
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage:
+    lastUpdated: 20131105223116
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.agent:
+    lastUpdated: 20131105223057
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.agent.feature:
+    lastUpdated: 20131105223112
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.feature:
+    lastUpdated: 20131105222929
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.meteringqueryds.stub:
+    lastUpdated: 20140618100952
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.usage.meteringsummarygenerationds.stub:
+    lastUpdated: 20140618100954
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.usage.server.feature:
+    lastUpdated: 20131105223009
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.stub:
+    lastUpdated: 20140618100954
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.usage.summary.helper:
+    lastUpdated: 20131105223055
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.ui:
+    lastUpdated: 20131105223134
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.usage.ui.feature:
+    lastUpdated: 20131105222924
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  org.apache.stratos.validate.domain:
+    lastUpdated: 20140618100955
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.validate.domain.stub:
+    lastUpdated: 20140618100956
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.apache.stratos.validate.domain.ui:
+    lastUpdated: 20140618100957
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  org.wso2.carbon.ui:
+    lastUpdated: 20150906060642
+    latest: 4.2.0-stratosv2
+    release: 4.2.0-stratosv2
+    versions:
+      - 4.2.0-stratos
+      - 4.2.0-stratosv1
+      - 4.2.0-stratosv2
+  python-agent-integration:
+    lastUpdated: 20150906060643
+    latest: 4.1.2
+    release: 4.1.2
+    versions:
+      - 4.1.2
+  python-agent-test-integration:
+    lastUpdated: 20160810162251
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  python-cartridge-agent-distribution:
+    lastUpdated: 20160810162251
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  python-cartridge-agent-integration:
+    lastUpdated: 20160810162252
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  python-cartridge-agent-parent:
+    lastUpdated: 20160810162252
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  python-cli-distribution:
+    lastUpdated: 20160810162252
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  rocoto:
+    lastUpdated: 20150906060805
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 6.1
+      - 6.1
+  spark-udfs:
+    lastUpdated: 20151017214000
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.4
+  status-monitor-feature:
+    lastUpdated: 20140618100959
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  stratos:
+    lastUpdated: 20160810162253
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-agent-parent:
+    lastUpdated: 20131105222822
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  stratos-components-parent:
+    lastUpdated: 20160810162253
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-controller-parent:
+    lastUpdated: 20131105222826
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  stratos-controller-profile-gen:
+    lastUpdated: 20131105223106
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  stratos-das-extension:
+    lastUpdated: 20151017214002
+    latest: 4.1.4
+    release: 4.1.4
+    versions:
+      - 4.1.4
+  stratos-dependencies-fabric8:
+    lastUpdated: 20160810162253
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-dependencies-jclouds:
+    lastUpdated: 20160810162253
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-dependents:
+    lastUpdated: 20160810162253
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-distribution:
+    lastUpdated: 20160810162254
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-extensions:
+    lastUpdated: 20160810162315
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-features:
+    lastUpdated: 20131105223143
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  stratos-features-parent:
+    lastUpdated: 20160810162315
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-integration:
+    lastUpdated: 20160810162315
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-load-balancer-extensions:
+    lastUpdated: 20160810162315
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-manager-features:
+    lastUpdated: 20160810162315
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-mgt-parent-feature:
+    lastUpdated: 20160810162316
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-parent:
+    lastUpdated: 20160810162316
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-products-parent:
+    lastUpdated: 20160810162316
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-profile-gen:
+    lastUpdated: 20160810162317
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-service-stubs-parent:
+    lastUpdated: 20160810162317
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-test-integration:
+    lastUpdated: 20160810162317
+    latest: 4.1.6
+    release: 4.1.6
+    versions:
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+  stratos-tools:
+    lastUpdated: 20150811060753
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.1.0
+      - 4.1.1
+  sts:
+    lastUpdated: 20150906061719
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.1
+  tenant-activity-feature:
+    lastUpdated: 20150811060753
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  tenant-mgt-feature:
+    lastUpdated: 20140618101011
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0-incubating
+      - 4.0.0
+  throttling-feature:
+    lastUpdated: 20131105222822
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  usage-feature:
+    lastUpdated: 20131105223058
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  vcloud:
+    lastUpdated: 20150811060756
+    latest: 1.8.1-stratosv1
+    release: 1.8.1-stratosv1
+    versions:
+      - 1.7.1-stratos
+      - 1.8.1-stratos
+      - 1.8.1-stratosv1
+  wso2agent-p2-profile-gen:
+    lastUpdated: 20131105223132
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+

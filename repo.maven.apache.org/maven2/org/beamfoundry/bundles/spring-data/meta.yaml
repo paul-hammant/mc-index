@@ -1,0 +1,51 @@
+artifacts:
+  org.beamfoundry.bundles.spring-data:
+    lastUpdated: 20150105144448
+    latest: 1.4.4.RELEASE_2
+    release: 1.4.4.RELEASE_2
+    versions:
+      - 1.4.4.RELEASE_1
+      - 1.4.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data-commons:
+    lastUpdated: 20150105144448
+    latest: 1.8.4.RELEASE_2
+    release: 1.8.4.RELEASE_2
+    versions:
+      - 1.8.4.RELEASE_1
+      - 1.8.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data-jpa:
+    lastUpdated: 20150105144449
+    latest: 1.6.4.RELEASE_2
+    release: 1.6.4.RELEASE_2
+    versions:
+      - 1.6.4.RELEASE_1
+      - 1.6.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data-mongodb:
+    lastUpdated: 20150105144452
+    latest: 1.5.4.RELEASE_2
+    release: 1.5.4.RELEASE_2
+    versions:
+      - 1.5.4.RELEASE_1
+      - 1.5.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data-mongodb-cross-store:
+    lastUpdated: 20150105144453
+    latest: 1.5.4.RELEASE_2
+    release: 1.5.4.RELEASE_2
+    versions:
+      - 1.5.4.RELEASE_1
+      - 1.5.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data-parent:
+    lastUpdated: 20150105144456
+    latest: 1.4.4.RELEASE_2
+    release: 1.4.4.RELEASE_2
+    versions:
+      - 1.4.4.RELEASE_1
+      - 1.4.4.RELEASE_2
+  org.beamfoundry.bundles.spring-data.features:
+    lastUpdated: 20150105144456
+    latest: 1.4.4.RELEASE_2
+    release: 1.4.4.RELEASE_2
+    versions:
+      - 1.4.4.RELEASE_1
+      - 1.4.4.RELEASE_2
+

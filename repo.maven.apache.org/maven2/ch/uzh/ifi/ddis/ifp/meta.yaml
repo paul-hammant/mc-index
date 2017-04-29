@@ -1,0 +1,59 @@
+artifacts:
+  cassandra-esper:
+    lastUpdated: 20130829072131
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+  cassandra-esper-integration-tests:
+    lastUpdated: 20130829072132
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+  cassandra-esper-parent:
+    lastUpdated: 20130829072132
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+  streams-esper:
+    lastUpdated: 20140206131247
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.3.0
+  testng4esper:
+    lastUpdated: 20130828093515
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+

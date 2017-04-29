@@ -1,0 +1,378 @@
+artifacts:
+  argonaut-cats_2.10:
+    lastUpdated: 20170409115330
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-cats_2.11:
+    lastUpdated: 20170409115331
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-cats_2.12:
+    lastUpdated: 20170409115331
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-cats_sjs0.6_2.10:
+    lastUpdated: 20170409115332
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-cats_sjs0.6_2.11:
+    lastUpdated: 20170409115332
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-cats_sjs0.6_2.12:
+    lastUpdated: 20170409115332
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-jawn_2.10:
+    lastUpdated: 20170409115333
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-jawn_2.11:
+    lastUpdated: 20170409115333
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-jawn_2.12:
+    lastUpdated: 20170409115333
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-monocle_2.10:
+    lastUpdated: 20170409115333
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-monocle_2.11:
+    lastUpdated: 20170409115334
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-monocle_2.12:
+    lastUpdated: 20170409115334
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-monocle_sjs0.6_2.10:
+    lastUpdated: 20170409115334
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-monocle_sjs0.6_2.11:
+    lastUpdated: 20170409115335
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-monocle_sjs0.6_2.12:
+    lastUpdated: 20170409115335
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-scalaz_2.10:
+    lastUpdated: 20170409115335
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-scalaz_2.11:
+    lastUpdated: 20170409115336
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-scalaz_2.12:
+    lastUpdated: 20170409115336
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut-scalaz_sjs0.6_2.10:
+    lastUpdated: 20170409115337
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-scalaz_sjs0.6_2.11:
+    lastUpdated: 20170409115337
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-scalaz_sjs0.6_2.12:
+    lastUpdated: 20170409115337
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut-unfiltered_2.10:
+    lastUpdated: 20160625133719
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 6.0-M3
+      - 6.0-M4
+      - 6.0-M5
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0.4
+      - 6.1
+      - 6.0
+      - 6.1
+  argonaut-unfiltered_2.11:
+    lastUpdated: 20160625133719
+    latest: 6.1
+    release: 6.1
+    versions:
+      - 6.0.4
+      - 6.1
+      - 6.1
+  argonaut-unfiltered_2.9.2:
+    lastUpdated: 20130811010124
+    latest: 6.0
+    release: 6.0
+    versions:
+      - 6.0-M3
+      - 6.0-M4
+      - 6.0-M5
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0
+  argonaut-unfiltered_2.9.3:
+    lastUpdated: 20130811010128
+    latest: 6.0
+    release: 6.0
+    versions:
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0
+  argonaut_2.10:
+    lastUpdated: 20170409115338
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.0-M1
+      - 6.0-M2
+      - 6.0-M3
+      - 6.0-M4
+      - 6.0-M5
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 6.1-M1
+      - 6.1-M2
+      - 6.1-M3
+      - 6.1-M4
+      - 6.1-M5
+      - 6.1-M6
+      - 6.1
+      - 6.1a
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.0
+      - 6.1
+      - 6.2
+  argonaut_2.11:
+    lastUpdated: 20170409115338
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.0.4
+      - 6.1-M3
+      - 6.1-M4
+      - 6.1-M5
+      - 6.1-M6
+      - 6.1
+      - 6.1a
+      - 6.2-M1
+      - 6.2-M2
+      - 6.2-M3
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.1
+      - 6.2
+  argonaut_2.11.0-RC1:
+    lastUpdated: 20140308094112
+    latest: 6.0.3
+    release: 6.0.3
+    versions:
+      - 6.0.3
+  argonaut_2.12:
+    lastUpdated: 20170409115338
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2-RC1
+      - 6.2-RC2
+      - 6.2
+      - 6.2
+  argonaut_2.9.2:
+    lastUpdated: 20140421100600
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0-M1
+      - 6.0-M2
+      - 6.0-M3
+      - 6.0-M4
+      - 6.0-M5
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 6.0
+  argonaut_2.9.3:
+    lastUpdated: 20140421100601
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0-M6
+      - 6.0-M7
+      - 6.0-RC1
+      - 6.0-RC2
+      - 6.0-RC3
+      - 6.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 6.0
+  argonaut_sjs0.6_2.10:
+    lastUpdated: 20170409115339
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut_sjs0.6_2.11:
+    lastUpdated: 20170409115339
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+  argonaut_sjs0.6_2.12:
+    lastUpdated: 20170409115339
+    latest: 6.2
+    release: 6.2
+    versions:
+      - 6.2
+      - 6.2
+

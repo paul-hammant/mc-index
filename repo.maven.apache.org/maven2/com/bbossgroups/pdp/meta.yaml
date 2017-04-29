@@ -1,0 +1,248 @@
+artifacts:
+  bboss-pdp-adminservice:
+    lastUpdated: 20170405154024
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.1
+      - 5.0.1.2
+      - 5.0.1.3
+      - 5.0.1.4
+      - 5.0.1.5
+      - 5.0.1.6
+  bboss-pdp-auth:
+    lastUpdated: 20170405154025
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.1
+      - 5.0.1.2
+      - 5.0.1.3
+      - 5.0.1.4
+      - 5.0.1.5
+      - 5.0.1.6
+  bboss-pdp-dict:
+    lastUpdated: 20170405154025
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.1
+      - 5.0.1.2
+      - 5.0.1.3
+      - 5.0.1.4
+      - 5.0.1.5
+      - 5.0.1.6
+  bboss-pdp-dubbo:
+    lastUpdated: 20170405154026
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.5
+      - 5.0.1.6
+  bboss-pdp-dubbo-inf:
+    lastUpdated: 20170405154027
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.5
+      - 5.0.1.6
+  bboss-pdp-fastwx:
+    lastUpdated: 20170405154028
+    latest: 5.0.1.6
+    release: 5.0.1.6
+    versions:
+      - 5.0.1.2
+      - 5.0.1.3
+      - 5.0.1.4
+      - 5.0.1.5
+      - 5.0.1.6
+  pdp-appbom:
+    lastUpdated: 20170405170152
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-application:
+    lastUpdated: 20170405170153
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-cms:
+    lastUpdated: 20170405170156
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-datasource:
+    lastUpdated: 20170405170156
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-desktop:
+    lastUpdated: 20170405170157
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-ldap:
+    lastUpdated: 20170405170158
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-log:
+    lastUpdated: 20170405170158
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-mail:
+    lastUpdated: 20170405170159
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-masterdata:
+    lastUpdated: 20170405170200
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-parameters-handler:
+    lastUpdated: 20170405170200
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-sanymbp:
+    lastUpdated: 20170405170201
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-sap:
+    lastUpdated: 20170405170440
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-sms:
+    lastUpdated: 20170405170441
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-system:
+    lastUpdated: 20170405170441
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-trans:
+    lastUpdated: 20170405170443
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-wordpdfdemo:
+    lastUpdated: 20170405170443
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-workflow:
+    lastUpdated: 20170405170444
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-workflow-bussiness:
+    lastUpdated: 20170405170445
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-workflow-demo:
+    lastUpdated: 20170405170445
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-workflow-web:
+    lastUpdated: 20170405170446
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+  pdp-wx:
+    lastUpdated: 20170405170447
+    latest: 5.0.2.4
+    release: 5.0.2.4
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.2.3
+      - 5.0.2.4
+

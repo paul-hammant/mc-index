@@ -1,0 +1,64 @@
+artifacts:
+  org.sonatype.p2.touchpoint:
+    lastUpdated: 20101127090853
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.sonatype.p2.touchpoint.mixin.equinox:
+    lastUpdated: 20101127090900
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.sonatype.p2.touchpoint.mixin.generic:
+    lastUpdated: 20101127090851
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  org.sonatype.p2.touchpoint.mixin.jsw:
+    lastUpdated: 20101127090858
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  p2-touchpoint-mixin-equinox:
+    lastUpdated: 20101115192839
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  p2-touchpoint-mixin-generic:
+    lastUpdated: 20101115192845
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  p2-touchpoint-mixin-jsw:
+    lastUpdated: 20101115192834
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  p2-touchpoint-runtime:
+    lastUpdated: 20101115192830
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  p2-touchpoints-aggregator:
+    lastUpdated: 20101127090902
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.4
+  p2-touchpoints-tycho-config:
+    lastUpdated: 20101127090903
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.4
+

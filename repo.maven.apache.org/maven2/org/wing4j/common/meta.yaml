@@ -1,0 +1,71 @@
+artifacts:
+  wing4j-common:
+    lastUpdated: 20170227014051
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-logtrack:
+    lastUpdated: 20170227014051
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-markdown:
+    lastUpdated: 20170227022940
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  wing4j-common-sequence:
+    lastUpdated: 20170227014051
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-sequence-api:
+    lastUpdated: 20170227014051
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-sequence-h2:
+    lastUpdated: 20170227022941
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-sequence-mysql:
+    lastUpdated: 20170227022942
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  wing4j-common-sequence-redis:
+    lastUpdated: 20170107105731
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  wing4j-common-sequence-zookeeper:
+    lastUpdated: 20170107105731
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  wing4j-common-utils:
+    lastUpdated: 20170227014051
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+

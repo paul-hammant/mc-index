@@ -1,0 +1,139 @@
+artifacts:
+  dropwizard-guicey:
+    lastUpdated: 20161118170815
+    latest: 4.0.1
+    release: 4.0.1
+    versions:
+      - 0.9.0
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.0.1
+  dropwizard-orient-server:
+    lastUpdated: 20170225132340
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 2.0.0
+  generics-resolver:
+    lastUpdated: 20151216045102
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 2.0.0
+      - 2.0.1
+  gradle-animalsniffer-plugin:
+    lastUpdated: 20170320035438
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  gradle-github-info-plugin:
+    lastUpdated: 20160407202909
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  gradle-java-lib-plugin:
+    lastUpdated: 20160904222803
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  gradle-pom-plugin:
+    lastUpdated: 20160904023814
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+  gradle-quality-plugin:
+    lastUpdated: 20170321081520
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  guice-ext-annotations:
+    lastUpdated: 20160922191333
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+  guice-persist-orient:
+    lastUpdated: 20160924185646
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  guice-validator:
+    lastUpdated: 20160404205151
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+

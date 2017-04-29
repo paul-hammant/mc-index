@@ -1,0 +1,253 @@
+artifacts:
+  control-action-samples:
+    lastUpdated: 20150305134736
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  data:
+    lastUpdated: 20150305134737
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  engine:
+    lastUpdated: 20150305134737
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  hello-score:
+    lastUpdated: 20150305134738
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  node:
+    lastUpdated: 20150305134738
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  orchestrator:
+    lastUpdated: 20150305134738
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  package:
+    lastUpdated: 20150305134739
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  queue:
+    lastUpdated: 20150305134739
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-all:
+    lastUpdated: 20150305134739
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-api:
+    lastUpdated: 20150305134740
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.253
+      - 0.1.254
+      - 0.1.264
+      - 0.1.266
+  score-data-api:
+    lastUpdated: 20150305134741
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-data-impl:
+    lastUpdated: 20150305134741
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-engine-jobs:
+    lastUpdated: 20150305134742
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-facade:
+    lastUpdated: 20150305134742
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-node-api:
+    lastUpdated: 20150305134743
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-node-impl:
+    lastUpdated: 20150305134744
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-orchestrator-api:
+    lastUpdated: 20150305134744
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-orchestrator-impl:
+    lastUpdated: 20150305134745
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-parent:
+    lastUpdated: 20150305134745
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.253
+      - 0.1.254
+      - 0.1.264
+      - 0.1.266
+  score-queue-api:
+    lastUpdated: 20150305134746
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-queue-impl:
+    lastUpdated: 20150305134746
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-samples:
+    lastUpdated: 20150305134747
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-tests:
+    lastUpdated: 20150305134747
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.264
+      - 0.1.266
+  score-worker:
+    lastUpdated: 20150305134748
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-worker-execution-api:
+    lastUpdated: 20150305134748
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-worker-execution-impl:
+    lastUpdated: 20150305134750
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-worker-manager-api:
+    lastUpdated: 20150305134750
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  score-worker-manager-impl:
+    lastUpdated: 20150305134751
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  worker:
+    lastUpdated: 20150305134751
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  worker-execution:
+    lastUpdated: 20150305134752
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+  worker-manager:
+    lastUpdated: 20150305134752
+    latest: 0.1.266
+    release: 0.1.266
+    versions:
+      - 0.1.251
+      - 0.1.264
+      - 0.1.266
+

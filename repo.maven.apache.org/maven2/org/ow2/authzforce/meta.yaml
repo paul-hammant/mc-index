@@ -1,0 +1,332 @@
+artifacts:
+  authzforce-atom-model:
+    lastUpdated: 20151025005754
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+  authzforce-ce-atom-model:
+    lastUpdated: 20170307112320
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.4.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 5.0.0
+      - 5.1.0
+  authzforce-ce-commons-atom-model:
+    lastUpdated: 20151031000348
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+  authzforce-ce-commons-parent:
+    lastUpdated: 20151031000349
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+  authzforce-ce-commons-pdp-ext-model:
+    lastUpdated: 20151031000350
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+  authzforce-ce-commons-xacml-model:
+    lastUpdated: 20151031000350
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+  authzforce-ce-commons-xmlns-model:
+    lastUpdated: 20151031000351
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+  authzforce-ce-core:
+    lastUpdated: 20170307112403
+    latest: 8.0.0
+    release: 8.0.0
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.2
+      - 3.8.3
+      - 3.9.0
+      - 4.0.0
+      - 4.0.2
+      - 5.0.0
+      - 5.0.2
+      - 6.0.0
+      - 6.1.0
+      - 7.0.0
+      - 7.1.0
+      - 8.0.0
+  authzforce-ce-core-pap-api:
+    lastUpdated: 20170310233452
+    latest: 6.4.0
+    release: 6.4.0
+    versions:
+      - 3.6.0
+      - 4.0.0
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.3.0
+      - 6.0.0
+      - 6.1.0
+      - 6.2.0
+      - 6.3.0
+      - 6.4.0
+  authzforce-ce-core-pdp-api:
+    lastUpdated: 20170307112347
+    latest: 9.1.0
+    release: 9.1.0
+    versions:
+      - 3.6.1
+      - 3.7.0
+      - 3.8.0
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 6.0.0
+      - 7.0.0
+      - 7.1.1
+      - 8.0.0
+      - 8.1.0
+      - 8.2.0
+      - 9.0.0
+      - 9.1.0
+  authzforce-ce-core-pdp-engine:
+    lastUpdated: 20170307112403
+    latest: 8.0.0
+    release: 8.0.0
+    versions:
+      - 8.0.0
+  authzforce-ce-core-pdp-testutils:
+    lastUpdated: 20170307112404
+    latest: 8.0.0
+    release: 8.0.0
+    versions:
+      - 8.0.0
+  authzforce-ce-pap-dao-file:
+    lastUpdated: 20160121142535
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.6.0
+      - 3.6.1
+  authzforce-ce-pap-dao-flat-file:
+    lastUpdated: 20170310235407
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 4.0.0
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.1.0
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 7.0.0
+      - 8.0.0
+      - 8.1.0
+  authzforce-ce-parent:
+    lastUpdated: 20170307112320
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.4.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 5.0.0
+      - 5.1.0
+  authzforce-ce-pdp-ext-model:
+    lastUpdated: 20170307112320
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.4.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 5.0.0
+      - 5.1.0
+  authzforce-ce-rest-api-model:
+    lastUpdated: 20170117231432
+    latest: 5.4.0
+    release: 5.4.0
+    versions:
+      - 4.3.0
+      - 5.0.0
+      - 5.1.0
+      - 5.1.1
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.3.1
+      - 5.4.0
+  authzforce-ce-server:
+    lastUpdated: 20170311011154
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.4.0
+      - 5.4.1
+      - 6.0.0
+      - 7.0.0
+  authzforce-ce-server-dist:
+    lastUpdated: 20170311011154
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.4.0
+      - 5.4.1
+      - 6.0.0
+      - 7.0.0
+  authzforce-ce-server-rest-service:
+    lastUpdated: 20170311011155
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.4.0
+      - 5.4.1
+      - 6.0.0
+      - 7.0.0
+  authzforce-ce-server-upgrader:
+    lastUpdated: 20170311011155
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.4.0
+      - 5.4.1
+      - 6.0.0
+      - 7.0.0
+  authzforce-ce-server-webapp:
+    lastUpdated: 20170311011156
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 5.1.2
+      - 5.2.0
+      - 5.3.0
+      - 5.4.0
+      - 5.4.1
+      - 6.0.0
+      - 7.0.0
+  authzforce-ce-xacml-model:
+    lastUpdated: 20170307112321
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.4.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 5.0.0
+      - 5.1.0
+  authzforce-ce-xmlns-model:
+    lastUpdated: 20170307112321
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.4.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 5.0.0
+      - 5.1.0
+  authzforce-commons-parent:
+    lastUpdated: 20151025005755
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  authzforce-pdp-ext-model:
+    lastUpdated: 20151025005755
+    latest: 3.2.8
+    release: 3.2.8
+    versions:
+      - 3.2.8
+  authzforce-xacml-model:
+    lastUpdated: 20151025005755
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.4
+  authzforce-xml-ns-model:
+    lastUpdated: 20151025005756
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+

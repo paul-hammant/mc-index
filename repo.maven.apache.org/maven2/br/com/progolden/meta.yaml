@@ -1,0 +1,74 @@
+artifacts:
+  dne-utils:
+    lastUpdated: 20140701234837
+    latest: 1.0.0-RC4
+    release: 1.0.0-RC4
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+  parent:
+    lastUpdated: 20160406181400
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  sms-gateway:
+    lastUpdated: 20151204201153
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  vraptor-boilerplate-core:
+    lastUpdated: 20151207185844
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  vraptor-boilerplate-hibernate:
+    lastUpdated: 20151207185845
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  vraptor-boilerplate-jpa:
+    lastUpdated: 20151207185845
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  vraptor-boilerplate-parent:
+    lastUpdated: 20151207185846
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  vraptor-boilerplate-utils:
+    lastUpdated: 20151207185846
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  webapp-parent:
+    lastUpdated: 20160406181400
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+

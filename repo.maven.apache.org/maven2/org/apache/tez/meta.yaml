@@ -1,0 +1,403 @@
+artifacts:
+  hadoop-shim:
+    lastUpdated: 20170314021132
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  hadoop-shim-2.6:
+    lastUpdated: 20170314021133
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  hadoop-shim-impls:
+    lastUpdated: 20170314021134
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez:
+    lastUpdated: 20170314021134
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-api:
+    lastUpdated: 20170314021135
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-common:
+    lastUpdated: 20170314021135
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-dag:
+    lastUpdated: 20170314021136
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-examples:
+    lastUpdated: 20170314021137
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-ext-service-tests:
+    lastUpdated: 20170314021138
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-job-analyzer:
+    lastUpdated: 20170314021138
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-mapreduce:
+    lastUpdated: 20170314021139
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-mapreduce-examples:
+    lastUpdated: 20140714200714
+    latest: 0.4.1-incubating
+    release: 0.4.1-incubating
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+  tez-mbeans-resource-calculator:
+    lastUpdated: 20150901181824
+    latest: 0.8.0-alpha
+    release: 0.8.0-alpha
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0-alpha
+  tez-perf-analyzer:
+    lastUpdated: 20170314021140
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-plugins:
+    lastUpdated: 20170314021140
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-runtime-internals:
+    lastUpdated: 20170314021141
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-runtime-library:
+    lastUpdated: 20170314021142
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-tests:
+    lastUpdated: 20170314021142
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.2.0
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.4.1-incubating
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-tools:
+    lastUpdated: 20170314021143
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-ui:
+    lastUpdated: 20170314021143
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-ui2:
+    lastUpdated: 20170314021144
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-yarn-timeline-history:
+    lastUpdated: 20170314021145
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+  tez-yarn-timeline-history-with-acls:
+    lastUpdated: 20170314021146
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha
+      - 0.8.1-alpha
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+

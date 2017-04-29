@@ -1,0 +1,1503 @@
+artifacts:
+  algebra-lattice_2.10:
+    lastUpdated: 20160425151758
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-lattice_2.11:
+    lastUpdated: 20160425151759
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-lattice_sjs0.6_2.10:
+    lastUpdated: 20160425151800
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-lattice_sjs0.6_2.11:
+    lastUpdated: 20160425151801
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-laws_2.10:
+    lastUpdated: 20160425151802
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-laws_2.11:
+    lastUpdated: 20160425151803
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-laws_sjs0.6_2.10:
+    lastUpdated: 20160425151803
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-laws_sjs0.6_2.11:
+    lastUpdated: 20160425151805
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-macros_2.10:
+    lastUpdated: 20160425151805
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-macros_2.11:
+    lastUpdated: 20160425151806
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-macros_sjs0.6_2.10:
+    lastUpdated: 20160425151807
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-macros_sjs0.6_2.11:
+    lastUpdated: 20160425151807
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-ring_2.10:
+    lastUpdated: 20160425151808
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-ring_2.11:
+    lastUpdated: 20160425151809
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-ring_sjs0.6_2.10:
+    lastUpdated: 20160425151810
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-ring_sjs0.6_2.11:
+    lastUpdated: 20160425151812
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-std_2.10:
+    lastUpdated: 20160425151813
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-std_2.11:
+    lastUpdated: 20160425151813
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-std_sjs0.6_2.10:
+    lastUpdated: 20160425151814
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra-std_sjs0.6_2.11:
+    lastUpdated: 20160425151815
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra_2.10:
+    lastUpdated: 20160425151815
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra_2.11:
+    lastUpdated: 20160425151818
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra_2.9.3:
+    lastUpdated: 20131109204053
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra_sjs0.6_2.10:
+    lastUpdated: 20160425151818
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  algebra_sjs0.6_2.11:
+    lastUpdated: 20160425151821
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  alleycats-core_2.10:
+    lastUpdated: 20150724155552
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  alleycats-core_2.11:
+    lastUpdated: 20150724155552
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  alleycats-laws_2.10:
+    lastUpdated: 20150724155553
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  alleycats-laws_2.11:
+    lastUpdated: 20150724155553
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  alleycats_2.10:
+    lastUpdated: 20150724155554
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  alleycats_2.11:
+    lastUpdated: 20150724155554
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  argonaut-support_2.10:
+    lastUpdated: 20150526055707
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  argonaut-support_2.11:
+    lastUpdated: 20150526055712
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  benchmark_2.10:
+    lastUpdated: 20130620034313
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  cats-core_2.10:
+    lastUpdated: 20151109051908
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-core_2.11:
+    lastUpdated: 20151109051909
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-core_sjs0.6_2.10:
+    lastUpdated: 20151109051910
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-core_sjs0.6_2.11:
+    lastUpdated: 20151109051910
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-free_2.10:
+    lastUpdated: 20151109051911
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-free_2.11:
+    lastUpdated: 20151109051912
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-free_sjs0.6_2.10:
+    lastUpdated: 20151109051912
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-free_sjs0.6_2.11:
+    lastUpdated: 20151109051913
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-js_sjs0.6_2.10:
+    lastUpdated: 20151109051913
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  cats-js_sjs0.6_2.11:
+    lastUpdated: 20151109051914
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  cats-jvm_2.10:
+    lastUpdated: 20151109051914
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  cats-jvm_2.11:
+    lastUpdated: 20151109051915
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  cats-laws_2.10:
+    lastUpdated: 20151109051916
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-laws_2.11:
+    lastUpdated: 20151109051916
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-laws_sjs0.6_2.10:
+    lastUpdated: 20151109051916
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-laws_sjs0.6_2.11:
+    lastUpdated: 20151109051917
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-macros_2.10:
+    lastUpdated: 20151109051917
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-macros_2.11:
+    lastUpdated: 20151109051918
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-macros_sjs0.6_2.10:
+    lastUpdated: 20151109051919
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-macros_sjs0.6_2.11:
+    lastUpdated: 20151109051919
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-state_2.10:
+    lastUpdated: 20151109051920
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-state_2.11:
+    lastUpdated: 20151109051920
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats-state_sjs0.6_2.10:
+    lastUpdated: 20151109051921
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-state_sjs0.6_2.11:
+    lastUpdated: 20151109051921
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats-std_2.10:
+    lastUpdated: 20150717153036
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  cats-std_2.11:
+    lastUpdated: 20150717153036
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  cats_2.10:
+    lastUpdated: 20151109051922
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats_2.11:
+    lastUpdated: 20151109051922
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.3.0
+  cats_sjs0.6_2.10:
+    lastUpdated: 20151109051923
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  cats_sjs0.6_2.11:
+    lastUpdated: 20151109051923
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  chain_2.10:
+    lastUpdated: 20160323122723
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  chain_2.11:
+    lastUpdated: 20160323122724
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  chain_sjs0.6_2.10:
+    lastUpdated: 20160323122724
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  chain_sjs0.6_2.11:
+    lastUpdated: 20160323122725
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  debox_2.10:
+    lastUpdated: 20150727153130
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.3
+  debox_2.11:
+    lastUpdated: 20150727153131
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.2
+      - 0.7.3
+  examples_2.10:
+    lastUpdated: 20130620034314
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0-M2
+      - 0.4.0-M3
+      - 0.4.0-M4
+      - 0.4.0
+      - 0.5.0
+  imp_2.10:
+    lastUpdated: 20161105144102
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  imp_2.11:
+    lastUpdated: 20161105144102
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+  imp_2.12:
+    lastUpdated: 20161105144103
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  imp_sjs0.6_2.10:
+    lastUpdated: 20161105144103
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  imp_sjs0.6_2.11:
+    lastUpdated: 20161105144104
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+  imp_sjs0.6_2.12:
+    lastUpdated: 20161105144104
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  jawn-argonaut_2.10:
+    lastUpdated: 20161113040124
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-argonaut_2.11:
+    lastUpdated: 20161113040124
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-ast_2.10:
+    lastUpdated: 20161113040125
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-ast_2.11:
+    lastUpdated: 20161113040126
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-ast_2.12:
+    lastUpdated: 20161113040127
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.3
+      - 0.10.4
+  jawn-ast_2.12.0-RC1:
+    lastUpdated: 20160926054742
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.10.0
+      - 0.10.1
+  jawn-ast_2.12.0-RC2:
+    lastUpdated: 20161020130608
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.2
+  jawn-json4s_2.10:
+    lastUpdated: 20161113040127
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-json4s_2.11:
+    lastUpdated: 20161113040129
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-json4s_2.12:
+    lastUpdated: 20161113040130
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.4
+  jawn-json4s_2.12.0-RC1:
+    lastUpdated: 20160926054744
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.10.1
+  jawn-parser_2.10:
+    lastUpdated: 20161113040130
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-parser_2.11:
+    lastUpdated: 20161113040132
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-parser_2.12:
+    lastUpdated: 20161113040133
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.3
+      - 0.10.4
+  jawn-parser_2.12.0-RC1:
+    lastUpdated: 20160926054745
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.10.0
+      - 0.10.1
+  jawn-parser_2.12.0-RC2:
+    lastUpdated: 20161020130612
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.2
+  jawn-play_2.10:
+    lastUpdated: 20161113040133
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.3
+      - 0.10.4
+  jawn-play_2.11:
+    lastUpdated: 20161113040134
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-rojoma-v3_2.10:
+    lastUpdated: 20161113040135
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-rojoma-v3_2.11:
+    lastUpdated: 20161113040136
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-rojoma-v3_2.12:
+    lastUpdated: 20161113040137
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.4
+  jawn-rojoma_2.10:
+    lastUpdated: 20161113040137
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-rojoma_2.11:
+    lastUpdated: 20161113040137
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-rojoma_2.12:
+    lastUpdated: 20161113040138
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.4
+  jawn-spray_2.10:
+    lastUpdated: 20161113040138
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-spray_2.11:
+    lastUpdated: 20161113040138
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.9.0
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  jawn-spray_2.12:
+    lastUpdated: 20161113040139
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.10.3
+      - 0.10.4
+  jawn-spray_2.12.0-RC1:
+    lastUpdated: 20160926054748
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.10.1
+  jawn-spray_2.12.0-RC2:
+    lastUpdated: 20161020130617
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.2
+  json4s-support_2.10:
+    lastUpdated: 20150526055756
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  json4s-support_2.11:
+    lastUpdated: 20150526055759
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  kind-projector_2.10:
+    lastUpdated: 20161029144918
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.6.3
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+      - 0.9.2
+      - 0.9.3
+  kind-projector_2.11:
+    lastUpdated: 20161029144918
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+      - 0.9.2
+      - 0.9.3
+  kind-projector_2.12:
+    lastUpdated: 20161029144918
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  kind-projector_2.12.0-M2:
+    lastUpdated: 20150721134936
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.3
+  kind-projector_2.12.0-M3:
+    lastUpdated: 20151015124814
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  kind-projector_2.12.0-M4:
+    lastUpdated: 20160602152008
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  kind-projector_2.12.0-M5:
+    lastUpdated: 20160902163105
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.1
+  kind-projector_2.12.0-RC1:
+    lastUpdated: 20160912040311
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.2
+      - 0.9.0
+  kind-projector_2.12.0-RC2:
+    lastUpdated: 20161020012152
+    latest: 0.9.2
+    release: 0.9.2
+    versions:
+      - 0.9.2
+  machinist_2.10:
+    lastUpdated: 20150721131540
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  machinist_2.11:
+    lastUpdated: 20150721131541
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  machinist_sjs0.6_2.10:
+    lastUpdated: 20150721131541
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  machinist_sjs0.6_2.11:
+    lastUpdated: 20150721131542
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  macros_2.10:
+    lastUpdated: 20130620233023
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  play-support_2.10:
+    lastUpdated: 20150526055805
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  play-support_2.11:
+    lastUpdated: 20150526055807
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  rojoma-support_2.10:
+    lastUpdated: 20150526055812
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  rojoma-support_2.11:
+    lastUpdated: 20150526055814
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  rojoma-v3-support_2.10:
+    lastUpdated: 20150526055818
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  rojoma-v3-support_2.11:
+    lastUpdated: 20150526055820
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  spire-aggregate_2.10:
+    lastUpdated: 20130620034315
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0-M2
+      - 0.4.0-M3
+      - 0.4.0-M4
+      - 0.4.0
+      - 0.5.0
+  spire-extras_2.10:
+    lastUpdated: 20161129043353
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-extras_2.11:
+    lastUpdated: 20161129043353
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-extras_2.12:
+    lastUpdated: 20161129043354
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-extras_sjs0.6_2.10:
+    lastUpdated: 20161129043354
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-extras_sjs0.6_2.11:
+    lastUpdated: 20161129043354
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-extras_sjs0.6_2.12:
+    lastUpdated: 20161129043355
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-laws_2.10:
+    lastUpdated: 20161129043355
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-laws_2.11:
+    lastUpdated: 20161129043356
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-laws_2.12:
+    lastUpdated: 20161129043356
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-laws_sjs0.6_2.10:
+    lastUpdated: 20161129043356
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-laws_sjs0.6_2.11:
+    lastUpdated: 20161129043357
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-laws_sjs0.6_2.12:
+    lastUpdated: 20161129043357
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-macros_2.10:
+    lastUpdated: 20161129043357
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-macros_2.11:
+    lastUpdated: 20161129043358
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-macros_2.12:
+    lastUpdated: 20161129043358
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-macros_sjs0.6_2.10:
+    lastUpdated: 20161129043358
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-macros_sjs0.6_2.11:
+    lastUpdated: 20161129043359
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire-macros_sjs0.6_2.12:
+    lastUpdated: 20161129043359
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire-scalacheck-binding_2.10:
+    lastUpdated: 20150516012138
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.3.0-RC2
+      - 0.3.0
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-M3
+      - 0.4.0-M4
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+  spire-scalacheck-binding_2.11:
+    lastUpdated: 20150516012139
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+  spire-scalacheck-binding_2.9.1:
+    lastUpdated: 20130226044714
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-RC2
+      - 0.3.0
+  spire-scalacheck-binding_2.9.2:
+    lastUpdated: 20130226162718
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  spire_2.10:
+    lastUpdated: 20161129043400
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0-RC1
+      - 0.3.0-RC2
+      - 0.3.0
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-M3
+      - 0.4.0-M4
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire_2.10.0:
+    lastUpdated: 20121221041410
+    latest: 0.3.0-M7
+    release: 0.3.0-M7
+    versions:
+      - 0.3.0-M7
+  spire_2.10.0-RC1:
+    lastUpdated: 20121019134218
+    latest: 0.3.0-M3
+    release: 0.3.0-M3
+    versions:
+      - 0.3.0-M2
+      - 0.3.0-M3
+  spire_2.10.0-RC2:
+    lastUpdated: 20121107063221
+    latest: 0.3.0-M4
+    release: 0.3.0-M4
+    versions:
+      - 0.3.0-M4
+  spire_2.10.0-RC3:
+    lastUpdated: 20121122194205
+    latest: 0.3.0-M5
+    release: 0.3.0-M5
+    versions:
+      - 0.3.0-M5
+  spire_2.10.0-RC5:
+    lastUpdated: 20121207012508
+    latest: 0.3.0-M6
+    release: 0.3.0-M6
+    versions:
+      - 0.3.0-M6
+  spire_2.11:
+    lastUpdated: 20161129043400
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.1
+      - 0.10.1
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire_2.12:
+    lastUpdated: 20161129043401
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spire_2.9.1:
+    lastUpdated: 20130226044716
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-RC2
+      - 0.3.0
+  spire_2.9.2:
+    lastUpdated: 20130226162720
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0-M1
+      - 0.2.0-M2
+      - 0.3.0
+  spire_sjs0.6_2.10:
+    lastUpdated: 20161129043401
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire_sjs0.6_2.11:
+    lastUpdated: 20161129043402
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  spire_sjs0.6_2.12:
+    lastUpdated: 20161129043403
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.13.0
+  spray-support_2.10:
+    lastUpdated: 20150526055823
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+  spray-support_2.11:
+    lastUpdated: 20150526055825
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+

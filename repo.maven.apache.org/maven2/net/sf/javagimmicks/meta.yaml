@@ -1,0 +1,276 @@
+artifacts:
+  GimmickUtils:
+    lastUpdated: 20130906114032
+    latest: 0.74
+    release: 0.74
+    versions:
+      - 0.72
+      - 0.73
+      - 0.74
+      - 0.72
+      - 0.73
+      - 0.74
+  GimmickUtils-collections:
+    lastUpdated: 20130915222354
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-concurrent:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-core:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-graph:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-io:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-math:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-parent:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-swing:
+    lastUpdated: 20130915222355
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  GimmickUtils-testing:
+    lastUpdated: 20130915222356
+    latest: 0.80
+    release: 0.80
+    versions:
+      - 0.8
+      - 0.80
+  gimmicks:
+    lastUpdated: 20131217194004
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-build:
+    lastUpdated: 20131005115314
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+      - 0.9
+  gimmicks-cdi:
+    lastUpdated: 20131217194004
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-cdi-collections:
+    lastUpdated: 20131217194004
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-cdi-testing:
+    lastUpdated: 20131217194005
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-collections:
+    lastUpdated: 20131217194005
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-concurrent:
+    lastUpdated: 20131217194005
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-core:
+    lastUpdated: 20131217194006
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-graph:
+    lastUpdated: 20131217194006
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-io:
+    lastUpdated: 20131217194006
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-jdbc-testing:
+    lastUpdated: 20131217194007
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-jpa-testing:
+    lastUpdated: 20131217194007
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-math:
+    lastUpdated: 20131217194007
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-parent:
+    lastUpdated: 20131217194007
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-swing:
+    lastUpdated: 20131217194008
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+  gimmicks-testing:
+    lastUpdated: 20131217194008
+    latest: 0.97
+    release: 0.97
+    versions:
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+      - 0.9
+      - 0.95
+      - 0.96
+      - 0.97
+

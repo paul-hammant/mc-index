@@ -1,0 +1,1183 @@
+artifacts:
+  bundles:
+    lastUpdated: 20130910090254
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-audit-report:
+    lastUpdated: 20130910090254
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals:
+    lastUpdated: 20130910090255
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-annotations:
+    lastUpdated: 20130910090255
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-bouncycastle:
+    lastUpdated: 20130910090255
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-commons-collections:
+    lastUpdated: 20130910090255
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-commons-logging:
+    lastUpdated: 20130910090256
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-commons-modeler:
+    lastUpdated: 20130910090256
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-cxf:
+    lastUpdated: 20090625080658
+    latest: {}
+    release: 1.0.17
+    versions:
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+  ow2-bundles-externals-cxf-2.0:
+    lastUpdated: 20130910090256
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-cxf-2.1:
+    lastUpdated: 20091130090612
+    latest: {}
+    release: 1.0.19
+    versions:
+      - 1.0.18
+      - 1.0.19
+  ow2-bundles-externals-cxf-2.2:
+    lastUpdated: 20101001135931
+    latest: {}
+    release: 1.0.22
+    versions:
+      - 1.0.18
+      - 1.0.19
+      - 1.0.20
+      - 1.0.21
+      - 1.0.22
+  ow2-bundles-externals-javassist:
+    lastUpdated: 20130910090257
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-jaxb2:
+    lastUpdated: 20130910090257
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-jaxrs-1.0:
+    lastUpdated: 20130910090301
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-jaxws-2.1:
+    lastUpdated: 20130910090303
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-jgroups:
+    lastUpdated: 20130910090303
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-jsch:
+    lastUpdated: 20130910090304
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-mule-1.4:
+    lastUpdated: 20130910090304
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-opencsv:
+    lastUpdated: 20130910090304
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-slf4j:
+    lastUpdated: 20130910090305
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-slf4j-jcl:
+    lastUpdated: 20130910090306
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-slf4j-jdk14:
+    lastUpdated: 20130910090307
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-terracotta:
+    lastUpdated: 20130910090308
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-weld:
+    lastUpdated: 20130910090308
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-bundles-externals-zookeeper:
+    lastUpdated: 20130910090311
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-annotation-processor:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-archive:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-archive-api:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-archive-impl:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-component:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-component-api:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-component-impl:
+    lastUpdated: 20130910090312
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-deployment:
+    lastUpdated: 20080402152219
+    latest: {}
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  ow2-util-deployment-api:
+    lastUpdated: 20080402152151
+    latest: {}
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  ow2-util-deployment-impl:
+    lastUpdated: 20080402152206
+    latest: {}
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  ow2-util-ee:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-builder:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-builder-webservice:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-deploy:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-deploy-api:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-deploy-impl:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-event:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-car:
+    lastUpdated: 20130910090313
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-car-api:
+    lastUpdated: 20130910090314
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-car-impl:
+    lastUpdated: 20130910090314
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-common:
+    lastUpdated: 20130910090314
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-common-api:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-common-impl:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ejbjar:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ejbjar-api:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ejbjar-impl:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-war:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-war-api:
+    lastUpdated: 20130910090315
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-war-impl:
+    lastUpdated: 20130910090318
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ws:
+    lastUpdated: 20130910090318
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ws-api:
+    lastUpdated: 20130910090318
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-ee-metadata-ws-impl:
+    lastUpdated: 20130910090318
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-event:
+    lastUpdated: 20130910090319
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-event-api:
+    lastUpdated: 20130910090319
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-event-impl:
+    lastUpdated: 20130910090319
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-execution:
+    lastUpdated: 20130910090320
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-externals:
+    lastUpdated: 20071209132903
+    latest: {}
+    release: {}
+    versions:
+      - ${ow2-util-bundle.version}
+  ow2-util-file:
+    lastUpdated: 20130910090320
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-i18n:
+    lastUpdated: 20130910090320
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-jmx:
+    lastUpdated: 20130910090320
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-jmx-api:
+    lastUpdated: 20130910090320
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-jmx-impl:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-log:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-marshalling:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-object-merge:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-pool:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-pool-api:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-pool-impl:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol-api:
+    lastUpdated: 20130910090321
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol-impl:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol-ssh:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol-ssh-api:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-protocol-ssh-jsch:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-scan:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-scan-api:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-scan-impl:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-security:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-security-api:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-security-impl:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-stream:
+    lastUpdated: 20130910090322
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-substitution:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-testng4osgi:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-url:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-xml:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  ow2-util-xmlconfig:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-deploy:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-deploy-api:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-deploy-impl:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-deployer:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher-api:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher-impl:
+    lastUpdated: 20130910090323
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher-impl-maven2:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher-impl-obr:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-fetcher-impl-url:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-monitor:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-reader:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-repository:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-repository-api:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-repository-impl:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+  util-plan-schemas:
+    lastUpdated: 20130910090324
+    latest: 1.0.36
+    release: 1.0.36
+    versions:
+      - 1.0.31
+      - 1.0.32
+      - 1.0.33
+      - 1.0.34
+      - 1.0.35
+      - 1.0.36
+

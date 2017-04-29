@@ -1,0 +1,60 @@
+artifacts:
+  airomem-core:
+    lastUpdated: 20170325203311
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+  airomem-direct:
+    lastUpdated: 20150425073829
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  app_2.12:
+    lastUpdated: 20161210111358
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  app_sjs0.6_2.12:
+    lastUpdated: 20161210111358
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  badass:
+    lastUpdated: 20140803201610
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  cryptotpyrc_2.11:
+    lastUpdated: 20160405202308
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.4
+  cryptotpyrc_2.12:
+    lastUpdated: 20161210111359
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  cryptotpyrc_sjs0.6_2.11:
+    lastUpdated: 20160405202309
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.4
+

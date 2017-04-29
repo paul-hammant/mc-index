@@ -1,0 +1,485 @@
+artifacts:
+  analyzers-ja:
+    lastUpdated: 20170216031314
+    latest: 6.4.1.0
+    release: 6.4.1.0
+    versions:
+      - 4.10.3.0
+      - 4.10.4.0
+      - 4.10.4.1
+      - 4.10.4.2
+      - 5.3.1.0
+      - 5.3.1.1
+      - 5.3.1.2
+      - 5.3.1.3
+      - 5.4.1.0
+      - 5.4.1.1
+      - 5.5.0.0
+      - 5.5.2.0
+      - 6.2.1.0
+      - 6.3.0.0
+      - 6.4.0.0
+      - 6.4.1.0
+  corelib:
+    lastUpdated: 20161124000512
+    latest: 0.3.6
+    release: 0.3.6
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+  elasticsearch-analysis-fess:
+    lastUpdated: 20170401012340
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 2.3.0
+      - 2.4.0
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.3.0
+  elasticsearch-analysis-ja:
+    lastUpdated: 20170401012459
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.7.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.4.0
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.3.0
+  elasticsearch-analysis-kuromoji-neologd:
+    lastUpdated: 20170216080259
+    latest: 5.2.1
+    release: 5.2.1
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.7.0
+      - 1.7.1
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.4.0
+      - 2.4.1
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+  elasticsearch-analysis-synonym:
+    lastUpdated: 20170401013513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.5.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.3.0
+  elasticsearch-analyze-api:
+    lastUpdated: 20170118071331
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 1.5.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 5.1.0
+  elasticsearch-auth:
+    lastUpdated: 20141115020336
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  elasticsearch-cluster-runner:
+    lastUpdated: 20170329143143
+    latest: 5.3.0.0
+    release: 5.3.0.0
+    versions:
+      - 1.2.1.0
+      - 1.3.1.0
+      - 1.3.2.0
+      - 1.3.2.1
+      - 1.3.2.2
+      - 1.3.2.3
+      - 1.4.0.0
+      - 1.4.0.1
+      - 1.4.0.2
+      - 1.4.1.0
+      - 1.4.2.0
+      - 1.5.0.0
+      - 1.5.0.1
+      - 1.6.0.0
+      - 1.7.0.0
+      - 2.0.0.0
+      - 2.1.0.0
+      - 2.1.1.0
+      - 2.1.2.0
+      - 2.2.0.0
+      - 2.3.0.0
+      - 2.3.4.0
+      - 2.3.5.0
+      - 2.4.0.0
+      - 5.0.2.0
+      - 5.0.2.1
+      - 5.1.1.0
+      - 5.1.2.0
+      - 5.2.0.0
+      - 5.2.0.1
+      - 5.2.1.0
+      - 5.2.2.0
+      - 5.3.0.0
+  elasticsearch-configsync:
+    lastUpdated: 20170401011325
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 1.7.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.3.0
+  elasticsearch-dataformat:
+    lastUpdated: 20170401010359
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.3.0
+  elasticsearch-dictionary:
+    lastUpdated: 20160417050643
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.7.0
+      - 2.2.0
+      - 2.3.0
+  elasticsearch-dynarank:
+    lastUpdated: 20161004092427
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.5.0
+      - 1.5.1
+      - 2.1.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  elasticsearch-eventhook:
+    lastUpdated: 20141013092327
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+  elasticsearch-extension:
+    lastUpdated: 20150326214044
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+  elasticsearch-fess-suggest:
+    lastUpdated: 20161121035351
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.7.4
+      - 1.7.5
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.3.0
+  elasticsearch-lang-handlebars:
+    lastUpdated: 20160901075746
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+  elasticsearch-lang-velocity:
+    lastUpdated: 20161005002727
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.4.0
+  elasticsearch-langfield:
+    lastUpdated: 20170401023059
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 1.7.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+      - 2.4.1
+      - 5.0.0
+      - 5.1.0
+      - 5.2.0
+      - 5.2.1
+      - 5.3.0
+  elasticsearch-minhash:
+    lastUpdated: 20170401023657
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 5.3.0
+  elasticsearch-plugin-archetype:
+    lastUpdated: 20160623021715
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 2.3.0
+  elasticsearch-qrcache:
+    lastUpdated: 20150326215108
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+  elasticsearch-quartz:
+    lastUpdated: 20140203134433
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  elasticsearch-reindexing:
+    lastUpdated: 20160901071611
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.7.0
+      - 2.1.0
+      - 2.1.1
+      - 2.3.0
+  elasticsearch-repository-ssh:
+    lastUpdated: 20160926214119
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.4.0
+      - 2.2.0
+      - 2.2.1
+      - 2.4.0
+  elasticsearch-river-web:
+    lastUpdated: 20141213130929
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  elasticsearch-solr-api:
+    lastUpdated: 20141013083817
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+  elasticsearch-sstmpl:
+    lastUpdated: 20160901075024
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+  elasticsearch-taste:
+    lastUpdated: 20160923125747
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.1
+      - 0.4.0
+      - 1.5.0
+      - 2.3.0
+  elasticsearch-util:
+    lastUpdated: 20150324134705
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 1.5.0
+  jcifs:
+    lastUpdated: 20160714074511
+    latest: 1.3.18.2
+    release: 1.3.18.2
+    versions:
+      - 1.3.18.1
+      - 1.3.18.2
+  jhighlight:
+    lastUpdated: 20160324132610
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  minhash:
+    lastUpdated: 20160108142255
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  spnego:
+    lastUpdated: 20160927124915
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+

@@ -1,0 +1,394 @@
+artifacts:
+  daytrader-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-streamer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  daytrader-wsappclient:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo:
+    lastUpdated: 20130526084729
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.2
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0-M1
+      - 3.0.0
+      - 3.0.1
+      - 2.1
+      - 2.2
+  geronimo-activation:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-axis:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-axis-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-client-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-connector:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-connector-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-console-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-console-web:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-converter:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-daytrader-derby-db:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-deploy-config:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-deploy-jsr88:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-deploy-tool:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-deployment:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-derby:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-directory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-hot-deploy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-j2ee:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-j2ee-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-j2ee-schema:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-javamail-transport:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-jetty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-jetty-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-jmxremoting:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-kernel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-mail:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-management:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-naming-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-remote-deploy-lib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-scripts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-security:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-security-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-service-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-system:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-test-ddbean:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-timer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-tomcat:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-tomcat-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-transaction:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-uddi-db:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-util:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-web-builder:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  geronimo-webservices:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  repository:
+    lastUpdated: 20111228115345
+    latest: 2.1.8
+    release: 2.1.8
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1
+

@@ -1,0 +1,646 @@
+artifacts:
+  qlack2-fuse:
+    lastUpdated: 20170404165409
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-aaa:
+    lastUpdated: 20170404165409
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-aaa-api:
+    lastUpdated: 20170404165409
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-aaa-commands:
+    lastUpdated: 20170404165409
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-aaa-impl:
+    lastUpdated: 20170404165410
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-auditing:
+    lastUpdated: 20170404165410
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-auditing-api:
+    lastUpdated: 20170404165410
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-auditing-client-api:
+    lastUpdated: 20170404165411
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-auditing-client-impl:
+    lastUpdated: 20170404165411
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-auditing-impl:
+    lastUpdated: 20170404165412
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-blog:
+    lastUpdated: 20170404165412
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-blog-api:
+    lastUpdated: 20170404165412
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-blog-impl:
+    lastUpdated: 20170404165412
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-caching:
+    lastUpdated: 20170404165413
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-caching-api:
+    lastUpdated: 20170404165413
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-caching-local:
+    lastUpdated: 20170404165414
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-caching-memcached:
+    lastUpdated: 20170404165414
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-caching-redis:
+    lastUpdated: 20170404165414
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-calendar:
+    lastUpdated: 20170404165415
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-calendar-api:
+    lastUpdated: 20170404165415
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-calendar-impl:
+    lastUpdated: 20170404165415
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-chat-im:
+    lastUpdated: 20170404165416
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-chat-im-api:
+    lastUpdated: 20170404165416
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-chat-im-impl:
+    lastUpdated: 20170404165416
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-clipboard:
+    lastUpdated: 20170404165417
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-clipboard-api:
+    lastUpdated: 20170404165417
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-clipboard-impl:
+    lastUpdated: 20170404165417
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-component-library:
+    lastUpdated: 20170404165418
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-component-library-api:
+    lastUpdated: 20170404165418
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-component-library-impl:
+    lastUpdated: 20170404165419
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-content-manager:
+    lastUpdated: 20170404165419
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-content-manager-api:
+    lastUpdated: 20170404165419
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-content-manager-impl:
+    lastUpdated: 20170404165420
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-crypto:
+    lastUpdated: 20170404165420
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-crypto-api:
+    lastUpdated: 20170404165420
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-crypto-impl:
+    lastUpdated: 20170404165421
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-event-publisher:
+    lastUpdated: 20170404165421
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-event-publisher-api:
+    lastUpdated: 20170404165421
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-event-publisher-impl:
+    lastUpdated: 20170404165422
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload:
+    lastUpdated: 20170404165422
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload-api:
+    lastUpdated: 20170404165423
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload-commands:
+    lastUpdated: 20170404165423
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload-impl:
+    lastUpdated: 20170404165424
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload-rest-api:
+    lastUpdated: 20170404165424
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-file-upload-rest-impl:
+    lastUpdated: 20170404165424
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-forum:
+    lastUpdated: 20170404165425
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-forum-api:
+    lastUpdated: 20170404165425
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-forum-impl:
+    lastUpdated: 20170404165426
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-idm:
+    lastUpdated: 20170404165426
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-idm-api:
+    lastUpdated: 20170404165426
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-idm-impl:
+    lastUpdated: 20170404165427
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-imaging:
+    lastUpdated: 20170404165427
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-imaging-api:
+    lastUpdated: 20170404165428
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-imaging-impl:
+    lastUpdated: 20170404165428
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-karaf-features:
+    lastUpdated: 20170404165429
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-lexicon:
+    lastUpdated: 20170404165429
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-lexicon-api:
+    lastUpdated: 20170404165429
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-lexicon-impl:
+    lastUpdated: 20170404165430
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-mailing:
+    lastUpdated: 20170404165430
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-mailing-api:
+    lastUpdated: 20170404165430
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-mailing-commands:
+    lastUpdated: 20170404165431
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-mailing-impl:
+    lastUpdated: 20170404165431
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-rules-runtime:
+    lastUpdated: 20170404165431
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-rules-runtime-api:
+    lastUpdated: 20170404165432
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-rules-runtime-impl:
+    lastUpdated: 20170404165432
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-scheduler:
+    lastUpdated: 20170404165432
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-scheduler-api:
+    lastUpdated: 20170404165433
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-scheduler-impl:
+    lastUpdated: 20170404165433
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-search:
+    lastUpdated: 20170404165433
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-search-api:
+    lastUpdated: 20170404165434
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-search-impl:
+    lastUpdated: 20170404165434
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-security-proxy:
+    lastUpdated: 20170404165435
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-security-proxy-api:
+    lastUpdated: 20170404165435
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-security-proxy-impl:
+    lastUpdated: 20170404165435
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-settings:
+    lastUpdated: 20170404165436
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-settings-api:
+    lastUpdated: 20170404165436
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-settings-impl:
+    lastUpdated: 20170404165436
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-settings-shell:
+    lastUpdated: 20170404165437
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-simm:
+    lastUpdated: 20170404165437
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-simm-api:
+    lastUpdated: 20170404165437
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-simm-impl:
+    lastUpdated: 20170404165438
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-ticket-server:
+    lastUpdated: 20170404165438
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-ticket-server-api:
+    lastUpdated: 20170404165438
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-ticket-server-commands:
+    lastUpdated: 20170404165439
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-ticket-server-impl:
+    lastUpdated: 20170404165439
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-wiki:
+    lastUpdated: 20170404165439
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-wiki-api:
+    lastUpdated: 20170404165440
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-wiki-impl:
+    lastUpdated: 20170404165440
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-workflow-runtime:
+    lastUpdated: 20170404165440
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-workflow-runtime-aaa-bridge:
+    lastUpdated: 20170404165440
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-workflow-runtime-api:
+    lastUpdated: 20170404165441
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-fuse-workflow-runtime-impl:
+    lastUpdated: 20170404165441
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+

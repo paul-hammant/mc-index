@@ -1,0 +1,476 @@
+artifacts:
+  docbook-style:
+    lastUpdated: 20100426072010
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jbpm:
+    lastUpdated: 20131016170942
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-api:
+    lastUpdated: 20131016170903
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-bpmn:
+    lastUpdated: 20100719065306
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.3
+      - 4.4
+      - 4.3
+      - 4.4
+  jbpm-console-form-plugin:
+    lastUpdated: 20131016170906
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-console-graphView-plugin:
+    lastUpdated: 20100719065326
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-console-integration:
+    lastUpdated: 20131016170909
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-console-reports:
+    lastUpdated: 20100719065329
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-db:
+    lastUpdated: 20100719065346
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-devguide:
+    lastUpdated: 20100719065343
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-distro:
+    lastUpdated: 20100719065356
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-enterprise:
+    lastUpdated: 20100719065349
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-examples:
+    lastUpdated: 20100719065314
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-gpd:
+    lastUpdated: 20100708091742
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha2
+      - 4.0.0-Beta1
+      - 4.0.0.Beta2
+      - 4.0.0.CR1
+      - 4.0.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-integration:
+    lastUpdated: 20131016170921
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-jboss:
+    lastUpdated: 20100719065352
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-jboss4:
+    lastUpdated: 20131016170923
+    latest: 4.1
+    release: 4.1
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.0
+      - 4.1
+  jbpm-jboss5:
+    lastUpdated: 20131016170925
+    latest: 4.1
+    release: 4.1
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.0
+      - 4.1
+  jbpm-jpdl:
+    lastUpdated: 20131016170927
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-log:
+    lastUpdated: 20131016170930
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-pvm:
+    lastUpdated: 20131016170932
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-spi:
+    lastUpdated: 20131016170934
+    latest: 4.1
+    release: 4.1
+    versions:
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.0
+      - 4.1
+  jbpm-task:
+    lastUpdated: 20100426075910
+    latest: 4.0.0-Alpha1
+    release: 4.0.0-Alpha1
+    versions:
+      - 4.0.0-Alpha1
+  jbpm-test-base:
+    lastUpdated: 20131016170936
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0.0-Alpha1
+      - 4.0.0.Beta2
+      - 4.0.CR1
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-test-cactus:
+    lastUpdated: 20100719065424
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-cfg:
+    lastUpdated: 20100719065438
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-concurrent:
+    lastUpdated: 20100719065441
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-db:
+    lastUpdated: 20100719065338
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-test-enterprise-ejb:
+    lastUpdated: 20100719065428
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-enterprise-suite:
+    lastUpdated: 20100719065433
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-load:
+    lastUpdated: 20100719065436
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.4
+      - 4.4
+  jbpm-test-pojo:
+    lastUpdated: 20100719065341
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-test-upgrade:
+    lastUpdated: 20100719065444
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-tomcat6:
+    lastUpdated: 20100719065332
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jbpm-userguide:
+    lastUpdated: 20100719065344
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  jpdl-migration:
+    lastUpdated: 20100719065335
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.0
+      - 4.1
+      - 4.2
+      - 4.3
+      - 4.4
+  jsr223-api:
+    lastUpdated: 20100426081002
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

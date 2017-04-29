@@ -1,0 +1,47 @@
+artifacts:
+  JenaJung:
+    lastUpdated: 20111029171618
+    latest: {}
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  java-rdfa:
+    lastUpdated: 20120629164900
+    latest: {}
+    release: 0.4.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.4.2-RC1
+      - 0.4.2-RC2
+      - 0.4.2
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  java-rdfa-htmlparser:
+    lastUpdated: 20120629164834
+    latest: {}
+    release: 0.4.2
+    versions:
+      - 0.4.2-RC1
+      - 0.4.2-RC2
+      - 0.4.2
+  java-rdfa-parent:
+    lastUpdated: 20120629164832
+    latest: {}
+    release: 0.4.2
+    versions:
+      - 0.4.2
+  sesame-java-rdfa:
+    lastUpdated: 20090911123001
+    latest: {}
+    release: {}
+    versions:
+      - 0.2-SNAPSHOT
+

@@ -1,0 +1,780 @@
+artifacts:
+  camel-bluetooth:
+    lastUpdated: 20160224193333
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  camel-coap:
+    lastUpdated: 20160224193333
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-device-io:
+    lastUpdated: 20160224193334
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-framebuffer:
+    lastUpdated: 20160224193335
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  camel-gp2y1010au0f:
+    lastUpdated: 20160224193336
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  camel-gps-bu353:
+    lastUpdated: 20160224193337
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-gpsd:
+    lastUpdated: 20160224193338
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-gpsmock:
+    lastUpdated: 20160224193339
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  camel-kura:
+    lastUpdated: 20160224193340
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-lwm2m:
+    lastUpdated: 20160224193340
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  camel-openimaj:
+    lastUpdated: 20160224193341
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  camel-pi4j:
+    lastUpdated: 20160224193342
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-pi4j-mock:
+    lastUpdated: 20160224193342
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  camel-pubnub:
+    lastUpdated: 20160224193343
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-pubnub-feature:
+    lastUpdated: 20160224193344
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-tinkerforge:
+    lastUpdated: 20160224193344
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-tinkerforge-feature:
+    lastUpdated: 20160224193345
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  camel-webcam:
+    lastUpdated: 20160224193345
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot:
+    lastUpdated: 20160224193346
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-activemq:
+    lastUpdated: 20160224193346
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-bom:
+    lastUpdated: 20160224193347
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-bootstrap-activemq:
+    lastUpdated: 20151218071144
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-bootstrap-camel:
+    lastUpdated: 20151218071144
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-bootstrap-core:
+    lastUpdated: 20151218071145
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudlet-binary:
+    lastUpdated: 20151218071146
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudlet-binary-app:
+    lastUpdated: 20151218071147
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudlet-binary-parent:
+    lastUpdated: 20151218071147
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudlet-device:
+    lastUpdated: 20151218071148
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  rhiot-cloudlet-device-app:
+    lastUpdated: 20151218071149
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  rhiot-cloudlet-device-parent:
+    lastUpdated: 20151218071150
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  rhiot-cloudlet-geofencing:
+    lastUpdated: 20160224193348
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-cloudlet-webcam:
+    lastUpdated: 20151218071154
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudlets:
+    lastUpdated: 20160224193349
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-cloudlets-geofencing-parent:
+    lastUpdated: 20160224193349
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-cloudlets-webcam-parent:
+    lastUpdated: 20151218071154
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-cloudplatform:
+    lastUpdated: 20160224193349
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-adapter:
+    lastUpdated: 20160224193349
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-adapter-leshan:
+    lastUpdated: 20160224193350
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-adapter-rest:
+    lastUpdated: 20160224193350
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-camel:
+    lastUpdated: 20160224193351
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-camel-openalpr:
+    lastUpdated: 20160224193351
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-camel-protonj:
+    lastUpdated: 20160224193352
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-connector:
+    lastUpdated: 20160224193352
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-encoding:
+    lastUpdated: 20160224193353
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-encoding-camel:
+    lastUpdated: 20160224193353
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-encoding-json:
+    lastUpdated: 20160224193354
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-encoding-spi:
+    lastUpdated: 20160224193354
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-paas:
+    lastUpdated: 20160224193355
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-paas-adapters:
+    lastUpdated: 20160224193356
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-paas-services:
+    lastUpdated: 20160224193357
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-runtime:
+    lastUpdated: 20160224193358
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-runtime-spring:
+    lastUpdated: 20160224193359
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-schema:
+    lastUpdated: 20160224193359
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service:
+    lastUpdated: 20160224193359
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-binary:
+    lastUpdated: 20160224193400
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-binding:
+    lastUpdated: 20160224193400
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-camera:
+    lastUpdated: 20160224193400
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-device:
+    lastUpdated: 20160224193401
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-device-api:
+    lastUpdated: 20160224193402
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-mailbox:
+    lastUpdated: 20160224193402
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cloudplatform-service-spark:
+    lastUpdated: 20160224193403
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-cmd:
+    lastUpdated: 20160224193403
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-components:
+    lastUpdated: 20151218071156
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.2
+      - 0.1.3
+  rhiot-datasteam-node:
+    lastUpdated: 20151218071156
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream:
+    lastUpdated: 20160224193404
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-datastream-bootstrap:
+    lastUpdated: 20151218071202
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream-components:
+    lastUpdated: 20160224193404
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-datastream-consumer:
+    lastUpdated: 20160224193404
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-datastream-document:
+    lastUpdated: 20160224193404
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-datastream-document-mongodb:
+    lastUpdated: 20160224193405
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-datastream-engine:
+    lastUpdated: 20151218071203
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream-engine-camel:
+    lastUpdated: 20151218071204
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream-source:
+    lastUpdated: 20151218071204
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream-source-rest-camel:
+    lastUpdated: 20151218071205
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-datastream-spark:
+    lastUpdated: 20151218071205
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-deployer:
+    lastUpdated: 20151020131401
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  rhiot-deployer-app:
+    lastUpdated: 20151020131401
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  rhiot-feature:
+    lastUpdated: 20160224193406
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-gateway:
+    lastUpdated: 20160224193406
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-gateway-app:
+    lastUpdated: 20160224193406
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-gateway-components:
+    lastUpdated: 20160224193410
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-gateway-parent:
+    lastUpdated: 20160224193410
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot:
+    lastUpdated: 20160224193410
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-cloudlet:
+    lastUpdated: 20160224193411
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-cloudlet-document-default:
+    lastUpdated: 20160224193411
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-cloudlet-document-parent:
+    lastUpdated: 20160224193411
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-cloudlet-document-sdk:
+    lastUpdated: 20160224193412
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-cloudlet-sdk:
+    lastUpdated: 20160224193412
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-iot-components:
+    lastUpdated: 20151218071211
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  rhiot-iot-deployer:
+    lastUpdated: 20150915051534
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  rhiot-iot-deployer-app:
+    lastUpdated: 20150915051535
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  rhiot-lib:
+    lastUpdated: 20160224193413
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-mongodb:
+    lastUpdated: 20160224193414
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-performance:
+    lastUpdated: 20160224193415
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-scanner:
+    lastUpdated: 20160224193416
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-spring:
+    lastUpdated: 20160224193417
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-spring-activemq:
+    lastUpdated: 20160224193417
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-spring-spark:
+    lastUpdated: 20160224193418
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-steroids:
+    lastUpdated: 20151020131409
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  rhiot-steroids-activemq:
+    lastUpdated: 20151020131410
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  rhiot-steroids-camel:
+    lastUpdated: 20151020131410
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  rhiot-steroids-spark:
+    lastUpdated: 20151218071214
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-steroids-vertx:
+    lastUpdated: 20151218071214
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.3
+  rhiot-tooling:
+    lastUpdated: 20160224193419
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-tooling-cmd-core:
+    lastUpdated: 20160224193419
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-tooling-shell:
+    lastUpdated: 20160224193420
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  rhiot-utils:
+    lastUpdated: 20160224193421
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-utils-leshan-client:
+    lastUpdated: 20160224193422
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-utils-maven:
+    lastUpdated: 20160224193423
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.4
+  rhiot-utils-ssh:
+    lastUpdated: 20160224193424
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  rhiot-vertx:
+    lastUpdated: 20151218071217
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+

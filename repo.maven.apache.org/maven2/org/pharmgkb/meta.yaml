@@ -1,0 +1,45 @@
+artifacts:
+  PharmCAT:
+    lastUpdated: 20170327175337
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3-1-g78efeb9
+      - 0.2.0
+  pgkb-ant:
+    lastUpdated: 20161223212409
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  pgkb-common:
+    lastUpdated: 20170321214430
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+  pgkb-common-io:
+    lastUpdated: 20170106133203
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  vcf-parser:
+    lastUpdated: 20160415070110
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

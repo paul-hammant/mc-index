@@ -1,0 +1,102 @@
+artifacts:
+  crawler-dto:
+    lastUpdated: 20160701070526
+    latest: 0.1.13
+    release: 0.1.13
+    versions:
+      - 0.1.13
+  crawler-logic:
+    lastUpdated: 20160701070849
+    latest: 0.1.13
+    release: 0.1.13
+    versions:
+      - 0.1.13
+  crawler-net:
+    lastUpdated: 20160701070647
+    latest: 0.1.13
+    release: 0.1.13
+    versions:
+      - 0.1.13
+  crawler-parent:
+    lastUpdated: 20160702090150
+    latest: 0.1.13
+    release: 0.1.13
+    versions:
+      - 0.1.13
+  jadelibs-java:
+    lastUpdated: 20160630172427
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jadelibs-scala:
+    lastUpdated: 20160701033246
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  javautils:
+    lastUpdated: 20160702083749
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-base:
+    lastUpdated: 20160701060126
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-cache:
+    lastUpdated: 20160701060159
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-dao:
+    lastUpdated: 20160702083750
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-mongo:
+    lastUpdated: 20160701055924
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-sandtable:
+    lastUpdated: 20160701060732
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  javautils-web:
+    lastUpdated: 20160701060558
+    latest: 0.1.18
+    release: 0.1.18
+    versions:
+      - 0.1.15
+      - 0.1.16
+      - 0.1.18
+  scalautils:
+    lastUpdated: 20160701050708
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+

@@ -1,0 +1,458 @@
+artifacts:
+  conditions-enrichers:
+    lastUpdated: 20170228154538
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  credValidator:
+    lastUpdated: 20160829130535
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  credentialbuilder:
+    lastUpdated: 20170228154538
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  embeddedwebserver:
+    lastUpdated: 20170228154539
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  jisql:
+    lastUpdated: 20170228154539
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ldapconfigcheck:
+    lastUpdated: 20170228154539
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger:
+    lastUpdated: 20170228154540
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-atlas-plugin:
+    lastUpdated: 20170228154540
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-atlas-plugin-shim:
+    lastUpdated: 20170228154540
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-examples:
+    lastUpdated: 20170228154541
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hbase-plugin:
+    lastUpdated: 20170228154541
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hbase-plugin-shim:
+    lastUpdated: 20170228154541
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hdfs-plugin:
+    lastUpdated: 20170228154542
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hdfs-plugin-shim:
+    lastUpdated: 20170228154542
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hive-plugin:
+    lastUpdated: 20170228154542
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hive-plugin-shim:
+    lastUpdated: 20170228154542
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-hive-utils:
+    lastUpdated: 20170228154543
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-kafka-plugin:
+    lastUpdated: 20170228154543
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-kafka-plugin-shim:
+    lastUpdated: 20170228154544
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-kms:
+    lastUpdated: 20170228154544
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-kms-plugin:
+    lastUpdated: 20170228154544
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-kms-plugin-shim:
+    lastUpdated: 20170228154544
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-knox-plugin:
+    lastUpdated: 20170228154545
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-knox-plugin-shim:
+    lastUpdated: 20170228154545
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-nifi-plugin:
+    lastUpdated: 20170228154546
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-plugin-classloader:
+    lastUpdated: 20170228154546
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-plugins-audit:
+    lastUpdated: 20170228154546
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-plugins-common:
+    lastUpdated: 20170228154547
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-plugins-cred:
+    lastUpdated: 20170228154547
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-plugins-installer:
+    lastUpdated: 20170228154547
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-sampleapp-plugin:
+    lastUpdated: 20170228154548
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-solr-plugin:
+    lastUpdated: 20170228154548
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-solr-plugin-shim:
+    lastUpdated: 20170228154548
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-storm-plugin:
+    lastUpdated: 20170228154549
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-storm-plugin-shim:
+    lastUpdated: 20170228154549
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-tagsync:
+    lastUpdated: 20170228154549
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-tools:
+    lastUpdated: 20170228154550
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-util:
+    lastUpdated: 20170228154550
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-yarn-plugin:
+    lastUpdated: 20170228154550
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger-yarn-plugin-shim:
+    lastUpdated: 20170228154551
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  ranger_solrj:
+    lastUpdated: 20170131045048
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  sampleapp:
+    lastUpdated: 20170228154551
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  security-admin-web:
+    lastUpdated: 20170228154551
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  unixauthclient:
+    lastUpdated: 20170228154556
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  unixauthservice:
+    lastUpdated: 20170228154556
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+  unixusersync:
+    lastUpdated: 20170228154556
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+

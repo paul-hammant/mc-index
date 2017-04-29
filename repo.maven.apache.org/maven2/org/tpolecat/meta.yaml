@@ -1,0 +1,745 @@
+artifacts:
+  atto-compat-cats_2.10:
+    lastUpdated: 20170330044131
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-cats_2.11:
+    lastUpdated: 20170330044132
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-cats_2.12:
+    lastUpdated: 20170330044132
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  atto-compat-cats_2.12.0-RC2:
+    lastUpdated: 20161028222001
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0-RC1
+      - 0.5.0
+  atto-compat-cats_sjs0.6_2.10:
+    lastUpdated: 20170330044132
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-compat-cats_sjs0.6_2.11:
+    lastUpdated: 20170330044133
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-compat-cats_sjs0.6_2.12:
+    lastUpdated: 20170330044133
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-compat-scalaz71_2.10:
+    lastUpdated: 20170330044134
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz71_2.11:
+    lastUpdated: 20170330044134
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz71_2.12:
+    lastUpdated: 20170330044134
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz71_2.12.0-RC2:
+    lastUpdated: 20161028222002
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0-RC1
+      - 0.5.0
+  atto-compat-scalaz72_2.10:
+    lastUpdated: 20170330044135
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz72_2.11:
+    lastUpdated: 20170330044135
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz72_2.12:
+    lastUpdated: 20170330044136
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  atto-compat-scalaz72_2.12.0-RC2:
+    lastUpdated: 20161028222004
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0-RC1
+      - 0.5.0
+  atto-compat-scalaz72_sjs0.6_2.10:
+    lastUpdated: 20170330044136
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-compat-scalaz72_sjs0.6_2.11:
+    lastUpdated: 20170330044136
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-compat-scalaz72_sjs0.6_2.12:
+    lastUpdated: 20170330044137
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-core_2.10:
+    lastUpdated: 20170330044137
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.4.2-RC3
+      - 0.4.2-RC4
+      - 0.4.2
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-core_2.11:
+    lastUpdated: 20170330044138
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.4.2-RC2
+      - 0.4.2-RC4
+      - 0.4.2
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-M3
+      - 0.5.0-RC1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  atto-core_2.12:
+    lastUpdated: 20170330044138
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  atto-core_2.12.0-RC2:
+    lastUpdated: 20161028222005
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0-RC1
+      - 0.5.0
+  atto-core_sjs0.6_2.10:
+    lastUpdated: 20170330044139
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-core_sjs0.6_2.11:
+    lastUpdated: 20170330044139
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-core_sjs0.6_2.12:
+    lastUpdated: 20170330044139
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.2
+  atto-spire_2.10:
+    lastUpdated: 20150916034740
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2-RC3
+      - 0.4.2-RC4
+      - 0.4.2
+  atto-spire_2.11:
+    lastUpdated: 20150916034740
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2-RC2
+      - 0.4.2-RC4
+      - 0.4.2
+  atto-stream_2.10:
+    lastUpdated: 20150916034741
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2-RC3
+      - 0.4.2-RC4
+      - 0.4.2
+  atto-stream_2.11:
+    lastUpdated: 20150916034741
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2-RC2
+      - 0.4.2-RC4
+      - 0.4.2
+  doobie-contrib-h2_2.10:
+    lastUpdated: 20161214195350
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-h2_2.11:
+    lastUpdated: 20161214195350
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-h2_2.12:
+    lastUpdated: 20161214195351
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.3.0a
+  doobie-contrib-h2_2.12.0-M3:
+    lastUpdated: 20160708062409
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0
+  doobie-contrib-hikari_2.10:
+    lastUpdated: 20161214195351
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-hikari_2.11:
+    lastUpdated: 20161214195352
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-hikari_2.12:
+    lastUpdated: 20161214195353
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.3.0a
+  doobie-contrib-hikari_2.12.0-M3:
+    lastUpdated: 20160708062410
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0
+  doobie-contrib-postgresql_2.10:
+    lastUpdated: 20161214195353
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-postgresql_2.11:
+    lastUpdated: 20161214195353
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-postgresql_2.12:
+    lastUpdated: 20161214195354
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.3.0a
+  doobie-contrib-postgresql_2.12.0-M3:
+    lastUpdated: 20160708062412
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0
+  doobie-contrib-scalatest-cats_2.11:
+    lastUpdated: 20161114185335
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.3.1-M2
+  doobie-contrib-scalatest-cats_2.12:
+    lastUpdated: 20161114185335
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.3.1-M2
+  doobie-contrib-scalatest_2.11:
+    lastUpdated: 20161114185336
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.3.1-M2
+  doobie-contrib-scalatest_2.12:
+    lastUpdated: 20161114185336
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.3.1-M2
+  doobie-contrib-specs2_2.10:
+    lastUpdated: 20161214195355
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-contrib-specs2_2.11:
+    lastUpdated: 20161214195355
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+      - 0.3.1-M1
+      - 0.3.1-M2
+  doobie-contrib-specs2_2.12:
+    lastUpdated: 20161214195356
+    latest: 0.3.1-M2
+    release: 0.3.1-M2
+    versions:
+      - 0.3.0a
+      - 0.3.1-M2
+  doobie-contrib-specs2_2.12.0-M3:
+    lastUpdated: 20160708062413
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0
+  doobie-core-cats_2.11:
+    lastUpdated: 20170120070450
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-core-cats_2.12:
+    lastUpdated: 20170120070451
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-core_2.10:
+    lastUpdated: 20161214195356
+    latest: 0.3.0a
+    release: 0.3.0a
+    versions:
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+  doobie-core_2.11:
+    lastUpdated: 20170120070453
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.2.3-RC1
+      - 0.2.3-RC2
+      - 0.2.3-RC3
+      - 0.2.3-RC4
+      - 0.2.3
+      - 0.2.4-M1
+      - 0.2.4
+      - 0.3.0-M1
+      - 0.3.0
+      - 0.3.0a
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-core_2.12:
+    lastUpdated: 20170120070454
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0a
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-core_2.12.0-M3:
+    lastUpdated: 20160708062414
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0-M1
+      - 0.3.0
+  doobie-h2-cats_2.11:
+    lastUpdated: 20170120070455
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-h2-cats_2.12:
+    lastUpdated: 20170120070456
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-h2_2.11:
+    lastUpdated: 20170120070457
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-h2_2.12:
+    lastUpdated: 20170120070458
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-hikari-cats_2.11:
+    lastUpdated: 20170120070459
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-hikari-cats_2.12:
+    lastUpdated: 20170120070500
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-hikari_2.11:
+    lastUpdated: 20170120070501
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-hikari_2.12:
+    lastUpdated: 20170120070501
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-postgres-cats_2.11:
+    lastUpdated: 20170120070502
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-postgres-cats_2.12:
+    lastUpdated: 20170120070503
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-postgres_2.11:
+    lastUpdated: 20170120070503
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M1
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-postgres_2.12:
+    lastUpdated: 20170120070503
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M2
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-scalatest-cats_2.11:
+    lastUpdated: 20170120070504
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-scalatest-cats_2.12:
+    lastUpdated: 20170120070504
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-scalatest_2.11:
+    lastUpdated: 20170120070505
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-scalatest_2.12:
+    lastUpdated: 20170120070505
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-specs2-cats_2.11:
+    lastUpdated: 20170120070506
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-specs2-cats_2.12:
+    lastUpdated: 20170120070506
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-specs2_2.11:
+    lastUpdated: 20170120070506
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  doobie-specs2_2.12:
+    lastUpdated: 20170120070507
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.1-M3
+      - 0.4.0-RC1
+      - 0.4.0
+      - 0.4.1
+  tuco-core_2.10:
+    lastUpdated: 20161109055744
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  tuco-core_2.11:
+    lastUpdated: 20161109055745
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  tuco-core_2.12:
+    lastUpdated: 20161109055746
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  tuco-wimpi_2.10:
+    lastUpdated: 20161109055747
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  tuco-wimpi_2.11:
+    lastUpdated: 20161109055747
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  tuco-wimpi_2.12:
+    lastUpdated: 20161109055748
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+

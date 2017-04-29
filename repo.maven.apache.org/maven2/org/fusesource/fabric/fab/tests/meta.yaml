@@ -1,0 +1,150 @@
+artifacts:
+  fab-itests:
+    lastUpdated: 20140530182756
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fab-sample-camel-activemq-broker-share:
+    lastUpdated: 20140530182757
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-activemq-share:
+    lastUpdated: 20140530182757
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-blueprint-share:
+    lastUpdated: 20140530182758
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-noshare:
+    lastUpdated: 20140530182759
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-spring-share:
+    lastUpdated: 20140530182800
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-velocity-noshare:
+    lastUpdated: 20140530182800
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-velocity-require-bundle:
+    lastUpdated: 20140530182802
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fab-sample-camel-velocity-share:
+    lastUpdated: 20140530182802
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  tests-project:
+    lastUpdated: 20140530182803
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+

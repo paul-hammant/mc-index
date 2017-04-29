@@ -1,0 +1,41 @@
+artifacts:
+  csexp_2.11:
+    lastUpdated: 20161208094432
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+  csexp_2.12:
+    lastUpdated: 20161208094433
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  postgresql-fixture-jdbc_2.11:
+    lastUpdated: 20150508071831
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  postgresql-fixture-scalikejdbc_2.11:
+    lastUpdated: 20150508071832
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  postgresql-fixture_2.11:
+    lastUpdated: 20150508071833
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tempgres-client:
+    lastUpdated: 20150928112806
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0
+      - 1.1.0
+      - 1.0
+

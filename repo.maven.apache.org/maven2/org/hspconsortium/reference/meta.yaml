@@ -1,0 +1,198 @@
+artifacts:
+  hspc-reference-api:
+    lastUpdated: 20170417163324
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 0.9
+      - 0.1
+      - 1.0
+  hspc-reference-api-fhir:
+    lastUpdated: 20170417163326
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 0.9
+      - 0.1
+      - 1.0
+  hspc-reference-api-mysql:
+    lastUpdated: 20170417163327
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0.0
+      - 1.4.0
+      - 1.4.1
+      - 0.9
+      - 0.1
+  hspc-reference-api-mysql-multitenant:
+    lastUpdated: 20170417163327
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.4.0
+      - 1.4.1
+  hspc-reference-api-oauth2:
+    lastUpdated: 20170417163328
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 0.9
+      - 0.1
+      - 1.0
+  hspc-reference-api-parent:
+    lastUpdated: 20170417163328
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  hspc-reference-api-smart-support:
+    lastUpdated: 20170417163328
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 0.9
+      - 0.1
+      - 1.0
+  hspc-reference-api-webapp-base:
+    lastUpdated: 20170417163329
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 1.0
+  hspc-reference-api-webapp-multitenant:
+    lastUpdated: 20170417163333
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0
+      - 1.4.0
+      - 1.4.1
+      - 1.0
+  hspc-reference-apps:
+    lastUpdated: 20160310171351
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.9
+      - 0.1
+      - 0.9
+      - 0.1
+  hspc-reference-auth-parent:
+    lastUpdated: 20170420034943
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  hspc-reference-auth-security:
+    lastUpdated: 20170420034943
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.9
+      - 0.1
+      - 1.1
+      - 0.9
+      - 0.1
+      - 1.1
+  hspc-reference-auth-server-jwt-webapp:
+    lastUpdated: 20170420034944
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  hspc-reference-auth-server-ldap-webapp:
+    lastUpdated: 20170420034944
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.1
+      - 0.11
+      - 1.1
+      - 0.1
+      - 0.11
+      - 1.1
+  hspc-reference-auth-server-webapp:
+    lastUpdated: 20170420034945
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 0.11
+      - 0.12
+      - 1.1
+      - 0.11
+      - 0.12
+      - 1.1
+  hspc-reference-messaging:
+    lastUpdated: 20170416213124
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 1.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 1.2
+  hspc-reference-messaging-common:
+    lastUpdated: 20170416213124
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  hspc-reference-messaging-parent:
+    lastUpdated: 20170416213124
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  hspc-reference-release:
+    lastUpdated: 20160216001917
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  hspc-reference-release-spring-boot:
+    lastUpdated: 20160216040346
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+

@@ -1,0 +1,31 @@
+artifacts:
+  cassandra-migration:
+    lastUpdated: 20170403053833
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.10.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  play2-scala-pdf_2.10:
+    lastUpdated: 20170106070024
+    latest: 1.6.1.P24
+    release: 1.6.1.P24
+    versions:
+      - 1.6.1.P24
+  play2-scala-pdf_2.11:
+    lastUpdated: 20170106070025
+    latest: 1.6.1.P25
+    release: 1.6.1.P25
+    versions:
+      - 1.5.1.1
+      - 1.5.1.2
+      - 1.6.0.P24
+      - 1.6.0.P25
+      - 1.6.1.P24
+      - 1.6.1.P25
+

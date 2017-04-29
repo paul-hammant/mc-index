@@ -1,0 +1,74 @@
+artifacts:
+  sbol-data:
+    lastUpdated: 20160518084249
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-core:
+    lastUpdated: 20160518084249
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-examples:
+    lastUpdated: 20160518084250
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-io-RDF:
+    lastUpdated: 20160518084251
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-io-graphviz:
+    lastUpdated: 20160518084251
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-io-json:
+    lastUpdated: 20160518084252
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-io-turtle:
+    lastUpdated: 20160518084254
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  sbol-data-nativeSbol:
+    lastUpdated: 20160518084254
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+

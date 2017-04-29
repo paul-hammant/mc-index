@@ -1,0 +1,80 @@
+artifacts:
+  arquillian-ajocado-api:
+    lastUpdated: 20111019110205
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-build-resources:
+    lastUpdated: 20111019110204
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-drone:
+    lastUpdated: 20111019110206
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-ftest:
+    lastUpdated: 20110330133606
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-ajocado-ftest-junit:
+    lastUpdated: 20111019110208
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-ftest-testng:
+    lastUpdated: 20111019110208
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-impl:
+    lastUpdated: 20111019110205
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-junit:
+    lastUpdated: 20111019110207
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-parent:
+    lastUpdated: 20111019110204
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-ajocado-testng:
+    lastUpdated: 20111019110206
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+

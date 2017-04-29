@@ -1,0 +1,138 @@
+artifacts:
+  aggregate:
+    lastUpdated: 20140429151555
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  aggregate_2.10:
+    lastUpdated: 20150817190653
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  aggregate_2.11:
+    lastUpdated: 20150817190654
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  slf4j-over-timber:
+    lastUpdated: 20140429151556
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  slf4j-over-timber_2.10:
+    lastUpdated: 20150817190654
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  slf4j-over-timber_2.11:
+    lastUpdated: 20160923161221
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  timber:
+    lastUpdated: 20140429151556
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  timber-api:
+    lastUpdated: 20140429151556
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  timber-api_2.10:
+    lastUpdated: 20150817190655
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber-api_2.11:
+    lastUpdated: 20160923161222
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  timber-backend_2.11:
+    lastUpdated: 20160923161223
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  timber-examples:
+    lastUpdated: 20140429151557
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  timber-examples_2.10:
+    lastUpdated: 20150817190656
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber-examples_2.11:
+    lastUpdated: 20150817190657
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber-logback-support:
+    lastUpdated: 20140429151557
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  timber-logback-support_2.10:
+    lastUpdated: 20150817190658
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber-logback-support_2.11:
+    lastUpdated: 20160923161223
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  timber-over-slf4j:
+    lastUpdated: 20140429151558
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  timber-over-slf4j_2.10:
+    lastUpdated: 20150817190659
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber-over-slf4j_2.11:
+    lastUpdated: 20160923161224
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  timber_2.10:
+    lastUpdated: 20150817190700
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  timber_2.11:
+    lastUpdated: 20150817190700
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+

@@ -1,0 +1,329 @@
+artifacts:
+  connect-api:
+    lastUpdated: 20170221075224
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  connect-file:
+    lastUpdated: 20170221075225
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  connect-json:
+    lastUpdated: 20170221075226
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  connect-runtime:
+    lastUpdated: 20170221075227
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  connect-transforms:
+    lastUpdated: 20170221075229
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.10.2.0
+  contrib_2.10:
+    lastUpdated: 20131203201816
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  contrib_2.8.0:
+    lastUpdated: 20131203201820
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  contrib_2.8.2:
+    lastUpdated: 20131203201818
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  contrib_2.9.1:
+    lastUpdated: 20131203201824
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  contrib_2.9.2:
+    lastUpdated: 20131203201827
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  hadoop-consumer:
+    lastUpdated: 20131203201820
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  hadoop-producer:
+    lastUpdated: 20131203201826
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  kafka-clients:
+    lastUpdated: 20170221075230
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka-examples:
+    lastUpdated: 20170221075231
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka-hadoop-consumer:
+    lastUpdated: 20150909204652
+    latest: 0.8.2.2
+    release: 0.8.2.2
+    versions:
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+  kafka-hadoop-producer:
+    lastUpdated: 20150909204655
+    latest: 0.8.2.2
+    release: 0.8.2.2
+    versions:
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+  kafka-java-examples:
+    lastUpdated: 20131203201817
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  kafka-log4j-appender:
+    lastUpdated: 20170221075232
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka-perf_2.10:
+    lastUpdated: 20131203201823
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  kafka-perf_2.8.0:
+    lastUpdated: 20140426125910
+    latest: 0.8.1.1
+    release: 0.8.1.1
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.1.1
+  kafka-perf_2.8.2:
+    lastUpdated: 20131203201819
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  kafka-perf_2.9.1:
+    lastUpdated: 20131203201824
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  kafka-perf_2.9.2:
+    lastUpdated: 20131203201815
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+  kafka-streams:
+    lastUpdated: 20170221075233
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka-streams-examples:
+    lastUpdated: 20170221075234
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka-tools:
+    lastUpdated: 20170221075235
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka_2.10:
+    lastUpdated: 20170221075236
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka_2.11:
+    lastUpdated: 20170221075238
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+      - 0.9.0.0
+      - 0.9.0.1
+      - 0.10.0.0
+      - 0.10.0.1
+      - 0.10.1.0
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka_2.12:
+    lastUpdated: 20170221075240
+    latest: 0.10.2.0
+    release: 0.10.2.0
+    versions:
+      - 0.10.1.1
+      - 0.10.2.0
+  kafka_2.8.0:
+    lastUpdated: 20140426125912
+    latest: 0.8.1.1
+    release: 0.8.1.1
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.1.1
+  kafka_2.8.2:
+    lastUpdated: 20140310214006
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+      - 0.8.1
+  kafka_2.9.1:
+    lastUpdated: 20150909204716
+    latest: 0.8.2.2
+    release: 0.8.2.2
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+  kafka_2.9.2:
+    lastUpdated: 20150909204719
+    latest: 0.8.2.2
+    release: 0.8.2.2
+    versions:
+      - 0.8.0-beta1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.1.1
+      - 0.8.2-beta
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.2.2
+

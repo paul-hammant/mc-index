@@ -1,0 +1,86 @@
+artifacts:
+  GetAggregatedActivities:
+    lastUpdated: 20161103113914
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0
+  GetAggregatedActivities-parent:
+    lastUpdated: 20161103113914
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0
+  GetAggregatedActivities-schemas:
+    lastUpdated: 20161103113914
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0
+  GetAggregatedActivities-teststub:
+    lastUpdated: 20161103113915
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0-RC1
+      - 1.1.0-RC2
+      - 1.1.0
+      - 1.2.0
+  GetAggregatedActivity:
+    lastUpdated: 20150313105435
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  GetAggregatedActivity-parent:
+    lastUpdated: 20150313105435
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  GetAggregatedActivity-schemas:
+    lastUpdated: 20150313105435
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  GetAggregatedActivity-teststub:
+    lastUpdated: 20150313105436
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+

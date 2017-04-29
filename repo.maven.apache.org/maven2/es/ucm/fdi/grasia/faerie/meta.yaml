@@ -1,0 +1,178 @@
+artifacts:
+  assembly-descriptors:
+    lastUpdated: 20120731124252
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  bundle-parent:
+    lastUpdated: 20120731124253
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  config:
+    lastUpdated: 20120731124253
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.adapter.ubikSim:
+    lastUpdated: 20120731124303
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.admin.gui:
+    lastUpdated: 20120731124304
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.broker.osgi:
+    lastUpdated: 20120731124305
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.broker.osgi.test:
+    lastUpdated: 20120731124306
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.container:
+    lastUpdated: 20120731124306
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.container.local:
+    lastUpdated: 20120731124307
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.container.local.test:
+    lastUpdated: 20120731124308
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.core:
+    lastUpdated: 20120731124309
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.model.base:
+    lastUpdated: 20120731124309
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.observer.attributeConditionSet:
+    lastUpdated: 20120731124310
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.observer.remote:
+    lastUpdated: 20120731124310
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  es.ucm.fdi.grasia.faerie.observer.remote.r_osgi:
+    lastUpdated: 20120731124311
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  faerie-parent:
+    lastUpdated: 20120731124316
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.8
+      - 1.2.9
+  model-parent:
+    lastUpdated: 20120731124316
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  parent:
+    lastUpdated: 20120730115533
+    latest: 1.2.7
+    release: 1.2.7
+    versions:
+      - 1.2.6
+      - 1.2.7
+  test-parent:
+    lastUpdated: 20120731124317
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+  tests:
+    lastUpdated: 20120731124317
+    latest: 1.2.9
+    release: 1.2.9
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+

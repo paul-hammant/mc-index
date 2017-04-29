@@ -1,0 +1,20 @@
+artifacts:
+  transmorph:
+    lastUpdated: 20130521203141
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.3
+  transmorph-jdk14:
+    lastUpdated: 20090903202736
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.2
+  transmorph-parent:
+    lastUpdated: 20090903202211
+    latest: {}
+    release: {}
+    versions:
+      - 2.2.2
+

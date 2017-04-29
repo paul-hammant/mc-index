@@ -1,0 +1,59 @@
+artifacts:
+  braille-css:
+    lastUpdated: 20170209133535
+    latest: 1.13.0
+    release: 1.13.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+  braille-utils.api:
+    lastUpdated: 20170302142700
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+  braille-utils.basic-cli:
+    lastUpdated: 20150625103839
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  braille-utils.impl:
+    lastUpdated: 20160602080903
+    latest: 3.0.0-beta
+    release: 3.0.0-beta
+    versions:
+      - 2.0.0
+      - 3.0.0-beta
+  braille-utils.pef-tools:
+    lastUpdated: 20170329091652
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-alpha
+      - 2.0.0
+  braille-utils.ui:
+    lastUpdated: 20170224144649
+    latest: 2.0.0-beta2
+    release: 2.0.0-beta2
+    versions:
+      - 2.0.0-beta1
+      - 2.0.0-beta2
+

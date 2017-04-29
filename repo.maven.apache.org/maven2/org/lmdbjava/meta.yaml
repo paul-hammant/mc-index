@@ -1,0 +1,55 @@
+artifacts:
+  lmdbjava:
+    lastUpdated: 20170208031755
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  lmdbjava-native-linux-x86_64:
+    lastUpdated: 20170207044445
+    latest: 0.9.20-2
+    release: 0.9.20-2
+    versions:
+      - 0.9.18-1
+      - 0.9.18-2
+      - 0.9.18-3
+      - 0.9.19-1
+      - 0.9.20-1
+      - 0.9.20-2
+  lmdbjava-native-osx-x86_64:
+    lastUpdated: 20170207050857
+    latest: 0.9.20-2
+    release: 0.9.20-2
+    versions:
+      - 0.9.18-1
+      - 0.9.18-2
+      - 0.9.18-3
+      - 0.9.19-1
+      - 0.9.20-2
+  lmdbjava-native-parent:
+    lastUpdated: 20170207044446
+    latest: 0.9.20-2
+    release: 0.9.20-2
+    versions:
+      - 0.9.18-1
+      - 0.9.18-2
+      - 0.9.18-3
+      - 0.9.19-1
+      - 0.9.20-1
+      - 0.9.20-2
+  lmdbjava-native-windows-x86_64:
+    lastUpdated: 20170207044446
+    latest: 0.9.20-2
+    release: 0.9.20-2
+    versions:
+      - 0.9.18-1
+      - 0.9.18-2
+      - 0.9.18-3
+      - 0.9.19-1
+      - 0.9.20-1
+      - 0.9.20-2
+

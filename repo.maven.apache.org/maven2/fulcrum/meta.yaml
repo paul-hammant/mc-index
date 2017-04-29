@@ -1,0 +1,150 @@
+artifacts:
+  fulcrum:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 3.0-b1
+      - 3.0-b2-dev
+      - 1.0
+  fulcrum-3.0-b2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - dev
+  fulcrum-bsf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.2
+  fulcrum-cache:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.5
+  fulcrum-crypto:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.5
+  fulcrum-dvsl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.5
+  fulcrum-factory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+  fulcrum-localization:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.5
+  fulcrum-mimetype:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.4
+  fulcrum-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.2
+  fulcrum-osworkflow:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  fulcrum-pool:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+  fulcrum-quartz:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  fulcrum-security-adapter-opensymphony:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-security-adapter-turbine:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-security-api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-security-hibernate:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-security-memory:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-security-nt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.7
+  fulcrum-testcontainer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.4
+  fulcrum-upload:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+  fulcrum-xmlrpc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.5
+  fulcrum-xslt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+  fulcrum-yaafi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.3
+

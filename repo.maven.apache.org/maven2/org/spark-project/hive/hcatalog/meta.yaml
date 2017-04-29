@@ -1,0 +1,51 @@
+artifacts:
+  hive-hcatalog:
+    lastUpdated: 20160408014858
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hcatalog-core:
+    lastUpdated: 20160408014858
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hcatalog-pig-adapter:
+    lastUpdated: 20160408014859
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hcatalog-server-extensions:
+    lastUpdated: 20160408014859
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hcatalog-streaming:
+    lastUpdated: 20160408014900
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-webhcat:
+    lastUpdated: 20160408014900
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-webhcat-java-client:
+    lastUpdated: 20160408014900
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+

@@ -1,0 +1,138 @@
+artifacts:
+  demoiselle-build:
+    lastUpdated: 20170221214818
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-configuration:
+    lastUpdated: 20170221214818
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-core:
+    lastUpdated: 20170221214819
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-crud:
+    lastUpdated: 20170221214819
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-multitenancy-hibernate:
+    lastUpdated: 20161202002050
+    latest: 3.0.0-BETA3
+    release: 3.0.0-BETA3
+    versions:
+      - 3.0.0-BETA3
+  demoiselle-parent:
+    lastUpdated: 20170221214819
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-parent-bom:
+    lastUpdated: 20170221214819
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-parent-rest:
+    lastUpdated: 20170221214820
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-persistence-jpa:
+    lastUpdated: 20161031192919
+    latest: 3.0.0-BETA2
+    release: 3.0.0-BETA2
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+  demoiselle-rest:
+    lastUpdated: 20170221214820
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-script:
+    lastUpdated: 20170221214820
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-security:
+    lastUpdated: 20170221214821
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-security-basic:
+    lastUpdated: 20161031192921
+    latest: 3.0.0-BETA2
+    release: 3.0.0-BETA2
+    versions:
+      - 3.0.0-BETA2
+  demoiselle-security-jwt:
+    lastUpdated: 20170221214821
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+  demoiselle-security-token:
+    lastUpdated: 20170221214821
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0-BETA1
+      - 3.0.0-BETA2
+      - 3.0.0-BETA3
+      - 3.0.0-RC1
+      - 3.0.0
+

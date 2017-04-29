@@ -1,0 +1,399 @@
+artifacts:
+  drombler-acp:
+    lastUpdated: 20170111010319
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-action:
+    lastUpdated: 20170111010319
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-action-spi:
+    lastUpdated: 20170111010320
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-application:
+    lastUpdated: 20170111010321
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-commons:
+    lastUpdated: 20170111010322
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-data:
+    lastUpdated: 20170111010323
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-data-spi:
+    lastUpdated: 20170111010324
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-docking:
+    lastUpdated: 20170111010325
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-docking-spi:
+    lastUpdated: 20170111010326
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-docking-spi-l10n-de:
+    lastUpdated: 20170111010326
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-docking-spi-locale-de:
+    lastUpdated: 20151115120639
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  drombler-acp-core-standard-action:
+    lastUpdated: 20170111010327
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-core-standard-action-data-file:
+    lastUpdated: 20170111010328
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-standard-action-data-file-l10n-de:
+    lastUpdated: 20170111010329
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-standard-action-l10n-de:
+    lastUpdated: 20170111010329
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-core-standard-action-locale-de:
+    lastUpdated: 20151115120641
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  drombler-acp-core-standard-docking:
+    lastUpdated: 20170111010330
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-l10n-all:
+    lastUpdated: 20170111010331
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-l10n-de:
+    lastUpdated: 20170111010331
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.8
+      - 0.9
+      - 0.8
+      - 0.9
+  drombler-acp-locale-all:
+    lastUpdated: 20151115120642
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  drombler-acp-locale-de:
+    lastUpdated: 20151115120642
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  drombler-acp-parent:
+    lastUpdated: 20170111010331
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+  drombler-acp-startup-main:
+    lastUpdated: 20170111010332
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+

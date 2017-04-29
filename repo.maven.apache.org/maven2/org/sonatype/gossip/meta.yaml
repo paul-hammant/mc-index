@@ -1,0 +1,66 @@
+artifacts:
+  gossip:
+    lastUpdated: 20150309141735
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-bootstrap:
+    lastUpdated: 20150309141731
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-bootstrap-slf4j:
+    lastUpdated: 20150309141739
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-core:
+    lastUpdated: 20150309141738
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-extra:
+    lastUpdated: 20150309141741
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-slf4j:
+    lastUpdated: 20150309141732
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  gossip-support:
+    lastUpdated: 20150309141736
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+

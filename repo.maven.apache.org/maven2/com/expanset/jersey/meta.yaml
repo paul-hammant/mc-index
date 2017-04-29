@@ -1,0 +1,78 @@
+artifacts:
+  jersey:
+    lastUpdated: 20150616154833
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-contrib:
+    lastUpdated: 20150616154834
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-jackson:
+    lastUpdated: 20150616154834
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-jetty:
+    lastUpdated: 20150616154834
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-mvc:
+    lastUpdated: 20150616154835
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-mvc-freemarker:
+    lastUpdated: 20150616154835
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-mvc-mustache:
+    lastUpdated: 20150616154836
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  jersey-persistence:
+    lastUpdated: 20150616154836
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-persistence-jpa:
+    lastUpdated: 20150616154837
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-persistence-ormlite:
+    lastUpdated: 20150616154837
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  jersey-validation:
+    lastUpdated: 20150616154837
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

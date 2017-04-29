@@ -1,0 +1,65 @@
+artifacts:
+  diff_2.10:
+    lastUpdated: 20160708191616
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  diff_2.11:
+    lastUpdated: 20160726044656
+    latest: 1.2.0-get-simple-name-fix
+    release: 1.2.0-get-simple-name-fix
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.2.0-get-simple-name-fix
+      - 1.0
+  equals-ignoring-fields_2.11:
+    lastUpdated: 20160806064608
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  lens_2.11:
+    lastUpdated: 20160527221430
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  play-json-extensions_2.11:
+    lastUpdated: 20160323194028
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  typeless_2.11:
+    lastUpdated: 20170404185328
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.7
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.0
+      - 0.3.1
+  x-shapeless_2.11:
+    lastUpdated: 20170216221243
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+

@@ -1,0 +1,32 @@
+artifacts:
+  DominoHttp10Adapter:
+    lastUpdated: 20140217150506
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-RC1
+  DominoHttp10Adapter-parent:
+    lastUpdated: 20140901055819
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+  DominoHttp10AdapterService:
+    lastUpdated: 20140901055820
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+  DominoHttp10AdapterService-test:
+    lastUpdated: 20140901055827
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+

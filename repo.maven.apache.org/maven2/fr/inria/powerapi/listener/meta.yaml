@@ -1,0 +1,105 @@
+artifacts:
+  listener-aggregator:
+    lastUpdated: 20130322233303
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  listener-cpu-console:
+    lastUpdated: 20130322233305
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  listener-cpu-file:
+    lastUpdated: 20130322233305
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  listener-cpu-jfreechart:
+    lastUpdated: 20130322233307
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  listener-cpudisk-console:
+    lastUpdated: 20130322233308
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  listener-cpudisk-jfreechart:
+    lastUpdated: 20130322233310
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  listener-disk-console:
+    lastUpdated: 20130322233312
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+

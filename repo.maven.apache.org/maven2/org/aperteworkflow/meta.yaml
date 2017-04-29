@@ -1,0 +1,732 @@
+artifacts:
+  activiti-context:
+    lastUpdated: 20130509113437
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 1.1
+      - 2.0
+  activiti-gui:
+    lastUpdated: 20130509113437
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 1.1
+      - 2.0
+  activiti-sample-process:
+    lastUpdated: 20150821093300
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.1
+      - 2.0
+  aperte-slim-utils:
+    lastUpdated: 20150821093301
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  aperte-utils:
+    lastUpdated: 20150821093302
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  aperteworkflow-core:
+    lastUpdated: 20150821093302
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  application-case:
+    lastUpdated: 20150821093302
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  application-webapp:
+    lastUpdated: 20150821093303
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  application-widgets:
+    lastUpdated: 20150821093304
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  application-ws:
+    lastUpdated: 20150821093305
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  application-ws-schema:
+    lastUpdated: 20150821093305
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  base-gui:
+    lastUpdated: 20150821093307
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  base-widgets:
+    lastUpdated: 20150821093307
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  bpm-notifications:
+    lastUpdated: 20150821093308
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  case-management:
+    lastUpdated: 20150821093309
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  cmis-interface:
+    lastUpdated: 20130509113441
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 2.0
+  cmis-widget:
+    lastUpdated: 20150821093309
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  context-help-provider:
+    lastUpdated: 20150821093310
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  core:
+    lastUpdated: 20150821093311
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  core-plugins:
+    lastUpdated: 20120521115838
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  custom-widget-archetype:
+    lastUpdated: 20120521115808
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.0
+  doclist-widget:
+    lastUpdated: 20150821093311
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  document-provider-registry:
+    lastUpdated: 20120521115846
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  drools-step:
+    lastUpdated: 20150821093312
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  editor:
+    lastUpdated: 20150821093312
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  editor-interface:
+    lastUpdated: 20150821093314
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  email-capture:
+    lastUpdated: 20150821093314
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  external-plugins:
+    lastUpdated: 20150821093315
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.0-beta1
+      - 3.2-RC1
+  files-capture:
+    lastUpdated: 20150821093316
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  files-repository:
+    lastUpdated: 20150821093317
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  global-dictionaries:
+    lastUpdated: 20150821093317
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  gui-commons:
+    lastUpdated: 20150821093318
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  history-view:
+    lastUpdated: 20130813063102
+    latest: 3.0-beta1
+    release: 3.0-beta1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 2.0
+  incident-process-plugin:
+    lastUpdated: 20130813063102
+    latest: 3.0-beta1
+    release: 3.0-beta1
+    versions:
+      - 3.0-beta1
+  integration:
+    lastUpdated: 20150821093318
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  integration-interface:
+    lastUpdated: 20150821093319
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  integration-liferay:
+    lastUpdated: 20150821093320
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.0-beta1
+      - 3.2-RC1
+  interactive-reports:
+    lastUpdated: 20150821093321
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  jbpm-context:
+    lastUpdated: 20150821093321
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  jbpm-gui:
+    lastUpdated: 20150821093323
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  jdbc-connector:
+    lastUpdated: 20150821093323
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  liferay-commons:
+    lastUpdated: 20150821093324
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  liferay-poc-process:
+    lastUpdated: 20150821093324
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  log-step:
+    lastUpdated: 20130813063108
+    latest: 3.0-beta1
+    release: 3.0-beta1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 1.0
+      - 1.1
+      - 2.0
+  model:
+    lastUpdated: 20150821093325
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  mule-attachment-sample:
+    lastUpdated: 20150821093325
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.1
+      - 2.0
+  mule-esb-plugin:
+    lastUpdated: 20150821093326
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  mule-flightsearch-sample:
+    lastUpdated: 20150821093326
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  plugins:
+    lastUpdated: 20150821093327
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  process-deadlines:
+    lastUpdated: 20150821093327
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  refresher-wrapper:
+    lastUpdated: 20130509113451
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 2.0
+  report-step:
+    lastUpdated: 20130509113452
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 1.0
+      - 1.1
+      - 2.0
+  sample-mule-step:
+    lastUpdated: 20150821093328
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  samples:
+    lastUpdated: 20150821093328
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  scheduler-integration:
+    lastUpdated: 20150821093329
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  scripting:
+    lastUpdated: 20150821093329
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.1
+      - 2.0
+  server-libs:
+    lastUpdated: 20150821093330
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.2-RC1
+  user-substitution-process:
+    lastUpdated: 20130813063113
+    latest: 3.0-beta1
+    release: 3.0-beta1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 2.0
+  user-substitution-step:
+    lastUpdated: 20130813063113
+    latest: 3.0-beta1
+    release: 3.0-beta1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 2.0
+  userdata-service:
+    lastUpdated: 20150821093330
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 2.0
+  userdata-widget:
+    lastUpdated: 20150821093330
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  utils:
+    lastUpdated: 20150821093331
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+  vaadin-addons:
+    lastUpdated: 20130509113455
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0-RC1
+      - 2.0
+      - 2.0
+  webapi:
+    lastUpdated: 20150821093331
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 3.0-beta1
+      - 3.2-RC1
+  xml-utils:
+    lastUpdated: 20150821093332
+    latest: 3.2-RC1
+    release: 3.2-RC1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 2.0-RC1
+      - 2.0
+      - 3.0-beta1
+      - 3.2-RC1
+      - 1.0
+      - 1.1
+      - 2.0
+

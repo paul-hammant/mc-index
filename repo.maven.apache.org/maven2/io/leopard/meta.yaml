@@ -1,0 +1,769 @@
+artifacts:
+  autounit:
+    lastUpdated: 20150820185625
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  burrow:
+    lastUpdated: 20141026150041
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  burrow-beans:
+    lastUpdated: 20141026150042
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  burrow-hosts4j:
+    lastUpdated: 20141026150043
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  burrow-httpnb:
+    lastUpdated: 20141026150043
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  burrow-json:
+    lastUpdated: 20141026150044
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  burrow-lang:
+    lastUpdated: 20141026150044
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  burrow-mock4j:
+    lastUpdated: 20141026150045
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  burrow-timer4j:
+    lastUpdated: 20141026150045
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  burrow-topnb:
+    lastUpdated: 20141006173607
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  cloud-parent:
+    lastUpdated: 20161018202435
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.1
+      - 0.2
+      - 0.5
+      - 0.6
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+      - 0.1
+      - 0.2
+      - 0.5
+      - 0.6
+  hosts4j:
+    lastUpdated: 20141005123511
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  httpnb:
+    lastUpdated: 20141005123512
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  javahost:
+    lastUpdated: 20161018202435
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+      - 0.1
+      - 0.2
+      - 0.3
+  leopard:
+    lastUpdated: 20161018202436
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-admin:
+    lastUpdated: 20161018202436
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.1
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-aliyun:
+    lastUpdated: 20161031165140
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-allow:
+    lastUpdated: 20161018202436
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.1
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-avgtime:
+    lastUpdated: 20150906022851
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  leopard-biz:
+    lastUpdated: 20161018202437
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-cache:
+    lastUpdated: 20161018202437
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-captcha:
+    lastUpdated: 20161018202438
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-chart:
+    lastUpdated: 20161018202438
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-cloud-parent:
+    lastUpdated: 20161031165140
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-command:
+    lastUpdated: 20161018202439
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-convert:
+    lastUpdated: 20161018202439
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.8
+      - 0.9.10
+  leopard-data:
+    lastUpdated: 20161018202439
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-data-parent:
+    lastUpdated: 20161018202440
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-debug-parent:
+    lastUpdated: 20150906022852
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  leopard-delay:
+    lastUpdated: 20150906022852
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  leopard-dfs:
+    lastUpdated: 20161018202440
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-exception:
+    lastUpdated: 20161018202440
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.8
+      - 0.9.10
+  leopard-freemarker:
+    lastUpdated: 20161018202441
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-frequency:
+    lastUpdated: 20161018202441
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-httpnb:
+    lastUpdated: 20161018202441
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-jdbc:
+    lastUpdated: 20161018202442
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-jetty:
+    lastUpdated: 20161018202442
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-jetty-handler:
+    lastUpdated: 20161018202443
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.8
+      - 0.9.10
+  leopard-jetty-jsp:
+    lastUpdated: 20161018202444
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-jetty-test:
+    lastUpdated: 20161018202444
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.5
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-json:
+    lastUpdated: 20161018202444
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-kit:
+    lastUpdated: 20161018202445
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-lang:
+    lastUpdated: 20161018202446
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-lang-parent:
+    lastUpdated: 20161018202446
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-log:
+    lastUpdated: 20161018202446
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-memcache:
+    lastUpdated: 20161018202447
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-memdb:
+    lastUpdated: 20161018202448
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-mock:
+    lastUpdated: 20161018202448
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-mocknb:
+    lastUpdated: 20161018202449
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-mongo:
+    lastUpdated: 20161018202449
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-monitor:
+    lastUpdated: 20161018202450
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.10
+  leopard-mvc-parent:
+    lastUpdated: 20161018202451
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-parent:
+    lastUpdated: 20161018202451
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.1
+      - 0.2
+      - 0.5
+      - 0.6
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+      - 0.1
+      - 0.2
+      - 0.5
+      - 0.6
+  leopard-passport:
+    lastUpdated: 20161018202451
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-proxy:
+    lastUpdated: 20161018202452
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-queue:
+    lastUpdated: 20161018202452
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-redis:
+    lastUpdated: 20161018202453
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-rpc:
+    lastUpdated: 20161018202453
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-schema:
+    lastUpdated: 20161018202454
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-security-parent:
+    lastUpdated: 20161018202454
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.1
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-servlet:
+    lastUpdated: 20161018202454
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-session:
+    lastUpdated: 20161018202455
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-test:
+    lastUpdated: 20161018202455
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-test-parent:
+    lastUpdated: 20161018202455
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-timer:
+    lastUpdated: 20161018202456
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.3
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-tomcat:
+    lastUpdated: 20161018202457
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-treedata:
+    lastUpdated: 20161018202458
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.8
+      - 0.9.10
+  leopard-trynb:
+    lastUpdated: 20161018202459
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-upload:
+    lastUpdated: 20161018202501
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.10
+  leopard-util:
+    lastUpdated: 20161018202501
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  leopard-web:
+    lastUpdated: 20161018202502
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.10
+  leopard-xparam:
+    lastUpdated: 20161018202503
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.0.2
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  mock4j:
+    lastUpdated: 20141005123512
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nobug-csrf:
+    lastUpdated: 20161018202504
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  nobug-parent:
+    lastUpdated: 20161018202504
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  nobug-xss:
+    lastUpdated: 20161018202505
+    latest: 0.9.10
+    release: 0.9.10
+    versions:
+      - 0.9.4
+      - 0.9.6
+      - 0.9.8
+      - 0.9.10
+  test4j:
+    lastUpdated: 20141007055530
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  test4j-core:
+    lastUpdated: 20141007055530
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  test4j-jetty:
+    lastUpdated: 20141007055531
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  timer4j:
+    lastUpdated: 20141005120149
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  top4j:
+    lastUpdated: 20141027192118
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  top4j-method:
+    lastUpdated: 20141027192118
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  topnb:
+    lastUpdated: 20141005123513
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  web4j:
+    lastUpdated: 20141027192118
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  web4j-nobug:
+    lastUpdated: 20141027192118
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  web4j-servlet:
+    lastUpdated: 20141027192119
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  web4j-trynb:
+    lastUpdated: 20141027192120
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  web4j-view:
+    lastUpdated: 20141027192120
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

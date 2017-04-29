@@ -1,0 +1,19 @@
+artifacts:
+  embedded-jetty:
+    lastUpdated: 20140526210153
+    latest: 1.1+9.1
+    release: 1.1+9.1
+    versions:
+      - 1.0+9.1
+      - 1.1+9.1
+  embedded-jetty_9.2:
+    lastUpdated: 20150318115848
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2
+      - 1.2.1-RC1
+      - 1.2.1
+      - 1.2.2
+      - 1.2
+

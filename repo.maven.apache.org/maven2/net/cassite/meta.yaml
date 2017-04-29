@@ -1,0 +1,51 @@
+artifacts:
+  captcha:
+    lastUpdated: 20160608162246
+    latest: 0.0.1-RELEASE
+    release: 0.0.1-RELEASE
+    versions:
+      - 0.0.1-RELEASE
+  daf4j-api:
+    lastUpdated: 20151213071019
+    latest: 0.1.2-SNAPSHOT-1
+    release: 0.1.2-SNAPSHOT-1
+    versions:
+      - 0.0.2-RELEASE
+      - 0.0.3-RELEASE
+      - 0.1.0-RELEASE
+      - 0.1.1-RELEASE
+      - 0.1.2-SNAPSHOT-1
+  daf4j-ds-jpa:
+    lastUpdated: 20151219061715
+    latest: 0.1.2-SNAPSHOT-2
+    release: 0.1.2-SNAPSHOT-2
+    versions:
+      - 0.0.2-RELEASE
+      - 0.0.3-RELEASE
+      - 0.1.0-RELEASE
+      - 0.1.1-RELEASE
+      - 0.1.2-SNAPSHOT-1
+      - 0.1.2-SNAPSHOT-2
+  pure.ioc:
+    lastUpdated: 20160131084210
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.3
+      - 0.2.1
+      - 0.2.2
+      - 0.3.1
+      - 0.3.2
+  search:
+    lastUpdated: 20160607033604
+    latest: 0.0.1-RELEASE
+    release: 0.0.1-RELEASE
+    versions:
+      - 0.0.1-RELEASE
+  style:
+    lastUpdated: 20151122124333
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+

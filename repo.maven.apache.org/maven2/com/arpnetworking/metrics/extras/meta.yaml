@@ -1,0 +1,113 @@
+artifacts:
+  apache-http-sink-extra:
+    lastUpdated: 20170116085717
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  codahale-extra:
+    lastUpdated: 20160108200757
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  codahale-extra-parent:
+    lastUpdated: 20160108200758
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  codahale-replace:
+    lastUpdated: 20160108200758
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  codahale-shaded:
+    lastUpdated: 20160108200758
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  file-sink-extra:
+    lastUpdated: 20170403173606
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  incubator-extra:
+    lastUpdated: 20170314213623
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  jvm-extra:
+    lastUpdated: 20151108180649
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.5
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  vertx-extra:
+    lastUpdated: 20160307222223
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.1
+      - 0.5.0
+  yammer-extra:
+    lastUpdated: 20160126014649
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.8
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  yammer-extra-parent:
+    lastUpdated: 20160126014650
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.8
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  yammer-replace:
+    lastUpdated: 20160126014650
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.8
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  yammer-shaded:
+    lastUpdated: 20160126014651
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.3.8
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+

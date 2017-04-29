@@ -1,0 +1,188 @@
+artifacts:
+  jboss-bom-parent:
+    lastUpdated: 20150423170543
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-wildfly:
+    lastUpdated: 20160321174104
+    latest: 10.0.0.CR2
+    release: 10.0.0.CR2
+    versions:
+      - 9.0.0.Beta3
+      - 9.0.0.CR1
+      - 9.0.0.CR2
+      - 9.0.0.Final
+      - 9.0.1.Final
+      - 9.0.2.Final
+      - 10.0.0.Beta1
+      - 10.0.0.Beta2
+      - 10.0.0.CR2
+  jboss-javaee-7.0-wildfly-with-hibernate3:
+    lastUpdated: 20160321174105
+    latest: 9.0.2.Final
+    release: 9.0.2.Final
+    versions:
+      - 9.0.0.Beta3
+      - 9.0.0.CR1
+      - 9.0.0.CR2
+      - 9.0.0.Final
+      - 9.0.1.Final
+      - 9.0.2.Final
+  jboss-javaee-7.0-wildfly-with-tools:
+    lastUpdated: 20160321174105
+    latest: 10.0.0.CR2
+    release: 10.0.0.CR2
+    versions:
+      - 9.0.0.Beta3
+      - 9.0.0.CR1
+      - 9.0.0.CR2
+      - 9.0.0.Final
+      - 9.0.1.Final
+      - 9.0.2.Final
+      - 10.0.0.Beta1
+      - 10.0.0.Beta2
+      - 10.0.0.CR2
+  jboss-javaee-7.0-with-all:
+    lastUpdated: 20150423170544
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-hibernate:
+    lastUpdated: 20150423170544
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-hibernate3:
+    lastUpdated: 20150423170545
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-infinispan:
+    lastUpdated: 20150423170545
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-logging:
+    lastUpdated: 20150423170546
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-resteasy:
+    lastUpdated: 20150423170547
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-security:
+    lastUpdated: 20150423170547
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-tools:
+    lastUpdated: 20150423170548
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  jboss-javaee-7.0-with-transactions:
+    lastUpdated: 20150423170548
+    latest: 9.0.0.Beta2
+    release: 9.0.0.Beta2
+    versions:
+      - 8.0.0.Final
+      - 8.1.0.Final
+      - 8.2.0.Final
+      - 8.2.1.Final
+      - 8.2.2.Final
+      - 9.0.0.Beta2
+  wildfly:
+    lastUpdated: 20170410130249
+    latest: 11.0.0.Alpha2
+    release: 11.0.0.Alpha2
+    versions:
+      - 11.0.0.Alpha1
+      - 11.0.0.Alpha2
+  wildfly-javaee7:
+    lastUpdated: 20170410130249
+    latest: 11.0.0.Alpha2
+    release: 11.0.0.Alpha2
+    versions:
+      - 10.0.0.CR3
+      - 10.0.0.CR4
+      - 10.0.0.CR5
+      - 10.0.0.Final
+      - 10.0.1.Final
+      - 10.1.0.CR1
+      - 10.1.0.Final
+      - 10.1.1.Final
+      - 11.0.0.Alpha1
+      - 11.0.0.Alpha2
+  wildfly-javaee7-with-tools:
+    lastUpdated: 20170410130250
+    latest: 11.0.0.Alpha2
+    release: 11.0.0.Alpha2
+    versions:
+      - 10.0.0.CR3
+      - 10.0.0.CR4
+      - 10.0.0.CR5
+      - 10.0.0.Final
+      - 10.0.1.Final
+      - 10.1.0.CR1
+      - 10.1.0.Final
+      - 10.1.1.Final
+      - 11.0.0.Alpha1
+      - 11.0.0.Alpha2
+

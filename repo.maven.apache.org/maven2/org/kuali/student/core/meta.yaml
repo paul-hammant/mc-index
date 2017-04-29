@@ -1,0 +1,278 @@
+artifacts:
+  ks-common:
+    lastUpdated: 20140925171412
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-common-impl:
+    lastUpdated: 20140925171412
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-common-test:
+    lastUpdated: 20140925171413
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-common-ui:
+    lastUpdated: 20140925171414
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-common-util:
+    lastUpdated: 20140925171415
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core:
+    lastUpdated: 20140925171416
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core-api:
+    lastUpdated: 20120717220739
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-core-impl:
+    lastUpdated: 20140925171417
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core-krms:
+    lastUpdated: 20140925171418
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core-rice:
+    lastUpdated: 20120717220741
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-core-sql:
+    lastUpdated: 20140925171418
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core-ui:
+    lastUpdated: 20140925171419
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-core-web:
+    lastUpdated: 20140925171420
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-cxf:
+    lastUpdated: 20140925171420
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-eclipselink:
+    lastUpdated: 20140925171420
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-hibernate:
+    lastUpdated: 20140925171421
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-jta:
+    lastUpdated: 20140925171421
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-metro:
+    lastUpdated: 20140925171421
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-rice-lessdep:
+    lastUpdated: 20140925171422
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-rice-sql:
+    lastUpdated: 20140925171422
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-security:
+    lastUpdated: 20140925171422
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-standard-sec:
+    lastUpdated: 20140925171423
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-sts:
+    lastUpdated: 20140925171423
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+

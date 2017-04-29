@@ -1,0 +1,375 @@
+artifacts:
+  org.jflux.api.common.rk:
+    lastUpdated: 20161017215955
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.api.core:
+    lastUpdated: 20161017215956
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.api.data:
+    lastUpdated: 20161017215956
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.api.messaging.rk:
+    lastUpdated: 20161017215956
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.api.registry:
+    lastUpdated: 20161017215957
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.api.services:
+    lastUpdated: 20161017215957
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.demo.discovery:
+    lastUpdated: 20161017215957
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.demo.services:
+    lastUpdated: 20161017215958
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.extern.utils.apache_commons_configuration.rk:
+    lastUpdated: 20161017215958
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.extern.utils.xpp3.rk:
+    lastUpdated: 20161017215959
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.impl.encode.avro:
+    lastUpdated: 20161017215959
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.impl.messaging:
+    lastUpdated: 20120512061808
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  org.jflux.impl.messaging.rk:
+    lastUpdated: 20161017215959
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.impl.registry.osgi:
+    lastUpdated: 20161017220000
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.impl.services.rk:
+    lastUpdated: 20161017220000
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.impl.transport.qpid:
+    lastUpdated: 20161017220001
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.modules.main:
+    lastUpdated: 20161017220001
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.modules.rk:
+    lastUpdated: 20161017220001
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.onto.common:
+    lastUpdated: 20161017220001
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.5
+  org.jflux.project.root:
+    lastUpdated: 20161017220002
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.resource.avrogen.templates:
+    lastUpdated: 20161017220002
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.spec.discovery:
+    lastUpdated: 20161017220002
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.spec.messaging:
+    lastUpdated: 20161017220003
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.spec.services:
+    lastUpdated: 20161017220003
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.swing.messaging:
+    lastUpdated: 20161017220004
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.8
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  org.jflux.swing.services:
+    lastUpdated: 20161017220004
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+

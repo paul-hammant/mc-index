@@ -1,0 +1,388 @@
+artifacts:
+  maven-xdoclet-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b4
+  maven-xdoclet2-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0.2
+  xdoclet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 20050418.170938
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 2.0
+      - 2.0.2
+      - 2.0.3
+      - 20041211.160202
+      - 20041211.161452
+      - 20041212.155351
+      - 20050202.195732
+      - 20050206.203044
+      - 20050208.122154
+      - 20050208.211518
+      - 1.2.3
+      - 2.0.4
+  xdoclet-apache-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-bea-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-borland-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b4
+  xdoclet-caucho-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-de-locale:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+  xdoclet-ejb-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-exolab-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-fr_FR-locale:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+  xdoclet-hibernate-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-hp-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-ibm-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-java-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-jboss-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-jdo-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-jmx-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-jsf-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+  xdoclet-libelis-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b2
+      - 1.2b4
+  xdoclet-macromedia-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-mockobjects-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b4
+  xdoclet-mvcsoft-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-mx4j-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-objectweb-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-openejb-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+  xdoclet-oracle-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b4
+  xdoclet-orion-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-portlet-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+  xdoclet-pramati-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-pt_BR-locale:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+  xdoclet-solarmetric-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+      - 1.2b2
+      - 1.2b4
+  xdoclet-spring-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+  xdoclet-sun-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b4
+  xdoclet-sybase-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-tjdo-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+      - 1.2b2
+      - 1.2b4
+  xdoclet-web-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-webwork-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2.3
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+  xdoclet-wsee-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.3
+  xdoclet-xdoclet-module:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+      - 1.2b1
+      - 1.2b2
+      - 1.2b4
+      - 1.2.3
+  xdoclet-xjavadoc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.2b1
+      - 1.2b2
+  xdoclet-xjavadoc-uc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2b2
+  xjavadoc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1
+

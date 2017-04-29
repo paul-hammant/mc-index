@@ -1,0 +1,86 @@
+artifacts:
+  oauth2-authzserver:
+    lastUpdated: 20100929134917
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-client:
+    lastUpdated: 20100929134922
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-common:
+    lastUpdated: 20100929134921
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-demo:
+    lastUpdated: 20100929134925
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-dynamicreg-client:
+    lastUpdated: 20100929134918
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-dynamicreg-common:
+    lastUpdated: 20100929134915
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-dynamicreg-server:
+    lastUpdated: 20100929134924
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-httpclient4:
+    lastUpdated: 20100929134914
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-integration-tests:
+    lastUpdated: 20100929134924
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-parent:
+    lastUpdated: 20100929134927
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-resourceserver:
+    lastUpdated: 20100929134919
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  oauth2-rs-filter:
+    lastUpdated: 20100929134927
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

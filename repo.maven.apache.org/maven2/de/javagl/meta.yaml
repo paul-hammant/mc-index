@@ -1,0 +1,103 @@
+artifacts:
+  common:
+    lastUpdated: 20151126165832
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  common-ui:
+    lastUpdated: 20160127214429
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  geom:
+    lastUpdated: 20150622184825
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  hexagon:
+    lastUpdated: 20150623175227
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nd-arrays:
+    lastUpdated: 20151208222332
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nd-distance:
+    lastUpdated: 20151208222332
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nd-iteration:
+    lastUpdated: 20151208222333
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nd-parent:
+    lastUpdated: 20151208222333
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  nd-tuples:
+    lastUpdated: 20151208222333
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  obj:
+    lastUpdated: 20151027001840
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  selection:
+    lastUpdated: 20150623175228
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  swing-tasks:
+    lastUpdated: 20160711190022
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  treetable:
+    lastUpdated: 20160121220940
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  viewer:
+    lastUpdated: 20150817191639
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  viewer-cells:
+    lastUpdated: 20150801150644
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  viewer-functions:
+    lastUpdated: 20150817191640
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

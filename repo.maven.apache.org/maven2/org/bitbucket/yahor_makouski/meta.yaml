@@ -1,0 +1,33 @@
+artifacts:
+  FFmpegAndroid:
+    lastUpdated: 20141216115418
+    latest: 0.2.5.9-no-assets
+    release: 0.2.5.9-no-assets
+    versions:
+      - 0.2.5.6
+      - 0.2.5.7
+      - 0.2.5.8
+      - 0.2.5.9
+      - 0.2.5.9-no-assets
+  custom-FFmpegAndroid:
+    lastUpdated: 20141105104907
+    latest: 0.2.5.5
+    release: 0.2.5.5
+    versions:
+      - 0.2.5.5
+  exoplayer:
+    lastUpdated: 20150212113925
+    latest: 1.0.13.10
+    release: 1.0.13.10
+    versions:
+      - 1.0.13.8
+      - 1.0.13.9
+      - 1.0.13.10
+  slf4j-composite:
+    lastUpdated: 20141105104913
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

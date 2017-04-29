@@ -1,0 +1,94 @@
+artifacts:
+  android-service-parent:
+    lastUpdated: 20151208092430
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  java-parent:
+    lastUpdated: 20170323135555
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+  org.eclipse.paho.android.service:
+    lastUpdated: 20170202130238
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.1.1
+  org.eclipse.paho.client.eclipse.feature:
+    lastUpdated: 20160622125349
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.client.eclipse.view:
+    lastUpdated: 20160622125350
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.client.mqttv3:
+    lastUpdated: 20170323135555
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+  org.eclipse.paho.client.mqttv3.repository:
+    lastUpdated: 20160622125350
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.client.mqttv3.test:
+    lastUpdated: 20160622125350
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.mqtt.utility:
+    lastUpdated: 20160622125351
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.ui:
+    lastUpdated: 20160622125351
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.ui.app:
+    lastUpdated: 20160622125351
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.ui.core:
+    lastUpdated: 20160622125354
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  org.eclipse.paho.ui.plugin:
+    lastUpdated: 20160622125354
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+

@@ -1,0 +1,62 @@
+artifacts:
+  wise:
+    lastUpdated: 20160607075304
+    latest: 2.1.0.Final
+    release: 2.1.0.Final
+    versions:
+      - 1.1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.1.0.Final
+      - 1.1
+  wise-core:
+    lastUpdated: 20160607075305
+    latest: 2.1.0.Final
+    release: 2.1.0.Final
+    versions:
+      - 1.1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.1.0.Final
+      - 1.1
+  wise-core-cxf:
+    lastUpdated: 20160607075305
+    latest: 2.1.0.Final
+    release: 2.1.0.Final
+    versions:
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.1.0.Final
+  wise-gwt:
+    lastUpdated: 20160610125841
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Final
+  wise-gwt-gui:
+    lastUpdated: 20160610125841
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Final
+  wise-integration:
+    lastUpdated: 20100426025714
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  wise-parent:
+    lastUpdated: 20100426025719
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

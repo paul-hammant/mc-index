@@ -1,0 +1,73 @@
+artifacts:
+  ci-backend-aggregator:
+    lastUpdated: 20160714151659
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-api:
+    lastUpdated: 20160714151659
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-bom:
+    lastUpdated: 20160714151659
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-cli:
+    lastUpdated: 20160714151700
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-core:
+    lastUpdated: 20160714151700
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-depchain:
+    lastUpdated: 20160714151700
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-hsqldb:
+    lastUpdated: 20160714151700
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ci-backend-mem:
+    lastUpdated: 20160714151700
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  ci-backend-spi:
+    lastUpdated: 20160714151701
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+

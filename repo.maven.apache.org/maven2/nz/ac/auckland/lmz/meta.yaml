@@ -1,0 +1,63 @@
+artifacts:
+  groovy-controlpanel:
+    lastUpdated: 20140607115255
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.1
+      - 3.2
+      - 3.3
+  lmz-controlpanel:
+    lastUpdated: 20140428222518
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.1
+      - 3.2
+      - 3.1
+      - 3.2
+  lmz-controlpanel-auth:
+    lastUpdated: 20140604220339
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lmz-services:
+    lastUpdated: 20140316031251
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lmz-simple-spring-webhost:
+    lastUpdated: 20140316050819
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lmz-version:
+    lastUpdated: 20140319000321
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  periodic-jobs-controlpanel:
+    lastUpdated: 20140428222518
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.1
+      - 3.2
+      - 3.3
+

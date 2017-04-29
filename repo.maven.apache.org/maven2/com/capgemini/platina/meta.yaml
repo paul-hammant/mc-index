@@ -1,0 +1,37 @@
+artifacts:
+  platina:
+    lastUpdated: 20080811151005
+    latest: {}
+    release: {}
+    versions:
+      - 4
+      - 5
+      - 5.1
+      - 4
+      - 5
+      - 5.1
+  platina-build-tools:
+    lastUpdated: 20080429102342
+    latest: {}
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  platina-logging:
+    lastUpdated: 20080616133712
+    latest: {}
+    release: {}
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  platina-tests:
+    lastUpdated: 20080822134241
+    latest: {}
+    release: {}
+    versions:
+      - 1
+      - 1
+

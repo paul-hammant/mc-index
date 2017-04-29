@@ -1,0 +1,61 @@
+artifacts:
+  catframe:
+    lastUpdated: 20170217014348
+    latest: 1.03
+    release: 1.03
+    versions:
+      - 1.0
+      - 1.01
+      - 1.02
+      - 1.03
+  catframe-common:
+    lastUpdated: 20170217014348
+    latest: 1.03
+    release: 1.03
+    versions:
+      - 1.0
+      - 1.01
+      - 1.02
+      - 1.03
+  catframe-dao:
+    lastUpdated: 20170306095313
+    latest: 1.04
+    release: 1.04
+    versions:
+      - 1.0
+      - 1.01
+      - 1.02
+      - 1.03
+      - 1.04
+  catframe-rmi:
+    lastUpdated: 20170217014348
+    latest: 1.03
+    release: 1.03
+    versions:
+      - 1.0
+      - 1.02
+      - 1.03
+  catframe-servicebase:
+    lastUpdated: 20170217014349
+    latest: 1.03
+    release: 1.03
+    versions:
+      - 1.0
+      - 1.02
+      - 1.03
+  georewrite:
+    lastUpdated: 20170307080249
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.0
+      - 1.1
+      - 1.11
+  h2:
+    lastUpdated: 20170105021745
+    latest: wt-1.0.1
+    release: wt-1.0.1
+    versions:
+      - wt-1.0
+      - wt-1.0.1
+

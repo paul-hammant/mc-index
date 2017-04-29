@@ -1,0 +1,30 @@
+artifacts:
+  clojure-runtime-shim:
+    lastUpdated: 20130711135613
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  clojure-runtime-shim-api:
+    lastUpdated: 20130711135614
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  clojure-runtime-shim-impl:
+    lastUpdated: 20130711135614
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  dynapath:
+    lastUpdated: 20161209192816
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+

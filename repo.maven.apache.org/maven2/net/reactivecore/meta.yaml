@@ -1,0 +1,36 @@
+artifacts:
+  cassandra-caseclass-adapter_2.10:
+    lastUpdated: 20170420194336
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  cassandra-caseclass-adapter_2.11:
+    lastUpdated: 20170420194336
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  cassandra-caseclass-adapter_2.12:
+    lastUpdated: 20170420194337
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  mongofaker_2.10:
+    lastUpdated: 20150508145819
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2
+  mongofaker_2.11:
+    lastUpdated: 20150508145820
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+

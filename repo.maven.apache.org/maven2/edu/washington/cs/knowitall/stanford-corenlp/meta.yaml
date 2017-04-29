@@ -1,0 +1,41 @@
+artifacts:
+  stanford-dcoref-models:
+    lastUpdated: 20130524205559
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+  stanford-ner-models:
+    lastUpdated: 20130524205602
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+  stanford-parse-models:
+    lastUpdated: 20130524205604
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+  stanford-postag-models:
+    lastUpdated: 20130524205604
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+  stanford-sutime-models:
+    lastUpdated: 20130524205605
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.4
+      - 1.3.5
+

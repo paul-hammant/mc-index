@@ -1,0 +1,53 @@
+artifacts:
+  configuration:
+    lastUpdated: 20131211203032
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  i18n:
+    lastUpdated: 20140410115427
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  logging:
+    lastUpdated: 20140409180542
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  messagecompositor:
+    lastUpdated: 20141009181712
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  parent:
+    lastUpdated: 20140324234046
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  reflect:
+    lastUpdated: 20140926150802
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.1.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+

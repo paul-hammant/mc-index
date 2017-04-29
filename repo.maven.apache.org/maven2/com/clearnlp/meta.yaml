@@ -1,0 +1,67 @@
+artifacts:
+  clearnlp:
+    lastUpdated: 20140127191929
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  clearnlp-dictionary:
+    lastUpdated: 20131111072616
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  clearnlp-general-en-dep:
+    lastUpdated: 20131128053824
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  clearnlp-general-en-pos:
+    lastUpdated: 20131128053854
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  clearnlp-general-en-srl:
+    lastUpdated: 20131128053857
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  clearnlp-medical-en-dep:
+    lastUpdated: 20131112042747
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  clearnlp-medical-en-pos:
+    lastUpdated: 20131112042755
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  clearnlp-medical-en-srl:
+    lastUpdated: 20131112043125
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

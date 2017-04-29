@@ -1,0 +1,780 @@
+artifacts:
+  categories:
+    lastUpdated: 20140911131938
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M4
+  common:
+    lastUpdated: 20150319130445
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  customers:
+    lastUpdated: 20141104163756
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+  integration-test-lib:
+    lastUpdated: 20141104163802
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M7
+  integration-test-lib_2.10:
+    lastUpdated: 20141017083329
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  inventory:
+    lastUpdated: 20141104163804
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+  java-client:
+    lastUpdated: 20150319130445
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  java-client-apache-async:
+    lastUpdated: 20150319130446
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M11
+      - 1.0.0-M12
+  java-client-core:
+    lastUpdated: 20150319130446
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M11
+      - 1.0.0-M12
+  jvm-sdk:
+    lastUpdated: 20150319130447
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  jvm-sdk_2.10:
+    lastUpdated: 20141017083330
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  models:
+    lastUpdated: 20150319130448
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  play-2_2-java-client_2.10:
+    lastUpdated: 20150319130942
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  play-2_3-java-client_2.10:
+    lastUpdated: 20150319130942
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  play-2_3-java-client_2.11:
+    lastUpdated: 20150319130943
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  play-java-client-2_2_2.10:
+    lastUpdated: 20141017083332
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  play-java-client_2.10:
+    lastUpdated: 20141017083333
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  play-java-test-lib_2.10:
+    lastUpdated: 20141017083333
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  products:
+    lastUpdated: 20141104163811
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+  root_2.10:
+    lastUpdated: 20141104174642
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M7
+  scala-client_2.10:
+    lastUpdated: 20150319130944
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  scala-client_2.11:
+    lastUpdated: 20150319130944
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+  sdk-http:
+    lastUpdated: 20160120110844
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sdk-http-ahc-1_8:
+    lastUpdated: 20160120110845
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sdk-http-ahc-1_9:
+    lastUpdated: 20160120110845
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sdk-http-apache-async:
+    lastUpdated: 20160120110846
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sdk-http-ning-1_8:
+    lastUpdated: 20150623145251
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sdk-http-ning-1_9:
+    lastUpdated: 20150623145251
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-common:
+    lastUpdated: 20160120110846
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-convenience:
+    lastUpdated: 20160120110847
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client:
+    lastUpdated: 20160120110848
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client-ahc-1_8:
+    lastUpdated: 20160120110848
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client-ahc-1_9:
+    lastUpdated: 20160120110849
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client-apache-async:
+    lastUpdated: 20160120110850
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client-core:
+    lastUpdated: 20160120110850
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-java-client-ning-1_8:
+    lastUpdated: 20150623145254
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+  sphere-java-client-ning-1_9:
+    lastUpdated: 20150623145254
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+  sphere-jvm-sdk:
+    lastUpdated: 20160120110851
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-models:
+    lastUpdated: 20160120110851
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_2-java-client_2.10:
+    lastUpdated: 20160120111516
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_2-java-client_2.11:
+    lastUpdated: 20150624143800
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-play-2_2-java-client_2.12.0-M1:
+    lastUpdated: 20150624143800
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-play-2_3-java-client_2.10:
+    lastUpdated: 20160120111516
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_3-java-client_2.11:
+    lastUpdated: 20160120111517
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_3-java-client_2.12.0-M1:
+    lastUpdated: 20150624143802
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-play-2_4-java-client_2.10:
+    lastUpdated: 20160120111517
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_4-java-client_2.11:
+    lastUpdated: 20160120111518
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-2_4-java-client_2.12.0-M1:
+    lastUpdated: 20150624143803
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-play-2_5-java-client_2.11:
+    lastUpdated: 20160120111519
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-play-sdk_2.10:
+    lastUpdated: 20141017083336
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  sphere-scala-client_2.10:
+    lastUpdated: 20160120111519
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-scala-client_2.11:
+    lastUpdated: 20160120111520
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-scala-client_2.12.0-M1:
+    lastUpdated: 20150624143805
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-scala-client_2.12.0-M2:
+    lastUpdated: 20151102165400
+    latest: 1.0.0-M20
+    release: 1.0.0-M20
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+  sphere-scala-client_2.12.0-M3:
+    lastUpdated: 20160120111521
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-scala-models_2.10:
+    lastUpdated: 20160120111522
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-scala-models_2.11:
+    lastUpdated: 20160120111523
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-scala-models_2.12.0-M1:
+    lastUpdated: 20150624143806
+    latest: 1.0.0-M15
+    release: 1.0.0-M15
+    versions:
+      - 1.0.0-M15
+  sphere-scala-models_2.12.0-M2:
+    lastUpdated: 20151102165401
+    latest: 1.0.0-M20
+    release: 1.0.0-M20
+    versions:
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+  sphere-scala-models_2.12.0-M3:
+    lastUpdated: 20160120111523
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  sphere-test-lib:
+    lastUpdated: 20160120110852
+    latest: 1.0.0-M26
+    release: 1.0.0-M26
+    versions:
+      - 1.0.0-M13
+      - 1.0.0-M14
+      - 1.0.0-M15
+      - 1.0.0-M16
+      - 1.0.0-M17
+      - 1.0.0-M18
+      - 1.0.0-M19
+      - 1.0.0-M20
+      - 1.0.0-M21-SNAPSHOT-fix-821
+      - 1.0.0-M21
+      - 1.0.0-M22
+      - 1.0.0-M23
+      - 1.0.0-M24
+      - 1.0.0-M25
+      - 1.0.0-M26
+  taxes:
+    lastUpdated: 20140930153006
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+  test-lib:
+    lastUpdated: 20150319130448
+    latest: 1.0.0-M12
+    release: 1.0.0-M12
+    versions:
+      - 1.0.0-M8
+      - 1.0.0-M9
+      - 1.0.0-M10
+      - 1.0.0-M11
+      - 1.0.0-M12
+

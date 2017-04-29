@@ -1,0 +1,86 @@
+artifacts:
+  cognition:
+    lastUpdated: 20160114164654
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  cognition-parent:
+    lastUpdated: 20160114164654
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  cognition-spark-common:
+    lastUpdated: 20160114164654
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  ingest:
+    lastUpdated: 20160114164655
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  lens:
+    lastUpdated: 20160114164658
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  lens-endpoint:
+    lastUpdated: 20160114164658
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  spark:
+    lastUpdated: 20160114164659
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  spark-accumulo:
+    lastUpdated: 20160114164659
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  storm-accumulo:
+    lastUpdated: 20160114164659
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  storm-core:
+    lastUpdated: 20160114164700
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  storm-elasticsearch:
+    lastUpdated: 20160114164700
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  storm-geo:
+    lastUpdated: 20160114164701
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  storm-kafka:
+    lastUpdated: 20160114164701
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  test-utils:
+    lastUpdated: 20160114164702
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

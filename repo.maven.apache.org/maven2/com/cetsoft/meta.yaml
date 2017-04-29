@@ -1,0 +1,94 @@
+artifacts:
+  caudit:
+    lastUpdated: 20131120211912
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  caudit-observers:
+    lastUpdated: 20131120211913
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  caudit-parent:
+    lastUpdated: 20131120211913
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  imcache:
+    lastUpdated: 20150818101302
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.5
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-core:
+    lastUpdated: 20150818101302
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-examples:
+    lastUpdated: 20150818101303
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-memcache:
+    lastUpdated: 20150818101303
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-offheap:
+    lastUpdated: 20150818101304
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-parent:
+    lastUpdated: 20150818101304
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.5
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-redis:
+    lastUpdated: 20150818101304
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+  imcache-spring:
+    lastUpdated: 20150818101305
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.2.0
+

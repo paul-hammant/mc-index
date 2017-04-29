@@ -1,0 +1,85 @@
+artifacts:
+  geolatte-common:
+    lastUpdated: 20160729145716
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  geolatte-common-hibernate:
+    lastUpdated: 20140425114851
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.7
+      - 0.5
+      - 0.6
+      - 0.7
+  geolatte-featureserver:
+    lastUpdated: 20120821145049
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.5
+      - 0.6
+  geolatte-geom:
+    lastUpdated: 20160823131133
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  geolatte-graph:
+    lastUpdated: 20170112120332
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  geolatte-maprenderer:
+    lastUpdated: 20120725161406
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  geolatte-mapserver:
+    lastUpdated: 20120725161353
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

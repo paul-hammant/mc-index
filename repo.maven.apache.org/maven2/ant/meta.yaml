@@ -1,0 +1,390 @@
+artifacts:
+  ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.1
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3-1
+      - 1.5.4
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.5
+      - 1.6
+  ant-antlr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-apache-bcel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+  ant-apache-bsf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-apache-log4j:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+  ant-apache-oro:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+  ant-apache-regexp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+  ant-apache-resolver:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-commons-logging:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-commons-net:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-icontract:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-jai:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-jakarta-bcel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6
+  ant-jakarta-log4j:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6
+  ant-jakarta-oro:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6
+  ant-jakarta-regexp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6
+  ant-javamail:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-jdepend:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-jmf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-jsch:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-junit:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-launcher:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-netrexx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-nodeps:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-optional:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.1
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3-1
+      - 1.5
+  ant-starteam:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-stylebook:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-swing:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-trax:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-vaj:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-weblogic:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-xalan1:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  ant-xalan2:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6
+  ant-xslp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6
+  optional:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+

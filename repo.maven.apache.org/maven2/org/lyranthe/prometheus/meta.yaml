@@ -1,0 +1,307 @@
+artifacts:
+  client_2.11:
+    lastUpdated: 20170104115947
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  client_2.12:
+    lastUpdated: 20170104115948
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  client_2.12.0-RC1:
+    lastUpdated: 20161016235822
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  client_2.12.0-RC2:
+    lastUpdated: 20161023230735
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.4.0
+  client_sjs0.6_2.11:
+    lastUpdated: 20170104115949
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  client_sjs0.6_2.12:
+    lastUpdated: 20170104115949
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  fs2_2.11:
+    lastUpdated: 20170104115950
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  fs2_2.12:
+    lastUpdated: 20170104115950
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  fs2_2.12.0-RC1:
+    lastUpdated: 20161016235823
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  fs2_2.12.0-RC2:
+    lastUpdated: 20161023230737
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  fs2_sjs0.6_2.11:
+    lastUpdated: 20170104115951
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  fs2_sjs0.6_2.12:
+    lastUpdated: 20170104115952
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  macros_2.11:
+    lastUpdated: 20170104115952
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  macros_2.12:
+    lastUpdated: 20170104115953
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  macros_2.12.0-RC1:
+    lastUpdated: 20161016235825
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  macros_2.12.0-RC2:
+    lastUpdated: 20161023230738
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  macros_sjs0.6_2.11:
+    lastUpdated: 20170104115953
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  macros_sjs0.6_2.12:
+    lastUpdated: 20170104115954
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  monix21_2.11:
+    lastUpdated: 20170104115954
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  monix21_2.12:
+    lastUpdated: 20170104115955
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  monix21_sjs0.6_2.11:
+    lastUpdated: 20170104115955
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  monix21_sjs0.6_2.12:
+    lastUpdated: 20170104115956
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  play24_2.11:
+    lastUpdated: 20170104115957
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  play25_2.11:
+    lastUpdated: 20170104115957
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  protobuf_2.11:
+    lastUpdated: 20170104115958
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  protobuf_2.12:
+    lastUpdated: 20170104115959
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  protobuf_2.12.0-RC2:
+    lastUpdated: 20161023230740
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  scalaz72_2.11:
+    lastUpdated: 20170104120000
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+  scalaz72_2.12:
+    lastUpdated: 20170104120001
+    latest: 0.8.4
+    release: 0.8.4
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+

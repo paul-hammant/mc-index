@@ -1,0 +1,253 @@
+artifacts:
+  L4-minus-tools:
+    lastUpdated: 20080416120416
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  L4PseudoGrub-minus-tools:
+    lastUpdated: 20080416124108
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  L4Userland-minus-tools:
+    lastUpdated: 20080416122824
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  X:
+    lastUpdated: 20071105150805
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  cbst-minus-tools:
+    lastUpdated: 20080416113625
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  cecilia-adl-comete-deployment:
+    lastUpdated: 20081113134739
+    latest: {}
+    release: {}
+    versions:
+      - 1.2-alpha-1
+      - 1.2
+  cecilia-adl-dumper:
+    lastUpdated: 20080828092943
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-5
+      - 1.1
+  cecilia-adl-dynamic:
+    lastUpdated: 20081113134856
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  cecilia-adl-export-bind:
+    lastUpdated: 20081113134839
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  cecilia-adl-export-bind-dynamic:
+    lastUpdated: 20081113135000
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  cecilia-adl-loadable-clone:
+    lastUpdated: 20081113134908
+    latest: {}
+    release: {}
+    versions:
+      - 1.2-alpha-1
+      - 1.2
+  cecilia-adl-loadable-clone-script:
+    lastUpdated: 20081113134930
+    latest: {}
+    release: {}
+    versions:
+      - 1.2-alpha-1
+      - 1.2
+  clientServer-minus-tools:
+    lastUpdated: 20080416120112
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  comete-deployment-lib:
+    lastUpdated: 20081113134815
+    latest: {}
+    release: {}
+    versions:
+      - 1.2-alpha-1
+      - 1.2
+  generic:
+    lastUpdated: 20071105150450
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-minus-tools:
+    lastUpdated: 20080416113712
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  libL4-minus-tools:
+    lastUpdated: 20080416122634
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  libc:
+    lastUpdated: 20071105150528
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  libc-minus-tools:
+    lastUpdated: 20080416113553
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  lxsimenv:
+    lastUpdated: 20071105151005
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  maven-targets:
+    lastUpdated: 20080416113510
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  minus:
+    lastUpdated: 20081113134547
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  minus-minus-tools:
+    lastUpdated: 20080416113452
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  minus-parent:
+    lastUpdated: 20081113134512
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  minus-top-parent:
+    lastUpdated: 20081113104414
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2
+  parent:
+    lastUpdated: 20071105150412
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  pom:
+    lastUpdated: 20080828091250
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  posix:
+    lastUpdated: 20071105150723
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  pseudoGrub-minus-tools:
+    lastUpdated: 20080416124153
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  root:
+    lastUpdated: 20081113134246
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  st200:
+    lastUpdated: 20071105150847
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  st231:
+    lastUpdated: 20071105150927
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  stm8010:
+    lastUpdated: 20071105151044
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  test-tools:
+    lastUpdated: 20080416122548
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  toolchain-parent:
+    lastUpdated: 20081113134725
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+      - 1.2-alpha-1
+      - 1.2
+  yuv-player-minus-tools:
+    lastUpdated: 20080416113806
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+

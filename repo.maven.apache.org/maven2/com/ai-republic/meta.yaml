@@ -1,0 +1,248 @@
+artifacts:
+  microverse-core:
+    lastUpdated: 20160426155351
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-client:
+    lastUpdated: 20160426155351
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-common:
+    lastUpdated: 20160426155352
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-descriptors:
+    lastUpdated: 20160426155352
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-discovery:
+    lastUpdated: 20160426155353
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-registry:
+    lastUpdated: 20160426155353
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-core-server:
+    lastUpdated: 20160426155353
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-discovery:
+    lastUpdated: 20160426155354
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-discovery-configured:
+    lastUpdated: 20160426155354
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-discovery-multicast:
+    lastUpdated: 20160426155355
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-parent:
+    lastUpdated: 20160426155355
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest:
+    lastUpdated: 20160426155355
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest-client:
+    lastUpdated: 20160426155355
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest-registry:
+    lastUpdated: 20160426155356
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest-registry-servletcontainer-support:
+    lastUpdated: 20160426155357
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest-server:
+    lastUpdated: 20160426155358
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-rest-server-servletcontainer-support:
+    lastUpdated: 20160426155358
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-service-container:
+    lastUpdated: 20160426155359
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-standalone-server:
+    lastUpdated: 20160426155400
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-testjar:
+    lastUpdated: 20160426155401
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-testjar-bundle:
+    lastUpdated: 20160426155401
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-testjar-interface:
+    lastUpdated: 20160426155404
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  microverse-testjar-service:
+    lastUpdated: 20160426155404
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  multicast:
+    lastUpdated: 20160124173033
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

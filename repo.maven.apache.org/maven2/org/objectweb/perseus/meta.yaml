@@ -1,0 +1,34 @@
+artifacts:
+  perseus-cache:
+    lastUpdated: 20070601134548
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+  perseus-concurrency:
+    lastUpdated: 20071211165000
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+      - 1.6
+  perseus-dependency:
+    lastUpdated: 20071109172402
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+  perseus-persistence:
+    lastUpdated: 20071211164137
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+      - 1.6.1
+  perseus-pool:
+    lastUpdated: 20071109172543
+    latest: {}
+    release: {}
+    versions:
+      - 1.5.4
+

@@ -1,0 +1,65 @@
+artifacts:
+  cache-annotations-ri:
+    lastUpdated: 20140328035352
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-annotations-ri-cdi:
+    lastUpdated: 20140328035353
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-annotations-ri-common:
+    lastUpdated: 20140328035354
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-annotations-ri-guice:
+    lastUpdated: 20140328035354
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-annotations-ri-spring:
+    lastUpdated: 20140328035355
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-ri:
+    lastUpdated: 20140328035356
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+  cache-ri-impl:
+    lastUpdated: 20140328035356
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7
+      - 0.8
+      - 1.0.0-RC1
+      - 1.0.0
+

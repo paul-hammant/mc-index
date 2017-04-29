@@ -1,0 +1,148 @@
+artifacts:
+  cactus:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.4b1
+      - 12-1.4.1
+      - 12-1.5
+      - 12-1.5-beta1
+      - 13-1.4.1
+      - 13-1.5
+      - 13-1.5-beta1
+      - 13-1.5-rc1
+      - 13-1.5dev-20030522
+      - 13-1.5dev-20030607
+      - 13-1.5dev-20030619
+      - 13-1.6
+      - 13-1.6.1
+      - 13-1.6dev-20030807
+      - 13-1.6dev-20030809
+      - 13-1.6dev-20030829
+      - 13-1.6dev-20040115
+      - 13-1.6dev-20040226
+      - 13-1.7
+      - 13-1.7dev-20040815
+      - 12-1.7.1
+      - 13-1.7.1
+      - 12-1.7.2
+      - 13-1.7.2
+  cactus-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.4.1
+      - 12-1.5
+      - 12-1.5-beta1
+      - 13-1.5
+      - 13-1.5-beta1
+      - 13-1.5-rc1
+      - 13-1.5dev-20030522
+      - 13-1.5dev-20030607
+      - 13-1.5dev-20030619
+      - 13-1.6
+      - 13-1.6.1
+      - 13-1.6dev-20030807
+      - 13-1.6dev-20030809
+      - 13-1.6dev-20030829
+      - 13-1.6dev-20040115
+      - 13-1.6dev-20040226
+      - 13-1.7
+      - 13-1.7dev-20040815
+      - 12-1.7.1
+      - 13-1.7.1
+      - 12-1.7.2
+      - 13-1.7.2
+  cactus-framework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 13-1.5dev-20030322
+      - 13-1.5dev-20030407
+  cactus-integration-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.5dev-20030322
+      - 1.5dev-20030407
+  cactus-maven:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.7
+      - 1.7.1
+      - 1.6
+      - 1.7
+  cactus.core.framework.uberjar.javaEE.12:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  cactus.core.framework.uberjar.javaEE.13:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  cactus.core.framework.uberjar.javaEE.14:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  cactus.core.framework.uberjar.javaEE.15:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  cactus.integration.ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  cactus.integration.shared.api:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  jakarta-cactus:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 13-1.5-beta1
+      - 12-1.5-beta1
+      - 1.5-beta1
+  jakarta-cactus-integration-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 13-1.5dev-20030426
+      - 13-1.5dev-20030407
+      - 13-1.5dev-20030325
+      - 13-1.5dev-20030329
+  org.apache.cactus.eclipse.runner:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+  org.apache.cactus.eclipse.webapp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.8.0
+

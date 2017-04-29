@@ -1,0 +1,39 @@
+artifacts:
+  concourse-cli:
+    lastUpdated: 20170305174425
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  concourse-driver-java:
+    lastUpdated: 20170305174425
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  concourse-ete-test-core:
+    lastUpdated: 20170305174425
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  concourse-import:
+    lastUpdated: 20170305174426
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  concourse-plugin-core:
+    lastUpdated: 20170305174426
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  impromptu-recipe-api:
+    lastUpdated: 20170130023416
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

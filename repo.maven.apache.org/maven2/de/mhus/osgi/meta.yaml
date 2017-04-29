@@ -1,0 +1,210 @@
+artifacts:
+  commands:
+    lastUpdated: 20141210220530
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  groovy-console:
+    lastUpdated: 20160310111657
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  jms-commands:
+    lastUpdated: 20160310111657
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  jwsbridge:
+    lastUpdated: 20160310111658
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  jwsclient:
+    lastUpdated: 20160310111658
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  jwskarafbridge:
+    lastUpdated: 20160310111658
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  jwsosgibridge:
+    lastUpdated: 20160310111659
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  karafmailcore:
+    lastUpdated: 20141210220532
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  karafquartz:
+    lastUpdated: 20150326233626
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  mail:
+    lastUpdated: 20160310111659
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  mailkaraf:
+    lastUpdated: 20160310111659
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  mailosgi:
+    lastUpdated: 20160310111659
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  mhus-commands:
+    lastUpdated: 20150326233627
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  mhus-osgi-commands:
+    lastUpdated: 20160310111700
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  mhus-osgi-tools:
+    lastUpdated: 20160310111700
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  mhus-web-console:
+    lastUpdated: 20160310111700
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  osgimail:
+    lastUpdated: 20141210220533
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  osgimailcore:
+    lastUpdated: 20141210220533
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  osgiquartz:
+    lastUpdated: 20150326233628
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  quartz:
+    lastUpdated: 20150326233629
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  rewrite-servlet:
+    lastUpdated: 20160310111702
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  root-servlet:
+    lastUpdated: 20160310111702
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  vaadin-sample:
+    lastUpdated: 20140430135001
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  vaadinbridge:
+    lastUpdated: 20160310111706
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  vaadinkarafbridge:
+    lastUpdated: 20160310111706
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  vaadinosgibridge:
+    lastUpdated: 20160310111707
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  web:
+    lastUpdated: 20160310111707
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+

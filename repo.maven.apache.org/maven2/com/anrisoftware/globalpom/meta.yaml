@@ -1,0 +1,372 @@
+artifacts:
+  globalpom-groovy:
+    lastUpdated: 20161003180147
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 2.0
+      - 2.1
+      - 2.2
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 2.0
+      - 2.1
+      - 2.2
+  globalpom-groovy-osgi:
+    lastUpdated: 20161003180147
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  globalpom-groovytestutils:
+    lastUpdated: 20161003180147
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.24
+      - 1.25
+      - 1.26
+      - 2.1
+      - 2.2
+      - 1.24
+      - 1.25
+      - 1.26
+      - 2.1
+      - 2.2
+  globalpom-izpack:
+    lastUpdated: 20160120215835
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.1
+      - 2.2-rc4
+      - 2.3-rc4
+      - 2.3
+      - 2.4
+      - 3.0
+      - 2.1
+      - 2.3
+      - 2.4
+      - 3.0
+  globalpom-izpack-singlejar:
+    lastUpdated: 20160120215835
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.5
+      - 2.6-rc4
+      - 2.7-rc4
+      - 2.7
+      - 3.0
+      - 2.5
+      - 2.7
+      - 3.0
+  globalpom-izpack-singlejar-assembly:
+    lastUpdated: 20150512113550
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.4
+      - 1.5
+      - 1.4
+      - 1.5
+  globalpom-log:
+    lastUpdated: 20161003180148
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 2.0
+      - 2.1
+      - 2.2
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 2.0
+      - 2.1
+      - 2.2
+  globalpom-parent:
+    lastUpdated: 20161003180148
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.36
+      - 1.37
+      - 1.38
+      - 1.39
+      - 1.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.36
+      - 1.37
+      - 1.38
+      - 1.39
+      - 1.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  globalpomutils-core:
+    lastUpdated: 20161003180149
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-data:
+    lastUpdated: 20161003180150
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-exec:
+    lastUpdated: 20161003180150
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.4
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.4
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-fileresources:
+    lastUpdated: 20161003180151
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-initfileparser:
+    lastUpdated: 20161003180151
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.5
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.5
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-math:
+    lastUpdated: 20161003180152
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-parent:
+    lastUpdated: 20161003180153
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 2.15
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 2.15
+      - 3.0
+      - 3.1
+  globalpomutils-projects:
+    lastUpdated: 20160120215913
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  globalpomutils-reflection:
+    lastUpdated: 20161003180153
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+  globalpomutils-threads:
+    lastUpdated: 20161003180154
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+      - 2.2
+      - 2.3
+      - 2.9
+      - 2.10
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 3.0
+      - 3.1
+

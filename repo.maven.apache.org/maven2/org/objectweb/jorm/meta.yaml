@@ -1,0 +1,33 @@
+artifacts:
+  jorm-api:
+    lastUpdated: 20070601134759
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.3-patch
+  jorm-compiler:
+    lastUpdated: 20070601145546
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.3
+  jorm-core:
+    lastUpdated: 20070601134659
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.3-patch
+  jorm-rdb-adapter:
+    lastUpdated: 20091019141002
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.2
+      - 3.2.5
+  jorm-runtime:
+    lastUpdated: 20070601134921
+    latest: {}
+    release: {}
+    versions:
+      - 2.9.3-patch
+

@@ -1,0 +1,44 @@
+artifacts:
+  core-pom-builder:
+    lastUpdated: 20140507153409
+    latest: POM-6
+    release: POM-6
+    versions:
+      - POM-4
+      - POM-5
+      - POM-6
+  rsf-components-base:
+    lastUpdated: 20140529222543
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  rsf-components-test-base:
+    lastUpdated: 20140529222544
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  sakai-components-base:
+    lastUpdated: 20140626235409
+    latest: 10.0
+    release: 10.0
+    versions:
+      - 10.0
+  standard-jar:
+    lastUpdated: 20140507153410
+    latest: POM-6
+    release: POM-6
+    versions:
+      - POM-4
+      - POM-5
+      - POM-6
+  standard-war:
+    lastUpdated: 20140507153410
+    latest: POM-6
+    release: POM-6
+    versions:
+      - POM-4
+      - POM-5
+      - POM-6
+

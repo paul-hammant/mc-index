@@ -1,0 +1,235 @@
+artifacts:
+  wadi:
+    lastUpdated: 20091114063021
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-activecluster:
+    lastUpdated: 20070721065627
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+  wadi-aop:
+    lastUpdated: 20091114063335
+    latest: {}
+    release: {}
+    versions:
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-assembly:
+    lastUpdated: 20070721065847
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+  wadi-axis2:
+    lastUpdated: 20070426111347
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+  wadi-cache:
+    lastUpdated: 20091114063400
+    latest: {}
+    release: {}
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.1
+  wadi-cache-openjpa:
+    lastUpdated: 20091114063527
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.2
+  wadi-console:
+    lastUpdated: 20091114063836
+    latest: {}
+    release: {}
+    versions:
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-core:
+    lastUpdated: 20091114063247
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-group:
+    lastUpdated: 20091114063101
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-jboss4:
+    lastUpdated: 20061116113440
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+  wadi-jetty5:
+    lastUpdated: 20061116113154
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+  wadi-jetty6:
+    lastUpdated: 20061116113219
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+  wadi-jgroups:
+    lastUpdated: 20091114063609
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-openejb:
+    lastUpdated: 20061116113410
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+  wadi-tomcat50:
+    lastUpdated: 20061116113249
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+  wadi-tomcat55:
+    lastUpdated: 20070721065747
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+  wadi-tribes:
+    lastUpdated: 20091114063453
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+  wadi-webapp:
+    lastUpdated: 20091114063635
+    latest: {}
+    release: {}
+    versions:
+      - 2.0M2
+      - 2.0M3
+      - 2.0-M4
+      - 2.0-M5
+      - 2.0-M6
+      - 2.0-M7
+      - 2.0-M8
+      - 2.0-M9
+      - 2.0-M10
+      - 2.0
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+      - 2.1
+

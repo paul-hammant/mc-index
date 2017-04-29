@@ -1,0 +1,21 @@
+artifacts:
+  graphite-client:
+    lastUpdated: 20161215192523
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.0.0-RELEASE
+      - 1.1.0-RELEASE
+  parent-pom:
+    lastUpdated: 20161215191843
+    latest: 1.0.0-RELEASE
+    release: 1.0.0-RELEASE
+    versions:
+      - 1.0.0-RELEASE
+  spring-fixtures:
+    lastUpdated: 20160121045548
+    latest: 0.0.1-RELEASE
+    release: 0.0.1-RELEASE
+    versions:
+      - 0.0.1-RELEASE
+

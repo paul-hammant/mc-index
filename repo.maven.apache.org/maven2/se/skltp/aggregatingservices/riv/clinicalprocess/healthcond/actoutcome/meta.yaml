@@ -1,0 +1,312 @@
+artifacts:
+  GetAggregatedECGOutcome:
+    lastUpdated: 20161103113922
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedECGOutcome-parent:
+    lastUpdated: 20161103113923
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedECGOutcome-schemas:
+    lastUpdated: 20161103113923
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedECGOutcome-teststub:
+    lastUpdated: 20161103113924
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedImagingOutcome:
+    lastUpdated: 20161103113924
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedImagingOutcome-parent:
+    lastUpdated: 20161103113925
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedImagingOutcome-schemas:
+    lastUpdated: 20161103113925
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedImagingOutcome-teststub:
+    lastUpdated: 20161103113926
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedLaboratoryOrderOutCome-schemas:
+    lastUpdated: 20140731130942
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  GetAggregatedLaboratoryOrderOutcome:
+    lastUpdated: 20161103113927
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedLaboratoryOrderOutcome-parent:
+    lastUpdated: 20161103113928
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedLaboratoryOrderOutcome-teststub:
+    lastUpdated: 20161103113928
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0
+      - 1.0.1-RC1
+      - 1.0.1-RC2
+      - 1.0.1
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedMaternityMedicalHistory:
+    lastUpdated: 20161103113929
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedMaternityMedicalHistory-parent:
+    lastUpdated: 20161103113930
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedMaternityMedicalHistory-schemas:
+    lastUpdated: 20161103113930
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedMaternityMedicalHistory-teststub:
+    lastUpdated: 20161103113931
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedReferralOutcome:
+    lastUpdated: 20161103113931
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedReferralOutcome-parent:
+    lastUpdated: 20161103113932
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedReferralOutcome-schemas:
+    lastUpdated: 20161103113932
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedReferralOutcome-teststub:
+    lastUpdated: 20161103113933
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3-RC1
+      - 1.0.3-RC2
+      - 1.0.3-RC3
+      - 1.0.3-RC4
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-RC1
+      - 1.1.0
+      - 1.2.0-RC1
+      - 1.2.0
+  GetAggregatedRequestOutcome:
+    lastUpdated: 20161220154006
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  GetAggregatedRequestOutcome-parent:
+    lastUpdated: 20161220154007
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  GetAggregatedRequestOutcome-schemas:
+    lastUpdated: 20161220154007
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  GetAggregatedRequestOutcome-teststub:
+    lastUpdated: 20161220154008
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+

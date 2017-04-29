@@ -1,0 +1,142 @@
+artifacts:
+  box-android-browse-sdk:
+    lastUpdated: 20170328233011
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 2.0.0
+      - 2.0.1
+  box-android-content-sdk:
+    lastUpdated: 20150508185045
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  box-android-preview-sdk:
+    lastUpdated: 20170202001451
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  box-android-sdk:
+    lastUpdated: 20170324211335
+    latest: 4.0.8
+    release: 4.0.8
+    versions:
+      - 3.0.0
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+  box-android-share-sdk:
+    lastUpdated: 20170328233920
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+      - 2.1.0
+  box-java-sdk:
+    lastUpdated: 20170306191148
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 1.0.0
+      - 1.1.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.3.0
+  boxandroidcontentsdk:
+    lastUpdated: 20150424215416
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  castle-committer-api_2.10:
+    lastUpdated: 20170330220035
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  castle-core_2.10:
+    lastUpdated: 20170331211757
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  castle-retry_2.10:
+    lastUpdated: 20170324212209
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  castle-router_2.10:
+    lastUpdated: 20170330220036
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+  json-patch:
+    lastUpdated: 20170106230840
+    latest: 1.15
+    release: 1.15
+    versions:
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.15
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.15
+  json-patch-box-metadata:
+    lastUpdated: 20151008202448
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.12
+      - 1.12
+  json-schema-core:
+    lastUpdated: 20151126195910
+    latest: 1.2.8
+    release: 1.2.8
+    versions:
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+  json-schema-validator:
+    lastUpdated: 20151126202309
+    latest: 2.2.10
+    release: 2.2.10
+    versions:
+      - 2.2.7
+      - 2.2.8
+      - 2.2.9
+      - 2.2.10
+

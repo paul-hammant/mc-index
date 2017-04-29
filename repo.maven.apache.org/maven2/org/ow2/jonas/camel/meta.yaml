@@ -1,0 +1,371 @@
+artifacts:
+  archetypes:
+    lastUpdated: 20131004081829
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-archetype-simple-route:
+    lastUpdated: 20131004081830
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-component-for-jonas:
+    lastUpdated: 20131004081830
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-cxf-example-bundle:
+    lastUpdated: 20090616092351
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  camel-example-cxf:
+    lastUpdated: 20131004081830
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-example-jms:
+    lastUpdated: 20131004081830
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-example-servlet:
+    lastUpdated: 20131004081830
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-jms-example-bundle:
+    lastUpdated: 20090616092404
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  camel-jonas5:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-jonas5-cxf:
+    lastUpdated: 20090803180842
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+  camel-jonas5-doc:
+    lastUpdated: 20100503072231
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  camel-jonas5-documentation:
+    lastUpdated: 20090720085725
+    latest: {}
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  camel-jonas5-integration-tests:
+    lastUpdated: 20090616092335
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  camel-jonas5-jaxws:
+    lastUpdated: 20090803180910
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+  camel-jonas5-jsch:
+    lastUpdated: 20090803180917
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+  camel-jonas5-libraries:
+    lastUpdated: 20090803180811
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+  camel-jonas5-sources:
+    lastUpdated: 20090925123232
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  camel-jonas5-test-and-package:
+    lastUpdated: 20090925123625
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  camel-osgi-package:
+    lastUpdated: 20090803181138
+    latest: {}
+    release: 1.1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+  camel-route-base:
+    lastUpdated: 20090730102448
+    latest: {}
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+  camel-service:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-service-for-jonas:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-service-itests:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  camel-trace-example-bundle:
+    lastUpdated: 20090616092416
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  camel-trace-example-test:
+    lastUpdated: 20090616092433
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  camel-xml-registry:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  cxf-servlet-deployer:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  cxf-servlet-deployer-starter:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  documentation:
+    lastUpdated: 20131004081831
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  examples:
+    lastUpdated: 20090616092341
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  package-camel-and-deployment-plans:
+    lastUpdated: 20131004081832
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  package-sources:
+    lastUpdated: 20131004081832
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  package-with-jonas:
+    lastUpdated: 20131004081832
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.7.0
+  registry-jonas5-api:
+    lastUpdated: 20090925123053
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  registry-jonas5-impl:
+    lastUpdated: 20090925123059
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  registry-jonas5-impl-file:
+    lastUpdated: 20090925123109
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  registry-jonas5-parent:
+    lastUpdated: 20090925123046
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+

@@ -1,0 +1,70 @@
+artifacts:
+  nuun-cli-plugin:
+    lastUpdated: 20140715223018
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  nuun-configuration-common-plugin:
+    lastUpdated: 20130610230024
+    latest: 1.0.0.M3
+    release: 1.0.0.M3
+    versions:
+      - 1.0.0.M3
+  nuun-configuration-props-plugin:
+    lastUpdated: 20130611222335
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  nuun-kernel:
+    lastUpdated: 20140911131758
+    latest: 1.1.0.M6
+    release: 1.1.0.M6
+    versions:
+      - 0.0.1
+      - 1.0.0
+      - 1.1.0.M1
+      - 1.1.0.M2
+      - 1.1.0.M3
+      - 1.1.0.M4
+      - 1.1.0.M5
+      - 1.1.0.M6
+  nuun-rest-plugin:
+    lastUpdated: 20130422223426
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  nuun-spring-plugin:
+    lastUpdated: 20130610231208
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  nuun-tests:
+    lastUpdated: 20131207121157
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  nuun-web-plugin:
+    lastUpdated: 20130422222925
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  universalvisitor:
+    lastUpdated: 20140721191312
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

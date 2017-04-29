@@ -1,0 +1,555 @@
+artifacts:
+  scodec-akka_2.11:
+    lastUpdated: 20170103170104
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scodec-akka_2.12:
+    lastUpdated: 20170103170104
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  scodec-bits_2.10:
+    lastUpdated: 20170104030625
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_2.11:
+    lastUpdated: 20170104030626
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_2.12:
+    lastUpdated: 20170104030627
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_2.12.0-M1:
+    lastUpdated: 20150707031122
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.9
+  scodec-bits_2.12.0-M2:
+    lastUpdated: 20150907144052
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.9
+      - 1.0.10
+  scodec-bits_2.12.0-M3:
+    lastUpdated: 20160209031921
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.10
+      - 1.0.12
+      - 1.1.0
+  scodec-bits_2.12.0-M4:
+    lastUpdated: 20160408022145
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.12
+      - 1.1.0
+  scodec-bits_2.12.0-M5:
+    lastUpdated: 20160704190915
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  scodec-bits_2.12.0-RC1:
+    lastUpdated: 20161011012420
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.1
+      - 1.1.2
+  scodec-bits_2.12.0-RC2:
+    lastUpdated: 20161018172038
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.2
+  scodec-bits_sjs0.6_2.10:
+    lastUpdated: 20170104030627
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_sjs0.6_2.11:
+    lastUpdated: 20170104030627
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.7
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_sjs0.6_2.12:
+    lastUpdated: 20170104030628
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  scodec-bits_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160209031922
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  scodec-bits_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160524165030
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  scodec-bits_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160704223155
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  scodec-bits_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20161011012422
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.1
+      - 1.1.2
+  scodec-bits_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161018172039
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.2
+  scodec-cats_2.10:
+    lastUpdated: 20170212231202
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scodec-cats_2.11:
+    lastUpdated: 20170212231202
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scodec-cats_2.12:
+    lastUpdated: 20170212231203
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scodec-cats_sjs0.6_2.10:
+    lastUpdated: 20170212231203
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scodec-cats_sjs0.6_2.11:
+    lastUpdated: 20170212231203
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  scodec-cats_sjs0.6_2.12:
+    lastUpdated: 20170212231204
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scodec-core_2.10:
+    lastUpdated: 20161020011533
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.7.0-RC1
+      - 1.7.0-RC2
+      - 1.7.0
+      - 1.7.1
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.10.2
+      - 1.10.3
+  scodec-core_2.11:
+    lastUpdated: 20161020011533
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.7.0-RC1
+      - 1.7.0-RC2
+      - 1.7.0
+      - 1.7.1
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.10.2
+      - 1.10.3
+  scodec-core_2.12:
+    lastUpdated: 20161102121138
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.10.3
+  scodec-core_2.12.0-M1:
+    lastUpdated: 20150709015148
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+  scodec-core_2.12.0-M2:
+    lastUpdated: 20150907144634
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.8.2
+  scodec-core_2.12.0-M3:
+    lastUpdated: 20160209130502
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.8.3
+      - 1.9.0
+  scodec-core_2.12.0-M4:
+    lastUpdated: 20160628013719
+    latest: 1.10.1
+    release: 1.10.1
+    versions:
+      - 1.10.0
+      - 1.10.1
+  scodec-core_2.12.0-M5:
+    lastUpdated: 20160704230630
+    latest: 1.10.2
+    release: 1.10.2
+    versions:
+      - 1.10.2
+  scodec-core_2.12.0-RC2:
+    lastUpdated: 20161020011534
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.10.3
+  scodec-core_sjs0.6_2.10:
+    lastUpdated: 20161020011535
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.10.2
+      - 1.10.3
+  scodec-core_sjs0.6_2.11:
+    lastUpdated: 20161020011536
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.10.2
+      - 1.10.3
+  scodec-core_sjs0.6_2.12:
+    lastUpdated: 20161102121139
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.10.3
+  scodec-core_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160209130505
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.9.0
+  scodec-core_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160628013720
+    latest: 1.10.1
+    release: 1.10.1
+    versions:
+      - 1.10.0
+      - 1.10.1
+  scodec-core_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160704230631
+    latest: 1.10.2
+    release: 1.10.2
+    versions:
+      - 1.10.2
+  scodec-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020011536
+    latest: 1.10.3
+    release: 1.10.3
+    versions:
+      - 1.10.3
+  scodec-protocols_2.10:
+    lastUpdated: 20150807193520
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.1
+      - 0.10.2
+      - 0.11.0
+      - 0.12.0
+  scodec-protocols_2.11:
+    lastUpdated: 20161103125234
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.1
+      - 0.10.2
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M2a
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  scodec-protocols_2.12:
+    lastUpdated: 20161103125234
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  scodec-protocols_2.12.0-M4:
+    lastUpdated: 20160628020016
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M2a
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scodec-protocols_2.12.0-M5:
+    lastUpdated: 20160823033904
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  scodec-scalaz_2.10:
+    lastUpdated: 20161103004954
+    latest: 1.4.1a
+    release: 1.4.1a
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0
+      - 1.2.0
+      - 1.2.0a
+      - 1.3.0
+      - 1.3.0a
+      - 1.4.0
+      - 1.4.0a
+      - 1.4.1
+      - 1.4.1a
+  scodec-scalaz_2.11:
+    lastUpdated: 20161103004954
+    latest: 1.4.1a
+    release: 1.4.1a
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0
+      - 1.2.0
+      - 1.2.0a
+      - 1.3.0
+      - 1.3.0a
+      - 1.4.0
+      - 1.4.0a
+      - 1.4.1
+      - 1.4.1a
+  scodec-scalaz_2.12:
+    lastUpdated: 20161103004955
+    latest: 1.4.1a
+    release: 1.4.1a
+    versions:
+      - 1.4.1
+      - 1.4.1a
+  scodec-scalaz_2.12.0-M3:
+    lastUpdated: 20160209161001
+    latest: 1.2.0a
+    release: 1.2.0a
+    versions:
+      - 1.2.0a
+  scodec-scalaz_2.12.0-M4:
+    lastUpdated: 20160528123722
+    latest: 1.3.0a
+    release: 1.3.0a
+    versions:
+      - 1.3.0
+      - 1.3.0a
+  scodec-scalaz_2.12.0-RC2:
+    lastUpdated: 20161028170652
+    latest: 1.4.0a
+    release: 1.4.0a
+    versions:
+      - 1.4.0
+      - 1.4.0a
+  scodec-spire_2.10:
+    lastUpdated: 20160213203525
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+  scodec-spire_2.11:
+    lastUpdated: 20160524183317
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+      - 0.4.0
+  scodec-stream_2.10:
+    lastUpdated: 20160429214326
+    latest: 0.12.0-a
+    release: 0.12.0-a
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.0-a
+  scodec-stream_2.11:
+    lastUpdated: 20161103120916
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.0-a
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M2a
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+  scodec-stream_2.12:
+    lastUpdated: 20161103120917
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scodec-stream_2.12.0-M4:
+    lastUpdated: 20160628015533
+    latest: 1.0.0-M4
+    release: 1.0.0-M4
+    versions:
+      - 1.0.0-M2a
+      - 1.0.0-M3
+      - 1.0.0-M4
+  scodec-stream_2.12.0-M5:
+    lastUpdated: 20160823033513
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+

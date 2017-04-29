@@ -1,0 +1,434 @@
+artifacts:
+  ammonite-compiler_2.10.6:
+    lastUpdated: 20170317105643
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-compiler_2.11.8:
+    lastUpdated: 20170308105734
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-compiler_2.12.1:
+    lastUpdated: 20170308105734
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-ops_2.10:
+    lastUpdated: 20170317105643
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-ops_2.11:
+    lastUpdated: 20170308105735
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-ops_2.12:
+    lastUpdated: 20170308105736
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-repl_2.10.6:
+    lastUpdated: 20170317105644
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-repl_2.11.8:
+    lastUpdated: 20170308105736
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-repl_2.12.1:
+    lastUpdated: 20170308105736
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-runtime_2.10.6:
+    lastUpdated: 20170317105645
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-runtime_2.11.8:
+    lastUpdated: 20170308105737
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-runtime_2.12.1:
+    lastUpdated: 20170308105737
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-shell_2.10:
+    lastUpdated: 20170317105645
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-shell_2.11:
+    lastUpdated: 20170308105738
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-shell_2.12:
+    lastUpdated: 20170308105738
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-sshd_2.10.6:
+    lastUpdated: 20170317105645
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-sshd_2.11.8:
+    lastUpdated: 20170308105738
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-sshd_2.12.1:
+    lastUpdated: 20170308105739
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-terminal_2.10:
+    lastUpdated: 20170317105646
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-terminal_2.11:
+    lastUpdated: 20170308105740
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-terminal_2.12:
+    lastUpdated: 20170308105740
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-util_2.10.6:
+    lastUpdated: 20170317105646
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite-util_2.11.8:
+    lastUpdated: 20170308105741
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite-util_2.12.1:
+    lastUpdated: 20170308105742
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite_2.10.6:
+    lastUpdated: 20170317105647
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.2-2
+  ammonite_2.11.8:
+    lastUpdated: 20170308105742
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  ammonite_2.12.1:
+    lastUpdated: 20170308105744
+    latest: 0.8.2-2
+    release: 0.8.2-2
+    versions:
+      - 0.8.1
+      - 0.8.2
+      - 0.8.2-1
+      - 0.8.2-2
+  flink-yarn_2.11:
+    lastUpdated: 20170308131825
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  flink_2.11:
+    lastUpdated: 20170308131826
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  kernel-api_2.10:
+    lastUpdated: 20170317102629
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  kernel-api_2.11:
+    lastUpdated: 20170317102630
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  kernel-api_2.12:
+    lastUpdated: 20170317102630
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  kernel-protocol_2.10:
+    lastUpdated: 20170317102630
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  kernel-protocol_2.11:
+    lastUpdated: 20170317102631
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  kernel-protocol_2.12:
+    lastUpdated: 20170317102631
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  kernel_2.10:
+    lastUpdated: 20170317102632
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  kernel_2.11:
+    lastUpdated: 20170317102632
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  kernel_2.12:
+    lastUpdated: 20170317102633
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0
+      - 0.4.1
+  scala-api_2.11.8:
+    lastUpdated: 20170308131826
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scala-api_2.12.1:
+    lastUpdated: 20170308131827
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scala-cli_2.11.8:
+    lastUpdated: 20170308131828
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scala-cli_2.12.1:
+    lastUpdated: 20170308131828
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scala-kernel_2.11.8:
+    lastUpdated: 20170308131829
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scala-kernel_2.12.1:
+    lastUpdated: 20170308131829
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  scio_2.11:
+    lastUpdated: 20170308131830
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  spark-stubs-1_2.11:
+    lastUpdated: 20170308131831
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  spark-stubs-2_2.11:
+    lastUpdated: 20170308131832
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+  spark_2.11:
+    lastUpdated: 20170308131832
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0-RC1
+      - 0.4.0-RC2
+      - 0.4.0-RC3
+      - 0.4.0-RC4
+      - 0.4.0-RC5
+      - 0.4.0-RC6
+      - 0.4.0
+

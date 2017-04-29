@@ -1,0 +1,242 @@
+artifacts:
+  common:
+    lastUpdated: 20150503085315
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  future-converter:
+    lastUpdated: 20170117193718
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-common:
+    lastUpdated: 20170117193718
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-deprecated:
+    lastUpdated: 20150503085316
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  future-converter-guava-common:
+    lastUpdated: 20170117193718
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  future-converter-guava-rxjava:
+    lastUpdated: 20170117193718
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-guava-rxjava2:
+    lastUpdated: 20170117193719
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  future-converter-java8-common:
+    lastUpdated: 20170117193719
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  future-converter-java8-guava:
+    lastUpdated: 20170117193719
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-rxjava-common:
+    lastUpdated: 20170117193719
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  future-converter-rxjava-java8:
+    lastUpdated: 20170117193720
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-rxjava2-common:
+    lastUpdated: 20170117193720
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  future-converter-rxjava2-java8:
+    lastUpdated: 20170117193720
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  future-converter-spring-common:
+    lastUpdated: 20170117193721
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  future-converter-spring-guava:
+    lastUpdated: 20170117193721
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-spring-java8:
+    lastUpdated: 20170117193721
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-spring-rxjava:
+    lastUpdated: 20170117193721
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+  future-converter-spring-rxjava2:
+    lastUpdated: 20170117193722
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  java8-guava:
+    lastUpdated: 20150503085319
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  rxjava-java8:
+    lastUpdated: 20150503085319
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  spring-guava:
+    lastUpdated: 20150503085320
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  spring-java8:
+    lastUpdated: 20150503085320
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+  spring-rxjava:
+    lastUpdated: 20150503085320
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+

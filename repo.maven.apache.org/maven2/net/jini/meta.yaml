@@ -1,0 +1,69 @@
+artifacts:
+  jini-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-beta2
+      - 2.1
+      - 2.1
+  jini-ext:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-beta2
+      - 2.1
+      - 2.1
+  jini-start-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-beta2
+  jini-starterkit:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1-beta2
+  jsk-dl:
+    lastUpdated: 20160221153902
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  jsk-lib:
+    lastUpdated: 20160221153906
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  jsk-platform:
+    lastUpdated: 20160221153908
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+  jsk-policy:
+    lastUpdated: 20160221153909
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.2
+      - 2.2.3
+  jsk-resources:
+    lastUpdated: 20160221153911
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+

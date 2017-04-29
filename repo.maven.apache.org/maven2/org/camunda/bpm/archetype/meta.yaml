@@ -1,0 +1,85 @@
+artifacts:
+  camunda-archetype-cockpit-plugin:
+    lastUpdated: 20170119154811
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.1.2
+      - 7.1.3
+      - 7.2.0
+      - 7.2.1
+      - 7.3.1
+      - 7.3.2
+      - 7.4.0
+      - 7.5.0
+      - 7.6.0
+      - 7.6.1
+  camunda-archetype-demo:
+    lastUpdated: 20170119154811
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.6.0
+      - 7.6.1
+  camunda-archetype-ejb-war:
+    lastUpdated: 20170119154812
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.1.1
+      - 7.1.2
+      - 7.1.3
+      - 7.2.0
+      - 7.2.1
+      - 7.3.1
+      - 7.3.2
+      - 7.4.0
+      - 7.5.0
+      - 7.6.0
+      - 7.6.1
+  camunda-archetype-engine-plugin:
+    lastUpdated: 20170119154812
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.6.0
+      - 7.6.1
+  camunda-archetype-root:
+    lastUpdated: 20170119154813
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.1.1
+      - 7.1.2
+      - 7.1.3
+      - 7.2.0
+      - 7.2.1
+      - 7.3.1
+      - 7.3.2
+      - 7.4.0
+      - 7.5.0
+      - 7.6.0
+      - 7.6.1
+  camunda-archetype-servlet-spring-camel-war:
+    lastUpdated: 20170119154813
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.6.1
+  camunda-archetype-servlet-war:
+    lastUpdated: 20170119154814
+    latest: 7.6.1
+    release: 7.6.1
+    versions:
+      - 7.1.1
+      - 7.1.2
+      - 7.1.3
+      - 7.2.0
+      - 7.2.1
+      - 7.3.1
+      - 7.3.2
+      - 7.4.0
+      - 7.5.0
+      - 7.6.0
+      - 7.6.1
+

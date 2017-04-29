@@ -1,0 +1,46 @@
+artifacts:
+  dao-framework:
+    lastUpdated: 20110909085350
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+  dao-framework-core-bc:
+    lastUpdated: 20110909085348
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+  dao-framework-jpa:
+    lastUpdated: 20110909085343
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+  dao-framework-jpa-spring:
+    lastUpdated: 20110909085346
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.3
+      - 3.4
+      - 3.5
+  dao-framework-system:
+    lastUpdated: 20110909085345
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+

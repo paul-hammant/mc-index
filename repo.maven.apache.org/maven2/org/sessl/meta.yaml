@@ -1,0 +1,67 @@
+artifacts:
+  parent-pom:
+    lastUpdated: 20170324144348
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.1
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl:
+    lastUpdated: 20170324144348
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.1
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl-ml3:
+    lastUpdated: 20170324144349
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.12
+  sessl-mlrules:
+    lastUpdated: 20170324144349
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl-omnetpp:
+    lastUpdated: 20170324144350
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.1
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl-opt4j:
+    lastUpdated: 20170324144350
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.1
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl-sbmlsim:
+    lastUpdated: 20170324144351
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.1
+      - 0.11
+      - 0.11.1
+      - 0.12
+  sessl-ssj:
+    lastUpdated: 20170324144351
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.12
+

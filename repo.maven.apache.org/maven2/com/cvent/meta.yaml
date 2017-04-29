@@ -1,0 +1,50 @@
+artifacts:
+  code-quality:
+    lastUpdated: 20170314144339
+    latest: 1.17
+    release: 1.17
+    versions:
+      - 1.16
+      - 1.17
+      - 1.16
+      - 1.17
+  cvent-parent:
+    lastUpdated: 20170314144912
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  dropwizard-couchbase-sessions:
+    lastUpdated: 20170412010520
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  dropwizard-mybatis:
+    lastUpdated: 20170405172529
+    latest: 3.1.8
+    release: 3.1.8
+    versions:
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+  pangaea:
+    lastUpdated: 20170402225454
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  retrofit-metrics:
+    lastUpdated: 20170327133002
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

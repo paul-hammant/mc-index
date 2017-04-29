@@ -1,0 +1,458 @@
+artifacts:
+  bridge_2.10:
+    lastUpdated: 20150317162715
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  bridge_2.11:
+    lastUpdated: 20150317162717
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+  bridge_2.9.1:
+    lastUpdated: 20130901051238
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  bridge_2.9.2:
+    lastUpdated: 20130901051239
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  doctrine_2.10:
+    lastUpdated: 20140727223850
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  gigahorse-akka-http_2.11:
+    lastUpdated: 20170109115035
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  gigahorse-akka-http_2.12:
+    lastUpdated: 20170109115035
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  gigahorse-asynchttpclient_2.11:
+    lastUpdated: 20170109115035
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  gigahorse-asynchttpclient_2.12:
+    lastUpdated: 20170109115036
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  gigahorse-core_2.10:
+    lastUpdated: 20160801195516
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  gigahorse-core_2.11:
+    lastUpdated: 20170109115036
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+  gigahorse-core_2.12:
+    lastUpdated: 20170109115036
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  gigahorse-github_2.10:
+    lastUpdated: 20160801203912
+    latest: gigahorse0.1.1_0.1.0
+    release: gigahorse0.1.1_0.1.0
+    versions:
+      - gigahorse0.1.1_0.1.0
+  gigahorse-github_2.11:
+    lastUpdated: 20160801203913
+    latest: gigahorse0.1.1_0.1.0
+    release: gigahorse0.1.1_0.1.0
+    versions:
+      - gigahorse0.1.1_0.1.0
+  repatch-twitter-core_2.10:
+    lastUpdated: 20140511202405
+    latest: dispatch0.11.1_0.1.0
+    release: dispatch0.11.1_0.1.0
+    versions:
+      - dispatch0.10.0_0.1.0
+      - dispatch0.10.1_0.1.0
+      - dispatch0.11.0_0.1.0
+      - dispatch0.11.1_0.1.0
+  repatch-twitter-core_2.11:
+    lastUpdated: 20140511202406
+    latest: dispatch0.11.1_0.1.0
+    release: dispatch0.11.1_0.1.0
+    versions:
+      - dispatch0.11.0_0.1.0
+      - dispatch0.11.1_0.1.0
+  sbt-appengine_2.8.1:
+    lastUpdated: 20141102190335
+    latest: 0.1
+    release: 0.1
+    versions:
+      - sbt0.10.0_0.2
+      - sbt0.10.1_0.2
+      - 0.1
+      - 0.1
+  sbt-assembly_2.8.1:
+    lastUpdated: 20141102190338
+    latest: 0.2
+    release: 0.2
+    versions:
+      - sbt0.10.0_0.3
+      - sbt0.10.0_0.4
+      - sbt0.10.0_0.5
+      - sbt0.10.0_0.6
+      - sbt0.10.1_0.3
+      - sbt0.10.1_0.4
+      - sbt0.10.1_0.5
+      - sbt0.10.1_0.6
+      - 0.2
+      - 0.2
+  sff4s-actors_2.8.1:
+    lastUpdated: 20141102190341
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-actors_2.9.1:
+    lastUpdated: 20141102190332
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-akka_2.9.1:
+    lastUpdated: 20141102190402
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-api_2.8.1:
+    lastUpdated: 20141102190340
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-api_2.9.1:
+    lastUpdated: 20141102190339
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-juc_2.8.1:
+    lastUpdated: 20141102190335
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-juc_2.9.1:
+    lastUpdated: 20141102190353
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-twitter-util_2.8.1:
+    lastUpdated: 20141102190340
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sff4s-twitter-util_2.9.1:
+    lastUpdated: 20141102190334
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sjson-new-core_2.10:
+    lastUpdated: 20170125134449
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-core_2.11:
+    lastUpdated: 20170125134450
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-core_2.12:
+    lastUpdated: 20170125134450
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-json4s_2.10:
+    lastUpdated: 20160525081724
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  sjson-new-json4s_2.11:
+    lastUpdated: 20160525081725
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  sjson-new-msgpack_2.10:
+    lastUpdated: 20170125134451
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-msgpack_2.11:
+    lastUpdated: 20170125134452
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-msgpack_2.12:
+    lastUpdated: 20170125134452
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-murmurhash_2.10:
+    lastUpdated: 20170125134452
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-murmurhash_2.11:
+    lastUpdated: 20170125134453
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-murmurhash_2.12:
+    lastUpdated: 20170125134453
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-scalajson_2.10:
+    lastUpdated: 20170125134454
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-scalajson_2.11:
+    lastUpdated: 20170125134454
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-scalajson_2.12:
+    lastUpdated: 20170125134455
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-spray_2.10:
+    lastUpdated: 20170125134455
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-spray_2.11:
+    lastUpdated: 20170125134455
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  sjson-new-spray_2.12:
+    lastUpdated: 20170125134456
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+  treehugger_2.10:
+    lastUpdated: 20150317162718
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.2.1
+      - 0.2.3
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  treehugger_2.10.0-M7:
+    lastUpdated: 20120823045026
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+  treehugger_2.11:
+    lastUpdated: 20150317162719
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  treehugger_2.8.1:
+    lastUpdated: 20120729182546
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+  treehugger_2.9.0-1:
+    lastUpdated: 20141102190353
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.3
+  treehugger_2.9.1:
+    lastUpdated: 20130901051241
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.3
+      - 0.3.0
+  treehugger_2.9.2:
+    lastUpdated: 20130901051242
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.3
+      - 0.3.0
+

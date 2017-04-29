@@ -1,0 +1,141 @@
+artifacts:
+  aerospike-cache:
+    lastUpdated: 20151214164523
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.9
+      - 0.9.1
+      - 1.1
+      - 1.2
+      - 0.9
+      - 1.1
+      - 1.2
+  aerospike-client:
+    lastUpdated: 20170404213655
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.0.20
+      - 3.0.22
+      - 3.0.23
+      - 3.0.24
+      - 3.0.25
+      - 3.0.26
+      - 3.0.27
+      - 3.0.28
+      - 3.0.29
+      - 3.0.30
+      - 3.0.31
+      - 3.0.32
+      - 3.0.33
+      - 3.0.34
+      - 3.0.35
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+      - 3.2.5
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+  aerospike-helper-java:
+    lastUpdated: 20170405185529
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  aerospike-kafka-connector:
+    lastUpdated: 20161206004022
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  aerospike-play-cache_2.11:
+    lastUpdated: 20151214164524
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  aerospike-play-session-store_2.11:
+    lastUpdated: 20151214164525
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  aerospike-session-store:
+    lastUpdated: 20151214164525
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.9
+      - 0.9.1
+      - 1.1
+      - 1.2
+      - 0.9
+      - 1.1
+      - 1.2
+  aerospike-shiro-session:
+    lastUpdated: 20160818203753
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  aerospike-transcoder:
+    lastUpdated: 20151214164528
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 0.9
+      - 0.9.1
+      - 1.1
+      - 1.2
+      - 0.9
+      - 1.1
+      - 1.2
+  apache-kafka-connector:
+    lastUpdated: 20160929104645
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  spring-data-aerospike:
+    lastUpdated: 20170411012754
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+

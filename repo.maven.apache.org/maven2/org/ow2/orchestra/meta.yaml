@@ -1,0 +1,604 @@
+artifacts:
+  orchestra:
+    lastUpdated: 20090429130000
+    latest: {}
+    release: 4.0.10
+    versions:
+      - 4.0.RC2
+      - 4.0.M5
+      - 4.0.RC3
+      - 4.0.RC4
+      - 4.0.RC5
+      - 4.0.RC6
+      - 4.0.RC7
+      - 4.0.RC8
+      - 4.0.RC9
+      - 4.0.10
+  orchestra-api:
+    lastUpdated: 20121122084300
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-axis:
+    lastUpdated: 20110614164430
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.0.M5
+      - 4.0.RC3
+      - 4.0.RC4
+      - 4.0.RC5
+      - 4.0.RC6
+      - 4.0.RC7
+      - 4.0.RC8
+      - 4.0.RC9
+      - 4.0.10
+      - 4.0.11
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-axis-felix:
+    lastUpdated: 20110614164959
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-axis-old-tomcat:
+    lastUpdated: 20100218125534
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  orchestra-axis-old-war:
+    lastUpdated: 20100218123444
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  orchestra-axis-osgi:
+    lastUpdated: 20100218123110
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  orchestra-axis-packages:
+    lastUpdated: 20110614164935
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-axis-parent:
+    lastUpdated: 20110614164409
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-axis-tomcat:
+    lastUpdated: 20110614165113
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-axis-war:
+    lastUpdated: 20110614164450
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-b4p:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-api:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-envGen:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-packages:
+    lastUpdated: 20121122084311
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-parent:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-tomcat:
+    lastUpdated: 20121122084312
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-b4p-war:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-base-felix:
+    lastUpdated: 20121122084307
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-base-tomcat:
+    lastUpdated: 20121122084304
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-build:
+    lastUpdated: 20090528120348
+    latest: {}
+    release: 4.0.11
+    versions:
+      - 4.0.10
+      - 4.0.11
+  orchestra-build-tools:
+    lastUpdated: 20121122084254
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cluster-jgroups:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-clustering-tests:
+    lastUpdated: 20121122084316
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-common:
+    lastUpdated: 20121122084254
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-common-osgi:
+    lastUpdated: 20100218122254
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  orchestra-common-packages:
+    lastUpdated: 20121122084304
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-common-war:
+    lastUpdated: 20121122084301
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-core:
+    lastUpdated: 20121122084300
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf:
+    lastUpdated: 20121122084301
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf-felix:
+    lastUpdated: 20121122084310
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf-old-tomcat:
+    lastUpdated: 20100218131204
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  orchestra-cxf-old-war:
+    lastUpdated: 20100218122923
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  orchestra-cxf-osgi:
+    lastUpdated: 20100218122521
+    latest: {}
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  orchestra-cxf-packages:
+    lastUpdated: 20121122084307
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf-parent:
+    lastUpdated: 20121122084300
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf-tomcat:
+    lastUpdated: 20121122084307
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-cxf-war:
+    lastUpdated: 20121122084301
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-database-tests:
+    lastUpdated: 20121122084315
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-doc:
+    lastUpdated: 20090209165949
+    latest: {}
+    release: 4.0.RC9
+    versions:
+      - 4.0.M5
+      - 4.0.RC3
+      - 4.0.RC4
+      - 4.0.RC5
+      - 4.0.RC6
+      - 4.0.RC7
+      - 4.0.RC8
+      - 4.0.RC9
+  orchestra-engine-common:
+    lastUpdated: 20121122084259
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-engine-parent:
+    lastUpdated: 20121122084259
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-ext-logging:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-extension-archetype:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-extensions-parent:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-felix:
+    lastUpdated: 20090528120140
+    latest: {}
+    release: 4.0.11
+    versions:
+      - 4.0.11
+  orchestra-integration-tests:
+    lastUpdated: 20121122084315
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-jmxclient:
+    lastUpdated: 20121122084300
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-jonas4-cxf:
+    lastUpdated: 20110623101430
+    latest: {}
+    release: 4.8.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.7.1
+      - 4.6.2
+      - 4.8.0
+  orchestra-jonas5-cxf:
+    lastUpdated: 20121122084315
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-modules:
+    lastUpdated: 20110614163718
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.7.0
+      - 4.6.2
+  orchestra-osgi:
+    lastUpdated: 20090528120039
+    latest: {}
+    release: 4.0.11
+    versions:
+      - 4.0.11
+  orchestra-packages:
+    lastUpdated: 20121122084304
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-parent:
+    lastUpdated: 20121122084254
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-pvm:
+    lastUpdated: 20110614164025
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.0.10
+      - 4.0.11
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+  orchestra-rest-client:
+    lastUpdated: 20121122084302
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra-tomcat:
+    lastUpdated: 20090528115732
+    latest: {}
+    release: 4.0.11
+    versions:
+      - 4.0.11
+  orchestra-utils:
+    lastUpdated: 20121122084255
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+

@@ -1,0 +1,57 @@
+artifacts:
+  fortress-core:
+    lastUpdated: 20161107020315
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC40
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+  fortress-realm:
+    lastUpdated: 20161107020329
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+  fortress-realm-impl:
+    lastUpdated: 20161107020329
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+  fortress-realm-proxy:
+    lastUpdated: 20161107020329
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+  fortress-rest:
+    lastUpdated: 20161107020347
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+  fortress-web:
+    lastUpdated: 20161107020401
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 1.0-RC42
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-RC1
+

@@ -1,0 +1,299 @@
+artifacts:
+  io.wcm.caravan.commons.cors:
+    lastUpdated: 20160318221259
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.5.0
+      - 1.0.0
+  io.wcm.caravan.commons.hal:
+    lastUpdated: 20150611210801
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.commons.hal-browser:
+    lastUpdated: 20150604224755
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.commons.httpasyncclient:
+    lastUpdated: 20170208133257
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io.wcm.caravan.commons.httpclient:
+    lastUpdated: 20170208133241
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io.wcm.caravan.commons.jax-rs:
+    lastUpdated: 20150604224819
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.commons.jsonpath:
+    lastUpdated: 20150529230519
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.commons.metrics:
+    lastUpdated: 20160831132124
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  io.wcm.caravan.commons.parent:
+    lastUpdated: 20170208133211
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+      - 1.1.2
+  io.wcm.caravan.commons.performance:
+    lastUpdated: 20150604231605
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.commons.stream:
+    lastUpdated: 20160212223931
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.5.0
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.hal.browser:
+    lastUpdated: 20150723230940
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.caravan.hal.docs:
+    lastUpdated: 20160318221924
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  io.wcm.caravan.hal.docs-annotations:
+    lastUpdated: 20150724233017
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.hal.parent:
+    lastUpdated: 20160316191459
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.hal.resource:
+    lastUpdated: 20160316191446
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+  io.wcm.caravan.integration-test.minimal-launchpad:
+    lastUpdated: 20170106085804
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.io.http:
+    lastUpdated: 20170208210017
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.2
+      - 0.7.4
+      - 0.8.0
+      - 0.8.2
+      - 0.9.0
+      - 0.9.2
+      - 0.10.0
+  io.wcm.caravan.io.json-transform:
+    lastUpdated: 20160429141527
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  io.wcm.caravan.io.parent:
+    lastUpdated: 20170208205959
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+      - 1.1.2
+  io.wcm.caravan.jaxrs.parent:
+    lastUpdated: 20160318223627
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.jaxrs.publisher:
+    lastUpdated: 20160318223601
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.jaxws.consumer:
+    lastUpdated: 20170208133314
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.jaxws.consumer-httpclient:
+    lastUpdated: 20170208133333
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.caravan.jaxws.parent:
+    lastUpdated: 20170106093023
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.caravan.jaxws.publisher:
+    lastUpdated: 20170106101925
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.caravan.packaging.parent:
+    lastUpdated: 20150826151129
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.caravan.packaging.pipeline-hal-client-aem61:
+    lastUpdated: 20150826151939
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.2
+  io.wcm.caravan.parent_toplevel:
+    lastUpdated: 20170106085409
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.2.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+      - 1.1.0
+      - 1.1.2
+  io.wcm.caravan.pipeline.api:
+    lastUpdated: 20160212225023
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+  io.wcm.caravan.pipeline.cache.couchbase:
+    lastUpdated: 20160212225858
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.6.0
+      - 0.7.0
+  io.wcm.caravan.pipeline.cache.guava:
+    lastUpdated: 20160212225914
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+  io.wcm.caravan.pipeline.extensions.hal:
+    lastUpdated: 20160316192104
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  io.wcm.caravan.pipeline.impl:
+    lastUpdated: 20160525145023
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  io.wcm.caravan.pipeline.parent:
+    lastUpdated: 20160212224716
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+      - 1.1.0
+  io.wcm.caravan.testing.http:
+    lastUpdated: 20150625204616
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  io.wcm.caravan.testing.json:
+    lastUpdated: 20150611212636
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  io.wcm.caravan.testing.pipeline:
+    lastUpdated: 20150625210350
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.2
+

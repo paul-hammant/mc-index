@@ -1,0 +1,317 @@
+artifacts:
+  csv-validator:
+    lastUpdated: 20170124165832
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  csv-validator-cmd:
+    lastUpdated: 20170124165833
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  csv-validator-core:
+    lastUpdated: 20170124165833
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  csv-validator-java-api:
+    lastUpdated: 20170124165834
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  csv-validator-parent:
+    lastUpdated: 20170124165834
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  csv-validator-ui:
+    lastUpdated: 20170124165835
+    latest: 1.2-RC2
+    release: 1.2-RC2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0
+      - 1.0.1-RC1
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2-RC1
+      - 1.2-RC2
+  droid:
+    lastUpdated: 20170203135142
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-binary:
+    lastUpdated: 20170203135142
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-build-tools:
+    lastUpdated: 20170203135143
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-command-line:
+    lastUpdated: 20170203135143
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-container:
+    lastUpdated: 20170203135144
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-core:
+    lastUpdated: 20170203135144
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-core-interfaces:
+    lastUpdated: 20170203135145
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-export:
+    lastUpdated: 20170203135145
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-export-interfaces:
+    lastUpdated: 20170203135146
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-help:
+    lastUpdated: 20170203135146
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-parent:
+    lastUpdated: 20170203135147
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-report:
+    lastUpdated: 20170203135147
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-report-interfaces:
+    lastUpdated: 20170203135148
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-results:
+    lastUpdated: 20170203135148
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  droid-ui:
+    lastUpdated: 20170203135149
+    latest: 6.3
+    release: 6.3
+    versions:
+      - 6.1
+      - 6.1.2
+      - 6.1.3
+      - 6.1.5
+      - 6.2
+      - 6.2.1
+      - 6.3-RC1
+      - 6.3
+  utf8-validator:
+    lastUpdated: 20131119140735
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+

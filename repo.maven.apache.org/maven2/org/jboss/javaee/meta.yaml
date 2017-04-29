@@ -1,0 +1,210 @@
+artifacts:
+  jboss-ejb-api:
+    lastUpdated: 20100425052817
+    latest: 3.0.0.20070913080910
+    release: 3.0.0.20070913080910
+    versions:
+      - 3.0.0.Beta3Update1
+      - 3.0.0.CR1
+      - 3.0.0.CR2
+      - 3.0.0.GA
+      - 3.0.0.GA_SP1
+      - 3.0.0.20070913080910
+  jboss-ejb-api-3.0_spec:
+    lastUpdated: 20120726094834
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-ejb-api_3.1:
+    lastUpdated: 20100425052834
+    latest: 1.0-alpha-1
+    release: 1.0-alpha-1
+    versions:
+      - 1.0-alpha-1
+  jboss-jacc-api:
+    lastUpdated: 20100425053019
+    latest: 1.1.0.20070913080910
+    release: 1.1.0.20070913080910
+    versions:
+      - 1.1.0.Beta3Update1
+      - 1.1.0.CR1
+      - 1.1.0.CR2
+      - 1.1.0.GA
+      - 1.1.0.GA_SP1
+      - 1.1.0.20070913080910
+  jboss-jacc-api-1.1_spec:
+    lastUpdated: 20120726094835
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-jacc-api_JDK4:
+    lastUpdated: 20100425053021
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  jboss-jad-api:
+    lastUpdated: 20100425053142
+    latest: 1.2.0.20070913080910
+    release: 1.2.0.20070913080910
+    versions:
+      - 1.2.0.Beta3Update1
+      - 1.2.0.CR1
+      - 1.2.0.CR2
+      - 1.2.0.GA
+      - 1.2.0.20070913080910
+  jboss-jad-api-1.2_spec:
+    lastUpdated: 20120726094835
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-jaspi-api:
+    lastUpdated: 20100425053321
+    latest: 1.0.0.GA
+    release: 1.0.0.GA
+    versions:
+      - 1.0-BETA1
+      - 1.0.0.BETA1-20070913080910
+      - 1.0.0.Beta3Update1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.GA
+  jboss-jaspi-api-1.0_spec:
+    lastUpdated: 20120726094838
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-javaee:
+    lastUpdated: 20100425053541
+    latest: 5.2.0.Beta1
+    release: 5.2.0.Beta1
+    versions:
+      - 5.0.0.Beta3
+      - 5.0.0.Beta3Update1
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.2.0.Beta1
+  jboss-javaee-parent:
+    lastUpdated: 20120726094833
+    latest: 6.0.0-alpha-1
+    release: 6.0.0-alpha-1
+    versions:
+      - 5.0.0.Beta3Update1
+      - 5.0.0.CR1
+      - 5.0.0.CR2
+      - 5.0.0.GA
+      - 5.0.1.GA
+      - 5.0.2.RC1
+      - 5.0.2.GA
+      - 5.2.0.Beta1
+      - 6.0.0-alpha-1
+  jboss-jaxr-api:
+    lastUpdated: 20100425053702
+    latest: 1.0.0.20070913080910
+    release: 1.0.0.20070913080910
+    versions:
+      - 1.0.0.Beta3Update1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.0.20070913080910
+  jboss-jaxr-api-1.0_spec:
+    lastUpdated: 20120726094836
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-jaxs-api:
+    lastUpdated: 20100425053732
+    latest: 1.2.0.20070913080910
+    release: 1.2.0.20070913080910
+    versions:
+      - 1.2.0.Beta3Update1
+      - 1.2.0.20070913080910
+  jboss-jca-api:
+    lastUpdated: 20100425053850
+    latest: 1.5.0.20070913080910
+    release: 1.5.0.20070913080910
+    versions:
+      - 1.5.0.Beta3Update1
+      - 1.5.0.CR1
+      - 1.5.0.CR2
+      - 1.5.0.GA
+      - 1.5.0.20070913080910
+  jboss-jca-api-1.5_spec:
+    lastUpdated: 20120726094837
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-jms-api:
+    lastUpdated: 20100425054018
+    latest: 1.1.0.20070913080910
+    release: 1.1.0.20070913080910
+    versions:
+      - 1.1.0.Beta3Update1
+      - 1.1.0.CR1
+      - 1.1.0.CR2
+      - 1.1.0.GA
+      - 1.1.0.20070913080910
+  jboss-jms-api-1.1_spec:
+    lastUpdated: 20120726094837
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-persistence-api:
+    lastUpdated: 20100425054100
+    latest: 3.0.0.20070913080910
+    release: 3.0.0.20070913080910
+    versions:
+      - 3.0.0.Beta3Update1
+      - 3.0.0.CR1
+      - 3.0.0.20070913080910
+  jboss-servlet-api:
+    lastUpdated: 20100425054221
+    latest: 2.5.0.20070913080910
+    release: 2.5.0.20070913080910
+    versions:
+      - 2.5.0.Beta3Update1
+      - 2.5.0.CR1
+      - 2.5.0.CR2
+      - 2.5.0.GA
+      - 2.5.0.20070913080910
+  jboss-transaction-api:
+    lastUpdated: 20100425054342
+    latest: 1.0.1.20070913080910
+    release: 1.0.1.20070913080910
+    versions:
+      - 1.0.1.Beta3Update1
+      - 1.0.1.CR1
+      - 1.0.1.CR2
+      - 1.0.1.GA
+      - 1.0.1.20070913080910
+  jboss-transaction-api-1.0.1_spec:
+    lastUpdated: 20120726094834
+    latest: 5.0.2.GA
+    release: 5.0.2.GA
+    versions:
+      - 5.0.2.RC1
+      - 5.0.2.GA
+  jboss-transaction-api_1.0:
+    lastUpdated: 20100425054356
+    latest: 1.0-alpha-1
+    release: 1.0-alpha-1
+    versions:
+      - 1.0-alpha-1
+

@@ -1,0 +1,24 @@
+artifacts:
+  mongo-driver-scala_2.11:
+    lastUpdated: 20150724085410
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.1
+      - 0.5.0
+  play-elastic4s_2.11:
+    lastUpdated: 20160505083512
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+  play-mongodb-driver_2.11:
+    lastUpdated: 20150724110901
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.0
+      - 0.3.1
+

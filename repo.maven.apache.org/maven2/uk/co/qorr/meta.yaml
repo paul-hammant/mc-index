@@ -1,0 +1,160 @@
+artifacts:
+  hvalspik-api:
+    lastUpdated: 20170120124203
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.2.1
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-bom:
+    lastUpdated: 20170120124203
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.2.1
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-core:
+    lastUpdated: 20170120124204
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-deployables-maven:
+    lastUpdated: 20170120124205
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-deployables-war:
+    lastUpdated: 20170120124205
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-extensions-dse:
+    lastUpdated: 20170120124206
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-extensions-parent:
+    lastUpdated: 20161018185932
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+  hvalspik-extensions-webcontainers:
+    lastUpdated: 20170120124206
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-extensions-zookeeper:
+    lastUpdated: 20170120124207
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-junit4:
+    lastUpdated: 20170120124207
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-maven:
+    lastUpdated: 20161018185934
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+  hvalspik-parent:
+    lastUpdated: 20170120124207
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-testing-chainedcontainer:
+    lastUpdated: 20170120124208
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-testing-envvariables:
+    lastUpdated: 20170120124208
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-testing-localsource:
+    lastUpdated: 20170120124208
+    latest: 1.5.8
+    release: 1.5.8
+    versions:
+      - 1.3.0
+      - 1.5.5
+      - 1.5.7
+      - 1.5.8
+  hvalspik-tomcat:
+    lastUpdated: 20161018185935
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - v1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.1
+

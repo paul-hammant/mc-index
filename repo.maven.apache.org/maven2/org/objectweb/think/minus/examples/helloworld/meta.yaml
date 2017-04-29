@@ -1,0 +1,21 @@
+artifacts:
+  helloworld:
+    lastUpdated: 20081113142225
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  helloworld-parent:
+    lastUpdated: 20080703182152
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+  maven-targets:
+    lastUpdated: 20080416113732
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+

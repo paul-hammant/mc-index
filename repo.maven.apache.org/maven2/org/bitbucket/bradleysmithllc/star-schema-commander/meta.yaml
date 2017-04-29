@@ -1,0 +1,81 @@
+artifacts:
+  awt-gui:
+    lastUpdated: 20150122043357
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  cli:
+    lastUpdated: 20150122043357
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  core:
+    lastUpdated: 20150122043359
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  parent:
+    lastUpdated: 20150623024330
+    latest: 1.0
+    release: 1.0
+    versions:
+      - ssc.1.A
+      - ssc.1.C
+      - ssc.1.1
+      - ssc.1.2
+      - ssc.1.4
+      - ssc.1.5
+      - ssc.1.7
+      - ssc.1.8
+      - ssc.1.9
+      - 1.0
+      - 1.0
+  ssc-awt-gui:
+    lastUpdated: 20150623024331
+    latest: ssc.1.9
+    release: ssc.1.9
+    versions:
+      - ssc.1.A
+      - ssc.1.C
+      - ssc.1.1
+      - ssc.1.2
+      - ssc.1.4
+      - ssc.1.5
+      - ssc.1.7
+      - ssc.1.8
+      - ssc.1.9
+  ssc-cli:
+    lastUpdated: 20150623024334
+    latest: ssc.1.9
+    release: ssc.1.9
+    versions:
+      - ssc.1.A
+      - ssc.1.C
+      - ssc.1.1
+      - ssc.1.2
+      - ssc.1.4
+      - ssc.1.5
+      - ssc.1.7
+      - ssc.1.8
+      - ssc.1.9
+  ssc-core:
+    lastUpdated: 20150623024335
+    latest: ssc.1.9
+    release: ssc.1.9
+    versions:
+      - ssc.1.A
+      - ssc.1.C
+      - ssc.1.1
+      - ssc.1.2
+      - ssc.1.4
+      - ssc.1.5
+      - ssc.1.7
+      - ssc.1.8
+      - ssc.1.9
+

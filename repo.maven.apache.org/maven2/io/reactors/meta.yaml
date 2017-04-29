@@ -1,0 +1,138 @@
+artifacts:
+  reactors-common_2.11:
+    lastUpdated: 20161226153839
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-common_sjs0.6_2.11:
+    lastUpdated: 20161226153840
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-container_2.11:
+    lastUpdated: 20161226153840
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-container_sjs0.6_2.11:
+    lastUpdated: 20161226153840
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-core_2.11:
+    lastUpdated: 20161226153841
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-core_sjs0.6_2.11:
+    lastUpdated: 20161226153841
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-debugger_2.11:
+    lastUpdated: 20161226153842
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-extra_2.11:
+    lastUpdated: 20161226153842
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-protocol_2.11:
+    lastUpdated: 20161226153842
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  reactors-protocol_sjs0.6_2.11:
+    lastUpdated: 20161226153843
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.8
+      - 0.8
+  reactors-protocols_2.11:
+    lastUpdated: 20161003232347
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  reactors-protocols_sjs0.6_2.11:
+    lastUpdated: 20161003232347
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+      - 0.7
+  reactors-remote_2.11:
+    lastUpdated: 20161226153843
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors-remote_sjs0.6_2.11:
+    lastUpdated: 20161226153843
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors_2.11:
+    lastUpdated: 20161226153844
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  reactors_sjs0.6_2.11:
+    lastUpdated: 20161226153844
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+

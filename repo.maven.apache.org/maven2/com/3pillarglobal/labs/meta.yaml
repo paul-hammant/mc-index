@@ -1,0 +1,54 @@
+artifacts:
+  omni-calendar:
+    lastUpdated: 20131030091316
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.0
+      - 2.0
+      - 2.1
+      - 1.0
+      - 2.0
+      - 2.1
+  quartz-simpledb-jobstore:
+    lastUpdated: 20131115140352
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.0.1
+      - 1.0
+      - 1.0
+  spring-data-simpledb:
+    lastUpdated: 20140513144240
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  spring-data-simpledb-parser:
+    lastUpdated: 20140513144241
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  spring-data-simpledb-sdk:
+    lastUpdated: 20140513144242
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  spring-integration-aws:
+    lastUpdated: 20140701142143
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0-RELEASE
+      - 1.1
+      - 2.0.0
+      - 1.1
+

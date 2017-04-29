@@ -1,0 +1,46 @@
+artifacts:
+  dumpclass:
+    lastUpdated: 20160409094236
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  metrics-kafka:
+    lastUpdated: 20160407163518
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  metrics-zabbix:
+    lastUpdated: 20170305110524
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  mybatis-ehcache-spring:
+    lastUpdated: 20160325061022
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  zabbix-api:
+    lastUpdated: 20161216161046
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  zabbix-sender:
+    lastUpdated: 20170116183125
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

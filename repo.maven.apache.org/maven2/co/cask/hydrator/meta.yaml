@@ -1,0 +1,251 @@
+artifacts:
+  cassandra-plugins:
+    lastUpdated: 20170417184033
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  copybookreader-plugins:
+    lastUpdated: 20160830191920
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  core-plugins:
+    lastUpdated: 20170417184034
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  database-plugins:
+    lastUpdated: 20170417184035
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  elasticsearch-plugins:
+    lastUpdated: 20170417184036
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  hbase-plugins:
+    lastUpdated: 20170417184037
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  hdfs-plugins:
+    lastUpdated: 20170417184038
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  hive-plugins:
+    lastUpdated: 20170417184039
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  http-plugins:
+    lastUpdated: 20170417184040
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  hydrator-common:
+    lastUpdated: 20170417184040
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  hydrator-plugins:
+    lastUpdated: 20170417184041
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  kafka-plugins:
+    lastUpdated: 20170417184041
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  mongodb-plugins:
+    lastUpdated: 20170417184042
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  python-evaluator-transform:
+    lastUpdated: 20160125213004
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  solrsearch-plugins:
+    lastUpdated: 20170417184043
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  spark-plugins:
+    lastUpdated: 20170417184043
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  transform-plugins:
+    lastUpdated: 20170417184044
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+  wrangler:
+    lastUpdated: 20170125025743
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

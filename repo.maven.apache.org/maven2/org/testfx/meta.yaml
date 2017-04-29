@@ -1,0 +1,54 @@
+artifacts:
+  openjfx-monocle:
+    lastUpdated: 20160405005223
+    latest: 8u76-b04
+    release: 8u76-b04
+    versions:
+      - 1.8.0_20
+      - 8u20-b26
+      - 8u40-b27
+      - 8u60-b27
+      - 8u76-b04
+  testfx-core:
+    lastUpdated: 20170324013307
+    latest: 4.0.6-alpha
+    release: 4.0.6-alpha
+    versions:
+      - 4.0.0-alpha
+      - 4.0.1-alpha
+      - 4.0.2-alpha
+      - 4.0.3-alpha
+      - 4.0.4-alpha
+      - 4.0.5-alpha
+      - 4.0.6-alpha
+  testfx-junit:
+    lastUpdated: 20170324013640
+    latest: 4.0.6-alpha
+    release: 4.0.6-alpha
+    versions:
+      - 4.0.1-alpha
+      - 4.0.2-alpha
+      - 4.0.3-alpha
+      - 4.0.4-alpha
+      - 4.0.5-alpha
+      - 4.0.6-alpha
+  testfx-junit5:
+    lastUpdated: 20170324013731
+    latest: 4.0.6-alpha
+    release: 4.0.6-alpha
+    versions:
+      - 4.0.5-alpha
+      - 4.0.6-alpha
+  testfx-legacy:
+    lastUpdated: 20170324013849
+    latest: 4.0.6-alpha
+    release: 4.0.6-alpha
+    versions:
+      - 4.0.0-alpha
+      - 4.0.1-alpha
+      - 4.0.2-alpha
+      - 4.0.3-alpha
+      - 4.0.4-alpha
+      - 4.0.5-alpha
+      - 4.0.6-alpha
+

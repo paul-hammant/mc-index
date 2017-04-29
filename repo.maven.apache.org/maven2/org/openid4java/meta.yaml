@@ -1,0 +1,95 @@
+artifacts:
+  openid4java:
+    lastUpdated: 20130513201636
+    latest: 0.9.8
+    release: 0.9.8
+    versions:
+      - 0.9.5
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+  openid4java-consumer:
+    lastUpdated: 20110420161334
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-consumer-JdbcConsumerAssociationStore:
+    lastUpdated: 20110420161333
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-consumer-JdbcNonceVerifier:
+    lastUpdated: 20110420161334
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-consumer-SampleConsumer:
+    lastUpdated: 20110420161336
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-full:
+    lastUpdated: 20110420161334
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-infocard:
+    lastUpdated: 20110420161335
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-nodeps:
+    lastUpdated: 20110420161333
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-parent:
+    lastUpdated: 20110420161335
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-server:
+    lastUpdated: 20110420161335
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-server-JdbcServerAssociationStore:
+    lastUpdated: 20110420161334
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-server-SampleServer:
+    lastUpdated: 20110420161335
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+  openid4java-xri:
+    lastUpdated: 20110420161334
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.5
+      - 0.9.6
+

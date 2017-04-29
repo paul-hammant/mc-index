@@ -1,0 +1,70 @@
+artifacts:
+  args-inject:
+    lastUpdated: 20101122215735
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-rc-1
+  buildbox-util:
+    lastUpdated: 20100811233002
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-1
+  changes:
+    lastUpdated: 20091204220954
+    latest: {}
+    release: {}
+    versions:
+      - 2.0.0
+  releasator:
+    lastUpdated: 20101123221742
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-rc
+      - 1.0.0-rc-1
+      - 1.0.0-rc-2
+  strictlogging:
+    lastUpdated: 20101113222529
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+  strictlogging-api:
+    lastUpdated: 20101113222716
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+  strictlogging-javalogging:
+    lastUpdated: 20101113222954
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+  strictlogging-log4j:
+    lastUpdated: 20101113223114
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+  strictlogging-mavenlog:
+    lastUpdated: 20101113223234
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+  strictlogging-tests:
+    lastUpdated: 20101113222835
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1-rc
+      - 1.0.1
+

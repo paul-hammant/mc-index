@@ -1,0 +1,174 @@
+artifacts:
+  core:
+    lastUpdated: 20170102121816
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  reactor:
+    lastUpdated: 20170102121816
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-akka:
+    lastUpdated: 20170102121817
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-core:
+    lastUpdated: 20170102121817
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-reactor:
+    lastUpdated: 20170102121817
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-rs:
+    lastUpdated: 20170102121818
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-rxjava1:
+    lastUpdated: 20170102121818
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  roxy-rxjava2:
+    lastUpdated: 20170102121818
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  rs-core:
+    lastUpdated: 20170102121819
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  rxjava-v1:
+    lastUpdated: 20170102121819
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  rxjava-v2:
+    lastUpdated: 20170102121819
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-annotations:
+    lastUpdated: 20170102121820
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-base-maker:
+    lastUpdated: 20170102121820
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-base-processor:
+    lastUpdated: 20170102121820
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-maker-rs:
+    lastUpdated: 20170102121821
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-maker-rxjava1:
+    lastUpdated: 20170102121821
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-maker-rxjava2:
+    lastUpdated: 20170102121821
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-processor-reactor:
+    lastUpdated: 20170102121822
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-processor-rs:
+    lastUpdated: 20161012094541
+    latest: 0.1.0-alpha1
+    release: 0.1.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+  shield-processor-rxjava1:
+    lastUpdated: 20170102121822
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-processor-rxjava2-proc:
+    lastUpdated: 20170102121822
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+  shield-processor-rxjava2-subj:
+    lastUpdated: 20170102121823
+    latest: 0.2.0-alpha1
+    release: 0.2.0-alpha1
+    versions:
+      - 0.1.0-alpha1
+      - 0.1.0
+      - 0.2.0-alpha1
+

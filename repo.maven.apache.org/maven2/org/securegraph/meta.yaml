@@ -1,0 +1,205 @@
+artifacts:
+  securegraph-accumulo:
+    lastUpdated: 20150415133654
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-accumulo-blueprints:
+    lastUpdated: 20150415133655
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-accumulo-iterators:
+    lastUpdated: 20150415133655
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-accumulo-migrations:
+    lastUpdated: 20150415133656
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  securegraph-blueprints:
+    lastUpdated: 20150415133657
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-blueprints-test:
+    lastUpdated: 20150415133658
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-cli:
+    lastUpdated: 20150415133700
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  securegraph-core:
+    lastUpdated: 20150415133700
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-elasticsearch:
+    lastUpdated: 20150415133701
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-elasticsearch-base:
+    lastUpdated: 20150415133701
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-elasticsearch-nested:
+    lastUpdated: 20140424185853
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  securegraph-elasticsearch-parentchild:
+    lastUpdated: 20150415133703
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-elasticsearch-plugin:
+    lastUpdated: 20150415133703
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-inmemory:
+    lastUpdated: 20150415133704
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-kryo-serializer:
+    lastUpdated: 20150415133704
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-performance-test:
+    lastUpdated: 20140530151457
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  securegraph-root:
+    lastUpdated: 20150415133705
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-test:
+    lastUpdated: 20150415133705
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+  securegraph-tools:
+    lastUpdated: 20150415133706
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+

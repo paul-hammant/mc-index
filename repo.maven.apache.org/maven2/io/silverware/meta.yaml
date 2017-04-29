@@ -1,0 +1,184 @@
+artifacts:
+  activemq-microservice-provider:
+    lastUpdated: 20170208174902
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+  camel-cdi-integration:
+    lastUpdated: 20170208174920
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  camel-microservice-provider:
+    lastUpdated: 20170208174939
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  cdi-microservice-provider:
+    lastUpdated: 20170208175000
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  cluster-microservice-provider:
+    lastUpdated: 20170208175032
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  drools-microservice-provider:
+    lastUpdated: 20170208175051
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.1
+      - 2.0
+      - 3.0
+  http-invoker-microservice-provider:
+    lastUpdated: 20170208175120
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  http-server-microservice-provider:
+    lastUpdated: 20170208175139
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  hystrix-microservice-provider:
+    lastUpdated: 20170208175155
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  microservices:
+    lastUpdated: 20170208174841
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  microservices-bom:
+    lastUpdated: 20170208174824
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  monitoring:
+    lastUpdated: 20170208175211
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  monitoring-microservice-provider:
+    lastUpdated: 20170208175231
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  rest-client-microservice-provider:
+    lastUpdated: 20170208175249
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+  silverware-parent:
+    lastUpdated: 20170208174808
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+      - 1.0
+      - 1.1
+      - 2.0
+      - 3.0
+  vertx-microservice-provider:
+    lastUpdated: 20170208174751
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+

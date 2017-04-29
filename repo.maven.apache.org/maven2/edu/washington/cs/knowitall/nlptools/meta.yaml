@@ -1,0 +1,665 @@
+artifacts:
+  nlptools-chunk-opennlp_2.10:
+    lastUpdated: 20141212051121
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-chunk-opennlp_2.9.2:
+    lastUpdated: 20130410175151
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-chunk-opennlp_2.9.3:
+    lastUpdated: 20130930233644
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-conf-breeze_2.10:
+    lastUpdated: 20141212051122
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-conf-breeze_2.9.2:
+    lastUpdated: 20130410175152
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-conf-breeze_2.9.3:
+    lastUpdated: 20130930233645
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-conf-weka_2.10:
+    lastUpdated: 20141212051123
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.4
+      - 2.4.5
+  nlptools-core_2.10:
+    lastUpdated: 20141212051123
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-core_2.9.2:
+    lastUpdated: 20130410175153
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-core_2.9.3:
+    lastUpdated: 20130930233646
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-coref-stanford_2.10:
+    lastUpdated: 20141212051124
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-coref-stanford_2.9.2:
+    lastUpdated: 20130410175154
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-coref-stanford_2.9.3:
+    lastUpdated: 20130930233647
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-headword-uw_2.10:
+    lastUpdated: 20141212051124
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.4
+      - 2.4.5
+  nlptools-parent_2.9.2:
+    lastUpdated: 20130108222930
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+  nlptools-parse-clear_2.10:
+    lastUpdated: 20141212051125
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-parse-clear_2.9.2:
+    lastUpdated: 20130410175155
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0
+      - 2.4.1
+  nlptools-parse-clear_2.9.3:
+    lastUpdated: 20130930233647
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-parse-malt_2.10:
+    lastUpdated: 20141212051126
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-parse-malt_2.9.2:
+    lastUpdated: 20130410175156
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-parse-malt_2.9.3:
+    lastUpdated: 20130930233648
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-parse-opennlp_2.10:
+    lastUpdated: 20141212051127
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-parse-opennlp_2.9.2:
+    lastUpdated: 20130410175157
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-parse-opennlp_2.9.3:
+    lastUpdated: 20130930233649
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-parse-stanford_2.10:
+    lastUpdated: 20141212051127
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-parse-stanford_2.9.2:
+    lastUpdated: 20130410175157
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-parse-stanford_2.9.3:
+    lastUpdated: 20130930233650
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-postag-clear_2.10:
+    lastUpdated: 20141212051128
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-postag-clear_2.9.2:
+    lastUpdated: 20130410175158
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0
+      - 2.4.1
+  nlptools-postag-clear_2.9.3:
+    lastUpdated: 20130930233651
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-postag-opennlp_2.10:
+    lastUpdated: 20141212051128
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-postag-opennlp_2.9.2:
+    lastUpdated: 20130410175158
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-postag-opennlp_2.9.3:
+    lastUpdated: 20130930233651
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-postag-stanford_2.10:
+    lastUpdated: 20141212051129
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-postag-stanford_2.9.2:
+    lastUpdated: 20130410175159
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-postag-stanford_2.9.3:
+    lastUpdated: 20130930233652
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-sentence-breeze.9.2:
+    lastUpdated: 20121024184034
+    latest: 2.2.5
+    release: 2.2.5
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+  nlptools-sentence-breeze_2.10:
+    lastUpdated: 20141212051130
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-sentence-breeze_2.9.2:
+    lastUpdated: 20130410175200
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-sentence-breeze_2.9.3:
+    lastUpdated: 20130930233653
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-sentence-opennlp_2.10:
+    lastUpdated: 20141212051130
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-sentence-opennlp_2.9.2:
+    lastUpdated: 20130410175202
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-sentence-opennlp_2.9.3:
+    lastUpdated: 20130930233653
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-srl-clear_2.10:
+    lastUpdated: 20141212051131
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-srl-clear_2.9.2:
+    lastUpdated: 20130410175204
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0
+      - 2.4.1
+  nlptools-srl-clear_2.9.3:
+    lastUpdated: 20130930233654
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-stem-morpha_2.10:
+    lastUpdated: 20141212051131
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-stem-morpha_2.9.2:
+    lastUpdated: 20130410175207
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-stem-morpha_2.9.3:
+    lastUpdated: 20130930233654
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-stem-snowball_2.10:
+    lastUpdated: 20141212051132
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-stem-snowball_2.9.2:
+    lastUpdated: 20130410175208
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-stem-snowball_2.9.3:
+    lastUpdated: 20130930233655
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-tokenize-breeze.9.2:
+    lastUpdated: 20121024184038
+    latest: 2.2.5
+    release: 2.2.5
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+  nlptools-tokenize-breeze_2.10:
+    lastUpdated: 20141212051133
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-tokenize-breeze_2.9.2:
+    lastUpdated: 20130410175208
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-tokenize-breeze_2.9.3:
+    lastUpdated: 20130930233656
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-tokenize-clear_2.10:
+    lastUpdated: 20141212051133
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-tokenize-clear_2.9.2:
+    lastUpdated: 20130410175209
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0
+      - 2.4.1
+  nlptools-tokenize-clear_2.9.3:
+    lastUpdated: 20130930233657
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-tokenize-opennlp_2.10:
+    lastUpdated: 20141212051134
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-tokenize-opennlp_2.9.2:
+    lastUpdated: 20130410175210
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-tokenize-opennlp_2.9.3:
+    lastUpdated: 20130930233659
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-tokenize-stanford_2.10:
+    lastUpdated: 20141212051135
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-tokenize-stanford_2.9.2:
+    lastUpdated: 20130410175212
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+  nlptools-tokenize-stanford_2.9.3:
+    lastUpdated: 20130930233659
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-typer-stanford_2.10:
+    lastUpdated: 20141212051135
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 2.4.5
+  nlptools-typer-stanford_2.9.2:
+    lastUpdated: 20130410175213
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.1
+  nlptools-typer-stanford_2.9.3:
+    lastUpdated: 20130930233700
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.2
+      - 2.4.3
+  nlptools-wordnet-uw_2.10:
+    lastUpdated: 20141212051136
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.4
+      - 2.4.5
+  nlptools_2.9.2:
+    lastUpdated: 20130108223022
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0
+

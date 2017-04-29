@@ -1,0 +1,646 @@
+artifacts:
+  arquillian-desktop-video-recorder:
+    lastUpdated: 20161222192928
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-droidium-multiple-containers:
+    lastUpdated: 20151127102232
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-native:
+    lastUpdated: 20151127102233
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-native-api:
+    lastUpdated: 20151127102233
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-native-build:
+    lastUpdated: 20131009112312
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-native-depchain:
+    lastUpdated: 20131009112313
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-native-impl:
+    lastUpdated: 20131009112313
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-native-parent:
+    lastUpdated: 20151127102234
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-native-spi:
+    lastUpdated: 20151127102234
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-platform:
+    lastUpdated: 20151127102235
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-platform-parent:
+    lastUpdated: 20151127102236
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-platform-spi:
+    lastUpdated: 20151127102236
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-recorder:
+    lastUpdated: 20151127102238
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-screenshooter:
+    lastUpdated: 20151127102239
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-web:
+    lastUpdated: 20140401063000
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-droidium-web-build:
+    lastUpdated: 20131009112315
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-web-depchain:
+    lastUpdated: 20131009112315
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-web-impl:
+    lastUpdated: 20131009112316
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-web-parent:
+    lastUpdated: 20140401063000
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-droidium-web-spi:
+    lastUpdated: 20140401063001
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-governor:
+    lastUpdated: 20160927111508
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-api:
+    lastUpdated: 20160927111510
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-github:
+    lastUpdated: 20160927111512
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-ignore:
+    lastUpdated: 20160927111513
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-jira:
+    lastUpdated: 20160927111514
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-parent:
+    lastUpdated: 20160927111516
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-redmine:
+    lastUpdated: 20160927111517
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-skipper:
+    lastUpdated: 20160927111518
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-governor-spi:
+    lastUpdated: 20160927111520
+    latest: 1.0.4.Final
+    release: 1.0.4.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+  arquillian-recorder:
+    lastUpdated: 20161222192929
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-api:
+    lastUpdated: 20161222192929
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-build:
+    lastUpdated: 20161222192930
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-parent:
+    lastUpdated: 20161222192931
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-reporter:
+    lastUpdated: 20161222192931
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-reporter-api:
+    lastUpdated: 20161222192932
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-reporter-impl:
+    lastUpdated: 20161222192933
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-reporter-spi:
+    lastUpdated: 20161222192934
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-screenshooter-api:
+    lastUpdated: 20161222192935
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-screenshooter-impl-base:
+    lastUpdated: 20161222192936
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-screenshooter-parent:
+    lastUpdated: 20161222192937
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-screenshooter-spi:
+    lastUpdated: 20161222192937
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-spi:
+    lastUpdated: 20161222192939
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-video-api:
+    lastUpdated: 20161222192940
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-video-impl-base:
+    lastUpdated: 20161222192941
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-video-parent:
+    lastUpdated: 20161222192942
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+  arquillian-recorder-video-spi:
+    lastUpdated: 20161222192942
+    latest: 1.1.6.Final
+    release: 1.1.6.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Alpha2
+      - 1.1.0.Alpha3
+      - 1.1.0.Alpha4
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+

@@ -1,0 +1,303 @@
+artifacts:
+  aws-cloudwatch:
+    lastUpdated: 20161027162646
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aws-ec2:
+    lastUpdated: 20161027162647
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aws-route53:
+    lastUpdated: 20161027162647
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aws-s3:
+    lastUpdated: 20161027162649
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aws-sqs:
+    lastUpdated: 20161027162649
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aws-sts:
+    lastUpdated: 20161027162649
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  azureblob:
+    lastUpdated: 20161027162649
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  digitalocean2:
+    lastUpdated: 20161027162650
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  dynect:
+    lastUpdated: 20161027162650
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-ams-e:
+    lastUpdated: 20161027162651
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-dal-a:
+    lastUpdated: 20161027162651
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-hkg-e:
+    lastUpdated: 20161027162651
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-lax-p:
+    lastUpdated: 20161027162652
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-lon-b:
+    lastUpdated: 20161027162652
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-lon-p:
+    lastUpdated: 20161027162653
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-mmi-a:
+    lastUpdated: 20161027162654
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-sat-p:
+    lastUpdated: 20161027162654
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-sjc-c:
+    lastUpdated: 20161027162655
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-syd-v:
+    lastUpdated: 20161027162656
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elastichosts-tor-p:
+    lastUpdated: 20161027162656
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  glesys:
+    lastUpdated: 20161027162657
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  go2cloud-jhb1:
+    lastUpdated: 20161027162657
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  gogrid:
+    lastUpdated: 20161027162658
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  google-compute-engine:
+    lastUpdated: 20161027162659
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  jclouds-providers-project:
+    lastUpdated: 20161027162659
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openhosting-east1:
+    lastUpdated: 20161027162700
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  profitbricks:
+    lastUpdated: 20161027162700
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudblockstorage-uk:
+    lastUpdated: 20161027162701
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudblockstorage-us:
+    lastUpdated: 20161027162701
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddatabases-uk:
+    lastUpdated: 20161027162701
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddatabases-us:
+    lastUpdated: 20161027162702
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddns-uk:
+    lastUpdated: 20161027162702
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddns-us:
+    lastUpdated: 20161027162703
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudfiles-uk:
+    lastUpdated: 20161027162703
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudfiles-us:
+    lastUpdated: 20161027162704
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudloadbalancers-uk:
+    lastUpdated: 20161027162705
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudloadbalancers-us:
+    lastUpdated: 20161027162706
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudservers-uk:
+    lastUpdated: 20161027162706
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudservers-us:
+    lastUpdated: 20161027162707
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  serverlove-z1-man:
+    lastUpdated: 20161027162707
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  skalicloud-sdg-my:
+    lastUpdated: 20161027162708
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  softlayer:
+    lastUpdated: 20161027162709
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  ultradns-ws:
+    lastUpdated: 20161027162709
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+

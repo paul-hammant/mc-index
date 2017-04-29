@@ -1,0 +1,45 @@
+artifacts:
+  fulcrum-yaafi:
+    lastUpdated: 20151009064212
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  turbine:
+    lastUpdated: 20160106140834
+    latest: 4.0-M2
+    release: 4.0-M2
+    versions:
+      - 4.0-M1
+      - 4.0-M2
+  turbine-parent:
+    lastUpdated: 20161218152117
+    latest: 4
+    release: 4
+    versions:
+      - 2
+      - 3
+      - 4
+      - 2
+      - 3
+      - 4
+  turbine-parent-assembly:
+    lastUpdated: 20161212174656
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  turbine-webapp-2.3.3:
+    lastUpdated: 20121118152306
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  turbine-webapp-4.0:
+    lastUpdated: 20170125075200
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

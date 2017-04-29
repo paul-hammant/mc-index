@@ -1,0 +1,37 @@
+artifacts:
+  cimande:
+    lastUpdated: 20110626152108
+    latest: 2.0-RC2-RELEASE
+    release: 2.0-RC2-RELEASE
+    versions:
+      - 2.0-RC2-RELEASE
+  cimande-archetype:
+    lastUpdated: 20110703202806
+    latest: 2.0-RC2.1
+    release: 2.0-RC2.1
+    versions:
+      - 2.0-RC2
+      - 2.0-RC2.1
+  cimande-archetype-blank:
+    lastUpdated: 20111020190316
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0-RC2.4
+      - 2.0-RC3
+      - 2.0
+      - 1.0
+      - 2.0
+  cimande-core:
+    lastUpdated: 20111020190316
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0-RC2.3
+      - 2.0-RC3
+      - 2.0
+      - 1.0
+      - 2.0
+

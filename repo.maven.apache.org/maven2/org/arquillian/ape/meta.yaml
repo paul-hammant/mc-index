@@ -1,0 +1,159 @@
+artifacts:
+  arquillian-ape-core:
+    lastUpdated: 20170420141655
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-junit-rule:
+    lastUpdated: 20170420141655
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-core:
+    lastUpdated: 20170420141655
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-couchbase:
+    lastUpdated: 20170420141656
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-mongodb:
+    lastUpdated: 20170420141656
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-parent:
+    lastUpdated: 20170420141656
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-redis:
+    lastUpdated: 20170420141656
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-nosql-vault:
+    lastUpdated: 20170420141657
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.2
+  arquillian-ape-parent:
+    lastUpdated: 20170420141657
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-rest-core:
+    lastUpdated: 20170420141657
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-rest-parent:
+    lastUpdated: 20170420141657
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-rest-postman:
+    lastUpdated: 20170420141658
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-spi:
+    lastUpdated: 20170420141658
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-container-api:
+    lastUpdated: 20170420141658
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-container-core:
+    lastUpdated: 20170420141659
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-container-dbunit:
+    lastUpdated: 20170420141659
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-container-parent:
+    lastUpdated: 20170420141659
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-core-dbunit:
+    lastUpdated: 20170420141659
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-parent:
+    lastUpdated: 20170420141659
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-standalone-core:
+    lastUpdated: 20170420141700
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-standalone-dbunit:
+    lastUpdated: 20170420141700
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-standalone-flyway:
+    lastUpdated: 20170420141700
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.2
+  arquillian-ape-sql-standalone-parent:
+    lastUpdated: 20170420141701
+    latest: 2.0.0-alpha.2
+    release: 2.0.0-alpha.2
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0-alpha.2
+

@@ -1,0 +1,250 @@
+artifacts:
+  wildfly-arquillian-common:
+    lastUpdated: 20161222205643
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-common-domain:
+    lastUpdated: 20161222205644
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-container-domain-managed:
+    lastUpdated: 20161222205645
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-container-domain-remote:
+    lastUpdated: 20161222205646
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-container-embedded:
+    lastUpdated: 20161222205646
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-container-managed:
+    lastUpdated: 20161222205647
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-container-remote:
+    lastUpdated: 20161222205648
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-parent:
+    lastUpdated: 20161222205649
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-protocol-jmx:
+    lastUpdated: 20161222205650
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-testenricher-msc:
+    lastUpdated: 20161222205651
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+  wildfly-arquillian-testng-integration:
+    lastUpdated: 20161222205651
+    latest: 2.1.0.Alpha1
+    release: 2.1.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.1.0.Alpha1
+      - 1.1.0.Beta1
+      - 1.1.0.Beta2
+      - 1.1.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.1.0.Alpha1
+

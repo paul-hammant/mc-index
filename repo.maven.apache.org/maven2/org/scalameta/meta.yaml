@@ -1,0 +1,893 @@
+artifacts:
+  artifacts_2.11:
+    lastUpdated: 20160316151927
+    latest: 0.0.5-M6
+    release: 0.0.5-M6
+    versions:
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+  common_2.11:
+    lastUpdated: 20170411213608
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  common_2.12:
+    lastUpdated: 20170411213608
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  common_sjs0.6_2.11:
+    lastUpdated: 20170411213609
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  common_sjs0.6_2.12:
+    lastUpdated: 20170411213609
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  contrib_2.11:
+    lastUpdated: 20170411213609
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  contrib_2.12:
+    lastUpdated: 20170411213610
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  contrib_sjs0.6_2.11:
+    lastUpdated: 20170411213610
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  contrib_sjs0.6_2.12:
+    lastUpdated: 20170411213611
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  dialects_2.11:
+    lastUpdated: 20170411213611
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  dialects_2.12:
+    lastUpdated: 20170411213611
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  dialects_sjs0.6_2.11:
+    lastUpdated: 20170411213611
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  dialects_sjs0.6_2.12:
+    lastUpdated: 20170411213612
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  exceptions_2.11:
+    lastUpdated: 20160316151928
+    latest: 0.0.5-M6
+    release: 0.0.5-M6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+  foundation_2.11:
+    lastUpdated: 20160420175525
+    latest: 0.1.0-RC2
+    release: 0.1.0-RC2
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+  inline_2.11:
+    lastUpdated: 20170411213612
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.6.0
+      - 1.7.0
+  inline_2.12:
+    lastUpdated: 20170411213613
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  inline_sjs0.6_2.11:
+    lastUpdated: 20170411213613
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  inline_sjs0.6_2.12:
+    lastUpdated: 20170411213613
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  inputs_2.11:
+    lastUpdated: 20170411213613
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  inputs_2.12:
+    lastUpdated: 20170411213614
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  inputs_sjs0.6_2.11:
+    lastUpdated: 20170411213614
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  inputs_sjs0.6_2.12:
+    lastUpdated: 20170411213615
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  interactive_2.11:
+    lastUpdated: 20160316151929
+    latest: 0.0.5-M6
+    release: 0.0.5-M6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+  interpreter_2.11:
+    lastUpdated: 20150723134856
+    latest: 0.1.0-M0
+    release: 0.1.0-M0
+    versions:
+      - 0.0.0-M0
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0-M0
+  io_2.11:
+    lastUpdated: 20170411213615
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  io_2.12:
+    lastUpdated: 20170411213615
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  io_sjs0.6_2.11:
+    lastUpdated: 20170411213616
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  io_sjs0.6_2.12:
+    lastUpdated: 20170411213616
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  paradise_2.11.10:
+    lastUpdated: 20170411223042
+    latest: 3.0.0-M8
+    release: 3.0.0-M8
+    versions:
+      - 3.0.0-M8
+  paradise_2.11.11:
+    lastUpdated: 20170419061845
+    latest: 3.0.0-M8
+    release: 3.0.0-M8
+    versions:
+      - 3.0.0-M8
+  paradise_2.11.8:
+    lastUpdated: 20170222082726
+    latest: 3.0.0-M7
+    release: 3.0.0-M7
+    versions:
+      - 3.0.0-beta1
+      - 3.0.0-beta2
+      - 3.0.0-beta3
+      - 3.0.0-beta4
+      - 3.0.0-M5
+      - 3.0.0-M6
+      - 3.0.0-M7
+  paradise_2.12.1:
+    lastUpdated: 20170411223043
+    latest: 3.0.0-M8
+    release: 3.0.0-M8
+    versions:
+      - 3.0.0-M6
+      - 3.0.0-M7
+      - 3.0.0-M8
+  paradise_2.12.2:
+    lastUpdated: 20170419061846
+    latest: 3.0.0-M8
+    release: 3.0.0-M8
+    versions:
+      - 3.0.0-M8
+  parsers_2.11:
+    lastUpdated: 20170411213617
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  parsers_2.12:
+    lastUpdated: 20170411213617
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  parsers_sjs0.6_2.11:
+    lastUpdated: 20170411213618
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  parsers_sjs0.6_2.12:
+    lastUpdated: 20170411213618
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  prettyprinters_2.11:
+    lastUpdated: 20160420175527
+    latest: 0.1.0-RC2
+    release: 0.1.0-RC2
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+  quasiquotes_2.11:
+    lastUpdated: 20170411213619
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  quasiquotes_2.12:
+    lastUpdated: 20170411213619
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  quasiquotes_sjs0.6_2.11:
+    lastUpdated: 20170411213619
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  quasiquotes_sjs0.6_2.12:
+    lastUpdated: 20170411213620
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost-nsc_2.11.10:
+    lastUpdated: 20170411213620
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost-nsc_2.11.11:
+    lastUpdated: 20170419055202
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost-nsc_2.11.8:
+    lastUpdated: 20170412162645
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost-nsc_2.12.1:
+    lastUpdated: 20170411213621
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost-nsc_2.12.2:
+    lastUpdated: 20170419055203
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost_2.11.10:
+    lastUpdated: 20170411213621
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost_2.11.11:
+    lastUpdated: 20170419055144
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalahost_2.11.5:
+    lastUpdated: 20150124214939
+    latest: 0.1.0-M0
+    release: 0.1.0-M0
+    versions:
+      - 0.0.0-M0
+      - 0.1.0-M0
+  scalahost_2.11.6:
+    lastUpdated: 20150605125543
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  scalahost_2.11.7:
+    lastUpdated: 20160316151932
+    latest: 0.0.5-M6
+    release: 0.0.5-M6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+  scalahost_2.11.8:
+    lastUpdated: 20170412162646
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  scalahost_2.12.1:
+    lastUpdated: 20170411213621
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  scalahost_2.12.2:
+    lastUpdated: 20170419055144
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalameta-foundation_2.11:
+    lastUpdated: 20150124213514
+    latest: 0.1.0-M0
+    release: 0.1.0-M0
+    versions:
+      - 0.0.0-M0
+      - 0.1.0-M0
+  scalameta_2.11:
+    lastUpdated: 20170411213622
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.0-M0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-M0
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  scalameta_2.12:
+    lastUpdated: 20170411213622
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  scalameta_sjs0.6_2.11:
+    lastUpdated: 20170411213622
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  scalameta_sjs0.6_2.12:
+    lastUpdated: 20170411213623
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  semantic_2.11:
+    lastUpdated: 20170411213623
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 1.6.0
+      - 1.7.0
+  semantic_2.12:
+    lastUpdated: 20170411213623
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  semantic_sjs0.6_2.11:
+    lastUpdated: 20170411213624
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  semantic_sjs0.6_2.12:
+    lastUpdated: 20170411213624
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  taxonomic_2.11:
+    lastUpdated: 20150918211853
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  testkit_2.11:
+    lastUpdated: 20170411213624
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  testkit_2.12:
+    lastUpdated: 20170411213625
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  tokenizers_2.11:
+    lastUpdated: 20170411213625
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  tokenizers_2.12:
+    lastUpdated: 20170411213625
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  tokenizers_sjs0.6_2.11:
+    lastUpdated: 20170411213626
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  tokenizers_sjs0.6_2.12:
+    lastUpdated: 20170411213626
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  tokenquasiquotes_2.11:
+    lastUpdated: 20160316151934
+    latest: 0.0.5-M6
+    release: 0.0.5-M6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+  tokens_2.11:
+    lastUpdated: 20170411213626
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  tokens_2.12:
+    lastUpdated: 20170411213627
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  tokens_sjs0.6_2.11:
+    lastUpdated: 20170411213627
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  tokens_sjs0.6_2.12:
+    lastUpdated: 20170411213627
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  tql_2.11:
+    lastUpdated: 20160406145812
+    latest: 0.1.0-RC1
+    release: 0.1.0-RC1
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+  transversers_2.11:
+    lastUpdated: 20170411213628
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  transversers_2.12:
+    lastUpdated: 20170411213628
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  transversers_sjs0.6_2.11:
+    lastUpdated: 20170411213628
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  transversers_sjs0.6_2.12:
+    lastUpdated: 20170411213629
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  trees_2.11:
+    lastUpdated: 20170411213629
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5-M1
+      - 0.0.5-M2
+      - 0.0.5-M3
+      - 0.0.5-M4
+      - 0.0.5-M5
+      - 0.0.5-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0-RC3
+      - 0.1.0-RC4
+      - 0.1.0-RC5
+      - 0.1.0-RC6
+      - 0.1.0-RC7
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+      - 0.23.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  trees_2.12:
+    lastUpdated: 20170411213630
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.7.0
+  trees_sjs0.6_2.11:
+    lastUpdated: 20170411213630
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  trees_sjs0.6_2.12:
+    lastUpdated: 20170411213630
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+

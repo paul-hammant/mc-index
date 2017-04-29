@@ -1,0 +1,236 @@
+artifacts:
+  parent:
+    lastUpdated: 20090930092109
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  reflext.api:
+    lastUpdated: 20111005085018
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.apt:
+    lastUpdated: 20111005084937
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.builder:
+    lastUpdated: 20111005085018
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  reflext.core:
+    lastUpdated: 20111005085017
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.jlr:
+    lastUpdated: 20111005085016
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.parent:
+    lastUpdated: 20111005085013
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.spi:
+    lastUpdated: 20111005084940
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.test:
+    lastUpdated: 20111005085015
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.test-java5:
+    lastUpdated: 20111005085012
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta5
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+  reflext.test-java6:
+    lastUpdated: 20111005085014
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0
+      - 1.1.0-beta1
+      - 1.1.0-beta2
+      - 1.1.0-beta3
+      - 1.1.0-beta4
+      - 1.1.0-beta6
+      - 1.1.0-beta7
+      - 1.1.0-beta8
+      - 1.1.0-beta9
+      - 1.1.0-beta10
+      - 1.1.0-beta11
+      - 1.1.0-beta12
+      - 1.1.0
+

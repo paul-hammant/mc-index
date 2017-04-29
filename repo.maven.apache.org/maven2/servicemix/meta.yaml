@@ -1,0 +1,67 @@
+artifacts:
+  maven-jbi-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  servicemix:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-M2
+      - 1.0-M1
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+  servicemix-client:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  servicemix-components:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+  servicemix-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+  servicemix-jaxws:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+  servicemix-jbi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+  servicemix-xfire:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+

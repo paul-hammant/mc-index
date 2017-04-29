@@ -1,0 +1,32 @@
+artifacts:
+  ckite:
+    lastUpdated: 20140612004526
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+  ckite-core:
+    lastUpdated: 20151117013537
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  ckite-finagle:
+    lastUpdated: 20151117013538
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  ckite-mapdb:
+    lastUpdated: 20151117013538
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+

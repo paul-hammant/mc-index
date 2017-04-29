@@ -1,0 +1,1025 @@
+artifacts:
+  jbossws-api:
+    lastUpdated: 20150424090442
+    latest: 1.0.3.Final
+    release: 1.0.3.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.CR1
+      - 1.0.0.GA
+      - 1.0.1.Beta1
+      - 1.0.1.Beta2
+      - 1.0.1.Beta3
+      - 1.0.1.CR1
+      - 1.0.1.Final
+      - 1.0.2.Alpha1
+      - 1.0.2.Beta1
+      - 1.0.2.CR1
+      - 1.0.2.Final
+      - 1.0.3.CR1
+      - 1.0.3.CR2
+      - 1.0.3.CR3
+      - 1.0.3.CR4
+      - 1.0.3.Final
+  jbossws-common:
+    lastUpdated: 20170321165319
+    latest: 3.1.5.Final
+    release: 3.1.5.Final
+    versions:
+      - 1.0.5.GA
+      - 1.0.6.CR1
+      - 1.0.6.GA
+      - 1.0.7.CR1
+      - 1.0.7.GA
+      - 1.0.8.GA
+      - 1.0.9.CR1
+      - 1.0.9.CR2
+      - 1.0.9.GA
+      - 1.0.10.CR1
+      - 1.0.10.GA
+      - 1.0.11.CR1
+      - 1.0.11.CR2
+      - 1.0.11.CR3
+      - 1.1.0.GA
+      - 1.1.0.SP1
+      - 1.1.0.SP2
+      - 1.1.0.SP2_CP01
+      - 1.1.0.SP3
+      - 1.1.0.SP4
+      - 1.1.0.SP5
+      - 1.1.0.SP6
+      - 1.1.0.SP8
+      - 1.1.0.SP9
+      - 1.1.0.SP10
+      - 1.1.0.SP11
+      - 1.1.1.Alpha1
+      - 1.2.0.Beta1
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.GA
+      - 1.2.1.Beta1
+      - 1.2.1.Beta2
+      - 1.2.1.GA
+      - 1.2.2.GA
+      - 1.3.0.Beta1
+      - 1.3.0.Beta2
+      - 1.3.0.Beta3
+      - 1.3.0.CR1
+      - 1.3.0.CR1.SP1
+      - 1.3.0.CR2
+      - 1.3.0.CR3
+      - 1.3.0.GA
+      - 1.4.0.Beta1
+      - 1.4.0.Beta2
+      - 1.4.0.CR1
+      - 1.4.0.CR2
+      - 1.4.0.CR3
+      - 1.4.0.CR3.SP1
+      - 1.4.0.GA
+      - 1.4.1.CR1
+      - 1.4.1.CR2
+      - 1.4.1.CR3
+      - 1.4.1.CR4
+      - 1.4.1.GA
+      - 1.4.1.SP1
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.Alpha3
+      - 2.0.0.Alpha4
+      - 2.0.0.Alpha5
+      - 2.0.0.Alpha6
+      - 2.0.0.Alpha7
+      - 2.0.0.Alpha8
+      - 2.0.0.Alpha9
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.Beta3
+      - 2.0.0.Beta4
+      - 2.0.0.Beta5
+      - 2.0.0.Beta6
+      - 2.0.0.Beta7
+      - 2.0.0.Beta8
+      - 2.0.0.Beta9
+      - 2.0.0.Beta10
+      - 2.0.0.Beta11
+      - 2.0.0.Beta12
+      - 2.0.0.Beta13
+      - 2.0.0.CR1
+      - 2.0.0.GA
+      - 2.0.1.GA
+      - 2.0.2.GA
+      - 2.0.3.GA
+      - 2.0.4.GA
+      - 2.1.0.Beta1
+      - 2.1.0.Beta2
+      - 2.1.0.Beta3
+      - 2.1.0.CR1
+      - 2.1.0.Final
+      - 2.1.1.Beta1
+      - 2.1.1.CR1
+      - 2.1.1.Final
+      - 2.1.2.Final
+      - 2.1.3.Final
+      - 2.2.0.Alpha1
+      - 2.2.0.Beta1
+      - 2.2.0.CR1
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.2.2.Final
+      - 2.2.3.Final
+      - 2.3.0.Beta1
+      - 2.3.0.Beta2
+      - 2.3.0.CR1
+      - 2.3.0.CR2
+      - 2.3.0.Final
+      - 2.3.1.Final
+      - 3.0.0.Beta1
+      - 3.0.0.Beta2
+      - 3.0.0.Beta3
+      - 3.0.0.CR1
+      - 3.0.0.Final
+      - 3.0.1.Final
+      - 3.1.0.Beta1
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 3.1.3.Final
+      - 3.1.4.Final
+      - 3.1.5.Final
+  jbossws-common-tools:
+    lastUpdated: 20170119223439
+    latest: 1.2.3.Final
+    release: 1.2.3.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Beta1
+      - 1.0.0.CR1
+      - 1.0.0.GA
+      - 1.0.1.GA
+      - 1.0.2.GA
+      - 1.1.0.CR1
+      - 1.1.0.Final
+      - 1.2.0.Beta1
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 1.2.1.CR1
+      - 1.2.1.CR2
+      - 1.2.1.Final
+      - 1.2.2.Final
+      - 1.2.3.Final
+  jbossws-framework:
+    lastUpdated: 20131218113910
+    latest: 3.4.1.GA
+    release: 3.4.1.GA
+    versions:
+      - 3.0.2.GA
+      - 3.0.3.CR1
+      - 3.0.3.GA
+      - 3.0.4.CR1
+      - 3.0.4.GA
+      - 3.0.5.GA
+      - 3.1.0.CR1
+      - 3.1.0.CR2
+      - 3.1.0.GA
+      - 3.1.1.CR1
+      - 3.1.1.GA
+      - 3.1.2.CR1
+      - 3.1.2.CR2
+      - 3.1.2.CR3
+      - 3.1.2.GA
+      - 3.1.2.SP1
+      - 3.1.2.SP2
+      - 3.1.2.SP3
+      - 3.1.2.SP4
+      - 3.1.2.SP4_CP01
+      - 3.1.2.SP4_JBPAPP-3021
+      - 3.1.2.SP5
+      - 3.1.2.SP6
+      - 3.1.2.SP7
+      - 3.1.2.SP8
+      - 3.1.2.SP10
+      - 3.1.2.SP11
+      - 3.1.2.SP12
+      - 3.1.2.SP13
+      - 3.1.2.SP14
+      - 3.2.0.Beta1
+      - 3.2.0.Beta2
+      - 3.2.0.Beta3
+      - 3.2.0.GA
+      - 3.2.1.Beta1
+      - 3.2.1.Beta2
+      - 3.2.1.GA
+      - 3.2.2.GA
+      - 3.3.0.Beta1
+      - 3.3.0.Beta2
+      - 3.3.0.Beta3
+      - 3.3.0.Beta4
+      - 3.3.0.CR1
+      - 3.3.0.CR1.SP1
+      - 3.3.0.CR2
+      - 3.3.0.GA
+      - 3.4.0.Beta1
+      - 3.4.0.Beta2
+      - 3.4.0.CR1
+      - 3.4.0.CR2
+      - 3.4.0.CR3
+      - 3.4.0.GA
+      - 3.4.1.CR1
+      - 3.4.1.GA
+  jbossws-jboss421:
+    lastUpdated: 20100426033939
+    latest: 3.0.2.GA
+    release: 3.0.2.GA
+    versions:
+      - 3.0.2.GA
+  jbossws-jboss422:
+    lastUpdated: 20100426034118
+    latest: 3.0.5.GA
+    release: 3.0.5.GA
+    versions:
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.0.5.GA
+  jbossws-jboss423:
+    lastUpdated: 20100426034433
+    latest: 3.1.1.GA
+    release: 3.1.1.GA
+    versions:
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.0.5.GA
+      - 3.1.0.GA
+      - 3.1.1.GA
+  jbossws-jboss423x:
+    lastUpdated: 20100426034459
+    latest: 3.0.2.GA
+    release: 3.0.2.GA
+    versions:
+      - 3.0.2.GA
+  jbossws-jboss424x:
+    lastUpdated: 20100426034748
+    latest: 3.1.0.GA
+    release: 3.1.0.GA
+    versions:
+      - 3.0.2.GA
+      - 3.0.3.GA
+      - 3.0.4.GA
+      - 3.0.5.GA
+      - 3.1.0.GA
+  jbossws-jboss500:
+    lastUpdated: 20100426035010
+    latest: 3.2.1.GA
+    release: 3.2.1.GA
+    versions:
+      - 3.0.5.GA
+      - 3.1.0.GA
+      - 3.1.1.GA
+      - 3.1.2.GA
+      - 3.2.0.GA
+      - 3.2.1.GA
+  jbossws-jboss500Beta4:
+    lastUpdated: 20100426035044
+    latest: 3.0.2.GA
+    release: 3.0.2.GA
+    versions:
+      - 3.0.2.GA
+  jbossws-jboss500CR1:
+    lastUpdated: 20100426035118
+    latest: 3.0.2.GA
+    release: 3.0.2.GA
+    versions:
+      - 3.0.2.GA
+  jbossws-jboss500CR2:
+    lastUpdated: 20100426035154
+    latest: 3.0.4.GA
+    release: 3.0.4.GA
+    versions:
+      - 3.0.4.GA
+  jbossws-jboss500x:
+    lastUpdated: 20100426035322
+    latest: 3.0.4.SP1
+    release: 3.0.4.SP1
+    versions:
+      - 3.0.2.GA
+      - 3.0.4.GA
+      - 3.0.4.SP1
+  jbossws-jboss501:
+    lastUpdated: 20101209142539
+    latest: 3.4.0.GA
+    release: 3.4.0.GA
+    versions:
+      - 3.1.0.GA
+      - 3.1.1.GA
+      - 3.1.2.GA
+      - 3.2.0.GA
+      - 3.2.1.GA
+      - 3.3.0.Beta1
+      - 3.3.0.CR1
+      - 3.3.0.GA
+      - 3.4.0.Beta1
+      - 3.4.0.Beta2
+      - 3.4.0.GA
+  jbossws-jboss501-metadata:
+    lastUpdated: 20101209142552
+    latest: 3.4.0.GA
+    release: 3.4.0.GA
+    versions:
+      - 3.4.0.GA
+  jbossws-jboss501CR1:
+    lastUpdated: 20100426035622
+    latest: 3.0.5.GA
+    release: 3.0.5.GA
+    versions:
+      - 3.0.5.GA
+  jbossws-jboss510:
+    lastUpdated: 20101209142554
+    latest: 3.4.0.GA
+    release: 3.4.0.GA
+    versions:
+      - 3.2.0.GA
+      - 3.2.1.GA
+      - 3.3.0.Beta1
+      - 3.3.0.CR1
+      - 3.3.0.GA
+      - 3.4.0.Beta1
+      - 3.4.0.Beta2
+      - 3.4.0.GA
+  jbossws-jboss510-metadata:
+    lastUpdated: 20101209142559
+    latest: 3.4.0.GA
+    release: 3.4.0.GA
+    versions:
+      - 3.4.0.GA
+  jbossws-jboss510x:
+    lastUpdated: 20100426035838
+    latest: 3.1.0.CR1
+    release: 3.1.0.CR1
+    versions:
+      - 3.0.5.GA
+      - 3.1.0.CR1
+  jbossws-jboss600:
+    lastUpdated: 20111117161817
+    latest: 4.0.0.CR1
+    release: 4.0.0.CR1
+    versions:
+      - 4.0.0.Alpha1
+      - 4.0.0.Beta1
+      - 4.0.0.Beta2
+      - 4.0.0.Beta3
+      - 4.0.0.CR1
+  jbossws-jboss600M2:
+    lastUpdated: 20100422172432
+    latest: 3.3.0.CR1
+    release: 3.3.0.CR1
+    versions:
+      - 3.3.0.Beta1
+      - 3.3.0.CR1
+  jbossws-jboss600M3:
+    lastUpdated: 20100710095650
+    latest: 3.4.0.Beta1
+    release: 3.4.0.Beta1
+    versions:
+      - 3.3.0.GA
+      - 3.4.0.Beta1
+  jbossws-jboss600M4:
+    lastUpdated: 20100825141457
+    latest: 3.4.0.Beta2
+    release: 3.4.0.Beta2
+    versions:
+      - 3.4.0.Beta2
+  jbossws-jboss600M5:
+    lastUpdated: 20101013073306
+    latest: 3.4.0.CR1
+    release: 3.4.0.CR1
+    versions:
+      - 3.4.0.CR1
+  jbossws-jboss600x:
+    lastUpdated: 20100426035949
+    latest: 3.1.0.CR1
+    release: 3.1.0.CR1
+    versions:
+      - 3.1.0.CR1
+  jbossws-jboss610:
+    lastUpdated: 20111117161818
+    latest: 4.0.0.CR1
+    release: 4.0.0.CR1
+    versions:
+      - 4.0.0.CR1
+  jbossws-jboss700:
+    lastUpdated: 20120203181319
+    latest: 4.0.1.GA
+    release: 4.0.1.GA
+    versions:
+      - 4.0.0.Beta1
+      - 4.0.0.CR1
+      - 4.0.0.GA
+      - 4.0.1.GA
+  jbossws-jboss701:
+    lastUpdated: 20120203181321
+    latest: 4.0.1.GA
+    release: 4.0.1.GA
+    versions:
+      - 4.0.0.CR1
+      - 4.0.0.GA
+      - 4.0.1.GA
+  jbossws-jboss702:
+    lastUpdated: 20120203181321
+    latest: 4.0.1.GA
+    release: 4.0.1.GA
+    versions:
+      - 4.0.0.CR1
+      - 4.0.0.GA
+      - 4.0.1.GA
+  jbossws-jboss710:
+    lastUpdated: 20120605164833
+    latest: 4.1.0.Beta1
+    release: 4.1.0.Beta1
+    versions:
+      - 4.0.2.GA
+      - 4.1.0.Beta1
+  jbossws-jboss710-parent:
+    lastUpdated: 20121015163401
+    latest: 4.1.0.Final
+    release: 4.1.0.Final
+    versions:
+      - 4.1.0.Final
+  jbossws-jboss710-server-integration:
+    lastUpdated: 20121015163401
+    latest: 4.1.0.Final
+    release: 4.1.0.Final
+    versions:
+      - 4.1.0.Final
+  jbossws-jboss710-tests-integration:
+    lastUpdated: 20121015163402
+    latest: 4.1.0.Final
+    release: 4.1.0.Final
+    versions:
+      - 4.1.0.Final
+  jbossws-jboss711:
+    lastUpdated: 20120605164833
+    latest: 4.1.0.Beta1
+    release: 4.1.0.Beta1
+    versions:
+      - 4.1.0.Beta1
+  jbossws-jboss711-parent:
+    lastUpdated: 20121221110405
+    latest: 4.1.1.Final
+    release: 4.1.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+  jbossws-jboss711-server-integration:
+    lastUpdated: 20121221110406
+    latest: 4.1.1.Final
+    release: 4.1.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+  jbossws-jboss711-tests-integration:
+    lastUpdated: 20121221110406
+    latest: 4.1.1.Final
+    release: 4.1.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+  jbossws-jboss712:
+    lastUpdated: 20120605164834
+    latest: 4.1.0.Beta1
+    release: 4.1.0.Beta1
+    versions:
+      - 4.1.0.Beta1
+  jbossws-jboss712-parent:
+    lastUpdated: 20130917091936
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss712-server-integration:
+    lastUpdated: 20130917091944
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss712-tests-integration:
+    lastUpdated: 20130917092000
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss713-parent:
+    lastUpdated: 20130917092015
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss713-server-integration:
+    lastUpdated: 20130917092023
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss713-tests-integration:
+    lastUpdated: 20130917092037
+    latest: 4.2.1.Final
+    release: 4.2.1.Final
+    versions:
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.2.0.Beta1
+      - 4.2.0.Final
+      - 4.2.1.Final
+  jbossws-jboss720-parent:
+    lastUpdated: 20141031163603
+    latest: 4.3.2.Final
+    release: 4.3.2.Final
+    versions:
+      - 4.2.0.Alpha1
+      - 4.2.0.Beta1
+      - 4.2.0.CR1
+      - 4.2.0.Final
+      - 4.2.1.Final
+      - 4.2.2.Final
+      - 4.3.0.Beta1
+      - 4.3.0.Beta2
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 4.3.2.Final
+  jbossws-jboss720-server-integration:
+    lastUpdated: 20141031163603
+    latest: 4.3.2.Final
+    release: 4.3.2.Final
+    versions:
+      - 4.2.0.Alpha1
+      - 4.2.0.Beta1
+      - 4.2.0.CR1
+      - 4.2.0.Final
+      - 4.2.1.Final
+      - 4.2.2.Final
+      - 4.3.0.Beta1
+      - 4.3.0.Beta2
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 4.3.2.Final
+  jbossws-jboss720-tests-integration:
+    lastUpdated: 20141031163604
+    latest: 4.3.2.Final
+    release: 4.3.2.Final
+    versions:
+      - 4.2.0.Alpha1
+      - 4.2.0.Beta1
+      - 4.2.0.CR1
+      - 4.2.0.Final
+      - 4.2.1.Final
+      - 4.2.2.Final
+      - 4.3.0.Beta1
+      - 4.3.0.Beta2
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 4.3.2.Final
+  jbossws-parent:
+    lastUpdated: 20150828153336
+    latest: 1.3.0.Final
+    release: 1.3.0.Final
+    versions:
+      - 1.0.0.GA
+      - 1.0.1.GA
+      - 1.0.2.GA
+      - 1.0.3.GA
+      - 1.0.4.GA
+      - 1.0.5.GA
+      - 1.0.6.GA
+      - 1.0.7.GA
+      - 1.0.8.GA
+      - 1.0.8.SP1
+      - 1.0.9.GA
+      - 1.0.10.Alpha1
+      - 1.0.10.Alpha2
+      - 1.0.10.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 1.3.0.Beta1
+      - 1.3.0.Final
+  jbossws-shared-testsuite:
+    lastUpdated: 20130625144054
+    latest: 4.2.0.Beta1
+    release: 4.2.0.Beta1
+    versions:
+      - 4.0.0.Alpha1
+      - 4.0.0.Alpha2
+      - 4.0.0.Beta1
+      - 4.0.0.Beta2
+      - 4.0.0.Beta3
+      - 4.0.0.Beta4
+      - 4.0.0.Beta5
+      - 4.0.0.CR1
+      - 4.0.0.GA
+      - 4.0.1.GA
+      - 4.0.2.GA
+      - 4.0.4.GA
+      - 4.0.5.GA
+      - 4.0.6.GA
+      - 4.0.7.GA
+      - 4.1.0.Beta1
+      - 4.1.0.Beta2
+      - 4.1.0.CR1
+      - 4.1.0.Final
+      - 4.1.1.CR1
+      - 4.1.1.Final
+      - 4.1.2.Final
+      - 4.1.3.Final
+      - 4.2.0.Alpha1
+      - 4.2.0.Beta1
+  jbossws-spi:
+    lastUpdated: 20170110221909
+    latest: 3.1.4.Final
+    release: 3.1.4.Final
+    versions:
+      - 1.0.2.GA
+      - 1.0.3.GA
+      - 1.0.4.GA
+      - 1.0.5.CR1
+      - 1.0.5.GA
+      - 1.0.6.CR1
+      - 1.0.6.GA
+      - 1.0.7.GA
+      - 1.1.0.CR1
+      - 1.1.0.GA
+      - 1.1.1.CR1
+      - 1.1.1.GA
+      - 1.1.2.CR1
+      - 1.1.2.CR2
+      - 1.1.2.CR3
+      - 1.1.2.GA
+      - 1.1.2.SP1
+      - 1.1.2.SP1_CP01
+      - 1.1.2.SP1_JBPAPP-2817
+      - 1.1.2.SP2
+      - 1.1.2.SP3
+      - 1.1.2.SP4
+      - 1.1.2.SP5
+      - 1.1.2.SP7
+      - 1.1.2.SP8
+      - 1.2.0.Beta1
+      - 1.2.0.Beta2
+      - 1.2.0.Beta3
+      - 1.2.0.GA
+      - 1.2.1.Beta1
+      - 1.2.1.Beta2
+      - 1.2.1.GA
+      - 1.2.2.GA
+      - 1.3.0.Beta1
+      - 1.3.0.Beta2
+      - 1.3.0.Beta3
+      - 1.3.0.Beta4
+      - 1.3.0.Beta5
+      - 1.3.0.CR1
+      - 1.3.0.CR1.SP1
+      - 1.3.0.CR2
+      - 1.3.0.GA
+      - 1.4.0.Beta1
+      - 1.4.0.Beta2
+      - 1.4.0.Beta3
+      - 1.4.0.CR1
+      - 1.4.0.CR2
+      - 1.4.0.CR3
+      - 1.4.0.CR3.SP1
+      - 1.4.0.GA
+      - 1.4.1.CR1
+      - 1.4.1.CR2
+      - 1.4.1.CR3
+      - 1.4.1.CR4
+      - 1.4.1.GA
+      - 1.4.1.SP1
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.Alpha3
+      - 2.0.0.Alpha4
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.Beta3
+      - 2.0.0.Beta4
+      - 2.0.0.Beta5
+      - 2.0.0.Beta6
+      - 2.0.0.Beta7
+      - 2.0.0.Beta8
+      - 2.0.0.Beta9
+      - 2.0.0.Beta10
+      - 2.0.0.Beta11
+      - 2.0.0.Beta12
+      - 2.0.0.Beta13
+      - 2.0.0.Beta14
+      - 2.0.0.CR1
+      - 2.0.0.GA
+      - 2.0.1.GA
+      - 2.0.2.GA
+      - 2.0.3.GA
+      - 2.0.4.GA
+      - 2.1.0.Beta1
+      - 2.1.0.Beta2
+      - 2.1.0.Beta3
+      - 2.1.0.CR1
+      - 2.1.0.Final
+      - 2.1.1.Beta1
+      - 2.1.1.CR1
+      - 2.1.1.Final
+      - 2.1.2.Final
+      - 2.1.3.Final
+      - 2.2.0.Alpha1
+      - 2.2.0.Beta1
+      - 2.2.0.CR1
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.2.2.Final
+      - 2.3.0.Beta1
+      - 2.3.0.Beta2
+      - 2.3.0.Beta3
+      - 2.3.0.Beta4
+      - 2.3.0.CR1
+      - 2.3.0.Final
+      - 2.3.1.Final
+      - 3.0.0.Beta1
+      - 3.0.0.Beta2
+      - 3.0.0.Beta3
+      - 3.0.0.Beta4
+      - 3.0.0.Beta5
+      - 3.0.0.CR1
+      - 3.0.0.CR2
+      - 3.0.0.Final
+      - 3.0.1.Final
+      - 3.1.0.Beta1
+      - 3.1.0.Beta2
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 3.1.3.Final
+      - 3.1.4.Final
+  jbossws-wildfly1000-parent:
+    lastUpdated: 20160316135028
+    latest: 5.1.4.Final
+    release: 5.1.4.Final
+    versions:
+      - 5.1.4.Final
+  jbossws-wildfly1000-server-integration:
+    lastUpdated: 20160316135028
+    latest: 5.1.4.Final
+    release: 5.1.4.Final
+    versions:
+      - 5.1.4.Final
+  jbossws-wildfly1000-tests-integration:
+    lastUpdated: 20160316135030
+    latest: 5.1.4.Final
+    release: 5.1.4.Final
+    versions:
+      - 5.1.4.Final
+  jbossws-wildfly1010-parent:
+    lastUpdated: 20161123235557
+    latest: 5.1.6.Final
+    release: 5.1.6.Final
+    versions:
+      - 5.1.6.Final
+  jbossws-wildfly1010-server-integration:
+    lastUpdated: 20161123235558
+    latest: 5.1.6.Final
+    release: 5.1.6.Final
+    versions:
+      - 5.1.6.Final
+  jbossws-wildfly1010-tests-integration:
+    lastUpdated: 20161123235558
+    latest: 5.1.6.Final
+    release: 5.1.6.Final
+    versions:
+      - 5.1.6.Final
+  jbossws-wildfly800-parent:
+    lastUpdated: 20150424090407
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly800-server-integration:
+    lastUpdated: 20150424090409
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly800-tests-integration:
+    lastUpdated: 20150424090413
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.0.CR1
+      - 4.3.0.CR2
+      - 4.3.0.Final
+      - 4.3.1.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly810-parent:
+    lastUpdated: 20150424090415
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.1.Final
+      - 4.3.2.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly810-server-integration:
+    lastUpdated: 20150424090417
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.1.Final
+      - 4.3.2.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly810-tests-integration:
+    lastUpdated: 20150424090422
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 4.3.1.Final
+      - 4.3.2.Final
+      - 5.0.0.Beta1
+      - 5.0.0.Beta2
+      - 5.0.0.Beta3
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly820-parent:
+    lastUpdated: 20150424090426
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 5.0.0.Beta1
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly820-server-integration:
+    lastUpdated: 20150424090428
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 5.0.0.Beta1
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly820-tests-integration:
+    lastUpdated: 20150424090433
+    latest: 5.0.0.Final
+    release: 5.0.0.Final
+    versions:
+      - 5.0.0.Beta1
+      - 5.0.0.CR1
+      - 5.0.0.Final
+  jbossws-wildfly821-parent:
+    lastUpdated: 20150828153342
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly821-server-integration:
+    lastUpdated: 20150828153343
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly821-tests-integration:
+    lastUpdated: 20150828153344
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly900-parent:
+    lastUpdated: 20150828153346
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly900-server-integration:
+    lastUpdated: 20150828153346
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly900-tests-integration:
+    lastUpdated: 20150828153349
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly901-parent:
+    lastUpdated: 20150828153350
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly901-server-integration:
+    lastUpdated: 20150828153350
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly901-tests-integration:
+    lastUpdated: 20150828153351
+    latest: 5.1.0.Final
+    release: 5.1.0.Final
+    versions:
+      - 5.0.1.Final
+      - 5.1.0.Beta1
+      - 5.1.0.Final
+  jbossws-wildfly902-parent:
+    lastUpdated: 20151202113157
+    latest: 5.1.1.Final
+    release: 5.1.1.Final
+    versions:
+      - 5.1.1.Final
+  jbossws-wildfly902-server-integration:
+    lastUpdated: 20151202113157
+    latest: 5.1.1.Final
+    release: 5.1.1.Final
+    versions:
+      - 5.1.1.Final
+  jbossws-wildfly902-tests-integration:
+    lastUpdated: 20151202113158
+    latest: 5.1.1.Final
+    release: 5.1.1.Final
+    versions:
+      - 5.1.1.Final
+

@@ -1,0 +1,56 @@
+artifacts:
+  idea-sonar-plugin:
+    lastUpdated: 20100501003719
+    latest: {}
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  sonar-ide-commons:
+    lastUpdated: 20100928205104
+    latest: {}
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.1
+      - 0.2
+  sonar-ide-parent:
+    lastUpdated: 20100525211827
+    latest: {}
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  sonar-ide-shared-components:
+    lastUpdated: 20100928204805
+    latest: {}
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.1
+      - 0.2
+  sonar-ide-swing-ui:
+    lastUpdated: 20100928205201
+    latest: {}
+    release: 0.2
+    versions:
+      - 0.1.1
+      - 0.2
+      - 0.2
+  sonar-ide-testing-harness:
+    lastUpdated: 20100928204926
+    latest: {}
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.1
+      - 0.2
+

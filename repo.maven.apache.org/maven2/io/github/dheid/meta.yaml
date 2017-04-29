@@ -1,0 +1,231 @@
+artifacts:
+  blowfishj:
+    lastUpdated: 20160726002128
+    latest: 2.16
+    release: 2.16
+    versions:
+      - 2.16
+      - 2.16
+  colorpicker:
+    lastUpdated: 20160626152727
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  complete-app:
+    lastUpdated: 20160606222310
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  demo-calendar:
+    lastUpdated: 20161004000325
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  demo-comet:
+    lastUpdated: 20161004000325
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  demo-desktop:
+    lastUpdated: 20161004000326
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  demo-jsp:
+    lastUpdated: 20161004000327
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  demo-logconfig:
+    lastUpdated: 20161004000327
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  demo-mycomponent:
+    lastUpdated: 20161004000328
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  demo-wingscms:
+    lastUpdated: 20161004000328
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  demo-wingset:
+    lastUpdated: 20161004000329
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  demo-wingsportlet:
+    lastUpdated: 20161004000329
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  examples:
+    lastUpdated: 20160606222311
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fontchooser:
+    lastUpdated: 20170403061145
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  frameless-menu-bar:
+    lastUpdated: 20160606222311
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  hellowings:
+    lastUpdated: 20161004000330
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  mrjadapter:
+    lastUpdated: 20160606222311
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  mrjadapter-parent:
+    lastUpdated: 20160606222312
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  roperty-generator:
+    lastUpdated: 20170402104710
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  roperty-jpa:
+    lastUpdated: 20170402102436
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  roperty-migration:
+    lastUpdated: 20170402105603
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  roperty-mongodb:
+    lastUpdated: 20170402103819
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  screen-menu-bar:
+    lastUpdated: 20160606222312
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  servlet-prefs:
+    lastUpdated: 20161004000330
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  simple-mrjadapter:
+    lastUpdated: 20160606222312
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  standard-menu-items:
+    lastUpdated: 20160606222313
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  wings:
+    lastUpdated: 20161004000330
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  wings-experimental:
+    lastUpdated: 20161004000331
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  wings-integration:
+    lastUpdated: 20161004000332
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  wings-parent:
+    lastUpdated: 20161004000332
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  wings-portlet:
+    lastUpdated: 20161004000332
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.1
+  wings-tests:
+    lastUpdated: 20161004000333
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+  wingx:
+    lastUpdated: 20161004000333
+    latest: 3.3.1
+    release: 3.3.1
+    versions:
+      - 3.3.0
+      - 3.3.1
+

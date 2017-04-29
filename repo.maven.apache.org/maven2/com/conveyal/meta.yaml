@@ -1,0 +1,23 @@
+artifacts:
+  gtfs-lib:
+    lastUpdated: 20170321084433
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 2.1.0
+  osm-lib:
+    lastUpdated: 20170321092105
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  r5:
+    lastUpdated: 20170330091914
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+

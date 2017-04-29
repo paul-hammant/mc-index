@@ -1,0 +1,69 @@
+artifacts:
+  carrot-osgi:
+    lastUpdated: 20120225042734
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  carrot-osgi-anno-scr:
+    lastUpdated: 20130326190623
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.3
+      - 1.1.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  carrot-osgi-anno-scr-core:
+    lastUpdated: 20130326190624
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.3
+      - 1.1.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  carrot-osgi-anno-scr-make:
+    lastUpdated: 20130326190624
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.3
+      - 1.1.4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  carrot-osgi-scr-conf:
+    lastUpdated: 20120905235040
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  carrot-osgi-scr-event:
+    lastUpdated: 20120905235041
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  carrot-osgi-scr-factory-cm:
+    lastUpdated: 20120905235041
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  carrot-osgi-scr-factory-ds:
+    lastUpdated: 20120905235041
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

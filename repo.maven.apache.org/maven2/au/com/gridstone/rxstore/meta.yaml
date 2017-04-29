@@ -1,0 +1,65 @@
+artifacts:
+  converter-gson:
+    lastUpdated: 20170419051512
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.0.0
+      - 5.0.0
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 6.0.0
+  converter-jackson:
+    lastUpdated: 20170419051513
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.0.0
+      - 5.0.0
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 6.0.0
+  converter-moshi:
+    lastUpdated: 20170419051513
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.0.0
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 6.0.0
+  rxstore:
+    lastUpdated: 20170419051514
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.0.0
+      - 5.0.0
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 6.0.0
+  rxstore-kotlin:
+    lastUpdated: 20170419051514
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.0.0
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0
+      - 6.0.0
+

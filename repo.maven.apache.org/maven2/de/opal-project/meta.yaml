@@ -1,0 +1,110 @@
+artifacts:
+  abstract-interpretation-framework_2.11:
+    lastUpdated: 20170414123939
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.0.2
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  architecture-validation_2.11:
+    lastUpdated: 20170414123939
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.2.0
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bugpicker-core_2.11:
+    lastUpdated: 20170414123940
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bytecode-assembler_2.11:
+    lastUpdated: 20170414123940
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bytecode-creator_2.11:
+    lastUpdated: 20170414123941
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bytecode-disassembler_2.11:
+    lastUpdated: 20170414123942
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.1.1
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bytecode-infrastructure_2.11:
+    lastUpdated: 20170414123942
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.1
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  bytecode-representation_2.11:
+    lastUpdated: 20170414123942
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.1
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  common_2.11:
+    lastUpdated: 20170414123943
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.1
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  dependencies-extraction-library_2.11:
+    lastUpdated: 20170414123943
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.2
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  fixpoint-computations-framework-analyses_2.11:
+    lastUpdated: 20160219092049
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  opal-developer-tools_2.11:
+    lastUpdated: 20170414123944
+    latest: 0.8.11
+    release: 0.8.11
+    versions:
+      - 0.8.0
+      - 0.8.9
+      - 0.8.10
+      - 0.8.11
+  util_2.10:
+    lastUpdated: 20140406145614
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+

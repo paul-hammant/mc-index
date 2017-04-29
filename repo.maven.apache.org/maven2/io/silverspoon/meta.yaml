@@ -1,0 +1,179 @@
+artifacts:
+  bulldog-board-beagleboneblack:
+    lastUpdated: 20160119204658
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-board-cubieboard:
+    lastUpdated: 20160119204659
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-board-raspberrypi:
+    lastUpdated: 20160119204659
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-core:
+    lastUpdated: 20160119204700
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-devices:
+    lastUpdated: 20160119204700
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-distro:
+    lastUpdated: 20151031164048
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+  bulldog-linux:
+    lastUpdated: 20160119204701
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-linux-native:
+    lastUpdated: 20160119204701
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-linux-native-beagleboneblack:
+    lastUpdated: 20160119204701
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-linux-native-beagleboneblack-hardfp:
+    lastUpdated: 20150128182310
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  bulldog-linux-native-beagleboneblack-softfp:
+    lastUpdated: 20150128182310
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  bulldog-linux-native-cubieboard:
+    lastUpdated: 20160119204701
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-linux-native-raspberrypi:
+    lastUpdated: 20160119204702
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  bulldog-parent:
+    lastUpdated: 20160119204702
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  camel-bulldog:
+    lastUpdated: 20160310102446
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  camel-gpio:
+    lastUpdated: 20150330154943
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  camel-temperature:
+    lastUpdated: 20160310102446
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  silverspoon-archetype-led:
+    lastUpdated: 20160310102447
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  silverspoon-archetype-temperature:
+    lastUpdated: 20160310102447
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  silverspoon-archetypes:
+    lastUpdated: 20160310102447
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  silverspoon-bom:
+    lastUpdated: 20160310102447
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  silverspoon-parent:
+    lastUpdated: 20160310102448
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+

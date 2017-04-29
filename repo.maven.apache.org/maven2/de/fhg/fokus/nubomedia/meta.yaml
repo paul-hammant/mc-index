@@ -1,0 +1,30 @@
+artifacts:
+  nubomedia-cdn-client:
+    lastUpdated: 20160719083845
+    latest: 0.0.8
+    release: 0.0.8
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+  nubomedia-media-client:
+    lastUpdated: 20160928111221
+    latest: 6.6.0
+    release: 6.6.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 6.5.0
+      - 6.6.0
+      - 1.0
+  nubomedia-repository-client:
+    lastUpdated: 20160829204951
+    latest: 6.5.0
+    release: 6.5.0
+    versions:
+      - 1.0
+      - 6.5.0
+      - 1.0
+

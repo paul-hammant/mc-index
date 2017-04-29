@@ -1,0 +1,52 @@
+artifacts:
+  wildfly-http-client-common:
+    lastUpdated: 20170404012710
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.CR1
+  wildfly-http-client-parent:
+    lastUpdated: 20170404012711
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.CR1
+  wildfly-http-ejb-client:
+    lastUpdated: 20170404012711
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.CR1
+  wildfly-http-naming-client:
+    lastUpdated: 20170404012712
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.CR1
+  wildfly-http-transaction-client:
+    lastUpdated: 20170404012713
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.CR1
+

@@ -1,0 +1,40 @@
+artifacts:
+  edas-rpc:
+    lastUpdated: 20160801015530
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  edas-sdk:
+    lastUpdated: 20170418022218
+    latest: 1.5.4
+    release: 1.5.4
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+  maven-parent:
+    lastUpdated: 20160520025632
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  schedulerX-client:
+    lastUpdated: 20161121031213
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+

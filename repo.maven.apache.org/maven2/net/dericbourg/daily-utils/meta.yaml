@@ -1,0 +1,112 @@
+artifacts:
+  daily-utils_2.10:
+    lastUpdated: 20170404205231
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  daily-utils_2.11:
+    lastUpdated: 20170411123935
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+  daily-utils_2.12:
+    lastUpdated: 20170411123935
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+  scala-lib_2.11:
+    lastUpdated: 20170411123936
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.8
+  scala-lib_2.12:
+    lastUpdated: 20170411123936
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.8
+  twitter-test-future_2.10:
+    lastUpdated: 20170404205232
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  twitter-test-future_2.11:
+    lastUpdated: 20170411123937
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+  twitter-test-future_2.12:
+    lastUpdated: 20170411123937
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+  twitter-utils_2.10:
+    lastUpdated: 20170404205233
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.5
+  twitter-utils_2.11:
+    lastUpdated: 20170411123937
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.5
+      - 0.1.8
+  twitter-utils_2.12:
+    lastUpdated: 20170411123938
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.5
+      - 0.1.8
+  typesafe-config_2.10:
+    lastUpdated: 20170404205235
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  typesafe-config_2.11:
+    lastUpdated: 20170411123938
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+  typesafe-config_2.12:
+    lastUpdated: 20170411123939
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.8
+

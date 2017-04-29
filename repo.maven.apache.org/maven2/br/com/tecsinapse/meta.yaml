@@ -1,0 +1,60 @@
+artifacts:
+  glimpse:
+    lastUpdated: 20121109155413
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.1
+      - 1.1.2
+  glimpse-client:
+    lastUpdated: 20121109155423
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.1
+      - 1.1.2
+  glimpse-server:
+    lastUpdated: 20121109155424
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.1
+      - 1.1.2
+  tecsinapse-data-io:
+    lastUpdated: 20170105232158
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.60
+      - 2.0.0
+  tecsinapse-data-io-converter-java-time:
+    lastUpdated: 20160831012027
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tecsinapse-data-io-converter-joda:
+    lastUpdated: 20160831011022
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tecsinapse-data-io-jsf:
+    lastUpdated: 20160831012925
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  tecsinapse-exporter:
+    lastUpdated: 20160716173156
+    latest: 1.1.56
+    release: 1.1.56
+    versions:
+      - 1.1.56
+  tecsinapse-oss-parent:
+    lastUpdated: 20160716143808
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

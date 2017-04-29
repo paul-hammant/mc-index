@@ -1,0 +1,33 @@
+artifacts:
+  context_2.10:
+    lastUpdated: 20170217072407
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.4.1
+  context_2.10.0-RC5:
+    lastUpdated: 20121212113200
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  context_2.11:
+    lastUpdated: 20170217072407
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.5
+      - 0.3.6
+      - 0.4.1
+  context_2.12:
+    lastUpdated: 20170217072408
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+

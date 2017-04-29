@@ -1,0 +1,39 @@
+artifacts:
+  apache-adapter:
+    lastUpdated: 20161110233736
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  api:
+    lastUpdated: 20161110233737
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  okhttp-adapter:
+    lastUpdated: 20161110233737
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  thin-http-client:
+    lastUpdated: 20161110233738
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  thin-http-client-apache:
+    lastUpdated: 20161016233635
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  thin-http-client-core:
+    lastUpdated: 20161016233635
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

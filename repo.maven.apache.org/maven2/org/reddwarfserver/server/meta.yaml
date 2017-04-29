@@ -1,0 +1,88 @@
+artifacts:
+  sgs-boot:
+    lastUpdated: 20110815133329
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server:
+    lastUpdated: 20110815133328
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server-api:
+    lastUpdated: 20110815133329
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server-dist:
+    lastUpdated: 20110815133328
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server-internal-api:
+    lastUpdated: 20110815133321
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server-javadoc:
+    lastUpdated: 20110815133320
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-server-parent:
+    lastUpdated: 20110815133330
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-shared:
+    lastUpdated: 20110815133330
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.12
+  sgs-stop:
+    lastUpdated: 20110815133315
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-tutorial-server:
+    lastUpdated: 20110815133316
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  sgs-tutorial-server-dist:
+    lastUpdated: 20110815133315
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+

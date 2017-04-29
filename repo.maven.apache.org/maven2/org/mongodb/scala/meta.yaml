@@ -1,0 +1,48 @@
+artifacts:
+  mongo-scala-bson_2.11:
+    lastUpdated: 20170330163737
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0-rc0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-rc0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0-beta1
+      - 1.2.0
+      - 1.2.1
+      - 2.0.0
+  mongo-scala-bson_2.12:
+    lastUpdated: 20170330163738
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 2.0.0
+  mongo-scala-driver_2.11:
+    lastUpdated: 20170330163739
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0-rc0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-rc0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0-beta1
+      - 1.2.0
+      - 1.2.1
+      - 2.0.0
+  mongo-scala-driver_2.12:
+    lastUpdated: 20170330163739
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 2.0.0
+

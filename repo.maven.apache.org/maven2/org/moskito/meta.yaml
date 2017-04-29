@@ -1,0 +1,139 @@
+artifacts:
+  moskito-central:
+    lastUpdated: 20170129234000
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-connectors:
+    lastUpdated: 20170129234000
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-connectors-common:
+    lastUpdated: 20170129234001
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-core:
+    lastUpdated: 20170129234001
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-dime-server:
+    lastUpdated: 20170129234001
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-distributeme-connector:
+    lastUpdated: 20170129234002
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-embedded-connector:
+    lastUpdated: 20170129234002
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-rest-connector:
+    lastUpdated: 20170129234003
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-rest-webapp:
+    lastUpdated: 20170129234003
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-server:
+    lastUpdated: 20170129234004
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-central-storages:
+    lastUpdated: 20170129234004
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  moskito-control:
+    lastUpdated: 20140411093156
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 1.0.0
+      - 1.1.0
+  moskito-control-agent:
+    lastUpdated: 20141216110527
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  moskito-control-agent-http-endpoint:
+    lastUpdated: 20141216110528
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  moskito-control-agent-parent:
+    lastUpdated: 20141216110529
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  moskito-control-agent-rmi-endpoint:
+    lastUpdated: 20141216110529
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  moskito-javaagent-lite:
+    lastUpdated: 20170413151908
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

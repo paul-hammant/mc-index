@@ -1,0 +1,70 @@
+artifacts:
+  azure-common:
+    lastUpdated: 20140805113647
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+  googlecloud:
+    lastUpdated: 20170227150526
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  jclouds-commons-project:
+    lastUpdated: 20170227150527
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-common:
+    lastUpdated: 20170227150527
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  trmk-common:
+    lastUpdated: 20131130174340
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+

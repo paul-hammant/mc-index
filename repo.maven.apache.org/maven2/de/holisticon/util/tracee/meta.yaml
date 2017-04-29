@@ -1,0 +1,100 @@
+artifacts:
+  tracee-api:
+    lastUpdated: 20140425164601
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-context-logger:
+    lastUpdated: 20140310204502
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  tracee-context-logger-api:
+    lastUpdated: 20140425164601
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-connector-parent:
+    lastUpdated: 20140425164601
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-ejb:
+    lastUpdated: 20140425164601
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-http-connector:
+    lastUpdated: 20140425164602
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-impl:
+    lastUpdated: 20140425164602
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-parent:
+    lastUpdated: 20140425164602
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-watchdog:
+    lastUpdated: 20140425164602
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-core:
+    lastUpdated: 20140425164603
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-jaxrs2:
+    lastUpdated: 20140425164603
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-jaxws:
+    lastUpdated: 20140425164604
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-jms:
+    lastUpdated: 20140425164604
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-parent:
+    lastUpdated: 20140425164604
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-testhelper:
+    lastUpdated: 20140425164605
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

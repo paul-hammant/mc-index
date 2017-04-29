@@ -1,0 +1,65 @@
+artifacts:
+  de.dentrassi.iot:
+    lastUpdated: 20160930171743
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  de.dentrassi.iot.neoscada.camel:
+    lastUpdated: 20160930171743
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  de.dentrassi.iot.opentsdb.collector:
+    lastUpdated: 20160930171744
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  de.dentrassi.iot.opentsdb.collector.camel:
+    lastUpdated: 20160930171744
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  de.dentrassi.iot.opentsdb.collector.http:
+    lastUpdated: 20160930171744
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  de.dentrassi.iot.w1:
+    lastUpdated: 20160930171745
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  de.dentrassi.iot.w1.camel:
+    lastUpdated: 20160930171745
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  de.dentrassi.iot.w1.camel.kura:
+    lastUpdated: 20160930171745
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+

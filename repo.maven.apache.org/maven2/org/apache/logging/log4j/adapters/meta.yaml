@@ -1,0 +1,63 @@
+artifacts:
+  log4j-1.2-api:
+    lastUpdated: 20130131175652
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta4
+  log4j-flume-ng:
+    lastUpdated: 20130131175653
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta1
+      - 2.0-beta2
+      - 2.0-beta3
+      - 2.0-beta4
+  log4j-jcl:
+    lastUpdated: 20130131175652
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta1
+      - 2.0-beta2
+      - 2.0-beta3
+      - 2.0-beta4
+  log4j-slf4j-impl:
+    lastUpdated: 20130131175652
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta3
+      - 2.0-beta4
+  log4j-to-slf4j:
+    lastUpdated: 20130131175653
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta4
+  log4j-web:
+    lastUpdated: 20130131175651
+    latest: 2.0-beta4
+    release: 2.0-beta4
+    versions:
+      - 2.0-beta1
+      - 2.0-beta2
+      - 2.0-beta3
+      - 2.0-beta4
+  log4j12-api:
+    lastUpdated: 20121115002017
+    latest: 2.0-beta3
+    release: 2.0-beta3
+    versions:
+      - 2.0-beta1
+      - 2.0-beta2
+      - 2.0-beta3
+  slf4j-impl:
+    lastUpdated: 20121011053819
+    latest: 2.0-beta2
+    release: 2.0-beta2
+    versions:
+      - 2.0-beta1
+      - 2.0-beta2
+

@@ -1,0 +1,353 @@
+artifacts:
+  org.kevoree.library.javase.MonitoredJavaSENode:
+    lastUpdated: 20131022081321
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.adaptationSuperviser:
+    lastUpdated: 20131022081322
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.authentication:
+    lastUpdated: 20131022081322
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.autoBasicGossiper:
+    lastUpdated: 20131022081322
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.basicGossiper:
+    lastUpdated: 20131022081323
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.camel:
+    lastUpdated: 20131022081324
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.camel.atom:
+    lastUpdated: 20131022081324
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.camel.jetty:
+    lastUpdated: 20131022081324
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.defaultChannels:
+    lastUpdated: 20131022081325
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.etherpad:
+    lastUpdated: 20131022081326
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.fakeDomo:
+    lastUpdated: 20131022081327
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.fileSystem:
+    lastUpdated: 20131022081327
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.fileSystem.git:
+    lastUpdated: 20131022081327
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.grapher:
+    lastUpdated: 20131022081328
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.hazelcast:
+    lastUpdated: 20131022081328
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.javaseNode:
+    lastUpdated: 20131022081329
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.javaseNodeMapBD:
+    lastUpdated: 20131022081329
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.jexxus:
+    lastUpdated: 20131022081330
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.jmdns:
+    lastUpdated: 20131022081330
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.mavenCache:
+    lastUpdated: 20131022081331
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.mongoDB:
+    lastUpdated: 20131022081331
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nanohttp:
+    lastUpdated: 20131022081332
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nanohttpAutoDiscovery:
+    lastUpdated: 20131022081332
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nioChannels:
+    lastUpdated: 20131022081333
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nodeJS:
+    lastUpdated: 20131022081334
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nodeJS.proxy:
+    lastUpdated: 20131022081334
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.nodeJS.visu:
+    lastUpdated: 20131022081335
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.p2pSock:
+    lastUpdated: 20131022081335
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.root:
+    lastUpdated: 20131022081336
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.scimark:
+    lastUpdated: 20131022081336
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.serialCT:
+    lastUpdated: 20131022081336
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.swingUI:
+    lastUpdated: 20131022081337
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webSocketGrp:
+    lastUpdated: 20131022081337
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.api:
+    lastUpdated: 20131022081338
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.sample:
+    lastUpdated: 20131022081338
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.servlet:
+    lastUpdated: 20131022081339
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.spray:
+    lastUpdated: 20131022081339
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.tjws:
+    lastUpdated: 20131022081340
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+  org.kevoree.library.javase.webserver.webbit:
+    lastUpdated: 20131022081340
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+

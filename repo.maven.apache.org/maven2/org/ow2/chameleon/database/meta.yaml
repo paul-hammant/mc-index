@@ -1,0 +1,26 @@
+artifacts:
+  datasource-derby:
+    lastUpdated: 20100502155857
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  datasource-derby-client:
+    lastUpdated: 20100502160636
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  datasource-hsql:
+    lastUpdated: 20100502155046
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  datasource-sqlite:
+    lastUpdated: 20110201095439
+    latest: {}
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

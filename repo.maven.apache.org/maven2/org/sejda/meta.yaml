@@ -1,0 +1,208 @@
+artifacts:
+  eventstudio:
+    lastUpdated: 20170214131709
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  sambox:
+    lastUpdated: 20151223141133
+    latest: 1.0.0.M15
+    release: 1.0.0.M15
+    versions:
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.M11
+      - 1.0.0.M12
+      - 1.0.0.M13
+      - 1.0.0.M14
+      - 1.0.0.M15
+  sejda-conversion:
+    lastUpdated: 20150716162700
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-core:
+    lastUpdated: 20150716162701
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-example:
+    lastUpdated: 20121107231248
+    latest: 1.0.0.M2
+    release: 1.0.0.M2
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+  sejda-icepdf:
+    lastUpdated: 20150716162701
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-image-writers:
+    lastUpdated: 20150716162702
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-io:
+    lastUpdated: 20170220161429
+    latest: 1.1.3.RELEASE
+    release: 1.1.3.RELEASE
+    versions:
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.0.3.RELEASE
+      - 1.0.4.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.1.3.RELEASE
+  sejda-itext:
+    lastUpdated: 20150716162703
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-itext5:
+    lastUpdated: 20150716180820
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-model:
+    lastUpdated: 20150716162704
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-parent:
+    lastUpdated: 20150716162704
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+  sejda-pdfbox:
+    lastUpdated: 20150716162705
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0-BETA
+      - 1.0.0.BETA2
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.M5
+      - 1.0.0.M6
+      - 1.0.0.M7
+      - 1.0.0.M8
+      - 1.0.0.M9
+      - 1.0.0.M10
+      - 1.0.0.RELEASE
+

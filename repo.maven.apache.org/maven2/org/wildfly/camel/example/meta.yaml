@@ -1,0 +1,82 @@
+artifacts:
+  example-camel:
+    lastUpdated: 20170202145208
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-activemq:
+    lastUpdated: 20170202145208
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-cdi:
+    lastUpdated: 20170202145209
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-cxf-jaxrs:
+    lastUpdated: 20170202145210
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-cxf-jaxws:
+    lastUpdated: 20170202145210
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-itests:
+    lastUpdated: 20170202145211
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-jms:
+    lastUpdated: 20170202145212
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-jms-tx:
+    lastUpdated: 20170202145213
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-jpa:
+    lastUpdated: 20170202145214
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+  example-camel-mail:
+    lastUpdated: 20170202145214
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+

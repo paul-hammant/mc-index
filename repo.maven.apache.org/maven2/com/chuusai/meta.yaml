@@ -1,0 +1,291 @@
+artifacts:
+  shapeless_2.10:
+    lastUpdated: 20160818115425
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 1.2.3
+      - 1.2.4
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0-RC4
+      - 2.2.0-RC5
+      - 2.2.0-RC6
+      - 2.2.0
+      - 2.2.1
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+      - 2.3.2
+  shapeless_2.10.0:
+    lastUpdated: 20130222023739
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.4
+  shapeless_2.10.0-M3:
+    lastUpdated: 20120514114640
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+  shapeless_2.10.0-RC3:
+    lastUpdated: 20121124234445
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.3
+  shapeless_2.10.0-RC5:
+    lastUpdated: 20121206225313
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.2.3
+  shapeless_2.10.2:
+    lastUpdated: 20140408212027
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-M1
+      - 2.0.0
+  shapeless_2.10.3:
+    lastUpdated: 20140408212027
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-M1
+      - 2.0.0
+  shapeless_2.10.4:
+    lastUpdated: 20150313220624
+    latest: 2.2.0-RC1
+    release: 2.2.0-RC1
+    versions:
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.2.0-RC1
+  shapeless_2.10.5:
+    lastUpdated: 20150330213213
+    latest: 2.2.0-RC1
+    release: 2.2.0-RC1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0-RC1
+  shapeless_2.11:
+    lastUpdated: 20160818115425
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 1.2.4
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0-RC4
+      - 2.2.0-RC5
+      - 2.2.0-RC6
+      - 2.2.0
+      - 2.2.1
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+      - 2.3.2
+  shapeless_2.11.0-M4:
+    lastUpdated: 20130903124210
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  shapeless_2.11.0-M5:
+    lastUpdated: 20130907151656
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  shapeless_2.11.0-M7:
+    lastUpdated: 20131201101835
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  shapeless_2.11.0-RC4:
+    lastUpdated: 20140408220642
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.4
+      - 2.0.0
+  shapeless_2.12:
+    lastUpdated: 20161102095310
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.2
+  shapeless_2.12.0-M1:
+    lastUpdated: 20150708054318
+    latest: 2.2.4
+    release: 2.2.4
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.4
+  shapeless_2.12.0-M2:
+    lastUpdated: 20150722180530
+    latest: 2.2.5
+    release: 2.2.5
+    versions:
+      - 2.2.5
+  shapeless_2.12.0-M3:
+    lastUpdated: 20160225141607
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+  shapeless_2.12.0-M4:
+    lastUpdated: 20160513160832
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.2.5
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+  shapeless_2.12.0-M5:
+    lastUpdated: 20160818115426
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.1
+      - 2.3.2
+  shapeless_2.12.0-RC2:
+    lastUpdated: 20161019213710
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.2
+  shapeless_2.9.1:
+    lastUpdated: 20130222023740
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  shapeless_2.9.1-1:
+    lastUpdated: 20130222023741
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  shapeless_2.9.2:
+    lastUpdated: 20130222023751
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  shapeless_sjs0.6_2.10:
+    lastUpdated: 20160818115426
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+      - 2.3.2
+  shapeless_sjs0.6_2.11:
+    lastUpdated: 20160818115427
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.4
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+      - 2.3.2
+  shapeless_sjs0.6_2.12:
+    lastUpdated: 20161102095311
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.2
+  shapeless_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160225141609
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.5
+      - 2.3.0-RC1
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0-RC4
+      - 2.3.0
+  shapeless_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160513160839
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.3.0
+      - 2.3.1-RC1
+      - 2.3.1
+  shapeless_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160818115428
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.1
+      - 2.3.2
+  shapeless_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161019213711
+    latest: 2.3.2
+    release: 2.3.2
+    versions:
+      - 2.3.2
+

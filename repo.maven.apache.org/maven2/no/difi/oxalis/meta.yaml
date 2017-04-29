@@ -1,0 +1,176 @@
+artifacts:
+  oxalis:
+    lastUpdated: 20170301102253
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-api:
+    lastUpdated: 20170301102253
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-as2:
+    lastUpdated: 20170301102253
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-commons:
+    lastUpdated: 20170301102254
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-distribution:
+    lastUpdated: 20170301102254
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-document-sniffer:
+    lastUpdated: 20170301102255
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-RC2
+  oxalis-inbound:
+    lastUpdated: 20170301102256
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-integration-test:
+    lastUpdated: 20170301102256
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-jdbc-dbcp:
+    lastUpdated: 20160524184412
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+  oxalis-jdbc-jndi:
+    lastUpdated: 20160524184413
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+  oxalis-legacy:
+    lastUpdated: 20170301102256
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-RC2
+  oxalis-outbound:
+    lastUpdated: 20170301102257
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-persistence:
+    lastUpdated: 20170301102257
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-RC2
+  oxalis-server:
+    lastUpdated: 20170301102258
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-RC2
+  oxalis-smp:
+    lastUpdated: 20160524184414
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+  oxalis-sql:
+    lastUpdated: 20160524184414
+    latest: 4.0.0-RC1
+    release: 4.0.0-RC1
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+  oxalis-standalone:
+    lastUpdated: 20170301102259
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 3.1.1
+      - 3.2.0-RC1
+      - 3.2.0
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+  oxalis-statistics:
+    lastUpdated: 20170301102300
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-RC2
+  oxalis-test-impl:
+    lastUpdated: 20170301102300
+    latest: 4.0.0-RC2
+    release: 4.0.0-RC2
+    versions:
+      - 4.0.0-BETA1
+      - 4.0.0-RC1
+      - 4.0.0-RC2
+

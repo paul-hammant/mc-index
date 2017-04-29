@@ -1,0 +1,259 @@
+artifacts:
+  plume-admin:
+    lastUpdated: 20170219223355
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+      - 1.0.0-alpha4
+      - 1.0.0-alpha5
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+  plume-archetype-hibernate-jersey-guice:
+    lastUpdated: 20170319222753
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  plume-archetype-querydsl-jersey-guice:
+    lastUpdated: 20170319222754
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  plume-archetype-querydsl-jersey-guice-grizzly:
+    lastUpdated: 20170319222754
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  plume-archetypes-parent:
+    lastUpdated: 20170319222754
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  plume-conf:
+    lastUpdated: 20170319222754
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db:
+    lastUpdated: 20170319222755
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db-hibernate:
+    lastUpdated: 20170319222755
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db-hibernate-oracle:
+    lastUpdated: 20170319222755
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db-querydsl:
+    lastUpdated: 20170319222756
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db-querydsl-codegen:
+    lastUpdated: 20170319222756
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-db-test:
+    lastUpdated: 20170319222756
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-dependencies:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-file:
+    lastUpdated: 20161016135202
+    latest: 1.0.0-rc2
+    release: 1.0.0-rc2
+    versions:
+      - 1.0.0-rc2
+  plume-file-core:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc6
+    release: 1.0.0-rc6
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+  plume-file-gallery:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc6
+    release: 1.0.0-rc6
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+  plume-file-parent:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc6
+    release: 1.0.0-rc6
+    versions:
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+      - 1.0.0-rc5
+      - 1.0.0-rc6
+  plume-framework-dependencies:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-mail:
+    lastUpdated: 20170319222757
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-parent:
+    lastUpdated: 20170319222758
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-scheduler:
+    lastUpdated: 20170319222758
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-rc3
+  plume-services:
+    lastUpdated: 20170319222758
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  plume-web-jersey:
+    lastUpdated: 20170319222758
+    latest: 1.0.0-rc3
+    release: 1.0.0-rc3
+    versions:
+      - 1.0.0-beta3
+      - 1.0.0-beta4
+      - 1.0.0-beta5
+      - 1.0.0-beta6
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+  ppt-templates:
+    lastUpdated: 20170404180951
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-rc1
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+  wisp:
+    lastUpdated: 20170319222759
+    latest: 1.0.0-rc4
+    release: 1.0.0-rc4
+    versions:
+      - 1.0.0-rc2
+      - 1.0.0-rc3
+      - 1.0.0-rc4
+

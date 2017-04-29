@@ -1,0 +1,603 @@
+artifacts:
+  vertigo:
+    lastUpdated: 20170314174431
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-bundle:
+    lastUpdated: 20151120163455
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+  vertigo-ccc:
+    lastUpdated: 20151009083222
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  vertigo-commons-api:
+    lastUpdated: 20170314174431
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-commons-impl:
+    lastUpdated: 20170314174431
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-core:
+    lastUpdated: 20170314174431
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-dynamo-api:
+    lastUpdated: 20170314174432
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-dynamo-impl:
+    lastUpdated: 20170314174432
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-dynamo-plugin-elasticsearch_1_7:
+    lastUpdated: 20170314174433
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.3
+      - 0.9.4
+  vertigo-extensions:
+    lastUpdated: 20170314174433
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-orchestra:
+    lastUpdated: 20170314174433
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-orchestra-api:
+    lastUpdated: 20170314174433
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-orchestra-impl:
+    lastUpdated: 20170314174433
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-parent:
+    lastUpdated: 20170314174434
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-persona-api:
+    lastUpdated: 20170314174434
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-persona-impl:
+    lastUpdated: 20170314174435
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-quarto:
+    lastUpdated: 20170314174435
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-quarto-api:
+    lastUpdated: 20170314174435
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1a
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-quarto-impl:
+    lastUpdated: 20170314174436
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1a
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-quarto-reactor:
+    lastUpdated: 20161012170648
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.1a
+      - 0.9.2
+      - 0.9.3
+  vertigo-shell:
+    lastUpdated: 20151120163503
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  vertigo-stella:
+    lastUpdated: 20170314174436
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.4
+  vertigo-stella-api:
+    lastUpdated: 20170314174436
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-stella-impl:
+    lastUpdated: 20170314174436
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-stella-reactor:
+    lastUpdated: 20161013102220
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.2
+      - 0.9.3
+  vertigo-struts2:
+    lastUpdated: 20170314174437
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.3a
+      - 0.9.4
+  vertigo-studio:
+    lastUpdated: 20170315093726
+    latest: 0.9.4a
+    release: 0.9.4a
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.4a
+  vertigo-tempo-api:
+    lastUpdated: 20170314174438
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-tempo-impl:
+    lastUpdated: 20170314174439
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-vega-api:
+    lastUpdated: 20170314174439
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-vega-impl:
+    lastUpdated: 20170314174439
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.5a
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-account:
+    lastUpdated: 20170314174440
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-audit:
+    lastUpdated: 20170314174440
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-comment:
+    lastUpdated: 20170314174441
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-connectors:
+    lastUpdated: 20170314174441
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-notification:
+    lastUpdated: 20170314174442
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-parent:
+    lastUpdated: 20161012170655
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  vertigo-x-rules:
+    lastUpdated: 20170314174442
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.3
+      - 0.9.4
+  vertigo-x-workflow:
+    lastUpdated: 20170314174443
+    latest: 0.9.4
+    release: 0.9.4
+    versions:
+      - 0.9.3
+      - 0.9.4
+

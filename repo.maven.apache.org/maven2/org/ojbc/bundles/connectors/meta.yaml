@@ -1,0 +1,82 @@
+artifacts:
+  Bundle_C_Test:
+    lastUpdated: 20151214173159
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  Bundle_D_Test:
+    lastUpdated: 20151214173200
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  booking-reporting-service-connector:
+    lastUpdated: 20160222172200
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  case-filing-decision-reporting-service-connector:
+    lastUpdated: 20160405052028
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  criminal-history-consolidation-reporting-service-connector:
+    lastUpdated: 20151214172021
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  custody-release-reporting-service-connector:
+    lastUpdated: 20170325043407
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  custody-status-change-reporting-service-connector:
+    lastUpdated: 20160721192202
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  disposition-reporting-service-connector:
+    lastUpdated: 20151214172022
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  incident-reporting-service-connector:
+    lastUpdated: 20151214172022
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ojb-web-application-connector:
+    lastUpdated: 20160421052427
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  ojb-web-application-connector-extension:
+    lastUpdated: 20151214172023
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  warrant-issue-reporting-service-connector:
+    lastUpdated: 20161028192514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  warrant-modification-service-connector:
+    lastUpdated: 20160519192112
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

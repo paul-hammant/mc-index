@@ -1,0 +1,293 @@
+artifacts:
+  beangle-data-conversion:
+    lastUpdated: 20150301092134
+    latest: 4.1.10
+    release: 4.1.10
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+  beangle-data-dbf_2.12:
+    lastUpdated: 20170304131305
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.4.2
+      - 4.4.3
+  beangle-data-hibernate_2.11:
+    lastUpdated: 20151202135832
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-hibernate_2.12:
+    lastUpdated: 20170304131305
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+  beangle-data-jdbc:
+    lastUpdated: 20150601134941
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+      - 4.2.1
+      - 4.2.2
+  beangle-data-jdbc_2.11:
+    lastUpdated: 20151202135831
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.2.3.RC1
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-jdbc_2.12:
+    lastUpdated: 20170304131305
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+  beangle-data-jpa:
+    lastUpdated: 20150601134942
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+      - 4.2.1
+      - 4.2.2
+  beangle-data-jpa_2.11:
+    lastUpdated: 20150920155805
+    latest: 4.2.4
+    release: 4.2.4
+    versions:
+      - 4.2.3.RC1
+      - 4.2.3
+      - 4.2.4
+  beangle-data-lint:
+    lastUpdated: 20150301092134
+    latest: 4.1.10
+    release: 4.1.10
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+  beangle-data-model:
+    lastUpdated: 20150601134943
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+      - 4.2.1
+      - 4.2.2
+  beangle-data-model_2.11:
+    lastUpdated: 20151202135831
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.2.3.RC1
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-model_2.12:
+    lastUpdated: 20160826110152
+    latest: 4.4.1
+    release: 4.4.1
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+  beangle-data-parent:
+    lastUpdated: 20150601134943
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+      - 4.2.1
+      - 4.2.2
+  beangle-data-parent_2.11:
+    lastUpdated: 20151202135832
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.2.3.RC1
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-parent_2.12:
+    lastUpdated: 20170304131304
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+  beangle-data-report:
+    lastUpdated: 20150301092112
+    latest: 4.1.10
+    release: 4.1.10
+    versions:
+      - 4.0.3
+      - 4.0.4
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+  beangle-data-serializer:
+    lastUpdated: 20150601134944
+    latest: 4.2.2
+    release: 4.2.2
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 4.1.3
+      - 4.1.4
+      - 4.1.5
+      - 4.1.6
+      - 4.1.7
+      - 4.1.8
+      - 4.1.9
+      - 4.1.10
+      - 4.2.1
+      - 4.2.2
+  beangle-data-serializer_2.11:
+    lastUpdated: 20151202135831
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.2.3.RC1
+      - 4.2.3
+      - 4.2.4
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-serializer_2.12:
+    lastUpdated: 20170304131304
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+  beangle-data-transfer_2.11:
+    lastUpdated: 20151202135832
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+  beangle-data-transfer_2.12:
+    lastUpdated: 20170304131304
+    latest: 4.4.3
+    release: 4.4.3
+    versions:
+      - 4.3.4
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+

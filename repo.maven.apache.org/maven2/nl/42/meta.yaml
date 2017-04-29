@@ -1,0 +1,51 @@
+artifacts:
+  beanie:
+    lastUpdated: 20161209111521
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  database-truncator:
+    lastUpdated: 20170206093000
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+  spring-boot-docker-postgres:
+    lastUpdated: 20170413181210
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  spring-boot-starter-docker:
+    lastUpdated: 20170413181610
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  spring-script-hooks:
+    lastUpdated: 20161128145723
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+

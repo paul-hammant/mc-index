@@ -1,0 +1,34 @@
+artifacts:
+  helloworld-bundle:
+    lastUpdated: 20131012131015
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.5
+      - 1.3.6
+  ode-jbi-karaf-examples:
+    lastUpdated: 20131012131014
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.6
+  ode-jbi-karaf-examples-helloworld2-osgi:
+    lastUpdated: 20131012131014
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.6
+  ode-jbi-karaf-examples-ping-pong-osgi:
+    lastUpdated: 20131012131015
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.6
+  ping-pong-bundle:
+    lastUpdated: 20131012131015
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.5
+      - 1.3.6
+

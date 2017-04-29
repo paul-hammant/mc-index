@@ -1,0 +1,23 @@
+artifacts:
+  tomcat-embedded:
+    lastUpdated: 20141112142505
+    latest: 8.0.15
+    release: 8.0.15
+    versions:
+      - 8.0.9
+      - 8.0.15
+  tomcat-embedded-api:
+    lastUpdated: 20141112142505
+    latest: 8.0.15
+    release: 8.0.15
+    versions:
+      - 8.0.9
+      - 8.0.15
+  tomcat-embedded-runtime:
+    lastUpdated: 20141112142506
+    latest: 8.0.15
+    release: 8.0.15
+    versions:
+      - 8.0.9
+      - 8.0.15
+

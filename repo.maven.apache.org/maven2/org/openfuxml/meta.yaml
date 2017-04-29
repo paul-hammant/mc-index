@@ -1,0 +1,117 @@
+artifacts:
+  ofx:
+    lastUpdated: 20160805170910
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-addon:
+    lastUpdated: 20140313080348
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  ofx-bom:
+    lastUpdated: 20160805170910
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-chart:
+    lastUpdated: 20140313080349
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  ofx-client:
+    lastUpdated: 20160805170911
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-core:
+    lastUpdated: 20160805170911
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-doc:
+    lastUpdated: 20160805170911
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.5
+  ofx-interfaces:
+    lastUpdated: 20160805170912
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.5
+  ofx-jsf:
+    lastUpdated: 20160805170912
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-util:
+    lastUpdated: 20160805170912
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-wiki:
+    lastUpdated: 20160805170913
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+  ofx-xml:
+    lastUpdated: 20160805170913
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+

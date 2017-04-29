@@ -1,0 +1,30 @@
+artifacts:
+  bpmn-engine-core:
+    lastUpdated: 20130206132631
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  bpmn-engine-dist-jpa-camel:
+    lastUpdated: 20130206132633
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  data-spi-jpa:
+    lastUpdated: 20130206132633
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  integration-spi-camel:
+    lastUpdated: 20130206132641
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

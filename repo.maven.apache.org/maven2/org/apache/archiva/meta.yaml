@@ -1,0 +1,942 @@
+artifacts:
+  archiva:
+    lastUpdated: 20150224110004
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-applet:
+    lastUpdated: 20140625070745
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.4-M3
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-artifact-converter:
+    lastUpdated: 20140716010107
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.4-M3
+      - 1.3.6
+      - 1.4-M4
+      - 2.0.0
+      - 2.0.1
+      - 1.3.8
+      - 1.3.9
+      - 2.1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-artifact-reports:
+    lastUpdated: 20140625070405
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-base:
+    lastUpdated: 20150224112345
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-checksum:
+    lastUpdated: 20150224223126
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-cli:
+    lastUpdated: 20150224231218
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-common:
+    lastUpdated: 20150224223033
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-configuration:
+    lastUpdated: 20150224223207
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-consumer-api:
+    lastUpdated: 20150224223052
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-consumer-archetype:
+    lastUpdated: 20150224232219
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-consumers:
+    lastUpdated: 20150224223043
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-converter:
+    lastUpdated: 20150224231152
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-core-consumers:
+    lastUpdated: 20150224231611
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-database:
+    lastUpdated: 20140625070302
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-database-consumers:
+    lastUpdated: 20140625070426
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-dependency-graph:
+    lastUpdated: 20140625070122
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-dependency-tree-consumer:
+    lastUpdated: 20140625065438
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-docs:
+    lastUpdated: 20150224233140
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-filelock:
+    lastUpdated: 20150224231236
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-indexer:
+    lastUpdated: 20150224231520
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-jetty:
+    lastUpdated: 20150224233151
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-jetty-js:
+    lastUpdated: 20121003161146
+    latest: 1.4-M3
+    release: 1.4-M3
+    versions:
+      - 1.4-M3
+  archiva-karaf:
+    lastUpdated: 20150224233112
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-lucene-consumers:
+    lastUpdated: 20150224232116
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-maven2-metadata:
+    lastUpdated: 20150224224233
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-maven2-model:
+    lastUpdated: 20150224231049
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-metadata-consumer:
+    lastUpdated: 20150224232152
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-metadata-reports:
+    lastUpdated: 20090524164606
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.1
+      - 1.2
+  archiva-mock:
+    lastUpdated: {}
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  archiva-model:
+    lastUpdated: 20150224224200
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-modules:
+    lastUpdated: 20150224112340
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-parent:
+    lastUpdated: 20150219111246
+    latest: 16
+    release: 16
+    versions:
+      - 15
+      - 16
+      - 15
+      - 16
+  archiva-plexus-bridge:
+    lastUpdated: 20150224230908
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-policies:
+    lastUpdated: 20150224223142
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-project-reports:
+    lastUpdated: 20090524164754
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.1
+      - 1.2
+  archiva-proxy:
+    lastUpdated: 20150224232236
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-proxy-api:
+    lastUpdated: 20150224231012
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-proxy-common:
+    lastUpdated: 20150224231027
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-report-manager:
+    lastUpdated: 20140625070342
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-reporting:
+    lastUpdated: 20140625070319
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-repository-admin:
+    lastUpdated: 20150224112350
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-repository-admin-api:
+    lastUpdated: 20150224112406
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-repository-admin-default:
+    lastUpdated: 20150224230929
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-repository-layer:
+    lastUpdated: 20150224230703
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-repository-scanner:
+    lastUpdated: 20150224224047
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-rest:
+    lastUpdated: 20150224232424
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-rest-api:
+    lastUpdated: 20150224232516
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-rest-services:
+    lastUpdated: 20150224232611
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-rss:
+    lastUpdated: 20150224232359
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-scheduled:
+    lastUpdated: 20140625070458
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2-M1
+      - 1.2
+      - 1.1.4
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.1
+      - 1.2
+      - 1.3
+  archiva-scheduler:
+    lastUpdated: 20150224224114
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-scheduler-api:
+    lastUpdated: 20150224224121
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-scheduler-indexing:
+    lastUpdated: 20150224231635
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-scheduler-repository:
+    lastUpdated: 20150224231450
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-scheduler-repository-api:
+    lastUpdated: 20150224230853
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-security:
+    lastUpdated: 20150224232314
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-security-common:
+    lastUpdated: 20150224224104
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-signature-consumers:
+    lastUpdated: 20150224232137
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-test-mocks:
+    lastUpdated: 20150224232412
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-test-utils:
+    lastUpdated: 20150224223104
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-transaction:
+    lastUpdated: 20150224230958
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-web:
+    lastUpdated: 20150224232303
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-web-common:
+    lastUpdated: 20150224232645
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-webapp:
+    lastUpdated: 20150224233106
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-webapp-common:
+    lastUpdated: 20111214212712
+    latest: {}
+    release: 1.4-M2
+    versions:
+      - 1.4-M2
+  archiva-webapp-js:
+    lastUpdated: 20121003155910
+    latest: 1.4-M3
+    release: 1.4-M3
+    versions:
+      - 1.4-M3
+  archiva-webdav:
+    lastUpdated: 20150224232341
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-xml-tools:
+    lastUpdated: 20150224224216
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  archiva-xmlrpc:
+    lastUpdated: 20140625070810
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.2-M1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.2
+      - 1.3
+  archiva-xmlrpc-api:
+    lastUpdated: 20140625070821
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.2-M1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.2
+      - 1.3
+  archiva-xmlrpc-client:
+    lastUpdated: 20140625072721
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.2-M1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.2
+      - 1.3
+  archiva-xmlrpc-security:
+    lastUpdated: 20140625070839
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.2-M1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.2
+      - 1.3
+  archiva-xmlrpc-services:
+    lastUpdated: 20140625070902
+    latest: 1.3.9
+    release: 1.3.9
+    versions:
+      - 1.2-M1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4-M1
+      - 1.4-M2
+      - 1.3.6
+      - 1.3.8
+      - 1.3.9
+      - 1.2
+      - 1.3
+  audit:
+    lastUpdated: 20150224231540
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  generic-metadata-support:
+    lastUpdated: 20150224230724
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  maven1-repository:
+    lastUpdated: 20140901054313
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.4-M1
+      - 1.4-M2
+      - 1.4-M3
+      - 1.4-M4
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  maven2-repository:
+    lastUpdated: 20150224231130
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata:
+    lastUpdated: 20150224224131
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-model:
+    lastUpdated: 20150224224141
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-model-maven2:
+    lastUpdated: 20150224230812
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-repository-api:
+    lastUpdated: 20150224230745
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-store-cassandra:
+    lastUpdated: 20150224232746
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-store-file:
+    lastUpdated: 20150224232252
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  metadata-store-jcr:
+    lastUpdated: 20150224231824
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  npanday-support:
+    lastUpdated: 20150224232706
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  plugins:
+    lastUpdated: 20150224230715
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  problem-reports:
+    lastUpdated: 20150224232722
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  repository-statistics:
+    lastUpdated: 20150224230829
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  skin:
+    lastUpdated: 20111214204658
+    latest: {}
+    release: 1.4-M2
+    versions:
+      - 1.4-M1
+      - 1.4-M2
+  stage-repository-merge:
+    lastUpdated: 20150224232541
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  test-repository:
+    lastUpdated: 20150224231105
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+

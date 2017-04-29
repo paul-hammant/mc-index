@@ -1,0 +1,30 @@
+artifacts:
+  alfresco-restclient:
+    lastUpdated: 20141209111000
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  docusign-restclient:
+    lastUpdated: 20150424050544
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0.1
+      - 2.0.3
+      - 2.0.4
+  docusign-restclient-core:
+    lastUpdated: 20150424050545
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  docusign-restclient-dto:
+    lastUpdated: 20150424050546
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+

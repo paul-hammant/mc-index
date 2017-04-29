@@ -1,0 +1,99 @@
+artifacts:
+  annotations:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 0.9.6
+  bcel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.1
+      - 5.1
+  coreplugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.8.4
+      - 0.9.3
+      - 0.9.1
+      - 0.9.4
+      - 0.9.6
+  findbugs:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.2
+      - 0.8.4
+      - 0.9.3
+      - 0.9.1
+      - 0.9.4
+      - 0.9.6
+  findbugs-ant:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.2
+      - 0.8.4
+      - 0.9.3
+      - 0.9.1
+      - 0.9.4
+      - 0.9.6
+  findbugs-bcel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.5
+      - 0.7.1
+      - 0.7.2
+      - 0.8.2
+      - 0.8.4
+  findbugs-coreplugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.5
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.2
+      - 0.8.4
+  findbugs-plugin:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.5
+  findbugsGUI:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.7.2
+      - 0.8.4
+      - 0.9.3
+      - 0.9.1
+      - 0.9.4
+      - 0.9.6
+

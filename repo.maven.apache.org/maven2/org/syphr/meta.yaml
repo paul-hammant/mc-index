@@ -1,0 +1,106 @@
+artifacts:
+  libmythtv-api:
+    lastUpdated: 20120108222859
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-assembly:
+    lastUpdated: 20120108222859
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-control:
+    lastUpdated: 20120108222858
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-data:
+    lastUpdated: 20120108222902
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-db:
+    lastUpdated: 20120108222857
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-example:
+    lastUpdated: 20120108222858
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-http:
+    lastUpdated: 20120108222859
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-java:
+    lastUpdated: 20120108222859
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-protocol:
+    lastUpdated: 20120108222858
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-test:
+    lastUpdated: 20120108222858
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  libmythtv-util:
+    lastUpdated: 20120108222859
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  prom:
+    lastUpdated: 20120219012407
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0
+      - 1.1-beta1
+      - 1.1
+      - 2.0
+      - 2.1
+      - 2.1.1
+  sleepiq-api:
+    lastUpdated: 20170415123917
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  syphr-parent:
+    lastUpdated: 20170122053849
+    latest: 7
+    release: 7
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  utils-x509:
+    lastUpdated: 20110731192333
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+

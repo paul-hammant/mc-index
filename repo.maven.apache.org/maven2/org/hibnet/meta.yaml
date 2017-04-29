@@ -1,0 +1,350 @@
+artifacts:
+  jsourcemap:
+    lastUpdated: 20150905174142
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  jsourcemap-test:
+    lastUpdated: 20150905174143
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes:
+    lastUpdated: 20141212220709
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  webpipes-ant:
+    lastUpdated: 20150905175905
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-bourbon:
+    lastUpdated: 20150905175906
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-bourbon-test:
+    lastUpdated: 20150905175906
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-cjson:
+    lastUpdated: 20150905175906
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-cjson-test:
+    lastUpdated: 20150905175907
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-coffeescript:
+    lastUpdated: 20150905175907
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-coffeescript-sourcemap:
+    lastUpdated: 20150828165630
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  webpipes-coffeescript-sourcemap-test:
+    lastUpdated: 20150828165630
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  webpipes-coffeescript-test:
+    lastUpdated: 20150905175907
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-core:
+    lastUpdated: 20150905175908
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-core-test:
+    lastUpdated: 20150905175908
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-dustjs:
+    lastUpdated: 20150905175908
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-dustjs-test:
+    lastUpdated: 20150905175909
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-emberjs:
+    lastUpdated: 20150905175909
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-emberjs-test:
+    lastUpdated: 20150905175909
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-googleclosure:
+    lastUpdated: 20150905175910
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-googleclosure-test:
+    lastUpdated: 20150905175910
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-handlebars:
+    lastUpdated: 20150905175910
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-handlebars-test:
+    lastUpdated: 20150905175911
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-hoganjs:
+    lastUpdated: 20150905175911
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-hoganjs-test:
+    lastUpdated: 20150905175911
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-jsonhpack:
+    lastUpdated: 20150905175911
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-jsonhpack-test:
+    lastUpdated: 20150905175912
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-jsx-react:
+    lastUpdated: 20150905175912
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-jsx-react-test:
+    lastUpdated: 20150905175912
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-less:
+    lastUpdated: 20150905175913
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-less-test:
+    lastUpdated: 20150905175913
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-less4j:
+    lastUpdated: 20150905175913
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-less4j-test:
+    lastUpdated: 20150905175914
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-rhino:
+    lastUpdated: 20150828165638
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  webpipes-rhino-test:
+    lastUpdated: 20150828165638
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  webpipes-sass-js:
+    lastUpdated: 20150905175914
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-sass-js-test:
+    lastUpdated: 20150905175914
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-sass-ruby:
+    lastUpdated: 20150905175915
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-sass-ruby-test:
+    lastUpdated: 20150905175915
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-uglify:
+    lastUpdated: 20150905175915
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-uglify-test:
+    lastUpdated: 20150905175916
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-uglify2:
+    lastUpdated: 20150905175916
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-uglify2-test:
+    lastUpdated: 20150905175917
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-yui:
+    lastUpdated: 20150905175917
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  webpipes-yui-test:
+    lastUpdated: 20150905175917
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+

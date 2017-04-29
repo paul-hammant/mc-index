@@ -1,0 +1,49 @@
+artifacts:
+  play-res_2.10:
+    lastUpdated: 20140911090134
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  play-res_2.11:
+    lastUpdated: 20160815143722
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  play-res_2.9.1:
+    lastUpdated: 20130422101355
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+  play-scalr_2.10:
+    lastUpdated: 20140915145701
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.1
+      - 1.1.2
+  play-scalr_2.11:
+    lastUpdated: 20140915145718
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  play-scalr_2.9.1:
+    lastUpdated: 20130128094921
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

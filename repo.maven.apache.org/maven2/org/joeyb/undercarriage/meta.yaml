@@ -1,0 +1,74 @@
+artifacts:
+  config-yaml:
+    lastUpdated: 20170201032205
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  core:
+    lastUpdated: 20170201032205
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  core-testing:
+    lastUpdated: 20170201032206
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  grpc:
+    lastUpdated: 20170201032206
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  jersey:
+    lastUpdated: 20170201032206
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  spark:
+    lastUpdated: 20170201032207
+    latest: 1.3.3
+    release: 1.3.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+

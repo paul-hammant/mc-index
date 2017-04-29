@@ -1,0 +1,108 @@
+artifacts:
+  wdtk-client:
+    lastUpdated: 20160805130618
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-datamodel:
+    lastUpdated: 20160805130637
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-distribution:
+    lastUpdated: 20140606221349
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  wdtk-dumpfiles:
+    lastUpdated: 20160805130653
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-examples:
+    lastUpdated: 20140606221350
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  wdtk-parent:
+    lastUpdated: 20160805130823
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-rdf:
+    lastUpdated: 20160805130711
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-storage:
+    lastUpdated: 20160805130731
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-testing:
+    lastUpdated: 20140606221351
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  wdtk-util:
+    lastUpdated: 20160805130747
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  wdtk-wikibaseapi:
+    lastUpdated: 20160805130803
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+

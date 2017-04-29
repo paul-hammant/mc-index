@@ -1,0 +1,303 @@
+artifacts:
+  hawkbit-artifact-repository-filesystem:
+    lastUpdated: 20170403120249
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-artifact-repository-mongo:
+    lastUpdated: 20161007065506
+    latest: 0.2.0M2
+    release: 0.2.0M2
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+  hawkbit-autoconfigure:
+    lastUpdated: 20170403120249
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-boot-starter:
+    lastUpdated: 20170403120250
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-boot-starter-ddi-api:
+    lastUpdated: 20170403120250
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-boot-starter-dmf-api:
+    lastUpdated: 20170403120250
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-boot-starter-mgmt-api:
+    lastUpdated: 20170403120250
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-boot-starter-mgmt-ui:
+    lastUpdated: 20170403120250
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-cache-redis:
+    lastUpdated: 20161007065507
+    latest: 0.2.0M2
+    release: 0.2.0M2
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+  hawkbit-core:
+    lastUpdated: 20170403120251
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-ddi-api:
+    lastUpdated: 20170403120251
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-ddi-dl-api:
+    lastUpdated: 20170403120251
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-ddi-resource:
+    lastUpdated: 20170403120252
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-device-simulator:
+    lastUpdated: 20170403120253
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-dmf-amqp:
+    lastUpdated: 20170403120253
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-dmf-api:
+    lastUpdated: 20170403120254
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-example-core-feign-client:
+    lastUpdated: 20170403120254
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-example-ddi-feign-client:
+    lastUpdated: 20170403120254
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-example-mgmt-feign-client:
+    lastUpdated: 20170403120255
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-example-mgmt-simulator:
+    lastUpdated: 20170403120255
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-examples-parent:
+    lastUpdated: 20170403120256
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-extension-artifact-repository-mongo:
+    lastUpdated: 20170403120256
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-extension-artifact-repository-s3:
+    lastUpdated: 20170403120256
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-extension-uaa:
+    lastUpdated: 20170403120256
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-extensions-parent:
+    lastUpdated: 20170403120257
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-http-security:
+    lastUpdated: 20170403120257
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-mgmt-api:
+    lastUpdated: 20170403120257
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-mgmt-resource:
+    lastUpdated: 20170403120258
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-parent:
+    lastUpdated: 20170403120258
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-repository:
+    lastUpdated: 20170403120258
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-repository-api:
+    lastUpdated: 20170403120258
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-repository-core:
+    lastUpdated: 20170403120258
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-repository-jpa:
+    lastUpdated: 20170403120259
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-repository-test:
+    lastUpdated: 20170403120259
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-rest-core:
+    lastUpdated: 20170403120300
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-runtime-parent:
+    lastUpdated: 20170403120300
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-security-core:
+    lastUpdated: 20170403120300
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-security-integration:
+    lastUpdated: 20170403120300
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-starters:
+    lastUpdated: 20170403120301
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+  hawkbit-test-report:
+    lastUpdated: 20170403120301
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-ui:
+    lastUpdated: 20170403120301
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M1
+      - 0.2.0M2
+      - 0.2.0M3
+  hawkbit-update-server:
+    lastUpdated: 20170403120302
+    latest: 0.2.0M3
+    release: 0.2.0M3
+    versions:
+      - 0.2.0M3
+

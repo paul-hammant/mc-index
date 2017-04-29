@@ -1,0 +1,68 @@
+artifacts:
+  ds-test:
+    lastUpdated: 20170403002722
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  gson-hypermedia:
+    lastUpdated: 20170415111923
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  identificator:
+    lastUpdated: 20170402112044
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  inflector:
+    lastUpdated: 20170415002346
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jpa-serializer:
+    lastUpdated: 20170415004756
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  model:
+    lastUpdated: 20170404100939
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  paginated-collection:
+    lastUpdated: 20170412231039
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  repository:
+    lastUpdated: 20170413000639
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  repository-tenant:
+    lastUpdated: 20170415135757
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  security:
+    lastUpdated: 20170415014128
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  tenant:
+    lastUpdated: 20170415122310
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+

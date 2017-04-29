@@ -1,0 +1,29 @@
+artifacts:
+  TW4S:
+    lastUpdated: 20140901065606
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.2
+      - 1.1.2
+  conniption:
+    lastUpdated: 20140320230208
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  conniption4s:
+    lastUpdated: 20141005213557
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.4
+      - 1.0.6
+  redis-bigtable:
+    lastUpdated: 20140614032620
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

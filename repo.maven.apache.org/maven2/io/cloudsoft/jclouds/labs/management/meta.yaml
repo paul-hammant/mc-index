@@ -1,0 +1,35 @@
+artifacts:
+  management-blobstore:
+    lastUpdated: 20140613213416
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  management-compute:
+    lastUpdated: 20140613213416
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  management-core:
+    lastUpdated: 20140613213417
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+

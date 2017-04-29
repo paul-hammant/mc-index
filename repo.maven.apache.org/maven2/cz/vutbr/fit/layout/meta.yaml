@@ -1,0 +1,69 @@
+artifacts:
+  layout-api:
+    lastUpdated: 20161211114814
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  layout-classify:
+    lastUpdated: 20161211115128
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  layout-cssbox:
+    lastUpdated: 20161211115910
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  layout-logical:
+    lastUpdated: 20161211120246
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  layout-segmentation:
+    lastUpdated: 20161211120639
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  layout-storage:
+    lastUpdated: 20150526081310
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  layout-storage-rdf:
+    lastUpdated: 20161211130906
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  layout-tools:
+    lastUpdated: 20161211131243
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  parent:
+    lastUpdated: 20161211113811
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  segment-annotator:
+    lastUpdated: 20161211131455
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+

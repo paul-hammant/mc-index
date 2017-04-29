@@ -1,0 +1,112 @@
+artifacts:
+  sonar-coverage-lcov:
+    lastUpdated: 20160606131554
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-duplication-cpd:
+    lastUpdated: 20160606131554
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-duplication-simian:
+    lastUpdated: 20160606131555
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-report-core:
+    lastUpdated: 20160606131556
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-sii-plugin-parent:
+    lastUpdated: 20160606131556
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-test-junit:
+    lastUpdated: 20160606131556
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-angular-eslint:
+    lastUpdated: 20160606131557
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-angular-hint:
+    lastUpdated: 20160606131557
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-css:
+    lastUpdated: 20160606131558
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-html:
+    lastUpdated: 20160606131559
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-js:
+    lastUpdated: 20160606131600
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-plugin:
+    lastUpdated: 20160606131600
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-scss:
+    lastUpdated: 20160606131601
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0
+  sonar-web-frontend-typescript:
+    lastUpdated: 20160606131602
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+

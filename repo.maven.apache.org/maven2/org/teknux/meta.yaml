@@ -1,0 +1,89 @@
+artifacts:
+  jetty-bootstrap:
+    lastUpdated: 20160914094655
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jetty-bootstrap-annotations:
+    lastUpdated: 20160914094655
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jetty-bootstrap-jsp:
+    lastUpdated: 20160914094655
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jetty-bootstrap-logs:
+    lastUpdated: 20160914094656
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jetty-bootstrap-parent:
+    lastUpdated: 20160914094656
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  jetty-bootstrap-standalone:
+    lastUpdated: 20140321205428
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  jetty-bootstrap-websocket:
+    lastUpdated: 20160914094656
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+

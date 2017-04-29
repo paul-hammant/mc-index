@@ -1,0 +1,42 @@
+artifacts:
+  lv-morpho-model:
+    lastUpdated: 20170410180203
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  lv-ner-model:
+    lastUpdated: 20161113232143
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  morphology:
+    lastUpdated: 20170418084335
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.1.0
+      - 1.1.1
+  tagger:
+    lastUpdated: 20170418085039
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+

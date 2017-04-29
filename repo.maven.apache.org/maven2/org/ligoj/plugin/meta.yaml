@@ -1,0 +1,221 @@
+artifacts:
+  plugin-bt:
+    lastUpdated: 20170419161826
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  plugin-bt-jira:
+    lastUpdated: 20170419161826
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  plugin-build:
+    lastUpdated: 20170405131305
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-build-jenkins:
+    lastUpdated: 20170413222707
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-iam-node:
+    lastUpdated: 20170419192112
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-id:
+    lastUpdated: 20170413222707
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  plugin-id-ldap:
+    lastUpdated: 20170419161827
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-id-ldap-embedded:
+    lastUpdated: 20170413222708
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-inbox-sql:
+    lastUpdated: 20170422185154
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  plugin-km:
+    lastUpdated: 20170410103126
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-km-confluence:
+    lastUpdated: 20170422154936
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  plugin-mail:
+    lastUpdated: 20170410134807
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  plugin-mail-smtp:
+    lastUpdated: 20170410134807
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  plugin-menu-node:
+    lastUpdated: 20170410103126
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-password:
+    lastUpdated: 20170422114100
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  plugin-password-management:
+    lastUpdated: 20170413222708
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-prov:
+    lastUpdated: 20170422185154
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-qa:
+    lastUpdated: 20170405113625
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-qa-sonarqube:
+    lastUpdated: 20170405120009
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-redirect:
+    lastUpdated: 20170407110358
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-req:
+    lastUpdated: 20170405135448
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-req-squash:
+    lastUpdated: 20170422154936
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-scm:
+    lastUpdated: 20170421212148
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  plugin-scm-git:
+    lastUpdated: 20170405154652
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-scm-svn:
+    lastUpdated: 20170405153354
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-security:
+    lastUpdated: 20170405142835
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-security-fortify:
+    lastUpdated: 20170405162656
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-sso-salt:
+    lastUpdated: 20170413222708
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  plugin-storage:
+    lastUpdated: 20170405152159
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-storage-owncloud:
+    lastUpdated: 20170405162015
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-vm:
+    lastUpdated: 20170405152757
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  plugin-vm-vcloud:
+    lastUpdated: 20170405155240
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

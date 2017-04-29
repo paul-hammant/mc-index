@@ -1,0 +1,1236 @@
+artifacts:
+  powermock:
+    lastUpdated: 20161104085206
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-api:
+    lastUpdated: 20161104085206
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-api-easymock:
+    lastUpdated: 20170305155052
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-api-mockito:
+    lastUpdated: 20170305155052
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-api-mockito-common:
+    lastUpdated: 20170305155052
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-api-mockito2:
+    lastUpdated: 20170305155053
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-api-support:
+    lastUpdated: 20170305155053
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-classloading:
+    lastUpdated: 20101013191656
+    latest: 1.4.6
+    release: 1.4.6
+    versions:
+      - 1.4.6
+  powermock-classloading-base:
+    lastUpdated: 20170305155053
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-classloading-module:
+    lastUpdated: 20161104085209
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-classloading-objenesis:
+    lastUpdated: 20170305155053
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-classloading-xstream:
+    lastUpdated: 20170305155053
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-core:
+    lastUpdated: 20170305155054
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-easymock-release-full:
+    lastUpdated: 20151211075114
+    latest: 1.6.4
+    release: 1.6.4
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+  powermock-junit4-rule-objenesis-test:
+    lastUpdated: 20161104085210
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-junit4-rule-xstream-test:
+    lastUpdated: 20161104085210
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-mockito-release-full:
+    lastUpdated: 20151211075115
+    latest: 1.6.4
+    release: 1.6.4
+    versions:
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+  powermock-module-javaagent:
+    lastUpdated: 20170305155054
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit3:
+    lastUpdated: 20170305155054
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit4:
+    lastUpdated: 20170305155054
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit4-common:
+    lastUpdated: 20170305155055
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit4-legacy:
+    lastUpdated: 20170305155055
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit4-rule:
+    lastUpdated: 20170305155055
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-junit4-rule-agent:
+    lastUpdated: 20170305155055
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-mockito-junit49-test:
+    lastUpdated: 20161104085213
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit3:
+    lastUpdated: 20161104085213
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit4:
+    lastUpdated: 20161104085213
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit4-agent:
+    lastUpdated: 20161104085214
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit4-legacy:
+    lastUpdated: 20161104085214
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit410:
+    lastUpdated: 20161104085214
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit45:
+    lastUpdated: 20161104085214
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit47:
+    lastUpdated: 20161104085215
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-junit48:
+    lastUpdated: 20161104085215
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-testng:
+    lastUpdated: 20161104085215
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-easymock-testng-agent:
+    lastUpdated: 20161104085215
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4:
+    lastUpdated: 20161104085216
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4-agent:
+    lastUpdated: 20161104085216
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4-delegate:
+    lastUpdated: 20161104085216
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4-java8:
+    lastUpdated: 20161104085216
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4-java8-agent:
+    lastUpdated: 20161104085217
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-junit4-java8-rule-xstream:
+    lastUpdated: 20161104085217
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-module-test-mockito-testng:
+    lastUpdated: 20161104085217
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-module-testng:
+    lastUpdated: 20170305155055
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-testng-agent:
+    lastUpdated: 20170305155056
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-module-testng-common:
+    lastUpdated: 20170305155056
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-modules:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-easymock-test:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-impl:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-test:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-test-junit4:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-test-mockito:
+    lastUpdated: 20161104085219
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+  powermock-modules-test-testng:
+    lastUpdated: 20161104085220
+    latest: 1.6.6
+    release: 1.6.6
+    versions:
+      - 1.6.5
+      - 1.6.6
+  powermock-reflect:
+    lastUpdated: 20170305155056
+    latest: 1.7.0RC4
+    release: 1.7.0RC4
+    versions:
+      - 1.4.6
+      - 1.4.7
+      - 1.4.8
+      - 1.4.9
+      - 1.4.10
+      - 1.4.11
+      - 1.4.12
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6
+      - 1.7.0RC2
+      - 1.7.0RC4
+  powermock-release:
+    lastUpdated: 20150316101046
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-junit-without-mock-framework:
+    lastUpdated: 20150316101046
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-testng-without-mock-framework:
+    lastUpdated: 20150316101047
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-with-junit-easymock-dependencies:
+    lastUpdated: 20150316101047
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-with-junit-mockito-dependencies:
+    lastUpdated: 20150316101047
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-with-testng-easymock-dependencies:
+    lastUpdated: 20150316101048
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-with-testng-mockito-dependencies:
+    lastUpdated: 20150316101048
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+  powermock-release-without-test-and-mock-framework:
+    lastUpdated: 20150316101049
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.4.11
+      - 1.5.1
+      - 1.6.2
+

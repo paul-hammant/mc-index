@@ -1,0 +1,147 @@
+artifacts:
+  common-core:
+    lastUpdated: 20120814223947
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  common-hash:
+    lastUpdated: 20120814223947
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.4
+      - 0.5
+      - 0.6
+  common-hibernate:
+    lastUpdated: 20131012214333
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.8
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  common-javadoc:
+    lastUpdated: 20131012214334
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+  common-serialize:
+    lastUpdated: 20131012214334
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.8
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  common-test:
+    lastUpdated: 20131012214335
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.8
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  gl-common:
+    lastUpdated: 20131012214335
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.8
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  grouplens-skin:
+    lastUpdated: 20110309221409
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 3
+      - 1
+      - 3
+  javadoc-citation-taglet:
+    lastUpdated: 20120814223954
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.4
+      - 0.5
+      - 0.6
+  slf4j-maven-shim:
+    lastUpdated: 20131012214336
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.7
+      - 0.8
+      - 0.7
+      - 0.8
+

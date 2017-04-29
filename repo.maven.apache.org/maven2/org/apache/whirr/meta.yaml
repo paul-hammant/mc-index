@@ -1,0 +1,271 @@
+artifacts:
+  karaf:
+    lastUpdated: 20130422195558
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr:
+    lastUpdated: 20130422195559
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-build-tools:
+    lastUpdated: 20130422195559
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-cassandra:
+    lastUpdated: 20130422195553
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-cdh:
+    lastUpdated: 20130422195601
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-cdh-oldtests:
+    lastUpdated: 20130422195602
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-chef:
+    lastUpdated: 20130422195555
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-cli:
+    lastUpdated: 20130422195559
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-core:
+    lastUpdated: 20130422195559
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-elasticsearch:
+    lastUpdated: 20130422195600
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-examples:
+    lastUpdated: 20130422195600
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-ganglia:
+    lastUpdated: 20130422195555
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-hadoop:
+    lastUpdated: 20130422195557
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-hama:
+    lastUpdated: 20130422195601
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-hbase:
+    lastUpdated: 20130422195554
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-kerberos:
+    lastUpdated: 20130422195557
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.2
+  whirr-mahout:
+    lastUpdated: 20130422195557
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-pig:
+    lastUpdated: 20130422195554
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-puppet:
+    lastUpdated: 20130422195556
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-solr:
+    lastUpdated: 20130422195555
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-voldemort:
+    lastUpdated: 20120228113509
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+  whirr-yarn:
+    lastUpdated: 20130422195553
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  whirr-zookeeper:
+    lastUpdated: 20130422195553
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.1.0-incubating
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0-incubating
+      - 0.6.0-incubating
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+

@@ -1,0 +1,149 @@
+artifacts:
+  akka-d3-cluster_2.11:
+    lastUpdated: 20170405031012
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-d3-cluster_2.12:
+    lastUpdated: 20170405031012
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-d3-core_2.11:
+    lastUpdated: 20170405031013
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-d3-core_2.12:
+    lastUpdated: 20170405031013
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-d3-query-cassandra_2.11:
+    lastUpdated: 20170405031013
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-query-cassandra_2.12:
+    lastUpdated: 20170405031014
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-query-inmemory_2.11:
+    lastUpdated: 20170405031014
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-query-inmemory_2.12:
+    lastUpdated: 20170405031014
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-readside-cassandra_2.11:
+    lastUpdated: 20170405031015
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-readside-cassandra_2.12:
+    lastUpdated: 20170405031015
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-d3-utils_2.11:
+    lastUpdated: 20170101015141
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-d3-utils_2.12:
+    lastUpdated: 20170101015141
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-d3_2.11:
+    lastUpdated: 20170405031015
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-d3_2.12:
+    lastUpdated: 20170405031016
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  akka-modules-core_2.11:
+    lastUpdated: 20161126033342
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules-core_2.12:
+    lastUpdated: 20161126033343
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules-http_2.11:
+    lastUpdated: 20161126033343
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules-http_2.12:
+    lastUpdated: 20161126033343
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules-join-cluster_2.11:
+    lastUpdated: 20161126033343
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules-join-cluster_2.12:
+    lastUpdated: 20161126033344
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules_2.11:
+    lastUpdated: 20161126033344
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-modules_2.12:
+    lastUpdated: 20161126033345
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

@@ -1,0 +1,156 @@
+artifacts:
+  eventsourcing-cep:
+    lastUpdated: 20170109030918
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-core:
+    lastUpdated: 20170109030920
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-graphql:
+    lastUpdated: 20161125201627
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.4
+      - 0.4.5
+  eventsourcing-h2:
+    lastUpdated: 20170109030921
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-hlc:
+    lastUpdated: 20170109030922
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-inmem:
+    lastUpdated: 20170109030923
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-kotlin:
+    lastUpdated: 20170109030925
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-layout:
+    lastUpdated: 20170109030926
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-migrations:
+    lastUpdated: 20170109030926
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-postgresql:
+    lastUpdated: 20170109030928
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-queries:
+    lastUpdated: 20170109030929
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  eventsourcing-repository:
+    lastUpdated: 20170109030931
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  h2:
+    lastUpdated: 20160715030426
+    latest: 1.4.192
+    release: 1.4.192
+    versions:
+      - 1.4.192
+  pgjdbc-ng:
+    lastUpdated: 20161010025536
+    latest: 0.7.0-89abc52
+    release: 0.7.0-89abc52
+    versions:
+      - 0.7.0-7d96678
+      - 0.7.0-89abc52
+

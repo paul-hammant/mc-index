@@ -1,0 +1,54 @@
+artifacts:
+  ujo-core:
+    lastUpdated: 20111110170000
+    latest: {}
+    release: {}
+    versions:
+      - 1.22
+      - 1.21
+      - 1.2
+      - 1.1
+      - 1.0
+      - 0.94
+      - 0.93
+      - 0.92
+      - 0.91
+  ujo-gxt-core:
+    lastUpdated: 20110608170000
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+  ujo-gxt-crud:
+    lastUpdated: 20110608170000
+    latest: {}
+    release: {}
+    versions:
+      - 1.2
+  ujo-orm:
+    lastUpdated: 20111110170000
+    latest: {}
+    release: {}
+    versions:
+      - 1.22
+      - 1.21
+      - 1.20.09
+      - 1.20.08
+      - 1.2
+      - 1.1
+      - 1.0
+      - 0.94
+      - 0.93
+      - 0.92
+      - 0.91
+      - 0.9
+  ujo-orm-spring:
+    lastUpdated: 20111110170000
+    latest: {}
+    release: {}
+    versions:
+      - 1.22
+      - 1.21
+      - 1.20
+      - 1.10
+

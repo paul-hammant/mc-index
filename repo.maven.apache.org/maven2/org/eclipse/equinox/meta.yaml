@@ -1,0 +1,137 @@
+artifacts:
+  app:
+    lastUpdated: 20140801141606
+    latest: 1.3.200-v20130910-1609
+    release: 1.3.200-v20130910-1609
+    versions:
+      - 1.3.100-v20130327-1442
+      - 1.3.200-v20130910-1609
+  cm:
+    lastUpdated: 20071127070901
+    latest: {}
+    release: {}
+    versions:
+      - 3.2.0-v20070116
+  common:
+    lastUpdated: 20131105141827
+    latest: 3.6.200-v20130402-1505
+    release: 3.6.200-v20130402-1505
+    versions:
+      - 3.6.200-v20130402-1505
+  device:
+    lastUpdated: 20071127071012
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-v20070226
+  event:
+    lastUpdated: 20071127071041
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.100-v20070516
+  http:
+    lastUpdated: 20071127071015
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.100-v20070423
+  launcher:
+    lastUpdated: 20071127071547
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-v20070606
+  log:
+    lastUpdated: 20071127071208
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.100-v20070226
+  metatype:
+    lastUpdated: 20071127071047
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-v20070226
+  org.eclipse.equinox.app:
+    lastUpdated: 20131030132144
+    latest: 1.3.100
+    release: 1.3.100
+    versions:
+      - 1.3.0.v20100512
+      - 1.3.100
+  org.eclipse.equinox.common:
+    lastUpdated: 20131025132507
+    latest: 3.6.0.v20100503
+    release: 3.6.0.v20100503
+    versions:
+      - 3.6.0
+      - 3.6.0.v20100503
+  org.eclipse.equinox.coordinator:
+    lastUpdated: 20120829210827
+    latest: 1.1.0.v20120522-1841
+    release: 1.1.0.v20120522-1841
+    versions:
+      - 1.1.0.v20120522-1841
+  org.eclipse.equinox.event:
+    lastUpdated: 20120829210857
+    latest: 1.2.200.v20120522-2049
+    release: 1.2.200.v20120522-2049
+    versions:
+      - 1.2.200.v20120522-2049
+  org.eclipse.equinox.preferences:
+    lastUpdated: 20131025132734
+    latest: 3.4.1
+    release: 3.4.1
+    versions:
+      - 3.3.0.v20100503
+      - 3.4.1
+  org.eclipse.equinox.region:
+    lastUpdated: 20151021160633
+    latest: 1.2.101.v20150831-1342
+    release: 1.2.101.v20150831-1342
+    versions:
+      - 1.1.0.v20120522-1841
+      - 1.2.100.v20141023-1537
+      - 1.2.101.v20150831-1342
+  org.eclipse.equinox.registry:
+    lastUpdated: 20131025132604
+    latest: 3.5.101
+    release: 3.5.101
+    versions:
+      - 3.5.0.v20100503
+      - 3.5.101
+  preferences:
+    lastUpdated: 20140801141521
+    latest: 3.5.200-v20140224-1527
+    release: 3.5.200-v20140224-1527
+    versions:
+      - 3.5.100-v20130422-1538
+      - 3.5.200-v20140224-1527
+  registry:
+    lastUpdated: 20140801141613
+    latest: 3.5.400-v20140428-1507
+    release: 3.5.400-v20140428-1507
+    versions:
+      - 3.5.301-v20130717-1549
+      - 3.5.400-v20140428-1507
+  servletbridge:
+    lastUpdated: 20071127071152
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-v20070523
+  source:
+    lastUpdated: 20071127071142
+    latest: {}
+    release: {}
+    versions:
+      - 3.3.0-v20070502-7n7LECYEOFjsvtv1NlGpLb
+  useradmin:
+    lastUpdated: 20071127071207
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0-v20070226
+

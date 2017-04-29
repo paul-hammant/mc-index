@@ -1,0 +1,47 @@
+artifacts:
+  zbus:
+    lastUpdated: 20160913074642
+    latest: 7.2.0
+    release: 7.2.0
+    versions:
+      - 5.1.0
+      - 5.2.0
+      - 6.2.0
+      - 6.2.1
+      - 6.2.3
+      - 6.2.4
+      - 6.2.5
+      - 6.2.6
+      - 6.2.7
+      - 6.2.8
+      - 6.2.9
+      - 6.3.0
+      - 6.3.1
+      - 6.3.2
+      - 6.3.3
+      - 6.3.4
+      - 6.4.0
+      - 7.0.0
+      - 7.0.1
+      - 7.1.0
+      - 7.2.0
+  zbus-client:
+    lastUpdated: 20140816031110
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  zbus-remoting:
+    lastUpdated: 20150419143103
+    latest: 5.2.0
+    release: 5.2.0
+    versions:
+      - 5.1.0
+      - 5.2.0
+  zbus-server:
+    lastUpdated: 20140816031112
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+

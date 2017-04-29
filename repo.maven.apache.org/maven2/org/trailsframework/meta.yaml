@@ -1,0 +1,138 @@
+artifacts:
+  archetypes:
+    lastUpdated: 20080902175622
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  codehaus-unity-skin:
+    lastUpdated: 20090223213749
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 2.0.0
+  examples:
+    lastUpdated: 20080902172528
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  modules:
+    lastUpdated: 20080902172314
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  tapestry-conversations:
+    lastUpdated: 20090420062646
+    latest: {}
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  tapestry-jsecurity:
+    lastUpdated: 20090806032949
+    latest: {}
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  trails:
+    lastUpdated: 20090126073542
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 2.0.0
+  trails-archetype:
+    lastUpdated: 20080902175633
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  trails-conversations:
+    lastUpdated: 20090220064240
+    latest: {}
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  trails-core:
+    lastUpdated: 20080902172342
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  trails-hibernate:
+    lastUpdated: 20080902172437
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  trails-parent:
+    lastUpdated: 20090810134139
+    latest: {}
+    release: 2.1.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+      - 2.1.1
+  trails-secure-archetype:
+    lastUpdated: 20080902175651
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  trails-security:
+    lastUpdated: 20080902172511
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+  trails-test:
+    lastUpdated: 20080902172405
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+

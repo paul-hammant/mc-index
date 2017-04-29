@@ -1,0 +1,72 @@
+artifacts:
+  default-parent:
+    lastUpdated: 20151107062620
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  java6-parent:
+    lastUpdated: 20151107062620
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  java7-parent:
+    lastUpdated: 20151107062620
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+      - 1.3
+      - 1.4
+  java8-parent:
+    lastUpdated: 20151107062620
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  parent:
+    lastUpdated: 20151107062620
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  resource-bundle:
+    lastUpdated: 20151107062621
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+

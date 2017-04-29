@@ -1,0 +1,81 @@
+artifacts:
+  ios-client:
+    lastUpdated: 20130927135410
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  ios-common:
+    lastUpdated: 20130927135411
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  ios-driver:
+    lastUpdated: 20130927135411
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  ios-driver-jni:
+    lastUpdated: 20130726165830
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+  ios-grid:
+    lastUpdated: 20130927135412
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  ios-selenium-tests:
+    lastUpdated: 20130927135412
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  ios-server:
+    lastUpdated: 20130927135412
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  libimobiledevice-wrapper:
+    lastUpdated: 20130828190400
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+

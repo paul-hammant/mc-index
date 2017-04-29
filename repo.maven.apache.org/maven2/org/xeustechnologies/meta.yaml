@@ -1,0 +1,94 @@
+artifacts:
+  esl4j-android:
+    lastUpdated: 20101103184459
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  esl4j-commons-logging:
+    lastUpdated: 20101103184519
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  esl4j-core:
+    lastUpdated: 20101103184207
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  esl4j-log4j:
+    lastUpdated: 20101103184339
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  jcl:
+    lastUpdated: 20161113205934
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.8
+  jcl-core:
+    lastUpdated: 20161113205916
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.8
+  jcl-spring:
+    lastUpdated: 20161113205859
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.8
+  jcl-web:
+    lastUpdated: 20161113205846
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.6
+      - 2.7
+      - 2.8
+  jcltest:
+    lastUpdated: 20150223211108
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 2.6
+  jtar:
+    lastUpdated: 20120501210817
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1
+  test-jcl:
+    lastUpdated: 20150223211108
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 2.6
+

@@ -1,0 +1,79 @@
+artifacts:
+  concurrency:
+    lastUpdated: 20170123205347
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  context-propagation:
+    lastUpdated: 20170126201424
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  context-propagation-java8:
+    lastUpdated: 20170126201425
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  context-propagation-opentracing-span:
+    lastUpdated: 20170126201425
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  context-propagation-root:
+    lastUpdated: 20170126201425
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  context-propagation-servletrequest:
+    lastUpdated: 20170126201425
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.1
+  reflection:
+    lastUpdated: 20170418075450
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  umldoclet:
+    lastUpdated: 20170313085801
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+

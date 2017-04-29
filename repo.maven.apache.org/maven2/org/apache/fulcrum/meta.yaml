@@ -1,0 +1,202 @@
+artifacts:
+  fulcrum-cache:
+    lastUpdated: 20120821023053
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-crypto:
+    lastUpdated: 20120821023052
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  fulcrum-factory:
+    lastUpdated: 20161209092944
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.4
+      - 1.1.0
+  fulcrum-hsqldb:
+    lastUpdated: 20120821023050
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fulcrum-intake:
+    lastUpdated: 20161218151530
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.6
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  fulcrum-jetty:
+    lastUpdated: 20120821023052
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fulcrum-json-api:
+    lastUpdated: 20150629061738
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-json-dist:
+    lastUpdated: 20150629061739
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-json-gson:
+    lastUpdated: 20150629061742
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-json-jackson:
+    lastUpdated: 20150629061743
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-json-jackson2:
+    lastUpdated: 20150629061743
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-json-parent:
+    lastUpdated: 20150629061744
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  fulcrum-localization:
+    lastUpdated: 20120821023055
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  fulcrum-mimetype:
+    lastUpdated: 20120821023053
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  fulcrum-parent:
+    lastUpdated: 20120821023051
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  fulcrum-parser:
+    lastUpdated: 20131011160409
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  fulcrum-pbe:
+    lastUpdated: 20120821023052
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  fulcrum-pool:
+    lastUpdated: 20120821023051
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  fulcrum-quartz:
+    lastUpdated: 20120821023050
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security:
+    lastUpdated: 20150724105509
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security-api:
+    lastUpdated: 20150724105509
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security-dist:
+    lastUpdated: 20150724105511
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security-hibernate:
+    lastUpdated: 20150724105511
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security-memory:
+    lastUpdated: 20150724105511
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-security-torque:
+    lastUpdated: 20150724105512
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-spring:
+    lastUpdated: 20120821023055
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fulcrum-testcontainer:
+    lastUpdated: 20150912084835
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.6
+      - 1.0.7
+  fulcrum-upload:
+    lastUpdated: 20120821023052
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  fulcrum-xslt:
+    lastUpdated: 20120821023053
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  fulcrum-yaafi:
+    lastUpdated: 20120821023052
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  fulcrum-yaafi-crypto:
+    lastUpdated: 20120821023054
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+

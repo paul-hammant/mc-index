@@ -1,0 +1,44 @@
+artifacts:
+  hcatalog:
+    lastUpdated: 20130516161420
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+  hcatalog-core:
+    lastUpdated: 20130516161421
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+  hcatalog-pig-adapter:
+    lastUpdated: 20130516161421
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+  hcatalog-server-extensions:
+    lastUpdated: 20130516161421
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+  webhcat:
+    lastUpdated: 20130516161422
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+  webhcat-java-client:
+    lastUpdated: 20130516161420
+    latest: 0.11.0
+    release: 0.11.0
+    versions:
+      - 0.5.0-incubating
+      - 0.11.0
+

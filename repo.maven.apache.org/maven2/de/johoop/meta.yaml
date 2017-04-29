@@ -1,0 +1,102 @@
+artifacts:
+  cobertura4sbt:
+    lastUpdated: 20141102110228
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  cpd4sbt:
+    lastUpdated: 20141102110227
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  findbugs4sbt:
+    lastUpdated: 20141102110227
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.2.0
+  findbugs4sbt_2.8.1:
+    lastUpdated: 20141102110239
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  findbugs4sbt_2.9.0-1:
+    lastUpdated: 20141102110223
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  sbt-testng-interface:
+    lastUpdated: 20141102110229
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sbt-testng-interface_2.10:
+    lastUpdated: 20130827081132
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.0.3
+      - 3.0.0
+  sbt-testng-interface_2.8.0:
+    lastUpdated: 20120222131758
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  sbt-testng-interface_2.8.1:
+    lastUpdated: 20120810132947
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.2
+      - 2.0.3
+  sbt-testng-interface_2.9.0:
+    lastUpdated: 20120810132947
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.2
+      - 2.0.3
+  sbt-testng-interface_2.9.1:
+    lastUpdated: 20120810132948
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.2
+      - 2.0.3
+  sbt-testng-interface_2.9.2:
+    lastUpdated: 20120810132949
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.2
+      - 2.0.3
+  sbt-testng-interface_2.9.3:
+    lastUpdated: 20130827081133
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+

@@ -1,0 +1,43 @@
+artifacts:
+  jebu:
+    lastUpdated: 20160804143337
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  jebu-api:
+    lastUpdated: 20160804143338
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+      - 0.4.0
+  jebu-websocket-client:
+    lastUpdated: 20160804143338
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+      - 0.4.0
+  jebu-websocket-jetty:
+    lastUpdated: 20160804143339
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+      - 0.4.0
+  jebu-websocket-server:
+    lastUpdated: 20160804143339
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+      - 0.4.0
+

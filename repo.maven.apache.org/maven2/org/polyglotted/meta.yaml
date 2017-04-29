@@ -1,0 +1,42 @@
+artifacts:
+  crypto-recipes:
+    lastUpdated: 20131010025239
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  impala-jdbcimport:
+    lastUpdated: 20150617215306
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  oss-parent:
+    lastUpdated: 20150405172829
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.1.0
+      - 1.2.0
+  webapp-launcher:
+    lastUpdated: 20130508223209
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  xpath-stax:
+    lastUpdated: 20120629183503
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

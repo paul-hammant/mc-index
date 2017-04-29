@@ -1,0 +1,65 @@
+artifacts:
+  xacml:
+    lastUpdated: 20141203190317
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  xacml-conformance-tests:
+    lastUpdated: 20141203190318
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  xacml-core:
+    lastUpdated: 20141203190318
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  xacml-ehcache:
+    lastUpdated: 20140812192545
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  xacml-json:
+    lastUpdated: 20141203190319
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  xacml-opensaml:
+    lastUpdated: 20150911200408
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  xacml-spring:
+    lastUpdated: 20141203190320
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  xacml-test:
+    lastUpdated: 20141203190321
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+

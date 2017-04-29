@@ -1,0 +1,47 @@
+artifacts:
+  gp-java-api-v3-apache-cxf:
+    lastUpdated: 20170308115958
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+  gp-java-api-v3-apache-http-client:
+    lastUpdated: 20170308115958
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+  gp-java-api-v3-common:
+    lastUpdated: 20170308115959
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+  gp-java-api-v3-parent:
+    lastUpdated: 20170308115959
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+  gp-java-api-v3-resteasy:
+    lastUpdated: 20170308115959
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+

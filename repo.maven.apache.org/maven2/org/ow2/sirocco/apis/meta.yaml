@@ -1,0 +1,31 @@
+artifacts:
+  sirocco-admin-command-line-tools:
+    lastUpdated: 20130502104158
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  sirocco-rest-cimi:
+    lastUpdated: 20121012134315
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  sirocco-rest-cimi-apis:
+    lastUpdated: 20121012134315
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  sirocco-rest-cimi-webapp:
+    lastUpdated: 20121012134316
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+

@@ -1,0 +1,98 @@
+artifacts:
+  netty-servlet-bridge:
+    lastUpdated: 20140605054057
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.wiperdog.bundleextractor:
+    lastUpdated: 20140625031348
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.wiperdog.configloader:
+    lastUpdated: 20130813063832
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.wiperdog.directorywatcher:
+    lastUpdated: 20130813063832
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.wiperdog.jobmanager:
+    lastUpdated: 20130920012015
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  org.wiperdog.jrubyrunner:
+    lastUpdated: 20140714050031
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.wiperdog.netty-servlet-bridge:
+    lastUpdated: 20140625035004
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.wiperdog.rshell.api:
+    lastUpdated: 20130813061954
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.wiperdog.scriptsupport.groovyrunner:
+    lastUpdated: 20130826072235
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  wiperdog-assembly:
+    lastUpdated: 20140714065016
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+  wiperdog-osgi-bundle-archetype:
+    lastUpdated: 20140605042549
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  wiperdog-osgi-ipojo-archetype:
+    lastUpdated: 20140605042549
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  wiperdog-parent:
+    lastUpdated: 20140625025731
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  wiperdog-ui:
+    lastUpdated: 20140714062137
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+

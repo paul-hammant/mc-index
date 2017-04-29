@@ -1,0 +1,100 @@
+artifacts:
+  cellbase:
+    lastUpdated: 20170317042519
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.3
+      - 4.0.0-rc
+      - 4.0.0
+      - 4.5.0-beta
+      - 4.5.0-beta.1
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+  cellbase-app:
+    lastUpdated: 20170317042519
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.3
+      - 4.0.0-rc
+      - 4.0.0
+      - 4.5.0-beta
+      - 4.5.0-beta.1
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+  cellbase-build:
+    lastUpdated: 20140901085009
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+  cellbase-client:
+    lastUpdated: 20170317042520
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 4.5.0-beta
+      - 4.5.0-beta.1
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+  cellbase-core:
+    lastUpdated: 20170317042520
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.3
+      - 4.0.0-rc
+      - 4.0.0
+      - 4.5.0-beta
+      - 4.5.0-beta.1
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+  cellbase-grpc:
+    lastUpdated: 20160927171633
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0-rc
+      - 4.0.0
+  cellbase-lib:
+    lastUpdated: 20170317042520
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 4.5.0-beta
+      - 4.5.0-beta.1
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+  cellbase-mongodb:
+    lastUpdated: 20160927171633
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.3
+      - 4.0.0-rc
+      - 4.0.0
+  cellbase-server:
+    lastUpdated: 20170320224049
+    latest: 4.5.0-rc.1
+    release: 4.5.0-rc.1
+    versions:
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.1.3
+      - 4.5.0-rc
+      - 4.5.0-rc.1
+

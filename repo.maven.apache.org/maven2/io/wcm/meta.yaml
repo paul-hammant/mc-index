@@ -1,0 +1,434 @@
+artifacts:
+  io.wcm.caconfig.compat:
+    lastUpdated: 20170407115914
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+  io.wcm.caconfig.editor:
+    lastUpdated: 20170407115857
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io.wcm.caconfig.editor.package:
+    lastUpdated: 20170407115858
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io.wcm.caconfig.editor.parent:
+    lastUpdated: 20170407115858
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io.wcm.caconfig.extensions:
+    lastUpdated: 20170404102808
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.caconfig.parent:
+    lastUpdated: 20170407115357
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.2
+  io.wcm.config.api:
+    lastUpdated: 20160429153032
+    latest: 0.5.6
+    release: 0.5.6
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+  io.wcm.config.core:
+    lastUpdated: 20170208213021
+    latest: 0.6.4
+    release: 0.6.4
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.6.0
+      - 0.6.2
+      - 0.6.4
+  io.wcm.config.editor:
+    lastUpdated: 20170208213039
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+      - 0.6.0
+      - 0.6.2
+      - 0.6.4
+      - 0.7.0
+  io.wcm.config.parent:
+    lastUpdated: 20170208213001
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+      - 0.5.8
+  io.wcm.dam.asset-service:
+    lastUpdated: 20170404133524
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  io.wcm.dam.parent:
+    lastUpdated: 20170404133431
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+  io.wcm.handler.commons:
+    lastUpdated: 20170404132535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 1.0.0
+  io.wcm.handler.link:
+    lastUpdated: 20170404132741
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.2
+      - 0.8.4
+      - 1.0.0
+  io.wcm.handler.media:
+    lastUpdated: 20170404132704
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.2
+      - 0.7.0
+      - 0.7.2
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.10.2
+      - 0.10.4
+      - 1.0.0
+  io.wcm.handler.parent:
+    lastUpdated: 20170404132501
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+      - 0.5.8
+      - 0.5.10
+      - 0.5.12
+      - 1.0.0
+  io.wcm.handler.richtext:
+    lastUpdated: 20170404132837
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.6.0
+      - 0.6.2
+      - 1.0.0
+  io.wcm.handler.url:
+    lastUpdated: 20170404132620
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.2
+      - 0.7.0
+      - 0.8.0
+      - 0.8.2
+      - 1.0.0
+  io.wcm.parent_toplevel:
+    lastUpdated: 20170404085415
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.6
+      - 1.0.8
+      - 1.0.10
+      - 1.1.0
+      - 1.2.0
+  io.wcm.sling.commons:
+    lastUpdated: 20170404095427
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.2
+      - 0.6.4
+      - 1.0.0
+  io.wcm.sling.models:
+    lastUpdated: 20170404095447
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+  io.wcm.sling.parent:
+    lastUpdated: 20170404095409
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+      - 1.0.6
+      - 1.0.8
+      - 1.0.10
+      - 1.0.12
+      - 1.1.0
+  io.wcm.testing.aem-mock:
+    lastUpdated: 20170404093611
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.2
+      - 1.2.4
+      - 1.2.6
+      - 1.3.0
+      - 1.3.2
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.2
+      - 1.6.4
+      - 1.7.0
+      - 1.8.0
+      - 1.8.2
+      - 1.9.0
+      - 1.9.2
+      - 2.0.0
+      - 2.0.2
+      - 2.1.0
+      - 2.2.0
+      - 2.2.2
+  io.wcm.testing.jcr-mock:
+    lastUpdated: 20141002114340
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+  io.wcm.testing.junit-commons:
+    lastUpdated: 20151016083622
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+  io.wcm.testing.logging-mock:
+    lastUpdated: 20140912193328
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.testing.osgi-mock:
+    lastUpdated: 20141002114326
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.2
+  io.wcm.testing.parent:
+    lastUpdated: 20170404093549
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.6
+      - 1.0.8
+      - 1.0.10
+      - 1.0.12
+      - 1.0.14
+      - 1.1.0
+  io.wcm.testing.sling-mock:
+    lastUpdated: 20141002114353
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  io.wcm.testing.sling-mock-resolvertype.jackrabbit:
+    lastUpdated: 20140919121159
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.testing.sling-mock-resolvertype.resourceresolver-mock:
+    lastUpdated: 20140929200003
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  io.wcm.testing.wcm-io-mock.caconfig:
+    lastUpdated: 20170404102842
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.testing.wcm-io-mock.caconfig-compat:
+    lastUpdated: 20170404102859
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  io.wcm.testing.wcm-io-mock.config:
+    lastUpdated: 20170208211909
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+  io.wcm.testing.wcm-io-mock.handler:
+    lastUpdated: 20170404132736
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.6.0
+      - 1.0.0
+  io.wcm.testing.wcm-io-mock.sling:
+    lastUpdated: 20170404100131
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 1.0.0
+  io.wcm.tooling.parent:
+    lastUpdated: 20170208221939
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+      - 1.0.6
+  io.wcm.wcm.commons:
+    lastUpdated: 20170404101025
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+      - 0.6.0
+      - 0.6.2
+      - 1.0.0
+  io.wcm.wcm.parent:
+    lastUpdated: 20170404100112
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.5.6
+      - 1.0.0
+  io.wcm.wcm.parsys:
+    lastUpdated: 20170404101044
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 0.5.4
+      - 0.6.2
+      - 1.0.0
+  io.wcm.wcm.ui.extjs:
+    lastUpdated: 20170404101104
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.5.2
+      - 1.0.0
+  io.wcm.wcm.ui.granite:
+    lastUpdated: 20170407131247
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.2
+      - 1.0.0
+      - 1.0.2
+      - 1.0.4
+

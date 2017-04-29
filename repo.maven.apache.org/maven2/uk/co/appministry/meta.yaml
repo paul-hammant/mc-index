@@ -1,0 +1,62 @@
+artifacts:
+  akka-zk_2.11:
+    lastUpdated: 20170226202721
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  akka-zk_2.12:
+    lastUpdated: 20170226202722
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scathon-client_2.11:
+    lastUpdated: 20170210221458
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  scathon-client_2.12:
+    lastUpdated: 20170210221459
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  scathon-models_2.11:
+    lastUpdated: 20170210221459
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  scathon-models_2.12:
+    lastUpdated: 20170210221500
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  scathon-testserver_2.11:
+    lastUpdated: 20170210221501
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  scathon-testserver_2.12:
+    lastUpdated: 20170210221501
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+

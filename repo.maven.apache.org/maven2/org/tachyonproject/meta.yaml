@@ -1,0 +1,205 @@
+artifacts:
+  tachyon:
+    lastUpdated: 20150416232136
+    latest: 0.6.4
+    release: 0.6.4
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.1-thrift
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+  tachyon-assemblies:
+    lastUpdated: 20151111232849
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-client:
+    lastUpdated: 20151111232849
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-client-unshaded:
+    lastUpdated: 20151111232850
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-clients:
+    lastUpdated: 20151111232850
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-common:
+    lastUpdated: 20151111232850
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-examples:
+    lastUpdated: 20151111232851
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-integration-tests:
+    lastUpdated: 20151111232851
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-minicluster:
+    lastUpdated: 20151111232852
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-parent:
+    lastUpdated: 20151111232852
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-servers:
+    lastUpdated: 20151111232852
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-shell:
+    lastUpdated: 20151111232853
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs:
+    lastUpdated: 20151111232853
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs-glusterfs:
+    lastUpdated: 20151111232854
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs-hdfs:
+    lastUpdated: 20151111232854
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs-local:
+    lastUpdated: 20151111232854
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs-s3:
+    lastUpdated: 20151111232855
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  tachyon-underfs-swift:
+    lastUpdated: 20151111232856
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+

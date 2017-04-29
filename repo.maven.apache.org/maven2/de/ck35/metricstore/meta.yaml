@@ -1,0 +1,48 @@
+artifacts:
+  metricstore-api:
+    lastUpdated: 20150818171845
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  metricstore-benchmark:
+    lastUpdated: 20150703163715
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  metricstore-fs:
+    lastUpdated: 20150818171845
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  metricstore-nonpersistent:
+    lastUpdated: 20150818171845
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  metricstore-pom:
+    lastUpdated: 20150818171845
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+  metricstore-util:
+    lastUpdated: 20150818171846
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+

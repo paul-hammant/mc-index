@@ -1,0 +1,6465 @@
+artifacts:
+  amqp_2.10:
+    lastUpdated: 20130406072248
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  amqp_2.5_2.10:
+    lastUpdated: 20130511095428
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  amqp_2.5_2.9.1:
+    lastUpdated: 20130511095429
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  amqp_2.5_2.9.1-1:
+    lastUpdated: 20130511095429
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  amqp_2.5_2.9.2:
+    lastUpdated: 20130511095430
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  amqp_2.6_2.10:
+    lastUpdated: 20131025121637
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  amqp_2.6_2.9.1:
+    lastUpdated: 20131025121638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  amqp_2.6_2.9.1-1:
+    lastUpdated: 20131025121638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  amqp_2.6_2.9.2:
+    lastUpdated: 20131025121638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  amqp_2.9.1:
+    lastUpdated: 20130406072249
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  amqp_2.9.1-1:
+    lastUpdated: 20130406072250
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  amqp_2.9.2:
+    lastUpdated: 20130406072251
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  amqp_3.0_2.11:
+    lastUpdated: 20161219205413
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  amqp_3.0_2.12:
+    lastUpdated: 20161219205413
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  aws-sns_2.10:
+    lastUpdated: 20130406092528
+    latest: 2.5-RC4-1.0.2
+    release: 2.5-RC4-1.0.2
+    versions:
+      - 2.5-M4-1.0.2
+      - 2.5-RC1-1.0.2
+      - 2.5-RC2-1.0.2
+      - 2.5-RC4-1.0.2
+  aws-sns_2.5_2.10:
+    lastUpdated: 20130407184021
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.5_2.9.1:
+    lastUpdated: 20130407184021
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.5_2.9.1-1:
+    lastUpdated: 20130407184021
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.5_2.9.2:
+    lastUpdated: 20130407184022
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.6_2.10:
+    lastUpdated: 20141219183422
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+  aws-sns_2.6_2.11:
+    lastUpdated: 20141219183422
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  aws-sns_2.6_2.9.1:
+    lastUpdated: 20131022130409
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.6_2.9.2:
+    lastUpdated: 20131022130410
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  aws-sns_2.9.1:
+    lastUpdated: 20130406092529
+    latest: 2.5-RC4-1.0.2
+    release: 2.5-RC4-1.0.2
+    versions:
+      - 2.5-M4-1.0.2
+      - 2.5-RC1-1.0.2
+      - 2.5-RC2-1.0.2
+      - 2.5-RC4-1.0.2
+  aws-sns_2.9.1-1:
+    lastUpdated: 20130406092530
+    latest: 2.5-RC4-1.0.2
+    release: 2.5-RC4-1.0.2
+    versions:
+      - 2.5-RC1-1.0.2
+      - 2.5-RC2-1.0.2
+      - 2.5-RC4-1.0.2
+  aws-sns_2.9.2:
+    lastUpdated: 20130406092532
+    latest: 2.5-RC4-1.0.2
+    release: 2.5-RC4-1.0.2
+    versions:
+      - 2.5-M4-1.0.2
+      - 2.5-RC1-1.0.2
+      - 2.5-RC2-1.0.2
+      - 2.5-RC4-1.0.2
+  extras_2-6_2.10:
+    lastUpdated: 20150311172841
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  extras_2-6_2.11:
+    lastUpdated: 20150311172842
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  extras_2-6_2.9.2:
+    lastUpdated: 20150311172843
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  extras_2.5_2.10:
+    lastUpdated: 20131122194444
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_2.5_2.9.1:
+    lastUpdated: 20131122194444
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_2.5_2.9.1-1:
+    lastUpdated: 20131122194444
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_2.5_2.9.2:
+    lastUpdated: 20131122194445
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_2.6_2.10:
+    lastUpdated: 20131122194445
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_2.6_2.9.1:
+    lastUpdated: 20131122194445
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  extras_2.6_2.9.1-1:
+    lastUpdated: 20131122194446
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  extras_2.6_2.9.2:
+    lastUpdated: 20131122194446
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_3.0_2.10:
+    lastUpdated: 20131122194446
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  extras_3.0_2.11:
+    lastUpdated: 20170105201613
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.6
+      - 1.0.0
+      - 0.6
+  extras_3.0_2.12:
+    lastUpdated: 20170105201614
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.6
+      - 1.0.0
+      - 0.6
+  facebook_2.10:
+    lastUpdated: 20130406072252
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  facebook_2.5_2.10:
+    lastUpdated: 20130411085225
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  facebook_2.5_2.9.1:
+    lastUpdated: 20130411085225
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  facebook_2.5_2.9.1-1:
+    lastUpdated: 20130411085226
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  facebook_2.5_2.9.2:
+    lastUpdated: 20130411085226
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  facebook_2.6_2.10:
+    lastUpdated: 20131106143954
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  facebook_2.6_2.9.1:
+    lastUpdated: 20131106143954
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  facebook_2.6_2.9.1-1:
+    lastUpdated: 20131106143955
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  facebook_2.6_2.9.2:
+    lastUpdated: 20131106143955
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  facebook_2.9.1:
+    lastUpdated: 20130406072253
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  facebook_2.9.1-1:
+    lastUpdated: 20130406072254
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  facebook_2.9.2:
+    lastUpdated: 20130406072254
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  fobo-angularjs-api_2.6_2.10:
+    lastUpdated: 20161004175809
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_2.6_2.11:
+    lastUpdated: 20161004175809
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_2.6_2.9.1:
+    lastUpdated: 20161004175809
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175810
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_2.6_2.9.2:
+    lastUpdated: 20161004175810
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_3.0_2.11:
+    lastUpdated: 20161004175810
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-api_3.0_2.12:
+    lastUpdated: 20161217132415
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-angularjs-res_2.6_2.10:
+    lastUpdated: 20161004175811
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_2.6_2.11:
+    lastUpdated: 20161004175812
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_2.6_2.9.1:
+    lastUpdated: 20161004175812
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175813
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_2.6_2.9.2:
+    lastUpdated: 20161004175813
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_3.0_2.11:
+    lastUpdated: 20161004175814
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-angularjs-res_3.0_2.12:
+    lastUpdated: 20161217132416
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-angularjs_2.5_2.10:
+    lastUpdated: 20140715211232
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-angularjs_2.5_2.9.1:
+    lastUpdated: 20140715211233
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-angularjs_2.5_2.9.1-1:
+    lastUpdated: 20140715211242
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-angularjs_2.5_2.9.2:
+    lastUpdated: 20140715211250
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-angularjs_2.6_2.10:
+    lastUpdated: 20161004175815
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_2.6_2.11:
+    lastUpdated: 20161004175815
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_2.6_2.9.1:
+    lastUpdated: 20161004175815
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_2.6_2.9.1-1:
+    lastUpdated: 20161004175816
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_2.6_2.9.2:
+    lastUpdated: 20161004175816
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_3.0_2.10:
+    lastUpdated: 20140715211406
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-angularjs_3.0_2.11:
+    lastUpdated: 20161004175816
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-angularjs_3.0_2.12:
+    lastUpdated: 20161217132416
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-api_2.6_2.10:
+    lastUpdated: 20161004175817
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_2.6_2.11:
+    lastUpdated: 20161004175817
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_2.6_2.9.1:
+    lastUpdated: 20161004175817
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175818
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_2.6_2.9.2:
+    lastUpdated: 20161004175818
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_3.0_2.11:
+    lastUpdated: 20161004175819
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-api_3.0_2.12:
+    lastUpdated: 20161217132417
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-datatables_2.5_2.10:
+    lastUpdated: 20140715211412
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.5_2.9.1:
+    lastUpdated: 20140715211415
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.5_2.9.1-1:
+    lastUpdated: 20140715211421
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.5_2.9.2:
+    lastUpdated: 20140715211428
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.6_2.10:
+    lastUpdated: 20140715211433
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.6_2.11:
+    lastUpdated: 20140715211437
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-datatables_2.6_2.9.1:
+    lastUpdated: 20140715211441
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.6_2.9.1-1:
+    lastUpdated: 20140715211442
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_2.6_2.9.2:
+    lastUpdated: 20140715211444
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-datatables_3.0_2.10:
+    lastUpdated: 20140715211445
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome-res_2.6_2.10:
+    lastUpdated: 20161004175819
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_2.6_2.11:
+    lastUpdated: 20161004175820
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_2.6_2.9.1:
+    lastUpdated: 20161004175820
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175821
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_2.6_2.9.2:
+    lastUpdated: 20161004175821
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_3.0_2.11:
+    lastUpdated: 20161004175821
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-font-awesome-res_3.0_2.12:
+    lastUpdated: 20161217132417
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-font-awesome_2.5_2.10:
+    lastUpdated: 20140715211450
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome_2.5_2.9.1:
+    lastUpdated: 20140715211458
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome_2.5_2.9.1-1:
+    lastUpdated: 20140715211459
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome_2.5_2.9.2:
+    lastUpdated: 20140715211506
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome_2.6_2.10:
+    lastUpdated: 20161004175822
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_2.6_2.11:
+    lastUpdated: 20161004175822
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_2.6_2.9.1:
+    lastUpdated: 20161004175823
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_2.6_2.9.1-1:
+    lastUpdated: 20161004175823
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_2.6_2.9.2:
+    lastUpdated: 20161004175824
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_3.0_2.10:
+    lastUpdated: 20140715211530
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-font-awesome_3.0_2.11:
+    lastUpdated: 20161004175824
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-font-awesome_3.0_2.12:
+    lastUpdated: 20161217132418
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-foundation_2.5_2.10:
+    lastUpdated: 20140715211538
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.5_2.9.1:
+    lastUpdated: 20140715211542
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.5_2.9.1-1:
+    lastUpdated: 20140715211543
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.5_2.9.2:
+    lastUpdated: 20140715211552
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.6_2.10:
+    lastUpdated: 20140715211554
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.6_2.11:
+    lastUpdated: 20140715211557
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-foundation_2.6_2.9.1:
+    lastUpdated: 20140715211559
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.6_2.9.1-1:
+    lastUpdated: 20140715211603
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_2.6_2.9.2:
+    lastUpdated: 20140715211606
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-foundation_3.0_2.10:
+    lastUpdated: 20140715211613
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify-res_2.6_2.10:
+    lastUpdated: 20161004175824
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_2.6_2.11:
+    lastUpdated: 20161004175825
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_2.6_2.9.1:
+    lastUpdated: 20161004175826
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175826
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_2.6_2.9.2:
+    lastUpdated: 20161004175826
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_3.0_2.11:
+    lastUpdated: 20161004175827
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify-res_3.0_2.12:
+    lastUpdated: 20161217132418
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-google-code-prettify_2.5_2.10:
+    lastUpdated: 20140715211626
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify_2.5_2.9.1:
+    lastUpdated: 20140715211629
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify_2.5_2.9.1-1:
+    lastUpdated: 20140715211634
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify_2.5_2.9.2:
+    lastUpdated: 20140715211643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify_2.6_2.10:
+    lastUpdated: 20161004175827
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_2.6_2.11:
+    lastUpdated: 20161004175827
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_2.6_2.9.1:
+    lastUpdated: 20161004175828
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_2.6_2.9.1-1:
+    lastUpdated: 20161004175828
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_2.6_2.9.2:
+    lastUpdated: 20161004175829
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_3.0_2.10:
+    lastUpdated: 20140715211712
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-google-code-prettify_3.0_2.11:
+    lastUpdated: 20161004175829
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-google-code-prettify_3.0_2.12:
+    lastUpdated: 20161217132418
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-highlightjs-api_2.6_2.10:
+    lastUpdated: 20161004175830
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_2.6_2.11:
+    lastUpdated: 20161004175830
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_2.6_2.9.1:
+    lastUpdated: 20161004175831
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175831
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_2.6_2.9.2:
+    lastUpdated: 20161004175832
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_3.0_2.11:
+    lastUpdated: 20161004175832
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-api_3.0_2.12:
+    lastUpdated: 20161217132419
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-highlightjs-res_2.6_2.10:
+    lastUpdated: 20161004175833
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_2.6_2.11:
+    lastUpdated: 20161004175833
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_2.6_2.9.1:
+    lastUpdated: 20161004175834
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175834
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_2.6_2.9.2:
+    lastUpdated: 20161004175835
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_3.0_2.11:
+    lastUpdated: 20161004175835
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs-res_3.0_2.12:
+    lastUpdated: 20161217132419
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-highlightjs_2.6_2.10:
+    lastUpdated: 20161004175836
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_2.6_2.11:
+    lastUpdated: 20161004175836
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_2.6_2.9.1:
+    lastUpdated: 20161004175837
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_2.6_2.9.1-1:
+    lastUpdated: 20161004175837
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_2.6_2.9.2:
+    lastUpdated: 20161004175838
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_3.0_2.11:
+    lastUpdated: 20161004175838
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-highlightjs_3.0_2.12:
+    lastUpdated: 20161217132420
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-jquery-api_2.6_2.10:
+    lastUpdated: 20161004175838
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_2.6_2.11:
+    lastUpdated: 20161004175839
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_2.6_2.9.1:
+    lastUpdated: 20161004175839
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175839
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_2.6_2.9.2:
+    lastUpdated: 20161004175840
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_3.0_2.11:
+    lastUpdated: 20161004175840
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-api_3.0_2.12:
+    lastUpdated: 20161217132420
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-jquery-mobile_2.5_2.10:
+    lastUpdated: 20140715211718
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.5_2.9.1:
+    lastUpdated: 20140715211721
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.5_2.9.1-1:
+    lastUpdated: 20140715211726
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.5_2.9.2:
+    lastUpdated: 20140715211731
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.6_2.10:
+    lastUpdated: 20140715211737
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.6_2.11:
+    lastUpdated: 20140715211739
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-jquery-mobile_2.6_2.9.1:
+    lastUpdated: 20140715211740
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.6_2.9.1-1:
+    lastUpdated: 20140715211746
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_2.6_2.9.2:
+    lastUpdated: 20140715211751
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-mobile_3.0_2.10:
+    lastUpdated: 20140715211752
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery-res_2.6_2.10:
+    lastUpdated: 20161004175840
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_2.6_2.11:
+    lastUpdated: 20161004175841
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_2.6_2.9.1:
+    lastUpdated: 20161004175841
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175842
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_2.6_2.9.2:
+    lastUpdated: 20161004175842
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_3.0_2.11:
+    lastUpdated: 20161004175843
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-jquery-res_3.0_2.12:
+    lastUpdated: 20161217132421
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-jquery_2.5_2.10:
+    lastUpdated: 20140715211759
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery_2.5_2.9.1:
+    lastUpdated: 20140715211803
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery_2.5_2.9.1-1:
+    lastUpdated: 20140715211806
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery_2.5_2.9.2:
+    lastUpdated: 20140715211807
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery_2.6_2.10:
+    lastUpdated: 20161004175843
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_2.6_2.11:
+    lastUpdated: 20161004175844
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_2.6_2.9.1:
+    lastUpdated: 20161004175844
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_2.6_2.9.1-1:
+    lastUpdated: 20161004175844
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_2.6_2.9.2:
+    lastUpdated: 20161004175845
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_3.0_2.10:
+    lastUpdated: 20140715211836
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-jquery_3.0_2.11:
+    lastUpdated: 20161004175846
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-jquery_3.0_2.12:
+    lastUpdated: 20161217132421
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-kineticjs-res_2.6_2.10:
+    lastUpdated: 20161004175846
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_2.6_2.11:
+    lastUpdated: 20161004175846
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_2.6_2.9.1:
+    lastUpdated: 20161004175847
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175847
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_2.6_2.9.2:
+    lastUpdated: 20161004175848
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_3.0_2.11:
+    lastUpdated: 20161004175848
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-kineticjs-res_3.0_2.12:
+    lastUpdated: 20161217132421
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-kineticjs_2.5_2.10:
+    lastUpdated: 20140715211840
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-kineticjs_2.5_2.9.1:
+    lastUpdated: 20140715211848
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-kineticjs_2.5_2.9.1-1:
+    lastUpdated: 20140715211849
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-kineticjs_2.5_2.9.2:
+    lastUpdated: 20140715211859
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-kineticjs_2.6_2.10:
+    lastUpdated: 20161004175849
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_2.6_2.11:
+    lastUpdated: 20161004175849
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_2.6_2.9.1:
+    lastUpdated: 20161004175850
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_2.6_2.9.1-1:
+    lastUpdated: 20161004175850
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_2.6_2.9.2:
+    lastUpdated: 20161004175850
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_3.0_2.10:
+    lastUpdated: 20140715211919
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-kineticjs_3.0_2.11:
+    lastUpdated: 20161004175851
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-kineticjs_3.0_2.12:
+    lastUpdated: 20161217132422
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-knockout_2.5_2.10:
+    lastUpdated: 20140715211923
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.5_2.9.1:
+    lastUpdated: 20140715211929
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.5_2.9.1-1:
+    lastUpdated: 20140715211941
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.5_2.9.2:
+    lastUpdated: 20140715211948
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.6_2.10:
+    lastUpdated: 20140715211951
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.6_2.11:
+    lastUpdated: 20140715211957
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  fobo-knockout_2.6_2.9.1:
+    lastUpdated: 20140715212003
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.6_2.9.1-1:
+    lastUpdated: 20140715212009
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_2.6_2.9.2:
+    lastUpdated: 20140715212011
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-knockout_3.0_2.10:
+    lastUpdated: 20140715212020
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-pace-res_2.6_2.10:
+    lastUpdated: 20161004175852
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_2.6_2.11:
+    lastUpdated: 20161004175852
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_2.6_2.9.1:
+    lastUpdated: 20161004175853
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175853
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_2.6_2.9.2:
+    lastUpdated: 20161004175854
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_3.0_2.11:
+    lastUpdated: 20161004175854
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-pace-res_3.0_2.12:
+    lastUpdated: 20161217132422
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-pace_2.5_2.10:
+    lastUpdated: 20140715212029
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  fobo-pace_2.5_2.9.1:
+    lastUpdated: 20140715212035
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  fobo-pace_2.5_2.9.1-1:
+    lastUpdated: 20140715212041
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  fobo-pace_2.5_2.9.2:
+    lastUpdated: 20140715212045
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  fobo-pace_2.6_2.10:
+    lastUpdated: 20161004175854
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_2.6_2.11:
+    lastUpdated: 20161004175855
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_2.6_2.9.1:
+    lastUpdated: 20161004175856
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_2.6_2.9.1-1:
+    lastUpdated: 20161004175856
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_2.6_2.9.2:
+    lastUpdated: 20161004175856
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_3.0_2.10:
+    lastUpdated: 20140715212115
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.2
+      - 1.3
+  fobo-pace_3.0_2.11:
+    lastUpdated: 20161004175857
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-pace_3.0_2.12:
+    lastUpdated: 20161217132423
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twbs-bootstrap3-api_2.6_2.10:
+    lastUpdated: 20161004175857
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_2.6_2.11:
+    lastUpdated: 20161004175858
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_2.6_2.9.1:
+    lastUpdated: 20161004175858
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175859
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_2.6_2.9.2:
+    lastUpdated: 20161004175859
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_3.0_2.11:
+    lastUpdated: 20161004175900
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-api_3.0_2.12:
+    lastUpdated: 20161217132423
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twbs-bootstrap3-res_2.6_2.10:
+    lastUpdated: 20161004175900
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_2.6_2.11:
+    lastUpdated: 20161004175901
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_2.6_2.9.1:
+    lastUpdated: 20161004175901
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175902
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_2.6_2.9.2:
+    lastUpdated: 20161004175903
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_3.0_2.11:
+    lastUpdated: 20161004175903
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3-res_3.0_2.12:
+    lastUpdated: 20161217132424
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twbs-bootstrap3_2.5_2.10:
+    lastUpdated: 20140715212121
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twbs-bootstrap3_2.5_2.9.1:
+    lastUpdated: 20140715212127
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twbs-bootstrap3_2.5_2.9.1-1:
+    lastUpdated: 20140715212133
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twbs-bootstrap3_2.5_2.9.2:
+    lastUpdated: 20140715212138
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twbs-bootstrap3_2.6_2.10:
+    lastUpdated: 20161004175903
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_2.6_2.11:
+    lastUpdated: 20161004175904
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_2.6_2.9.1:
+    lastUpdated: 20161004175905
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_2.6_2.9.1-1:
+    lastUpdated: 20161004175905
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_2.6_2.9.2:
+    lastUpdated: 20161004175905
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_3.0_2.10:
+    lastUpdated: 20140715212207
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twbs-bootstrap3_3.0_2.11:
+    lastUpdated: 20161004175906
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twbs-bootstrap3_3.0_2.12:
+    lastUpdated: 20161217132424
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twitter-bootstrap-api_2.6_2.10:
+    lastUpdated: 20161004175906
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_2.6_2.11:
+    lastUpdated: 20161004175907
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_2.6_2.9.1:
+    lastUpdated: 20161004175908
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_2.6_2.9.1-1:
+    lastUpdated: 20161004175908
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_2.6_2.9.2:
+    lastUpdated: 20161004175908
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_3.0_2.11:
+    lastUpdated: 20161004175909
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-api_3.0_2.12:
+    lastUpdated: 20161217132424
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twitter-bootstrap-res_2.6_2.10:
+    lastUpdated: 20161004175909
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_2.6_2.11:
+    lastUpdated: 20161004175909
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_2.6_2.9.1:
+    lastUpdated: 20161004175910
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_2.6_2.9.1-1:
+    lastUpdated: 20161004175910
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_2.6_2.9.2:
+    lastUpdated: 20161004175911
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_3.0_2.11:
+    lastUpdated: 20161004175911
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap-res_3.0_2.12:
+    lastUpdated: 20161217132425
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo-twitter-bootstrap_2.5_2.10:
+    lastUpdated: 20140715212216
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twitter-bootstrap_2.5_2.9.1:
+    lastUpdated: 20140715212224
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twitter-bootstrap_2.5_2.9.1-1:
+    lastUpdated: 20140715212231
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twitter-bootstrap_2.5_2.9.2:
+    lastUpdated: 20140715212232
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twitter-bootstrap_2.6_2.10:
+    lastUpdated: 20161004175911
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_2.6_2.11:
+    lastUpdated: 20161004175912
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_2.6_2.9.1:
+    lastUpdated: 20161004175913
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_2.6_2.9.1-1:
+    lastUpdated: 20161004175913
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_2.6_2.9.2:
+    lastUpdated: 20161004175913
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_3.0_2.10:
+    lastUpdated: 20140715212258
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo-twitter-bootstrap_3.0_2.11:
+    lastUpdated: 20161004175914
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo-twitter-bootstrap_3.0_2.12:
+    lastUpdated: 20161217132425
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  fobo_2.5_2.10:
+    lastUpdated: 20140715212259
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo_2.5_2.9.1:
+    lastUpdated: 20140715212300
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo_2.5_2.9.1-1:
+    lastUpdated: 20140715212301
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo_2.5_2.9.2:
+    lastUpdated: 20140715212302
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo_2.6_2.10:
+    lastUpdated: 20161004175914
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_2.6_2.11:
+    lastUpdated: 20161004175914
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_2.6_2.9.1:
+    lastUpdated: 20161004175915
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_2.6_2.9.1-1:
+    lastUpdated: 20161004175915
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_2.6_2.9.2:
+    lastUpdated: 20161004175916
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_3.0_2.10:
+    lastUpdated: 20140715212308
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3-M1
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  fobo_3.0_2.11:
+    lastUpdated: 20161004175916
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.7
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  fobo_3.0_2.12:
+    lastUpdated: 20161217132426
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  google-analytics_2.10:
+    lastUpdated: 20130406092533
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  google-analytics_2.5_2.10:
+    lastUpdated: 20130407184022
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.5_2.9.1:
+    lastUpdated: 20130407184022
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.5_2.9.1-1:
+    lastUpdated: 20130407184022
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.5_2.9.2:
+    lastUpdated: 20130407184023
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.6_2.10:
+    lastUpdated: 20131022112723
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.6_2.9.1:
+    lastUpdated: 20131022112724
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.6_2.9.1-1:
+    lastUpdated: 20131022112725
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.6_2.9.2:
+    lastUpdated: 20131022112728
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  google-analytics_2.8.1:
+    lastUpdated: 20120705131234
+    latest: 2.4-1.0
+    release: 2.4-1.0
+    versions:
+      - 2.4-1.0
+  google-analytics_2.9.0-1:
+    lastUpdated: 20120705131233
+    latest: 2.4-1.0
+    release: 2.4-1.0
+    versions:
+      - 2.4-1.0
+  google-analytics_2.9.1:
+    lastUpdated: 20130406092533
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.4-1.0
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  google-analytics_2.9.1-1:
+    lastUpdated: 20130406092534
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  google-analytics_2.9.2:
+    lastUpdated: 20130406092536
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  google-maps_2.10:
+    lastUpdated: 20130406092537
+    latest: 2.5-RC4-0.13
+    release: 2.5-RC4-0.13
+    versions:
+      - 2.5-M4-0.13
+      - 2.5-RC1-0.13
+      - 2.5-RC2-0.13
+      - 2.5-RC4-0.13
+  google-maps_2.5_2.10:
+    lastUpdated: 20130407184023
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.5_2.9.1:
+    lastUpdated: 20130407184023
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.5_2.9.1-1:
+    lastUpdated: 20130407184024
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.5_2.9.2:
+    lastUpdated: 20130407184024
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.6_2.10:
+    lastUpdated: 20131024140746
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.6_2.9.1:
+    lastUpdated: 20131024140757
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.6_2.9.2:
+    lastUpdated: 20131024140820
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+      - 0.13
+  google-maps_2.9.1:
+    lastUpdated: 20130406092538
+    latest: 2.5-RC4-0.13
+    release: 2.5-RC4-0.13
+    versions:
+      - 2.5-M4-0.13
+      - 2.5-RC1-0.13
+      - 2.5-RC2-0.13
+      - 2.5-RC4-0.13
+  google-maps_2.9.1-1:
+    lastUpdated: 20130406092539
+    latest: 2.5-RC4-0.13
+    release: 2.5-RC4-0.13
+    versions:
+      - 2.5-RC1-0.13
+      - 2.5-RC2-0.13
+      - 2.5-RC4-0.13
+  google-maps_2.9.2:
+    lastUpdated: 20130406092540
+    latest: 2.5-RC4-0.13
+    release: 2.5-RC4-0.13
+    versions:
+      - 2.5-M4-0.13
+      - 2.5-RC1-0.13
+      - 2.5-RC2-0.13
+      - 2.5-RC4-0.13
+  imaging_2.10:
+    lastUpdated: 20130406072255
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  imaging_2.5_2.10:
+    lastUpdated: 20140916103028
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.5_2.9.1:
+    lastUpdated: 20140916103029
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.5_2.9.1-1:
+    lastUpdated: 20140916103029
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.5_2.9.2:
+    lastUpdated: 20140916103030
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.6_2.10:
+    lastUpdated: 20140916102631
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.6_2.9.1:
+    lastUpdated: 20140916102632
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.6_2.9.1-1:
+    lastUpdated: 20140916102632
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.6_2.9.2:
+    lastUpdated: 20140916102633
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  imaging_2.9.1:
+    lastUpdated: 20130406072256
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  imaging_2.9.1-1:
+    lastUpdated: 20130406072258
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  imaging_2.9.2:
+    lastUpdated: 20130406072258
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  imaging_3.0_2.11:
+    lastUpdated: 20161222210425
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  imaging_3.0_2.12:
+    lastUpdated: 20161222210425
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  imap-idle_2.10:
+    lastUpdated: 20130406092541
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  imap-idle_2.5_2.10:
+    lastUpdated: 20130407184024
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  imap-idle_2.5_2.9.1:
+    lastUpdated: 20130407184024
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  imap-idle_2.5_2.9.1-1:
+    lastUpdated: 20130407184024
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  imap-idle_2.5_2.9.2:
+    lastUpdated: 20130407184025
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  imap-idle_2.6_2.10:
+    lastUpdated: 20131022134015
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  imap-idle_2.9.1:
+    lastUpdated: 20130406092542
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  imap-idle_2.9.1-1:
+    lastUpdated: 20130406092543
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  imap-idle_2.9.2:
+    lastUpdated: 20130406092544
+    latest: 2.5-RC4-1.0
+    release: 2.5-RC4-1.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-1.0
+      - 2.5-RC1-1.0
+      - 2.5-RC2-1.0
+      - 2.5-RC4-1.0
+  jta_2.10:
+    lastUpdated: 20130406072300
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  jta_2.5_2.10:
+    lastUpdated: 20130411085230
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.5_2.9.1:
+    lastUpdated: 20130411085231
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.5_2.9.1-1:
+    lastUpdated: 20130411085231
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.5_2.9.2:
+    lastUpdated: 20130411085233
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.6_2.10:
+    lastUpdated: 20131106143956
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.6_2.9.1:
+    lastUpdated: 20131106143956
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.6_2.9.1-1:
+    lastUpdated: 20131106143957
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.6_2.9.2:
+    lastUpdated: 20131106143957
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  jta_2.9.1:
+    lastUpdated: 20130406072301
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  jta_2.9.1-1:
+    lastUpdated: 20130406072302
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  jta_2.9.2:
+    lastUpdated: 20130406072303
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  lift-couchdb_2.10:
+    lastUpdated: 20130406072304
+    latest: 2.5-RC4-1.1
+    release: 2.5-RC4-1.1
+    versions:
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.1
+      - 2.5-RC2-1.1
+      - 2.5-RC4-1.1
+  lift-couchdb_2.5_2.10:
+    lastUpdated: 20130411085233
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lift-couchdb_2.5_2.9.1:
+    lastUpdated: 20130411085234
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lift-couchdb_2.5_2.9.1-1:
+    lastUpdated: 20130411085234
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lift-couchdb_2.5_2.9.2:
+    lastUpdated: 20130411085236
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  lift-couchdb_2.6_2.10:
+    lastUpdated: 20131106143957
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  lift-couchdb_2.6_2.9.1:
+    lastUpdated: 20131106143958
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  lift-couchdb_2.6_2.9.1-1:
+    lastUpdated: 20131106143958
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  lift-couchdb_2.6_2.9.2:
+    lastUpdated: 20131106143959
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  lift-couchdb_2.9.1:
+    lastUpdated: 20130406072305
+    latest: 2.5-RC4-1.1
+    release: 2.5-RC4-1.1
+    versions:
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.1
+      - 2.5-RC2-1.1
+      - 2.5-RC4-1.1
+  lift-couchdb_2.9.1-1:
+    lastUpdated: 20130406072306
+    latest: 2.5-RC4-1.1
+    release: 2.5-RC4-1.1
+    versions:
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.1
+      - 2.5-RC2-1.1
+      - 2.5-RC4-1.1
+  lift-couchdb_2.9.2:
+    lastUpdated: 20130406072307
+    latest: 2.5-RC4-1.1
+    release: 2.5-RC4-1.1
+    versions:
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.1
+      - 2.5-RC2-1.1
+      - 2.5-RC4-1.1
+  lift-jquery-module_2-5_2.10:
+    lastUpdated: 20140526211538
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-5_2.9.1:
+    lastUpdated: 20140526211538
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-5_2.9.1-1:
+    lastUpdated: 20140526211539
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-5_2.9.2:
+    lastUpdated: 20140526211539
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-6_2.10:
+    lastUpdated: 20140526211540
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-6_2.9.1:
+    lastUpdated: 20140526211540
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-6_2.9.1-1:
+    lastUpdated: 20140526211540
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2-6_2.9.2:
+    lastUpdated: 20140526211541
+    latest: 2.7
+    release: 2.7
+    versions:
+      - 2.7
+      - 2.7
+  lift-jquery-module_2.10:
+    lastUpdated: 20130406101115
+    latest: 2.5-RC4-2.3
+    release: 2.5-RC4-2.3
+    versions:
+      - 2.5-M4-2.1
+      - 2.5-RC1-2.2
+      - 2.5-RC2-2.2
+      - 2.5-RC4-2.3
+  lift-jquery-module_2.5_2.10:
+    lastUpdated: 20140627192350
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+  lift-jquery-module_2.5_2.9.1:
+    lastUpdated: 20140627192351
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+  lift-jquery-module_2.5_2.9.1-1:
+    lastUpdated: 20140627192352
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+  lift-jquery-module_2.5_2.9.2:
+    lastUpdated: 20140627192352
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.8
+  lift-jquery-module_2.6_2.10:
+    lastUpdated: 20160731143540
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+  lift-jquery-module_2.6_2.11:
+    lastUpdated: 20160731143540
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.8
+      - 2.9
+      - 2.1
+  lift-jquery-module_2.6_2.9.1:
+    lastUpdated: 20160731143540
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+  lift-jquery-module_2.6_2.9.1-1:
+    lastUpdated: 20160731143541
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+  lift-jquery-module_2.6_2.9.2:
+    lastUpdated: 20160731143541
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.5
+      - 2.6
+      - 2.8
+      - 2.9
+      - 2.1
+  lift-jquery-module_2.9.1:
+    lastUpdated: 20130406101116
+    latest: 2.5-SNAPSHOT-2.0
+    release: 2.5-SNAPSHOT-2.0
+    versions:
+      - 2.4-1.0
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-2.0
+      - 2.5-M4-2.1
+      - 2.5-RC1-2.2
+      - 2.5-RC2-2.2
+      - 2.5-RC4-2.3
+      - 2.5-SNAPSHOT-2.0
+  lift-jquery-module_2.9.1-1:
+    lastUpdated: 20130406101117
+    latest: 2.5-SNAPSHOT-2.0
+    release: 2.5-SNAPSHOT-2.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-2.0
+      - 2.5-M4-2.1
+      - 2.5-RC1-2.2
+      - 2.5-RC2-2.2
+      - 2.5-RC4-2.3
+      - 2.5-SNAPSHOT-2.0
+  lift-jquery-module_2.9.2:
+    lastUpdated: 20130406101117
+    latest: 2.5-SNAPSHOT-2.0
+    release: 2.5-SNAPSHOT-2.0
+    versions:
+      - 2.5-M1-1.0
+      - 2.5-M2-1.0
+      - 2.5-M3-2.0
+      - 2.5-M4-2.1
+      - 2.5-RC1-2.2
+      - 2.5-RC2-2.2
+      - 2.5-RC4-2.3
+      - 2.5-SNAPSHOT-2.0
+  lift-jquery-module_3.0_2.10:
+    lastUpdated: 20140627192356
+    latest: 2.8
+    release: 2.8
+    versions:
+      - 2.5
+      - 2.6
+      - 2.7-M1
+      - 2.8
+      - 2.5
+      - 2.6
+      - 2.8
+  lift-jquery-module_3.0_2.11:
+    lastUpdated: 20160731143542
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.9
+      - 2.1
+      - 2.9
+      - 2.1
+  lift-jquery-module_3.0_2.12:
+    lastUpdated: 20161214194558
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+      - 2.1
+  machine_2.10:
+    lastUpdated: 20130406072308
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  machine_2.5_2.10:
+    lastUpdated: 20130411085237
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  machine_2.5_2.9.1:
+    lastUpdated: 20130411085238
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  machine_2.5_2.9.1-1:
+    lastUpdated: 20130411085238
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  machine_2.5_2.9.2:
+    lastUpdated: 20130411085238
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  machine_2.9.1:
+    lastUpdated: 20130406072309
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  machine_2.9.1-1:
+    lastUpdated: 20130406072309
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  machine_2.9.2:
+    lastUpdated: 20130406072310
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  machine_3.0_2.11:
+    lastUpdated: 20161223124827
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  machine_3.0_2.12:
+    lastUpdated: 20161223124827
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  messagebus_2.6_2.10:
+    lastUpdated: 20160509134233
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  messagebus_2.6_2.11:
+    lastUpdated: 20160718064816
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  messagebus_3.0_2.11:
+    lastUpdated: 20160508090847
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  mongoauth_2-6_2.10:
+    lastUpdated: 20150311185741
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.6
+      - 0.6
+  mongoauth_2-6_2.11:
+    lastUpdated: 20150311185741
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.6
+      - 0.6
+  mongoauth_2-6_2.9.2:
+    lastUpdated: 20150311185742
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.6
+      - 0.6
+  mongoauth_2.10:
+    lastUpdated: 20130406090914
+    latest: 2.5-RC4-0.4
+    release: 2.5-RC4-0.4
+    versions:
+      - 2.5-M4-0.3
+      - 2.5-RC1-0.3
+      - 2.5-RC1-0.4
+      - 2.5-RC2-0.4
+      - 2.5-RC4-0.4
+  mongoauth_2.5_2.10:
+    lastUpdated: 20130719194748
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.5_2.9.1:
+    lastUpdated: 20130719194748
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.5_2.9.1-1:
+    lastUpdated: 20130719194749
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.5_2.9.2:
+    lastUpdated: 20130719194750
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.6_2.10:
+    lastUpdated: 20130719194750
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.6_2.9.2:
+    lastUpdated: 20130719194751
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_2.9.1:
+    lastUpdated: 20130406090916
+    latest: 2.5-RC4-0.4
+    release: 2.5-RC4-0.4
+    versions:
+      - 2.5-M2-0.3
+      - 2.5-M3-0.3
+      - 2.5-M4-0.3
+      - 2.5-RC1-0.3
+      - 2.5-RC1-0.4
+      - 2.5-RC2-0.4
+      - 2.5-RC4-0.4
+  mongoauth_2.9.1-1:
+    lastUpdated: 20130406090923
+    latest: 2.5-RC4-0.4
+    release: 2.5-RC4-0.4
+    versions:
+      - 2.5-M2-0.3
+      - 2.5-M3-0.3
+      - 2.5-M4-0.3
+      - 2.5-RC1-0.3
+      - 2.5-RC1-0.4
+      - 2.5-RC2-0.4
+      - 2.5-RC4-0.4
+  mongoauth_2.9.2:
+    lastUpdated: 20130406090925
+    latest: 2.5-RC4-0.4
+    release: 2.5-RC4-0.4
+    versions:
+      - 2.5-M2-0.3
+      - 2.5-M3-0.3
+      - 2.5-M4-0.3
+      - 2.5-RC1-0.3
+      - 2.5-RC1-0.4
+      - 2.5-RC2-0.4
+      - 2.5-RC4-0.4
+  mongoauth_3.0_2.10:
+    lastUpdated: 20130719194751
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  mongoauth_3.0_2.11:
+    lastUpdated: 20161231235849
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  mongoauth_3.0_2.12:
+    lastUpdated: 20161231235850
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  ng-js_2.5_2.10:
+    lastUpdated: 20150930020434
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.5_2.9.1:
+    lastUpdated: 20150930020436
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.5_2.9.1-1:
+    lastUpdated: 20150930020437
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.5_2.9.2:
+    lastUpdated: 20150930020438
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.6_2.10:
+    lastUpdated: 20150930020440
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.6_2.11:
+    lastUpdated: 20150930020441
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.6_2.9.1:
+    lastUpdated: 20150930020442
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.6_2.9.1-1:
+    lastUpdated: 20150930020443
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_2.6_2.9.2:
+    lastUpdated: 20150930020444
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng-js_3.0_2.10:
+    lastUpdated: 20140812185958
+    latest: 0.1_1.2.22
+    release: 0.1_1.2.22
+    versions:
+      - 0.1_1.2.16
+      - 0.1_1.2.17
+      - 0.1_1.2.18
+      - 0.1_1.2.19
+      - 0.1_1.2.20
+      - 0.1_1.2.21
+      - 0.1_1.2.22
+  ng-js_3.0_2.11:
+    lastUpdated: 20150930020446
+    latest: 0.2_1.4.7
+    release: 0.2_1.4.7
+    versions:
+      - 0.1_1.2.23
+      - 0.1_1.2.24
+      - 0.1_1.2.25
+      - 0.2_1.2.25
+      - 0.2_1.2.26
+      - 0.2_1.2.27
+      - 0.2_1.2.28
+      - 0.2_1.2.29
+      - 0.2_1.3.0
+      - 0.2_1.3.1
+      - 0.2_1.3.2
+      - 0.2_1.3.3
+      - 0.2_1.3.4
+      - 0.2_1.3.5
+      - 0.2_1.3.6
+      - 0.2_1.3.7
+      - 0.2_1.3.8
+      - 0.2_1.3.9
+      - 0.2_1.3.10
+      - 0.2_1.3.11
+      - 0.2_1.3.12
+      - 0.2_1.3.13
+      - 0.2_1.3.14
+      - 0.2_1.3.15
+      - 0.2_1.3.17
+      - 0.2_1.3.18
+      - 0.2_1.3.19
+      - 0.2_1.3.20
+      - 0.2_1.4.0
+      - 0.2_1.4.1
+      - 0.2_1.4.2
+      - 0.2_1.4.3
+      - 0.2_1.4.4
+      - 0.2_1.4.5
+      - 0.2_1.4.6
+      - 0.2_1.4.7
+  ng_2.5_2.10:
+    lastUpdated: 20170412163146
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6
+  ng_2.5_2.9.1:
+    lastUpdated: 20160505114201
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  ng_2.5_2.9.1-1:
+    lastUpdated: 20140514023154
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  ng_2.5_2.9.2:
+    lastUpdated: 20160505114202
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  ng_2.6_2.10:
+    lastUpdated: 20170412163146
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6
+  ng_2.6_2.11:
+    lastUpdated: 20170412163147
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6
+  ng_2.6_2.9.1:
+    lastUpdated: 20160505114203
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  ng_2.6_2.9.1-1:
+    lastUpdated: 20140514023156
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+  ng_2.6_2.9.2:
+    lastUpdated: 20160505114204
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  ng_3.0_2.10:
+    lastUpdated: 20140818231644
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.5.0
+      - 0.5.1
+  ng_3.0_2.11:
+    lastUpdated: 20170412163147
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.5.6
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6
+  ng_3.1_2.11:
+    lastUpdated: 20170412163147
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6
+  oauth-mapper_2.10:
+    lastUpdated: 20130406072311
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth-mapper_2.5_2.10:
+    lastUpdated: 20130411085239
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth-mapper_2.5_2.9.1:
+    lastUpdated: 20130411085239
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth-mapper_2.5_2.9.1-1:
+    lastUpdated: 20130411085239
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth-mapper_2.5_2.9.2:
+    lastUpdated: 20130411085240
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth-mapper_2.9.1:
+    lastUpdated: 20130406072311
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth-mapper_2.9.1-1:
+    lastUpdated: 20130406072312
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth-mapper_2.9.2:
+    lastUpdated: 20130406072314
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth_2.10:
+    lastUpdated: 20130406064908
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth_2.5_2.10:
+    lastUpdated: 20130411085240
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth_2.5_2.9.1:
+    lastUpdated: 20130411085240
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth_2.5_2.9.1-1:
+    lastUpdated: 20130411085240
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth_2.5_2.9.2:
+    lastUpdated: 20130411085241
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  oauth_2.9.1:
+    lastUpdated: 20130406064909
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth_2.9.1-1:
+    lastUpdated: 20130406064910
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  oauth_2.9.2:
+    lastUpdated: 20130406064911
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  omniauth_2.10:
+    lastUpdated: 20130406090927
+    latest: 2.5-RC4-0.7
+    release: 2.5-RC4-0.7
+    versions:
+      - 2.5-RC1-0.7
+      - 2.5-RC2-0.7
+      - 2.5-RC4-0.7
+  omniauth_2.5_2.10:
+    lastUpdated: 20150112190832
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.5_2.9.1:
+    lastUpdated: 20150112190833
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.5_2.9.1-1:
+    lastUpdated: 20150112190834
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.5_2.9.2:
+    lastUpdated: 20150112190835
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.7
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.6_2.10:
+    lastUpdated: 20150112190836
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.6_2.11:
+    lastUpdated: 20150112190837
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.6_2.9.1:
+    lastUpdated: 20150112190838
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.6_2.9.1-1:
+    lastUpdated: 20150112190839
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.6_2.9.2:
+    lastUpdated: 20150112190841
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.17
+  omniauth_2.9.1:
+    lastUpdated: 20130406090930
+    latest: 2.5-RC4-0.7
+    release: 2.5-RC4-0.7
+    versions:
+      - 2.5-RC1-0.7
+      - 2.5-RC2-0.7
+      - 2.5-RC4-0.7
+  omniauth_2.9.1-1:
+    lastUpdated: 20130406090931
+    latest: 2.5-RC4-0.7
+    release: 2.5-RC4-0.7
+    versions:
+      - 2.5-RC1-0.7
+      - 2.5-RC2-0.7
+      - 2.5-RC4-0.7
+  omniauth_2.9.2:
+    lastUpdated: 20130406090931
+    latest: 2.5-RC4-0.7
+    release: 2.5-RC4-0.7
+    versions:
+      - 2.5-RC1-0.7
+      - 2.5-RC2-0.7
+      - 2.5-RC4-0.7
+  omniauth_3.0_2.10:
+    lastUpdated: 20140801185547
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  omniauth_3.0_2.11:
+    lastUpdated: 20150112190842
+    latest: 0.17
+    release: 0.17
+    versions:
+      - 0.16
+      - 0.17
+      - 0.16
+      - 0.17
+  openid_2.10:
+    lastUpdated: 20130406072314
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  openid_2.5_2.10:
+    lastUpdated: 20130411085241
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.5_2.9.1:
+    lastUpdated: 20130411085241
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.5_2.9.1-1:
+    lastUpdated: 20130411085244
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.5_2.9.2:
+    lastUpdated: 20130411085244
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.6_2.10:
+    lastUpdated: 20131106143959
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.6_2.9.1:
+    lastUpdated: 20131106143959
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.6_2.9.1-1:
+    lastUpdated: 20131106144000
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.6_2.9.2:
+    lastUpdated: 20131106144000
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  openid_2.9.1:
+    lastUpdated: 20130406072315
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  openid_2.9.1-1:
+    lastUpdated: 20130406072316
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  openid_2.9.2:
+    lastUpdated: 20130406072317
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.1
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  paypal_2.10:
+    lastUpdated: 20130406072318
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  paypal_2.5_2.10:
+    lastUpdated: 20130411085244
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.5_2.9.1:
+    lastUpdated: 20130411085245
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.5_2.9.1-1:
+    lastUpdated: 20130411085246
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.5_2.9.2:
+    lastUpdated: 20130411085246
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.6_2.10:
+    lastUpdated: 20170128103011
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+      - 1.2
+      - 1.3
+  paypal_2.6_2.11:
+    lastUpdated: 20170128103012
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  paypal_2.6_2.9.1:
+    lastUpdated: 20131024140836
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.6_2.9.1-1:
+    lastUpdated: 20131024140841
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.6_2.9.2:
+    lastUpdated: 20131024140847
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  paypal_2.9.1:
+    lastUpdated: 20130406072319
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  paypal_2.9.1-1:
+    lastUpdated: 20130406072320
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  paypal_2.9.2:
+    lastUpdated: 20130406072321
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  paypal_3.0_2.11:
+    lastUpdated: 20170226114413
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  paypal_3.0_2.12:
+    lastUpdated: 20170226114414
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  restrecord_2.10:
+    lastUpdated: 20130725172205
+    latest: 2.5-1.5
+    release: 2.5-1.5
+    versions:
+      - 2.5-1.5
+  salatauth_2.5_2.10:
+    lastUpdated: 20140802210155
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  salatauth_2.5_2.9.2:
+    lastUpdated: 20140802210156
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  salatauth_2.6_2.10:
+    lastUpdated: 20170129165837
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  salatauth_2.6_2.11:
+    lastUpdated: 20170129165837
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  salatauth_2.6_2.9.2:
+    lastUpdated: 20140802210157
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  salatauth_3.0_2.10:
+    lastUpdated: 20140802210210
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  salatauth_3.0_2.11:
+    lastUpdated: 20170129165837
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  scalate_2.10:
+    lastUpdated: 20130411085248
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 1.3
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+      - 1.3
+  scalate_2.6_2.10:
+    lastUpdated: 20131025121642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  scalate_2.6_2.9.1:
+    lastUpdated: 20131025121642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  scalate_2.6_2.9.1-1:
+    lastUpdated: 20131025121642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  scalate_2.6_2.9.2:
+    lastUpdated: 20131025121643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  scalate_2.9.1:
+    lastUpdated: 20130411085249
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 1.3
+      - 2.5-M1-1.1
+      - 2.5-M2-1.2
+      - 2.5-M3-1.2
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+      - 1.3
+  scalate_2.9.1-1:
+    lastUpdated: 20130411085250
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 1.3
+      - 2.5-M1-1.1
+      - 2.5-M2-1.2
+      - 2.5-M3-1.2
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+      - 1.3
+  scalate_2.9.2:
+    lastUpdated: 20130411085251
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 1.3
+      - 2.5-M1-1.1
+      - 2.5-M2-1.2
+      - 2.5-M3-1.2
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+      - 1.3
+  textile_2.10:
+    lastUpdated: 20130406072324
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+  textile_2.5_2.10:
+    lastUpdated: 20130411085251
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.5_2.9.1:
+    lastUpdated: 20130411085252
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.5_2.9.1-1:
+    lastUpdated: 20130411085252
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.5_2.9.2:
+    lastUpdated: 20130411085253
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.6_2.10:
+    lastUpdated: 20131024140849
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.6_2.9.1:
+    lastUpdated: 20131024140851
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.6_2.9.1-1:
+    lastUpdated: 20131024140855
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.6_2.9.2:
+    lastUpdated: 20131024140856
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  textile_2.9.1:
+    lastUpdated: 20130406072325
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+  textile_2.9.1-1:
+    lastUpdated: 20130406072326
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+  textile_2.9.2:
+    lastUpdated: 20130406072326
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.3
+      - 2.5-RC1-1.3
+      - 2.5-RC2-1.3
+      - 2.5-RC4-1.3
+  validate_2.5_2.10:
+    lastUpdated: 20150507194242
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  validate_2.5_2.9.2:
+    lastUpdated: 20150507194254
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  validate_2.6_2.10:
+    lastUpdated: 20150507194302
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  validate_2.6_2.11:
+    lastUpdated: 20150507194302
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  validate_2.6_2.9.2:
+    lastUpdated: 20150507194304
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  widgets_2.10:
+    lastUpdated: 20130406072328
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.3
+  widgets_2.5_2.10:
+    lastUpdated: 20130411085253
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.5_2.9.1:
+    lastUpdated: 20130411085253
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.5_2.9.1-1:
+    lastUpdated: 20130411085254
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.5_2.9.2:
+    lastUpdated: 20130411085255
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.6_2.10:
+    lastUpdated: 20131024140857
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.6_2.9.1:
+    lastUpdated: 20131024140858
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.6_2.9.1-1:
+    lastUpdated: 20131024140859
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.6_2.9.2:
+    lastUpdated: 20131024140900
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  widgets_2.9.1:
+    lastUpdated: 20130406072329
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.3
+  widgets_2.9.1-1:
+    lastUpdated: 20130406072329
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.3
+  widgets_2.9.2:
+    lastUpdated: 20130406072331
+    latest: 2.5-RC4-1.3
+    release: 2.5-RC4-1.3
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.3
+  widgets_3.0_2.11:
+    lastUpdated: 20170112144240
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  widgets_3.0_2.12:
+    lastUpdated: 20170112144241
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  xmpp_2.10:
+    lastUpdated: 20130406072332
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  xmpp_2.5_2.10:
+    lastUpdated: 20130411085255
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.5_2.9.1:
+    lastUpdated: 20130411085256
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.5_2.9.1-1:
+    lastUpdated: 20130411085256
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.5_2.9.2:
+    lastUpdated: 20130411085256
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.6_2.10:
+    lastUpdated: 20131106144001
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.6_2.9.1:
+    lastUpdated: 20131106144001
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.6_2.9.1-1:
+    lastUpdated: 20131106144001
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.6_2.9.2:
+    lastUpdated: 20131106144002
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  xmpp_2.9.1:
+    lastUpdated: 20130406072333
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  xmpp_2.9.1-1:
+    lastUpdated: 20130406072334
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+  xmpp_2.9.2:
+    lastUpdated: 20130406072335
+    latest: 2.5-RC4-1.2
+    release: 2.5-RC4-1.2
+    versions:
+      - 2.5-M1-1.1
+      - 2.5-M2-1.1
+      - 2.5-M3-1.1
+      - 2.5-M4-1.2
+      - 2.5-RC1-1.2
+      - 2.5-RC2-1.2
+      - 2.5-RC4-1.2
+

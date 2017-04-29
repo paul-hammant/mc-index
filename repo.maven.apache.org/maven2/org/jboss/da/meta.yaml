@@ -1,0 +1,104 @@
+artifacts:
+  application:
+    lastUpdated: 20170117121523
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  bc-backend:
+    lastUpdated: 20170117121523
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  bc-model:
+    lastUpdated: 20170117121523
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  bc-rest:
+    lastUpdated: 20170117121524
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  cli-wrap:
+    lastUpdated: 20170117121524
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  common:
+    lastUpdated: 20170117121524
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  communication:
+    lastUpdated: 20170117121525
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  parent:
+    lastUpdated: 20170117121525
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  reports-backend:
+    lastUpdated: 20170117121525
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  reports-model:
+    lastUpdated: 20170117121525
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  reports-rest:
+    lastUpdated: 20170117121526
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  source-code-manager:
+    lastUpdated: 20170117121526
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.2
+      - 1.0.0
+      - 1.0.1
+  testsuite:
+    lastUpdated: 20161103165416
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.8.2
+

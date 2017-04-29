@@ -1,0 +1,354 @@
+artifacts:
+  hudson:
+    lastUpdated: 20120420012725
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-cli:
+    lastUpdated: 20120420012725
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-core:
+    lastUpdated: 20120420012722
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-gwt:
+    lastUpdated: 20120417041400
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-gwt-common:
+    lastUpdated: 20120417041359
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-gwt-icons-silk:
+    lastUpdated: 20120417041400
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-gwt-test-support:
+    lastUpdated: 20120417041359
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-gwt-theme-chrome:
+    lastUpdated: 20120417041358
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-inject:
+    lastUpdated: 20120420012719
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-jaxb:
+    lastUpdated: 20120417041650
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-jaxb-xjc:
+    lastUpdated: 20120417041649
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+  hudson-jetty-war-executable:
+    lastUpdated: 20120420012721
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-maven-legacy:
+    lastUpdated: 20120418034817
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+      - 3.0.1-1
+  hudson-maven3:
+    lastUpdated: 20120417045700
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-plugin-utils:
+    lastUpdated: 20120420012721
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-remoting:
+    lastUpdated: 20120420012720
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-rest:
+    lastUpdated: 20120417042917
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-rest-api:
+    lastUpdated: 20120417042910
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-rest-common:
+    lastUpdated: 20120417042917
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-rest-model:
+    lastUpdated: 20120417042917
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-rest-server:
+    lastUpdated: 20120417042916
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  hudson-service:
+    lastUpdated: 20120420012723
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-test-framework:
+    lastUpdated: 20120420012724
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-test-utils:
+    lastUpdated: 20120420012729
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-utils:
+    lastUpdated: 20120420012724
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  hudson-war:
+    lastUpdated: 20120420012725
+    latest: 3.0.0-M2
+    release: 3.0.0-M2
+    versions:
+      - 3.0.0-M0
+      - 3.0.0-M0-1
+      - 3.0.0-M1
+      - 3.0.0-M1-1
+      - 3.0.0-M2
+  legacy-maven-plugin:
+    lastUpdated: 20120418034816
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.1
+      - 3.0.1-1
+  maven-agent:
+    lastUpdated: 20120418034818
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+      - 3.0.1-1
+  maven-interceptor:
+    lastUpdated: 20120418034815
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+      - 3.0.1-1
+  maven-plugin:
+    lastUpdated: 20120124021809
+    latest: 3.0.0-1
+    release: 3.0.0-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+  maven3-agent:
+    lastUpdated: 20120418034817
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+      - 3.0.1-1
+  maven3-eventspy-3.0:
+    lastUpdated: 20120417045659
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  maven3-eventspy-common:
+    lastUpdated: 20120417045658
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  maven3-interceptor:
+    lastUpdated: 20120418034816
+    latest: 3.0.1-1
+    release: 3.0.1-1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.1
+      - 3.0.1-1
+  maven3-model:
+    lastUpdated: 20120417045700
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  maven3-plugin:
+    lastUpdated: 20120417045701
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  maven3-slavebundle:
+    lastUpdated: 20120417045659
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  maven3-snapshots:
+    lastUpdated: 20120417045658
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+  rest-plugin:
+    lastUpdated: 20120417042910
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.0-1
+      - 3.0.0-2
+      - 3.0.1
+

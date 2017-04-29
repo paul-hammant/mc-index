@@ -1,0 +1,46 @@
+artifacts:
+  bathe-runner-tile:
+    lastUpdated: 20150820105831
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  coveralls-tile:
+    lastUpdated: 20150820105831
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  local-nexus-tile:
+    lastUpdated: 20150903024535
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  local-release-tile:
+    lastUpdated: 20151125103745
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  oss-nexus-tile:
+    lastUpdated: 20150915111303
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  spring-boot-runner-tile:
+    lastUpdated: 20150820105831
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

@@ -1,0 +1,81 @@
+artifacts:
+  apitrary-api:
+    lastUpdated: 20130613205825
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-api-client:
+    lastUpdated: 20130613205825
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-jar:
+    lastUpdated: 20130613205825
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-orm:
+    lastUpdated: 20130613205825
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-orm-annotations:
+    lastUpdated: 20130210131842
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  apitrary-orm-codec:
+    lastUpdated: 20130613205826
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-orm-core:
+    lastUpdated: 20130613205826
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 0.1
+  apitrary-transport:
+    lastUpdated: 20130613205826
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  apitrary-transport-cxf:
+    lastUpdated: 20130613205827
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  apitrary-transport-httpclient:
+    lastUpdated: 20130613205827
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  apitrary-transport-javanet:
+    lastUpdated: 20130613205827
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

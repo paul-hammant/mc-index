@@ -1,0 +1,781 @@
+artifacts:
+  flowable-app-rest:
+    lastUpdated: 20170215134518
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-archetype-unittest:
+    lastUpdated: 20170327080058
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-bpmn-converter:
+    lastUpdated: 20170327080059
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-bpmn-layout:
+    lastUpdated: 20170327080101
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-bpmn-model:
+    lastUpdated: 20170327080103
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-camel:
+    lastUpdated: 20170327080103
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-cdi:
+    lastUpdated: 20170327080104
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-common-rest:
+    lastUpdated: 20170327080105
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-api:
+    lastUpdated: 20170215134524
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-engine:
+    lastUpdated: 20170215134525
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-engine-configurator:
+    lastUpdated: 20170215134526
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-rest:
+    lastUpdated: 20170215134526
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-spring:
+    lastUpdated: 20170215134527
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-content-spring-configurator:
+    lastUpdated: 20170215134528
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-crystalball:
+    lastUpdated: 20170327080108
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-cxf:
+    lastUpdated: 20170327080110
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-diagram-rest:
+    lastUpdated: 20170327080111
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-dmn-api:
+    lastUpdated: 20170215134529
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-engine:
+    lastUpdated: 20170215134529
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-engine-configurator:
+    lastUpdated: 20170215134530
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-json-converter:
+    lastUpdated: 20170215134531
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-model:
+    lastUpdated: 20170215134531
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-rest:
+    lastUpdated: 20170215134532
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-spring:
+    lastUpdated: 20170215134533
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-spring-configurator:
+    lastUpdated: 20170215134533
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-dmn-xml-converter:
+    lastUpdated: 20170215134534
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-engine:
+    lastUpdated: 20170327080113
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-engine-common:
+    lastUpdated: 20170215134536
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-engine-common-api:
+    lastUpdated: 20170215134536
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-explorer:
+    lastUpdated: 20170327080116
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-form-api:
+    lastUpdated: 20170215134537
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-engine:
+    lastUpdated: 20170215134537
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-engine-configurator:
+    lastUpdated: 20170215134538
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-json-converter:
+    lastUpdated: 20170215134539
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-model:
+    lastUpdated: 20170215134539
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-rest:
+    lastUpdated: 20170215134539
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-spring:
+    lastUpdated: 20170215134540
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-form-spring-configurator:
+    lastUpdated: 20170215134540
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-idm-api:
+    lastUpdated: 20170215134541
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-idm-engine:
+    lastUpdated: 20170215134541
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-idm-spring:
+    lastUpdated: 20170215134542
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-image-generator:
+    lastUpdated: 20170327080117
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-jms-spring-executor:
+    lastUpdated: 20170215134543
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-jmx:
+    lastUpdated: 20170327080120
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-json-converter:
+    lastUpdated: 20170327080122
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ldap:
+    lastUpdated: 20170327080122
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-modeler:
+    lastUpdated: 20170327080123
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-mule:
+    lastUpdated: 20170327080124
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-osgi:
+    lastUpdated: 20170327080126
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-process-validation:
+    lastUpdated: 20170327080127
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-rest:
+    lastUpdated: 20170327080127
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-root:
+    lastUpdated: 20170327080128
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-secure-javascript:
+    lastUpdated: 20170327080128
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-simple-workflow:
+    lastUpdated: 20170327080128
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-spring:
+    lastUpdated: 20170327080129
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot:
+    lastUpdated: 20170327080129
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-actuator:
+    lastUpdated: 20170215134549
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-basic:
+    lastUpdated: 20170215134549
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-custom-mybatis-mapper:
+    lastUpdated: 20170215134550
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-integration:
+    lastUpdated: 20170215134551
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-jpa:
+    lastUpdated: 20170215134551
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-rest-api:
+    lastUpdated: 20170215134552
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-rest-api-security:
+    lastUpdated: 20170215134552
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-sample-security:
+    lastUpdated: 20170215134553
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-samples:
+    lastUpdated: 20170327080129
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-actuator:
+    lastUpdated: 20170327080130
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-basic:
+    lastUpdated: 20170327080131
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-integration:
+    lastUpdated: 20170327080133
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-jpa:
+    lastUpdated: 20170327080133
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-rest-api:
+    lastUpdated: 20170327080134
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starter-security:
+    lastUpdated: 20170327080134
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-spring-boot-starters:
+    lastUpdated: 20170327080134
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-admin:
+    lastUpdated: 20170215134555
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-common:
+    lastUpdated: 20170215134556
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-idm:
+    lastUpdated: 20170215134556
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-idm-app:
+    lastUpdated: 20170215134556
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-idm-conf:
+    lastUpdated: 20170215134557
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-idm-logic:
+    lastUpdated: 20170215134557
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-idm-rest:
+    lastUpdated: 20170215134558
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-modeler:
+    lastUpdated: 20170215134558
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-modeler-app:
+    lastUpdated: 20170215134558
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-modeler-conf:
+    lastUpdated: 20170215134559
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-modeler-logic:
+    lastUpdated: 20170215134559
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-modeler-rest:
+    lastUpdated: 20170215134600
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-task:
+    lastUpdated: 20170215134600
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-task-app:
+    lastUpdated: 20170215134600
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-task-conf:
+    lastUpdated: 20170215134601
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-task-logic:
+    lastUpdated: 20170215134602
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-ui-task-rest:
+    lastUpdated: 20170215134602
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable-webapp-explorer2:
+    lastUpdated: 20170327080134
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable-webapp-rest2:
+    lastUpdated: 20170327080135
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  flowable5-compatibility:
+    lastUpdated: 20170215134602
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable5-engine:
+    lastUpdated: 20170215134603
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable5-spring:
+    lastUpdated: 20170215134604
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  flowable5-spring-compatibility:
+    lastUpdated: 20170215134604
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0.RC1
+      - 6.0.0
+  spring-boot-sample-actuator:
+    lastUpdated: 20170327080138
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-basic:
+    lastUpdated: 20170327080139
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-custom-mybatis-mapper:
+    lastUpdated: 20170327080140
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-integration:
+    lastUpdated: 20170327080142
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-jpa:
+    lastUpdated: 20170327080143
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-rest-api:
+    lastUpdated: 20170327080144
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-rest-api-security:
+    lastUpdated: 20170327080145
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+  spring-boot-sample-security:
+    lastUpdated: 20170327080145
+    latest: 5.23.0
+    release: 5.23.0
+    versions:
+      - 5.22.0
+      - 5.23.0
+

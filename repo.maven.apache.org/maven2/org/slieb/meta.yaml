@@ -1,0 +1,133 @@
+artifacts:
+  blender-css:
+    lastUpdated: 20160913220134
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  closure-dependency-calculator:
+    lastUpdated: 20150515205549
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  dependency-calculator:
+    lastUpdated: 20150515204359
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  html-exception-formatter:
+    lastUpdated: 20161130120018
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  js-runtimes:
+    lastUpdated: 20150515190757
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  jsunit-testing-suite:
+    lastUpdated: 20150515211049
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  kute:
+    lastUpdated: 20160101184314
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 1.0
+      - 2.0
+      - 2.1
+  kute-core:
+    lastUpdated: 20160103165509
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.5
+  kute-parent:
+    lastUpdated: 20160103165510
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.5
+  kute-service:
+    lastUpdated: 20160103165510
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 1.0
+      - 2.5
+  selenium-driver-provider:
+    lastUpdated: 20170328110459
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  slieb-parent:
+    lastUpdated: 20170324095558
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  soy-annotations:
+    lastUpdated: 20160324000639
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+  soy-shaker:
+    lastUpdated: 20160330112112
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  spark-wrapper:
+    lastUpdated: 20151206111429
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  throwable-interfaces:
+    lastUpdated: 20170324075904
+    latest: 1.13
+    release: 1.13
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.10
+      - 1.11
+      - 1.12
+      - 1.13
+

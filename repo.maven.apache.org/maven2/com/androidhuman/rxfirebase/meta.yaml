@@ -1,0 +1,51 @@
+artifacts:
+  common:
+    lastUpdated: 20170128001919
+    latest: 10.1.0
+    release: 10.1.0
+    versions:
+      - 9.61.0
+      - 9.80.0
+      - 10.0.0
+      - 10.1.0
+  firebase-auth:
+    lastUpdated: 20170406044104
+    latest: 10.2.0.0
+    release: 10.2.0.0
+    versions:
+      - 9.61.0
+      - 9.80.0
+      - 10.0.0
+      - 10.1.0
+      - 10.2.0.0
+  firebase-auth-kotlin:
+    lastUpdated: 20170406044105
+    latest: 10.2.0.0
+    release: 10.2.0.0
+    versions:
+      - 9.61.0
+      - 9.80.0
+      - 10.0.0
+      - 10.1.0
+      - 10.2.0.0
+  firebase-database:
+    lastUpdated: 20170406044105
+    latest: 10.2.0.0
+    release: 10.2.0.0
+    versions:
+      - 9.61.0
+      - 9.80.0
+      - 10.0.0
+      - 10.1.0
+      - 10.2.0.0
+  firebase-database-kotlin:
+    lastUpdated: 20170406044105
+    latest: 10.2.0.0
+    release: 10.2.0.0
+    versions:
+      - 9.61.0
+      - 9.80.0
+      - 10.0.0
+      - 10.1.0
+      - 10.2.0.0
+

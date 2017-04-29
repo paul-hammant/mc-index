@@ -1,0 +1,209 @@
+artifacts:
+  shelflife:
+    lastUpdated: 20140605220727
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-api:
+    lastUpdated: 20140605220728
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-bom:
+    lastUpdated: 20140605220728
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.2
+      - 0.3
+      - 0.5
+      - 0.6
+  shelflife-core:
+    lastUpdated: 20140605220729
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-core-tck:
+    lastUpdated: 20130119070946
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  shelflife-filer:
+    lastUpdated: 20130119070947
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  shelflife-store-couch:
+    lastUpdated: 20120308221145
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  shelflife-store-flat:
+    lastUpdated: 20140605220730
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-store-infinispan:
+    lastUpdated: 20130119070949
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  shelflife-store-memory:
+    lastUpdated: 20140605220730
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-stores:
+    lastUpdated: 20140605220731
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-tck-store:
+    lastUpdated: 20140605220732
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shelflife-tcks:
+    lastUpdated: 20140605220732
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+

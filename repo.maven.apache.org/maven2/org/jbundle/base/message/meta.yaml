@@ -1,0 +1,82 @@
+artifacts:
+  jbundle-base-message-reactor:
+    lastUpdated: 20150103014003
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.7
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  org.jbundle.base.message.core:
+    lastUpdated: 20150103014004
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.7
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  org.jbundle.base.message.jaxm:
+    lastUpdated: 20150103014005
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.7
+      - 1.0.9
+  org.jbundle.base.message.jibx:
+    lastUpdated: 20150103014006
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 0.7.7
+      - 0.7.8
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.7
+      - 1.0.9
+  org.jbundle.base.message.misc:
+    lastUpdated: 20110913062112
+    latest: 0.7.8
+    release: 0.7.8
+    versions:
+      - 0.7.7
+      - 0.7.8
+  org.jbundle.base.message.remote:
+    lastUpdated: 20150103014009
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  org.jbundle.base.message.service:
+    lastUpdated: 20150103014013
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.9
+  org.jbundle.base.message.trx:
+    lastUpdated: 20150103014017
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.7
+      - 1.0.9
+

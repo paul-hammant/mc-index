@@ -1,0 +1,227 @@
+artifacts:
+  jp.go.nict.langrid.client:
+    lastUpdated: 20150630050937
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.client.axis:
+    lastUpdated: 20150630050938
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.client.protobufrpc:
+    lastUpdated: 20150630050938
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.client.soap:
+    lastUpdated: 20150630050939
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.client.test:
+    lastUpdated: 20150630050939
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.client.ws_1_2:
+    lastUpdated: 20150630050940
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.commons:
+    lastUpdated: 20150630050940
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.commons.protobufrpc:
+    lastUpdated: 20150630050941
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.language:
+    lastUpdated: 20150630050941
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.service.common_1_2:
+    lastUpdated: 20150630050942
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.service.language_1_2:
+    lastUpdated: 20150630050942
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.service.management_1_2:
+    lastUpdated: 20150630050943
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.servicecontainer:
+    lastUpdated: 20150630050944
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.servicecontainer.axis:
+    lastUpdated: 20141022051828
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jp.go.nict.langrid.servicecontainer.decorator.cache:
+    lastUpdated: 20150630050944
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.servicecontainer.handler.axis:
+    lastUpdated: 20150630050944
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.servicecontainer.handler.protobufrpc:
+    lastUpdated: 20150630050945
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary:
+    lastUpdated: 20150630050945
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.wrapper.common:
+    lastUpdated: 20150630050946
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.6
+      - 1.0.7
+  jp.go.nict.langrid.wrapper.workflowsupport:
+    lastUpdated: 20150630050947
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.6
+      - 1.0.7
+  servicegrid:
+    lastUpdated: 20150630050947
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

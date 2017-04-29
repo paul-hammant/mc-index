@@ -1,0 +1,74 @@
+artifacts:
+  arquillian-core-reporter-api:
+    lastUpdated: 20170318175551
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-core-reporter-impl:
+    lastUpdated: 20170318175551
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-environment-reporter-api:
+    lastUpdated: 20170318175552
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-environment-reporter-impl:
+    lastUpdated: 20170318175553
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-reporter-api:
+    lastUpdated: 20170318175554
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-reporter-bom:
+    lastUpdated: 20170318175555
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-reporter-depchain:
+    lastUpdated: 20170318175555
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-reporter-impl:
+    lastUpdated: 20170318175556
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  arquillian-reporter-parent:
+    lastUpdated: 20170318175557
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+

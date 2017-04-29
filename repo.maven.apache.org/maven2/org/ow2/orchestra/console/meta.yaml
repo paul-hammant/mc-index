@@ -1,0 +1,232 @@
+artifacts:
+  admin:
+    lastUpdated: 20100413143421
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules:
+    lastUpdated: 20100413143426
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules-components:
+    lastUpdated: 20100413143429
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules-components-services:
+    lastUpdated: 20100413143501
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules-portlets:
+    lastUpdated: 20100413143550
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules-web:
+    lastUpdated: 20100413143603
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  admin-modules-webui:
+    lastUpdated: 20100413143526
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  bpmportal:
+    lastUpdated: 20100413143607
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  bpmportal.orchestra:
+    lastUpdated: 20100413143615
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  console:
+    lastUpdated: 20121122084304
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  console-swf:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  consoleUserGuide:
+    lastUpdated: 20110614164626
+    latest: {}
+    release: 4.6.2
+    versions:
+      - 4.5.0
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+  exo.bpm.resources:
+    lastUpdated: 20100413143622
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  exo.orchestra.resources:
+    lastUpdated: 20100413143628
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  gwt-utils:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.1
+  orchestra-console:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.0-M3
+      - 4.9.0-M4
+      - 4.9.0-M5
+      - 4.9.0
+      - 4.9.1
+  orchestra.console:
+    lastUpdated: 20100413143852
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  orchestra.portlet:
+    lastUpdated: 20100413143558
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  org.ow2.orchestra.console.commons.webui:
+    lastUpdated: 20100413143537
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  org.ow2.orchestra.console.navigation:
+    lastUpdated: 20100413143441
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  org.ow2.orchestra.console.security:
+    lastUpdated: 20100413143454
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  org.ow2.orchestra.console.service.commons:
+    lastUpdated: 20100413143509
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  org.ow2.orchestra.console.service.orchestra:
+    lastUpdated: 20100413143517
+    latest: {}
+    release: 4.4.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.4.0
+  ws-console:
+    lastUpdated: 20121122084303
+    latest: 4.9.1
+    release: 4.9.1
+    versions:
+      - 4.9.1
+

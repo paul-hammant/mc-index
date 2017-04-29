@@ -1,0 +1,194 @@
+artifacts:
+  hello-world-authz-service:
+    lastUpdated: 20160808190743
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian:
+    lastUpdated: 20160808190744
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers:
+    lastUpdated: 20160808190744
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-app-server:
+    lastUpdated: 20160808190744
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-app-server-jboss:
+    lastUpdated: 20160808190745
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-app-server-karaf:
+    lastUpdated: 20160808190745
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-app-server-tomcat:
+    lastUpdated: 20160808190745
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-auth-server:
+    lastUpdated: 20160808190746
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-auth-server-jboss:
+    lastUpdated: 20160808190746
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-auth-server-services:
+    lastUpdated: 20160808190747
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-servers-auth-server-undertow:
+    lastUpdated: 20160808190748
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-test-apps:
+    lastUpdated: 20160808190748
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-test-apps-dist:
+    lastUpdated: 20170322151454
+    latest: 3.0.0.Final
+    release: 3.0.0.Final
+    versions:
+      - 1.9.2.Final
+      - 1.9.3.Final
+      - 1.9.4.Final
+      - 1.9.5.Final
+      - 1.9.7.Final
+      - 1.9.8.Final
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.1.0.CR1
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+      - 2.1.0.Final
+      - 2.2.0.CR1
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.3.0.CR1
+      - 2.3.0.Final
+      - 2.4.0.CR1
+      - 2.4.0.Final
+      - 2.5.0.CR1
+      - 2.5.0.Final
+      - 2.5.1.Final
+      - 2.5.4.Final
+      - 2.5.5.Final
+      - 3.0.0.CR1
+      - 3.0.0.Final
+  integration-arquillian-test-apps-js-console:
+    lastUpdated: 20160808190750
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-test-apps-js-database:
+    lastUpdated: 20160808190751
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-test-apps-photoz-parent:
+    lastUpdated: 20160808190752
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests:
+    lastUpdated: 20160808190753
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-adapters:
+    lastUpdated: 20160808190754
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-adapters-jboss:
+    lastUpdated: 20160808190754
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-adapters-karaf:
+    lastUpdated: 20160808190754
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-adapters-tomcat:
+    lastUpdated: 20160808190755
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-base:
+    lastUpdated: 20160808190755
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-tests-other:
+    lastUpdated: 20160808190756
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  integration-arquillian-testsuite-providers:
+    lastUpdated: 20160808190757
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  photoz-authz-policy:
+    lastUpdated: 20160808190758
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  photoz-html5-client:
+    lastUpdated: 20160808190758
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  photoz-restful-api:
+    lastUpdated: 20160808190800
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+  servlet-authz-app:
+    lastUpdated: 20160808190800
+    latest: 2.1.0-SNAPSHOT-16-08-06-2320
+    release: 2.1.0-SNAPSHOT-16-08-06-2320
+    versions:
+      - 2.1.0-SNAPSHOT-16-08-06-2320
+

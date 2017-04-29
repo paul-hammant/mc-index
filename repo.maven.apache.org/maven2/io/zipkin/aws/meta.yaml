@@ -1,0 +1,88 @@
+artifacts:
+  zipkin-autoconfigure:
+    lastUpdated: 20170422093829
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-autoconfigure-collector-sqs:
+    lastUpdated: 20170422093830
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-aws-junit:
+    lastUpdated: 20170422093830
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-aws-parent:
+    lastUpdated: 20170422093830
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-collector-sqs:
+    lastUpdated: 20170422093830
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-sender-sqs:
+    lastUpdated: 20170422093830
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.0.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-sparkstreaming-autoconfigure-stream-kinesis:
+    lastUpdated: 20170422093831
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  zipkin-sparkstreaming-stream-kinesis:
+    lastUpdated: 20170422093831
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+

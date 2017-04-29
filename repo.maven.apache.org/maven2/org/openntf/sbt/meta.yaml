@@ -1,0 +1,398 @@
+artifacts:
+  acme.sample.webapp:
+    lastUpdated: 20160704112548
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  acme.social.sample:
+    lastUpdated: 20160704112548
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  acme.social.sample.dataapp:
+    lastUpdated: 20160704112549
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  acme.social.sample.webapp:
+    lastUpdated: 20160704112549
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  bss.provisioning.sample.app:
+    lastUpdated: 20160704112549
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.commons:
+    lastUpdated: 20160704112549
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.commons.runtime:
+    lastUpdated: 20160704112550
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.commons.xml:
+    lastUpdated: 20160704112550
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.samples.acme:
+    lastUpdated: 20160704112550
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.automation.core:
+    lastUpdated: 20160704112550
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.automation.test:
+    lastUpdated: 20160704112551
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.core:
+    lastUpdated: 20160704112551
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.core.test:
+    lastUpdated: 20160704112551
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.domino.feature:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.domino.playground.feature:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.domino.playground.updatesite:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.domino.updatesite:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.landing:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.libs:
+    lastUpdated: 20160704112552
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.libs.domino:
+    lastUpdated: 20160704112553
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.libs.j2ee:
+    lastUpdated: 20160704112553
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.opensocial.domino:
+    lastUpdated: 20160704112553
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.opensocial.domino.explorer:
+    lastUpdated: 20160704112554
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.opensocial.domino.explorer.feature:
+    lastUpdated: 20160704112554
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.opensocial.domino.feature:
+    lastUpdated: 20160704112554
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.php.core:
+    lastUpdated: 20160704112554
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.php.moodle:
+    lastUpdated: 20160704112554
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.php.wordpress:
+    lastUpdated: 20160704112555
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.playground:
+    lastUpdated: 20160704112555
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.proxy.web:
+    lastUpdated: 20160704112555
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.samples.commons:
+    lastUpdated: 20160704112556
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.web:
+    lastUpdated: 20160704112556
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.sbt.xsp.p2:
+    lastUpdated: 20160704112557
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.xsp.opensocial:
+    lastUpdated: 20160704112557
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.xsp.sbtsdk:
+    lastUpdated: 20160704112558
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.xsp.sbtsdk.playground:
+    lastUpdated: 20160704112558
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  com.ibm.xsp.sbtsdk.playground.sbt:
+    lastUpdated: 20160704112559
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  demosocial.webapp:
+    lastUpdated: 20160704112559
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  distribution:
+    lastUpdated: 20160704112600
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  grantaccess.webapp:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  helloworld.webapp:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  mysocial.webapp:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.commons:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.dependencies:
+    lastUpdated: 20160704112601
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.domino:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.libraries:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.phpsdk:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples.domino:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples.j2ee:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples.java:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples.snippets:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.samples.templates:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  org.openntf.sbt.sdk:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.bootstrap211:
+    lastUpdated: 20160704112602
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.ckeditor422:
+    lastUpdated: 20160704112603
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.dojo180:
+    lastUpdated: 20160704112603
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.jquery182:
+    lastUpdated: 20160704112603
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.sample:
+    lastUpdated: 20160704112603
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.sample.app:
+    lastUpdated: 20160704112604
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.sample.web:
+    lastUpdated: 20160704112604
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sbt.sso.webapp-archetype:
+    lastUpdated: 20160704112604
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  smartcloud.webapp:
+    lastUpdated: 20160704112604
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  social.helloworld.webapp:
+    lastUpdated: 20160704112605
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+  sso.sample.webapp:
+    lastUpdated: 20160704112605
+    latest: 1.5.0.20160704-1200
+    release: 1.5.0.20160704-1200
+    versions:
+      - 1.5.0.20160704-1200
+

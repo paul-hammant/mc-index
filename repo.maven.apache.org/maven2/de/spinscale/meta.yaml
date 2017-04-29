@@ -1,0 +1,59 @@
+artifacts:
+  dropwizard-jobs:
+    lastUpdated: 20161102193841
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.4
+      - 1.1.5
+  dropwizard-jobs-core:
+    lastUpdated: 20161102193841
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.4
+      - 1.1.5
+  dropwizard-jobs-guice:
+    lastUpdated: 20161102193842
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.4
+      - 1.1.5
+  dropwizard-jobs-spring:
+    lastUpdated: 20161102193842
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.4
+      - 1.1.5
+  elasticsearch-plugin-suggest:
+    lastUpdated: 20140910073247
+    latest: 1.3.2-2.0.1
+    release: 1.3.2-2.0.1
+    versions:
+      - 0.19.11-0.1
+      - 0.19.12-0.2
+      - 0.20.2-0.3
+      - 0.20.2-0.4
+      - 0.20.5-0.5
+      - 0.90.0-0.6
+      - 0.90.0-0.6.1
+      - 0.90.0-0.6.2
+      - 0.90.0-0.6.3
+      - 0.90.1-0.7
+      - 0.90.3-0.8.0
+      - 0.90.5-0.9
+      - 0.90.7-1.0
+      - 0.90.12-1.1
+      - 1.0.1-2.0.0
+      - 1.3.2-2.0.1
+

@@ -1,0 +1,3826 @@
+artifacts:
+  flink-addons:
+    lastUpdated: 20150219161756
+    latest: 0.8.1-hadoop1
+    release: 0.8.1-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+  flink-annotations:
+    lastUpdated: 20170322153715
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-avro:
+    lastUpdated: 20160211063340
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-avro_2.10:
+    lastUpdated: 20170322153718
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-avro_2.11:
+    lastUpdated: 20170322153720
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-batch-connectors:
+    lastUpdated: 20170322153721
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+  flink-cep-scala_2.10:
+    lastUpdated: 20170322153724
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-cep-scala_2.11:
+    lastUpdated: 20170322153727
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-cep_2.10:
+    lastUpdated: 20170322153729
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-cep_2.11:
+    lastUpdated: 20170322153731
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-clients:
+    lastUpdated: 20160211063343
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-clients_2.10:
+    lastUpdated: 20170322153735
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-clients_2.11:
+    lastUpdated: 20170322153736
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-compiler:
+    lastUpdated: 20150219161801
+    latest: 0.8.1-hadoop1
+    release: 0.8.1-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+  flink-connector-cassandra_2.10:
+    lastUpdated: 20170322153740
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-cassandra_2.11:
+    lastUpdated: 20170322153742
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-elasticsearch:
+    lastUpdated: 20160211063351
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-elasticsearch2_2.10:
+    lastUpdated: 20170322153746
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-elasticsearch2_2.11:
+    lastUpdated: 20170322153748
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-elasticsearch_2.10:
+    lastUpdated: 20170322153752
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-elasticsearch_2.11:
+    lastUpdated: 20170322153753
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-filesystem:
+    lastUpdated: 20160211063353
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-connector-filesystem_2.10:
+    lastUpdated: 20170322153755
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-filesystem_2.11:
+    lastUpdated: 20170322153757
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-flume:
+    lastUpdated: 20160211063356
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-flume_2.10:
+    lastUpdated: 20170322153800
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+  flink-connector-flume_2.11:
+    lastUpdated: 20170322153801
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  flink-connector-kafka:
+    lastUpdated: 20160211063407
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-kafka-0.10_2.10:
+    lastUpdated: 20170202104732
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  flink-connector-kafka-0.10_2.11:
+    lastUpdated: 20170202104732
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  flink-connector-kafka-0.8_2.10:
+    lastUpdated: 20170322153805
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-kafka-0.8_2.11:
+    lastUpdated: 20170322153806
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-kafka-0.9_2.10:
+    lastUpdated: 20170322153810
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-kafka-0.9_2.11:
+    lastUpdated: 20170322153813
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-kafka-base_2.10:
+    lastUpdated: 20170322153816
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-kafka-base_2.11:
+    lastUpdated: 20170322153817
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-kafka_2.11:
+    lastUpdated: 20160211063407
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-connector-nifi:
+    lastUpdated: 20160211063409
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-nifi_2.10:
+    lastUpdated: 20170322153821
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-nifi_2.11:
+    lastUpdated: 20170322153823
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-rabbitmq:
+    lastUpdated: 20160211063412
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-rabbitmq_2.10:
+    lastUpdated: 20170322153826
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-rabbitmq_2.11:
+    lastUpdated: 20170322153828
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-redis_2.10:
+    lastUpdated: 20170322153832
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+  flink-connector-redis_2.11:
+    lastUpdated: 20170322153833
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  flink-connector-twitter:
+    lastUpdated: 20160211063414
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-connector-twitter_2.10:
+    lastUpdated: 20170322153836
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-twitter_2.11:
+    lastUpdated: 20170322153839
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connector-wikiedits_2.10:
+    lastUpdated: 20170322153842
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-connector-wikiedits_2.11:
+    lastUpdated: 20170322153844
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-connectors:
+    lastUpdated: 20170202104744
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  flink-contrib:
+    lastUpdated: 20170322153845
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-contrib-parent:
+    lastUpdated: 20160211063416
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-contrib-parent_2.11:
+    lastUpdated: 20160211063416
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-core:
+    lastUpdated: 20170322153848
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-core_2.11:
+    lastUpdated: 20160211063418
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-examples:
+    lastUpdated: 20160211063419
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-examples-batch_2.10:
+    lastUpdated: 20170322153855
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-examples-batch_2.11:
+    lastUpdated: 20170322153900
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-examples-streaming_2.10:
+    lastUpdated: 20170322153911
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-examples-streaming_2.11:
+    lastUpdated: 20170322153915
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-examples_2.10:
+    lastUpdated: 20170322153918
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-examples_2.11:
+    lastUpdated: 20170322153918
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-fs-tests:
+    lastUpdated: 20160211063419
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-fs-tests_2.10:
+    lastUpdated: 20170322153919
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-fs-tests_2.11:
+    lastUpdated: 20170322153920
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-gelly:
+    lastUpdated: 20160211063425
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-gelly-examples_2.10:
+    lastUpdated: 20170322153925
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-gelly-examples_2.11:
+    lastUpdated: 20170322153927
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-gelly-scala:
+    lastUpdated: 20160211063425
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-gelly-scala_2.10:
+    lastUpdated: 20170322153929
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-gelly-scala_2.11:
+    lastUpdated: 20170322153931
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-gelly_2.10:
+    lastUpdated: 20170322153933
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-gelly_2.11:
+    lastUpdated: 20170322153935
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-hadoop-compatibility:
+    lastUpdated: 20160211063427
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-hadoop-compatibility_2.10:
+    lastUpdated: 20170322153938
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-hadoop-compatibility_2.11:
+    lastUpdated: 20170322153939
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-hbase:
+    lastUpdated: 20160211063429
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-hbase_2.10:
+    lastUpdated: 20170322153943
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-hbase_2.11:
+    lastUpdated: 20170322153944
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-hcatalog:
+    lastUpdated: 20170322153948
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-hcatalog_2.11:
+    lastUpdated: 20160211063434
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-java:
+    lastUpdated: 20170322153951
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-java-examples:
+    lastUpdated: 20160211063439
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-java-examples_2.11:
+    lastUpdated: 20160211063445
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-java8:
+    lastUpdated: 20151126140340
+    latest: 0.10.1-hadoop1
+    release: 0.10.1-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+  flink-java8_2.11:
+    lastUpdated: 20151126140341
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.10.0
+      - 0.10.1
+  flink-java_2.11:
+    lastUpdated: 20160211063446
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-jdbc:
+    lastUpdated: 20170322153954
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-jdbc_2.11:
+    lastUpdated: 20160211063451
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-language-binding-generic:
+    lastUpdated: 20160211063452
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-language-binding-generic_2.11:
+    lastUpdated: 20160211063452
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-language-binding-parent:
+    lastUpdated: 20160211063453
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-language-binding-parent_2.11:
+    lastUpdated: 20160211063454
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-libraries:
+    lastUpdated: 20170322153956
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-libraries_2.11:
+    lastUpdated: 20160211063454
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-mesos_2.10:
+    lastUpdated: 20170202104805
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  flink-mesos_2.11:
+    lastUpdated: 20170202104806
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  flink-metrics:
+    lastUpdated: 20170322153957
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-core:
+    lastUpdated: 20170322153959
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-dropwizard:
+    lastUpdated: 20170322154002
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-ganglia:
+    lastUpdated: 20170322154006
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-graphite:
+    lastUpdated: 20170322154010
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-jmx:
+    lastUpdated: 20170322154015
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-metrics-statsd:
+    lastUpdated: 20170322154018
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-ml:
+    lastUpdated: 20160211063455
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-ml_2.10:
+    lastUpdated: 20170322154021
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-ml_2.11:
+    lastUpdated: 20170322154023
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-operator-stats:
+    lastUpdated: 20160211063456
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-operator-stats_2.10:
+    lastUpdated: 20170322154025
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+  flink-operator-stats_2.11:
+    lastUpdated: 20170322154027
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  flink-optimizer:
+    lastUpdated: 20160211063503
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-optimizer_2.10:
+    lastUpdated: 20170322154031
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-optimizer_2.11:
+    lastUpdated: 20170322154033
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-parent:
+    lastUpdated: 20170322154035
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-parent_2.11:
+    lastUpdated: 20160211063504
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-python:
+    lastUpdated: 20160211063505
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-python_2.10:
+    lastUpdated: 20170322154039
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-python_2.11:
+    lastUpdated: 20170322154039
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-quickstart:
+    lastUpdated: 20170322154042
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-quickstart-java:
+    lastUpdated: 20170322154044
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-quickstart-java_2.11:
+    lastUpdated: 20160211063507
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-quickstart-scala:
+    lastUpdated: 20170322154047
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-quickstart-scala_2.11:
+    lastUpdated: 20160211063511
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-quickstart_2.11:
+    lastUpdated: 20160211063512
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-runtime:
+    lastUpdated: 20160211063515
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-runtime-web:
+    lastUpdated: 20160211063516
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-runtime-web_2.10:
+    lastUpdated: 20170322154052
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-runtime-web_2.11:
+    lastUpdated: 20170322154056
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-runtime_2.10:
+    lastUpdated: 20170322154102
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-runtime_2.11:
+    lastUpdated: 20170322154105
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-scala:
+    lastUpdated: 20160211063519
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-scala-examples:
+    lastUpdated: 20160211063523
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-scala-examples_2.11:
+    lastUpdated: 20160211063524
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-scala-shell:
+    lastUpdated: 20160211063525
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-scala-shell_2.10:
+    lastUpdated: 20170322154109
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-scala-shell_2.11:
+    lastUpdated: 20170322154111
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-scala_2.10:
+    lastUpdated: 20170322154115
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-scala_2.11:
+    lastUpdated: 20170322154116
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-shaded:
+    lastUpdated: 20150219161820
+    latest: 0.8.1-hadoop1
+    release: 0.8.1-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+  flink-shaded-curator:
+    lastUpdated: 20170322154118
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-shaded-curator-recipes:
+    lastUpdated: 20170322154120
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-shaded-curator-recipes_2.11:
+    lastUpdated: 20160211063530
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-shaded-curator-test:
+    lastUpdated: 20170322154122
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-shaded-curator-test_2.11:
+    lastUpdated: 20160211063531
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-shaded-curator_2.11:
+    lastUpdated: 20160211063531
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-shaded-hadoop:
+    lastUpdated: 20170322154124
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-shaded-hadoop1:
+    lastUpdated: 20160211063535
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0-hadoop1
+      - 0.9.1-hadoop1
+      - 0.10.0-hadoop1
+      - 0.10.1-hadoop1
+      - 0.10.2-hadoop1
+  flink-shaded-hadoop1_2.10:
+    lastUpdated: 20170322154124
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 1.0.0-hadoop1
+      - 1.0.1-hadoop1
+      - 1.0.2-hadoop1
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1-hadoop1
+      - 1.1.2-hadoop1
+      - 1.1.3-hadoop1
+      - 1.1.4-hadoop1
+      - 1.1.5-hadoop1
+  flink-shaded-hadoop2:
+    lastUpdated: 20170322154126
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-shaded-hadoop2_2.11:
+    lastUpdated: 20160211063536
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-shaded-hadoop_2.11:
+    lastUpdated: 20160211063537
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-shaded-include-yarn:
+    lastUpdated: 20150831135029
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0
+      - 0.9.1
+  flink-shaded-include-yarn-tests:
+    lastUpdated: 20170322154128
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  flink-shaded-include-yarn-tests_2.11:
+    lastUpdated: 20160211063541
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-spargel:
+    lastUpdated: 20150831135104
+    latest: 0.9.1-hadoop1
+    release: 0.9.1-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+  flink-staging:
+    lastUpdated: 20160211063546
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-staging_2.11:
+    lastUpdated: 20160211063614
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-statebackend-rocksdb_2.10:
+    lastUpdated: 20170322154132
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-statebackend-rocksdb_2.11:
+    lastUpdated: 20170322154133
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-storm:
+    lastUpdated: 20160211063626
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-storm-examples:
+    lastUpdated: 20160211063632
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-storm-examples_2.10:
+    lastUpdated: 20170322154139
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-storm-examples_2.11:
+    lastUpdated: 20170322154144
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-storm_2.10:
+    lastUpdated: 20170322154148
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-storm_2.11:
+    lastUpdated: 20170322154150
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-streaming-connectors:
+    lastUpdated: 20170322154153
+    latest: 1.1.5-hadoop1
+    release: 1.1.5-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+  flink-streaming-connectors-parent:
+    lastUpdated: 20160211063646
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-streaming-connectors-parent_2.11:
+    lastUpdated: 20160211063648
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-streaming-contrib:
+    lastUpdated: 20160211063651
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-streaming-contrib_2.10:
+    lastUpdated: 20170322154156
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-streaming-contrib_2.11:
+    lastUpdated: 20170322154158
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-streaming-core:
+    lastUpdated: 20150831135110
+    latest: 0.9.1-hadoop1
+    release: 0.9.1-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+  flink-streaming-examples:
+    lastUpdated: 20160211063728
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-streaming-examples_2.11:
+    lastUpdated: 20160211063809
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-streaming-java:
+    lastUpdated: 20160211063827
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-streaming-java_2.10:
+    lastUpdated: 20170322154203
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-streaming-java_2.11:
+    lastUpdated: 20170322154205
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-streaming-parent:
+    lastUpdated: 20150831135134
+    latest: 0.9.1-hadoop1
+    release: 0.9.1-hadoop1
+    versions:
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+  flink-streaming-scala:
+    lastUpdated: 20160211063839
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-streaming-scala_2.10:
+    lastUpdated: 20170322154207
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-streaming-scala_2.11:
+    lastUpdated: 20170322154210
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-table:
+    lastUpdated: 20160211063845
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-table_2.10:
+    lastUpdated: 20170322154214
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-table_2.11:
+    lastUpdated: 20170322154216
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-tachyon:
+    lastUpdated: 20150831135159
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0-milestone-1
+      - 0.9.0
+      - 0.9.1
+  flink-test-utils:
+    lastUpdated: 20160211063846
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-test-utils-junit:
+    lastUpdated: 20170322154221
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-test-utils-parent:
+    lastUpdated: 20170322154223
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-test-utils_2.10:
+    lastUpdated: 20170322154227
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-test-utils_2.11:
+    lastUpdated: 20170322154229
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-tests:
+    lastUpdated: 20160211063851
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.6.1-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.7.0-incubating
+      - 0.8.0
+      - 0.8.0-hadoop1
+      - 0.8.1
+      - 0.8.1-hadoop1
+      - 0.9.0-milestone-1
+      - 0.9.0-milestone-1-hadoop1
+      - 0.9.0
+      - 0.9.0-hadoop1
+      - 0.9.1
+      - 0.9.1-hadoop1
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-tests_2.10:
+    lastUpdated: 20170322154233
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-tests_2.11:
+    lastUpdated: 20170322154234
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-tweet-inputformat:
+    lastUpdated: 20160211063853
+    latest: 0.10.2-hadoop1
+    release: 0.10.2-hadoop1
+    versions:
+      - 0.10.0
+      - 0.10.0-hadoop1
+      - 0.10.1
+      - 0.10.1-hadoop1
+      - 0.10.2
+      - 0.10.2-hadoop1
+  flink-tweet-inputformat_2.10:
+    lastUpdated: 20170322154237
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+  flink-tweet-inputformat_2.11:
+    lastUpdated: 20170322154239
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-yarn:
+    lastUpdated: 20160211063854
+    latest: 0.10.2
+    release: 0.10.2
+    versions:
+      - 0.6-hadoop2-incubating
+      - 0.6.1-hadoop2-incubating
+      - 0.7.0-hadoop2-incubating
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0-milestone-1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+  flink-yarn-tests:
+    lastUpdated: 20150831135240
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0-milestone-1
+      - 0.9.0
+      - 0.9.1
+  flink-yarn_2.10:
+    lastUpdated: 20170322154241
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  flink-yarn_2.11:
+    lastUpdated: 20170322154243
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.10.0
+      - 0.10.1
+      - 0.10.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2.0
+  force-shading:
+    lastUpdated: 20170322154246
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-hadoop1
+      - 1.0.1
+      - 1.0.1-hadoop1
+      - 1.0.2
+      - 1.0.2-hadoop1
+      - 1.0.3
+      - 1.0.3-hadoop1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.1-hadoop1
+      - 1.1.2
+      - 1.1.2-hadoop1
+      - 1.1.3
+      - 1.1.3-hadoop1
+      - 1.1.4
+      - 1.1.4-hadoop1
+      - 1.1.5
+      - 1.1.5-hadoop1
+      - 1.2.0
+

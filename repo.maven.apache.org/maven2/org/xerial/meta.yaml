@@ -1,0 +1,296 @@
+artifacts:
+  fluentd-standalone:
+    lastUpdated: 20131217140252
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+  fluentd-standalone_2.11:
+    lastUpdated: 20170104201744
+    latest: 0.14.11
+    release: 0.14.11
+    versions:
+      - 0.14.11
+  fluentd-standalone_2.12:
+    lastUpdated: 20170104201744
+    latest: 0.14.11
+    release: 0.14.11
+    versions:
+      - 0.14.11
+  jnuma:
+    lastUpdated: 20130313083637
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.3
+  larray:
+    lastUpdated: 20131211090149
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1-M1
+      - 0.1-M2
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+  larray-buffer:
+    lastUpdated: 20131211090149
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  larray-mmap:
+    lastUpdated: 20131211090150
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  larray-root:
+    lastUpdated: 20131211090150
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  sqlite-jdbc:
+    lastUpdated: 20170111064226
+    latest: 3.16.1
+    release: 3.16.1
+    versions:
+      - 3.7.15-M1
+      - 3.8.5-pre1
+      - 3.8.6
+      - 3.8.7
+      - 3.8.9
+      - 3.8.9.1
+      - 3.8.10.1
+      - 3.8.10.2
+      - 3.8.11
+      - 3.8.11.1
+      - 3.8.11.2
+      - 3.14.2
+      - 3.14.2.1
+      - 3.15.0
+      - 3.15.1
+      - 3.16.1
+  xerial:
+    lastUpdated: 20140613031555
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.3.0
+  xerial-compress:
+    lastUpdated: 20150902234406
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.1
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.8
+      - 3.4.0
+  xerial-compress_2.10:
+    lastUpdated: 20161213191208
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+  xerial-compress_2.11:
+    lastUpdated: 20161213191209
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+  xerial-compress_2.12:
+    lastUpdated: 20161213175027
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.6.0
+  xerial-compress_2.12.0-M3:
+    lastUpdated: 20160304212549
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.5.0
+  xerial-core:
+    lastUpdated: 20150902234406
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.0
+      - 3.1
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.8
+      - 3.4.0
+  xerial-core_2.10:
+    lastUpdated: 20161213191209
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+  xerial-core_2.11:
+    lastUpdated: 20161213191210
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+  xerial-core_2.12:
+    lastUpdated: 20161213175027
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.6.0
+  xerial-core_2.12.0-M3:
+    lastUpdated: 20160304212550
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.5.0
+  xerial-cui:
+    lastUpdated: 20120905070548
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+  xerial-json:
+    lastUpdated: 20120530082531
+    latest: {}
+    release: 2.0.6
+    versions:
+      - 2.0
+      - 2.0.2
+      - 2.0.6
+  xerial-lens:
+    lastUpdated: 20150902234407
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.0
+      - 3.1
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.8
+      - 3.4.0
+  xerial-lens_2.11:
+    lastUpdated: 20161213191211
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.5.0
+      - 3.6.0
+  xerial-lens_2.12:
+    lastUpdated: 20161213175027
+    latest: 3.6.0
+    release: 3.6.0
+    versions:
+      - 3.6.0
+  xerial-lens_2.12.0-M3:
+    lastUpdated: 20160304212551
+    latest: 3.5.0
+    release: 3.5.0
+    versions:
+      - 3.5.0
+  xerial-macro:
+    lastUpdated: 20130412025824
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.1.1
+      - 3.2.0
+  xerial-project:
+    lastUpdated: 20120530082307
+    latest: {}
+    release: 2.0.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2.3
+      - 1.2.4
+      - 2.0
+      - 2.0.2
+      - 2.0.6
+  xerial-silk:
+    lastUpdated: 20120530082617
+    latest: {}
+    release: 2.0.6
+    versions:
+      - 2.0
+      - 2.0.2
+      - 2.0.6
+  xerial-storage:
+    lastUpdated: 20120530082817
+    latest: {}
+    release: 2.0.6
+    versions:
+      - 0.6.0
+      - 2.0
+      - 2.0.2
+      - 2.0.6
+  xerial-style:
+    lastUpdated: 20080425040743
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  xerial-wiki:
+    lastUpdated: 20080925060002
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0.8
+  xerial-xml:
+    lastUpdated: 20120530082647
+    latest: {}
+    release: 2.0.6
+    versions:
+      - 2.0
+      - 2.0.2
+      - 2.0.6
+

@@ -1,0 +1,29 @@
+artifacts:
+  embed-apache-tomcat-core:
+    lastUpdated: 20131026221338
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1-ALPHA
+      - 0.2
+  embed-apache-tomcat-test:
+    lastUpdated: 20131026221339
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1-ALPHA
+      - 0.2
+  java-agent-bootstrap:
+    lastUpdated: 20130515091508
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  jmx-utils:
+    lastUpdated: 20130216215130
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

@@ -1,0 +1,732 @@
+artifacts:
+  cocoon:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-ajax:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.8
+      - 2.1.9
+  cocoon-apples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-asciiart:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-auth:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.11
+  cocoon-authentication-fw:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-axis:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-batik:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-bsf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-captcha:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.8
+      - 2.1.9
+  cocoon-chaperon:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-cron:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-databases:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-deli:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-deprecated:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-eventcache:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-faces:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-fop:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-forms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-hsqldb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-html:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-imageop:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.9
+  cocoon-itext:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-javaflow:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-jcr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.8
+      - 2.1.9
+  cocoon-jfor:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-jms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-jsp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-jxforms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+  cocoon-linkrewriter:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-linotype:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-lucene:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-mail:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-midi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-naming:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-ojb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-paranoid:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-petstore:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-php:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+  cocoon-poi:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-portal:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-portal-fw:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+  cocoon-precept:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+  cocoon-profiler:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-proxy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-python:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-qdox:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-querybean:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-repository:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-scratchpad:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+  cocoon-serializers:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-session-fw:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-slide:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-slop:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-stx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-swf:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+  cocoon-taglib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-template:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.9
+  cocoon-testcase:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.6
+      - 2.1.7
+      - 2.1.9
+  cocoon-tour:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-validation:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.8
+      - 2.1.9
+  cocoon-velocity:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-war:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.6
+      - 2.1.3
+      - 2.1.7
+      - 2.1.4
+  cocoon-web3:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-webdav:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-woody:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+  cocoon-xmldb:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+  cocoon-xsltal:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.8
+      - 2.1.9
+  cocoon-xsp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.5.1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+

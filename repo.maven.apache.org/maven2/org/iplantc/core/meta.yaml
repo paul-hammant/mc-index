@@ -1,0 +1,39 @@
+artifacts:
+  authn:
+    lastUpdated: 20140219193551
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.4
+  base-pom:
+    lastUpdated: 20140219193553
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.4
+  cas-extensions:
+    lastUpdated: 20140219193535
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  hibernatetoolkit:
+    lastUpdated: 20140219193553
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.4
+  metadactyl:
+    lastUpdated: 20140219193554
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.4
+  persistence:
+    lastUpdated: 20140219193555
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.4
+

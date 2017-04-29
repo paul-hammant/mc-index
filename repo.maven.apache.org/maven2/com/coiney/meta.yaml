@@ -1,0 +1,75 @@
+artifacts:
+  akka-mailer-core_2.10:
+    lastUpdated: 20140721063300
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-mailer-core_2.11:
+    lastUpdated: 20140721063300
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-mailer-sendgrid_2.10:
+    lastUpdated: 20140721063301
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-mailer-sendgrid_2.11:
+    lastUpdated: 20140721063301
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-mailer-smtp_2.10:
+    lastUpdated: 20140721063301
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-mailer-smtp_2.11:
+    lastUpdated: 20140721063301
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  akka-patterns_2.10:
+    lastUpdated: 20140721131228
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.5
+      - 0.1.6
+  akka-patterns_2.11:
+    lastUpdated: 20140721131228
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.6
+  akka-rabbit-core_2.10:
+    lastUpdated: 20140728143703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  akka-rabbit-core_2.11:
+    lastUpdated: 20140728143703
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  play-json-extras_2.10:
+    lastUpdated: 20140724083220
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  play-json-extras_2.11:
+    lastUpdated: 20140724083221
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

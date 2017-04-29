@@ -1,0 +1,55 @@
+artifacts:
+  akka-fastcgi_2.10:
+    lastUpdated: 20140703131055
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.1
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.2.0
+      - 0.2.1
+  akka-fastcgi_2.11:
+    lastUpdated: 20150907195035
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+  play-fastcgi_2.10:
+    lastUpdated: 20140703131056
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.1
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.2.0
+      - 0.2.1
+  play-fastcgi_2.11:
+    lastUpdated: 20150907195036
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+  spray-fastcgi_2.10:
+    lastUpdated: 20140703131057
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  spray-fastcgi_2.11:
+    lastUpdated: 20150907195036
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+

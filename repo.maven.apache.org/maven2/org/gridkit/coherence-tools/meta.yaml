@@ -1,0 +1,33 @@
+artifacts:
+  chtest:
+    lastUpdated: 20140120203653
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.1
+      - 0.2
+  coherence-tools-parent-pom:
+    lastUpdated: 20130714190910
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  pof-viewer:
+    lastUpdated: 20130329091221
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+

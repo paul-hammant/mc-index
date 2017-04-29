@@ -1,0 +1,904 @@
+artifacts:
+  jadex-android-antlr:
+    lastUpdated: 20130217115148
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.2
+      - 2.3
+  jadex-android-commons:
+    lastUpdated: 20130217115149
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.3
+      - 2.3
+  jadex-android-parent:
+    lastUpdated: 20130217115150
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.2
+      - 2.3
+  jadex-android-xmlpull:
+    lastUpdated: 20130217115150
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.2
+      - 2.3
+  jadex-applib-bdi:
+    lastUpdated: 20131220174109
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-bdi:
+    lastUpdated: 20131220174110
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-bdibpmn:
+    lastUpdated: 20131220174110
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-bdiv3:
+    lastUpdated: 20131220174111
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  jadex-applications-bpmn:
+    lastUpdated: 20131220174111
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-gpmn:
+    lastUpdated: 20131220174112
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-micro:
+    lastUpdated: 20131220174112
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-applications-webservice:
+    lastUpdated: 20131220174113
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-bridge:
+    lastUpdated: 20131220174113
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-commons:
+    lastUpdated: 20131220174114
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc3
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-distribution-minimal:
+    lastUpdated: 20131220174115
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-distribution-standard:
+    lastUpdated: 20131220174115
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-javaparser:
+    lastUpdated: 20131220174115
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-application:
+    lastUpdated: 20131220174116
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-base:
+    lastUpdated: 20131220174117
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-bdi:
+    lastUpdated: 20131220174117
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-bdibpmn:
+    lastUpdated: 20131220174118
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-bdiv3:
+    lastUpdated: 20131220174118
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  jadex-kernel-bpmn:
+    lastUpdated: 20131220174118
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-component:
+    lastUpdated: 20131220174119
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-extension-agr:
+    lastUpdated: 20131220174119
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-extension-envsupport:
+    lastUpdated: 20131220174120
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-extension-envsupport-opengl:
+    lastUpdated: 20110729163139
+    latest: 2.0-rc8
+    release: 2.0-rc8
+    versions:
+      - 2.0-rc7
+      - 2.0-rc8
+  jadex-kernel-gpmn:
+    lastUpdated: 20131220174121
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-kernel-micro:
+    lastUpdated: 20131220174121
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-model-bpmn:
+    lastUpdated: 20131220174122
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  jadex-nuggets:
+    lastUpdated: 20131220174122
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-parent:
+    lastUpdated: 20131220174122
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform:
+    lastUpdated: 20131220174123
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform-base:
+    lastUpdated: 20120729175503
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.0
+      - 2.1
+  jadex-platform-extension-relay:
+    lastUpdated: 20131220174123
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform-extension-webservice:
+    lastUpdated: 20131220174124
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform-extension-webservice-desktop:
+    lastUpdated: 20131220174124
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform-relay-web:
+    lastUpdated: 20131220174125
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-platform-standalone:
+    lastUpdated: 20120729175505
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.0
+      - 2.1
+  jadex-platform-standalone-launch:
+    lastUpdated: 20131220174125
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-rules:
+    lastUpdated: 20131220174126
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-rules-applications:
+    lastUpdated: 20131220174127
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-rules-eca:
+    lastUpdated: 20131220174127
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  jadex-rules-tools:
+    lastUpdated: 20131220174128
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-runtimetools:
+    lastUpdated: 20110930221829
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.0
+  jadex-runtimetools-android:
+    lastUpdated: 20130217115151
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.2
+      - 2.3
+  jadex-runtimetools-swing:
+    lastUpdated: 20131220174128
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-tools-base:
+    lastUpdated: 20131220174128
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.3
+      - 2.4
+  jadex-tools-base-swing:
+    lastUpdated: 20131220174129
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-tools-bdi:
+    lastUpdated: 20131220174129
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-tools-bpmn:
+    lastUpdated: 20131220174130
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-tools-comanalyzer:
+    lastUpdated: 20131220174131
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  jadex-xml:
+    lastUpdated: 20131220174131
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.0-rc3
+      - 2.0-rc4
+      - 2.0-rc5
+      - 2.0-rc6
+      - 2.0-rc7
+      - 2.0-rc8
+      - 2.0-rc9
+      - 2.0-rc10
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.4
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+

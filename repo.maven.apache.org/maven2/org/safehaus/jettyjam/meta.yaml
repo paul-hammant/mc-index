@@ -1,0 +1,92 @@
+artifacts:
+  https:
+    lastUpdated: 20140314235852
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jettyjam-https:
+    lastUpdated: 20140513182626
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  jettyjam-parent:
+    lastUpdated: 20140513182627
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  jettyjam-rest:
+    lastUpdated: 20140513182629
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  jettyjam-utils:
+    lastUpdated: 20140513182630
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  jettyjam-vaadin:
+    lastUpdated: 20140513182633
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  rest:
+    lastUpdated: 20140325001628
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  simple:
+    lastUpdated: 20140513182637
+    latest: 2.1.5
+    release: 2.1.5
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 2.0.0
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+  utils:
+    lastUpdated: 20140325001629
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  vaadin:
+    lastUpdated: 20140325001629
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

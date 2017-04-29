@@ -1,0 +1,43 @@
+artifacts:
+  jbox2d:
+    lastUpdated: 20130409225954
+    latest: 2.2.1.1
+    release: 2.2.1.1
+    versions:
+      - 2.1.2.0
+      - 2.1.2.2
+      - 2.1.2.3
+      - 2.2.1.1
+  jbox2d-library:
+    lastUpdated: 20130409225955
+    latest: 2.2.1.1
+    release: 2.2.1.1
+    versions:
+      - 2.1.2.0
+      - 2.1.2.2
+      - 2.1.2.3
+      - 2.2.1.1
+  jbox2d-serialization:
+    lastUpdated: 20130409225955
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  jbox2d-testbed:
+    lastUpdated: 20130409225956
+    latest: 2.2.1.1
+    release: 2.2.1.1
+    versions:
+      - 2.1.2.0
+      - 2.1.2.2
+      - 2.1.2.3
+      - 2.2.1.1
+  jbox2d-testbed-jogl:
+    lastUpdated: 20130409225956
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

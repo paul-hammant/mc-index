@@ -1,0 +1,65 @@
+artifacts:
+  macros_2.11:
+    lastUpdated: 20150610210942
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  oneand-argonaut_2.11:
+    lastUpdated: 20170110204038
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1
+  oneand-cats_2.11:
+    lastUpdated: 20170110204038
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  oneand-cats_sjs0.6_2.11:
+    lastUpdated: 20170110204039
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  oneand-core_2.11:
+    lastUpdated: 20170110204039
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1
+  oneand-core_sjs0.6_2.11:
+    lastUpdated: 20170110204039
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  oneand-scalaz_2.11:
+    lastUpdated: 20170110204040
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1
+  util_2.11:
+    lastUpdated: 20150613180645
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+

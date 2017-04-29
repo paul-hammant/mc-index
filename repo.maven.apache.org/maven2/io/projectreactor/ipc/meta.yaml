@@ -1,0 +1,22 @@
+artifacts:
+  reactor-ipc:
+    lastUpdated: 20170215114805
+    latest: 0.6.1.RELEASE
+    release: 0.6.1.RELEASE
+    versions:
+      - 0.5.0.RELEASE
+      - 0.5.1.RELEASE
+      - 0.6.0.RELEASE
+      - 0.6.1.RELEASE
+  reactor-netty:
+    lastUpdated: 20170310135112
+    latest: 0.6.2.RELEASE
+    release: 0.6.2.RELEASE
+    versions:
+      - 0.5.0.RELEASE
+      - 0.5.1.RELEASE
+      - 0.5.2.RELEASE
+      - 0.6.0.RELEASE
+      - 0.6.1.RELEASE
+      - 0.6.2.RELEASE
+

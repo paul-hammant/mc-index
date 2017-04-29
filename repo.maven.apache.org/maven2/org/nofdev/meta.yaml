@@ -1,0 +1,65 @@
+artifacts:
+  http-client-util:
+    lastUpdated: 20160825053855
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  service-client-java:
+    lastUpdated: 20170408054450
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.0.9
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.2
+  service-core:
+    lastUpdated: 20170404083448
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.3
+      - 1.2.0
+      - 1.2.1
+      - 1.3.1
+  service-host-mvc:
+    lastUpdated: 20170417022627
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.9
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.4.0
+      - 1.4.1
+  service-logging:
+    lastUpdated: 20170404085244
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.1
+  service-topic-consumer:
+    lastUpdated: 20170421020358
+    latest: 1.4.3-1
+    release: 1.4.3-1
+    versions:
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3-1
+  service-topic-producer:
+    lastUpdated: 20170412114131
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.0
+      - 1.4.0
+

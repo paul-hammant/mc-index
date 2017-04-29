@@ -1,0 +1,117 @@
+artifacts:
+  fr.lip6.pnml.check:
+    lastUpdated: 20160211164258
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.2.0
+      - 1.2.4
+  fr.lip6.pnml.framework.coremodel:
+    lastUpdated: 20160518155344
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.framework.hlpn:
+    lastUpdated: 20160518155347
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.framework.pthlpng:
+    lastUpdated: 20160518155348
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.framework.ptnet:
+    lastUpdated: 20160518155349
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.framework.symmetricnet:
+    lastUpdated: 20160518155350
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.framework.utils:
+    lastUpdated: 20160518155351
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  fr.lip6.pnml.nupn.toolinfo:
+    lastUpdated: 20160518155352
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  framework.releng:
+    lastUpdated: 20160518155353
+    latest: 2.2.12
+    release: 2.2.12
+    versions:
+      - 2.2.6
+      - 2.2.8
+      - 2.2.8.1
+      - 2.2.9
+      - 2.2.10
+      - 2.2.11
+      - 2.2.12
+  validation.releng:
+    lastUpdated: 20160211164259
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.2.0
+      - 1.2.4
+

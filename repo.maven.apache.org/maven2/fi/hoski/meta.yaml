@@ -1,0 +1,51 @@
+artifacts:
+  hoski-admin:
+    lastUpdated: 20160225205925
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  hoski-lib:
+    lastUpdated: 20160525203039
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  hoski-weblib:
+    lastUpdated: 20160601155012
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  parent:
+    lastUpdated: 20160224154249
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.6
+      - 1.0.7
+

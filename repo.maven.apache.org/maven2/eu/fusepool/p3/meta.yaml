@@ -1,0 +1,55 @@
+artifacts:
+  accept-header-utils:
+    lastUpdated: 20150210104339
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  p3:
+    lastUpdated: 20140805155745
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  transformer-client-library:
+    lastUpdated: 20150523193109
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+  transformer-commons:
+    lastUpdated: 20140814134935
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  transformer-implementation-library:
+    lastUpdated: 20150523170432
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+  vocab:
+    lastUpdated: 20151016144226
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.1
+      - 0.2
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 0.1
+      - 0.2
+

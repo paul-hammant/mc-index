@@ -1,0 +1,224 @@
+artifacts:
+  regextractor-macro_2.11:
+    lastUpdated: 20161107193000
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  regextractor-macro_2.12:
+    lastUpdated: 20161107193001
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  regextractor_2.11:
+    lastUpdated: 20161107193001
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  regextractor_2.12:
+    lastUpdated: 20161107193002
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  scala-java-time_2.10:
+    lastUpdated: 20161108003404
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_2.11:
+    lastUpdated: 20161108003404
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_2.12:
+    lastUpdated: 20161108003405
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_2.12.0-M5:
+    lastUpdated: 20160809132633
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  scala-java-time_sjs0.6_2.10:
+    lastUpdated: 20161108003405
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_sjs0.6_2.11:
+    lastUpdated: 20161108003406
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_sjs0.6_2.12:
+    lastUpdated: 20161108003406
+    latest: 2.0.0-M5
+    release: 2.0.0-M5
+    versions:
+      - 2.0.0-M4
+      - 2.0.0-M5
+  scala-java-time_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160809132635
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  testng-interface_2.10:
+    lastUpdated: 20161106190734
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-interface_2.11:
+    lastUpdated: 20161106190735
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-interface_2.12:
+    lastUpdated: 20161106190735
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M3
+  testng-interface_2.12.0-M5:
+    lastUpdated: 20160727195408
+    latest: 4.0.0-M2
+    release: 4.0.0-M2
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+  testng-interface_sjs0.6_2.10:
+    lastUpdated: 20161106190736
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-interface_sjs0.6_2.11:
+    lastUpdated: 20161106190736
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-interface_sjs0.6_2.12:
+    lastUpdated: 20161106190736
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M3
+  testng-interface_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160727195408
+    latest: 4.0.0-M2
+    release: 4.0.0-M2
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+  testng-runtime_sjs0.6_2.10:
+    lastUpdated: 20161106190737
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-runtime_sjs0.6_2.11:
+    lastUpdated: 20161106190737
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-runtime_sjs0.6_2.12:
+    lastUpdated: 20161106190738
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M3
+  testng-runtime_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160727195410
+    latest: 4.0.0-M2
+    release: 4.0.0-M2
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+  testng-scalajs-plugin_2.10.6:
+    lastUpdated: 20161106190738
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-scalajs-plugin_2.11.8:
+    lastUpdated: 20161106190739
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+      - 4.0.0-M3
+  testng-scalajs-plugin_2.12.0:
+    lastUpdated: 20161106190739
+    latest: 4.0.0-M3
+    release: 4.0.0-M3
+    versions:
+      - 4.0.0-M3
+  testng-scalajs-plugin_2.12.0-M5:
+    lastUpdated: 20160727195410
+    latest: 4.0.0-M2
+    release: 4.0.0-M2
+    versions:
+      - 4.0.0-M0
+      - 4.0.0-M1
+      - 4.0.0-M2
+

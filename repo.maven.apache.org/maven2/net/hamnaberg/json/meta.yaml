@@ -1,0 +1,218 @@
+artifacts:
+  collection-json-jaxrs:
+    lastUpdated: 20131210092352
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  immutable-json:
+    lastUpdated: 20170406084543
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 1.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+      - 1.0
+  immutable-json-ast:
+    lastUpdated: 20170406084544
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-codec:
+    lastUpdated: 20170406084544
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-core:
+    lastUpdated: 20170406084545
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-jackson:
+    lastUpdated: 20170406084545
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-javax:
+    lastUpdated: 20170406084546
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-native:
+    lastUpdated: 20170406084546
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-patch:
+    lastUpdated: 20170406084547
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-pointer:
+    lastUpdated: 20170406084547
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  immutable-json-reflection-codec:
+    lastUpdated: 20170406084548
+    latest: 5.1.0
+    release: 5.1.0
+    versions:
+      - 3.0.0
+      - 3.5.0
+      - 3.6.0
+      - 3.6.1
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 5.0.0
+      - 5.1.0
+  json-ast:
+    lastUpdated: 20151005190213
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  json-core:
+    lastUpdated: 20151005190214
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  json-jackson:
+    lastUpdated: 20151005190215
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  json-javax:
+    lastUpdated: 20151005190215
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  json-pointer:
+    lastUpdated: 20151005190216
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

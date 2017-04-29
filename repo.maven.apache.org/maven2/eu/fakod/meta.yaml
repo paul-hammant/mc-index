@@ -1,0 +1,43 @@
+artifacts:
+  neo4j-scala_2.10:
+    lastUpdated: 20160211065927
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.0
+      - 0.3.2
+      - 0.3.3
+  neo4j-scala_2.11:
+    lastUpdated: 20160211065927
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  sjersey-client_2.10:
+    lastUpdated: 20131129132119
+    latest: 0.3.3
+    release: 0.3.3
+    versions:
+      - 0.3.3
+  sjersey-client_2.9:
+    lastUpdated: 20131129092355
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.2
+  sjersey_2.10:
+    lastUpdated: 20160101162324
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.3.3
+      - 0.4.0
+      - 0.4.1
+      - 0.4.3
+  sjersey_2.11:
+    lastUpdated: 20160101162324
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.3
+

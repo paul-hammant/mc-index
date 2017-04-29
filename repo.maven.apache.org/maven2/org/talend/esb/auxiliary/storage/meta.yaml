@@ -1,0 +1,230 @@
+artifacts:
+  auxiliary-storage-client-common:
+    lastUpdated: 20170206105606
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-client-rest:
+    lastUpdated: 20170206105607
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-commands:
+    lastUpdated: 20170206105608
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-common:
+    lastUpdated: 20170206105608
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-features:
+    lastUpdated: 20170206105609
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-parent:
+    lastUpdated: 20170206105609
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-persistence:
+    lastUpdated: 20170206105609
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-persistence-file:
+    lastUpdated: 20170206105610
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-persistence-jcr:
+    lastUpdated: 20170206105610
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-rest-security:
+    lastUpdated: 20170206105611
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-server:
+    lastUpdated: 20170206105611
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+  auxiliary-storage-service-rest:
+    lastUpdated: 20170206105612
+    latest: 6.3.1
+    release: 6.3.1
+    versions:
+      - 5.6.0
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 6.0.0
+      - 6.0.1
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 6.2.1
+      - 6.2.2
+      - 6.3.0
+      - 6.3.1
+

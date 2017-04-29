@@ -1,0 +1,47 @@
+artifacts:
+  ghostdriver-substeps:
+    lastUpdated: 20151017140510
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  restdriver-substeps:
+    lastUpdated: 20160407170458
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  substeps-cli-runner:
+    lastUpdated: 20151017152314
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  substeps-cli-runner-bundle:
+    lastUpdated: 20151017152314
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  substeps-cli-runner-parent:
+    lastUpdated: 20151017152314
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  webdriver-substeps-patch:
+    lastUpdated: 20151017152314
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+

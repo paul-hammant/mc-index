@@ -1,0 +1,61 @@
+artifacts:
+  ansj_lucene3_plug:
+    lastUpdated: 20160828073117
+    latest: 5.0.2
+    release: 5.0.2
+    versions:
+      - 5.0.2
+  ansj_lucene4_plug:
+    lastUpdated: 20160828073118
+    latest: 5.0.2
+    release: 5.0.2
+    versions:
+      - 5.0.2
+  ansj_lucene5_plug:
+    lastUpdated: 20170320110430
+    latest: 5.1.1.2
+    release: 5.1.1.2
+    versions:
+      - 5.0.2
+      - 5.0.2.1
+      - 5.0.3.0
+      - 5.1.0.0
+      - 5.1.1.0
+      - 5.1.1.1
+      - 5.1.1.2
+  ansj_lucene6_plug:
+    lastUpdated: 20170320110431
+    latest: 5.1.1.1
+    release: 5.1.1.1
+    versions:
+      - 5.0.2
+      - 5.0.4
+      - 5.1.1.0
+      - 5.1.1.1
+  ansj_plugin:
+    lastUpdated: 20160831053853
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  ansj_seg:
+    lastUpdated: 20170124160644
+    latest: 5.1.1
+    release: 5.1.1
+    versions:
+      - 0.9
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.1.0
+      - 5.1.1
+      - 0.9
+  tree_split:
+    lastUpdated: 20160827141209
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0.1
+      - 1.5
+      - 1.5
+

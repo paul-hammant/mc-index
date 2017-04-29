@@ -1,0 +1,570 @@
+artifacts:
+  MetaModel:
+    lastUpdated: 20170204151524
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-cassandra:
+    lastUpdated: 20170204151524
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-core:
+    lastUpdated: 20170204151525
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-couchdb:
+    lastUpdated: 20170204151526
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-csv:
+    lastUpdated: 20170204151527
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-dynamodb:
+    lastUpdated: 20170204151527
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.6.0
+  MetaModel-elasticsearch:
+    lastUpdated: 20170204151527
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-elasticsearch-common:
+    lastUpdated: 20170204151528
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-elasticsearch-native:
+    lastUpdated: 20170204151528
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-elasticsearch-rest:
+    lastUpdated: 20170204151529
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-excel:
+    lastUpdated: 20170204151529
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-fixedwidth:
+    lastUpdated: 20170204151530
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-full:
+    lastUpdated: 20170204151530
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-hadoop:
+    lastUpdated: 20170204151534
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-hbase:
+    lastUpdated: 20170204151534
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-jdbc:
+    lastUpdated: 20170204151535
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-json:
+    lastUpdated: 20170204151536
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-mongodb:
+    lastUpdated: 20170204151536
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-mongodb-common:
+    lastUpdated: 20170204151536
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-mongodb-mongo2:
+    lastUpdated: 20170204151537
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-mongodb-mongo3:
+    lastUpdated: 20170204151537
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-neo4j:
+    lastUpdated: 20170204151538
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-openoffice:
+    lastUpdated: 20170204151538
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-pojo:
+    lastUpdated: 20170204151539
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-salesforce:
+    lastUpdated: 20170204151539
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-spring:
+    lastUpdated: 20170204151540
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-sugarcrm:
+    lastUpdated: 20170204151540
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+  MetaModel-xml:
+    lastUpdated: 20170204151541
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 4.0.0-incubating
+      - 4.1.0-RC1-incubating
+      - 4.2.0-incubating
+      - 4.3.0-incubating
+      - 4.3.1
+      - 4.3.2
+      - 4.3.3
+      - 4.3.4
+      - 4.3.5
+      - 4.3.6
+      - 4.4.0-RC1
+      - 4.4.0
+      - 4.4.1
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 4.6.0
+

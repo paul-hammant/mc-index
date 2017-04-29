@@ -1,0 +1,72 @@
+artifacts:
+  apps-scaripped-api_sjs0.6_2.11:
+    lastUpdated: 20161022004330
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  apps-scaripped-exporter_2.11:
+    lastUpdated: 20161022004331
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  apps-scaripped-scraper_2.11:
+    lastUpdated: 20161022004331
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  apps-scaripped_2.11:
+    lastUpdated: 20161022004331
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  spark-excel_2.10:
+    lastUpdated: 20170323163142
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.2
+      - 0.8.3
+  spark-excel_2.11:
+    lastUpdated: 20170323163142
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.2
+      - 0.8.3
+  spark-google-adwords_2.10:
+    lastUpdated: 20170411103104
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  spark-google-adwords_2.11:
+    lastUpdated: 20170411103104
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  spark-google-analytics_2.10:
+    lastUpdated: 20170303152621
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  spark-google-analytics_2.11:
+    lastUpdated: 20170303152621
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 1.0.0
+      - 1.1.0
+

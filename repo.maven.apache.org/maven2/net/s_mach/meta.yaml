@@ -1,0 +1,155 @@
+artifacts:
+  codetools-core_2.11:
+    lastUpdated: 20161211203922
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 2.0.0
+      - 2.1.0
+  codetools-core_2.12:
+    lastUpdated: 20161211203922
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  codetools-play_json_2.11:
+    lastUpdated: 20161211203923
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  codetools_2.11:
+    lastUpdated: 20161211203923
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 2.0.0
+      - 2.1.0
+  codetools_2.12:
+    lastUpdated: 20161211203924
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  concurrent_2.11:
+    lastUpdated: 20161212015116
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.1.0
+      - 2.0.0
+  concurrent_2.12:
+    lastUpdated: 20161212015117
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  datadiff-core_2.11:
+    lastUpdated: 20170203000217
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  datadiff-core_2.12:
+    lastUpdated: 20161211212558
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  datadiff_2.11:
+    lastUpdated: 20170203000218
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  datadiff_2.12:
+    lastUpdated: 20161211212559
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  i18n_2.11:
+    lastUpdated: 20161211211623
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  i18n_2.12:
+    lastUpdated: 20161211211623
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  metadata_2.11:
+    lastUpdated: 20160428132719
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  s_mach-datadiff_2.11:
+    lastUpdated: 20170203000219
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  s_mach-datadiff_2.12:
+    lastUpdated: 20161211212600
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  string_2.11:
+    lastUpdated: 20161211195900
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.1
+      - 2.0.0
+      - 2.1.0
+  string_2.12:
+    lastUpdated: 20161211195900
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  validate-core_2.11:
+    lastUpdated: 20150615043732
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  validate-play-json_2.11:
+    lastUpdated: 20150615043732
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  validate_2.11:
+    lastUpdated: 20150615043733
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,219 @@
+artifacts:
+  ajsc:
+    lastUpdated: 20161204032637
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-api:
+    lastUpdated: 20161204032637
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-archetype:
+    lastUpdated: 20161204032637
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-archetype-parent:
+    lastUpdated: 20161204032637
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-bom:
+    lastUpdated: 20161204032638
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-core:
+    lastUpdated: 20161204032638
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-runner:
+    lastUpdated: 20161204032639
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  ajsc-surfsup-archetype:
+    lastUpdated: 20161202004318
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ajsc-war:
+    lastUpdated: 20161204032641
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 3.0.0
+  sdk-camunda-archetype:
+    lastUpdated: 20170331200628
+    latest: 7.6.2-00
+    release: 7.6.2-00
+    versions:
+      - 7.6.2-00
+  sdk-java-aaf-interceptors:
+    lastUpdated: 20170330195940
+    latest: 6.0.0.7
+    release: 6.0.0.7
+    versions:
+      - 6.0.0.7
+  sdk-java-camel-archetype:
+    lastUpdated: 20170331171436
+    latest: 6.2.0.6
+    release: 6.2.0.6
+    versions:
+      - 6.2.0.6
+  sdk-java-camel-interceptor:
+    lastUpdated: 20170329181440
+    latest: 6.2.0.5
+    release: 6.2.0.5
+    versions:
+      - 6.2.0.5
+  sdk-java-camel-rest:
+    lastUpdated: 20170329204946
+    latest: 6.2.0.6
+    release: 6.2.0.6
+    versions:
+      - 6.2.0.6
+  sdk-java-camunda-core:
+    lastUpdated: 20170331200539
+    latest: 6.1.0.3
+    release: 6.1.0.3
+    versions:
+      - 6.1.0.3
+  sdk-java-common-interceptors:
+    lastUpdated: 20170330173238
+    latest: 6.1.0.6
+    release: 6.1.0.6
+    versions:
+      - 6.1.0.6
+  sdk-java-common-logging:
+    lastUpdated: 20170327222110
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  sdk-java-configuration:
+    lastUpdated: 20170329174358
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.3
+      - 6.2.0.4
+  sdk-java-dao:
+    lastUpdated: 20170329171805
+    latest: 6.2.0.5
+    release: 6.2.0.5
+    versions:
+      - 6.2.0.3
+      - 6.2.0.5
+  sdk-java-error:
+    lastUpdated: 20170329170521
+    latest: 6.2.0.6
+    release: 6.2.0.6
+    versions:
+      - 6.2.0.6
+  sdk-java-interceptor:
+    lastUpdated: 20170329172437
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.4
+  sdk-java-introscope-interceptors:
+    lastUpdated: 20170329192950
+    latest: 6.0.0.1
+    release: 6.0.0.1
+    versions:
+      - 6.0.0.1
+  sdk-java-jersey-archetype:
+    lastUpdated: 20170331202307
+    latest: 6.3.3.8
+    release: 6.3.3.8
+    versions:
+      - 6.3.3.8
+  sdk-java-logging-interceptor:
+    lastUpdated: 20170329193916
+    latest: 6.0.0.1
+    release: 6.0.0.1
+    versions:
+      - 6.0.0.1
+  sdk-java-rest:
+    lastUpdated: 20170330213605
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.4
+  sdk-java-restlet-archetype:
+    lastUpdated: 20170331203655
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.4
+  sdk-java-restlet-common:
+    lastUpdated: 20170330182134
+    latest: 6.2.0.2
+    release: 6.2.0.2
+    versions:
+      - 6.2.0.2
+  sdk-java-restlet-interceptor:
+    lastUpdated: 20170329192052
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.4
+  sdk-java-si-interceptor:
+    lastUpdated: 20170329180549
+    latest: 6.2.0.1
+    release: 6.2.0.1
+    versions:
+      - 6.2.0.1
+  sdk-java-spring-cloud-file:
+    lastUpdated: 20170330164858
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.10
+  sdk-java-springservice:
+    lastUpdated: 20170329204247
+    latest: 6.2.0.4
+    release: 6.2.0.4
+    versions:
+      - 6.2.0.4
+  sdk-java-starter-parent:
+    lastUpdated: 20170329164100
+    latest: 6.1.0.4
+    release: 6.1.0.4
+    versions:
+      - 6.1.0.3
+      - 6.1.0.4
+  sdk-java-utility:
+    lastUpdated: 20170329173851
+    latest: 6.2.0.5
+    release: 6.2.0.5
+    versions:
+      - 6.2.0.5
+

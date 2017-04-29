@@ -1,0 +1,223 @@
+artifacts:
+  flume-ng-auth:
+    lastUpdated: 20161017115646
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+  flume-ng-channels:
+    lastUpdated: 20161017115646
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-incubating
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-clients:
+    lastUpdated: 20161017115649
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-configuration:
+    lastUpdated: 20161017115651
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-core:
+    lastUpdated: 20161017115652
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-incubating
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-dist:
+    lastUpdated: 20161017115652
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-embedded-agent:
+    lastUpdated: 20161017115655
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-legacy-sources:
+    lastUpdated: 20161017115656
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-node:
+    lastUpdated: 20161017115657
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-incubating
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-sdk:
+    lastUpdated: 20161017115658
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-sinks:
+    lastUpdated: 20161017115658
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-incubating
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-sources:
+    lastUpdated: 20161017115704
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-ng-tests:
+    lastUpdated: 20161017115708
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-parent:
+    lastUpdated: 20161017115709
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.0.0-incubating
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+  flume-shared:
+    lastUpdated: 20161017115709
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  flume-tools:
+    lastUpdated: 20161017115711
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.4.0
+      - 1.5.0
+      - 1.5.0.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+

@@ -1,0 +1,65 @@
+artifacts:
+  drmaa-common:
+    lastUpdated: 20120417194445
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  drmaa-gridengine:
+    lastUpdated: 20120417194440
+    latest: 6.2u5
+    release: 6.2u5
+    versions:
+      - 6.2u5
+  jackson-dataformat-rserve:
+    lastUpdated: 20170227170914
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  jsonpath-jaxrs-filter:
+    lastUpdated: 20170422161101
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  remote-drmaa-client:
+    lastUpdated: 20120417194440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  remote-drmaa-common:
+    lastUpdated: 20120417194445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  remote-drmaa-server-common:
+    lastUpdated: 20120417194440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  remote-drmaa-server-gridengine:
+    lastUpdated: 20120417194441
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  rserve-client:
+    lastUpdated: 20170324100140
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  tools-collections:
+    lastUpdated: 20120417194440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

@@ -1,0 +1,468 @@
+artifacts:
+  tranql:
+    lastUpdated: 20100817082335
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4
+      - 1.4.1
+  tranql-connector:
+    lastUpdated: 20130408233614
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-db2:
+    lastUpdated: 20130408233615
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-db2-common:
+    lastUpdated: 20130408233616
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-db2-local:
+    lastUpdated: 20100817082350
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  tranql-connector-db2-xa:
+    lastUpdated: 20130408233616
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-db2ISeries:
+    lastUpdated: 20130408233617
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  tranql-connector-db2ISeries-common:
+    lastUpdated: 20130408233618
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  tranql-connector-db2ISeries-xa:
+    lastUpdated: 20130408233619
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  tranql-connector-derby:
+    lastUpdated: 20130408233619
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-derby-client-local:
+    lastUpdated: 20130408233620
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-derby-client-xa:
+    lastUpdated: 20130408233620
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-derby-common:
+    lastUpdated: 20130408233621
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-derby-embed-local:
+    lastUpdated: 20130408233622
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-derby-embed-xa:
+    lastUpdated: 20130408233623
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-generic:
+    lastUpdated: 20130408233623
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-informix:
+    lastUpdated: 20130408233624
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-informix-common:
+    lastUpdated: 20130408233624
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-informix-xa:
+    lastUpdated: 20130408233625
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-mysql:
+    lastUpdated: 20130408233627
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  tranql-connector-mysql-common:
+    lastUpdated: 20130408233627
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  tranql-connector-mysql-local:
+    lastUpdated: 20130408233628
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  tranql-connector-mysql-xa:
+    lastUpdated: 20130408233629
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  tranql-connector-oracle:
+    lastUpdated: 20130408233630
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-oracle-common:
+    lastUpdated: 20130408233630
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-oracle-local:
+    lastUpdated: 20130408233631
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-oracle-rac-local:
+    lastUpdated: 20130408233632
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-oracle-xa:
+    lastUpdated: 20130408233633
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-parent:
+    lastUpdated: 20130408233633
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  tranql-connector-postgresql:
+    lastUpdated: 20130408233634
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-postgresql-common:
+    lastUpdated: 20130408233635
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-postgresql-local:
+    lastUpdated: 20130408233635
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-postgresql-xa:
+    lastUpdated: 20130408233637
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  tranql-connector-ra:
+    lastUpdated: 20130408233637
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  tranql-connector-sqlserver2000:
+    lastUpdated: 20130408233638
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2000-common:
+    lastUpdated: 20130408233639
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2000-xa:
+    lastUpdated: 20130408233640
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2005:
+    lastUpdated: 20130408233640
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2005-common:
+    lastUpdated: 20130408233641
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2005-xa:
+    lastUpdated: 20130408233641
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  tranql-connector-sqlserver2008:
+    lastUpdated: 20130408233642
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  tranql-connector-sqlserver2008-common:
+    lastUpdated: 20130408233643
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  tranql-connector-sqlserver2008-xa:
+    lastUpdated: 20130408233644
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  tranql-jar-resource-bundle:
+    lastUpdated: 20100817082348
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  tranql-parent:
+    lastUpdated: 20100817082339
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+

@@ -1,0 +1,200 @@
+artifacts:
+  mayocat-shop-application:
+    lastUpdated: 20150309063744
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-billing:
+    lastUpdated: 20150309063746
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-billing-api:
+    lastUpdated: 20150309063747
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-billing-internal:
+    lastUpdated: 20150309063747
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-cart:
+    lastUpdated: 20150309063748
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-cart-api:
+    lastUpdated: 20150309063748
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-cart-internal:
+    lastUpdated: 20150309063748
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-catalog:
+    lastUpdated: 20150309063750
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-catalog-api:
+    lastUpdated: 20150309063750
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-catalog-internal:
+    lastUpdated: 20150309063751
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-checkout:
+    lastUpdated: 20150309063751
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-client:
+    lastUpdated: 20150309063752
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-customer:
+    lastUpdated: 20150309063753
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-customer-api:
+    lastUpdated: 20150309063753
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-customer-internal:
+    lastUpdated: 20150309063754
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-customer-web:
+    lastUpdated: 20150309063754
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-distribution:
+    lastUpdated: 20150309062612
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-marketplace:
+    lastUpdated: 20150309063757
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-model:
+    lastUpdated: 20150309063758
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-parent:
+    lastUpdated: 20150309063758
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment:
+    lastUpdated: 20150309063758
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment-api:
+    lastUpdated: 20150309063759
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment-internal:
+    lastUpdated: 20150309063759
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment-vendor:
+    lastUpdated: 20150309063800
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment-vendor-paypal:
+    lastUpdated: 20150309063801
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-payment-vendor-paypal-adaptivepayments:
+    lastUpdated: 20150309063801
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-shipping:
+    lastUpdated: 20150309063802
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-shipping-api:
+    lastUpdated: 20150309063802
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-shipping-internal:
+    lastUpdated: 20150309063802
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-taxes:
+    lastUpdated: 20150309063803
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-taxes-api:
+    lastUpdated: 20150309063803
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-taxes-internal:
+    lastUpdated: 20150309063804
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+  mayocat-shop-themes:
+    lastUpdated: 20150309063804
+    latest: 0.40.0
+    release: 0.40.0
+    versions:
+      - 0.40.0
+

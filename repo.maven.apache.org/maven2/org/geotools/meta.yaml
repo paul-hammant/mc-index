@@ -1,0 +1,266 @@
+artifacts:
+  extension:
+    lastUpdated: 20090224193046
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  geotools:
+    lastUpdated: 20090224191259
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-api:
+    lastUpdated: 20090224192753
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-coverage:
+    lastUpdated: 20090224193537
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-coverageio:
+    lastUpdated: 20090224201352
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-coverageio-netcdf:
+    lastUpdated: 20090224201435
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-cql:
+    lastUpdated: 20090224193459
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-data:
+    lastUpdated: 20090224193619
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-db2:
+    lastUpdated: 20090125171835
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-display:
+    lastUpdated: 20090224201513
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-epsg-hsql:
+    lastUpdated: 20090224192850
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-epsg-postgresql:
+    lastUpdated: 20090125171912
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-geotiff:
+    lastUpdated: 20090224194104
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-gml:
+    lastUpdated: 20090224201547
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-go2:
+    lastUpdated: 20090224201622
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-go2-style-extension:
+    lastUpdated: 20090224201702
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-graph:
+    lastUpdated: 20090224193110
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-image:
+    lastUpdated: 20090224194140
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-jasperreport:
+    lastUpdated: 20090224201740
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-jdbc:
+    lastUpdated: 20090224194025
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-main:
+    lastUpdated: 20090224192951
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-metadata:
+    lastUpdated: 20090224192342
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-openoffice:
+    lastUpdated: 20090224195219
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-postgis:
+    lastUpdated: 20090224194216
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-property:
+    lastUpdated: 20090125172133
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-referencing:
+    lastUpdated: 20090224192705
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-referencing3D:
+    lastUpdated: 20090224194254
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-render:
+    lastUpdated: 20090224193910
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-sample-data:
+    lastUpdated: 20090224192523
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-shapefile:
+    lastUpdated: 20090224194425
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-sld:
+    lastUpdated: 20090224194337
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-style:
+    lastUpdated: 20090224193753
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-temporal:
+    lastUpdated: 20090224202243
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-validation:
+    lastUpdated: 20090224195254
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-wfs:
+    lastUpdated: 20090224195142
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-widgets-swing:
+    lastUpdated: 20090224195332
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-widgets-swing-pending:
+    lastUpdated: 20090224202326
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-wms:
+    lastUpdated: 20090224194506
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  gt-xml:
+    lastUpdated: 20090224193944
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  library:
+    lastUpdated: 20090224192314
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  modules:
+    lastUpdated: 20090224192247
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  ogc:
+    lastUpdated: 20090224201815
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  plugin:
+    lastUpdated: 20090224192829
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+  unsupported:
+    lastUpdated: 20090224201328
+    latest: {}
+    release: {}
+    versions:
+      - 2.9-SNAPSHOT
+

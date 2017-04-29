@@ -1,0 +1,45 @@
+artifacts:
+  conformance:
+    lastUpdated: 20081013184222
+    latest: {}
+    release: {}
+    versions:
+      - 2.2-SNAPSHOT
+  examples:
+    lastUpdated: 20081013184141
+    latest: {}
+    release: {}
+    versions:
+      - 2.2-SNAPSHOT
+  geoapi:
+    lastUpdated: 20110602183111
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2-SNAPSHOT
+      - 3.0.0
+  geoapi-conformance:
+    lastUpdated: 20110602183111
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  geoapi-parent:
+    lastUpdated: 20110602183111
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  parent:
+    lastUpdated: 20081013183859
+    latest: {}
+    release: {}
+    versions:
+      - 2.2-SNAPSHOT
+  tools:
+    lastUpdated: 20081013184102
+    latest: {}
+    release: {}
+    versions:
+      - 2.2-SNAPSHOT
+

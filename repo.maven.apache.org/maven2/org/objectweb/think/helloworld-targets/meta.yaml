@@ -1,0 +1,44 @@
+artifacts:
+  helloworld-lxsimenv:
+    lastUpdated: 20071105151328
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-posix:
+    lastUpdated: 20071105151243
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-st8010-host-bare:
+    lastUpdated: 20071105151519
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-stm8010-avdec:
+    lastUpdated: 20071105151429
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-stm8010-host-linux:
+    lastUpdated: 20071105151609
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  helloworld-stm8010-parent:
+    lastUpdated: 20071105151357
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  parent:
+    lastUpdated: 20071105151215
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+

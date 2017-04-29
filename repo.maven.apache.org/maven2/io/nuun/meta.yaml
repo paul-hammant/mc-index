@@ -1,0 +1,99 @@
+artifacts:
+  kernel:
+    lastUpdated: 20160423140005
+    latest: 1.0.M9
+    release: 1.0.M9
+    versions:
+      - 1.0.M1
+      - 1.0.M2
+      - 1.0.M4
+      - 1.0.M5
+      - 1.0.M6
+      - 1.0.M7
+      - 1.0.M9
+  kernel-core:
+    lastUpdated: 20160423140005
+    latest: 1.0.M9
+    release: 1.0.M9
+    versions:
+      - 1.0.M1
+      - 1.0.M2
+      - 1.0.M4
+      - 1.0.M5
+      - 1.0.M6
+      - 1.0.M7
+      - 1.0.M9
+  kernel-listener:
+    lastUpdated: 20150217203318
+    latest: 1.0.M2
+    release: 1.0.M2
+    versions:
+      - 1.0.M2
+  kernel-specs:
+    lastUpdated: 20160423140006
+    latest: 1.0.M9
+    release: 1.0.M9
+    versions:
+      - 1.0.M1
+      - 1.0.M2
+      - 1.0.M4
+      - 1.0.M5
+      - 1.0.M6
+      - 1.0.M7
+      - 1.0.M9
+  kernel-tests:
+    lastUpdated: 20160423140006
+    latest: 1.0.M9
+    release: 1.0.M9
+    versions:
+      - 1.0.M1
+      - 1.0.M2
+      - 1.0.M4
+      - 1.0.M5
+      - 1.0.M6
+      - 1.0.M7
+      - 1.0.M9
+  nuun-cli-plugin:
+    lastUpdated: 20141022222253
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-configuration-common-plugin:
+    lastUpdated: 20141022225712
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-configuration-props-plugin:
+    lastUpdated: 20141022230111
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-log-plugin:
+    lastUpdated: 20141022220847
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-rest-plugin:
+    lastUpdated: 20141022230508
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-spring-plugin:
+    lastUpdated: 20141022221440
+    latest: 1.0.M1
+    release: 1.0.M1
+    versions:
+      - 1.0.M1
+  nuun-web-plugin:
+    lastUpdated: 20141126135603
+    latest: 1.0.M2
+    release: 1.0.M2
+    versions:
+      - 1.0.M1
+      - 1.0.M2
+

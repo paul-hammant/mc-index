@@ -1,0 +1,44 @@
+artifacts:
+  shelbie-builtin-commands:
+    lastUpdated: 20130830144747
+    latest: 2.0.0-RC1
+    release: 2.0.0-RC1
+    versions:
+      - 2.0.0-RC1
+  shelbie-config-commands:
+    lastUpdated: 20130617075810
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.1
+  shelbie-felix-commands:
+    lastUpdated: 20120402095048
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  shelbie-ipojo-commands:
+    lastUpdated: 20130826123931
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+      - 2.1
+  shelbie-jonas-commands:
+    lastUpdated: 20121105100235
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  shelbie-ssh-commands:
+    lastUpdated: 20120830095507
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+

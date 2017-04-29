@@ -1,0 +1,125 @@
+artifacts:
+  org.everit.authentication.cas:
+    lastUpdated: 20151015140043
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.cas.ecm:
+    lastUpdated: 20151015140606
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.context.api:
+    lastUpdated: 20150930103437
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.context.ri:
+    lastUpdated: 20151006131514
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.context.ri.ecm:
+    lastUpdated: 20161022215341
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.http.basic:
+    lastUpdated: 20151006135950
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.http.basic.ecm:
+    lastUpdated: 20151008075736
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.http.form:
+    lastUpdated: 20151009084420
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.http.form.ecm:
+    lastUpdated: 20161024140038
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.http.session:
+    lastUpdated: 20151006132411
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.http.session.ecm:
+    lastUpdated: 20161024010358
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.oauth2.api:
+    lastUpdated: 20151016092853
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.oauth2.ri:
+    lastUpdated: 20161024224003
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.oauth2.ri.api:
+    lastUpdated: 20151016093544
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.everit.authentication.oauth2.ri.ecm:
+    lastUpdated: 20161025003558
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.oauth2.ri.schema.qdsl:
+    lastUpdated: 20161024222804
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.simple:
+    lastUpdated: 20161023225652
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.simple.ecm:
+    lastUpdated: 20161024001024
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+  org.everit.authentication.simple.schema.qdsl:
+    lastUpdated: 20161023225547
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 2.0.0
+

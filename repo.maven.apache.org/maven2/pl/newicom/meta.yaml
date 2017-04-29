@@ -1,0 +1,37 @@
+artifacts:
+  resttest_2.11:
+    lastUpdated: 20170219101813
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.4.0
+  resttest_2.12:
+    lastUpdated: 20170217190937
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sbt-cucumber-integration_2.11:
+    lastUpdated: 20150526100051
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sbt-cucumber-parent_2.11:
+    lastUpdated: 20150526100056
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  schale_2.11:
+    lastUpdated: 20150724090420
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

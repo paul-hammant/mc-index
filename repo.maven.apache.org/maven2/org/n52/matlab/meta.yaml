@@ -1,0 +1,54 @@
+artifacts:
+  matlab-connector:
+    lastUpdated: 20150904123352
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  matlab-connector-client:
+    lastUpdated: 20150904123352
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  matlab-connector-common:
+    lastUpdated: 20150904123353
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  matlab-connector-server:
+    lastUpdated: 20150904123353
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  matlab-control:
+    lastUpdated: 20150903104414
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  matlab-control-demo:
+    lastUpdated: 20150903104414
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  matlab-control-jmistub:
+    lastUpdated: 20150903104414
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+  matlab-control-parent:
+    lastUpdated: 20150903104415
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 5.0.0
+

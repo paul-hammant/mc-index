@@ -1,0 +1,227 @@
+artifacts:
+  azure-nosql:
+    lastUpdated: 20161127073855
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+  azure-storage:
+    lastUpdated: 20161127073855
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+  azure-util:
+    lastUpdated: 20161127073856
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+  easyazure:
+    lastUpdated: 20161127073856
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+  easybackup:
+    lastUpdated: 20160921090910
+    latest: 3.2.0-RELEASE
+    release: 3.2.0-RELEASE
+    versions:
+      - 2.1.0-RELEASE
+      - 2.2.0-RELEASE
+      - 3.0.0-RELEASE
+      - 3.1.0-RELEASE
+      - 3.2.0-RELEASE
+  easybackup-mysql:
+    lastUpdated: 20160722090302
+    latest: 1.1.0-RELEASE
+    release: 1.1.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+  easybackup-mysql-plugin:
+    lastUpdated: 20160921090911
+    latest: 3.2.0-RELEASE
+    release: 3.2.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 2.2.0-RELEASE
+      - 3.0.0-RELEASE
+      - 3.1.0-RELEASE
+      - 3.2.0-RELEASE
+  easycommondao:
+    lastUpdated: 20161129094549
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-hibernate3:
+    lastUpdated: 20161129094549
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-hibernate4:
+    lastUpdated: 20161129094549
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-hibernate5:
+    lastUpdated: 20161129094549
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-jpa-eclipselink:
+    lastUpdated: 20161129094550
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-jpa-hibernate3:
+    lastUpdated: 20161129094550
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-jpa-hibernate4:
+    lastUpdated: 20161129094550
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommondao-jpa-hibernate5:
+    lastUpdated: 20161129094550
+    latest: 1.4.0-RELEASE
+    release: 1.4.0-RELEASE
+    versions:
+      - 1.1.0-RELEASE
+      - 1.2.0-RELEASE
+      - 1.4.0-RELEASE
+  easycommons:
+    lastUpdated: 20150927155125
+    latest: 1.0.1-RELEASE
+    release: 1.0.1-RELEASE
+    versions:
+      - 1.0.1-RELEASE
+  easycommons-image:
+    lastUpdated: 20150929051147
+    latest: 1.4.2-RELEASE
+    release: 1.4.2-RELEASE
+    versions:
+      - 1.4.2-RELEASE
+  easycommons-object:
+    lastUpdated: 20150929051147
+    latest: 1.7.4-RELEASE
+    release: 1.7.4-RELEASE
+    versions:
+      - 1.7.4-RELEASE
+  easycommons-properties:
+    lastUpdated: 20160923022613
+    latest: 2.0.0-RELEASE
+    release: 2.0.0-RELEASE
+    versions:
+      - 1.4.1-RELEASE
+      - 2.0.0-RELEASE
+  easyee-auto:
+    lastUpdated: 20170303154656
+    latest: 1.3.2-RELEASE
+    release: 1.3.2-RELEASE
+    versions:
+      - 1.2.0-RELEASE
+      - 1.2.1-RELEASE
+      - 1.3.0-RELEASE
+      - 1.3.1-RELEASE
+      - 1.3.2-RELEASE
+  easyfilter:
+    lastUpdated: 20150924081227
+    latest: 2.0.1-RELEASE
+    release: 2.0.1-RELEASE
+    versions:
+      - 2.0.1-RELEASE
+  easyimageutils:
+    lastUpdated: 20150927155126
+    latest: 1.4.2-RELEASE
+    release: 1.4.2-RELEASE
+    versions:
+      - 1.4.2-RELEASE
+  easymonitor:
+    lastUpdated: 20160921091343
+    latest: 1.5.0-RELEASE
+    release: 1.5.0-RELEASE
+    versions:
+      - 1.2.0-RELEASE
+      - 1.3.1-RELEASE
+      - 1.3.2-RELEASE
+      - 1.4.0-RELEASE
+      - 1.5.0-RELEASE
+  easymybatis-pagination:
+    lastUpdated: 20161219055614
+    latest: 1.9.1-RELEASE
+    release: 1.9.1-RELEASE
+    versions:
+      - 1.8.0-RELEASE
+      - 1.8.1-RELEASE
+      - 1.9.0-RELEASE
+      - 1.9.1-RELEASE
+  easyobjectutils:
+    lastUpdated: 20150927155126
+    latest: 1.7.4-RELEASE
+    release: 1.7.4-RELEASE
+    versions:
+      - 1.7.4-RELEASE
+  easyocr:
+    lastUpdated: 20151028135417
+    latest: 3.0.4-RELEASE
+    release: 3.0.4-RELEASE
+    versions:
+      - 3.0.3-RELEASE
+      - 3.0.4-RELEASE
+  easyocr-linkbold-plugin:
+    lastUpdated: 20150929103251
+    latest: 3.0.3-RELEASE
+    release: 3.0.3-RELEASE
+    versions:
+      - 3.0.3-RELEASE
+  easypropertiesutils:
+    lastUpdated: 20150928093748
+    latest: 1.4.1-RELEASE
+    release: 1.4.1-RELEASE
+    versions:
+      - 1.4.1
+      - 1.4.1-RELEASE
+  easyshiro:
+    lastUpdated: 20161218042128
+    latest: 2.5.1-RELEASE
+    release: 2.5.1-RELEASE
+    versions:
+      - 2.1.0-RELEASE
+      - 2.1.1-RELEASE
+      - 2.2.0-RELEASE
+      - 2.3.0-RELEASE
+      - 2.4.0-RELEASE
+      - 2.5.0-RELEASE
+      - 2.5.1-RELEASE
+  orai18n:
+    lastUpdated: 20170419135629
+    latest: 12.1.0.2.0
+    release: 12.1.0.2.0
+    versions:
+      - 11.2.0.4
+      - 12.1.0.2.0
+

@@ -1,0 +1,105 @@
+artifacts:
+  dwr:
+    lastUpdated: 20161212032551
+    latest: 3.0.2-RELEASE
+    release: 3.0.2-RELEASE
+    versions:
+      - 2.0.8
+      - 2.0.9
+      - 2.0.10
+      - 2.0.11-RELEASE
+      - 3.0.0-rc3-RELEASE
+      - 3.0.0-RELEASE
+      - 3.0.1-RELEASE
+      - 3.0.2-RELEASE
+  dwr-core:
+    lastUpdated: 20090904200127
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-guice:
+    lastUpdated: 20090904200538
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-hibernate:
+    lastUpdated: 20090904200701
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-protocol-bayeux:
+    lastUpdated: 20090904200334
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-protocol-dwrp:
+    lastUpdated: 20090904200238
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-protocol-json:
+    lastUpdated: 20090904200433
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-spring:
+    lastUpdated: 20090904200815
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-struts:
+    lastUpdated: 20090904200910
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-ui-dojo:
+    lastUpdated: 20090904201158
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-ui-dwr:
+    lastUpdated: 20090904201255
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-ui-gi:
+    lastUpdated: 20090904201420
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-ui-jaxer:
+    lastUpdated: 20090904201518
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-ui-scriptaculous:
+    lastUpdated: 20090904201648
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-various:
+    lastUpdated: 20090904201007
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+  dwr-webwork:
+    lastUpdated: 20090904201104
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.0-rc2-SNAPSHOT
+

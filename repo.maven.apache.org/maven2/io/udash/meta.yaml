@@ -1,0 +1,481 @@
+artifacts:
+  udash-bootstrap_sjs0.6_2.11:
+    lastUpdated: 20170421114204
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-bootstrap_sjs0.6_2.12:
+    lastUpdated: 20170421114205
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-charts_sjs0.6_2.11:
+    lastUpdated: 20170421114206
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-charts_sjs0.6_2.12:
+    lastUpdated: 20170421114207
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-core-frontend_sjs0.6_2.11:
+    lastUpdated: 20170421114207
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-core-frontend_sjs0.6_2.12:
+    lastUpdated: 20170421114208
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-core-macros:
+    lastUpdated: 20160414085439
+    latest: 0.2.0-rc.2
+    release: 0.2.0-rc.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+  udash-core-macros_2.11:
+    lastUpdated: 20170421114209
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-core-macros_2.12:
+    lastUpdated: 20170421114209
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-core-shared:
+    lastUpdated: 20160414085439
+    latest: 0.2.0-rc.2
+    release: 0.2.0-rc.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+  udash-core-shared_2.11:
+    lastUpdated: 20170421114210
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-core-shared_2.12:
+    lastUpdated: 20170421114211
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-core-shared_sjs0.6_2.11:
+    lastUpdated: 20170421114211
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-core-shared_sjs0.6_2.12:
+    lastUpdated: 20170421114212
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-i18n-backend:
+    lastUpdated: 20160407084049
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  udash-i18n-backend_2.11:
+    lastUpdated: 20170421114213
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-i18n-backend_2.12:
+    lastUpdated: 20170421114213
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-i18n-frontend_sjs0.6_2.11:
+    lastUpdated: 20170421114214
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-i18n-frontend_sjs0.6_2.12:
+    lastUpdated: 20170421114214
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-i18n-shared:
+    lastUpdated: 20160407084050
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  udash-i18n-shared_2.11:
+    lastUpdated: 20170421114215
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-i18n-shared_2.12:
+    lastUpdated: 20170421114215
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-i18n-shared_sjs0.6_2.11:
+    lastUpdated: 20170421114216
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-i18n-shared_sjs0.6_2.12:
+    lastUpdated: 20170421114216
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-jquery_sjs0.6_2.11:
+    lastUpdated: 20161219125039
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0-rc.1
+      - 1.0.0-rc.2
+      - 1.0.0
+      - 1.0.1
+  udash-jquery_sjs0.6_2.12:
+    lastUpdated: 20161219125040
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  udash-rest-macros_2.11:
+    lastUpdated: 20170421114216
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rest-macros_2.12:
+    lastUpdated: 20170421114217
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rest-shared_2.11:
+    lastUpdated: 20170421114218
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rest-shared_2.12:
+    lastUpdated: 20170421114218
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rest-shared_sjs0.6_2.11:
+    lastUpdated: 20170421114219
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rest-shared_sjs0.6_2.12:
+    lastUpdated: 20170421114219
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rpc-backend:
+    lastUpdated: 20160426152259
+    latest: 0.2.0-rc.3
+    release: 0.2.0-rc.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0-rc.3
+  udash-rpc-backend_2.11:
+    lastUpdated: 20170421114220
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rpc-backend_2.12:
+    lastUpdated: 20170421114220
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rpc-frontend_sjs0.6_2.11:
+    lastUpdated: 20170421114221
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0-rc.3
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rpc-frontend_sjs0.6_2.12:
+    lastUpdated: 20170421114222
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rpc-macros:
+    lastUpdated: 20160426152301
+    latest: 0.2.0-rc.3
+    release: 0.2.0-rc.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0-rc.3
+  udash-rpc-macros_2.11:
+    lastUpdated: 20170421114222
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rpc-macros_2.12:
+    lastUpdated: 20170421114223
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rpc-shared:
+    lastUpdated: 20160426152301
+    latest: 0.2.0-rc.3
+    release: 0.2.0-rc.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0-rc.3
+  udash-rpc-shared_2.11:
+    lastUpdated: 20170421114223
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rpc-shared_2.12:
+    lastUpdated: 20170421114224
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+  udash-rpc-shared_sjs0.6_2.11:
+    lastUpdated: 20170421114225
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0-rc.1
+      - 0.2.0-rc.2
+      - 0.2.0-rc.3
+      - 0.2.0
+      - 0.3.0-rc.1
+      - 0.3.0-rc.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0-M1
+      - 0.4.0-M2
+      - 0.4.0-RC.1
+      - 0.4.0
+      - 0.5.0-RC.1
+  udash-rpc-shared_sjs0.6_2.12:
+    lastUpdated: 20170421114225
+    latest: 0.5.0-RC.1
+    release: 0.5.0-RC.1
+    versions:
+      - 0.5.0-RC.1
+

@@ -1,0 +1,740 @@
+artifacts:
+  hawkular-btm:
+    lastUpdated: 20160524095243
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-admin-service-inmemory:
+    lastUpdated: 20151005163324
+    latest: 0.4.0.Final
+    release: 0.4.0.Final
+    versions:
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+  hawkular-btm-admin-service-rest-client:
+    lastUpdated: 20151005163325
+    latest: 0.4.0.Final
+    release: 0.4.0.Final
+    versions:
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+  hawkular-btm-agent-rest:
+    lastUpdated: 20160524095243
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-analytics-service-rest-client:
+    lastUpdated: 20160524095244
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-api:
+    lastUpdated: 20160524095245
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-btxn-builder:
+    lastUpdated: 20150918152454
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+  hawkular-btm-btxn-collector:
+    lastUpdated: 20160524095246
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-btxn-instrumentation:
+    lastUpdated: 20160524095248
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-btxn-publisher-rest-client:
+    lastUpdated: 20160524095249
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-btxn-service-cass-es:
+    lastUpdated: 20150918152457
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+  hawkular-btm-btxn-service-inmemory:
+    lastUpdated: 20150918152458
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+  hawkular-btm-btxn-service-rest:
+    lastUpdated: 20150630144534
+    latest: 0.1.0.Final
+    release: 0.1.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+  hawkular-btm-btxn-service-rest-client:
+    lastUpdated: 20160524095250
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-btxncompletiontime-deriver:
+    lastUpdated: 20160524095252
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-bus-inmemory:
+    lastUpdated: 20150918152500
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.3.1.Final
+  hawkular-btm-client-api:
+    lastUpdated: 20160524095253
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-client-manager:
+    lastUpdated: 20160309165043
+    latest: 0.7.4.Final
+    release: 0.7.4.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+  hawkular-btm-client-rest:
+    lastUpdated: 20151109173910
+    latest: 0.5.0.Final
+    release: 0.5.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+  hawkular-btm-communicationdetails-deriver:
+    lastUpdated: 20160524095255
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-completiontime-deriver:
+    lastUpdated: 20160301124046
+    latest: 0.7.2.Final
+    release: 0.7.2.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+  hawkular-btm-config-manager-rest-client:
+    lastUpdated: 20150630144537
+    latest: 0.1.0.Final
+    release: 0.1.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+  hawkular-btm-config-service-inmemory:
+    lastUpdated: 20160524095257
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-config-service-rest-client:
+    lastUpdated: 20160524095258
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-dist:
+    lastUpdated: 20160524095304
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-fault-detector:
+    lastUpdated: 20150918152509
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+  hawkular-btm-fragmentcompletiontime-deriver:
+    lastUpdated: 20160524095305
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-instrumenter:
+    lastUpdated: 20160524095306
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.8.0.Final
+  hawkular-btm-integrated-feature-pack:
+    lastUpdated: 20160524095307
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-integrated-ui-patch:
+    lastUpdated: 20160308094934
+    latest: 0.7.3.Final
+    release: 0.7.3.Final
+    versions:
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+  hawkular-btm-inventory-enricher:
+    lastUpdated: 20150918152510
+    latest: 0.3.1.Final
+    release: 0.3.1.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+  hawkular-btm-metrics-deriver:
+    lastUpdated: 20151005163339
+    latest: 0.4.0.Final
+    release: 0.4.0.Final
+    versions:
+      - 0.0.2
+      - 0.1.0.Final
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+  hawkular-btm-nodedetails-deriver:
+    lastUpdated: 20160524095308
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-notification-deriver:
+    lastUpdated: 20160524095309
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-responsetime-deriver:
+    lastUpdated: 20151130150559
+    latest: 0.6.0.Final
+    release: 0.6.0.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+  hawkular-btm-server:
+    lastUpdated: 20160524095311
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-api:
+    lastUpdated: 20160524095312
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-cassandra:
+    lastUpdated: 20160524095313
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-elasticsearch:
+    lastUpdated: 20160524095314
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-elasticsearch-proxy:
+    lastUpdated: 20151130150602
+    latest: 0.6.0.Final
+    release: 0.6.0.Final
+    versions:
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+  hawkular-btm-server-infinispan:
+    lastUpdated: 20160524095315
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-jms:
+    lastUpdated: 20160524095315
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-rest:
+    lastUpdated: 20160524095317
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.2.0.Final
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-security-hwkaccs:
+    lastUpdated: 20160524095319
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-server-security-jaxrs:
+    lastUpdated: 20160524095320
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-standalone-feature-pack:
+    lastUpdated: 20160524095321
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-test-server:
+    lastUpdated: 20150814075430
+    latest: 0.3.0.Final
+    release: 0.3.0.Final
+    versions:
+      - 0.3.0.Final
+  hawkular-btm-tests-client:
+    lastUpdated: 20160309165105
+    latest: 0.7.4.Final
+    release: 0.7.4.Final
+    versions:
+      - 0.3.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+  hawkular-btm-tests-client-java:
+    lastUpdated: 20150814075431
+    latest: 0.3.0.Final
+    release: 0.3.0.Final
+    versions:
+      - 0.3.0.Final
+  hawkular-btm-tests-client-vertx:
+    lastUpdated: 20150814075432
+    latest: 0.3.0.Final
+    release: 0.3.0.Final
+    versions:
+      - 0.3.0.Final
+  hawkular-btm-tests-client-wildfly:
+    lastUpdated: 20150814075433
+    latest: 0.3.0.Final
+    release: 0.3.0.Final
+    versions:
+      - 0.3.0.Final
+  hawkular-btm-tests-common:
+    lastUpdated: 20160524095323
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-containers-jetty:
+    lastUpdated: 20160524095323
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-containers-standalone:
+    lastUpdated: 20160524095324
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-containers-vertx:
+    lastUpdated: 20160524095325
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-containers-wildfly:
+    lastUpdated: 20160524095326
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-instrumentation:
+    lastUpdated: 20160524095327
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-server-mock:
+    lastUpdated: 20160524095328
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-tests-server-wildfly:
+    lastUpdated: 20160524095329
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.3.0.Final
+      - 0.3.1.Final
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-ui:
+    lastUpdated: 20160524095330
+    latest: 0.8.0.Final
+    release: 0.8.0.Final
+    versions:
+      - 0.5.0.Final
+      - 0.6.0.Final
+      - 0.7.0.Final
+      - 0.7.1.Final
+      - 0.7.2.Final
+      - 0.7.3.Final
+      - 0.7.4.Final
+      - 0.8.0.Final
+  hawkular-btm-ui-kibana:
+    lastUpdated: 20151130150616
+    latest: 0.6.0.Final
+    release: 0.6.0.Final
+    versions:
+      - 0.4.0.Final
+      - 0.5.0.Final
+      - 0.6.0.Final
+

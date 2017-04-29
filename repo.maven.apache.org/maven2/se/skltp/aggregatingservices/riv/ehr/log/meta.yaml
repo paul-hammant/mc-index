@@ -1,0 +1,30 @@
+artifacts:
+  GetAggregatedAccessLogsForPatient:
+    lastUpdated: 20161209144756
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  GetAggregatedAccessLogsForPatient-parent:
+    lastUpdated: 20161209144756
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  GetAggregatedAccessLogsForPatient-schemas:
+    lastUpdated: 20161209144757
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  GetAggregatedAccessLogsForPatient-teststub:
+    lastUpdated: 20161209144757
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+

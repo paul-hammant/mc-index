@@ -1,0 +1,223 @@
+artifacts:
+  brooklyn-example-global-web-fabric:
+    lastUpdated: 20140331174744
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-hadoop-and-whirr:
+    lastUpdated: 20140331174744
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-hello-world-hadoop-jar:
+    lastUpdated: 20140331174745
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-hello-world-hadoop-webapp:
+    lastUpdated: 20140331174746
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-hello-world-sql-webapp:
+    lastUpdated: 20140331174747
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-hello-world-webapp:
+    lastUpdated: 20140331174747
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-monitored-cassandra-cluster:
+    lastUpdated: 20130305231107
+    latest: 0.5.0-M2
+    release: 0.5.0-M2
+    versions:
+      - 0.5.0-M2
+  brooklyn-example-portable-cloudfoundry:
+    lastUpdated: 20130402175623
+    latest: 0.5.0-rc.1
+    release: 0.5.0-rc.1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+  brooklyn-example-simple-messaging-pubsub:
+    lastUpdated: 20140331174748
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-simple-nosql-cluster:
+    lastUpdated: 20140331174750
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-example-simple-web-cluster:
+    lastUpdated: 20140331174751
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-examples-parent:
+    lastUpdated: 20140331174752
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-examples-webapps-parent:
+    lastUpdated: 20140331174752
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+

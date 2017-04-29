@@ -1,0 +1,89 @@
+artifacts:
+  hive-shims-0.20:
+    lastUpdated: 20150522034644
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+  hive-shims-0.20S:
+    lastUpdated: 20170408045612
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  hive-shims-0.23:
+    lastUpdated: 20170408045613
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-shims-common:
+    lastUpdated: 20170408045614
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-shims-common-secure:
+    lastUpdated: 20150522034656
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+  hive-shims-scheduler:
+    lastUpdated: 20170408045614
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+

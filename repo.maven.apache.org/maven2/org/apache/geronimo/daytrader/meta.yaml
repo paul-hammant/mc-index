@@ -1,0 +1,112 @@
+artifacts:
+  assemblies:
+    lastUpdated: 20110117041714
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  daytrader:
+    lastUpdated: 20101201064704
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-derby-datasource:
+    lastUpdated: 20101201064656
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-ear:
+    lastUpdated: 20101201064646
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-ejb:
+    lastUpdated: 20101201064631
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-jetty:
+    lastUpdated: 20101201064706
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-jms:
+    lastUpdated: 20101201064639
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-parent:
+    lastUpdated: 20120713124427
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+  daytrader-streamer:
+    lastUpdated: 20101201064635
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-tomcat:
+    lastUpdated: 20101201064700
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-web:
+    lastUpdated: 20101201064643
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  daytrader-wsappclient:
+    lastUpdated: 20101201064627
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.7
+  javaee6:
+    lastUpdated: 20120713124428
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0-beta-1
+      - 3.0.0
+  json-proxy:
+    lastUpdated: 20110117041647
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  modules:
+    lastUpdated: 20110117041741
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.7
+      - 2.2.1
+  plans:
+    lastUpdated: 20120713124426
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.1.7
+      - 3.0-beta-1
+      - 3.0.0
+  plugins:
+    lastUpdated: 20120713124424
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2.1
+      - 3.0-beta-1
+      - 3.0.0
+

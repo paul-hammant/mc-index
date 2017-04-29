@@ -1,0 +1,136 @@
+artifacts:
+  application-logging-dependencies:
+    lastUpdated: 20150428133427
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  java-coding-standards:
+    lastUpdated: 20150414214740
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  jul-to-slf4j-config:
+    lastUpdated: 20120805212627
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  lidalia-lang:
+    lastUpdated: 20131124214946
+    latest: 1.0.0-jdk6
+    release: 1.0.0-jdk6
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+  lidalia-slf4j-ext:
+    lastUpdated: 20131124220504
+    latest: 1.0.0-jdk6
+    release: 1.0.0-jdk6
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+  lidalia-test:
+    lastUpdated: 20131124215751
+    latest: 1.0.0-jdk6
+    release: 1.0.0-jdk6
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+  lidalia-test-dependencies:
+    lastUpdated: 20130611222838
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  logging-dependencies:
+    lastUpdated: 20150428133428
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  opensource-single-module-project:
+    lastUpdated: 20150428133428
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  oss-deployable:
+    lastUpdated: 20150414135225
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  parent:
+    lastUpdated: 20150428133428
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  slf4j-test:
+    lastUpdated: 20151119191511
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+  standard-test-dependencies:
+    lastUpdated: 20150428133429
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.0-jdk6
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  sysout-over-slf4j:
+    lastUpdated: 20110120000255
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+

@@ -1,0 +1,515 @@
+artifacts:
+  xchange-anx:
+    lastUpdated: 20170204121642
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitbay:
+    lastUpdated: 20170204121642
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitcoinaverage:
+    lastUpdated: 20170204121642
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitcoincharts:
+    lastUpdated: 20170204121642
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitcoinde:
+    lastUpdated: 20170204121643
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitcoinium:
+    lastUpdated: 20170204121643
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitcurex:
+    lastUpdated: 20170204121643
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitfinex:
+    lastUpdated: 20170204121643
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitkonan:
+    lastUpdated: 20170204121644
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitmarket:
+    lastUpdated: 20170204121644
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitso:
+    lastUpdated: 20170204121644
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bitstamp:
+    lastUpdated: 20170204121644
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bittrex:
+    lastUpdated: 20170204121645
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bleutrade:
+    lastUpdated: 20170204121645
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-blockchain:
+    lastUpdated: 20170204121645
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-btc38:
+    lastUpdated: 20170204121645
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-btccentral:
+    lastUpdated: 20160412193149
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-btcchina:
+    lastUpdated: 20170204121646
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-btce:
+    lastUpdated: 20170204121646
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-btcmarkets:
+    lastUpdated: 20170204121646
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-btctrade:
+    lastUpdated: 20170204121646
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-bter:
+    lastUpdated: 20170204121646
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-campbx:
+    lastUpdated: 20170204121647
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-cavirtex:
+    lastUpdated: 20160412193155
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-ccex:
+    lastUpdated: 20170204121647
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  xchange-cexio:
+    lastUpdated: 20170204121647
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-chbtc:
+    lastUpdated: 20170204121647
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+  xchange-clevercoin:
+    lastUpdated: 20160412193156
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-coinbase:
+    lastUpdated: 20170204121648
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-coinbaseex:
+    lastUpdated: 20160412193158
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-coinfloor:
+    lastUpdated: 20160412193159
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-coinmate:
+    lastUpdated: 20170204121648
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-coinsetter:
+    lastUpdated: 20160412193201
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-cointrader:
+    lastUpdated: 20160412193202
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-core:
+    lastUpdated: 20170204121648
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-cryptofacilities:
+    lastUpdated: 20170204121649
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-cryptonit:
+    lastUpdated: 20170204121649
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-cryptsy:
+    lastUpdated: 20160412193204
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-empoex:
+    lastUpdated: 20170204121649
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-examples:
+    lastUpdated: 20170204121649
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-gatecoin:
+    lastUpdated: 20170204121649
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-gdax:
+    lastUpdated: 20170204121650
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+  xchange-gemini:
+    lastUpdated: 20170204121650
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+  xchange-hitbtc:
+    lastUpdated: 20170204121650
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-huobi:
+    lastUpdated: 20170204121650
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-independentreserve:
+    lastUpdated: 20170204121651
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-itbit:
+    lastUpdated: 20170204121651
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-jubi:
+    lastUpdated: 20170204121651
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-kraken:
+    lastUpdated: 20170204121651
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-lakebtc:
+    lastUpdated: 20170204121652
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-livecoin:
+    lastUpdated: 20170204121652
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+  xchange-loyalbit:
+    lastUpdated: 20170204121652
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-mercadobitcoin:
+    lastUpdated: 20170204121652
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-mexbt:
+    lastUpdated: 20160412193215
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-okcoin:
+    lastUpdated: 20170204121653
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-openexchangerates:
+    lastUpdated: 20170204121653
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-parent:
+    lastUpdated: 20170204121653
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-paymium:
+    lastUpdated: 20170204121653
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+  xchange-poloniex:
+    lastUpdated: 20170204121653
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-quadrigacx:
+    lastUpdated: 20170204121654
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+  xchange-quoine:
+    lastUpdated: 20170204121654
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-ripple:
+    lastUpdated: 20170204121654
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-taurus:
+    lastUpdated: 20170204121654
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-therock:
+    lastUpdated: 20170204121655
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-vaultoro:
+    lastUpdated: 20170204121655
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-vircurex:
+    lastUpdated: 20170204121655
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  xchange-yacuna:
+    lastUpdated: 20160412193222
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  xchange-yobit:
+    lastUpdated: 20170204121656
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.2.0
+

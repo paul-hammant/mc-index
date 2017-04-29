@@ -1,0 +1,510 @@
+artifacts:
+  aliyun-java-sdk-alert:
+    lastUpdated: 20161102034419
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+  aliyun-java-sdk-alidns:
+    lastUpdated: 20161229030919
+    latest: 2.0.6
+    release: 2.0.6
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.6
+  aliyun-java-sdk-batchcompute:
+    lastUpdated: 20170306143533
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+      - 2.1.1
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 4.0.0
+      - 4.1.0
+  aliyun-java-sdk-billing:
+    lastUpdated: 20160524141655
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  aliyun-java-sdk-bss:
+    lastUpdated: 20150428113528
+    latest: 2.0.0-rc1
+    release: 2.0.0-rc1
+    versions:
+      - 2.0.0-rc1
+  aliyun-java-sdk-cdn:
+    lastUpdated: 20161222131415
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.2.7
+      - 2.2.8
+      - 2.2.9
+      - 2.3.0
+      - 2.3.1
+  aliyun-java-sdk-cf:
+    lastUpdated: 20160410231545
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+  aliyun-java-sdk-cloudapi:
+    lastUpdated: 20170329053440
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 4.2.0
+  aliyun-java-sdk-cms:
+    lastUpdated: 20170411070600
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.5
+      - 3.1.0
+      - 3.1.1
+      - 3.2.7
+      - 3.2.8
+      - 3.2.9
+      - 3.2.10
+      - 4.0.0
+      - 5.0.0
+      - 5.0.1
+  aliyun-java-sdk-commondriver:
+    lastUpdated: 20151231062735
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  aliyun-java-sdk-core:
+    lastUpdated: 20170330075119
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 2.0.0-rc1
+      - 2.0.0-rc2
+      - 2.0.2-rc1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.2.8
+      - 2.2.9
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+      - 2.3.6
+      - 2.3.7
+      - 2.3.8
+      - 2.3.9
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.4.4
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  aliyun-java-sdk-core-inner:
+    lastUpdated: 20160624111639
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.2
+  aliyun-java-sdk-cr:
+    lastUpdated: 20170206110436
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  aliyun-java-sdk-cs:
+    lastUpdated: 20170308060213
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  aliyun-java-sdk-dm:
+    lastUpdated: 20170418054736
+    latest: 3.0.1-rc3
+    release: 3.0.1-rc3
+    versions:
+      - 2.0.0-rc1
+      - 2.0.0-rc2
+      - 3.0.0-rc1
+      - 3.0.0-rc2
+      - 3.0.0-rc3
+      - 3.0.1-rc3
+  aliyun-java-sdk-domain:
+    lastUpdated: 20170113025708
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  aliyun-java-sdk-drds:
+    lastUpdated: 20170125181128
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.5
+  aliyun-java-sdk-ecs:
+    lastUpdated: 20170209151638
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.0.0-rc1
+      - 2.0.0-rc2
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.3
+      - 3.0.0
+  aliyun-java-sdk-emr:
+    lastUpdated: 20160726122944
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  aliyun-java-sdk-ess:
+    lastUpdated: 20160119073329
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  aliyun-java-sdk-green:
+    lastUpdated: 20170214154147
+    latest: 2.7.0
+    release: 2.7.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+  aliyun-java-sdk-highddos:
+    lastUpdated: 20160413145815
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  aliyun-java-sdk-hpc:
+    lastUpdated: 20161214040146
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 2.0.1
+  aliyun-java-sdk-httpdns:
+    lastUpdated: 20160229094504
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  aliyun-java-sdk-iot:
+    lastUpdated: 20161219193739
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.3
+      - 2.1.0
+      - 2.1.1
+  aliyun-java-sdk-jaq:
+    lastUpdated: 20161129061352
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.5
+  aliyun-java-sdk-kms:
+    lastUpdated: 20161129162643
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.3.1
+  aliyun-java-sdk-live:
+    lastUpdated: 20170419112755
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+  aliyun-java-sdk-market:
+    lastUpdated: 20161118114424
+    latest: 2.0.6
+    release: 2.0.6
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+  aliyun-java-sdk-mts:
+    lastUpdated: 20170327025820
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+      - 2.0.9
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+      - 2.1.8
+      - 2.1.9
+      - 2.2.0
+  aliyun-java-sdk-oceanbase:
+    lastUpdated: 20160321135348
+    latest: 2016.02.29
+    release: 2016.02.29
+    versions:
+      - 2016.02.29
+  aliyun-java-sdk-ocs:
+    lastUpdated: 20150428113529
+    latest: 2.0.0-rc1
+    release: 2.0.0-rc1
+    versions:
+      - 2.0.0-rc1
+  aliyun-java-sdk-oms:
+    lastUpdated: 20150528073048
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  aliyun-java-sdk-ossadmin:
+    lastUpdated: 20150821102103
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  aliyun-java-sdk-push:
+    lastUpdated: 20170228181535
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+  aliyun-java-sdk-qualitycheck:
+    lastUpdated: 20161021095150
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+  aliyun-java-sdk-ram:
+    lastUpdated: 20151105034053
+    latest: 2.0.7
+    release: 2.0.7
+    versions:
+      - 2.0.7
+  aliyun-java-sdk-rds:
+    lastUpdated: 20170224025410
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-rc1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.1.0
+  aliyun-java-sdk-ros:
+    lastUpdated: 20170417064215
+    latest: 2.2.6
+    release: 2.2.6
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  aliyun-java-sdk-slb:
+    lastUpdated: 20160802034104
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.0.0-rc1
+      - 2.0.2
+      - 2.1
+      - 2.1
+  aliyun-java-sdk-sms:
+    lastUpdated: 20160928120458
+    latest: 3.0.0-rc1
+    release: 3.0.0-rc1
+    versions:
+      - 3.0.0-rc1
+  aliyun-java-sdk-sts:
+    lastUpdated: 20150824063534
+    latest: 2.1.6
+    release: 2.1.6
+    versions:
+      - 2.0.2-rc1
+      - 2.1.0
+      - 2.1.5
+      - 2.1.6
+  aliyun-java-sdk-ubsms:
+    lastUpdated: 20151029080853
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0
+      - 2.0.4
+  aliyun-java-sdk-vod:
+    lastUpdated: 20170420124314
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  aliyun-java-sdk-waf:
+    lastUpdated: 20161205151437
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  aliyun-java-sdk-yundun:
+    lastUpdated: 20150722111107
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+  aliyun-mqs:
+    lastUpdated: 20150430094941
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  aliyun-sdk-mqs:
+    lastUpdated: 20141218081836
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

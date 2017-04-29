@@ -1,0 +1,29 @@
+artifacts:
+  common-deploy:
+    lastUpdated: 20170224235959
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  deploy:
+    lastUpdated: 20170225000000
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  shared-deploy:
+    lastUpdated: 20170225000000
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+

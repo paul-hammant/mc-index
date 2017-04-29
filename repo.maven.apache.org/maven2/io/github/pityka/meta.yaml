@@ -1,0 +1,211 @@
+artifacts:
+  akka-http-aws-fork_2.11:
+    lastUpdated: 20170420054255
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  akka-http-unboundedqueue_2.11:
+    lastUpdated: 20170416045531
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fileutils_2.11:
+    lastUpdated: 20161123054124
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  hierarchical-clustering-fork:
+    lastUpdated: 20161016055741
+    latest: 1.0-5
+    release: 1.0-5
+    versions:
+      - 1.0-5
+  intervaltree_2.11:
+    lastUpdated: 20161002163704
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  intervaltree_sjs0.6_2.11:
+    lastUpdated: 20161002163705
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  nspl-awt_2.11:
+    lastUpdated: 20170409060859
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-core-canvas-js_sjs0.6_2.11:
+    lastUpdated: 20170409060859
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-core-js_sjs0.6_2.11:
+    lastUpdated: 20170409060859
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-core_2.11:
+    lastUpdated: 20170409060900
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-saddle_2.11:
+    lastUpdated: 20170409060900
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-scalatags-js_sjs0.6_2.11:
+    lastUpdated: 20170409060901
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-scalatags-jvm_2.11:
+    lastUpdated: 20170409060901
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  nspl-shared-js_sjs0.6_2.11:
+    lastUpdated: 20170409060901
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.15
+      - 0.0.16
+  nspl-shared-jvm_2.11:
+    lastUpdated: 20170409060902
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.15
+      - 0.0.16
+  overrepresentation_2.11:
+    lastUpdated: 20161206053215
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  pariterator_2.11:
+    lastUpdated: 20161002163100
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  poibin_2.11:
+    lastUpdated: 20170315030358
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  s3-stream-fork_2.11:
+    lastUpdated: 20170420054255
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  saddle-linalg_2.11:
+    lastUpdated: 20161231234352
+    latest: 0.0.15
+    release: 0.0.15
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+  stat_2.11:
+    lastUpdated: 20161207055323
+    latest: 0.0.8
+    release: 0.0.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+  stringsplit_2.11:
+    lastUpdated: 20161123051711
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  stringsplit_sjs0.6_2.11:
+    lastUpdated: 20161123051712
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

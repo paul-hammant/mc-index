@@ -1,0 +1,88 @@
+artifacts:
+  api:
+    lastUpdated: 20161207151529
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  core:
+    lastUpdated: 20161115135654
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  core_scala-2.11:
+    lastUpdated: 20161207151530
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  example-distributed-graph:
+    lastUpdated: 20161115135655
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  example-minimal-setup:
+    lastUpdated: 20161115135655
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  kafka_0.10:
+    lastUpdated: 20161115135655
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  kafka_0.10_scala-2.11:
+    lastUpdated: 20161207151530
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  mapdb:
+    lastUpdated: 20161207151530
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  rocksdb:
+    lastUpdated: 20161207151531
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  testing_core:
+    lastUpdated: 20161115135656
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  testing_core_scala-2.11:
+    lastUpdated: 20161207151531
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  testing_kafka_0.10:
+    lastUpdated: 20161115135657
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  testing_kafka_0.10_scala-2.11:
+    lastUpdated: 20161207151532
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  ws-client:
+    lastUpdated: 20161207151532
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

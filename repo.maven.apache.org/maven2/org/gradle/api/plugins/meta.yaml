@@ -1,0 +1,146 @@
+artifacts:
+  gradle-android-plugin:
+    lastUpdated: 20121010183620
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+  gradle-appengine-geb-plugin:
+    lastUpdated: 20160626121946
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  gradle-cargo-plugin:
+    lastUpdated: 20130721233205
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+      - 0.5.9
+      - 0.6
+      - 0.6.1
+      - 0.6
+  gradle-cf-plugin:
+    lastUpdated: 20120703072412
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  gradle-cloudbees-plugin:
+    lastUpdated: 20130314231601
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  gradle-clover-plugin:
+    lastUpdated: 20131019125314
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.5.3
+      - 0.6
+      - 0.6.1
+      - 0.6.2
+      - 0.7
+      - 0.8
+      - 0.6
+      - 0.7
+      - 0.8
+  gradle-fsm-plugin:
+    lastUpdated: 20131012122808
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  gradle-gae-geb-plugin:
+    lastUpdated: 20120705231252
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  gradle-gae-plugin:
+    lastUpdated: 20130819010809
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.6.2
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.7
+      - 0.8
+      - 0.9
+  gradle-gaelyk-plugin:
+    lastUpdated: 20160512073416
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7.0
+      - 0.7.1
+      - 0.4
+      - 0.5
+      - 0.6
+  gradle-izpack-plugin:
+    lastUpdated: 20130817133556
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  gradle-java2html-plugin:
+    lastUpdated: 20121222135101
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  gradle-nexus-plugin:
+    lastUpdated: 20130817165719
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  gradle-tomcat-plugin:
+    lastUpdated: 20130815014006
+    latest: 0.9.9
+    release: 0.9.9
+    versions:
+      - 0.9.6
+      - 0.9.7
+      - 0.9.8
+      - 0.9.9
+

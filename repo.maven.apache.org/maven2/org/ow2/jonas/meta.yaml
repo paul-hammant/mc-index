@@ -1,0 +1,3862 @@
+artifacts:
+  assemblies:
+    lastUpdated: 20131001130454
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  autostart:
+    lastUpdated: 20110307153403
+    latest: {}
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M1
+  autostart-lib:
+    lastUpdated: 20110307153408
+    latest: {}
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M1
+  autostart-swing:
+    lastUpdated: 20110307153732
+    latest: {}
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M1
+  bootstrap:
+    lastUpdated: 20131001130505
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  bootstrap-ant:
+    lastUpdated: 20131001130505
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  bootstrap-core:
+    lastUpdated: 20131001130505
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  bootstrap-core-for-addons:
+    lastUpdated: 20131001130505
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  client-bootstrap:
+    lastUpdated: 20131001130505
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  directory-provisionning:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  eclipse-compiler:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  empty:
+    lastUpdated: 20080129180747
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  event-provider:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  event-provider-api:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  event-provider-core:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  ipojo-interceptor:
+    lastUpdated: 20131001130506
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jaxrs-jersey:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jaxrs-jersey-core:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jjonas-itests-applications-jsf-1.x:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-addon:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-ant:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-client-plan:
+    lastUpdated: 20131001130507
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-core:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-plans:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jms-joram-server-plan:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jndi-interceptors:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jndi-interceptors-core:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas:
+    lastUpdated: 20131001130508
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-addon:
+    lastUpdated: 20131001130509
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-addon-commands:
+    lastUpdated: 20131001130509
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0
+  jonas-addon-core:
+    lastUpdated: 20131001130509
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-admin:
+    lastUpdated: 20131001130509
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-admin-core:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-admin-plan:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-agent:
+    lastUpdated: 20121114121153
+    latest: 5.3.0-M7
+    release: 5.3.0-M7
+    versions:
+      - 5.3.0-M7
+  jonas-ant-tasks:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-apis:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-assemblies:
+    lastUpdated: 20090407101046
+    latest: {}
+    release: 5.1.0-RC2
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-M1
+      - 5.1.0-M2
+      - 5.1.0-M3
+      - 5.1.0-M4
+      - 5.1.0-M5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+  jonas-audit:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-audit-core:
+    lastUpdated: 20131001130510
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-audit-jms:
+    lastUpdated: 20131001130511
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-bootstrap-loader:
+    lastUpdated: 20131001130511
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-carol-registry:
+    lastUpdated: 20131001130511
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-carol-registry-ant:
+    lastUpdated: 20131001130511
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-carol-registry-core:
+    lastUpdated: 20131001130511
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cdi-weld:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cdi-weld-core:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-client:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-client-core:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cluster-daemon:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cluster-daemon-ant:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cluster-daemon-api:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cluster-daemon-core:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cluster-daemon-rest:
+    lastUpdated: 20120404162815
+    latest: 5.3.0-M6
+    release: 5.3.0-M6
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+  jonas-cmi:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cmi-ant:
+    lastUpdated: 20131001130512
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-cmi-core:
+    lastUpdated: 20131001130513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-commands:
+    lastUpdated: 20131001130513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-commons:
+    lastUpdated: 20131001130513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-configadmin:
+    lastUpdated: 20131001130513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-configadmin-core:
+    lastUpdated: 20131001130513
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-container-naming:
+    lastUpdated: 20080129182856
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  jonas-ctxroot:
+    lastUpdated: 20131001130514
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ctxroot-core:
+    lastUpdated: 20131001130514
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ctxroot-plan:
+    lastUpdated: 20131001130514
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-datasource:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-binding:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-deploy:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-deploy-api:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-deploy-impl:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-deployer:
+    lastUpdated: 20130122142915
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-datasource-reader:
+    lastUpdated: 20130122142912
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-db:
+    lastUpdated: 20131001130514
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-base:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-base-ant:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-base-core:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-h2:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-h2-addon:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-h2-ant:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-h2-core:
+    lastUpdated: 20131001130515
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-hsql:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-hsql-ant:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-db-hsql-core:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-dbm:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-dbm-ant:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-dbm-core:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-deployable-monitor:
+    lastUpdated: 20131001130516
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-deployable-monitor-core:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-deployable-monitor-core-for-addons:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-deployer-manager:
+    lastUpdated: 20070711190930
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-deployment:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-deployment-api:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-base:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-base-ant:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-base-core:
+    lastUpdated: 20131001130517
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-jgroups:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-jgroups-ant:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-jgroups-core:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-multicast:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-multicast-ant:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-discovery-multicast-core:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-domain:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ear:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ear-addon:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ear-core:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ee-components:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb:
+    lastUpdated: 20131001130518
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-2.1:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-2.1-ant:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-2.1-core:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-container:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-container-svc:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-easybeans:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-easybeans-addon:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-easybeans-core:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-ha:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-ha-ant:
+    lastUpdated: 20131001130519
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb-ha-core:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb2.1-ha:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-base-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-eclipselink-1.1-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-eclipselink-2.2-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-eclipselink-2.3-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-eclipselink-2.4-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0
+  jonas-ejb3-provider-eclipselink-ant:
+    lastUpdated: 20111103153531
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.3.0-M5
+  jonas-ejb3-provider-eclipselink2-ant:
+    lastUpdated: 20111103153530
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.3.0-M5
+  jonas-ejb3-provider-hibernate-3.6-ant:
+    lastUpdated: 20131001130520
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-hibernate-4.1-ant:
+    lastUpdated: 20131001130521
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-hibernate-ant:
+    lastUpdated: 20111103153530
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.3.0-M5
+  jonas-ejb3-provider-hibernate35-ant:
+    lastUpdated: 20111103153529
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.3.0-M5
+  jonas-ejb3-provider-openjpa-ant:
+    lastUpdated: 20131001130521
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ejb3-provider-openjpa2-ant:
+    lastUpdated: 20131001130521
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-endpoint-collector:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-endpoint-collector-core:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-extension-loader:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-extension-loader-core:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-generators:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-generators-base:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-generators-clientstubs:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-generators-raconfig:
+    lastUpdated: 20131001130522
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-generators-wsgen:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-genic:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-hsql-db:
+    lastUpdated: 20080129185645
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  jonas-itests:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-classloader:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-connection-leaks:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jaxb2:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0
+  jonas-itests-applications-jaxws-add:
+    lastUpdated: 20131001130523
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jaxws-sample:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jndi:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jndi-enc:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jndi-enc-ear:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jndi-enc-ejb:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jndi-enc-webapp:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jsf:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-jsf-2.0:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-multitenant:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-osgi:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-osgi-datasource:
+    lastUpdated: 20131001130524
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-applications-osgi-di:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0
+  jonas-itests-applications-versioning:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-iiop:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-irmi:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-jetty6:
+    lastUpdated: 20121220153310
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-itests-cargo-jetty8:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-jrmp:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-lmi:
+    lastUpdated: 20100329163953
+    latest: {}
+    release: 5.2.0-M1
+    versions:
+      - 5.2.0-M1
+  jonas-itests-cargo-safe-startup:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-security:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-cargo-tomcat6:
+    lastUpdated: 20121220153310
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-itests-cargo-tomcat7:
+    lastUpdated: 20130122142944
+    latest: 5.2.4
+    release: 5.2.4
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+  jonas-itests-equinox:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-felix:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-intravm:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-knopflerfish:
+    lastUpdated: 20130122142945
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+  jonas-itests-osgi:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-itests-osgi-base:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc:
+    lastUpdated: 20131001130525
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc-cp:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc-dm:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc-ds:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc-glue:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-jdbc-xa:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-scout:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-scout-glue:
+    lastUpdated: 20131001130526
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-scout-plan:
+    lastUpdated: 20131001130527
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jca-scout-rar:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jms:
+    lastUpdated: 20080129190748
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  jonas-jms-manager:
+    lastUpdated: 20080523174253
+    latest: {}
+    release: 5.0.3
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+  jonas-jmx:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jmx-core:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jndi:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jndi-core:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf:
+    lastUpdated: 20131001130528
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-base-ant:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-mojarra-1.2:
+    lastUpdated: 20121220153228
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-jsf-mojarra-1.2-ant:
+    lastUpdated: 20121220153229
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-jsf-mojarra-1.2-core:
+    lastUpdated: 20121220153228
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-jsf-mojarra-2.0:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-mojarra-2.0-ant:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-mojarra-2.0-core:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-myfaces-2.0:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-myfaces-2.0-ant:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-jsf-myfaces-2.0-core:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-launchers:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-libraries:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-libraries-addon:
+    lastUpdated: 20111103153455
+    latest: 5.3.0-M5
+    release: 5.3.0-M5
+    versions:
+      - 5.3.0-M5
+  jonas-libraries-security:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-libraries-tenant:
+    lastUpdated: 20131001130529
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-libraries-transaction:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-log:
+    lastUpdated: 20090212161033
+    latest: {}
+    release: 5.1.0-M3
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-M1
+      - 5.1.0-M2
+      - 5.1.0-M3
+  jonas-mail:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-mail-ant:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-mail-core:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-api:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-extensions:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-javaee:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-reconfig:
+    lastUpdated: 20131001130530
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-services:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-management-tools:
+    lastUpdated: 20090316113939
+    latest: {}
+    release: 5.1.0-M5
+    versions:
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-M1
+      - 5.1.0-M2
+      - 5.1.0-M3
+      - 5.1.0-M4
+      - 5.1.0-M5
+  jonas-mbeans:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-mbeans-for-addons:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-migration-jboss:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-modules:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-multitenant:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-multitenant-addon:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-multitenant-core:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-naming:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-packaging:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-packaging-addon:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-packaging-core:
+    lastUpdated: 20131001130531
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-api:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-core:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-bundles:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-deployables:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-deployers:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-endpoints:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-ipojo-factories:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-ipojo-handlers:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-ipojo-instances:
+    lastUpdated: 20131001130532
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-jvm:
+    lastUpdated: 20131001130533
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extension-server-info:
+    lastUpdated: 20131001130534
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-report-extensions:
+    lastUpdated: 20131001130534
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource:
+    lastUpdated: 20131001130534
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource-addon:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource-ant:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource-core:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource-monitor:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-resource-monitor-core:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-sec-interceptors-iiop:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-sec-interceptors-jrmp:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-ant:
+    lastUpdated: 20131001130535
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-auth:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-core:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-interceptors:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-jacc:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-jacc-handlers:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-security-propagation:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-server:
+    lastUpdated: 20080129191744
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  jonas-service-manager:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-service-manager-for-addons:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-services:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-services-api:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-services-datasource:
+    lastUpdated: 20131001130536
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-services-datasource-core:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-shell:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-smartclient:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-smartclient-ant:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-smartclient-core:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ssh:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-ssh-core:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-timer:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-tm-jotm:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-tm-jotm-addon:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-tm-jotm-core:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-tools:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-trans-interceptors-iiop:
+    lastUpdated: 20131001130537
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-trans-interceptors-jrmp:
+    lastUpdated: 20090212163012
+    latest: {}
+    release: 5.1.0-M3
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-M1
+      - 5.1.0-M2
+      - 5.1.0-M3
+  jonas-transaction-interceptors:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-validation:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-validation-hibernate:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-validation-hibernate-core:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-version:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-versioning:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-versioning-core:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-versions-servlet:
+    lastUpdated: 20101013141502
+    latest: {}
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  jonas-web-container:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-base:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-base-ant:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-base-core:
+    lastUpdated: 20131001130538
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-jetty:
+    lastUpdated: 20131001130539
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-jetty-6.1:
+    lastUpdated: 20130122142926
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-jetty-6.1-ant:
+    lastUpdated: 20121220153245
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-jetty-6.1-core:
+    lastUpdated: 20121220153244
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-jetty-8.0:
+    lastUpdated: 20131001130540
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-jetty-8.0-ant:
+    lastUpdated: 20131001130540
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-jetty-8.0-core:
+    lastUpdated: 20131001130540
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-jetty-base-ant:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat-6.0:
+    lastUpdated: 20130122142920
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-addon-with-bundles:
+    lastUpdated: 20121220153246
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-addon-with-deployment-plans:
+    lastUpdated: 20121220153246
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-addons:
+    lastUpdated: 20121220153246
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-ant:
+    lastUpdated: 20121220153246
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-core:
+    lastUpdated: 20121220153245
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jonas-web-container-tomcat-6.0-with-http-service:
+    lastUpdated: 20090925114731
+    latest: {}
+    release: 5.1.0-cxf-2.2
+    versions:
+      - 5.1.0-RC3
+      - 5.1.0-RC4
+      - 5.1.0
+      - 5.1.0-cxf-2.2
+  jonas-web-container-tomcat-7.0:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat-7.0-addon-with-bundles:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0
+  jonas-web-container-tomcat-7.0-addon-with-deployment-plans:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat-7.0-ant:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat-7.0-core:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-web-container-tomcat-base-ant:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webcontainer-tomcat-7.0-addons:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices:
+    lastUpdated: 20131001130541
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-axis:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-axis-core:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-axis2:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-axis2-core:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-base:
+    lastUpdated: 20090212172653
+    latest: {}
+    release: 5.1.0-M3
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-M1
+      - 5.1.0-M2
+      - 5.1.0-M3
+  jonas-webservices-cxf:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-cxf-2.2:
+    lastUpdated: 20090923143456
+    latest: {}
+    release: 5.1.0
+    versions:
+      - 5.1.0
+  jonas-webservices-cxf-core:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-jaxrpc:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-jaxrpc-ant:
+    lastUpdated: 20131001130542
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-jaxrpc-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-jaxws:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-jaxws-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-publish:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-publish-ant:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-webservices-publish-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-workcleaner:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-workcleaner-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-workmanager:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jonas-workmanager-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  joram-admin:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jsf-base:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jsf-base-core:
+    lastUpdated: 20131001130543
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  legacy-provisionning:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  log-provider:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  log-provider-core:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  mejb:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  mejb-core:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  mejb-plan:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  new-provisionning:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  provisionning:
+    lastUpdated: 20131001130545
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  wrapper:
+    lastUpdated: 20131001130545
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  wrapper-core:
+    lastUpdated: 20131001130546
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+

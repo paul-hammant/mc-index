@@ -1,0 +1,45 @@
+artifacts:
+  aicer-oss-parent:
+    lastUpdated: 20131006014916
+    latest: 37
+    release: 37
+    versions:
+      - 36
+      - 37
+      - 36
+      - 37
+  oss-pom-java:
+    lastUpdated: 20140217044532
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 3
+      - 1
+      - 3
+  oss-pom-java-app:
+    lastUpdated: 20140217050204
+    latest: 2
+    release: 2
+    versions:
+      - 2
+      - 2
+  oss-pom-java-library:
+    lastUpdated: 20140217050205
+    latest: 4
+    release: 4
+    versions:
+      - 1
+      - 4
+      - 1
+      - 4
+  oss-pom-parent:
+    lastUpdated: 20140217043836
+    latest: 3
+    release: 3
+    versions:
+      - 1
+      - 3
+      - 1
+      - 3
+

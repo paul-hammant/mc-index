@@ -1,0 +1,264 @@
+artifacts:
+  xcmis-admin-guide:
+    lastUpdated: 20100909051541
+    latest: 1.1.0-GA
+    release: 1.1.0-GA
+    versions:
+      - 1.1.0-GA
+  xcmis-client-gwt-restatom:
+    lastUpdated: 20100820153935
+    latest: 1.1.0-Beta01
+    release: 1.1.0-Beta01
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+  xcmis-developer-guide:
+    lastUpdated: 20100909051651
+    latest: 1.1.0-GA
+    release: 1.1.0-GA
+    versions:
+      - 1.1.0-GA
+  xcmis-docs:
+    lastUpdated: 20100909051540
+    latest: 1.1.0-GA
+    release: 1.1.0-GA
+    versions:
+      - 1.1.0-GA
+  xcmis-parent:
+    lastUpdated: 20130426115032
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-renditions:
+    lastUpdated: 20130426115033
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-restatom:
+    lastUpdated: 20130426115033
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-search-model:
+    lastUpdated: 20130426115033
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-search-parser-cmis:
+    lastUpdated: 20130426115033
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-search-service:
+    lastUpdated: 20130426115034
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-server-gateinext-war:
+    lastUpdated: 20100721231621
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  xcmis-server-tomcat:
+    lastUpdated: 20130426115034
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-server-tomcat-demo:
+    lastUpdated: 20130426115035
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-server-war:
+    lastUpdated: 20130426115035
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-sp-inmemory:
+    lastUpdated: 20130426115036
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-sp-jcr-exo:
+    lastUpdated: 20100721231623
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  xcmis-spi:
+    lastUpdated: 20130426115036
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-spi-tck:
+    lastUpdated: 20130426115037
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+  xcmis-wssoap:
+    lastUpdated: 20130426115037
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.1.0-Beta01
+      - 1.1.0-GA
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2-beta1
+      - 1.2.0-GA
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-RC1
+      - 1.3.0
+

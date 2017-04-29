@@ -1,0 +1,56 @@
+artifacts:
+  bundle-parent:
+    lastUpdated: 20170309193031
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+  icefaces:
+    lastUpdated: 20170309193032
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0-BETA
+      - 4.2.0
+  icefaces-ace:
+    lastUpdated: 20170309193032
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0-BETA
+      - 4.2.0
+  icefaces-compat:
+    lastUpdated: 20130419194423
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  icefaces-mobi:
+    lastUpdated: 20170309193032
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0-BETA
+      - 4.2.0
+

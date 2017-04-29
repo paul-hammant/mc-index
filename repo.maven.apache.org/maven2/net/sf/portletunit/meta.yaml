@@ -1,0 +1,36 @@
+artifacts:
+  maven-jetty-pluto-embedded:
+    lastUpdated: 20131205201307
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  portlet-simple:
+    lastUpdated: 20100226055038
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  portletunit-portlet-archetype:
+    lastUpdated: 20100316144727
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  portletunit2:
+    lastUpdated: 20131205212424
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.7
+  portletunit2-top-level:
+    lastUpdated: 20131205212425
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+

@@ -1,0 +1,31 @@
+artifacts:
+  appconfig-client:
+    lastUpdated: 20160715233057
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  appconfig-pom:
+    lastUpdated: 20160415204144
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  appconfig-service:
+    lastUpdated: 20160715233337
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  appconfig-tests:
+    lastUpdated: 20160205053044
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

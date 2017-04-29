@@ -1,0 +1,110 @@
+artifacts:
+  apache-taverna-language:
+    lastUpdated: 20160311145143
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.1-incubating
+  taverna-baclava-language:
+    lastUpdated: 20160311145144
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-databundle:
+    lastUpdated: 20160311145145
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-language:
+    lastUpdated: 20150811150939
+    latest: 0.15.0-incubating
+    release: 0.15.0-incubating
+    versions:
+      - 0.15.0-incubating
+  taverna-robundle:
+    lastUpdated: 20160311145146
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-annotation:
+    lastUpdated: 20160311145146
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-api:
+    lastUpdated: 20160311145147
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-examples:
+    lastUpdated: 20160311145149
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-integration-tests:
+    lastUpdated: 20160311145150
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-schemas:
+    lastUpdated: 20160311145150
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-scufl:
+    lastUpdated: 20160311145151
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-t2flow:
+    lastUpdated: 20160311145152
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-ucfpackage:
+    lastUpdated: 20160311145153
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-wfbundle:
+    lastUpdated: 20160311145153
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.0-incubating
+      - 0.15.1-incubating
+  taverna-scufl2-wfdesc:
+    lastUpdated: 20160311145154
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.1-incubating
+  taverna-tavlang-tool:
+    lastUpdated: 20160311145155
+    latest: 0.15.1-incubating
+    release: 0.15.1-incubating
+    versions:
+      - 0.15.1-incubating
+

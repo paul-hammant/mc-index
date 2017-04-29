@@ -1,0 +1,59 @@
+artifacts:
+  DockerProcessAPI:
+    lastUpdated: 20161224143054
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc1
+      - 0.1.0-rc2
+      - 0.1.0-rc3
+      - 0.1.0-rc4
+      - 0.1.0
+  btm-DropwizardHealthChecks:
+    lastUpdated: 20161223125452
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc1
+      - 0.1.0-rc2
+      - 0.1.0-rc3
+      - 0.1.0-rc4
+      - 0.1.0-rc5
+      - 0.1.0
+  btm-DropwizardHealthChecks-cassandra:
+    lastUpdated: 20161223125506
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc3
+      - 0.1.0-rc4
+      - 0.1.0
+  btm-DropwizardHealthChecks-jdbc:
+    lastUpdated: 20161223125522
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc1
+      - 0.1.0
+  btm-DropwizardHealthChecks-mongodb:
+    lastUpdated: 20161223125537
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc5
+      - 0.1.0
+  btm-DropwizardHealthChecks-net:
+    lastUpdated: 20161223125553
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc1
+      - 0.1.0
+  btm-DropwizardHealthChecks-rabbitmq:
+    lastUpdated: 20161223125607
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-rc1
+      - 0.1.0
+

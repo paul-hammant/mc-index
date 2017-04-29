@@ -1,0 +1,248 @@
+artifacts:
+  camel:
+    lastUpdated: 20141025021045
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  camel-impl:
+    lastUpdated: 20141025021045
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  collections:
+    lastUpdated: 20170113085547
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  collections-impl:
+    lastUpdated: 20170113085547
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  core:
+    lastUpdated: 20170113085548
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  core-impl:
+    lastUpdated: 20170113085548
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  data-tree:
+    lastUpdated: 20170113085549
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  data-tree-xml:
+    lastUpdated: 20170113085549
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  email:
+    lastUpdated: 20170113085550
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  email-impl:
+    lastUpdated: 20170113085550
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.7
+  event:
+    lastUpdated: 20170113085550
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  event-impl:
+    lastUpdated: 20170113085551
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  io:
+    lastUpdated: 20170113085551
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  io-impl:
+    lastUpdated: 20170113085552
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  jdbc:
+    lastUpdated: 20170113085552
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  jdbc-impl:
+    lastUpdated: 20170113085553
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  libraries:
+    lastUpdated: 20170113085553
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  messaging:
+    lastUpdated: 20150303024711
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  messaging-impl:
+    lastUpdated: 20150303024711
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  sound:
+    lastUpdated: 20170113085553
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  sound-impl:
+    lastUpdated: 20170113085554
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  speech:
+    lastUpdated: 20170113085554
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  speech-impl:
+    lastUpdated: 20170113085555
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  static:
+    lastUpdated: 20170113085556
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  uml:
+    lastUpdated: 20170113085556
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  uml-impl:
+    lastUpdated: 20170113085556
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+

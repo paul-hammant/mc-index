@@ -1,0 +1,93 @@
+artifacts:
+  workflow-core:
+    lastUpdated: 20170325232604
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-h2:
+    lastUpdated: 20170325232604
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-ignite:
+    lastUpdated: 20170325232605
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-mongodb:
+    lastUpdated: 20170325232605
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-mssql:
+    lastUpdated: 20170325232605
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-mysql:
+    lastUpdated: 20170325232606
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-oracle:
+    lastUpdated: 20170325232606
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-parent:
+    lastUpdated: 20170325232606
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-persistence:
+    lastUpdated: 20170325232606
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-persistence-test:
+    lastUpdated: 20170325232607
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-postgresql:
+    lastUpdated: 20170325232607
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-ravendb:
+    lastUpdated: 20170325232607
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  workflow-redis:
+    lastUpdated: 20170325232607
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+

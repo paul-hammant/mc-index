@@ -1,0 +1,15 @@
+artifacts:
+  docker-bootstrap:
+    lastUpdated: 20160419115517
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  jdbc-driver:
+    lastUpdated: 20160419132742
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

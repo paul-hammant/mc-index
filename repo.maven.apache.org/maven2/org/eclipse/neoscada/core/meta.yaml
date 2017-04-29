@@ -1,0 +1,1025 @@
+artifacts:
+  org.eclipse.neoscada.core.common.iec60870:
+    lastUpdated: 20170216111143
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.neoscada.da.server.exporter.iec60870:
+    lastUpdated: 20170216111144
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.neoscada.da.server.iec60870:
+    lastUpdated: 20170216111144
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.scada.ae:
+    lastUpdated: 20161026205036
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.client.connection.service:
+    lastUpdated: 20161026205036
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.client.ngp:
+    lastUpdated: 20161026205037
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.common.ngp:
+    lastUpdated: 20161026205037
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.connection.provider:
+    lastUpdated: 20161026205038
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.data:
+    lastUpdated: 20161026205038
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.event:
+    lastUpdated: 20161026205039
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.event.logger:
+    lastUpdated: 20161026205040
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.filter:
+    lastUpdated: 20161026205040
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.monitor:
+    lastUpdated: 20161026205041
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.monitor.common:
+    lastUpdated: 20161026205042
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.monitor.datasource:
+    lastUpdated: 20161026205043
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.monitor.datasource.common:
+    lastUpdated: 20161026205043
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  org.eclipse.scada.ae.monitor.script:
+    lastUpdated: 20161026205043
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.protocol.ngp.codec:
+    lastUpdated: 20161026205044
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.akn.proxy:
+    lastUpdated: 20161026205044
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.common:
+    lastUpdated: 20161026205045
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.common.event:
+    lastUpdated: 20161026205045
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.server.common.monitor:
+    lastUpdated: 20161026205046
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.event.proxy:
+    lastUpdated: 20161026205046
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.exporter:
+    lastUpdated: 20161026205047
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.exporter.ngp:
+    lastUpdated: 20161026205047
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.server.handler:
+    lastUpdated: 20161026205047
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.handler.mail:
+    lastUpdated: 20161026205048
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.handler.script:
+    lastUpdated: 20161026205048
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.handler.storage:
+    lastUpdated: 20161026205049
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.http:
+    lastUpdated: 20161026205049
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.info:
+    lastUpdated: 20161026205050
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.injector:
+    lastUpdated: 20161026205050
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.server.monitor.proxy:
+    lastUpdated: 20161026205051
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.ngp:
+    lastUpdated: 20161026205052
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.storage:
+    lastUpdated: 20161026205052
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.storage.jdbc:
+    lastUpdated: 20161026205053
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.server.storage.memory:
+    lastUpdated: 20161026205053
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.server.storage.postgres:
+    lastUpdated: 20161026205054
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.server.syslog:
+    lastUpdated: 20161026205054
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.slave.inject:
+    lastUpdated: 20161026205055
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.slave.inject.postgres:
+    lastUpdated: 20161026205055
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.slave.pull:
+    lastUpdated: 20161026205056
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ae.utils:
+    lastUpdated: 20161026205056
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca:
+    lastUpdated: 20161026205057
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.client:
+    lastUpdated: 20161026205057
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.client.ngp:
+    lastUpdated: 20161026205058
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.common:
+    lastUpdated: 20161026205058
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.common.ngp:
+    lastUpdated: 20161026205059
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.connection.provider:
+    lastUpdated: 20161026205059
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.console:
+    lastUpdated: 20161026205059
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.data:
+    lastUpdated: 20161026205100
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.file:
+    lastUpdated: 20161026205101
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.jdbc:
+    lastUpdated: 20161026205101
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.oscar:
+    lastUpdated: 20161026205102
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.protocol.ngp.codec:
+    lastUpdated: 20161026205102
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.server:
+    lastUpdated: 20161026205103
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.server.exporter.ngp:
+    lastUpdated: 20161026205103
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.server.ngp:
+    lastUpdated: 20161026205103
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.server.osgi:
+    lastUpdated: 20161026205104
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.servlet:
+    lastUpdated: 20161026205105
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.updater:
+    lastUpdated: 20161026205105
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.core.client:
+    lastUpdated: 20161026205106
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.client.common:
+    lastUpdated: 20161026205106
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.core.client.connection.service:
+    lastUpdated: 20161026205106
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.client.ngp:
+    lastUpdated: 20161026205107
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.connection.provider:
+    lastUpdated: 20161026205107
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.data:
+    lastUpdated: 20161026205108
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.doc.isv:
+    lastUpdated: 20170216111145
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.core.ngp:
+    lastUpdated: 20161026205109
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ngp.common:
+    lastUpdated: 20161026205109
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.protocol.ngp.codec:
+    lastUpdated: 20161026205110
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.server:
+    lastUpdated: 20161026205110
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.server.common:
+    lastUpdated: 20161026205111
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.core.server.exporter:
+    lastUpdated: 20161026205111
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.server.ngp:
+    lastUpdated: 20161026205112
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.subscription:
+    lastUpdated: 20161026205112
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.buffer:
+    lastUpdated: 20161026205113
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.client:
+    lastUpdated: 20161026205113
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.client.connection.service:
+    lastUpdated: 20161026205114
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.client.ngp:
+    lastUpdated: 20161026205114
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.client.sfp:
+    lastUpdated: 20161026205114
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.common.ngp:
+    lastUpdated: 20161026205115
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.component.script:
+    lastUpdated: 20161026205115
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.connection.provider:
+    lastUpdated: 20161026205116
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.core.common:
+    lastUpdated: 20161026205116
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.core.server:
+    lastUpdated: 20161026205116
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.data:
+    lastUpdated: 20161026205117
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource:
+    lastUpdated: 20161026205117
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.datasource.average:
+    lastUpdated: 20161026205118
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource.changecounter:
+    lastUpdated: 20161026205118
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.constant:
+    lastUpdated: 20161026205119
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource.delta:
+    lastUpdated: 20161026205119
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.ds:
+    lastUpdated: 20161026205120
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.formula:
+    lastUpdated: 20161026205120
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.item:
+    lastUpdated: 20161026205121
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.memory:
+    lastUpdated: 20161026205121
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource.movingaverage:
+    lastUpdated: 20161026205121
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.proxy:
+    lastUpdated: 20161026205122
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource.script:
+    lastUpdated: 20161026205122
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.datasource.sum:
+    lastUpdated: 20161026205123
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.datasource.totalizer:
+    lastUpdated: 20161026205123
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.mapper:
+    lastUpdated: 20161026205123
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.mapper.osgi:
+    lastUpdated: 20161026205124
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.master:
+    lastUpdated: 20161026205124
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.master.analyzer:
+    lastUpdated: 20161026205124
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.master.common:
+    lastUpdated: 20161026205125
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.master.mapper:
+    lastUpdated: 20161026205125
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.protocol.ngp.codec:
+    lastUpdated: 20161026205126
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.arduino:
+    lastUpdated: 20161026205126
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.common:
+    lastUpdated: 20170216111146
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.da.server.common.io:
+    lastUpdated: 20161026205127
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.common.memory:
+    lastUpdated: 20161026205127
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.common.osgi:
+    lastUpdated: 20161026205128
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.component:
+    lastUpdated: 20161026205128
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.component.linux:
+    lastUpdated: 20161026205129
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.component.parser:
+    lastUpdated: 20161026205129
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.component.parser.factory:
+    lastUpdated: 20161026205130
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.component.parser.factory.edit:
+    lastUpdated: 20161026205130
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.eclipse.scada.da.server.dave:
+    lastUpdated: 20161026205130
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.exec:
+    lastUpdated: 20161026205131
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.exec.edit:
+    lastUpdated: 20161026205131
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.exec.editor:
+    lastUpdated: 20161026205131
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.exporter:
+    lastUpdated: 20161026205132
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.exporter.common:
+    lastUpdated: 20170216111146
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.da.server.exporter.modbus:
+    lastUpdated: 20161026205133
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.exporter.ngp:
+    lastUpdated: 20161026205133
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.exporter.osgi:
+    lastUpdated: 20161026205134
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.exporter.rest:
+    lastUpdated: 20161026205134
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.io.common:
+    lastUpdated: 20161026205134
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.jdbc:
+    lastUpdated: 20161026205135
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.jdbc.edit:
+    lastUpdated: 20161026205135
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.ngp:
+    lastUpdated: 20161026205135
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.server.osgi:
+    lastUpdated: 20161026205136
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.osgi.modbus:
+    lastUpdated: 20161026205136
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.osgi.summary:
+    lastUpdated: 20161026205137
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.osgi.testing:
+    lastUpdated: 20161026205137
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.proxy:
+    lastUpdated: 20161026205138
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.simulation.component:
+    lastUpdated: 20161026205138
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.stock:
+    lastUpdated: 20161026205139
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.sysinfo:
+    lastUpdated: 20161026205139
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.server.test:
+    lastUpdated: 20161026205140
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.utils.daemon:
+    lastUpdated: 20161026205140
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd:
+    lastUpdated: 20161026205140
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.client.common:
+    lastUpdated: 20161026205141
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.client.connection.service:
+    lastUpdated: 20161026205141
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.client.ngp:
+    lastUpdated: 20161026205142
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.common.ngp:
+    lastUpdated: 20161026205142
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.connection.provider:
+    lastUpdated: 20161026205143
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.data:
+    lastUpdated: 20161026205143
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.exporter.http:
+    lastUpdated: 20161026205144
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.exporter.http.server:
+    lastUpdated: 20161026205144
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.protocol.ngp.codec:
+    lastUpdated: 20161026205144
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.server.common:
+    lastUpdated: 20161026205145
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.common.item:
+    lastUpdated: 20161026205145
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.exporter:
+    lastUpdated: 20161026205146
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.exporter.ngp:
+    lastUpdated: 20161026205146
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.hd.server.importer.hsdb:
+    lastUpdated: 20161026205147
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.ngp:
+    lastUpdated: 20161026205147
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.server.proxy:
+    lastUpdated: 20161026205148
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.storage.common:
+    lastUpdated: 20161026205148
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hd.server.storage.hds:
+    lastUpdated: 20161026205149
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.server.storage.master.hds:
+    lastUpdated: 20161026205149
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.hd.server.storage.slave.hds:
+    lastUpdated: 20161026205150
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.protocol.sfp:
+    lastUpdated: 20161026205150
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.sec.audit.log.ae:
+    lastUpdated: 20161026205150
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.sec.authz.signature:
+    lastUpdated: 20161026205151
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.osgi.manager:
+    lastUpdated: 20161026205151
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.provider.ca:
+    lastUpdated: 20161026205152
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.provider.jdbc:
+    lastUpdated: 20161026205152
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.sec.provider.script:
+    lastUpdated: 20161026205153
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

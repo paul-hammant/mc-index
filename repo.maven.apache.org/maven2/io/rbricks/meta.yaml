@@ -1,0 +1,122 @@
+artifacts:
+  itemized-circe_2.11:
+    lastUpdated: 20161212153417
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  itemized-circe_2.12:
+    lastUpdated: 20161212153418
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  itemized_2.11:
+    lastUpdated: 20161212153418
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  itemized_2.12:
+    lastUpdated: 20161212153419
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  nozzle_2.11:
+    lastUpdated: 20161212202443
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  scalog-backend_2.10:
+    lastUpdated: 20170205094912
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalog-backend_2.11:
+    lastUpdated: 20170205094913
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-backend_2.12:
+    lastUpdated: 20170205094913
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-contextpropagation_2.10:
+    lastUpdated: 20170205094914
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalog-contextpropagation_2.11:
+    lastUpdated: 20170205094914
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-contextpropagation_2.12:
+    lastUpdated: 20170205094915
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-mdc_2.10:
+    lastUpdated: 20170205094915
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalog-mdc_2.11:
+    lastUpdated: 20170205094915
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-mdc_2.12:
+    lastUpdated: 20170205094916
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  scalog-mdcinterface_2.10:
+    lastUpdated: 20170205094916
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalog-mdcinterface_2.11:
+    lastUpdated: 20170205094916
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  scalog-mdcinterface_2.12:
+    lastUpdated: 20170205094917
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+

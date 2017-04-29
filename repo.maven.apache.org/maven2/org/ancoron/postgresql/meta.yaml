@@ -1,0 +1,187 @@
+artifacts:
+  org.ancoron.postgresql.jpa:
+    lastUpdated: 20130103013134
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.ancoron.postgresql.jpa.test:
+    lastUpdated: 20130103013136
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.ancoron.postgresql.test.glassfish:
+    lastUpdated: 20130103013137
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.postgresql:
+    lastUpdated: 20130103013139
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.postgresql.net:
+    lastUpdated: 20130103013140
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.postgresql.osgi:
+    lastUpdated: 20130103013141
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  org.postgresql.osgi.test:
+    lastUpdated: 20130103013142
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  pginet-parent:
+    lastUpdated: 20130103013144
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+  test-util:
+    lastUpdated: 20130103013146
+    latest: 9.1.901.jdbc4.1-rc9
+    release: 9.1.901.jdbc4.1-rc9
+    versions:
+      - 8.4.702
+      - 8.4.702.jdbc4.1-rc1
+      - 8.4.702.jdbc4.1-rc2
+      - 8.4.702.jdbc4.1-rc3
+      - 8.4.702.jdbc4.1-rc4
+      - 8.4.702.jdbc4.1-rc5
+      - 8.4.702.jdbc4.1-rc6
+      - 8.4.702.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc1
+      - 9.1.901.jdbc4.1-rc2
+      - 9.1.901.jdbc4.1-rc3
+      - 9.1.901.jdbc4.1-rc4
+      - 9.1.901.jdbc4.1-rc5
+      - 9.1.901.jdbc4.1-rc6
+      - 9.1.901.jdbc4.1-rc7
+      - 9.1.901.jdbc4.1-rc8
+      - 9.1.901.jdbc4.1-rc9
+

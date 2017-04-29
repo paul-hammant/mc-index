@@ -1,0 +1,483 @@
+artifacts:
+  langdetect-opencms:
+    lastUpdated: 20130210153624
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  opencms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.1
+  opencms-components:
+    lastUpdated: 20160112161734
+    latest: 9.5.3
+    release: 9.5.3
+    versions:
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+  opencms-core:
+    lastUpdated: 20170215153508
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.3-rev
+      - 8.0.3.1
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  opencms-gwt:
+    lastUpdated: 20170215153509
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  opencms-setup:
+    lastUpdated: 20170215153510
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.3-rev
+      - 8.0.3.1
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  opencms-test:
+    lastUpdated: 20170215153511
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  opencms-upload:
+    lastUpdated: 20111207215609
+    latest: 8.0.3-rev
+    release: 8.0.3-rev
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+  opencms-webapp:
+    lastUpdated: 20170215153513
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3.1
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  opencms-widgetset:
+    lastUpdated: 20170215153513
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.5.0
+      - 10.5.1
+  org.opencms.apollo.template.webform:
+    lastUpdated: 20160615093429
+    latest: 10.0.1
+    release: 10.0.1
+    versions:
+      - 10.0.1
+  org.opencms.editors.ckeditor:
+    lastUpdated: 20111207215610
+    latest: 8.0.3-rev
+    release: 8.0.3-rev
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+  org.opencms.editors.codemirror:
+    lastUpdated: 20170215153513
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.editors.fckeditor:
+    lastUpdated: 20111207215613
+    latest: 8.0.3-rev
+    release: 8.0.3-rev
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+  org.opencms.editors.tinymce:
+    lastUpdated: 20170215153514
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.gwt:
+    lastUpdated: 20170215153514
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.ugc:
+    lastUpdated: 20170215153515
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace:
+    lastUpdated: 20170215153515
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.administration:
+    lastUpdated: 20170215153515
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.explorer:
+    lastUpdated: 20170215153516
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.accounts:
+    lastUpdated: 20170215153517
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.cache:
+    lastUpdated: 20170215153517
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.content:
+    lastUpdated: 20170215153518
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.database:
+    lastUpdated: 20170215153518
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.galleryoverview:
+    lastUpdated: 20170215153519
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.git:
+    lastUpdated: 20170215153520
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.history:
+    lastUpdated: 20170215153520
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.link:
+    lastUpdated: 20170215153521
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.modules:
+    lastUpdated: 20170215153521
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.projects:
+    lastUpdated: 20170215153522
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.publishqueue:
+    lastUpdated: 20170215153522
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.scheduler:
+    lastUpdated: 20170215153523
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.searchindex:
+    lastUpdated: 20170215153523
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.sites:
+    lastUpdated: 20170215153524
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+  org.opencms.workplace.tools.workplace:
+    lastUpdated: 20170215153524
+    latest: 10.5.1
+    release: 10.5.1
+    versions:
+      - 8.0.3
+      - 8.0.3-rev
+      - 9.0.0
+      - 9.0.1
+      - 9.5.0
+      - 9.5.1
+      - 9.5.2
+      - 9.5.3
+      - 10.0.0
+      - 10.0.1
+      - 10.5.0
+      - 10.5.1
+

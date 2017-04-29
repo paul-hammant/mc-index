@@ -1,0 +1,74 @@
+artifacts:
+  core-base:
+    lastUpdated: 20120219004201
+    latest: 4
+    release: 4
+    versions:
+      - 2
+      - 3
+      - 4
+  org.sakaiproject.nakamura.core:
+    lastUpdated: 20120725124003
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4
+      - 1.5
+  org.sakaiproject.nakamura.derby-driver:
+    lastUpdated: 20120219010100
+    latest: 10.6.2.1-1.5
+    release: 10.6.2.1-1.5
+    versions:
+      - 10.6.2.1-1.4
+      - 10.6.2.1-1.5
+  org.sakaiproject.nakamura.hashfiles:
+    lastUpdated: 20120418234643
+    latest: 1.2.0-RC1
+    release: 1.2.0-RC1
+    versions:
+      - 1.2.0-RC1
+  org.sakaiproject.nakamura.mysql-driver:
+    lastUpdated: 20111214033617
+    latest: 5.1.13-1.4
+    release: 5.1.13-1.4
+    versions:
+      - 5.1.13-1.4
+  org.sakaiproject.nakamura.postgres-driver:
+    lastUpdated: 20120219010620
+    latest: 9.0-801-1.5
+    release: 9.0-801-1.5
+    versions:
+      - 9.0-801-1.4
+      - 9.0-801-1.5
+  org.sakaiproject.nakamura.solr:
+    lastUpdated: 20120418173338
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.4.2
+  org.sakaiproject.nakamura.uxloader:
+    lastUpdated: 20120419010042
+    latest: 1.2.0-RC1
+    release: 1.2.0-RC1
+    versions:
+      - 1.2.0-RC1
+  org.sakaiproject.nakamura.uxloader-wrap:
+    lastUpdated: 20120419010042
+    latest: 1.2.0-RC1
+    release: 1.2.0-RC1
+    versions:
+      - 1.2.0-RC1
+

@@ -1,0 +1,74 @@
+artifacts:
+  jbpm-spec:
+    lastUpdated: 20100426081631
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-api:
+    lastUpdated: 20100426081150
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-cts:
+    lastUpdated: 20100426081230
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-dialect-api10:
+    lastUpdated: 20100426081259
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-dialect-jpdl32:
+    lastUpdated: 20100426081330
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-dialect-stp:
+    lastUpdated: 20100426081358
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-dialect-xpdl21:
+    lastUpdated: 20100426081426
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-dialects:
+    lastUpdated: 20100426081438
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-ri:
+    lastUpdated: 20100426081506
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-sample-airticket:
+    lastUpdated: 20100426081619
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-sample-airticket-client:
+    lastUpdated: 20100426081536
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+  jbpm-spec-sample-airticket-server:
+    lastUpdated: 20100426081608
+    latest: 1.0.0-Alpha1
+    release: 1.0.0-Alpha1
+    versions:
+      - 1.0.0-Alpha1
+

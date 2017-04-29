@@ -1,0 +1,218 @@
+artifacts:
+  jclouds-apachehc:
+    lastUpdated: 20170227150528
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-bouncycastle:
+    lastUpdated: 20170227150530
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-enterprise:
+    lastUpdated: 20170227150530
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-gae:
+    lastUpdated: 20170227150531
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-joda:
+    lastUpdated: 20170227150532
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-jsch:
+    lastUpdated: 20170227150533
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-log4j:
+    lastUpdated: 20170227150533
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-netty:
+    lastUpdated: 20170227150534
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-okhttp:
+    lastUpdated: 20170227150535
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-slf4j:
+    lastUpdated: 20170227150536
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-sshj:
+    lastUpdated: 20170227150537
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+

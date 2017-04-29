@@ -1,0 +1,227 @@
+artifacts:
+  jexmec:
+    lastUpdated: 20121117133123
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-api:
+    lastUpdated: 20121117133124
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-api-test-plugin:
+    lastUpdated: 20110228180007
+    latest: 2.0.0rc3
+    release: 2.0.0rc3
+    versions:
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+  jexmec-api-tests:
+    lastUpdated: 20121117133125
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-ctor-pl:
+    lastUpdated: 20121117133130
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-dev-clp:
+    lastUpdated: 20121117133131
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-docs:
+    lastUpdated: 20110228180010
+    latest: 2.0.0rc3
+    release: 2.0.0rc3
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+  jexmec-felix:
+    lastUpdated: 20110211154028
+    latest: 2.0.0rc2
+    release: 2.0.0rc2
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+  jexmec-groovy:
+    lastUpdated: 20121117133132
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-guice:
+    lastUpdated: 20121117133133
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-jarfiles-clp:
+    lastUpdated: 20121117133134
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-lifecycle:
+    lastUpdated: 20121117133134
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-logging:
+    lastUpdated: 20121117133135
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-manager:
+    lastUpdated: 20121117133136
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-mavenrepo-clp:
+    lastUpdated: 20121117133136
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-osgi:
+    lastUpdated: 20121117133137
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-pico:
+    lastUpdated: 20091126095141
+    latest: {}
+    release: 1.25
+    versions:
+      - 1.25
+  jexmec-plexus:
+    lastUpdated: 20091126095122
+    latest: {}
+    release: 1.25
+    versions:
+      - 1.25
+  jexmec-services:
+    lastUpdated: 20121117133137
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-spring:
+    lastUpdated: 20121117133138
+    latest: 2.0.0rc8
+    release: 2.0.0rc8
+    versions:
+      - 1.25
+      - 2.0.0rc1
+      - 2.0.0rc2
+      - 2.0.0rc3
+      - 2.0.0rc4
+      - 2.0.0rc5
+      - 2.0.0rc6
+      - 2.0.0rc7
+      - 2.0.0rc8
+  jexmec-store:
+    lastUpdated: 20091126095201
+    latest: {}
+    release: 1.25
+    versions:
+      - 1.25
+

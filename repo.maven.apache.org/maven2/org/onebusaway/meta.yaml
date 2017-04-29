@@ -1,0 +1,184 @@
+artifacts:
+  onebusaway:
+    lastUpdated: 20131109122605
+    latest: 1.1.10
+    release: 1.1.10
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+  onebusaway-cli:
+    lastUpdated: 20120304234339
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  onebusaway-collections:
+    lastUpdated: 20121231124220
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+  onebusaway-csv-entities:
+    lastUpdated: 20150503061950
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+  onebusaway-gtfs:
+    lastUpdated: 20150503164402
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.11
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  onebusaway-gtfs-hibernate:
+    lastUpdated: 20150503164402
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.11
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  onebusaway-gtfs-merge:
+    lastUpdated: 20150503164403
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  onebusaway-gtfs-modules:
+    lastUpdated: 20150503164403
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.11
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  onebusaway-gtfs-realtime-api:
+    lastUpdated: 20150130144143
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  onebusaway-gtfs-transformer:
+    lastUpdated: 20150503164404
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.4
+      - 1.1.5
+      - 1.1.6
+      - 1.1.7
+      - 1.1.8
+      - 1.1.9
+      - 1.1.10
+      - 1.1.11
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  onebusaway-maven-skin:
+    lastUpdated: 20120211160706
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

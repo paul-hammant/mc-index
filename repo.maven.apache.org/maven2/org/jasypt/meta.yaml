@@ -1,0 +1,125 @@
+artifacts:
+  jasypt:
+    lastUpdated: 20140225225720
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.7.1
+      - 1.8
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+  jasypt-acegisecurity:
+    lastUpdated: 20140225225721
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-hibernate:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  jasypt-hibernate3:
+    lastUpdated: 20140225225721
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-hibernate4:
+    lastUpdated: 20140225225722
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-spring-security:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  jasypt-spring2:
+    lastUpdated: 20140225225722
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-spring3:
+    lastUpdated: 20140225225723
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-spring31:
+    lastUpdated: 20140225225723
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-springsecurity2:
+    lastUpdated: 20140225225724
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-springsecurity3:
+    lastUpdated: 20140225225725
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-wicket13:
+    lastUpdated: 20140225225725
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+  jasypt-wicket15:
+    lastUpdated: 20140225225725
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+

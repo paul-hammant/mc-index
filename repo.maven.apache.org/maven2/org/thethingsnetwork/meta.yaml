@@ -1,0 +1,69 @@
+artifacts:
+  account:
+    lastUpdated: 20170423132024
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  app-sdk:
+    lastUpdated: 20170423132025
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  data:
+    lastUpdated: 20170423132025
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  data-amqp:
+    lastUpdated: 20170423132025
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  data-common:
+    lastUpdated: 20170423132025
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  data-mqtt:
+    lastUpdated: 20170423132025
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  java-app-lib:
+    lastUpdated: 20161107124634
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 0.2.0
+      - 1.0.0
+  management:
+    lastUpdated: 20170423132026
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+

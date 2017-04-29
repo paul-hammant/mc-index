@@ -1,0 +1,206 @@
+artifacts:
+  accumulo.pig:
+    lastUpdated: 20161028213747
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  accumulo.rya:
+    lastUpdated: 20161028213749
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  alx.rya:
+    lastUpdated: 20161028213750
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  alx.rya.console:
+    lastUpdated: 20161028213751
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  camel.rya:
+    lastUpdated: 20161028213751
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  mongodb.rya:
+    lastUpdated: 20161028213752
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya-project:
+    lastUpdated: 20161028213752
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.api:
+    lastUpdated: 20161028213753
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.benchmark:
+    lastUpdated: 20161028213754
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.common:
+    lastUpdated: 20161028213757
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.console:
+    lastUpdated: 20161028213757
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.dao:
+    lastUpdated: 20161028213801
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.extras:
+    lastUpdated: 20161028213801
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.indexing:
+    lastUpdated: 20161028213807
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.indexing.example:
+    lastUpdated: 20161028213808
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.indexing.pcj:
+    lastUpdated: 20161028213817
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.manual:
+    lastUpdated: 20161028213818
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.mapreduce:
+    lastUpdated: 20161028213818
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.merger:
+    lastUpdated: 20161028213823
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.osgi:
+    lastUpdated: 20161028213823
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.api:
+    lastUpdated: 20161028213824
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.app:
+    lastUpdated: 20161028213827
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.client:
+    lastUpdated: 20161028213827
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.demo:
+    lastUpdated: 20161028213835
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.integration:
+    lastUpdated: 20161028213835
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pcj.fluo.parent:
+    lastUpdated: 20161028213835
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.pig:
+    lastUpdated: 20161028213836
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.prospector:
+    lastUpdated: 20161028213836
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.provenance:
+    lastUpdated: 20161028213839
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.reasoning:
+    lastUpdated: 20161028213840
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.sail:
+    lastUpdated: 20161028213843
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.vagrant.example:
+    lastUpdated: 20161028213844
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  rya.web:
+    lastUpdated: 20161028213844
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+  web.rya:
+    lastUpdated: 20161028213845
+    latest: 3.2.10-incubating
+    release: 3.2.10-incubating
+    versions:
+      - 3.2.10-incubating
+

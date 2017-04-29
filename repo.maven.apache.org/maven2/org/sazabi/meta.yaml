@@ -1,0 +1,358 @@
+artifacts:
+  argonaut-codecs-bijection_2.10:
+    lastUpdated: 20160126065719
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  argonaut-codecs-bijection_2.11:
+    lastUpdated: 20160310031833
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  argonaut-codecs-core_2.10:
+    lastUpdated: 20160126065720
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  argonaut-codecs-core_2.11:
+    lastUpdated: 20160310031833
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  argonaut-codecs-spire_2.10:
+    lastUpdated: 20160126065722
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  argonaut-codecs-spire_2.11:
+    lastUpdated: 20160310031834
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  base58s_2.10:
+    lastUpdated: 20160126041501
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  base58s_2.11:
+    lastUpdated: 20160309090403
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bcrypt4z-scalaz_2.10:
+    lastUpdated: 20160126042853
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bcrypt4z-scalaz_2.11:
+    lastUpdated: 20160309084229
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bcrypt4z_2.10:
+    lastUpdated: 20160126042854
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bcrypt4z_2.11:
+    lastUpdated: 20160309084230
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bijections-argonaut_2.10:
+    lastUpdated: 20160126081218
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-argonaut_2.11:
+    lastUpdated: 20160126081218
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-core_2.10:
+    lastUpdated: 20160126081219
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-core_2.11:
+    lastUpdated: 20160126081220
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-jodatime_2.10:
+    lastUpdated: 20160126081220
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-jodatime_2.11:
+    lastUpdated: 20160126081221
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-scalaz_2.10:
+    lastUpdated: 20160126081221
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bijections-scalaz_2.11:
+    lastUpdated: 20160126081222
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  kadai-config-http4s_2.10:
+    lastUpdated: 20160126044138
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  kadai-config-http4s_2.11:
+    lastUpdated: 20160309080322
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  knobs-reader_2.11:
+    lastUpdated: 20160630081614
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  regexmacro_2.10:
+    lastUpdated: 20160310062646
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  regexmacro_2.11:
+    lastUpdated: 20160310062647
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  regexmacro_2.12:
+    lastUpdated: 20170123071744
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  util-all_2.10:
+    lastUpdated: 20130408021526
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  util-bijection-json4s-native_2.10:
+    lastUpdated: 20130701063437
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-bijection-netty_2.10:
+    lastUpdated: 20130701063437
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-bijection-scalendar_2.10:
+    lastUpdated: 20130701063437
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-bijection_2.10:
+    lastUpdated: 20130701063437
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-codec_2.10:
+    lastUpdated: 20130426045750
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  util-core_2.10:
+    lastUpdated: 20130701063438
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-finagle-http_2.10:
+    lastUpdated: 20130701063438
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-id_2.10:
+    lastUpdated: 20130701063439
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-json_2.10:
+    lastUpdated: 20130701063439
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-netty_2.10:
+    lastUpdated: 20130426045753
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  util-redis_2.10:
+    lastUpdated: 20130610044157
+    latest: 0.8.2
+    release: 0.8.2
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+  util-scalendar_2.10:
+    lastUpdated: 20130701063439
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-slick-all_2.10:
+    lastUpdated: 20130408021531
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  util-slick-bijection_2.10:
+    lastUpdated: 20130701064247
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  util-slick-core_2.10:
+    lastUpdated: 20130701064247
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  util-slick-json_2.10:
+    lastUpdated: 20130701064247
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  util-slick-scalendar_2.10:
+    lastUpdated: 20130701064248
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  util-twitter_2.10:
+    lastUpdated: 20130701063440
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+  util-zk_2.10:
+    lastUpdated: 20130701063440
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.8.2
+      - 0.9.0
+

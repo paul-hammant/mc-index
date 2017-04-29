@@ -1,0 +1,77 @@
+artifacts:
+  wiquery-compressor:
+    lastUpdated: 20130731100112
+    latest: 6.9.2
+    release: 6.9.2
+    versions:
+      - 6.0.0-beta3
+      - 6.0.0
+      - 6.2.0
+      - 6.5.0
+      - 6.6.0
+      - 6.9.1
+      - 6.9.2
+  wiquery-core:
+    lastUpdated: 20140122145814
+    latest: 6.13.0
+    release: 6.13.0
+    versions:
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 6.0.0-beta3
+      - 6.0.0
+      - 6.2.0
+      - 6.5.0
+      - 6.6.0
+      - 6.9.1
+      - 6.9.2
+      - 6.12.0
+      - 6.13.0
+  wiquery-demo:
+    lastUpdated: 20140122145815
+    latest: 6.13.0
+    release: 6.13.0
+    versions:
+      - 6.2.0
+      - 6.5.0
+      - 6.6.0
+      - 6.9.1
+      - 6.9.2
+      - 6.12.0
+      - 6.13.0
+  wiquery-jquery-ui:
+    lastUpdated: 20140122145816
+    latest: 6.13.0
+    release: 6.13.0
+    versions:
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 6.0.0-beta3
+      - 6.0.0
+      - 6.2.0
+      - 6.5.0
+      - 6.6.0
+      - 6.9.1
+      - 6.9.2
+      - 6.12.0
+      - 6.13.0
+  wiquery-parent:
+    lastUpdated: 20140122145816
+    latest: 6.13.0
+    release: 6.13.0
+    versions:
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 6.0.0-beta3
+      - 6.0.0
+      - 6.2.0
+      - 6.5.0
+      - 6.6.0
+      - 6.9.1
+      - 6.9.2
+      - 6.12.0
+      - 6.13.0
+

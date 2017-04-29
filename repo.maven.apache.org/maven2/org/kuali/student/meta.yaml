@@ -1,0 +1,40 @@
+artifacts:
+  ks-rice-db:
+    lastUpdated: 20120922150717
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  ks-sonar:
+    lastUpdated: 20130703224550
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ks-sonar-db-integrity:
+    lastUpdated: 20130703224550
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  student:
+    lastUpdated: 20140925171438
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2-M6
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+

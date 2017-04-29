@@ -1,0 +1,488 @@
+artifacts:
+  Samples:
+    lastUpdated: 20151125100319
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+  SwingMapViewer:
+    lastUpdated: 20151125100320
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+  mapsforge:
+    lastUpdated: 20160610222344
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+  mapsforge-core:
+    lastUpdated: 20170318102159
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map:
+    lastUpdated: 20170318102200
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map-android:
+    lastUpdated: 20170318102200
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map-android-extras:
+    lastUpdated: 20170318102201
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map-awt:
+    lastUpdated: 20170318102202
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map-reader:
+    lastUpdated: 20170318102202
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-map-writer:
+    lastUpdated: 20170318102203
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0-rc1
+      - 0.5.0-rc3
+      - 0.5.0-rc4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2-rc2
+      - 0.5.2-rc3
+      - 0.5.2
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-poi:
+    lastUpdated: 20170318102203
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-poi-android:
+    lastUpdated: 20170318102204
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-poi-awt:
+    lastUpdated: 20170318102204
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-poi-writer:
+    lastUpdated: 20170318102205
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  mapsforge-samples-android:
+    lastUpdated: 20160610222350
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+  mapsforge-samples-awt:
+    lastUpdated: 20160610222351
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+  mapsforge-themes:
+    lastUpdated: 20170318102206
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  spatialite-android:
+    lastUpdated: 20170318102206
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.6.1-rc1
+      - 0.6.1-rc2
+      - 0.6.1
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+      - 0.8.0-rc1
+      - 0.8.0
+  svg-android:
+    lastUpdated: 20140510153237
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.4.2
+      - 0.4.3
+  vtm:
+    lastUpdated: 20170226102504
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-android:
+    lastUpdated: 20170226102505
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-android-gdx:
+    lastUpdated: 20170226102506
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-desktop:
+    lastUpdated: 20170226102507
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-extras:
+    lastUpdated: 20170226102508
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-gdx:
+    lastUpdated: 20170226102508
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-http:
+    lastUpdated: 20170226102508
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-ios:
+    lastUpdated: 20170226102509
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-jeo:
+    lastUpdated: 20170226102509
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-jts:
+    lastUpdated: 20170226102510
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-themes:
+    lastUpdated: 20170226102510
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0-rc1
+      - 0.6.0-rc2
+      - 0.6.0-rc3
+      - 0.6.0
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+  vtm-web:
+    lastUpdated: 20170226102511
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0-rc1
+      - 0.7.0-rc2
+      - 0.7.0
+

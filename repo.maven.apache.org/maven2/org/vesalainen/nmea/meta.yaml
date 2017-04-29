@@ -1,0 +1,45 @@
+artifacts:
+  IcomManager:
+    lastUpdated: 20170119183544
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.5
+      - 1.8.0
+  parent:
+    lastUpdated: 20170119183545
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.4
+      - 1.0.5
+      - 1.8.0
+  parser:
+    lastUpdated: 20170119183545
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.4
+      - 1.0.5
+      - 1.8.0
+  router:
+    lastUpdated: 20170119183545
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.4
+      - 1.0.5
+      - 1.8.0
+  track-plotter:
+    lastUpdated: 20170119183546
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+

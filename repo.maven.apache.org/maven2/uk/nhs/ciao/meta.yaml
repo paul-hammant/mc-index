@@ -1,0 +1,134 @@
+artifacts:
+  ciao-cda-builder:
+    lastUpdated: 20160304121506
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-configuration:
+    lastUpdated: 20160226161600
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-core:
+    lastUpdated: 20160226171113
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-enricher:
+    lastUpdated: 20160304115141
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-enricher-parent:
+    lastUpdated: 20160304115141
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-finalizer:
+    lastUpdated: 20160304141451
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-parser:
+    lastUpdated: 20160304095126
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-parser-core:
+    lastUpdated: 20160304095127
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-parser-kings:
+    lastUpdated: 20160304095128
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-parser-model:
+    lastUpdated: 20160304095129
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-parser-parent:
+    lastUpdated: 20160304095130
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-transformer:
+    lastUpdated: 20160304120621
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-docs-transformer-parent:
+    lastUpdated: 20160304164606
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-dts:
+    lastUpdated: 20160304135758
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-parent:
+    lastUpdated: 20160226172749
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-parent-support:
+    lastUpdated: 20160226172749
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-spine-sds:
+    lastUpdated: 20160304140103
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-spine-sds-test:
+    lastUpdated: 20160304135921
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-transport-dts:
+    lastUpdated: 20160304140945
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-transport-itk:
+    lastUpdated: 20160304140946
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-transport-itk-parent:
+    lastUpdated: 20160304140946
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ciao-transport-spine:
+    lastUpdated: 20160304140946
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

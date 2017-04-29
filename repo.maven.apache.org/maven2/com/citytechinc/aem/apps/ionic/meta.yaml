@@ -1,0 +1,37 @@
+artifacts:
+  aem-apps-ionic-maven-archetype:
+    lastUpdated: 20160926224943
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.3.0
+  ionic-aem-apps:
+    lastUpdated: 20160926190333
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.7.0
+  ionic-aem-apps-api:
+    lastUpdated: 20160926190333
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.7.0
+  ionic-aem-apps-core:
+    lastUpdated: 20160926190334
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.7.0
+  ionic-aem-apps-ui:
+    lastUpdated: 20160926190334
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.7.0
+

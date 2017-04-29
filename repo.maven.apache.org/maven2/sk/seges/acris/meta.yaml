@@ -1,0 +1,912 @@
+artifacts:
+  acris-annotation-processors:
+    lastUpdated: 20140926051858
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-asmant:
+    lastUpdated: 20140926051859
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-async-service-processor:
+    lastUpdated: 20140926051900
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-bean-wrapper-processor:
+    lastUpdated: 20140926051900
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-benchmark:
+    lastUpdated: 20140926051900
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-binding:
+    lastUpdated: 20121224172015
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-binding-api:
+    lastUpdated: 20121224172015
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+  acris-binding-processor:
+    lastUpdated: 20121224172016
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+  acris-bpm-activiti-engine:
+    lastUpdated: 20140926051901
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-bpm-build:
+    lastUpdated: 20140926051901
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-bpm-parent:
+    lastUpdated: 20140926051902
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-bpm-web:
+    lastUpdated: 20140926051902
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-callbacks:
+    lastUpdated: 20140926051903
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-client-core:
+    lastUpdated: 20140926051904
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-common:
+    lastUpdated: 20140926051904
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-crypto:
+    lastUpdated: 20140926051905
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-external:
+    lastUpdated: 20140926051905
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-generator:
+    lastUpdated: 20140926051906
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-image-utils:
+    lastUpdated: 20140926051907
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.2
+      - 2.0.0
+  acris-json:
+    lastUpdated: 20140926051907
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-json-api:
+    lastUpdated: 20140926051908
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-json-migration:
+    lastUpdated: 20140926051908
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-json-processor:
+    lastUpdated: 20140926051909
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-os-build:
+    lastUpdated: 20121224171907
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-os-gwt-parent:
+    lastUpdated: 20140925184900
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.20
+      - 1.0.21
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-os-parent:
+    lastUpdated: 20140926051909
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-pivo:
+    lastUpdated: 20140926051910
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-recorder:
+    lastUpdated: 20140926051912
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 2.0.0
+  acris-recorder-api:
+    lastUpdated: 20140926051913
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-build:
+    lastUpdated: 20140926051913
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-client-core:
+    lastUpdated: 20140926051915
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-dto:
+    lastUpdated: 20140926051915
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-jpa:
+    lastUpdated: 20140926051915
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-parent:
+    lastUpdated: 20140926051916
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-rpc:
+    lastUpdated: 20140926051916
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-scaffold-model:
+    lastUpdated: 20140926051916
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-server:
+    lastUpdated: 20140926051917
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-recorder-server-common:
+    lastUpdated: 20140926051917
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-reporting-all:
+    lastUpdated: 20140926051918
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-api:
+    lastUpdated: 20140926051918
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-appengine:
+    lastUpdated: 20140926051919
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-build:
+    lastUpdated: 20140926051919
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-core:
+    lastUpdated: 20140926051920
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-parent:
+    lastUpdated: 20140926051920
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-reporting-ui:
+    lastUpdated: 20140926051921
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-api:
+    lastUpdated: 20140926051921
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.2
+      - 2.0.0
+  acris-security-appengine:
+    lastUpdated: 20140926051922
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-build:
+    lastUpdated: 20140926051922
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-core:
+    lastUpdated: 20140926051923
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-dto:
+    lastUpdated: 20140926051923
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-gilead:
+    lastUpdated: 20121224171912
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-security-hibernate:
+    lastUpdated: 20140926051923
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-jpa:
+    lastUpdated: 20140926051924
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-openid:
+    lastUpdated: 20140926051925
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-openid-core:
+    lastUpdated: 20140926051925
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-openid-dto:
+    lastUpdated: 20140926051925
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-openid-scaffold-model:
+    lastUpdated: 20140926051926
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-parent:
+    lastUpdated: 20140926051926
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-processor:
+    lastUpdated: 20140926051926
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-rest-authentication:
+    lastUpdated: 20140926051927
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-scaffold-model:
+    lastUpdated: 20140926051928
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-server:
+    lastUpdated: 20140926051929
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-spring:
+    lastUpdated: 20140926051930
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-spring-api:
+    lastUpdated: 20140926051930
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  acris-security-spring-hibernate:
+    lastUpdated: 20140926051931
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-spring-jpa:
+    lastUpdated: 20140926051931
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-security-ui:
+    lastUpdated: 20140926051932
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-server-appengine:
+    lastUpdated: 20140926051932
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-server-build:
+    lastUpdated: 20140926051933
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-server-components:
+    lastUpdated: 20140926051933
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-server-parent:
+    lastUpdated: 20140926051934
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-api:
+    lastUpdated: 20140926051934
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-build:
+    lastUpdated: 20140926051935
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-core:
+    lastUpdated: 20140926051935
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-dto:
+    lastUpdated: 20140926051935
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-gilead:
+    lastUpdated: 20121224171918
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-site-hibernate:
+    lastUpdated: 20140926051936
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-jpa:
+    lastUpdated: 20140926051937
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-parent:
+    lastUpdated: 20140926051937
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-rpc:
+    lastUpdated: 20140926051937
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.2
+      - 2.0.0
+  acris-site-scaffold-model:
+    lastUpdated: 20140926051938
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-site-server:
+    lastUpdated: 20140926051939
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.2
+      - 2.0.0
+  acris-site-spring:
+    lastUpdated: 20140926051940
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-test-support:
+    lastUpdated: 20140926051942
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-theme-build:
+    lastUpdated: 20140926051943
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-theme-core:
+    lastUpdated: 20140926051943
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-theme-metal:
+    lastUpdated: 20121224172026
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-theme-parent:
+    lastUpdated: 20140926051945
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-theme-processor:
+    lastUpdated: 20140926051945
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-theme-shadow:
+    lastUpdated: 20121224172027
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  acris-widgets:
+    lastUpdated: 20140926051946
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+  acris-widgets-beantable:
+    lastUpdated: 20140926051947
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+

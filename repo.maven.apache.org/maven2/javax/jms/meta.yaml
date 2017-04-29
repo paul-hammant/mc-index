@@ -1,0 +1,34 @@
+artifacts:
+  javax.jms-api:
+    lastUpdated: 20150313143417
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0-b03
+      - 2.0-b04
+      - 2.0-b06
+      - 2.0-b07
+      - 2.0-b08
+      - 2.0-b09
+      - 2.0-b10
+      - 2.0-b11
+      - 2.0-b12
+      - 2.0-b13
+      - 2.0
+      - 2.0.1-b01
+      - 2.0.1
+      - 2.0
+  jms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  jms-api:
+    lastUpdated: 20110815192726
+    latest: 1.1-rev-1
+    release: 1.1-rev-1
+    versions:
+      - 1.1-rev-1
+

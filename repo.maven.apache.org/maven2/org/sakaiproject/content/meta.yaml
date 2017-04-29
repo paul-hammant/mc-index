@@ -1,0 +1,192 @@
+artifacts:
+  cloud-content:
+    lastUpdated: 20170224235952
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  cloud-content-impl:
+    lastUpdated: 20170224235952
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content:
+    lastUpdated: 20170224235952
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-bundles:
+    lastUpdated: 20170224235953
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-cleanup:
+    lastUpdated: 20170224235953
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-cleanup-impl:
+    lastUpdated: 20170224235953
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-cleanup-pack:
+    lastUpdated: 20160422164841
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  content-copyright-api:
+    lastUpdated: 20170224235953
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-copyright-impl:
+    lastUpdated: 20170224235954
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-copyright-pack:
+    lastUpdated: 20160422164842
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  content-metadata-api:
+    lastUpdated: 20170224235954
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-metadata-impl:
+    lastUpdated: 20170224235954
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-providers-impl:
+    lastUpdated: 20170224235955
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-providers-pack:
+    lastUpdated: 20160422164843
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  content-types:
+    lastUpdated: 20170224235955
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  content-types-pack:
+    lastUpdated: 20160422164844
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+  sakai-content-tool:
+    lastUpdated: 20160422164844
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+

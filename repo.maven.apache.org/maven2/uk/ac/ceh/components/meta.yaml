@@ -1,0 +1,119 @@
+artifacts:
+  components-parent:
+    lastUpdated: 20161014161842
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  datastore-api:
+    lastUpdated: 20161014161842
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  datastore-git:
+    lastUpdated: 20161014161843
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  jaas-userstore-crowd:
+    lastUpdated: 20161014161843
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  springsecurity-userstore:
+    lastUpdated: 20161014161844
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  token-generation-api:
+    lastUpdated: 20161014161845
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  token-generation-stateless:
+    lastUpdated: 20161014161845
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  userstore-api:
+    lastUpdated: 20161014161846
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  userstore-crowd:
+    lastUpdated: 20161014161847
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  userstore-inmemory:
+    lastUpdated: 20161014161847
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  vocab-api:
+    lastUpdated: 20161014161848
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  vocab-rdf:
+    lastUpdated: 20161014161849
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+  vocab-sparql:
+    lastUpdated: 20161014161849
+    latest: 1.0.43
+    release: 1.0.43
+    versions:
+      - 1.0.36
+      - 1.0.41
+      - 1.0.42
+      - 1.0.43
+

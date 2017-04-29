@@ -1,0 +1,62 @@
+artifacts:
+  org.oiue.service.odp.base:
+    lastUpdated: 20161101123444
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.dmo.mysql:
+    lastUpdated: 20161101123444
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.dmo.neo4j:
+    lastUpdated: 20161101123445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.dmo.postgresql:
+    lastUpdated: 20161101123445
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.res.dmo:
+    lastUpdated: 20161101123446
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.res.dmo.mysql:
+    lastUpdated: 20161101123446
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.structure:
+    lastUpdated: 20161101123447
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.structure.impl:
+    lastUpdated: 20161101123447
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.oiue.service.odp.structure.selectsql:
+    lastUpdated: 20161101123448
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  parent:
+    lastUpdated: 20161101123448
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

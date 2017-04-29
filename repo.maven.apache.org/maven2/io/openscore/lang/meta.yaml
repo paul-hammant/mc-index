@@ -1,0 +1,63 @@
+artifacts:
+  score-lang-api:
+    lastUpdated: 20150305152734
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+  score-lang-cli:
+    lastUpdated: 20150305152734
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+  score-lang-compiler:
+    lastUpdated: 20150305152736
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+  score-lang-content-verifier:
+    lastUpdated: 20150305152736
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.16
+  score-lang-entities:
+    lastUpdated: 20150305152737
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+  score-lang-runtime:
+    lastUpdated: 20150305152738
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+  score-language:
+    lastUpdated: 20150305152738
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.8
+      - 0.1.16
+  score-language-tests:
+    lastUpdated: 20150305152739
+    latest: 0.1.16
+    release: 0.1.16
+    versions:
+      - 0.1.5
+      - 0.1.8
+      - 0.1.16
+

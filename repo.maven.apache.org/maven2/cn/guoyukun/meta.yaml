@@ -1,0 +1,48 @@
+artifacts:
+  leman-core-extend:
+    lastUpdated: 20160614092810
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  leman-jdbc-extend:
+    lastUpdated: 20160614092811
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  leman-schema-extend:
+    lastUpdated: 20160614092811
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.0.3
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.5
+  pdm2pdf:
+    lastUpdated: 20140805103930
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  protocol-extends:
+    lastUpdated: 20140823054147
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  spring-leman:
+    lastUpdated: 20160614092812
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.0.3
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.4
+      - 1.0.5
+

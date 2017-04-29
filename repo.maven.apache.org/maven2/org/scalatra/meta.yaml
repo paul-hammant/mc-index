@@ -1,0 +1,2465 @@
+artifacts:
+  contrib-commons:
+    lastUpdated: 20120905131610
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5-RC1
+      - 1.0.5-RC2
+      - 1.0.5-RC3
+      - 1.0.5
+  contrib-scalate:
+    lastUpdated: 20120905131611
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5-RC1
+      - 1.0.5-RC2
+      - 1.0.5-RC3
+      - 1.0.5
+  contrib-validation:
+    lastUpdated: 20120905131612
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5-RC1
+      - 1.0.5-RC2
+      - 1.0.5-RC3
+      - 1.0.5
+  scalatra:
+    lastUpdated: 20130222080239
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-akka:
+    lastUpdated: 20130222080240
+    latest: 2.2.0-RC3
+    release: 2.2.0-RC3
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+  scalatra-akka_2.10:
+    lastUpdated: 20130110111732
+    latest: 2.2.0-RC3
+    release: 2.2.0-RC3
+    versions:
+      - 2.2.0-RC3
+  scalatra-akka_2.8.1:
+    lastUpdated: 20120313030048
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-akka_2.8.2:
+    lastUpdated: 20120313030047
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-akka_2.9.0-1:
+    lastUpdated: 20120313030014
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-akka_2.9.1:
+    lastUpdated: 20120313030008
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-anti-xml:
+    lastUpdated: 20130222080241
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  scalatra-anti-xml_2.10:
+    lastUpdated: 20130222080242
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  scalatra-anti-xml_2.8.1:
+    lastUpdated: 20120313030033
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-anti-xml_2.8.2:
+    lastUpdated: 20120313030026
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-anti-xml_2.8.2.RC1:
+    lastUpdated: 20110829142848
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-anti-xml_2.9.0:
+    lastUpdated: 20120123050815
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-anti-xml_2.9.0-1:
+    lastUpdated: 20120313030033
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-anti-xml_2.9.1:
+    lastUpdated: 20120313030009
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-anti-xml_2.9.1.RC4:
+    lastUpdated: 20110829055755
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-atmosphere:
+    lastUpdated: 20130206103926
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-atmosphere_2.10:
+    lastUpdated: 20160513124614
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-atmosphere_2.11:
+    lastUpdated: 20161119055941
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-atmosphere_2.12:
+    lastUpdated: 20161119055941
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-atmosphere_2.9.2:
+    lastUpdated: 20131124180058
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-atmosphere_2.9.3:
+    lastUpdated: 20131124180059
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-auth:
+    lastUpdated: 20130222080314
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-auth_2.10:
+    lastUpdated: 20160513124615
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-auth_2.11:
+    lastUpdated: 20161119055942
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-auth_2.12:
+    lastUpdated: 20161119055942
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-auth_2.8.0:
+    lastUpdated: 20110307061706
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-auth_2.8.1:
+    lastUpdated: 20120313030034
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-auth_2.8.2:
+    lastUpdated: 20120313030038
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-auth_2.8.2.RC1:
+    lastUpdated: 20110829142847
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-auth_2.9.0:
+    lastUpdated: 20120123050813
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-auth_2.9.0-1:
+    lastUpdated: 20120313030050
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-auth_2.9.1:
+    lastUpdated: 20120313030032
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-auth_2.9.1.RC4:
+    lastUpdated: 20110829055759
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-auth_2.9.2:
+    lastUpdated: 20131124180100
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-auth_2.9.3:
+    lastUpdated: 20131124180100
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-cache-guava_2.10:
+    lastUpdated: 20160513124616
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-cache-guava_2.11:
+    lastUpdated: 20161119055942
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-cache-guava_2.12:
+    lastUpdated: 20161119055942
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-cache_2.10:
+    lastUpdated: 20160513124617
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-cache_2.11:
+    lastUpdated: 20161119055943
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-cache_2.12:
+    lastUpdated: 20161119055943
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-commands:
+    lastUpdated: 20130206103929
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-commands_2.10:
+    lastUpdated: 20160513124619
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-commands_2.11:
+    lastUpdated: 20161119055943
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-commands_2.12:
+    lastUpdated: 20161119055944
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-commands_2.9.2:
+    lastUpdated: 20131124180101
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-commands_2.9.3:
+    lastUpdated: 20131124180101
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-common:
+    lastUpdated: 20130206103931
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-common_2.10:
+    lastUpdated: 20160513124620
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-common_2.11:
+    lastUpdated: 20161119055944
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-common_2.12:
+    lastUpdated: 20161119055944
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-common_2.9.2:
+    lastUpdated: 20131124180102
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-common_2.9.3:
+    lastUpdated: 20131124180103
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-contrib:
+    lastUpdated: 20120905131616
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5-RC1
+      - 1.0.5-RC2
+      - 1.0.5-RC3
+      - 1.0.5
+  scalatra-data-binding:
+    lastUpdated: 20121105042045
+    latest: 2.2.0-RC1
+    release: 2.2.0-RC1
+    versions:
+      - 2.2.0-RC1
+  scalatra-docs:
+    lastUpdated: 20130222080316
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  scalatra-docs_2.8.1:
+    lastUpdated: 20120313030017
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-docs_2.8.2:
+    lastUpdated: 20120313030022
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-docs_2.9.0-1:
+    lastUpdated: 20120313030039
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-docs_2.9.1:
+    lastUpdated: 20120313030025
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-example_2.10:
+    lastUpdated: 20141109014709
+    latest: 2.4.0.M2
+    release: 2.4.0.M2
+    versions:
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.4.0.M1
+      - 2.4.0.M2
+  scalatra-example_2.11:
+    lastUpdated: 20141109014709
+    latest: 2.4.0.M2
+    release: 2.4.0.M2
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.4.0.M1
+      - 2.4.0.M2
+  scalatra-example_2.9.2:
+    lastUpdated: 20131124180105
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.2
+  scalatra-example_2.9.3:
+    lastUpdated: 20131124180106
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.2
+  scalatra-fileupload:
+    lastUpdated: 20130222080319
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-fileupload_2.10:
+    lastUpdated: 20160513124621
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-fileupload_2.11:
+    lastUpdated: 20161119055945
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-fileupload_2.12:
+    lastUpdated: 20161119055945
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-fileupload_2.8.0:
+    lastUpdated: 20110307061659
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-fileupload_2.8.1:
+    lastUpdated: 20120313030020
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-fileupload_2.8.2:
+    lastUpdated: 20120313030040
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-fileupload_2.8.2.RC1:
+    lastUpdated: 20110829142846
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-fileupload_2.9.0:
+    lastUpdated: 20120123050806
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-fileupload_2.9.0-1:
+    lastUpdated: 20120313030013
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-fileupload_2.9.1:
+    lastUpdated: 20120313030014
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-fileupload_2.9.1.RC4:
+    lastUpdated: 20110829055755
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-fileupload_2.9.2:
+    lastUpdated: 20131124180107
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-fileupload_2.9.3:
+    lastUpdated: 20131124180107
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-jerkson:
+    lastUpdated: 20130222080322
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  scalatra-jetty:
+    lastUpdated: 20130222080324
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-jetty_2.10:
+    lastUpdated: 20160513124622
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-jetty_2.11:
+    lastUpdated: 20161119055945
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-jetty_2.12:
+    lastUpdated: 20161119055945
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-jetty_2.8.1:
+    lastUpdated: 20120313030042
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-jetty_2.8.2:
+    lastUpdated: 20120313030026
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-jetty_2.9.0-1:
+    lastUpdated: 20120313030037
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-jetty_2.9.1:
+    lastUpdated: 20120313030007
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.1.0.M1
+  scalatra-jetty_2.9.2:
+    lastUpdated: 20131124180110
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-jetty_2.9.3:
+    lastUpdated: 20131124180111
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-json:
+    lastUpdated: 20130206103937
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-json_2.10:
+    lastUpdated: 20160513124623
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-json_2.11:
+    lastUpdated: 20161119055946
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-json_2.12:
+    lastUpdated: 20161119055946
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-json_2.9.2:
+    lastUpdated: 20131124180112
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-json_2.9.3:
+    lastUpdated: 20131124180112
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-lift-json:
+    lastUpdated: 20130222080325
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  scalatra-lift-json_2.10:
+    lastUpdated: 20130222080326
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  scalatra-lift-json_2.8.1:
+    lastUpdated: 20120313030030
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-lift-json_2.8.2:
+    lastUpdated: 20120313030023
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-lift-json_2.8.2.RC1:
+    lastUpdated: 20110829142849
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-lift-json_2.9.0:
+    lastUpdated: 20120123050807
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-lift-json_2.9.0-1:
+    lastUpdated: 20120313030031
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-lift-json_2.9.1:
+    lastUpdated: 20120313030041
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-lift-json_2.9.1.RC4:
+    lastUpdated: 20110829055758
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-metrics_2.10:
+    lastUpdated: 20160513124624
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-metrics_2.11:
+    lastUpdated: 20161119055946
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-metrics_2.12:
+    lastUpdated: 20161119055947
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-project_2.10:
+    lastUpdated: 20141109014713
+    latest: 2.4.0.M2
+    release: 2.4.0.M2
+    versions:
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.4.0.M1
+      - 2.4.0.M2
+  scalatra-project_2.11:
+    lastUpdated: 20141109014714
+    latest: 2.4.0.M2
+    release: 2.4.0.M2
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.4.0.M1
+      - 2.4.0.M2
+  scalatra-project_2.7.7:
+    lastUpdated: 20100721034833
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  scalatra-project_2.8.0:
+    lastUpdated: 20110307061718
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 1.2.1
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-project_2.8.1:
+    lastUpdated: 20110922221608
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+  scalatra-project_2.8.2.RC1:
+    lastUpdated: 20110829142848
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-project_2.9.0:
+    lastUpdated: 20110922221610
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+  scalatra-project_2.9.0-1:
+    lastUpdated: 20110922221610
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+  scalatra-project_2.9.1:
+    lastUpdated: 20110922221607
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  scalatra-project_2.9.1.RC4:
+    lastUpdated: 20110829055757
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-project_2.9.2:
+    lastUpdated: 20131124180113
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.2
+  scalatra-project_2.9.3:
+    lastUpdated: 20131124180113
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.2
+  scalatra-scalate:
+    lastUpdated: 20130222080328
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-scalate_2.10:
+    lastUpdated: 20160513124625
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-scalate_2.11:
+    lastUpdated: 20161119055947
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-scalate_2.12:
+    lastUpdated: 20161119055947
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-scalate_2.8.0:
+    lastUpdated: 20110307061659
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-scalate_2.8.1:
+    lastUpdated: 20120313030047
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalate_2.8.2:
+    lastUpdated: 20120313030028
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalate_2.8.2.RC1:
+    lastUpdated: 20110829142850
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-scalate_2.9.0:
+    lastUpdated: 20120123050819
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-scalate_2.9.0-1:
+    lastUpdated: 20120313030024
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalate_2.9.1:
+    lastUpdated: 20120313030012
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalate_2.9.1.RC4:
+    lastUpdated: 20110829055751
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-scalate_2.9.2:
+    lastUpdated: 20131124180114
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-scalate_2.9.3:
+    lastUpdated: 20131124180114
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-scalatest:
+    lastUpdated: 20130222080331
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-scalatest_2.10:
+    lastUpdated: 20160513124626
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-scalatest_2.11:
+    lastUpdated: 20161119055947
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-scalatest_2.12:
+    lastUpdated: 20161119055948
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-scalatest_2.8.0:
+    lastUpdated: 20110307061708
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-scalatest_2.8.1:
+    lastUpdated: 20120313030019
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalatest_2.8.2:
+    lastUpdated: 20120313030025
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalatest_2.8.2.RC1:
+    lastUpdated: 20110829142851
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-scalatest_2.9.0:
+    lastUpdated: 20120123050810
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-scalatest_2.9.0-1:
+    lastUpdated: 20120313030035
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalatest_2.9.1:
+    lastUpdated: 20120313030018
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-scalatest_2.9.1.RC4:
+    lastUpdated: 20110829055756
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-scalatest_2.9.2:
+    lastUpdated: 20131124180115
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-scalatest_2.9.3:
+    lastUpdated: 20131124180115
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-slf4j:
+    lastUpdated: 20130222080336
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-slf4j_2.10:
+    lastUpdated: 20160513124628
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-slf4j_2.11:
+    lastUpdated: 20161119055948
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-slf4j_2.12:
+    lastUpdated: 20161119055948
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-slf4j_2.9.2:
+    lastUpdated: 20131124180116
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-slf4j_2.9.3:
+    lastUpdated: 20131124180117
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-socketio_2.10:
+    lastUpdated: 20130222080337
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  scalatra-socketio_2.8.0:
+    lastUpdated: 20110307061705
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M3
+  scalatra-socketio_2.8.1:
+    lastUpdated: 20120312041522
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  scalatra-socketio_2.8.2:
+    lastUpdated: 20120312041530
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  scalatra-socketio_2.8.2.RC1:
+    lastUpdated: 20110829142851
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-socketio_2.9.0:
+    lastUpdated: 20120123050821
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-socketio_2.9.0-1:
+    lastUpdated: 20120312041533
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  scalatra-socketio_2.9.1:
+    lastUpdated: 20120312041542
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  scalatra-socketio_2.9.1.RC4:
+    lastUpdated: 20110829055757
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-specs:
+    lastUpdated: 20130222080337
+    latest: 2.2.0-RC1
+    release: 2.2.0-RC1
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+  scalatra-specs2:
+    lastUpdated: 20130222080339
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-specs2_2.10:
+    lastUpdated: 20160513124629
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-specs2_2.11:
+    lastUpdated: 20161119055949
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-specs2_2.12:
+    lastUpdated: 20161119055949
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-specs2_2.8.1:
+    lastUpdated: 20120313030015
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs2_2.8.2:
+    lastUpdated: 20120313030015
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs2_2.8.2.RC1:
+    lastUpdated: 20110829142849
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-specs2_2.9.0:
+    lastUpdated: 20120123050820
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-specs2_2.9.0-1:
+    lastUpdated: 20120313030022
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs2_2.9.1:
+    lastUpdated: 20120313030027
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs2_2.9.1.RC4:
+    lastUpdated: 20110829055752
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-specs2_2.9.2:
+    lastUpdated: 20131124180118
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-specs2_2.9.3:
+    lastUpdated: 20131124180118
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-specs_2.10:
+    lastUpdated: 20130222080341
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  scalatra-specs_2.8.0:
+    lastUpdated: 20110307061700
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-specs_2.8.1:
+    lastUpdated: 20120313030036
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs_2.8.2:
+    lastUpdated: 20120313030043
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs_2.8.2.RC1:
+    lastUpdated: 20110829142848
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-specs_2.9.0:
+    lastUpdated: 20120123050806
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-specs_2.9.0-1:
+    lastUpdated: 20120313030027
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs_2.9.1:
+    lastUpdated: 20120313030023
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-specs_2.9.1.RC4:
+    lastUpdated: 20110829055752
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-spring_2.10:
+    lastUpdated: 20160513124630
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-spring_2.11:
+    lastUpdated: 20161119055950
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-spring_2.12:
+    lastUpdated: 20161119055950
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-swagger:
+    lastUpdated: 20130222080342
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-swagger-ext:
+    lastUpdated: 20130206103946
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-swagger-ext_2.10:
+    lastUpdated: 20160513124631
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-swagger-ext_2.11:
+    lastUpdated: 20161119055950
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-swagger-ext_2.12:
+    lastUpdated: 20161119055951
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-swagger-ext_2.9.2:
+    lastUpdated: 20131124180119
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-swagger-ext_2.9.3:
+    lastUpdated: 20131124180120
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-swagger_2.10:
+    lastUpdated: 20160513124633
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-swagger_2.11:
+    lastUpdated: 20161119055951
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-swagger_2.12:
+    lastUpdated: 20161119055951
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-swagger_2.9.2:
+    lastUpdated: 20131124180121
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-swagger_2.9.3:
+    lastUpdated: 20131124180121
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra-test:
+    lastUpdated: 20130222080343
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0.M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0-RC1
+      - 2.2.0-RC2
+      - 2.2.0-RC3
+      - 2.2.0
+  scalatra-test_2.10:
+    lastUpdated: 20160513124633
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra-test_2.11:
+    lastUpdated: 20161119055952
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-test_2.12:
+    lastUpdated: 20161119055952
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra-test_2.8.0:
+    lastUpdated: 20110307061716
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra-test_2.8.1:
+    lastUpdated: 20120313030044
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-test_2.8.2:
+    lastUpdated: 20120313030016
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-test_2.8.2.RC1:
+    lastUpdated: 20110829142847
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-test_2.9.0:
+    lastUpdated: 20120123050808
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra-test_2.9.0-1:
+    lastUpdated: 20120313030021
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-test_2.9.1:
+    lastUpdated: 20120313030031
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra-test_2.9.1.RC4:
+    lastUpdated: 20110829055754
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra-test_2.9.2:
+    lastUpdated: 20131124180122
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra-test_2.9.3:
+    lastUpdated: 20131124180122
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  scalatra_2.10:
+    lastUpdated: 20160513124635
+    latest: 2.4.1
+    release: 2.4.1
+    versions:
+      - 2.0.5
+      - 2.2.0-RC3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.3.0.M1
+      - 2.3.0.RC1
+      - 2.3.0.RC2
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+  scalatra_2.11:
+    lastUpdated: 20161119055953
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.3.0.RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0.M1
+      - 2.4.0.M2
+      - 2.4.0.M3
+      - 2.4.0.RC1
+      - 2.4.0-RC2-2
+      - 2.4.0.RC3
+      - 2.4.0
+      - 2.4.1
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra_2.12:
+    lastUpdated: 20161119055953
+    latest: 2.5.0
+    release: 2.5.0
+    versions:
+      - 2.5.0-RC1
+      - 2.5.0
+  scalatra_2.7.7:
+    lastUpdated: 20100721034836
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  scalatra_2.8.0:
+    lastUpdated: 20110307061715
+    latest: 2.0.0.M3
+    release: 2.0.0.M3
+    versions:
+      - 1.2.1
+      - 2.0.0.M1
+      - 2.0.0.M2
+      - 2.0.0.M3
+  scalatra_2.8.1:
+    lastUpdated: 20120313030039
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M2
+      - 2.0.0.M3
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra_2.8.2:
+    lastUpdated: 20120313030029
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra_2.8.2.RC1:
+    lastUpdated: 20110829142849
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra_2.9.0:
+    lastUpdated: 20120123050815
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  scalatra_2.9.0-1:
+    lastUpdated: 20120313030034
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0.M4
+      - 2.0.0.RC1
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra_2.9.1:
+    lastUpdated: 20120313030048
+    latest: 2.1.0.M1
+    release: 2.1.0.M1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0.M1
+  scalatra_2.9.1.RC4:
+    lastUpdated: 20110829055755
+    latest: 2.0.0.RC1
+    release: 2.0.0.RC1
+    versions:
+      - 2.0.0.RC1
+  scalatra_2.9.2:
+    lastUpdated: 20131124180123
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  scalatra_2.9.3:
+    lastUpdated: 20131124180124
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+

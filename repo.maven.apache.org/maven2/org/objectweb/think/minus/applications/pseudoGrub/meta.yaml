@@ -1,0 +1,34 @@
+artifacts:
+  integrator:
+    lastUpdated: 20080416122933
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  lxsimenv:
+    lastUpdated: 20080416123508
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  maven-targets:
+    lastUpdated: 20080416124206
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  pseudoGrub:
+    lastUpdated: 20080828095023
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  pseudoGrub-parent:
+    lastUpdated: 20080828095004
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+

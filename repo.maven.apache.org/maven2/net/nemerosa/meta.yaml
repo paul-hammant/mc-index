@@ -1,0 +1,61 @@
+artifacts:
+  http-client-core:
+    lastUpdated: 20150923143053
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+  http-client-json:
+    lastUpdated: 20150923143054
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+      - 1.4.1
+  resources:
+    lastUpdated: 20150726144656
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.3
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  resources-json:
+    lastUpdated: 20150726144656
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.3
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  resources-json-jsr310:
+    lastUpdated: 20150726144657
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  spring-resources:
+    lastUpdated: 20150726144657
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.3
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+

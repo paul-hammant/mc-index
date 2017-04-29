@@ -1,0 +1,530 @@
+artifacts:
+  ff4j-aop:
+    lastUpdated: 20170308224949
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-archaius:
+    lastUpdated: 20170213150021
+    latest: 1.6.2
+    release: 1.6.2
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6
+  ff4j-cache-ehcache:
+    lastUpdated: 20131120063659
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  ff4j-cli:
+    lastUpdated: 20170308224950
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.5
+      - 1.6
+  ff4j-core:
+    lastUpdated: 20170308224950
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-jmx:
+    lastUpdated: 20170308224950
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-parent:
+    lastUpdated: 20170308224951
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-security-spring:
+    lastUpdated: 20170308224951
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-spring-boot-autoconfigure:
+    lastUpdated: 20170308224951
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.5
+      - 1.6
+  ff4j-spring-boot-starter:
+    lastUpdated: 20170308224951
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.5
+      - 1.6
+  ff4j-spring-boot-web-api:
+    lastUpdated: 20170308224951
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6
+  ff4j-spring-services:
+    lastUpdated: 20170308224952
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.5
+      - 1.6
+  ff4j-store-archaius:
+    lastUpdated: 20170308224952
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.3
+  ff4j-store-cassandra:
+    lastUpdated: 20170308224952
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6
+  ff4j-store-commonsconfig:
+    lastUpdated: 20170308224953
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.3
+  ff4j-store-ehcache:
+    lastUpdated: 20170308224953
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-elastic:
+    lastUpdated: 20170308224953
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6
+  ff4j-store-jcache:
+    lastUpdated: 20170308224953
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-jdbc:
+    lastUpdated: 20131120063701
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  ff4j-store-mongodb:
+    lastUpdated: 20170308224954
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-mongodb-v3:
+    lastUpdated: 20170308224954
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-neo4j:
+    lastUpdated: 20170308224954
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-redis:
+    lastUpdated: 20170308224955
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-remoting:
+    lastUpdated: 20131120063701
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  ff4j-store-springjdbc:
+    lastUpdated: 20170308224955
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-store-terracotta:
+    lastUpdated: 20151130174428
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.4
+  ff4j-strategy-drools:
+    lastUpdated: 20170308224955
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-test:
+    lastUpdated: 20170308224955
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-utils-json:
+    lastUpdated: 20170308224956
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-web:
+    lastUpdated: 20170308224956
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-webapi:
+    lastUpdated: 20170308224956
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-webapi-jersey1x:
+    lastUpdated: 20170308224956
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ff4j-webapi-jersey2x:
+    lastUpdated: 20170308224957
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.3.5
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.4
+      - 1.5
+      - 1.6
+

@@ -1,0 +1,68 @@
+artifacts:
+  camunda-bpm-mail-examples:
+    lastUpdated: 20161208141238
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  camunda-bpm-mail.example.pizza:
+    lastUpdated: 20161208141238
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  camunda-bpm-mail.example.print-service:
+    lastUpdated: 20161208141238
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  camunda-bpm-reactor-examples:
+    lastUpdated: 20160606132722
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  camunda-bpm-reactor-examples-bpmn-execution-listener:
+    lastUpdated: 20160606132722
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  camunda-bpm-reactor-examples-bpmn-task-listener:
+    lastUpdated: 20160606132723
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  camunda-bpm-reactor-examples-cmmn-task-listener:
+    lastUpdated: 20160606132723
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  camunda-bpm-reactor-examples-spring-plugin:
+    lastUpdated: 20160606132723
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+

@@ -1,0 +1,255 @@
+artifacts:
+  ApiGen:
+    lastUpdated: 20160517181828
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  Cassandra:
+    lastUpdated: 20160517181829
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  CodeGen:
+    lastUpdated: 20160517181829
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  CodeGenLib:
+    lastUpdated: 20160517181830
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  ElasticSearch:
+    lastUpdated: 20160517181831
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.3
+      - 3.0.4
+  ExplodedDeps:
+    lastUpdated: 20160517181832
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  JDBC:
+    lastUpdated: 20160517181832
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  MongoDb:
+    lastUpdated: 20160517181833
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  PersistenceGen:
+    lastUpdated: 20160517181834
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  PersistenceGenLib:
+    lastUpdated: 20160517181835
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  PluginInstallerLib:
+    lastUpdated: 20160517181836
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  Postgres:
+    lastUpdated: 20160517181836
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  PythonLib:
+    lastUpdated: 20160517181837
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.4
+  RabbitMQ:
+    lastUpdated: 20160517181837
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureAPI:
+    lastUpdated: 20160517181838
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureAddinCore:
+    lastUpdated: 20160517181838
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureAddins:
+    lastUpdated: 20160517181839
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureAppConfig:
+    lastUpdated: 20160517181840
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureCommon:
+    lastUpdated: 20160517181841
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureCore:
+    lastUpdated: 20160517181842
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  RaptureWebServlet:
+    lastUpdated: 20160517181843
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  Reflex:
+    lastUpdated: 20160517181843
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  SelfPluginInstallerLib:
+    lastUpdated: 20160517181844
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  SlateDocGenerator:
+    lastUpdated: 20160517181845
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  WorkflowsCommon:
+    lastUpdated: 20160517181845
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  WorkflowsCore:
+    lastUpdated: 20160517181846
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+

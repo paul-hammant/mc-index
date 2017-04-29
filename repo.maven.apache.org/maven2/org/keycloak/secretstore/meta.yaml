@@ -1,0 +1,269 @@
+artifacts:
+  proxy:
+    lastUpdated: 20160418133240
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store:
+    lastUpdated: 20160418133241
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-api:
+    lastUpdated: 20160418133242
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-common:
+    lastUpdated: 20160418133243
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-examples:
+    lastUpdated: 20160418133244
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-examples-backend:
+    lastUpdated: 20160418133244
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-examples-client-behind-proxy:
+    lastUpdated: 20160418133245
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-examples-filter-on-backend:
+    lastUpdated: 20160418133246
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-examples-server:
+    lastUpdated: 20160418133246
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-feature-pack:
+    lastUpdated: 20160418133247
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-feature-pack-resources:
+    lastUpdated: 20160418133248
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-integration-tests:
+    lastUpdated: 20160418133248
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-integration-tests-all-others:
+    lastUpdated: 20151216152735
+    latest: 1.0.2.Final
+    release: 1.0.2.Final
+    versions:
+      - 1.0.2.Final
+  secret-store-integration-tests-important:
+    lastUpdated: 20151216152736
+    latest: 1.0.2.Final
+    release: 1.0.2.Final
+    versions:
+      - 1.0.2.Final
+  secret-store-integration-tests-smoke:
+    lastUpdated: 20160418133249
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-parent:
+    lastUpdated: 20160418133249
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.2.Final
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+  secret-store-undertow-filter:
+    lastUpdated: 20160418133250
+    latest: 1.0.15.Final
+    release: 1.0.15.Final
+    versions:
+      - 1.0.4.Final
+      - 1.0.5.Final
+      - 1.0.6.Final
+      - 1.0.7.Final
+      - 1.0.8.Final
+      - 1.0.9.Final
+      - 1.0.10.Final
+      - 1.0.11.Final
+      - 1.0.12.Final
+      - 1.0.13.Final
+      - 1.0.14.Final
+      - 1.0.15.Final
+

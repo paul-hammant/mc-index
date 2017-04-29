@@ -1,0 +1,32 @@
+artifacts:
+  bluecove:
+    lastUpdated: 20081225225420
+    latest: {}
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+  bluecove-emu:
+    lastUpdated: 20081225225449
+    latest: {}
+    release: 2.1.0
+    versions:
+      - 2.0.3
+      - 2.1.0
+  bluecove-gpl:
+    lastUpdated: 20081225225538
+    latest: {}
+    release: 2.1.0
+    versions:
+      - 2.0.3
+      - 2.1.0
+  bluecove-parent:
+    lastUpdated: 20081225225349
+    latest: {}
+    release: 2.1.0
+    versions:
+      - 2.1.0
+

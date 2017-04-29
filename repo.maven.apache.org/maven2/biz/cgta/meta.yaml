@@ -1,0 +1,272 @@
+artifacts:
+  autowire_2.10:
+    lastUpdated: 20150214233211
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.5-M3
+      - 0.2.6-M3
+      - 0.2.7-M3
+      - 0.2.8-M3
+      - 0.2.9
+  autowire_2.11:
+    lastUpdated: 20150214233213
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.5-M3
+      - 0.2.7-M3
+      - 0.2.8-M3
+      - 0.2.9
+  autowire_sjs0.6.0-M3_2.10:
+    lastUpdated: 20150116011014
+    latest: 0.2.8-M3
+    release: 0.2.8-M3
+    versions:
+      - 0.2.5-M3
+      - 0.2.6-M3
+      - 0.2.7-M3
+      - 0.2.8-M3
+  autowire_sjs0.6.0-M3_2.11:
+    lastUpdated: 20150116011015
+    latest: 0.2.8-M3
+    release: 0.2.8-M3
+    versions:
+      - 0.2.5-M3
+      - 0.2.7-M3
+      - 0.2.8-M3
+  autowire_sjs0.6_2.10:
+    lastUpdated: 20150214233214
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  autowire_sjs0.6_2.11:
+    lastUpdated: 20150214233214
+    latest: 0.2.9
+    release: 0.2.9
+    versions:
+      - 0.2.9
+  cenum-jvm_2.10:
+    lastUpdated: 20140911062403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  cenum-jvm_2.11:
+    lastUpdated: 20150215003616
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+  cenum-sjs_sjs0.5_2.10:
+    lastUpdated: 20140911062405
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  cenum-sjs_sjs0.5_2.11:
+    lastUpdated: 20141228034350
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  cenum-sjs_sjs0.6_2.11:
+    lastUpdated: 20150215003617
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  oscala-jvm_2.10:
+    lastUpdated: 20140911062406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  oscala-jvm_2.11:
+    lastUpdated: 20150215003617
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+  oscala-sjs_sjs0.5_2.10:
+    lastUpdated: 20140911062406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  oscala-sjs_sjs0.5_2.11:
+    lastUpdated: 20141228034350
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  oscala-sjs_sjs0.6_2.11:
+    lastUpdated: 20150215003618
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  otest-jvm_2.10:
+    lastUpdated: 20150214223232
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+      - 0.2.0
+      - 0.2.1
+  otest-jvm_2.11:
+    lastUpdated: 20150214223233
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+      - 0.2.0
+      - 0.2.1
+  otest-sjs_sjs0.5_2.10:
+    lastUpdated: 20141015233334
+    latest: 0.1.14
+    release: 0.1.14
+    versions:
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+  otest-sjs_sjs0.5_2.11:
+    lastUpdated: 20141015233335
+    latest: 0.1.14
+    release: 0.1.14
+    versions:
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+  otest-sjs_sjs0.6.0-M3_2.10:
+    lastUpdated: 20150107000513
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  otest-sjs_sjs0.6.0-M3_2.11:
+    lastUpdated: 20150107000513
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  otest-sjs_sjs0.6_2.10:
+    lastUpdated: 20150214223233
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  otest-sjs_sjs0.6_2.11:
+    lastUpdated: 20150214223234
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  otest_2.11:
+    lastUpdated: 20161103150628
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  otest_2.12:
+    lastUpdated: 20161103150628
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  otest_2.12.0-RC1:
+    lastUpdated: 20160907122215
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.5
+  otest_sjs0.6_2.11:
+    lastUpdated: 20161103150629
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  otest_sjs0.6_2.12:
+    lastUpdated: 20161103150629
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+  otest_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160907122215
+    latest: 0.2.5
+    release: 0.2.5
+    versions:
+      - 0.2.5
+  root_2.10:
+    lastUpdated: 20140911062407
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  root_2.11:
+    lastUpdated: 20150215003618
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+  serland-jvm_2.10:
+    lastUpdated: 20140911062408
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  serland-jvm_2.11:
+    lastUpdated: 20150215003619
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.1
+      - 0.2.2
+  serland-sjs_sjs0.5_2.10:
+    lastUpdated: 20140911062408
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  serland-sjs_sjs0.5_2.11:
+    lastUpdated: 20141228034351
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  serland-sjs_sjs0.6_2.11:
+    lastUpdated: 20150215003619
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+

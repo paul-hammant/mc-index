@@ -1,0 +1,127 @@
+artifacts:
+  bval-core:
+    lastUpdated: 20161103160051
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+  bval-extras:
+    lastUpdated: 20161103160052
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+  bval-guice:
+    lastUpdated: 20120921215931
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  bval-json:
+    lastUpdated: 20161103160053
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+  bval-jsr:
+    lastUpdated: 20161103160053
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  bval-jsr303:
+    lastUpdated: 20120921215931
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  bval-parent:
+    lastUpdated: 20161103160054
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+  bval-tck11-runner:
+    lastUpdated: 20150609193128
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  bval-xstream:
+    lastUpdated: 20161103160054
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+  org.apache.bval.bundle:
+    lastUpdated: 20161103160055
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4
+      - 0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 0.4
+      - 0.5
+

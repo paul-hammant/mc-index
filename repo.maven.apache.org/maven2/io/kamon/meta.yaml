@@ -1,0 +1,1187 @@
+artifacts:
+  kamon-akka-2.3_2.10:
+    lastUpdated: 20170130150718
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-2.3_2.11:
+    lastUpdated: 20170130150718
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-2.4_2.11:
+    lastUpdated: 20170130150719
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-2.4_2.12:
+    lastUpdated: 20170130150719
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-http-experimental_2.11:
+    lastUpdated: 20161005193314
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.2
+      - 0.6.3
+  kamon-akka-http_2.11:
+    lastUpdated: 20170301131652
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-http_2.12:
+    lastUpdated: 20170301131652
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-remote-2.3_2.10:
+    lastUpdated: 20170303133319
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-remote-2.3_2.11:
+    lastUpdated: 20170303133319
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-remote-2.4_2.11:
+    lastUpdated: 20170303133319
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-remote-2.4_2.12:
+    lastUpdated: 20170303133319
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-akka-remote_2.10:
+    lastUpdated: 20161005175523
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.2.5
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-akka-remote_2.11:
+    lastUpdated: 20161005175524
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-akka-remote_akka-2.2_2.10:
+    lastUpdated: 20150509140440
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-akka-remote_akka-2.4_2.11:
+    lastUpdated: 20161005190508
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-akka_2.10:
+    lastUpdated: 20161005175524
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-akka_2.11:
+    lastUpdated: 20161005175524
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-akka_akka-2.2_2.10:
+    lastUpdated: 20150509140442
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-annotation_2.10:
+    lastUpdated: 20170303013503
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-annotation_2.11:
+    lastUpdated: 20170303013503
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-annotation_2.12:
+    lastUpdated: 20170303013504
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-annotation_akka-2.2_2.10:
+    lastUpdated: 20150509140443
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-autoweave_2.10:
+    lastUpdated: 20161223124613
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  kamon-autoweave_2.11:
+    lastUpdated: 20161223124614
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+  kamon-autoweave_2.12:
+    lastUpdated: 20161223124614
+    latest: 0.6.5
+    release: 0.6.5
+    versions:
+      - 0.6.4
+      - 0.6.5
+  kamon-core:
+    lastUpdated: 20140424232745
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-core_2.10:
+    lastUpdated: 20170301135219
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-core_2.11:
+    lastUpdated: 20170301135219
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-core_2.12:
+    lastUpdated: 20170301135220
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-core_akka-2.2_2.10:
+    lastUpdated: 20150509140444
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-dashboard:
+    lastUpdated: 20140424232746
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-dashboard_2.10:
+    lastUpdated: 20150509140445
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+  kamon-dashboard_2.11:
+    lastUpdated: 20150509140446
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+  kamon-dashboard_akka-2.2_2.10:
+    lastUpdated: 20150509140446
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-datadog_2.10:
+    lastUpdated: 20170302235117
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-datadog_2.11:
+    lastUpdated: 20170302235118
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-datadog_2.12:
+    lastUpdated: 20170302235118
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-datadog_akka-2.2_2.10:
+    lastUpdated: 20150509140448
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-elasticsearch_2.10:
+    lastUpdated: 20170304181425
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-elasticsearch_2.11:
+    lastUpdated: 20170304181425
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-elasticsearch_2.12:
+    lastUpdated: 20170304181426
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-fluentd_2.10:
+    lastUpdated: 20161005175529
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-fluentd_2.11:
+    lastUpdated: 20170305215508
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-fluentd_2.12:
+    lastUpdated: 20170305215509
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-graphite_2.10:
+    lastUpdated: 20170315084707
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  kamon-graphite_2.11:
+    lastUpdated: 20170315084707
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  kamon-graphite_2.12:
+    lastUpdated: 20170315084707
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  kamon-influxdb_2.10:
+    lastUpdated: 20170303013325
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-influxdb_2.11:
+    lastUpdated: 20170303013326
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-influxdb_2.12:
+    lastUpdated: 20170303013326
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-jdbc_2.10:
+    lastUpdated: 20170315085922
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+  kamon-jdbc_2.11:
+    lastUpdated: 20170315085922
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+  kamon-jdbc_2.12:
+    lastUpdated: 20170315085922
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+  kamon-jdbc_akka-2.2_2.10:
+    lastUpdated: 20150509140449
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-jmx_2.10:
+    lastUpdated: 20170303013005
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-jmx_2.11:
+    lastUpdated: 20170303013005
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-jmx_2.12:
+    lastUpdated: 20170303013006
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-khronus_2.10:
+    lastUpdated: 20170302235307
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-khronus_2.11:
+    lastUpdated: 20170302235307
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-khronus_2.12:
+    lastUpdated: 20170302235308
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-log-reporter_2.10:
+    lastUpdated: 20170304182039
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-log-reporter_2.11:
+    lastUpdated: 20170304182039
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-log-reporter_2.12:
+    lastUpdated: 20170304182040
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-log-reporter_akka-2.2_2.10:
+    lastUpdated: 20150509140451
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-newrelic:
+    lastUpdated: 20140424232746
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-newrelic_2.10:
+    lastUpdated: 20170324092206
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+      - 0.6.7
+  kamon-newrelic_2.11:
+    lastUpdated: 20170324092206
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+      - 0.6.7
+  kamon-newrelic_akka-2.2_2.10:
+    lastUpdated: 20150509140453
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-play:
+    lastUpdated: 20140424232747
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-play-2.3_2.10:
+    lastUpdated: 20170305145143
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-play-2.3_2.11:
+    lastUpdated: 20170305145144
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-play-2.4_2.10:
+    lastUpdated: 20170305145144
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-play-2.4_2.11:
+    lastUpdated: 20170305145144
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-play-2.5_2.11:
+    lastUpdated: 20170305145145
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-play-23_2.10:
+    lastUpdated: 20161005175536
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-play-23_2.11:
+    lastUpdated: 20161005175537
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-play-24_2.10:
+    lastUpdated: 20161005175537
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-play-24_2.11:
+    lastUpdated: 20161005175537
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  kamon-play-25_2.11:
+    lastUpdated: 20161005175538
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.2
+      - 0.6.3
+  kamon-play_2.10:
+    lastUpdated: 20150509140453
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+  kamon-play_2.11:
+    lastUpdated: 20150509140454
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+  kamon-play_akka-2.2_2.10:
+    lastUpdated: 20150509140454
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-playground:
+    lastUpdated: 20140410163542
+    latest: 0.0.15
+    release: 0.0.15
+    versions:
+      - 0.0.15
+  kamon-riemann_2.10:
+    lastUpdated: 20170304181146
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-riemann_2.11:
+    lastUpdated: 20170304181147
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-riemann_2.12:
+    lastUpdated: 20170304181147
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-scala_2.10:
+    lastUpdated: 20170304182354
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-scala_2.11:
+    lastUpdated: 20170304182355
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-scala_2.12:
+    lastUpdated: 20170304182355
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-scala_akka-2.2_2.10:
+    lastUpdated: 20150509140456
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-spm_2.10:
+    lastUpdated: 20170303132614
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-spm_2.11:
+    lastUpdated: 20170303132614
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-spm_2.12:
+    lastUpdated: 20170303132615
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.6
+  kamon-spray:
+    lastUpdated: 20140424232747
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-spray_2.10:
+    lastUpdated: 20170308144322
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-spray_2.11:
+    lastUpdated: 20170308144322
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.6
+  kamon-spray_akka-2.2_2.10:
+    lastUpdated: 20150509140457
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-statsd:
+    lastUpdated: 20140424232747
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-statsd_2.10:
+    lastUpdated: 20170302235757
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-statsd_2.11:
+    lastUpdated: 20170302235757
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-statsd_2.12:
+    lastUpdated: 20170302235758
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-statsd_akka-2.2_2.10:
+    lastUpdated: 20150509140458
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-system-metrics_2.10:
+    lastUpdated: 20170304181723
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-system-metrics_2.11:
+    lastUpdated: 20170304181723
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.5
+      - 0.6.6
+  kamon-system-metrics_2.12:
+    lastUpdated: 20170304181723
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.5
+      - 0.6.6
+  kamon-system-metrics_akka-2.2_2.10:
+    lastUpdated: 20150509140500
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  kamon-testkit:
+    lastUpdated: 20140424232748
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.0.15
+      - 0.2.0
+      - 0.3.0
+  kamon-testkit_2.10:
+    lastUpdated: 20170304182613
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-testkit_2.11:
+    lastUpdated: 20170304182613
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-testkit_2.12:
+    lastUpdated: 20170304182613
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  kamon-testkit_akka-2.2_2.10:
+    lastUpdated: 20150509140502
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  root:
+    lastUpdated: 20140410163543
+    latest: 0.0.15
+    release: 0.0.15
+    versions:
+      - 0.0.15
+  sigar-loader:
+    lastUpdated: 20150812154354
+    latest: 1.6.6-rev002
+    release: 1.6.6-rev002
+    versions:
+      - 1.6.5
+      - 1.6.5-rev001
+      - 1.6.5-rev002
+      - 1.6.6
+      - 1.6.6-rev002
+  site:
+    lastUpdated: 20140410163543
+    latest: 0.0.15
+    release: 0.0.15
+    versions:
+      - 0.0.15
+

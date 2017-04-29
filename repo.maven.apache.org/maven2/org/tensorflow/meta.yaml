@@ -1,0 +1,44 @@
+artifacts:
+  libtensorflow:
+    lastUpdated: 20170414233938
+    latest: 1.1.0-rc2
+    release: 1.1.0-rc2
+    versions:
+      - 1.1.0-rc0
+      - 1.1.0-rc0-windows-fix
+      - 1.1.0-rc1
+      - 1.1.0-rc2
+  libtensorflow_jni:
+    lastUpdated: 20170414233938
+    latest: 1.1.0-rc2
+    release: 1.1.0-rc2
+    versions:
+      - 1.1.0-rc0
+      - 1.1.0-rc0-windows-fix
+      - 1.1.0-rc1
+      - 1.1.0-rc2
+  parentpom:
+    lastUpdated: 20170414233938
+    latest: 1.1.0-rc2
+    release: 1.1.0-rc2
+    versions:
+      - 1.1.0-rc0
+      - 1.1.0-rc0-windows-fix
+      - 1.1.0-rc1
+      - 1.1.0-rc2
+  proto:
+    lastUpdated: 20170417051652
+    latest: 1.1.0-rc2
+    release: 1.1.0-rc2
+    versions:
+      - 1.1.0-rc2
+  tensorflow:
+    lastUpdated: 20170414233938
+    latest: 1.1.0-rc2
+    release: 1.1.0-rc2
+    versions:
+      - 1.1.0-rc0
+      - 1.1.0-rc0-windows-fix
+      - 1.1.0-rc1
+      - 1.1.0-rc2
+

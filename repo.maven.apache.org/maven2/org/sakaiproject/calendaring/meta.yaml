@@ -1,0 +1,55 @@
+artifacts:
+  external-calendaring-service:
+    lastUpdated: 20170224235944
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  external-calendaring-service-api:
+    lastUpdated: 20170224235944
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  external-calendaring-service-impl:
+    lastUpdated: 20170224235945
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  external-calendaring-service-pack:
+    lastUpdated: 20160422164832
+    latest: 10.7
+    release: 10.7
+    versions:
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+

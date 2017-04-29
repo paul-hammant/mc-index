@@ -1,0 +1,69 @@
+artifacts:
+  graph-constrained_2.11:
+    lastUpdated: 20170102193640
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.11.0
+  graph-constrained_2.12:
+    lastUpdated: 20161204160749
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.11.0
+  graph-core_2.11:
+    lastUpdated: 20170421090704
+    latest: 1.11.5
+    release: 1.11.5
+    versions:
+      - 1.11.1
+      - 1.11.2
+      - 1.11.3
+      - 1.11.4
+      - 1.11.5
+  graph-core_2.12:
+    lastUpdated: 20170421090704
+    latest: 1.11.5
+    release: 1.11.5
+    versions:
+      - 1.11.4
+      - 1.11.5
+  graph-core_sjs0.6_2.11:
+    lastUpdated: 20160720180639
+    latest: 1.11.1
+    release: 1.11.1
+    versions:
+      - 1.11.1
+  graph-core_sjs0.6_2.12:
+    lastUpdated: 20170106183129
+    latest: 1.11.4
+    release: 1.11.4
+    versions:
+      - 1.11.4
+  graph-dot_2.11:
+    lastUpdated: 20170421090704
+    latest: 1.11.5
+    release: 1.11.5
+    versions:
+      - 1.11.0
+      - 1.11.5
+  graph-dot_2.12:
+    lastUpdated: 20170421090705
+    latest: 1.11.5
+    release: 1.11.5
+    versions:
+      - 1.11.0
+      - 1.11.5
+  graph-json_2.11:
+    lastUpdated: 20170102193641
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.11.0
+  graph-json_2.12:
+    lastUpdated: 20161219193052
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.11.0
+

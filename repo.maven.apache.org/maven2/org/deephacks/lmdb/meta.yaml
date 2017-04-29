@@ -1,0 +1,41 @@
+artifacts:
+  lmdb:
+    lastUpdated: 20150704104042
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  lmdb-linux64:
+    lastUpdated: 20150704104043
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  lmdb-osx64:
+    lastUpdated: 20140521122004
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  lmdb-project:
+    lastUpdated: 20150704104043
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  lmdb-win64:
+    lastUpdated: 20150111211800
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+

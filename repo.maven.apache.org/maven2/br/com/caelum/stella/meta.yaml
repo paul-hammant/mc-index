@@ -1,0 +1,228 @@
+artifacts:
+  boleto-example:
+    lastUpdated: 20090118010255
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  caelum-stella:
+    lastUpdated: 20140924205453
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-bean-validation:
+    lastUpdated: 20140924205453
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-boleto:
+    lastUpdated: 20140924205455
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-core:
+    lastUpdated: 20140924205455
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-faces:
+    lastUpdated: 20140924205456
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-hibernate-user-types:
+    lastUpdated: 20140924205457
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  caelum-stella-hibernate-validator:
+    lastUpdated: 20090118005429
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  core-example:
+    lastUpdated: 20090118010455
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  faces-example:
+    lastUpdated: 20090118010743
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  faces-example-1x:
+    lastUpdated: 20140924205457
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  faces-example-2x:
+    lastUpdated: 20140924205458
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  hibernate-persistence-example:
+    lastUpdated: 20140924205459
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+  hibernate-seam-example:
+    lastUpdated: 20090118011555
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  myfaces-example:
+    lastUpdated: 20080901175719
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  stella-distribution:
+    lastUpdated: 20140610032914
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.0
+  vraptor-validator-example:
+    lastUpdated: 20140924205500
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0-beta1
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.0
+

@@ -1,0 +1,295 @@
+artifacts:
+  org.openwms:
+    lastUpdated: 20150415230705
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.app:
+    lastUpdated: 20150415230710
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.client.angularjs.app:
+    lastUpdated: 20150415230719
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.client.angularjs.wrapper:
+    lastUpdated: 20150415230728
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.client.flex.lib:
+    lastUpdated: 20130118110900
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.client.rest.provider:
+    lastUpdated: 20150415230737
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.common:
+    lastUpdated: 20150415230740
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.comm:
+    lastUpdated: 20150415230741
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.common.domain:
+    lastUpdated: 20150415230745
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.domain.as:
+    lastUpdated: 20130118110902
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.common.flex.lib:
+    lastUpdated: 20130118110903
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.common.flex.module:
+    lastUpdated: 20130118110904
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.common.integration:
+    lastUpdated: 20150415230757
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.integration.jpa:
+    lastUpdated: 20150415230810
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.service.api:
+    lastUpdated: 20150415230813
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.service.spring:
+    lastUpdated: 20150415230814
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.common.util:
+    lastUpdated: 20150415230815
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core:
+    lastUpdated: 20150415230815
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.client.rest:
+    lastUpdated: 20150415230815
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.core.domain:
+    lastUpdated: 20150415230816
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.domain.as:
+    lastUpdated: 20130118110910
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.core.infrastructure.configuration:
+    lastUpdated: 20130123182744
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.core.infrastructure.configuration.provider:
+    lastUpdated: 20150415230817
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  org.openwms.core.infrastructure.hsql:
+    lastUpdated: 20150415230822
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.infrastructure.oracle:
+    lastUpdated: 20150415230829
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.infrastructure.postgres:
+    lastUpdated: 20150415230837
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.integration:
+    lastUpdated: 20150415230840
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.integration.eclipselink:
+    lastUpdated: 20150415230856
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.integration.file:
+    lastUpdated: 20150415230905
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.integration.hibernate:
+    lastUpdated: 20150415230908
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.integration.jpa:
+    lastUpdated: 20150415230912
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.service.api:
+    lastUpdated: 20150415230922
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.service.spring:
+    lastUpdated: 20150415230929
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.test:
+    lastUpdated: 20150415230930
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.core.util:
+    lastUpdated: 20150415230931
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms:
+    lastUpdated: 20150415230931
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.domain:
+    lastUpdated: 20150415230932
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.domain.as:
+    lastUpdated: 20130118110922
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.tms.flex.module:
+    lastUpdated: 20130118110923
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.openwms.tms.integration:
+    lastUpdated: 20150415230933
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.integration.jpa:
+    lastUpdated: 20150415230934
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.service.api:
+    lastUpdated: 20150415230934
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.service.spring:
+    lastUpdated: 20150415230935
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+  org.openwms.tms.util:
+    lastUpdated: 20150415230935
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.1
+      - 1.0
+

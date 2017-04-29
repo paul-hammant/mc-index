@@ -1,0 +1,249 @@
+artifacts:
+  ansi-interpolator_2.11:
+    lastUpdated: 20141123141835
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  ansi-interpolator_2.12:
+    lastUpdated: 20161116093607
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  matchete-core_2.11:
+    lastUpdated: 20151127143307
+    latest: 1.26
+    release: 1.26
+    versions:
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+  matchete-core_2.12:
+    lastUpdated: 20170214145202
+    latest: 1.29.0
+    release: 1.29.0
+    versions:
+      - 1.28.0
+      - 1.29.0
+  matchete-json_2.11:
+    lastUpdated: 20151127143308
+    latest: 1.26
+    release: 1.26
+    versions:
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+  matchete-json_2.12:
+    lastUpdated: 20170214145202
+    latest: 1.29.0
+    release: 1.29.0
+    versions:
+      - 1.28.0
+      - 1.29.0
+  matchete-junit_2.11:
+    lastUpdated: 20151127143309
+    latest: 1.26
+    release: 1.26
+    versions:
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+  matchete-junit_2.12:
+    lastUpdated: 20170214145202
+    latest: 1.29.0
+    release: 1.29.0
+    versions:
+      - 1.28.0
+      - 1.29.0
+  matchete-macros_2.11:
+    lastUpdated: 20151127143309
+    latest: 1.26
+    release: 1.26
+    versions:
+      - 1.14
+      - 1.15
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 1.14
+      - 1.15
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+  matchete-macros_2.12:
+    lastUpdated: 20170214145203
+    latest: 1.29.0
+    release: 1.29.0
+    versions:
+      - 1.28.0
+      - 1.29.0
+  matchete-xml_2.11:
+    lastUpdated: 20151127143310
+    latest: 1.26
+    release: 1.26
+    versions:
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 1.23
+      - 1.24
+      - 1.25
+      - 1.26
+  matchete-xml_2.12:
+    lastUpdated: 20170214145203
+    latest: 1.29.0
+    release: 1.29.0
+    versions:
+      - 1.28.0
+      - 1.29.0
+  matchete_2.10:
+    lastUpdated: 20140313072118
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  matchete_2.11:
+    lastUpdated: 20150626155908
+    latest: 1.16
+    release: 1.16
+    versions:
+      - 1.1
+      - 1.11
+      - 1.16
+      - 1.1
+      - 1.11
+      - 1.16
+  mockito-macros_2.11:
+    lastUpdated: 20150618151823
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  mockito-macros_2.12:
+    lastUpdated: 20161206140411
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  puppet-module-installer_2.11:
+    lastUpdated: 20141123122414
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 1.0
+      - 1.1.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 1.0
+

@@ -1,0 +1,175 @@
+artifacts:
+  oozie-client:
+    lastUpdated: 20161202105126
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-core:
+    lastUpdated: 20161202105127
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-examples:
+    lastUpdated: 20161202105128
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-hadoop:
+    lastUpdated: 20141219015914
+    latest: 2.3.0.oozie-4.1.0
+    release: 2.3.0.oozie-4.1.0
+    versions:
+      - 0.23.5.oozie-4.1.0
+      - 1.1.1.oozie-4.1.0
+      - 2.3.0.oozie-4.1.0
+  oozie-hadoop-auth:
+    lastUpdated: 20161202105128
+    latest: hadoop-2-4.3.0
+    release: hadoop-2-4.3.0
+    versions:
+      - hadoop-1-4.2.0
+      - hadoop-2-4.3.0
+  oozie-hadoop-distcp:
+    lastUpdated: 20161202105128
+    latest: 2.3.0.oozie-4.1.0
+    release: 2.3.0.oozie-4.1.0
+    versions:
+      - hadoop-1-4.2.0
+      - hadoop-2-4.3.0
+      - 0.23.5.oozie-4.1.0
+      - 1.1.1.oozie-4.1.0
+      - 2.3.0.oozie-4.1.0
+  oozie-hadoop-test:
+    lastUpdated: 20141219015916
+    latest: 2.3.0.oozie-4.1.0
+    release: 2.3.0.oozie-4.1.0
+    versions:
+      - 0.23.5.oozie-4.1.0
+      - 1.1.1.oozie-4.1.0
+      - 2.3.0.oozie-4.1.0
+  oozie-hadoop-utils:
+    lastUpdated: 20161202105129
+    latest: 2.3.0.oozie-4.1.0
+    release: 2.3.0.oozie-4.1.0
+    versions:
+      - hadoop-1-4.2.0
+      - hadoop-2-4.3.0
+      - 0.23.5.oozie-4.1.0
+      - 1.1.1.oozie-4.1.0
+      - 2.3.0.oozie-4.1.0
+  oozie-hbase:
+    lastUpdated: 20141219015917
+    latest: 0.94.2.oozie-4.1.0
+    release: 0.94.2.oozie-4.1.0
+    versions:
+      - 0.94.2.oozie-4.1.0
+  oozie-hcatalog:
+    lastUpdated: 20141219015917
+    latest: 0.13.1.oozie-4.1.0
+    release: 0.13.1.oozie-4.1.0
+    versions:
+      - 0.13.1.oozie-4.1.0
+  oozie-main:
+    lastUpdated: 20161202105131
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-distcp:
+    lastUpdated: 20161202105131
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-hcatalog:
+    lastUpdated: 20161202105132
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-hive:
+    lastUpdated: 20161202105133
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-hive2:
+    lastUpdated: 20161202105133
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-oozie:
+    lastUpdated: 20161202105134
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-pig:
+    lastUpdated: 20161202105134
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-spark:
+    lastUpdated: 20161202105135
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-sqoop:
+    lastUpdated: 20161202105135
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-sharelib-streaming:
+    lastUpdated: 20161202105136
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-tools:
+    lastUpdated: 20161202105136
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+  oozie-webapp:
+    lastUpdated: 20161202105137
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+

@@ -1,0 +1,81 @@
+artifacts:
+  archetypes:
+    lastUpdated: 20170213153847
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  quick_rest_springboot-tomcat-archetype:
+    lastUpdated: 20161222175804
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  quick_rest_vertx-archetype:
+    lastUpdated: 20161222175804
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  quick_secured_rest-springboot-archetype:
+    lastUpdated: 20161222175805
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  rest_configmap_springboot-tomcat-archetype:
+    lastUpdated: 20170213153847
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  rest_configmap_swarm-archetype:
+    lastUpdated: 20170213153848
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  rest_configmap_vertx-archetype:
+    lastUpdated: 20170213153849
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  rest_springboot-tomcat-archetype:
+    lastUpdated: 20170213153850
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  rest_vertx-archetype:
+    lastUpdated: 20170213153851
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  rest_wildfly-swarm-archetype:
+    lastUpdated: 20170213153852
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  secured_rest-springboot-archetype:
+    lastUpdated: 20170213153853
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  secured_rest-vertx-archetype:
+    lastUpdated: 20170213153853
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  secured_rest_swarm-archetype:
+    lastUpdated: 20170213153854
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+

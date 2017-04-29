@@ -1,0 +1,356 @@
+artifacts:
+  iteratee-core_2.10:
+    lastUpdated: 20170324184121
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_2.11:
+    lastUpdated: 20170324184121
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_2.12:
+    lastUpdated: 20170324184121
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_2.12.0-RC2:
+    lastUpdated: 20161101131951
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-core_sjs0.6_2.10:
+    lastUpdated: 20170324184122
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_sjs0.6_2.11:
+    lastUpdated: 20170324184122
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_sjs0.6_2.12:
+    lastUpdated: 20170324184123
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161101131952
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-files_2.10:
+    lastUpdated: 20170324184123
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-files_2.11:
+    lastUpdated: 20170324184123
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-files_2.12:
+    lastUpdated: 20170324184124
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-files_2.12.0-RC2:
+    lastUpdated: 20161101131954
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-fs2_2.11:
+    lastUpdated: 20170324184124
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  iteratee-fs2_2.12:
+    lastUpdated: 20170324184125
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_2.10:
+    lastUpdated: 20170324184125
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_2.11:
+    lastUpdated: 20170324184125
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_2.12:
+    lastUpdated: 20170324184126
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_2.12.0-RC2:
+    lastUpdated: 20161101131955
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-monix_sjs0.6_2.10:
+    lastUpdated: 20170324184126
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_sjs0.6_2.11:
+    lastUpdated: 20170324184126
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_sjs0.6_2.12:
+    lastUpdated: 20170324184127
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-monix_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161101131956
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-scalaz_2.10:
+    lastUpdated: 20170324184127
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-scalaz_2.11:
+    lastUpdated: 20170324184128
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-scalaz_2.12:
+    lastUpdated: 20170324184128
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-scalaz_2.12.0-RC2:
+    lastUpdated: 20161101131957
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  iteratee-task_2.10:
+    lastUpdated: 20160514201857
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+  iteratee-task_2.11:
+    lastUpdated: 20160514201858
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+  iteratee-twitter_2.10:
+    lastUpdated: 20160726190800
+    latest: 0.6.0-M1
+    release: 0.6.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+  iteratee-twitter_2.11:
+    lastUpdated: 20170324184129
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+  iteratee-twitter_2.12:
+    lastUpdated: 20170324184129
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+

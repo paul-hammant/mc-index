@@ -1,0 +1,31 @@
+artifacts:
+  barclay:
+    lastUpdated: 20161206161813
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  gatk:
+    lastUpdated: 20160817222138
+    latest: 4.alpha.2
+    release: 4.alpha.2
+    versions:
+      - 4.alpha
+      - 4.alpha.1
+      - 4.alpha.2
+  gatk-native-bindings:
+    lastUpdated: 20160620143759
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  hdf5-java-bindings:
+    lastUpdated: 20160902182239
+    latest: 1.1.0-hdf5_2.11.0
+    release: 1.1.0-hdf5_2.11.0
+    versions:
+      - 1.0.0-hdf5_2.11.0
+      - 1.1.0-hdf5_2.11.0
+

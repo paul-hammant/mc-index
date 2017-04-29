@@ -1,0 +1,132 @@
+artifacts:
+  nxparser:
+    lastUpdated: 20161014101007
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 1.2.10
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-api:
+    lastUpdated: 20151105112903
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-cli:
+    lastUpdated: 20151105112904
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-commons:
+    lastUpdated: 20151105112904
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-jax-rs:
+    lastUpdated: 20151105112905
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-model:
+    lastUpdated: 20151105112905
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-model-datatypes:
+    lastUpdated: 20151105112905
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-parsers:
+    lastUpdated: 20151105112906
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-parsers-external:
+    lastUpdated: 20150808111403
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+  nxparser-parsers-external-jsonld-jsonld_java:
+    lastUpdated: 20151105112906
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-parsers-external-rdfa-semargl:
+    lastUpdated: 20151105112906
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-serialisers:
+    lastUpdated: 20151105112907
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-utilities:
+    lastUpdated: 20151105112907
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-utilities-nx:
+    lastUpdated: 20151105112908
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+  nxparser-utilities-uri:
+    lastUpdated: 20151105112908
+    latest: 2.3.3
+    release: 2.3.3
+    versions:
+      - 2.2
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+

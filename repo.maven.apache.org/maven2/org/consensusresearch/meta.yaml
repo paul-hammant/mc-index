@@ -1,0 +1,102 @@
+artifacts:
+  scorex-basics_2.11:
+    lastUpdated: 20160609203217
+    latest: 1.3.0-M1
+    release: 1.3.0-M1
+    versions:
+      - 1.2.0-RC2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 1.3.0-M1
+  scorex-consensus_2.11:
+    lastUpdated: 20160609203507
+    latest: 1.2.8
+    release: 1.2.8
+    versions:
+      - 1.2.0-RC2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+  scorex-perma_2.11:
+    lastUpdated: 20160609204057
+    latest: 1.2.8
+    release: 1.2.8
+    versions:
+      - 0.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+      - 0.1
+  scorex-transaction_2.11:
+    lastUpdated: 20160609203349
+    latest: 1.2.8
+    release: 1.2.8
+    versions:
+      - 1.2.0-RC2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7
+      - 1.2.8
+  scorex_2.11:
+    lastUpdated: 20160523114705
+    latest: 1.3.0-M1
+    release: 1.3.0-M1
+    versions:
+      - 1.0.3
+      - 1.2.0-RC2
+      - 1.2.0-RC4
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0-M1
+  scrypto_2.11:
+    lastUpdated: 20161018161540
+    latest: 1.2.0-RC3
+    release: 1.2.0-RC3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.2.0-M1
+      - 1.2.0-M2
+      - 1.2.0-M3
+      - 1.2.0-M4
+      - 1.2.0-M5
+      - 1.2.0-M6
+      - 1.2.0-RC1
+      - 1.2.0-RC2
+      - 1.2.0-RC3
+  scrypto_2.12:
+    lastUpdated: 20161212213733
+    latest: 1.2.0-RC3
+    release: 1.2.0-RC3
+    versions:
+      - 1.2.0-RC3
+

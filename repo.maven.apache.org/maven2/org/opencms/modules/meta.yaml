@@ -1,0 +1,686 @@
+artifacts:
+  com.alkacon.opencms.v8.article:
+    lastUpdated: 20120422100534
+    latest: 8.0.4
+    release: 8.0.4
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+  com.alkacon.opencms.v8.event:
+    lastUpdated: 20130722184911
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.flexible:
+    lastUpdated: 20130212230610
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+  com.alkacon.opencms.v8.flower:
+    lastUpdated: 20130212230611
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.5.0
+      - 8.5.1
+  com.alkacon.opencms.v8.infobox:
+    lastUpdated: 20130212230611
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+  com.alkacon.opencms.v8.list:
+    lastUpdated: 20130212230612
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.2.1
+      - 8.5.1
+  com.alkacon.opencms.v8.login:
+    lastUpdated: 20130212230613
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.4
+      - 8.5.1
+  com.alkacon.opencms.v8.news:
+    lastUpdated: 20130722184911
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.search:
+    lastUpdated: 20130212230614
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.1
+  com.alkacon.opencms.v8.solr:
+    lastUpdated: 20130722184912
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.subscription:
+    lastUpdated: 20130212230615
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.2
+      - 8.0.4
+      - 8.5.1
+  com.alkacon.opencms.v8.template3:
+    lastUpdated: 20130722184912
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.template3.demo:
+    lastUpdated: 20130722184912
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.template3.demo.shared:
+    lastUpdated: 20130722184913
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  com.alkacon.opencms.v8.textblock:
+    lastUpdated: 20130212230617
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.5.0
+      - 8.5.1
+  com.alkacon.opencms.v8.twitter:
+    lastUpdated: 20130212230618
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+  org.opencms.ade.config:
+    lastUpdated: 20130722184913
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.containerpage:
+    lastUpdated: 20130722184914
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.contenteditor:
+    lastUpdated: 20130722184915
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.editprovider:
+    lastUpdated: 20130722184915
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.galleries:
+    lastUpdated: 20130722184916
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.postupload:
+    lastUpdated: 20130722184917
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.properties:
+    lastUpdated: 20130722184918
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.publish:
+    lastUpdated: 20130722184919
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.sitemap:
+    lastUpdated: 20130722184920
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.ade.upload:
+    lastUpdated: 20130722184920
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.1.0.1
+      - 8.5.2
+  org.opencms.dev.demo:
+    lastUpdated: 20130212230618
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+  org.opencms.dev.demo.content:
+    lastUpdated: 20130212230619
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+  org.opencms.dev.demo.customwidget:
+    lastUpdated: 20130212230619
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.5.1
+  org.opencms.editors:
+    lastUpdated: 20130722184921
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.editors.ckeditor:
+    lastUpdated: 20120106190025
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.editors.codemirror:
+    lastUpdated: 20130722184921
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.editors.editarea:
+    lastUpdated: 20121119015335
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.editors.fckeditor:
+    lastUpdated: 20130210154042
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+  org.opencms.editors.tinymce:
+    lastUpdated: 20130722184922
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.frontend.layoutpage:
+    lastUpdated: 20120106190028
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.photoalbum:
+    lastUpdated: 20120106190019
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templateone:
+    lastUpdated: 20120106190028
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templateone.democontent:
+    lastUpdated: 20120106190019
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templateone.form:
+    lastUpdated: 20120106190022
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templateone.modules:
+    lastUpdated: 20120106190025
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templatetwo:
+    lastUpdated: 20120106190023
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templatetwo.demo:
+    lastUpdated: 20120106190021
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.frontend.templatetwo.demo.content:
+    lastUpdated: 20120106190029
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.gwt:
+    lastUpdated: 20130722184923
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.gwt-client:
+    lastUpdated: 20130722184946
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.1
+      - 8.5.2
+  org.opencms.jquery:
+    lastUpdated: 20130722184923
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.languagedetection:
+    lastUpdated: 20130722184924
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.5.1
+      - 8.5.2
+  org.opencms.locale.de:
+    lastUpdated: 20130722184924
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.locale.es:
+    lastUpdated: 20121119015349
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.locale.it:
+    lastUpdated: 20121119015351
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.4
+      - 8.5.0
+  org.opencms.locale.ru:
+    lastUpdated: 20121119015352
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.4
+      - 8.5.0
+  org.opencms.welcome:
+    lastUpdated: 20130722184925
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.workplace:
+    lastUpdated: 20130722184925
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.workplace.administration:
+    lastUpdated: 20130722184926
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+      - 8.5.2
+  org.opencms.workplace.categories:
+    lastUpdated: 20121119015403
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.demos:
+    lastUpdated: 20120106190025
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.workplace.demos.list:
+    lastUpdated: 20120106190024
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.workplace.demos.widget:
+    lastUpdated: 20120106190026
+    latest: 8.0.1
+    release: 8.0.1
+    versions:
+      - 8.0.1
+  org.opencms.workplace.explorer:
+    lastUpdated: 20130722184926
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.workplace.galleries:
+    lastUpdated: 20121119015406
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.handler:
+    lastUpdated: 20130722184927
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.5.0
+      - 8.5.1
+      - 8.5.2
+  org.opencms.workplace.help:
+    lastUpdated: 20121119015412
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.help.de:
+    lastUpdated: 20121119015413
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.help.en:
+    lastUpdated: 20121119015414
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.tools.accounts:
+    lastUpdated: 20130722184927
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.2
+  org.opencms.workplace.tools.cache:
+    lastUpdated: 20121119015418
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.content:
+    lastUpdated: 20130210154046
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+  org.opencms.workplace.tools.database:
+    lastUpdated: 20121119015425
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.galleryoverview:
+    lastUpdated: 20121119015426
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.history:
+    lastUpdated: 20121119015428
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.link:
+    lastUpdated: 20121119015434
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.modules:
+    lastUpdated: 20121119015435
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.0.2
+      - 8.0.3
+      - 8.5.0
+  org.opencms.workplace.tools.projects:
+    lastUpdated: 20130722184928
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+      - 8.5.2
+  org.opencms.workplace.tools.publishqueue:
+    lastUpdated: 20121119015440
+    latest: 8.5.0
+    release: 8.5.0
+    versions:
+      - 8.0.1
+      - 8.5.0
+  org.opencms.workplace.tools.scheduler:
+    lastUpdated: 20130210154046
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+  org.opencms.workplace.tools.searchindex:
+    lastUpdated: 20130210154047
+    latest: 8.5.1
+    release: 8.5.1
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.5.0
+      - 8.5.1
+  org.opencms.workplace.tools.workplace:
+    lastUpdated: 20130722184928
+    latest: 8.5.2
+    release: 8.5.2
+    versions:
+      - 8.0.1
+      - 8.0.3
+      - 8.0.4
+      - 8.5.0
+      - 8.5.2
+

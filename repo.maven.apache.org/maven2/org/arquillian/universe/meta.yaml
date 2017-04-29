@@ -1,0 +1,843 @@
+artifacts:
+  arquillian-algeron-git-publisher:
+    lastUpdated: 20170326100932
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-algeron-git-retriever:
+    lastUpdated: 20170326100932
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-algeron-maven-retriever:
+    lastUpdated: 20170326100932
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-algeron-pact-broker-retriever:
+    lastUpdated: 20170326100933
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-algeron-pact-consumer:
+    lastUpdated: 20170326100933
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-algeron-pact-provider:
+    lastUpdated: 20170326100933
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-ape-junit-rule:
+    lastUpdated: 20170421114825
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.4
+  arquillian-ape-nosql-couchbase:
+    lastUpdated: 20170421114825
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-nosql-mongodb:
+    lastUpdated: 20170421114825
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-nosql-redis:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-nosql-vault:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.4
+  arquillian-ape-rest-postman:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-sql-container-dbunit:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-sql-standalone-dbunit:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.1
+      - 1.1.13.2
+      - 1.1.13.3
+      - 1.1.13.4
+  arquillian-ape-sql-standalone-flyway:
+    lastUpdated: 20170421114826
+    latest: 1.1.13.4
+    release: 1.1.13.4
+    versions:
+      - 1.1.13.4
+  arquillian-byteman:
+    lastUpdated: 20170326100933
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-chameleon:
+    lastUpdated: 20170326100934
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-core:
+    lastUpdated: 20170326100934
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-containerless:
+    lastUpdated: 20170326100934
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-core:
+    lastUpdated: 20170326100935
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-docker:
+    lastUpdated: 20170326100935
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-docker-restassured:
+    lastUpdated: 20170326100935
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.1.13.0
+  arquillian-cube-kubernetes:
+    lastUpdated: 20170326100935
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-openshift:
+    lastUpdated: 20170326100936
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-q-pumba:
+    lastUpdated: 20170326100936
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-q-simianarmy:
+    lastUpdated: 20170326100936
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cube-q-toxic:
+    lastUpdated: 20170326100936
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-cukes:
+    lastUpdated: 20170326100937
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-drone:
+    lastUpdated: 20170326100937
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-core:
+    lastUpdated: 20170326100937
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-github:
+    lastUpdated: 20170326100938
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-ignore:
+    lastUpdated: 20170326100938
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-jira:
+    lastUpdated: 20170326100938
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-redmine:
+    lastUpdated: 20170326100939
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-governor-skipper:
+    lastUpdated: 20170326100939
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-graphene:
+    lastUpdated: 20170326100939
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-graphene-recorder:
+    lastUpdated: 20170326100939
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-jacoco:
+    lastUpdated: 20170326100940
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-junit:
+    lastUpdated: 20170326100940
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-junit-standalone:
+    lastUpdated: 20170326100940
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-pact-consumer:
+    lastUpdated: 20160928173825
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha4
+  arquillian-pact-provider:
+    lastUpdated: 20160928173825
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha4
+  arquillian-persistence:
+    lastUpdated: 20170326100940
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-persistence-core:
+    lastUpdated: 20170326100941
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-recorder:
+    lastUpdated: 20170326100941
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-recorder-api:
+    lastUpdated: 20170326100941
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-core:
+    lastUpdated: 20170326100942
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-jaxrs2:
+    lastUpdated: 20170326100942
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-jersey:
+    lastUpdated: 20170326100942
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-resteasy2:
+    lastUpdated: 20170326100943
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-resteasy3:
+    lastUpdated: 20170326100943
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-warp-core:
+    lastUpdated: 20170326100943
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-warp-cxf:
+    lastUpdated: 20170326100944
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-warp-jaxrs2:
+    lastUpdated: 20170326100944
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-warp-jersey:
+    lastUpdated: 20170326100944
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-rest-warp-resteasy:
+    lastUpdated: 20170326100944
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-spacelift:
+    lastUpdated: 20170326100945
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-spring:
+    lastUpdated: 20170326100945
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-spring-persistence:
+    lastUpdated: 20170326100945
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-spring-transaction:
+    lastUpdated: 20170326100946
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-spring-warp:
+    lastUpdated: 20170326100946
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-test:
+    lastUpdated: 20170326100946
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-testng:
+    lastUpdated: 20170326100947
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-testng-standalone:
+    lastUpdated: 20170326100947
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-transaction-core:
+    lastUpdated: 20170326100947
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-transaction-jta:
+    lastUpdated: 20170326100947
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-universe-parent:
+    lastUpdated: 20170326100948
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-warp:
+    lastUpdated: 20170326100948
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+  arquillian-warp-jsf:
+    lastUpdated: 20170326100948
+    latest: 1.1.13.0
+    release: 1.1.13.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.1.12.0
+      - 1.1.13.0
+

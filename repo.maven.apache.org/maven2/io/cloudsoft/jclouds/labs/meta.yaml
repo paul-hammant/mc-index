@@ -1,0 +1,248 @@
+artifacts:
+  abiquo:
+    lastUpdated: 20140613213343
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cdmi:
+    lastUpdated: 20140613213345
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma2:
+    lastUpdated: 20140613213349
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma2-lvs:
+    lastUpdated: 20140613213353
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma2-wdc:
+    lastUpdated: 20140613213354
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  cloudsigma2-zrh:
+    lastUpdated: 20140613213356
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  digitalocean:
+    lastUpdated: 20140613213359
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  dmtf:
+    lastUpdated: 20140613213402
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  docker:
+    lastUpdated: 20140613213404
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  fgcp:
+    lastUpdated: 20140613213408
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  fgcp-au:
+    lastUpdated: 20140613213412
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  fgcp-de:
+    lastUpdated: 20140613213413
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  google-compute-engine:
+    lastUpdated: 20140613213413
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-labs:
+    lastUpdated: 20140613213414
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-labs-google:
+    lastUpdated: 20140613213414
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-management:
+    lastUpdated: 20140613213414
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  jclouds-representations:
+    lastUpdated: 20140613213415
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.4-ea-brooklyn.1
+  jclouds-represetations:
+    lastUpdated: 20140328171910
+    latest: 1.7.2-ea-brooklyn.5
+    release: 1.7.2-ea-brooklyn.5
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+  joyent-cloudapi:
+    lastUpdated: 20140613213415
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  joyentcloud:
+    lastUpdated: 20140613213415
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  oauth:
+    lastUpdated: 20140613213417
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  vcloud-director:
+    lastUpdated: 20140613213419
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+  virtualbox:
+    lastUpdated: 20140613213420
+    latest: 1.7.4-ea-brooklyn.1
+    release: 1.7.4-ea-brooklyn.1
+    versions:
+      - 1.7.2-ea-brooklyn.1
+      - 1.7.2-ea-brooklyn.2
+      - 1.7.2-ea-brooklyn.3
+      - 1.7.2-ea-brooklyn.4
+      - 1.7.2-ea-brooklyn.5
+      - 1.7.4-ea-brooklyn.1
+

@@ -1,0 +1,78 @@
+artifacts:
+  collection-validation:
+    lastUpdated: 20150908184246
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  couchbase-auto-views:
+    lastUpdated: 20151019211741
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  feign-commons:
+    lastUpdated: 20160924124121
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  generated-object-builder:
+    lastUpdated: 20150927073608
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  hystrix-commons:
+    lastUpdated: 20160924124121
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jersey-commons:
+    lastUpdated: 20160924124122
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  logging-commons:
+    lastUpdated: 20160924124122
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  micro-service:
+    lastUpdated: 20160928191233
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  micro-service-commons:
+    lastUpdated: 20160924132014
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  security-commons:
+    lastUpdated: 20160924124123
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spring-commons:
+    lastUpdated: 20160924124123
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  test-commons:
+    lastUpdated: 20160924124123
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

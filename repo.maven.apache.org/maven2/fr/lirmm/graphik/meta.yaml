@@ -1,0 +1,643 @@
+artifacts:
+  dlgp2-parser:
+    lastUpdated: 20170131112254
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 2.1.0
+  forward-chaining:
+    lastUpdated: 20160729124705
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal:
+    lastUpdated: 20170412115851
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-api:
+    lastUpdated: 20170412115851
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-apps:
+    lastUpdated: 20160729124705
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-apps-incubator:
+    lastUpdated: 20160729124705
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-backward-chaining:
+    lastUpdated: 20170412115851
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-bench:
+    lastUpdated: 20151019090150
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+  graal-cli:
+    lastUpdated: 20160729124706
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-converter:
+    lastUpdated: 20160729124706
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-core:
+    lastUpdated: 20170412115852
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-cqa:
+    lastUpdated: 20160729124707
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-distro:
+    lastUpdated: 20160729124707
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-examples:
+    lastUpdated: 20160729124707
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-forward-chaining:
+    lastUpdated: 20170412115852
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-homomorphism:
+    lastUpdated: 20170412115852
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-incubator:
+    lastUpdated: 20160729124708
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-incubator-misc:
+    lastUpdated: 20160729124708
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-interpreter:
+    lastUpdated: 20160729124709
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-io:
+    lastUpdated: 20170412115853
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-io-api:
+    lastUpdated: 20150921155847
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+  graal-io-dlgp:
+    lastUpdated: 20170412115853
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-io-dlgp1:
+    lastUpdated: 20150903141030
+    latest: 0.8.7
+    release: 0.8.7
+    versions:
+      - 0.8.7
+  graal-io-iris-dtg:
+    lastUpdated: 20160729124709
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-io-owl:
+    lastUpdated: 20170412115853
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-io-rdf:
+    lastUpdated: 20170412115853
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a1
+  graal-io-ruleml:
+    lastUpdated: 20170412115854
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-io-sparql:
+    lastUpdated: 20170412115854
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-kb:
+    lastUpdated: 20170412115854
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a0
+      - 1.3.a1
+  graal-main-project:
+    lastUpdated: 20160729124710
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-query:
+    lastUpdated: 20160729124711
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-rules-analyser:
+    lastUpdated: 20170412115855
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store:
+    lastUpdated: 20170412115855
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store-api:
+    lastUpdated: 20150921155851
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+  graal-store-blueprints:
+    lastUpdated: 20170412115855
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store-jenaTDB:
+    lastUpdated: 20170412115855
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store-neo4j:
+    lastUpdated: 20170412115856
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store-openrdf:
+    lastUpdated: 20170130123600
+    latest: 1.3.a0
+    release: 1.3.a0
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+  graal-store-rdbms:
+    lastUpdated: 20170412115856
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  graal-store-rdf4j:
+    lastUpdated: 20170412115856
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a1
+  graal-store-test:
+    lastUpdated: 20151019090207
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+  graal-test:
+    lastUpdated: 20160729124713
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  graal-tools:
+    lastUpdated: 20151019090208
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+  graal-util:
+    lastUpdated: 20170412115856
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.a0
+      - 1.3.a1
+  kiabora:
+    lastUpdated: 20150921155855
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.7
+      - 0.9.0
+  rdbms-adhoc:
+    lastUpdated: 20170412115857
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a0
+      - 1.3.a1
+  rdbms-common:
+    lastUpdated: 20170412115857
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a0
+      - 1.3.a1
+  rdbms-natural:
+    lastUpdated: 20170412115857
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a0
+      - 1.3.a1
+  rdbms-test:
+    lastUpdated: 20170412115858
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a0
+      - 1.3.a1
+  rdf4j-common:
+    lastUpdated: 20170412115858
+    latest: 1.3.a1
+    release: 1.3.a1
+    versions:
+      - 1.3.a1
+  ruleml2015:
+    lastUpdated: 20151019090209
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.8.7
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+  utility-tools:
+    lastUpdated: 20160729124714
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+

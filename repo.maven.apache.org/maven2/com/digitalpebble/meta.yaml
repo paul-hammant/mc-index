@@ -1,0 +1,88 @@
+artifacts:
+  storm-crawler:
+    lastUpdated: 20151103152214
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  storm-crawler-aws:
+    lastUpdated: 20151103152214
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  storm-crawler-core:
+    lastUpdated: 20151103152215
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+  storm-crawler-elasticsearch:
+    lastUpdated: 20151103152215
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  storm-crawler-external:
+    lastUpdated: 20150527081130
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  storm-crawler-solr:
+    lastUpdated: 20151103152216
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  storm-crawler-sql:
+    lastUpdated: 20151103152216
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  storm-crawler-tika:
+    lastUpdated: 20151103152217
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+

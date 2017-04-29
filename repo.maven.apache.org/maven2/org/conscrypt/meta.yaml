@@ -1,0 +1,78 @@
+artifacts:
+  conscrypt-android:
+    lastUpdated: 20170329173954
+    latest: 1.0.0.RC7
+    release: 1.0.0.RC7
+    versions:
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0.RC6
+      - 1.0.0.RC7
+  conscrypt-android-stub:
+    lastUpdated: 20170223185641
+    latest: 1.0.0.RC1
+    release: 1.0.0.RC1
+    versions:
+      - 1.0.0.RC1
+  conscrypt-api-doclet:
+    lastUpdated: 20170329173955
+    latest: 1.0.0.RC7
+    release: 1.0.0.RC7
+    versions:
+      - 1.0.0.RC7
+  conscrypt-constants:
+    lastUpdated: 20170223185641
+    latest: 1.0.0.RC1
+    release: 1.0.0.RC1
+    versions:
+      - 1.0.0.RC1
+  conscrypt-openjdk:
+    lastUpdated: 20170329173955
+    latest: 1.0.0.RC7
+    release: 1.0.0.RC7
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0.RC6
+      - 1.0.0.RC7
+  conscrypt-openjdk-benchmarks:
+    lastUpdated: 20170329173956
+    latest: 1.0.0.RC7
+    release: 1.0.0.RC7
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0.RC6
+      - 1.0.0.RC7
+  conscrypt-openjdk-uber:
+    lastUpdated: 20170329175838
+    latest: 1.0.0.RC7
+    release: 1.0.0.RC7
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0.RC6
+      - 1.0.0.RC7
+  conscrypt-testing:
+    lastUpdated: 20170310193214
+    latest: 1.0.0.RC6
+    release: 1.0.0.RC6
+    versions:
+      - 1.0.0.RC1
+      - 1.0.0.RC2
+      - 1.0.0.RC3
+      - 1.0.0.RC4
+      - 1.0.0.RC5
+      - 1.0.0.RC6
+

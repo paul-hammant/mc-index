@@ -1,0 +1,225 @@
+artifacts:
+  apache-lens:
+    lastUpdated: 20161024043847
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  checkstyle:
+    lastUpdated: 20161024043848
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-api:
+    lastUpdated: 20161024043848
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-cli:
+    lastUpdated: 20161024043849
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-client:
+    lastUpdated: 20161024043849
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-contrib:
+    lastUpdated: 20161024043850
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.1
+  lens-contrib-clients:
+    lastUpdated: 20161024043850
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.1
+  lens-cube:
+    lastUpdated: 20161024043850
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-driver-es:
+    lastUpdated: 20161024043851
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-driver-hive:
+    lastUpdated: 20161024043852
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-driver-jdbc:
+    lastUpdated: 20161024043853
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-examples:
+    lastUpdated: 20161024043854
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-ml-lib:
+    lastUpdated: 20161024043854
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-python-client:
+    lastUpdated: 20161024043855
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.6.1
+  lens-query-lib:
+    lastUpdated: 20161024043855
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-regression:
+    lastUpdated: 20161024043856
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-server:
+    lastUpdated: 20161024043857
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-server-api:
+    lastUpdated: 20161024043858
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-ship-jars:
+    lastUpdated: 20161024043858
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-storage-db:
+    lastUpdated: 20161024043859
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.0.1-beta-incubating
+      - 2.1.0-beta-incubating
+      - 2.2.0-beta-incubating
+      - 2.3.0-beta
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+  lens-ui:
+    lastUpdated: 20161024043859
+    latest: 2.6.1
+    release: 2.6.1
+    versions:
+      - 2.4.0-beta
+      - 2.5.0-beta
+      - 2.6.1
+

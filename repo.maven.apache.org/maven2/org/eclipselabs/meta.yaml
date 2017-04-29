@@ -1,0 +1,235 @@
+artifacts:
+  cdo:
+    lastUpdated: 20170214163537
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo-maven:
+    lastUpdated: 20170214163537
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo.hibernate:
+    lastUpdated: 20170214163537
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo.hibernate.p2:
+    lastUpdated: 20170214163538
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo.mongodb:
+    lastUpdated: 20170214163538
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo.mongodb.p2:
+    lastUpdated: 20170214163538
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  cdo.p2:
+    lastUpdated: 20170214163539
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  emf-archetypes:
+    lastUpdated: 20141022093243
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  emf-gwt:
+    lastUpdated: 20140925081543
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  emf-gwt-jersey:
+    lastUpdated: 20141022093300
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  emf-gwt-rpc:
+    lastUpdated: 20141022093301
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  gef-gwt:
+    lastUpdated: 20141022092815
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.7.0
+  net4j:
+    lastUpdated: 20170214163539
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.h2:
+    lastUpdated: 20170214163539
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.h2.p2:
+    lastUpdated: 20170214163539
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.jvm:
+    lastUpdated: 20151014132014
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+  net4j.jvm.p2:
+    lastUpdated: 20151014132014
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+  net4j.mysql:
+    lastUpdated: 20170214163540
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.mysql.p2:
+    lastUpdated: 20170214163540
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.oracle:
+    lastUpdated: 20170214163540
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.oracle.p2:
+    lastUpdated: 20170214163540
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.p2:
+    lastUpdated: 20170214163541
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.postgresql:
+    lastUpdated: 20170214163541
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  net4j.postgresql.p2:
+    lastUpdated: 20170214163541
+    latest: 4.6.0.v20170210-0100
+    release: 4.6.0.v20170210-0100
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0.v20170210-0100
+  org.eclipse.emf.gwt.common:
+    lastUpdated: 20140925081545
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.eclipse.emf.gwt.ecore:
+    lastUpdated: 20140925081546
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.eclipse.emf.gwt.ecore.change:
+    lastUpdated: 20140925081546
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.eclipse.emf.gwt.ecore.edit:
+    lastUpdated: 20140925081547
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.eclipse.emf.gwt.edit:
+    lastUpdated: 20140925081549
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  org.eclipse.emf.gwt.edit.ui:
+    lastUpdated: 20140925081549
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+  osgi-http-service-utils:
+    lastUpdated: 20111026160722
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+

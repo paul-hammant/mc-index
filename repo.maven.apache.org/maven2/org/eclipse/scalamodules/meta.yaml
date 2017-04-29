@@ -1,0 +1,84 @@
+artifacts:
+  core:
+    lastUpdated: 20120928142759
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  examples:
+    lastUpdated: 20120928142756
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  framework:
+    lastUpdated: 20120928142755
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules:
+    lastUpdated: 20120928142755
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-core:
+    lastUpdated: 20120928142753
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-examples-api:
+    lastUpdated: 20120928142801
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-examples-find:
+    lastUpdated: 20120928142758
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-examples-register:
+    lastUpdated: 20120928142751
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-examples-watch:
+    lastUpdated: 20120928142803
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M2
+  scalamodules-root:
+    lastUpdated: 20120928142800
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+  scalamodules-scala-library:
+    lastUpdated: 20120928142802
+    latest: 2.8.0.Beta1
+    release: 2.8.0.Beta1
+    versions:
+      - 2.8.0.Beta1
+  scalaosgi:
+    lastUpdated: 20120928142754
+    latest: 2.0-M2
+    release: 2.0-M2
+    versions:
+      - 2.0-M1
+      - 2.0-M2
+

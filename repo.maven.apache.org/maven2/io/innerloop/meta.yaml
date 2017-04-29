@@ -1,0 +1,32 @@
+artifacts:
+  guice-persist-neo4j:
+    lastUpdated: 20160914021208
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  java-neo4j-client:
+    lastUpdated: 20160114234129
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  java-neo4j-ogm:
+    lastUpdated: 20160115010924
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  spring-neo4j-ogm:
+    lastUpdated: 20160115012257
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

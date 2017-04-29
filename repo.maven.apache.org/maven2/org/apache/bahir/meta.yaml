@@ -1,0 +1,140 @@
+artifacts:
+  assembly_2.10:
+    lastUpdated: 20170222100026
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  assembly_2.11:
+    lastUpdated: 20170222100026
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  bahir-parent_2.10:
+    lastUpdated: 20170222100027
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  bahir-parent_2.11:
+    lastUpdated: 20170222100027
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-sql-streaming-mqtt_2.10:
+    lastUpdated: 20170222100028
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-sql-streaming-mqtt_2.11:
+    lastUpdated: 20170222100029
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-akka_2.10:
+    lastUpdated: 20170222100029
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-akka_2.11:
+    lastUpdated: 20170222100030
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-mqtt_2.10:
+    lastUpdated: 20170222100031
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-mqtt_2.11:
+    lastUpdated: 20170222100032
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-twitter_2.10:
+    lastUpdated: 20170222100033
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-twitter_2.11:
+    lastUpdated: 20170222100034
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-zeromq_2.10:
+    lastUpdated: 20170222100035
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+  spark-streaming-zeromq_2.11:
+    lastUpdated: 20170222100036
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0
+      - 2.0.0-preview
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0
+

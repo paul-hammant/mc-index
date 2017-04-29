@@ -1,0 +1,32 @@
+artifacts:
+  parent:
+    lastUpdated: 20160312173050
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  tourniquet-measure:
+    lastUpdated: 20160312184611
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  tourniquet-tx:
+    lastUpdated: 20160312200756
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  tourniquet-ui:
+    lastUpdated: 20160312210723
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

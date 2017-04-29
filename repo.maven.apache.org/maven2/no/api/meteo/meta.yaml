@@ -1,0 +1,58 @@
+artifacts:
+  meteo:
+    lastUpdated: 20150903110753
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 3.0.0
+      - 3.0.1
+  meteo-client:
+    lastUpdated: 20150903110753
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 3.0.1
+  meteo-core:
+    lastUpdated: 20150903110754
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 3.0.1
+  meteo-entity:
+    lastUpdated: 20150819203957
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.2
+      - 2.0.3
+  meteo-examples:
+    lastUpdated: 20150903110754
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 3.0.1
+  meteo-extras:
+    lastUpdated: 20150819203958
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.2
+      - 2.0.3
+  meteo-test:
+    lastUpdated: 20150903110755
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 3.0.0
+      - 3.0.1
+

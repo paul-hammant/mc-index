@@ -1,0 +1,329 @@
+artifacts:
+  wamblee-code-style:
+    lastUpdated: 20100417184158
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  wamblee-gps:
+    lastUpdated: 20100416191907
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  wamblee-hibernate-jpa:
+    lastUpdated: 20131012123257
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-security:
+    lastUpdated: 20131012123258
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-security-impl:
+    lastUpdated: 20100512174623
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  wamblee-security-usermgt:
+    lastUpdated: 20131012123258
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-skin:
+    lastUpdated: 20100715222913
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  wamblee-support:
+    lastUpdated: 20131012123259
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-support-cdi:
+    lastUpdated: 20131012123259
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-support-general:
+    lastUpdated: 20131012123300
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-support-inject:
+    lastUpdated: 20131012123300
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-support-spring:
+    lastUpdated: 20131012123301
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-system:
+    lastUpdated: 20131012123301
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-system-general:
+    lastUpdated: 20131012123301
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-system-spring:
+    lastUpdated: 20131012123302
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-test:
+    lastUpdated: 20131012123303
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-test-eclipselink:
+    lastUpdated: 20131012123303
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-test-enterprise:
+    lastUpdated: 20131012123303
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-test-hibernate:
+    lastUpdated: 20131012123304
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-test-toplink-essentials:
+    lastUpdated: 20131012123304
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-utils:
+    lastUpdated: 20131012123305
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-wicket:
+    lastUpdated: 20131012123305
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-wicket-components:
+    lastUpdated: 20131012123305
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+  wamblee-wicket-joe:
+    lastUpdated: 20131012123306
+    latest: 0.8
+    release: 0.8
+    versions:
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+

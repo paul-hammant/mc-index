@@ -1,0 +1,111 @@
+artifacts:
+  acceptance-test:
+    lastUpdated: 20110317130425
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  restsimple:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  restsimple-acceptance-test:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-api:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-asmtemplate:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  restsimple-client:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-jaxrs:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-parent:
+    lastUpdated: 20110412210449
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  restsimple-service-descriptor-creator:
+    lastUpdated: 20110617163421
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  restsimple-sitebricks:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-template:
+    lastUpdated: 20110412210449
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  restsimple-templating:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3
+      - 0.4
+  restsimple-tests-common:
+    lastUpdated: 20110617163421
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  restsimple-webdriver:
+    lastUpdated: 20110617163422
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+

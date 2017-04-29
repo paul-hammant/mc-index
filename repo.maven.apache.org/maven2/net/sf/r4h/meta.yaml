@@ -1,0 +1,34 @@
+artifacts:
+  repository4hibernate:
+    lastUpdated: 20140419172121
+    latest: 4.3.6.Final
+    release: 4.3.6.Final
+    versions:
+      - 4.1.2
+      - 4.1.8.Final
+      - 4.1.9.Final
+      - 4.3.6.Final
+  repository4hibernate-api:
+    lastUpdated: 20140419172122
+    latest: 4.3.6.Final
+    release: 4.3.6.Final
+    versions:
+      - 4.1.8.Final
+      - 4.1.9.Final
+      - 4.3.6.Final
+  repository4hibernate-parent:
+    lastUpdated: 20120503140658
+    latest: 4.1.2
+    release: 4.1.2
+    versions:
+      - 4.1.2
+  repository4hibernate-shared:
+    lastUpdated: 20140419172122
+    latest: 4.3.6.Final
+    release: 4.3.6.Final
+    versions:
+      - 4.1.2
+      - 4.1.8.Final
+      - 4.1.9.Final
+      - 4.3.6.Final
+

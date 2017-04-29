@@ -1,0 +1,407 @@
+artifacts:
+  anti-xml_2.8.1:
+    lastUpdated: 20141102163901
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  anti-xml_2.8.2:
+    lastUpdated: 20141102163902
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  anti-xml_2.9.0:
+    lastUpdated: 20141102163904
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  anti-xml_2.9.0-1:
+    lastUpdated: 20141102163902
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  anti-xml_2.9.1:
+    lastUpdated: 20141102163903
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  emm-cats_2.11:
+    lastUpdated: 20160214204349
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1-8ce4a7c
+      - 0.1-20afa3d
+      - 0.2
+      - 0.2.1
+      - 0.2
+  emm-core_2.11:
+    lastUpdated: 20160214204350
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1-8ce4a7c
+      - 0.1-20afa3d
+      - 0.2
+      - 0.2.1
+      - 0.2
+  emm-scalaz-71_2.11:
+    lastUpdated: 20160214204350
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1-20afa3d
+      - 0.2
+      - 0.2.1
+      - 0.2
+  emm-scalaz-72_2.11:
+    lastUpdated: 20160214204350
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1-20afa3d
+      - 0.2
+      - 0.2.1
+      - 0.2
+  emm-scalaz_2.11:
+    lastUpdated: 20160123190623
+    latest: 0.1-8ce4a7c
+    release: 0.1-8ce4a7c
+    versions:
+      - 0.1-8ce4a7c
+  gll-combinators_2.10:
+    lastUpdated: 20161223020540
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.3
+      - 2.2
+      - 2.3
+  gll-combinators_2.11:
+    lastUpdated: 20161223020541
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.3
+      - 2.2
+      - 2.3
+  gll-combinators_2.12:
+    lastUpdated: 20161223020542
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.3
+      - 2.3
+  gll-combinators_2.9.1:
+    lastUpdated: 20120311135804
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  shims-cats_2.10:
+    lastUpdated: 20160527220647
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1-b7e8e5f
+      - 0.1-daa4b3e
+      - 0.1-df9cd73
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.2
+      - 0.3
+  shims-cats_2.11:
+    lastUpdated: 20170208062223
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.1-b7e8e5f
+      - 0.1-daa4b3e
+      - 0.1-df9cd73
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4c788de
+      - 0.4-4d068ed
+      - 0.2
+      - 0.3
+      - 0.4
+  shims-cats_2.12:
+    lastUpdated: 20170208062223
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-cats_sjs0.6_2.11:
+    lastUpdated: 20170208062224
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-cats_sjs0.6_2.12:
+    lastUpdated: 20170208062224
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-core_2.10:
+    lastUpdated: 20160527220649
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1-b7e8e5f
+      - 0.1-daa4b3e
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.2
+      - 0.3
+  shims-core_2.11:
+    lastUpdated: 20170402203650
+    latest: 1.0-b0e5152
+    release: 1.0-b0e5152
+    versions:
+      - 0.1-b7e8e5f
+      - 0.1-daa4b3e
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4c788de
+      - 0.4-4d068ed
+      - 1.0-b0e5152
+      - 0.2
+      - 0.3
+      - 0.4
+  shims-core_2.12:
+    lastUpdated: 20170402203650
+    latest: 1.0-b0e5152
+    release: 1.0-b0e5152
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 1.0-b0e5152
+      - 0.4
+  shims-core_sjs0.6_2.11:
+    lastUpdated: 20170208062226
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-core_sjs0.6_2.12:
+    lastUpdated: 20170208062226
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-scalaz-71_2.10:
+    lastUpdated: 20160527220650
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1-b7e8e5f
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.2
+      - 0.3
+  shims-scalaz-71_2.11:
+    lastUpdated: 20170208062226
+    latest: 0.4-4c788de
+    release: 0.4-4c788de
+    versions:
+      - 0.1-b7e8e5f
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.4.1
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4c788de
+      - 0.2
+      - 0.3
+  shims-scalaz-71_2.12:
+    lastUpdated: 20170208062227
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.1
+      - 0.4.1-428495f
+      - 0.4.2
+  shims-scalaz-72_2.10:
+    lastUpdated: 20160527220652
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1-b7e8e5f
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.2
+      - 0.3
+  shims-scalaz-72_2.11:
+    lastUpdated: 20170208062228
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.1-b7e8e5f
+      - 0.2
+      - 0.2-521580f
+      - 0.3
+      - 0.3.1
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4c788de
+      - 0.4-4d068ed
+      - 0.2
+      - 0.3
+      - 0.4
+  shims-scalaz-72_2.12:
+    lastUpdated: 20170208062228
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-scalaz-72_sjs0.6_2.11:
+    lastUpdated: 20170208062229
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-scalaz-72_sjs0.6_2.12:
+    lastUpdated: 20170208062229
+    latest: 0.4-4d068ed
+    release: 0.4-4d068ed
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.4.1-cf0a86b
+      - 0.4.1-2862a65
+      - 0.4.1-428495f
+      - 0.4.2
+      - 0.4-4d068ed
+      - 0.4
+  shims-scalaz_2.10:
+    lastUpdated: 20160123190154
+    latest: 0.1-df9cd73
+    release: 0.1-df9cd73
+    versions:
+      - 0.1-daa4b3e
+      - 0.1-df9cd73
+  shims-scalaz_2.11:
+    lastUpdated: 20160123190156
+    latest: 0.1-df9cd73
+    release: 0.1-df9cd73
+    versions:
+      - 0.1-daa4b3e
+      - 0.1-df9cd73
+  shims_2.10:
+    lastUpdated: 20160123185341
+    latest: 0.1-df9cd73
+    release: 0.1-df9cd73
+    versions:
+      - 0.1-df9cd73
+  shims_2.11:
+    lastUpdated: 20160123185342
+    latest: 0.1-df9cd73
+    release: 0.1-df9cd73
+    versions:
+      - 0.1-df9cd73
+

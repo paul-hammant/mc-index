@@ -1,0 +1,34 @@
+artifacts:
+  tracee-context-logger-jaxws:
+    lastUpdated: 20140425164558
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-jms:
+    lastUpdated: 20140425164559
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-context-logger-servlet:
+    lastUpdated: 20140425164559
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-servlet:
+    lastUpdated: 20140425164600
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-springmvc:
+    lastUpdated: 20140425164600
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

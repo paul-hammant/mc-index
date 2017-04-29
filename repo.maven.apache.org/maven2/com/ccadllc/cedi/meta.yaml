@@ -1,0 +1,62 @@
+artifacts:
+  circuitbreaker_2.11:
+    lastUpdated: 20170110222612
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  circuitbreaker_2.12:
+    lastUpdated: 20170110222613
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  config_2.11:
+    lastUpdated: 20170110220125
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  config_2.12:
+    lastUpdated: 20170110220127
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  dtrace-core_2.11:
+    lastUpdated: 20170325030316
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  dtrace-core_2.12:
+    lastUpdated: 20170325030317
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  dtrace-logging_2.11:
+    lastUpdated: 20170325030317
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  dtrace-logging_2.12:
+    lastUpdated: 20170325030317
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+

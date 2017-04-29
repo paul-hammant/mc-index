@@ -1,0 +1,128 @@
+artifacts:
+  confluence-conveyor:
+    lastUpdated: 20151202074231
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+  confluence-conveyor-plugin-parent:
+    lastUpdated: 20141017070545
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  confluence-filtering:
+    lastUpdated: 20110104074651
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  confluence-intercom:
+    lastUpdated: 20110118184136
+    latest: 4.1.3
+    release: 4.1.3
+    versions:
+      - 4.1.3
+  confluence-metadata:
+    lastUpdated: 20151202063437
+    latest: 8.1.0
+    release: 8.1.0
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.4
+      - 5.0.5
+      - 5.0.8
+      - 5.0.9
+      - 5.0.10
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+      - 6.0.5
+      - 6.0.7
+      - 6.0.8
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+      - 7.4.1
+      - 8.0.0
+      - 8.0.1
+      - 8.0.2
+      - 8.1.0
+  confluence-metadata-compat:
+    lastUpdated: 20150514034902
+    latest: 7.4.1
+    release: 7.4.1
+    versions:
+      - 6.0.6
+      - 6.0.7
+      - 6.0.8
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+      - 7.4.1
+  confluence-metadata-parent:
+    lastUpdated: 20150514034905
+    latest: 7.4.1
+    release: 7.4.1
+    versions:
+      - 6.0.7
+      - 6.0.8
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+      - 7.4.1
+  confluence-metadata-project:
+    lastUpdated: 20150514034906
+    latest: 7.4.1
+    release: 7.4.1
+    versions:
+      - 6.0.6
+      - 6.0.7
+      - 6.0.8
+      - 6.1.0
+      - 6.1.1
+      - 6.1.2
+      - 6.2.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+      - 7.4.1
+  confluence-supplier:
+    lastUpdated: 20110118184354
+    latest: 3.1.5
+    release: 3.1.5
+    versions:
+      - 3.1.5
+

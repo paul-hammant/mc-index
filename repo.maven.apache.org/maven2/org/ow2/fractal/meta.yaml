@@ -1,0 +1,72 @@
+artifacts:
+  fractal-api-bundle:
+    lastUpdated: 20090618084833
+    latest: {}
+    release: 2.0.2.0-0002
+    versions:
+      - 2.0.2.0-0001
+      - 2.0.2.0-0002
+  fractal-libraries:
+    lastUpdated: 20090618084822
+    latest: {}
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  julia-all-bundle:
+    lastUpdated: 20090618084846
+    latest: {}
+    release: 2.5.2.0-0002
+    versions:
+      - 2.5.2.0-0001
+      - 2.5.2.0-0002
+  julia-asm-bundle:
+    lastUpdated: 20090618084854
+    latest: {}
+    release: 2.5.2.0-0002
+    versions:
+      - 2.5.2.0-0001
+      - 2.5.2.0-0002
+  julia-bundles:
+    lastUpdated: 20090618084840
+    latest: {}
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  julia-mixins-bundle:
+    lastUpdated: 20090618084904
+    latest: {}
+    release: 2.5.2.0-0002
+    versions:
+      - 2.5.2.0-0001
+      - 2.5.2.0-0002
+  julia-runtime-bundle:
+    lastUpdated: 20090618084912
+    latest: {}
+    release: 2.5.2.0-0002
+    versions:
+      - 2.5.2.0-0001
+      - 2.5.2.0-0002
+  juliac-bundles:
+    lastUpdated: 20090618084919
+    latest: {}
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  juliac-runtime-oo-bundle:
+    lastUpdated: 20090618084925
+    latest: {}
+    release: 2.2.0-0001
+    versions:
+      - 2.1.5.0-0001
+      - 2.2.0-0001
+  osgi-bundles:
+    lastUpdated: 20090618084826
+    latest: {}
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+

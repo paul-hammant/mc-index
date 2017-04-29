@@ -1,0 +1,97 @@
+artifacts:
+  portal:
+    lastUpdated: 20140122165516
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  portal-parent:
+    lastUpdated: 20140122165517
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  portal-testsuite:
+    lastUpdated: 20140122165517
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  wes:
+    lastUpdated: 20140126124908
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  wes-atmosphere2:
+    lastUpdated: 20140126124909
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  wes-jwa1:
+    lastUpdated: 20140126124909
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  wes-parent:
+    lastUpdated: 20140126124909
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  wes-play2:
+    lastUpdated: 20140126124909
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+  wes-servlet3:
+    lastUpdated: 20140126124910
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  wes-test:
+    lastUpdated: 20140126124910
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  wes-vertx2:
+    lastUpdated: 20140126124911
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+

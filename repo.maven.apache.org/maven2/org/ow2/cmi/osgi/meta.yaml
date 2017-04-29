@@ -1,0 +1,550 @@
+artifacts:
+  cmi-agent:
+    lastUpdated: 20110907080148
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-all:
+    lastUpdated: 20110907080157
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-all-standalone:
+    lastUpdated: 20110907080205
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-api:
+    lastUpdated: 20110907080210
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-api-client:
+    lastUpdated: 20110907080215
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-api-server:
+    lastUpdated: 20081007114859
+    latest: {}
+    release: 2.0.10
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+  cmi-assemblies:
+    lastUpdated: 20110907080343
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-client:
+    lastUpdated: 20110907080221
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-common:
+    lastUpdated: 20110907080227
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server:
+    lastUpdated: 20110907080230
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server-ejb2:
+    lastUpdated: 20110907080243
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server-ejb2-jgroups:
+    lastUpdated: 20110907080247
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server-ejb2-jms:
+    lastUpdated: 20110907080253
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server-jgroups:
+    lastUpdated: 20110907080235
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-core-server-jms:
+    lastUpdated: 20110907080240
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-example-base:
+    lastUpdated: 20081030110528
+    latest: {}
+    release: 2.1.0
+    versions:
+      - 2.0.10
+      - 2.1.0
+  cmi-example-server:
+    lastUpdated: 20110907080322
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-examples:
+    lastUpdated: 20110907080257
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-examples-base:
+    lastUpdated: 20110907080303
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-examples-deployment:
+    lastUpdated: 20110907080308
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-examples-deployment-country:
+    lastUpdated: 20110907080314
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-extension:
+    lastUpdated: 20081007085029
+    latest: {}
+    release: 2.0-RC8b
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+  cmi-extension-manager:
+    lastUpdated: 20081007085035
+    latest: {}
+    release: 2.0-RC8b
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+  cmi-extension-service:
+    lastUpdated: 20081007085045
+    latest: {}
+    release: 2.0-RC8b
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+  cmi-itests:
+    lastUpdated: 20110907080335
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-itests-base:
+    lastUpdated: 20110907080339
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-itests-felix:
+    lastUpdated: 20110907080622
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-loader:
+    lastUpdated: 20110907080330
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-modules:
+    lastUpdated: 20110907080140
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  cmi-osgi:
+    lastUpdated: 20110907080137
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  org-ow2-cmi-osgi-client-server:
+    lastUpdated: 20110907080348
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  org-ow2-cmi-osgi-server:
+    lastUpdated: 20110907080408
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+  org-ow2-cmi-osgi-server-ejb2:
+    lastUpdated: 20110907080413
+    latest: {}
+    release: 2.2.6
+    versions:
+      - 2.0-RC8
+      - 2.0-RC8b
+      - 2.0.10
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+

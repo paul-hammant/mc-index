@@ -1,0 +1,88 @@
+artifacts:
+  mmseg4j:
+    lastUpdated: 20150211114859
+    latest: 1.8.6
+    release: 1.8.6
+    versions:
+      - 1.8.6
+  mmseg4j-all:
+    lastUpdated: 20150211114900
+    latest: 1.8.6
+    release: 1.8.6
+    versions:
+      - 1.8.6
+  mmseg4j-all-with-dic:
+    lastUpdated: 20150211114900
+    latest: 1.8.6
+    release: 1.8.6
+    versions:
+      - 1.8.6
+  mmseg4j-analysis:
+    lastUpdated: 20150211114901
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.8.6
+      - 1.9.0
+      - 1.9.1
+  mmseg4j-core:
+    lastUpdated: 20150211114902
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.8.6
+      - 1.9.0
+      - 1.9.1
+      - 1.10.0
+  mmseg4j-core-with-dic:
+    lastUpdated: 20150211114903
+    latest: 1.8.6
+    release: 1.8.6
+    versions:
+      - 1.8.6
+  mmseg4j-dic:
+    lastUpdated: 20150211114904
+    latest: 1.8.6
+    release: 1.8.6
+    versions:
+      - 1.8.6
+  mmseg4j-for-solr:
+    lastUpdated: 20140614010122
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmseg4j-for-solr32:
+    lastUpdated: 20140614010122
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmseg4j-for-solr40:
+    lastUpdated: 20140614010123
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmseg4j-parent:
+    lastUpdated: 20130714020250
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  mmseg4j-solr:
+    lastUpdated: 20170101153950
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 1.8.6
+      - 1.9.0
+      - 1.9.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+

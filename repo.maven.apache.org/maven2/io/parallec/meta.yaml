@@ -1,0 +1,25 @@
+artifacts:
+  parallec-core:
+    lastUpdated: 20170131005228
+    latest: 0.10.4
+    release: 0.10.4
+    versions:
+      - 0.8.12-beta
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4-beta
+      - 0.10.0
+      - 0.10.1-beta
+      - 0.10.1
+      - 0.10.2
+      - 0.10.3
+      - 0.10.4
+  parallec-plugin-http-clientauth:
+    lastUpdated: 20151101211155
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+

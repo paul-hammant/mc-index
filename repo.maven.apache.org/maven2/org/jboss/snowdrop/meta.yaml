@@ -1,0 +1,540 @@
+artifacts:
+  jboss-spring-deployer:
+    lastUpdated: 20131016162421
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  modules:
+    lastUpdated: 20150227173216
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  no-deps:
+    lastUpdated: 20130812204129
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.1.1.Final
+  snowdrop:
+    lastUpdated: 20150227173217
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-aop:
+    lastUpdated: 20100422052608
+    latest: 2.0.0-M1-SP1
+    release: 2.0.0-M1-SP1
+    versions:
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+  snowdrop-cluster:
+    lastUpdated: 20110405005124
+    latest: 2.0.0-M1-SP1
+    release: 2.0.0-M1-SP1
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+  snowdrop-deployers:
+    lastUpdated: 20131016162439
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-deployers-core:
+    lastUpdated: 20130812204131
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-deployers-parent:
+    lastUpdated: 20130812204132
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-deployers-vfs2:
+    lastUpdated: 20130812204132
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-deployers-vfs3:
+    lastUpdated: 20130812204133
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-facade:
+    lastUpdated: 20131016162445
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+  snowdrop-interceptors:
+    lastUpdated: 20150227173218
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-interceptors-core:
+    lastUpdated: 20150227173219
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-interceptors-parent:
+    lastUpdated: 20150227173219
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-module-spring-2.5:
+    lastUpdated: 20150119205350
+    latest: 3.1.2.Final
+    release: 3.1.2.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+  snowdrop-module-spring-3:
+    lastUpdated: 20150119205351
+    latest: 3.1.2.Final
+    release: 3.1.2.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+  snowdrop-module-spring-3.1:
+    lastUpdated: 20150119205352
+    latest: 3.1.2.Final
+    release: 3.1.2.Final
+    versions:
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+  snowdrop-module-spring-3.2:
+    lastUpdated: 20150227173220
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-module-spring-4.0:
+    lastUpdated: 20150227173220
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-module-spring-4.1:
+    lastUpdated: 20150227173221
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-namespace:
+    lastUpdated: 20150227173221
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-parent:
+    lastUpdated: 20150227173222
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-subsystem-as7:
+    lastUpdated: 20150227173222
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-subsystem-as7-distribution:
+    lastUpdated: 20150227173223
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-subsystem-as7-parent:
+    lastUpdated: 20150227173223
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-transaction:
+    lastUpdated: 20100425224926
+    latest: 1.0.1-CR1
+    release: 1.0.1-CR1
+    versions:
+      - 1.0.1-CR1
+  snowdrop-vfs:
+    lastUpdated: 20150227173223
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  snowdrop-weaving:
+    lastUpdated: 20150227173224
+    latest: 4.0.0.Final
+    release: 4.0.0.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.GA
+      - 1.0.1-CR1
+      - 1.0.1.GA
+      - 1.1.0.GA
+      - 1.2.0.CR1
+      - 1.2.0.Final
+      - 2.0.0.Alpha1
+      - 2.0.0-M1
+      - 2.0.0-M1-SP1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+      - 2.0.3.Final
+      - 2.0.4.Final
+      - 2.0.5.Final
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 3.0.1.Final
+      - 3.0.2.Final
+      - 3.0.3.Final
+      - 3.1.0.Final
+      - 3.1.1.Final
+      - 3.1.2.Final
+      - 4.0.0.Final
+  spring-2.5:
+    lastUpdated: 20130812204153
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.1.1.Final
+  spring-3:
+    lastUpdated: 20130812204153
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.1.1.Final
+  spring-3.1:
+    lastUpdated: 20130812204153
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.1.1.Final
+  spring-3.2:
+    lastUpdated: 20130812204153
+    latest: 2.1.1.Final
+    release: 2.1.1.Final
+    versions:
+      - 2.1.1.Final
+

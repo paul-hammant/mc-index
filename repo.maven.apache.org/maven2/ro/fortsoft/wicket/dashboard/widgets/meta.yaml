@@ -1,0 +1,116 @@
+artifacts:
+  pom:
+    lastUpdated: 20121230204458
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+  wicket-dashboard-jqplot:
+    lastUpdated: 20151028142849
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+  wicket-dashboard-justgage:
+    lastUpdated: 20151028142850
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+  wicket-dashboard-loremipsum:
+    lastUpdated: 20151028142850
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+  wicket-dashboard-ofchart:
+    lastUpdated: 20151028142850
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+  wicket-dashboard-wicked-charts:
+    lastUpdated: 20151028142851
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.1
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+  wicket-dashboard-widgets-parent:
+    lastUpdated: 20151028142851
+    latest: 0.13.0+wicket-7
+    release: 0.13.0+wicket-7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.10
+      - 0.11.0
+      - 0.11.0+wicket-7
+      - 0.12.0
+      - 0.12.0+wicket-7
+      - 0.12.1+wicket-7
+      - 0.13.0
+      - 0.13.0+wicket-7
+

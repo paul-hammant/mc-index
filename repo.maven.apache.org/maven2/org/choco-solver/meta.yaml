@@ -1,0 +1,103 @@
+artifacts:
+  choco:
+    lastUpdated: 20151222132508
+    latest: 3.3.3-j7
+    release: 3.3.3-j7
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.1-j7
+      - 3.3.2
+      - 3.3.2-j7
+      - 3.3.3
+      - 3.3.3-j7
+  choco-cpviz:
+    lastUpdated: 20141205170118
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  choco-geost:
+    lastUpdated: 20151218133857
+    latest: 3.3.2
+    release: 3.3.2
+    versions:
+      - 3.3.0
+      - 3.3.2
+  choco-graph:
+    lastUpdated: 20141218112939
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  choco-gui:
+    lastUpdated: 20141205170556
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  choco-parsers:
+    lastUpdated: 20160112094524
+    latest: 3.3.3
+    release: 3.3.3
+    versions:
+      - 3.3.0
+      - 3.3.2
+      - 3.3.3
+  choco-samples:
+    lastUpdated: 20151222132508
+    latest: 3.3.3-j7
+    release: 3.3.3-j7
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.1-j7
+      - 3.3.2
+      - 3.3.2-j7
+      - 3.3.3
+      - 3.3.3-j7
+  choco-sat:
+    lastUpdated: 20160311103305
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  choco-solver:
+    lastUpdated: 20170331150206
+    latest: 4.0.3
+    release: 4.0.3
+    versions:
+      - 3.3.0
+      - 3.3.1
+      - 3.3.1-j7
+      - 3.3.2
+      - 3.3.2-j7
+      - 3.3.3
+      - 3.3.3-j7
+      - 4.0.0
+      - 4.0.0.a
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+  cutoffseq:
+    lastUpdated: 20170105123436
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  pf4cs:
+    lastUpdated: 20170120100515
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+

@@ -1,0 +1,79 @@
+artifacts:
+  interceptors:
+    lastUpdated: 20130619125258
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm:
+    lastUpdated: 20130619125258
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-assemblies:
+    lastUpdated: 20130619125258
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-core:
+    lastUpdated: 20130619125258
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-datasource:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-interceptor-jrmp:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-interceptor-ots:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-jms:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  jotm-standalone:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  ow2-jotm-dist:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+  ow2-jotm-src:
+    lastUpdated: 20130619125259
+    latest: 2.3.1-M1
+    release: 2.3.1-M1
+    versions:
+      - 2.2.3
+      - 2.3.1-M1
+

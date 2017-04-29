@@ -1,0 +1,132 @@
+artifacts:
+  java-premailer-wrapper:
+    lastUpdated: 20160830141927
+    latest: 1.1_1.8.7
+    release: 1.1_1.8.7
+    versions:
+      - 1.0_1.8.4
+      - 1.1_1.8.4
+      - 1.1_1.8.6
+      - 1.1_1.8.7
+  json4s-spire_2.11:
+    lastUpdated: 20160115081257
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  mdc-async_2.11:
+    lastUpdated: 20160727102709
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  scala-json-ast_2.10:
+    lastUpdated: 20170408105126
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_2.11:
+    lastUpdated: 20170408105126
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_2.12:
+    lastUpdated: 20170408105127
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_2.12.0-RC1:
+    lastUpdated: 20161013121400
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M3
+  scala-json-ast_sjs0.6_2.10:
+    lastUpdated: 20170408105127
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_sjs0.6_2.11:
+    lastUpdated: 20170408105127
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_sjs0.6_2.12:
+    lastUpdated: 20170408105128
+    latest: 1.0.0-M8
+    release: 1.0.0-M8
+    versions:
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+  scala-json-ast_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20161013121401
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M3
+  stripe-scala_2.11:
+    lastUpdated: 20170416094538
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  utforsca_2.10:
+    lastUpdated: 20160205054048
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  utforsca_2.11:
+    lastUpdated: 20160205054048
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+

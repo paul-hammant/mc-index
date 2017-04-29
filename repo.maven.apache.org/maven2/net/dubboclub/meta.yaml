@@ -1,0 +1,95 @@
+artifacts:
+  DubboM:
+    lastUpdated: 20160329093418
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  DubboM-all:
+    lastUpdated: 20160329093418
+    latest: BF-EF-1.0.0
+    release: BF-EF-1.0.0
+    versions:
+      - BE-FE-1.0.1
+      - BF-EF-1.0.0
+  akka:
+    lastUpdated: 20151011101137
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  akka-protocol:
+    lastUpdated: 20151011101137
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  akka-remoting:
+    lastUpdated: 20151011101138
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  cache:
+    lastUpdated: 20151210090926
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.6
+  cricuitbreaker:
+    lastUpdated: 20151210090926
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.6
+  dubbo-generator:
+    lastUpdated: 20151210090927
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.4
+      - 0.0.6
+  dubbo-plus:
+    lastUpdated: 20151210090927
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.6
+  dubbo-plus-all:
+    lastUpdated: 20151011101140
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  netty4:
+    lastUpdated: 20151210090927
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.6
+

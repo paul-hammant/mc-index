@@ -1,0 +1,2054 @@
+artifacts:
+  SampleGateway:
+    lastUpdated: 20131231020823
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata:
+    lastUpdated: 20160718044424
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-api:
+    lastUpdated: 20160718044424
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-api-server:
+    lastUpdated: 20160718044424
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-api-stubs:
+    lastUpdated: 20160718044425
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-client-api:
+    lastUpdated: 20150109023641
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-client-configuration:
+    lastUpdated: 20160718044425
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-client-parent:
+    lastUpdated: 20150109023644
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-client-sample:
+    lastUpdated: 20131231020909
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-client-samples:
+    lastUpdated: 20160718044426
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-client-sdks:
+    lastUpdated: 20160718044426
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-common-registry-api:
+    lastUpdated: 20120801204523
+    latest: 0.4-incubating
+    release: 0.4-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+  airavata-common-utils:
+    lastUpdated: 20151208182421
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-commons:
+    lastUpdated: 20160718044426
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-complex-math-service:
+    lastUpdated: 20131231020904
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-configuration:
+    lastUpdated: 20160718044427
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-credential-store:
+    lastUpdated: 20160718044427
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-credential-store-service:
+    lastUpdated: 20150109023649
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.13
+      - 0.14
+      - 0.13
+      - 0.14
+  airavata-credential-store-stubs:
+    lastUpdated: 20160718044428
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  airavata-credential-store-webapp:
+    lastUpdated: 20150109023651
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.13
+      - 0.14
+      - 0.13
+      - 0.14
+  airavata-data-models:
+    lastUpdated: 20160718044428
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-embedded-tomcat:
+    lastUpdated: 20131231020907
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-gfac:
+    lastUpdated: 20160718044429
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-gfac-application-specific-handlers:
+    lastUpdated: 20160718044429
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  airavata-gfac-axis2-interface:
+    lastUpdated: 20130129195902
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.5
+      - 0.6
+  airavata-gfac-bes:
+    lastUpdated: 20151208182425
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.15
+  airavata-gfac-client:
+    lastUpdated: 20160718044429
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-gfac-core:
+    lastUpdated: 20160718044430
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-gfac-ec2:
+    lastUpdated: 20150109023656
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-gfac-email-monitor:
+    lastUpdated: 20151208182427
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.15
+      - 0.15
+  airavata-gfac-gram:
+    lastUpdated: 20140808221159
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.12
+      - 0.13
+      - 0.12
+      - 0.13
+  airavata-gfac-gsissh:
+    lastUpdated: 20151208182428
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-gfac-hadoop:
+    lastUpdated: 20140808221200
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.12
+      - 0.13
+      - 0.12
+      - 0.13
+  airavata-gfac-hpc-monitor:
+    lastUpdated: 20151208182429
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-gfac-impl:
+    lastUpdated: 20160718044430
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-gfac-local:
+    lastUpdated: 20151208182429
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-gfac-monitor:
+    lastUpdated: 20151208182430
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.15
+      - 0.15
+  airavata-gfac-schema-utils:
+    lastUpdated: 20150109023722
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-gfac-service:
+    lastUpdated: 20160718044430
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-gfac-ssh:
+    lastUpdated: 20151208182431
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-gfac-stubs:
+    lastUpdated: 20151208182432
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.14
+      - 0.15
+      - 0.14
+      - 0.15
+  airavata-interpreter-service:
+    lastUpdated: 20131231020829
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.11
+      - 0.11
+  airavata-interpreter-service-client:
+    lastUpdated: 20131231020822
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.11
+      - 0.11
+  airavata-interpreter-service-handler:
+    lastUpdated: 20131231020909
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.11
+      - 0.11
+  airavata-jpa-registry:
+    lastUpdated: 20151208182433
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-levenshtein-distance-service:
+    lastUpdated: 20131231020826
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-message-box:
+    lastUpdated: 20131231020906
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-message-broker:
+    lastUpdated: 20131231020829
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-message-monitor:
+    lastUpdated: 20150109023730
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-messaging-client:
+    lastUpdated: 20160718044431
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  airavata-messaging-core:
+    lastUpdated: 20160718044432
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-messenger-client:
+    lastUpdated: 20150109023732
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-messenger-commons:
+    lastUpdated: 20150109023732
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-model-utils:
+    lastUpdated: 20160718044432
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-monitoring:
+    lastUpdated: 20160718044433
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-orchestrator-client:
+    lastUpdated: 20160718044433
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-orchestrator-client-sdks:
+    lastUpdated: 20140808221202
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.12
+      - 0.13
+      - 0.12
+      - 0.13
+  airavata-orchestrator-core:
+    lastUpdated: 20160718044434
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-orchestrator-service:
+    lastUpdated: 20160718044434
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-orchestrator-stubs:
+    lastUpdated: 20151208182447
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.14
+      - 0.15
+      - 0.14
+      - 0.15
+  airavata-phoebus-integration:
+    lastUpdated: 20131231020911
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-registry-api:
+    lastUpdated: 20140808221203
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+  airavata-registry-core:
+    lastUpdated: 20160718044434
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-registry-cpi:
+    lastUpdated: 20160718044435
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-registry-migrator:
+    lastUpdated: 20120801204517
+    latest: 0.4-incubating
+    release: 0.4-incubating
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+  airavata-registry-service:
+    lastUpdated: 20131231020909
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-registry-test:
+    lastUpdated: 20131231020827
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-registry-tools:
+    lastUpdated: 20160718044435
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-rest-client:
+    lastUpdated: 20131231020825
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-rest-mappings:
+    lastUpdated: 20131231020823
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-rest-service-webapp:
+    lastUpdated: 20131231020826
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-rest-services:
+    lastUpdated: 20131231020908
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-security:
+    lastUpdated: 20160718044435
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-server-configuration:
+    lastUpdated: 20160718044436
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-simple-math-service:
+    lastUpdated: 20131231020903
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-standalone-server:
+    lastUpdated: 20160718044436
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  airavata-test-suite:
+    lastUpdated: 20160718044436
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  airavata-tools-parent:
+    lastUpdated: 20151208182502
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  airavata-workflow-core:
+    lastUpdated: 20160718044437
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  airavata-workflow-engine:
+    lastUpdated: 20150109023745
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.14
+      - 0.14
+  airavata-workflow-execution-context:
+    lastUpdated: 20150109023746
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-workflow-model-component:
+    lastUpdated: 20150109023747
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+  airavata-workflow-model-component-node:
+    lastUpdated: 20131231020820
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  airavata-workflow-model-core:
+    lastUpdated: 20150109023748
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-workflow-model-parent:
+    lastUpdated: 20150109023749
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-workflow-tracking:
+    lastUpdated: 20150109023750
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-ws-messenger:
+    lastUpdated: 20150109023750
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  airavata-xbaya-gui:
+    lastUpdated: 20150109023752
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+  apache-airavata-client:
+    lastUpdated: 20131231020901
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  apache-airavata-client-cpp-sdk:
+    lastUpdated: 20160718044437
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  apache-airavata-client-java-sdk:
+    lastUpdated: 20150109023754
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.12
+      - 0.13
+      - 0.14
+  apache-airavata-client-php-sdk:
+    lastUpdated: 20160718044437
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  apache-airavata-client-python-sdk:
+    lastUpdated: 20160718044437
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  apache-airavata-distribution:
+    lastUpdated: 20160718044438
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  apache-airavata-release-artifacts:
+    lastUpdated: 20151208182505
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  apache-airavata-samples:
+    lastUpdated: 20131231020828
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  apache-airavata-server:
+    lastUpdated: 20151208182508
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  apache-airavata-xbaya-gui:
+    lastUpdated: 20150109023846
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+  apache-api-server:
+    lastUpdated: 20150109023900
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.14
+      - 0.14
+  apache-gfac-server:
+    lastUpdated: 20150109023904
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.14
+      - 0.14
+  apache-orchestrator-server:
+    lastUpdated: 20150109023913
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.14
+      - 0.14
+  app-catalog:
+    lastUpdated: 20151208182511
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  app-catalog-cpi:
+    lastUpdated: 20151208182512
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.13
+      - 0.14
+      - 0.15
+  app-catalog-data:
+    lastUpdated: 20151208182513
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.13
+      - 0.14
+      - 0.15
+  app-catalog-jpa:
+    lastUpdated: 20140628005703
+    latest: 0.12
+    release: 0.12
+    versions:
+      - 0.12
+      - 0.12
+  common-utils:
+    lastUpdated: 20120505125404
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  commons:
+    lastUpdated: 20151208182516
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  complex-math-service:
+    lastUpdated: 20120505125405
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  credential-store:
+    lastUpdated: 20160718044447
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  distribution:
+    lastUpdated: 20151208182524
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  echo-service:
+    lastUpdated: 20131231020828
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  gfac:
+    lastUpdated: 20151208182527
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  gfac-axis2-interface:
+    lastUpdated: 20120505125405
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  gfac-core:
+    lastUpdated: 20120505125403
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  gfac-schema-utils:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  gsissh:
+    lastUpdated: 20151208182529
+    latest: 0.15
+    release: 0.15
+    versions:
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+  integration-tests:
+    lastUpdated: 20150109024026
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.14
+  jpa-gen:
+    lastUpdated: 20160718044447
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  json:
+    lastUpdated: 20131231020826
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  levenshtein-distance-service:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  messagebox:
+    lastUpdated: 20120505125403
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  messagebroker:
+    lastUpdated: 20120505125404
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  messaging:
+    lastUpdated: 20160718044447
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.14
+      - 0.15
+      - 0.16
+  messenger-client:
+    lastUpdated: 20120505125402
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  messenger-commons:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  multi-tenanted-airavata:
+    lastUpdated: 20160718044448
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.15
+      - 0.16
+      - 0.15
+      - 0.16
+  orchestrator:
+    lastUpdated: 20160718044449
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  registry:
+    lastUpdated: 20160718044449
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  registry-api:
+    lastUpdated: 20120505125403
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  registry-tool:
+    lastUpdated: 20160718044450
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.15
+      - 0.16
+  rest:
+    lastUpdated: 20131231020904
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  samples:
+    lastUpdated: 20131231020823
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.9
+      - 0.1
+      - 0.11
+  samples-create-application:
+    lastUpdated: 20131231020827
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  samples-workflow-run:
+    lastUpdated: 20131231020822
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+  simple-math-service:
+    lastUpdated: 20120505125404
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  test-suite:
+    lastUpdated: 20150109024040
+    latest: 0.14
+    release: 0.14
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+      - 0.4-incubating
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11
+      - 0.12
+      - 0.13
+      - 0.14
+  thrift:
+    lastUpdated: 20131231020858
+    latest: 0.11
+    release: 0.11
+    versions:
+      - 0.11
+      - 0.11
+  user-profile:
+    lastUpdated: 20160718044450
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  user-profile-core:
+    lastUpdated: 20160718044450
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  user-profile-cpi:
+    lastUpdated: 20160718044450
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  workflow:
+    lastUpdated: 20160718044451
+    latest: 0.16
+    release: 0.16
+    versions:
+      - 0.16
+      - 0.16
+  workflow-execution-context:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  workflowtracking:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  ws-messenger:
+    lastUpdated: 20120505125407
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  ws-messenger-distribution:
+    lastUpdated: 20120505125406
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+  xbaya-gui:
+    lastUpdated: 20120505125402
+    latest: 0.2-incubating
+    release: 0.2-incubating
+    versions:
+      - 0.2-incubating
+

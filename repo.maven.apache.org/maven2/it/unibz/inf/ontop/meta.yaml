@@ -1,0 +1,205 @@
+artifacts:
+  ontop:
+    lastUpdated: 20160526125638
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.1
+  ontop-cli:
+    lastUpdated: 20160526125638
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+  ontop-docker-test-env:
+    lastUpdated: 20160526125639
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+  ontop-obdalib-core:
+    lastUpdated: 20160526125639
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.1
+  ontop-obdalib-owlapi:
+    lastUpdated: 20160526125639
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.17.0
+      - 1.18.0
+  ontop-obdalib-owlapi3:
+    lastUpdated: 20151119130122
+    latest: 1.16.1
+    release: 1.16.1
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.1
+  ontop-obdalib-r2rml:
+    lastUpdated: 20160526125640
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+  ontop-obdalib-sesame:
+    lastUpdated: 20160526125641
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.1
+  ontop-protege:
+    lastUpdated: 20160526125641
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.17.0
+      - 1.18.0
+  ontop-protege4:
+    lastUpdated: 20151119130126
+    latest: 1.16.1
+    release: 1.16.1
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.1
+  ontop-quest-db:
+    lastUpdated: 20160526125642
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.1
+  ontop-quest-owlapi:
+    lastUpdated: 20160526125643
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.17.0
+      - 1.18.0
+  ontop-quest-owlapi3:
+    lastUpdated: 20151119130128
+    latest: 1.16.1
+    release: 1.16.1
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.1
+  ontop-quest-sesame:
+    lastUpdated: 20160526125643
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.1
+  ontop-reformulation-core:
+    lastUpdated: 20160526125644
+    latest: 1.18.0
+    release: 1.18.0
+    versions:
+      - 1.1
+      - 1.11.0
+      - 1.12.0
+      - 1.13.0
+      - 1.13.1
+      - 1.14.0
+      - 1.15.0
+      - 1.16.0
+      - 1.16.1
+      - 1.17.0
+      - 1.18.0
+      - 1.10
+

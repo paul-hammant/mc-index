@@ -1,0 +1,51 @@
+artifacts:
+  bp-build:
+    lastUpdated: 20150909154423
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  bp-parent:
+    lastUpdated: 20151103100919
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  hal-client:
+    lastUpdated: 20161228165752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hal-client-parent:
+    lastUpdated: 20161228165752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hal-client-test-client:
+    lastUpdated: 20161228165752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hal-client-test-it:
+    lastUpdated: 20161228165752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hal-client-test-parent:
+    lastUpdated: 20161228165752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  hal-client-test-server:
+    lastUpdated: 20161228165753
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

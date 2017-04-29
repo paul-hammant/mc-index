@@ -1,0 +1,27 @@
+artifacts:
+  burlap:
+    lastUpdated: 20160803231158
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 3.0.0
+      - 3.0.1
+  burlap_rosbridge:
+    lastUpdated: 20160823145013
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+  java_rosbridge:
+    lastUpdated: 20160330151359
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+

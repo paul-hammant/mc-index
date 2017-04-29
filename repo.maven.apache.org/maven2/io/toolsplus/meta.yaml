@@ -1,0 +1,45 @@
+artifacts:
+  atlassian-connect-play-api_2.11:
+    lastUpdated: 20170410034602
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  atlassian-connect-play-core_2.11:
+    lastUpdated: 20170410034602
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  atlassian-connect-play-slick_2.11:
+    lastUpdated: 20170325035118
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  atlassian-jwt-api_2.11:
+    lastUpdated: 20170327022420
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  atlassian-jwt-core_2.11:
+    lastUpdated: 20170327022420
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  atlassian-jwt-generators_2.11:
+    lastUpdated: 20170327022421
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+

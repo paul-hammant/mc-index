@@ -1,0 +1,61 @@
+artifacts:
+  torch-android:
+    lastUpdated: 20141124223846
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0.0-alpha.3
+  torch-api:
+    lastUpdated: 20141124223847
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0-alpha-01
+      - 1.0.0-alpha.3
+  torch-bridge:
+    lastUpdated: 20140319230450
+    latest: 1.0-alpha-01
+    release: 1.0-alpha-01
+    versions:
+      - 1.0-alpha-01
+  torch-compiler:
+    lastUpdated: 20141124223848
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0-alpha-01
+      - 1.0.0-alpha.3
+  torch-compiler-spi:
+    lastUpdated: 20141124223848
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0-alpha-01
+      - 1.0.0-alpha.3
+  torch-core:
+    lastUpdated: 20141124223849
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0-alpha-01
+      - 1.0.0-alpha.3
+  torch-parent:
+    lastUpdated: 20141124223849
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0-alpha-01
+      - 1.0.0-alpha.3
+  torch-testing-utils:
+    lastUpdated: 20141124223850
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0.0-alpha.3
+  torch-tests:
+    lastUpdated: 20141124223850
+    latest: 1.0.0-alpha.3
+    release: 1.0.0-alpha.3
+    versions:
+      - 1.0.0-alpha.3
+

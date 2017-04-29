@@ -1,0 +1,98 @@
+artifacts:
+  aaa-core:
+    lastUpdated: 20170418072630
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.1
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+  genie:
+    lastUpdated: 20170326123952
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  osgl-cache:
+    lastUpdated: 20170326123953
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.1
+      - 0.4.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  osgl-http:
+    lastUpdated: 20170418072631
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.3.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  osgl-logging:
+    lastUpdated: 20170326123953
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.6.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  osgl-mvc:
+    lastUpdated: 20170423125349
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  osgl-storage:
+    lastUpdated: 20170418072631
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.2
+      - 0.7.3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  osgl-tool:
+    lastUpdated: 20170420054254
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.2
+      - 0.9.2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  osgl-tool-ext:
+    lastUpdated: 20170326123954
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.0.1
+      - 1.0.0
+      - 1.0.1
+  spring-aaa:
+    lastUpdated: 20140223125444
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

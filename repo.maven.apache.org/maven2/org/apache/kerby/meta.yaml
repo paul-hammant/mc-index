@@ -1,0 +1,265 @@
+artifacts:
+  benchmark:
+    lastUpdated: 20160311024526
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  client-tool:
+    lastUpdated: 20160311024527
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  integration-test:
+    lastUpdated: 20160311024528
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  json-backend:
+    lastUpdated: 20160311024529
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kdc-dist:
+    lastUpdated: 20160311024530
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kdc-tool:
+    lastUpdated: 20160311024530
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-admin:
+    lastUpdated: 20160311024535
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-client:
+    lastUpdated: 20160311024536
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-client-api-all:
+    lastUpdated: 20160311024536
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-common:
+    lastUpdated: 20160311024536
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-core:
+    lastUpdated: 20160311024536
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-core-test:
+    lastUpdated: 20150916190857
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  kerb-crypto:
+    lastUpdated: 20160311024537
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-identity:
+    lastUpdated: 20160311024538
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-identity-test:
+    lastUpdated: 20160311024538
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-kdc-test:
+    lastUpdated: 20160311024538
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-server:
+    lastUpdated: 20160311024539
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-server-api-all:
+    lastUpdated: 20160311024539
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-simplekdc:
+    lastUpdated: 20160311024540
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerb-util:
+    lastUpdated: 20160311024541
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-all:
+    lastUpdated: 20160311024542
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-asn1:
+    lastUpdated: 20160311024542
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-backend:
+    lastUpdated: 20160311024542
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-common:
+    lastUpdated: 20160311024543
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC2
+  kerby-config:
+    lastUpdated: 20160311024543
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-dist:
+    lastUpdated: 20160311024543
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-kdc:
+    lastUpdated: 20160311024543
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-kdc-test:
+    lastUpdated: 20160311024544
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-kerb:
+    lastUpdated: 20160311024544
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-pkix:
+    lastUpdated: 20160311024544
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC2
+  kerby-provider:
+    lastUpdated: 20160311024544
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-tool:
+    lastUpdated: 20160311024544
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  kerby-util:
+    lastUpdated: 20160311024545
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  ldap-backend:
+    lastUpdated: 20160311024545
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  mavibot-backend:
+    lastUpdated: 20160311024545
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  token-provider:
+    lastUpdated: 20160311024546
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  tool-dist:
+    lastUpdated: 20160311024546
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  zookeeper-backend:
+    lastUpdated: 20160311024546
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+

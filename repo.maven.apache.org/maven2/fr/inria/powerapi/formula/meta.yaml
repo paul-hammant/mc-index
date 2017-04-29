@@ -1,0 +1,101 @@
+artifacts:
+  formula-cpu-api:
+    lastUpdated: 20130322233247
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  formula-cpu-dvfs:
+    lastUpdated: 20130322233248
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.4
+      - 1.5
+      - 1.4
+      - 1.5
+  formula-cpu-general:
+    lastUpdated: 20121030170849
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.1
+      - 1.2
+      - 1.3
+  formula-cpu-max:
+    lastUpdated: 20130322233249
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.4
+      - 1.5
+      - 1.4
+      - 1.5
+  formula-disk-api:
+    lastUpdated: 20130322233250
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  formula-disk-single:
+    lastUpdated: 20130322233254
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  formula-mem-api:
+    lastUpdated: 20130322233256
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  formula-mem-single:
+    lastUpdated: 20130322233258
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  formula-powerspy:
+    lastUpdated: 20130322233300
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+

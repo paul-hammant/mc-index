@@ -1,0 +1,40 @@
+artifacts:
+  gw-asm-all:
+    lastUpdated: 20151105235229
+    latest: 5.0.4
+    release: 5.0.4
+    versions:
+      - 5.0.4
+  gw-asm-debug-all:
+    lastUpdated: 20160407225524
+    latest: 5.0.4
+    release: 5.0.4
+    versions:
+      - 5.0.4
+  gw-asm-util:
+    lastUpdated: 20150618230104
+    latest: 5.0.4
+    release: 5.0.4
+    versions:
+      - 5.0.4
+  gw-commons-cli:
+    lastUpdated: 20150618230325
+    latest: 1.2-1
+    release: 1.2-1
+    versions:
+      - 1.2-1
+  gw-jcommander:
+    lastUpdated: 20160830225644
+    latest: 1.48
+    release: 1.48
+    versions:
+      - 1.48
+      - 1.48
+  parent:
+    lastUpdated: 20150622215201
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

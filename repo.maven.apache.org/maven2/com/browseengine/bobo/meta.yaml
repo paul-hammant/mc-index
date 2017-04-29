@@ -1,0 +1,51 @@
+artifacts:
+  bobo-browse:
+    lastUpdated: 20140218093400
+    latest: 4.0.2
+    release: 4.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+  bobo-contrib:
+    lastUpdated: 20130325040649
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.1.0
+      - 3.2.0
+  bobo-parent:
+    lastUpdated: 20140218093401
+    latest: 4.0.2
+    release: 4.0.2
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+  bobo-solr:
+    lastUpdated: 20130325040654
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+  cardemo:
+    lastUpdated: 20130325040655
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+

@@ -1,0 +1,29 @@
+artifacts:
+  geodesy:
+    lastUpdated: 20140224140020
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  giscore:
+    lastUpdated: 20131004150643
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  solr-text-tagger:
+    lastUpdated: 20170212044021
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+

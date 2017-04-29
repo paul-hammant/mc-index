@@ -1,0 +1,277 @@
+artifacts:
+  apache-atlas:
+    lastUpdated: 20170317065843
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-authorization:
+    lastUpdated: 20170317065844
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-buildtools:
+    lastUpdated: 20170317065844
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-catalog:
+    lastUpdated: 20170317065845
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-client:
+    lastUpdated: 20170317065845
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-common:
+    lastUpdated: 20170317065845
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-dashboard:
+    lastUpdated: 20160622094915
+    latest: 0.6-incubating
+    release: 0.6-incubating
+    versions:
+      - 0.6-incubating
+  atlas-dashboardv2:
+    lastUpdated: 20170317065846
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-distro:
+    lastUpdated: 20170317065846
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-docs:
+    lastUpdated: 20170317065847
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-graphdb:
+    lastUpdated: 20170317065847
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-graphdb-api:
+    lastUpdated: 20170317065847
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-graphdb-common:
+    lastUpdated: 20170317065848
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-graphdb-impls:
+    lastUpdated: 20170317065848
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-graphdb-titan0:
+    lastUpdated: 20170317065851
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-graphdb-titan1:
+    lastUpdated: 20170317065852
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-hbase-client-shaded:
+    lastUpdated: 20170317065855
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-hbase-server-shaded:
+    lastUpdated: 20170317065856
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-intg:
+    lastUpdated: 20170317065859
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.8-incubating
+  atlas-notification:
+    lastUpdated: 20170317065900
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-plugin-classloader:
+    lastUpdated: 20170317065900
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-repository:
+    lastUpdated: 20170317065901
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-server-api:
+    lastUpdated: 20170317065901
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-titan:
+    lastUpdated: 20170130002849
+    latest: 0.7.1-incubating
+    release: 0.7.1-incubating
+    versions:
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+  atlas-typesystem:
+    lastUpdated: 20170317065902
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  atlas-webapp:
+    lastUpdated: 20170317065911
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  falcon-bridge:
+    lastUpdated: 20170317065912
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  falcon-bridge-shim:
+    lastUpdated: 20170317065912
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7.1-incubating
+      - 0.8-incubating
+  hdfs-model:
+    lastUpdated: 20170317065913
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  hive-bridge:
+    lastUpdated: 20170317065913
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.5-incubating
+      - 0.6-incubating
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  hive-bridge-shim:
+    lastUpdated: 20170317065913
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7.1-incubating
+      - 0.8-incubating
+  sqoop-bridge:
+    lastUpdated: 20170317065914
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  sqoop-bridge-shim:
+    lastUpdated: 20170317065914
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7.1-incubating
+      - 0.8-incubating
+  storm-bridge:
+    lastUpdated: 20170317065915
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7-incubating
+      - 0.7.1-incubating
+      - 0.8-incubating
+  storm-bridge-shim:
+    lastUpdated: 20170317065915
+    latest: 0.8-incubating
+    release: 0.8-incubating
+    versions:
+      - 0.7.1-incubating
+      - 0.8-incubating
+

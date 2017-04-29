@@ -1,0 +1,406 @@
+artifacts:
+  mmm:
+    lastUpdated: 20160707065502
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  mmm-content-parser:
+    lastUpdated: 20101122070711
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-content-parser-api:
+    lastUpdated: 20101207105227
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-generic:
+    lastUpdated: 20101207105217
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-html:
+    lastUpdated: 20101207105221
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-java:
+    lastUpdated: 20101207105223
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-opendoc:
+    lastUpdated: 20101207105215
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-pdf:
+    lastUpdated: 20101207105224
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-poi:
+    lastUpdated: 20101207105224
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-text:
+    lastUpdated: 20101207105222
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-impl-xml:
+    lastUpdated: 20101207105218
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-content-parser-service:
+    lastUpdated: 20101207105219
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-l10n-ALL:
+    lastUpdated: 20160804211356
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  mmm-l10n-bom:
+    lastUpdated: 20160804211356
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  mmm-l10n-de:
+    lastUpdated: 20160804211356
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  mmm-l10n-es:
+    lastUpdated: 20160804211356
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  mmm-l10n-fr:
+    lastUpdated: 20160804211356
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+  mmm-persistence:
+    lastUpdated: 20130102170934
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-persistence-api:
+    lastUpdated: 20140615153831
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-persistence-impl-hibernate:
+    lastUpdated: 20140615153832
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-persistence-impl-jpa:
+    lastUpdated: 20140615153832
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-persistence-query-api:
+    lastUpdated: 20130102170934
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  mmm-persistence-query-impl:
+    lastUpdated: 20130102171042
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  mmm-search:
+    lastUpdated: 20101122073327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-search-engine:
+    lastUpdated: 20101122073330
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-search-engine-api:
+    lastUpdated: 20101207111044
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-search-engine-impl-lucene:
+    lastUpdated: 20101207111049
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-search-engine-webapp:
+    lastUpdated: 20101207111047
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-search-indexer:
+    lastUpdated: 20101122073329
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-search-indexer-api:
+    lastUpdated: 20101207114056
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-search-indexer-base:
+    lastUpdated: 20101207114052
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-search-indexer-impl-lucene:
+    lastUpdated: 20101207114051
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-transaction:
+    lastUpdated: 20130102170934
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-transaction-api:
+    lastUpdated: 20140615153832
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-transaction-impl-jpa:
+    lastUpdated: 20130102170934
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  mmm-transaction-impl-spring:
+    lastUpdated: 20140615153833
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mmm-util:
+    lastUpdated: 20080609185408
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  mmm-util-backport-java.util.function:
+    lastUpdated: 20131211195245
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  mmm-util-bom:
+    lastUpdated: 20170321074443
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-cli:
+    lastUpdated: 20170321074443
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 5.0.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-context:
+    lastUpdated: 20170321074443
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-core:
+    lastUpdated: 20170321074444
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 4.0.0
+      - 5.0.0
+      - 6.0.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-entity:
+    lastUpdated: 20170321074444
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-event:
+    lastUpdated: 20170321074444
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-gwt:
+    lastUpdated: 20170321074445
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 5.0.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-io:
+    lastUpdated: 20170321074446
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 5.0.0
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-json:
+    lastUpdated: 20170321074446
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.4.0
+  mmm-util-pojo:
+    lastUpdated: 20170321074446
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-search:
+    lastUpdated: 20170321074447
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-test:
+    lastUpdated: 20170321074447
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.0.0
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-validation:
+    lastUpdated: 20170321074447
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+  mmm-util-version:
+    lastUpdated: 20170321074448
+    latest: 7.4.0
+    release: 7.4.0
+    versions:
+      - 7.1.0
+      - 7.2.0
+      - 7.3.0
+      - 7.4.0
+

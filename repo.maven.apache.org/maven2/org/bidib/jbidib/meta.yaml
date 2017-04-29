@@ -1,0 +1,286 @@
+artifacts:
+  bidib-rxtx-binaries:
+    lastUpdated: 20140213083026
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  bidibwizard:
+    lastUpdated: 20170102155550
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  bidibwizard-common:
+    lastUpdated: 20170102155551
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  bidibwizard-installer:
+    lastUpdated: 20170102155552
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  bidibwizard-installer-panel:
+    lastUpdated: 20170102155552
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  bidibwizard-migration:
+    lastUpdated: 20170102155552
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  jbidib-parent:
+    lastUpdated: 20170102151142
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  jbidibc:
+    lastUpdated: 20170102151142
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  jbidibc-assembly:
+    lastUpdated: 20170102151142
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3.1
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.4
+  jbidibc-debug:
+    lastUpdated: 20170102151143
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-decoder:
+    lastUpdated: 20170102151143
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  jbidibc-exchange:
+    lastUpdated: 20170102151144
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-experimental:
+    lastUpdated: 20170102151144
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  jbidibc-net:
+    lastUpdated: 20170102151144
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-pomupdate:
+    lastUpdated: 20170102151145
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-rxtx:
+    lastUpdated: 20170102151145
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  jbidibc-rxtx-2.2:
+    lastUpdated: 20140416173527
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  jbidibc-scm:
+    lastUpdated: 20170102151146
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+  jbidibc-serial:
+    lastUpdated: 20170102151146
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-simulation:
+    lastUpdated: 20170102151146
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  jbidibc-tools:
+    lastUpdated: 20170102151147
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+  jbidibc-ui:
+    lastUpdated: 20170102151147
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+  wizard:
+    lastUpdated: 20170102155552
+    latest: 1.9.1
+    release: 1.9.1
+    versions:
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.3
+      - 1.4
+

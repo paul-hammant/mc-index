@@ -1,0 +1,382 @@
+artifacts:
+  blade:
+    lastUpdated: 20150706082200
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.9
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  blade-aop:
+    lastUpdated: 20151211075012
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  blade-beetl:
+    lastUpdated: 20151014103901
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2
+  blade-cache:
+    lastUpdated: 20150906051502
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2
+  blade-core:
+    lastUpdated: 20170320085137
+    latest: 1.7.2-beta
+    release: 1.7.2-beta
+    versions:
+      - 1.1.4
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5-alpha
+      - 1.2.5-beta
+      - 1.2.5
+      - 1.2.6-alpha
+      - 1.2.6-beta
+      - 1.2.6
+      - 1.2.7-alpha
+      - 1.2.7-beta
+      - 1.2.7
+      - 1.2.8-alpha
+      - 1.2.8-beta
+      - 1.2.8
+      - 1.2.9-alpha
+      - 1.2.9-beta
+      - 1.2.9
+      - 1.3.0-alpha
+      - 1.4.0-alpha
+      - 1.4.0-beta
+      - 1.4.0
+      - 1.4.1-alpha
+      - 1.4.1-beta
+      - 1.4.1
+      - 1.4.2-alpha
+      - 1.4.2-beta
+      - 1.4.2
+      - 1.4.3-alpha
+      - 1.5.0-alpha
+      - 1.5.0-beta
+      - 1.5.0
+      - 1.5.1-alpha
+      - 1.5.1-beta
+      - 1.5.1
+      - 1.6.0-alpha
+      - 1.6.0-beta1
+      - 1.6.0M1
+      - 1.6.0M2
+      - 1.6.0
+      - 1.6.1M1
+      - 1.6.1M2
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+      - 1.6.5
+      - 1.6.6-alpha
+      - 1.6.6-beta
+      - 1.6.6
+      - 1.6.7-alpha
+      - 1.6.7-beta
+      - 1.7.0-alpha
+      - 1.7.0-beta
+      - 1.7.0
+      - 1.7.1-alpha
+      - 1.7.1-beta
+      - 1.7.1-release
+      - 1.7.2-alpha
+      - 1.7.2-beta
+      - 1.2
+  blade-embed-jetty:
+    lastUpdated: 20170315032704
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  blade-jdbc:
+    lastUpdated: 20170416085617
+    latest: 0.1.6-beta
+    release: 0.1.6-beta
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3-alpha
+      - 0.1.3-beta
+      - 0.1.4-alpha
+      - 0.1.5
+      - 0.1.6-alpha
+      - 0.1.6-beta
+  blade-jetbrick:
+    lastUpdated: 20151021084204
+    latest: 1.2.6
+    release: 1.2.6
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2
+  blade-kit:
+    lastUpdated: 20170308112222
+    latest: 1.4.1-beta
+    release: 1.4.1-beta
+    versions:
+      - 1.0.0
+      - 1.0.8
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.2
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5-beta
+      - 1.2.5
+      - 1.2.6-alpha
+      - 1.2.6-beta
+      - 1.2.6
+      - 1.2.7-alpha
+      - 1.2.7-beta
+      - 1.2.7
+      - 1.2.8-alpha
+      - 1.2.8-beta
+      - 1.2.8
+      - 1.2.9-alpha
+      - 1.2.9-beta
+      - 1.2.9
+      - 1.3.0M1
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.4.0-alpha
+      - 1.4.0-beta
+      - 1.4.0
+      - 1.4.1-alpha
+      - 1.4.1-beta
+      - 1.2
+  blade-oauth2:
+    lastUpdated: 20151211081526
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  blade-patchca:
+    lastUpdated: 20170103052745
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  blade-redis:
+    lastUpdated: 20151014103922
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2
+  blade-render-beetl:
+    lastUpdated: 20150615091541
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  blade-render-jetbrick:
+    lastUpdated: 20150623144353
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.1
+      - 1.0.4
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+  blade-render-velocity:
+    lastUpdated: 20150615093148
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.1
+      - 1.0.4
+  blade-root:
+    lastUpdated: 20150709070709
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  blade-sample:
+    lastUpdated: 20151109072300
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  blade-sql2o:
+    lastUpdated: 20151224052230
+    latest: 1.3.0-alpha
+    release: 1.3.0-alpha
+    versions:
+      - 1.0.2
+      - 1.0.4
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6-alpha
+      - 1.2.6-beta
+      - 1.2.6
+      - 1.2.7-alpha
+      - 1.2.7-beta
+      - 1.2.7
+      - 1.2.8-alpha
+      - 1.2.8-beta
+      - 1.2.8
+      - 1.2.9-alpha
+      - 1.2.9-beta
+      - 1.2.9
+      - 1.3.0-alpha
+      - 1.2
+  blade-starter:
+    lastUpdated: 20160906062520
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  blade-startup:
+    lastUpdated: 20151109064158
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  blade-template-jetbrick:
+    lastUpdated: 20170222181134
+    latest: 0.0.9
+    release: 0.0.9
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+  blade-template-pebble:
+    lastUpdated: 20170220160959
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  blade-template-velocity:
+    lastUpdated: 20170220154349
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  blade-velocity:
+    lastUpdated: 20151014103849
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.1.1
+      - 1.2
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2
+  blade-websocket-jetty:
+    lastUpdated: 20160919095801
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  jmail:
+    lastUpdated: 20160330034230
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+

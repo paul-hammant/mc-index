@@ -1,0 +1,30 @@
+artifacts:
+  slider-accumulo-app-package:
+    lastUpdated: 20150518181828
+    latest: 0.80.0-incubating
+    release: 0.80.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.80.0-incubating
+  slider-app-packages:
+    lastUpdated: 20150518181828
+    latest: 0.80.0-incubating
+    release: 0.80.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.80.0-incubating
+  slider-hbase-app-package:
+    lastUpdated: 20150518181829
+    latest: 0.80.0-incubating
+    release: 0.80.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.80.0-incubating
+  slider-storm-app-package:
+    lastUpdated: 20150518181829
+    latest: 0.80.0-incubating
+    release: 0.80.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.80.0-incubating
+

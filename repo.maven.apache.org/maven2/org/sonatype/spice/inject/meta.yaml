@@ -1,0 +1,261 @@
+artifacts:
+  guice-bean:
+    lastUpdated: 20100830032452
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-binders:
+    lastUpdated: 20100830032456
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-containers:
+    lastUpdated: 20100830032515
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-converters:
+    lastUpdated: 20100830032443
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-inject:
+    lastUpdated: 20100830032502
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-locators:
+    lastUpdated: 20100830032508
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-reflect:
+    lastUpdated: 20100830032447
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-bean-scanners:
+    lastUpdated: 20100830032512
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+  guice-nexus:
+    lastUpdated: 20100304112204
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  guice-nexus-scanners:
+    lastUpdated: 20100304112205
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  guice-nexus-shim:
+    lastUpdated: 20100304112203
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  guice-patches:
+    lastUpdated: 20101115183232
+    latest: 2.1.6.1
+    release: 2.1.6.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.6.1
+  guice-plexus:
+    lastUpdated: 20101115183229
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-binders:
+    lastUpdated: 20101115183236
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-converters:
+    lastUpdated: 20101115183234
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-locators:
+    lastUpdated: 20101115183222
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-metadata:
+    lastUpdated: 20101115183227
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-scanners:
+    lastUpdated: 20101115183237
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-shim:
+    lastUpdated: 20101115183226
+    latest: 1.3.4.2
+    release: 1.3.4.2
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.4.1
+      - 1.3.4.2
+  guice-plexus-tck:
+    lastUpdated: 20100622095736
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.2.0
+

@@ -1,0 +1,23 @@
+artifacts:
+  server:
+    lastUpdated: 20161024132003
+    latest: 2.1.0.507
+    release: 2.1.0.507
+    versions:
+      - 2.1.0.507
+  sonar-ldap:
+    lastUpdated: 20161024132003
+    latest: 2.1.0.507
+    release: 2.1.0.507
+    versions:
+      - 2.0
+      - 2.1.0.507
+  sonar-ldap-plugin:
+    lastUpdated: 20161024132004
+    latest: 2.1.0.507
+    release: 2.1.0.507
+    versions:
+      - 1.5.1
+      - 2.0
+      - 2.1.0.507
+

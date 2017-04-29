@@ -1,0 +1,278 @@
+artifacts:
+  audio-libraries:
+    lastUpdated: 20160517121458
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  basicscenario:
+    lastUpdated: 20160919071406
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  chimpchat:
+    lastUpdated: 20140522090512
+    latest: 22.6.3
+    release: 22.6.3
+    versions:
+      - 1.0.0
+      - 22.6.3
+  common:
+    lastUpdated: 20140522090524
+    latest: 22.6.3
+    release: 22.6.3
+    versions:
+      - 22.6.3
+  ddmlib:
+    lastUpdated: 20140522090537
+    latest: 22.6.3
+    release: 22.6.3
+    versions:
+      - 1.0.0
+      - 22.6.3
+  e3patient:
+    lastUpdated: 20160919071406
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  e9patient:
+    lastUpdated: 20160919071407
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  eventbus:
+    lastUpdated: 20140110225852
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  freetts:
+    lastUpdated: 20140110235456
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.2
+  j-ogg-oggd:
+    lastUpdated: 20140110155349
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  j-ogg-vorbisd:
+    lastUpdated: 20140110155357
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-ai:
+    lastUpdated: 20140110232807
+    latest: 0.1.831
+    release: 0.1.831
+    versions:
+      - 0.1.831
+  jME3-blender:
+    lastUpdated: 20140110155456
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-core:
+    lastUpdated: 20140110130509
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-desktop:
+    lastUpdated: 20140110155506
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-effects:
+    lastUpdated: 20140110155524
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-jbullet:
+    lastUpdated: 20140110155438
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-jogg:
+    lastUpdated: 20140110152723
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-lwjgl:
+    lastUpdated: 20140110155406
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-lwjgl-natives:
+    lastUpdated: 20140110155415
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-networking:
+    lastUpdated: 20140110155534
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-niftygui:
+    lastUpdated: 20140110225750
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-plugins:
+    lastUpdated: 20140110155516
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-terrain:
+    lastUpdated: 20140110155543
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-testdata:
+    lastUpdated: 20140110225833
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jME3-tonegod-gui:
+    lastUpdated: 20150224190824
+    latest: 0.4.6.1484
+    release: 0.4.6.1484
+    versions:
+      - 0.4.6.1484
+  jbullet:
+    lastUpdated: 20140110155447
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  jinput:
+    lastUpdated: 20140110155307
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  lwjgl:
+    lastUpdated: 20140110155427
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  mason:
+    lastUpdated: 20140523102306
+    latest: 16
+    release: 16
+    versions:
+      - 16
+      - 16
+  nifty:
+    lastUpdated: 20140110225842
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  nifty-default-controls:
+    lastUpdated: 20140110225805
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  nifty-examples:
+    lastUpdated: 20140110225816
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  nifty-style-black:
+    lastUpdated: 20140110225824
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  sdk-common:
+    lastUpdated: 20140522090550
+    latest: 22.6.3
+    release: 22.6.3
+    versions:
+      - 22.6.3
+  sdklib:
+    lastUpdated: 20140522090603
+    latest: 22.6.3
+    release: 22.6.3
+    versions:
+      - 1.0.0
+      - 22.6.3
+  sociaalml:
+    lastUpdated: 20160919071407
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  sociaalmled:
+    lastUpdated: 20160919071408
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  stack-alloc:
+    lastUpdated: 20140110225723
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  vecmath:
+    lastUpdated: 20140110225732
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+  xmlpull-xpp3:
+    lastUpdated: 20140110225741
+    latest: 3.0.0.20130526
+    release: 3.0.0.20130526
+    versions:
+      - 3.0.0.20130526
+

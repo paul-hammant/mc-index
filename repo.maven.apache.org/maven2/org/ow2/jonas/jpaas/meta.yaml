@@ -1,0 +1,56 @@
+artifacts:
+  container-manager-ejb:
+    lastUpdated: 20121123130846
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  database-manager-ejb:
+    lastUpdated: 20121123125322
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  frontend-manager-ejb:
+    lastUpdated: 20121123103432
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  jpaas-container-manager:
+    lastUpdated: 20121123130846
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  jpaas-database-manager:
+    lastUpdated: 20121123125322
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  jpaas-frontend-manager:
+    lastUpdated: 20121123103432
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  jpaas-router-manager:
+    lastUpdated: 20121123130846
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  jpaas-threshold-detector:
+    lastUpdated: 20121123103432
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+  router-manager-ejb:
+    lastUpdated: 20121123130846
+    latest: 1.0.0-M1
+    release: 1.0.0-M1
+    versions:
+      - 1.0.0-M1
+

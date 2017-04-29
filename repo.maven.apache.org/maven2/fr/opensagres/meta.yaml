@@ -1,0 +1,230 @@
+artifacts:
+  aether-fitnesse-widget:
+    lastUpdated: 20120621121330
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.3
+      - 1.2.4
+      - 1.3.0
+      - 1.3.1
+  converter:
+    lastUpdated: 20110823222601
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  core:
+    lastUpdated: 20110823222559
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  document:
+    lastUpdated: 20110823222559
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.converter:
+    lastUpdated: 20110823222601
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.converter.docx.xwpf:
+    lastUpdated: 20110823222556
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.converter.odt.odfdom:
+    lastUpdated: 20110823222558
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.core:
+    lastUpdated: 20110823222603
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document:
+    lastUpdated: 20110823222602
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document.docx:
+    lastUpdated: 20110823222602
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document.odp:
+    lastUpdated: 20110823222557
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document.ods:
+    lastUpdated: 20110823222556
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document.odt:
+    lastUpdated: 20110823222558
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.document.pptx:
+    lastUpdated: 20110823222602
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.itext.extension:
+    lastUpdated: 20110823222557
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.samples.docxandfreemarker:
+    lastUpdated: 20110725062844
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.docxandvelocity:
+    lastUpdated: 20110725062846
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.docxandvelocity.converters:
+    lastUpdated: 20110725062847
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.odpandvelocity:
+    lastUpdated: 20110725062847
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.odtandvelocity:
+    lastUpdated: 20110725062844
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.odtandvelocity.converters:
+    lastUpdated: 20110725062844
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.samples.pptxandvelocity:
+    lastUpdated: 20110725062845
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  fr.opensagres.xdocreport.template:
+    lastUpdated: 20110823222555
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.template.freemarker:
+    lastUpdated: 20110823222557
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fr.opensagres.xdocreport.template.velocity:
+    lastUpdated: 20110823222600
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  org.apache.poi.xwpf.converter:
+    lastUpdated: 20110823222559
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  org.apache.struts2.views.xdocreport:
+    lastUpdated: 20110823222600
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  org.odftoolkit.odfdom.converter:
+    lastUpdated: 20110823222601
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  sample-assembly-descriptor:
+    lastUpdated: 20110823222602
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  samples:
+    lastUpdated: 20110725062845
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  template:
+    lastUpdated: 20110823222556
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  thirdparties-extension:
+    lastUpdated: 20110823222600
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  xdocreport:
+    lastUpdated: 20110823222601
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+

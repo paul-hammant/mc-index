@@ -1,0 +1,134 @@
+artifacts:
+  jee6-basic-archetype:
+    lastUpdated: 20110406024413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-minimal-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-sandbox-archetype:
+    lastUpdated: 20110406024413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-sandbox-demo-archetype:
+    lastUpdated: 20110406024413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-servlet-basic-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-servlet-demo-archetype:
+    lastUpdated: 20110406024413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-servlet-minimal-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  jee6-servlet-sandbox-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.5
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  knappsack-archetype-parent:
+    lastUpdated: 20100819141605
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  knappsack-parent:
+    lastUpdated: 20110406024413
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1
+      - 1.1
+  spring-jsf-jpa-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  spring-mvc-jpa-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  spring-mvc-jpa-demo-archetype:
+    lastUpdated: 20110406024414
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

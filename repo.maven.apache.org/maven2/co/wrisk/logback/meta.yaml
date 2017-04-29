@@ -1,0 +1,65 @@
+artifacts:
+  logback-ext-aws-core:
+    lastUpdated: 20160914174111
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-cloudwatch-appender:
+    lastUpdated: 20160914174112
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-core:
+    lastUpdated: 20160914174112
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-dynamodb-appender:
+    lastUpdated: 20160914174112
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-jackson:
+    lastUpdated: 20160914174113
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-kinesis-appender:
+    lastUpdated: 20160914174113
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-lmax-appender:
+    lastUpdated: 20160914174114
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-sns-appender:
+    lastUpdated: 20160914174114
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+  logback-ext-sqs-appender:
+    lastUpdated: 20160914174115
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1-alpha.1
+      - 1.0.3
+

@@ -1,0 +1,814 @@
+artifacts:
+  aerogear-android:
+    lastUpdated: 20140703130020
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0
+  aerogear-android-auth:
+    lastUpdated: 20161117193107
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-auth-parent:
+    lastUpdated: 20161117193110
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-auth-test:
+    lastUpdated: 20161117193111
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-authz:
+    lastUpdated: 20161118165218
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+  aerogear-android-authz-parent:
+    lastUpdated: 20161118165221
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+  aerogear-android-authz-test:
+    lastUpdated: 20161118165222
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+  aerogear-android-bom:
+    lastUpdated: 20170328084245
+    latest: 0.2.21
+    release: 0.2.21
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.9.1
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 0.2.17
+      - 0.2.17.1
+      - 0.2.17.3
+      - 0.2.18
+      - 0.2.19
+      - 0.2.20
+      - 0.2.20.1
+      - 0.2.20.2
+      - 0.2.21
+  aerogear-android-core:
+    lastUpdated: 20161114193757
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-pipe:
+    lastUpdated: 20161116192959
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+  aerogear-android-pipe-parent:
+    lastUpdated: 20161116193002
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+  aerogear-android-pipe-test:
+    lastUpdated: 20161116193003
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.0-alpha.1
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+  aerogear-android-push:
+    lastUpdated: 20161118122535
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 0.1
+      - 0.2
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0
+      - 3.0.1
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+      - 0.1
+      - 0.2
+  aerogear-android-push-parent:
+    lastUpdated: 20161118122537
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0
+      - 3.0.1
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  aerogear-android-push-test:
+    lastUpdated: 20161118122538
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.2.2
+      - 3.0.0
+      - 3.0.1
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.1.0
+  aerogear-android-security:
+    lastUpdated: 20161116202438
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-security-parent:
+    lastUpdated: 20161116202440
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-security-test:
+    lastUpdated: 20161116202441
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 3.0.0
+      - 3.1.0
+  aerogear-android-store:
+    lastUpdated: 20161117202212
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  aerogear-android-store-parent:
+    lastUpdated: 20161117202215
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 2.0.0
+      - 2.1.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  aerogear-android-store-test:
+    lastUpdated: 20161117202217
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.0.0-alpha.1
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+  aerogear-android-sync:
+    lastUpdated: 20150322232550
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  aerogear-bom:
+    lastUpdated: 20170328084246
+    latest: 0.2.21
+    release: 0.2.21
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.9.1
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 0.2.17
+      - 0.2.17.1
+      - 0.2.17.3
+      - 0.2.18
+      - 0.2.19
+      - 0.2.20
+      - 0.2.20.1
+      - 0.2.20.2
+      - 0.2.21
+  aerogear-controller:
+    lastUpdated: 20130717124453
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0.Alpha
+      - 1.0.0.M1
+      - 1.0.0.M8
+      - 1.0.0.CR1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  aerogear-crypto:
+    lastUpdated: 20160511150036
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+  aerogear-misc:
+    lastUpdated: 20140513061354
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+  aerogear-netty-codec-sockjs:
+    lastUpdated: 20141110074552
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-otp-java:
+    lastUpdated: 20130326083732
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M8
+      - 1.0.0.CR1
+      - 1.0.0
+  aerogear-parent:
+    lastUpdated: 20170328084246
+    latest: 0.2.21
+    release: 0.2.21
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.9.1
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 0.2.17
+      - 0.2.17.1
+      - 0.2.17.3
+      - 0.2.18
+      - 0.2.19
+      - 0.2.20
+      - 0.2.20.1
+      - 0.2.20.2
+      - 0.2.21
+  aerogear-security:
+    lastUpdated: 20131220074912
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M8
+      - 1.0.0.CR1
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  aerogear-security-hawk:
+    lastUpdated: 20130718033334
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  aerogear-security-picketbox:
+    lastUpdated: 20130129160954
+    latest: 1.0.0.M8
+    release: 1.0.0.M8
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M8
+  aerogear-security-picketlink:
+    lastUpdated: 20131220074914
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+  aerogear-security-shiro:
+    lastUpdated: 20130613135156
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  aerogear-simplepush-common:
+    lastUpdated: 20141110074554
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-datastore-couchdb:
+    lastUpdated: 20141110074556
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-datastore-in-memory:
+    lastUpdated: 20141110074558
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-datastore-jpa:
+    lastUpdated: 20141110074559
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-datastore-redis:
+    lastUpdated: 20141110074601
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-java-client:
+    lastUpdated: 20150617175617
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  aerogear-simplepush-protocol:
+    lastUpdated: 20141110074603
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-server-api:
+    lastUpdated: 20141110074605
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-server-core:
+    lastUpdated: 20141110074607
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-server-netty:
+    lastUpdated: 20141110074610
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-server-vertx:
+    lastUpdated: 20141110074612
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-simplepush-server-wildfly:
+    lastUpdated: 20141110074614
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+  aerogear-test-bom:
+    lastUpdated: 20170328084247
+    latest: 0.2.21
+    release: 0.2.21
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.9.1
+      - 0.2.10
+      - 0.2.11
+      - 0.2.12
+      - 0.2.13
+      - 0.2.14
+      - 0.2.15
+      - 0.2.16
+      - 0.2.17
+      - 0.2.17.1
+      - 0.2.17.3
+      - 0.2.18
+      - 0.2.19
+      - 0.2.20
+      - 0.2.20.1
+      - 0.2.20.2
+      - 0.2.21
+  aerogear-webpush-api:
+    lastUpdated: 20150305014031
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  aerogear-webpush-common:
+    lastUpdated: 20150305014032
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  aerogear-webpush-datastore-in-memory:
+    lastUpdated: 20150305014033
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  aerogear-webpush-server-core:
+    lastUpdated: 20150305014034
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  aerogear-webpush-server-netty:
+    lastUpdated: 20150305014035
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  java-adm:
+    lastUpdated: 20150206093250
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  simplepush-datastores-parent:
+    lastUpdated: 20141110074616
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  simplepush-server-parent:
+    lastUpdated: 20141110074617
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+  sync-api:
+    lastUpdated: 20150311172956
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-client-engine:
+    lastUpdated: 20150311172957
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-client-netty:
+    lastUpdated: 20150311172959
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-client-parent:
+    lastUpdated: 20150311173000
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-core:
+    lastUpdated: 20150311173000
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-diffmatchpatch:
+    lastUpdated: 20150311173001
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-diffmatchpatch-client:
+    lastUpdated: 20150311173001
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-diffmatchpatch-core:
+    lastUpdated: 20150311173002
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-diffmatchpatch-server:
+    lastUpdated: 20150311173004
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-itests:
+    lastUpdated: 20150311173008
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-merge-patch:
+    lastUpdated: 20150311173008
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-merge-patch-client:
+    lastUpdated: 20150311173009
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-merge-patch-core:
+    lastUpdated: 20150311173010
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-merge-patch-server:
+    lastUpdated: 20150311173012
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-patch:
+    lastUpdated: 20150311173014
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-patch-client:
+    lastUpdated: 20150311173014
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-patch-core:
+    lastUpdated: 20150311173015
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-json-patch-server:
+    lastUpdated: 20150311173017
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-parent:
+    lastUpdated: 20150311173018
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-server-engine:
+    lastUpdated: 20150311173019
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-server-netty:
+    lastUpdated: 20150311173020
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-server-parent:
+    lastUpdated: 20150311173022
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-server-wildfly:
+    lastUpdated: 20150311173022
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-server-xmpp:
+    lastUpdated: 20150311173024
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  sync-synchronizers-parent:
+    lastUpdated: 20150311173025
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  unifiedpush-java-client:
+    lastUpdated: 20151111103921
+    latest: 1.1.0.Final
+    release: 1.1.0.Final
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 1.0.0
+      - 1.1.0-alpha.1
+      - 1.1.0-alpha.2
+      - 1.1.0-beta.1
+      - 1.1.0.Final
+  webpush-console:
+    lastUpdated: 20150305014036
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  webpush-datastores:
+    lastUpdated: 20150305014040
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+  webpush-parent:
+    lastUpdated: 20150305014041
+    latest: 1.0.0-alpha.1
+    release: 1.0.0-alpha.1
+    versions:
+      - 1.0.0-alpha.1
+

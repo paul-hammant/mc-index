@@ -1,0 +1,242 @@
+artifacts:
+  sentry:
+    lastUpdated: 20161028135023
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding:
+    lastUpdated: 20161028135023
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding-hive:
+    lastUpdated: 20161028135024
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding-hive-common:
+    lastUpdated: 20161028135024
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding-kafka:
+    lastUpdated: 20161028135024
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding-solr:
+    lastUpdated: 20161028135025
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-binding-sqoop:
+    lastUpdated: 20161028135025
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core:
+    lastUpdated: 20161028135025
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-common:
+    lastUpdated: 20161028135025
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-model-db:
+    lastUpdated: 20161028135026
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-model-indexer:
+    lastUpdated: 20161028135026
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-model-kafka:
+    lastUpdated: 20161028135027
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-model-search:
+    lastUpdated: 20161028135027
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-core-model-sqoop:
+    lastUpdated: 20161028135027
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-dist:
+    lastUpdated: 20161028135027
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-hdfs:
+    lastUpdated: 20161028135034
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-hdfs-common:
+    lastUpdated: 20161028135035
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-hdfs-dist:
+    lastUpdated: 20161028135035
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-hdfs-namenode-plugin:
+    lastUpdated: 20161028135035
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-hdfs-service:
+    lastUpdated: 20161028135035
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy:
+    lastUpdated: 20161028135036
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-common:
+    lastUpdated: 20161028135036
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-db:
+    lastUpdated: 20161028135036
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-indexer:
+    lastUpdated: 20161028135037
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-kafka:
+    lastUpdated: 20161028135037
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-search:
+    lastUpdated: 20161028135037
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-policy-sqoop:
+    lastUpdated: 20161028135037
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-provider:
+    lastUpdated: 20161028135038
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-provider-cache:
+    lastUpdated: 20161028135038
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-provider-common:
+    lastUpdated: 20161028135038
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-provider-db:
+    lastUpdated: 20161028135039
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-provider-file:
+    lastUpdated: 20161028135039
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-solr:
+    lastUpdated: 20161028135040
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-tests:
+    lastUpdated: 20161028135040
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-tests-hive:
+    lastUpdated: 20161028135040
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-tests-kafka:
+    lastUpdated: 20161028135040
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-tests-solr:
+    lastUpdated: 20161028135041
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sentry-tests-sqoop:
+    lastUpdated: 20161028135041
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  solr-sentry-core:
+    lastUpdated: 20161028135041
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  solr-sentry-handlers:
+    lastUpdated: 20161028135042
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+

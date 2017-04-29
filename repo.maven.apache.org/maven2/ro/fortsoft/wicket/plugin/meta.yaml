@@ -1,0 +1,25 @@
+artifacts:
+  pom:
+    lastUpdated: 20121115114618
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  wicket-plugin:
+    lastUpdated: 20160222090507
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1
+      - 0.2
+      - 0.4
+      - 0.5.0
+  wicket-plugin-parent:
+    lastUpdated: 20160222090507
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4
+      - 0.5.0
+

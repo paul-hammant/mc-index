@@ -1,0 +1,122 @@
+artifacts:
+  omid:
+    lastUpdated: 20160627204555
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-benchmarks:
+    lastUpdated: 20160627204555
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-codahale-metrics:
+    lastUpdated: 20160627204556
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-commit-table:
+    lastUpdated: 20160627204556
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-common:
+    lastUpdated: 20160627204556
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-examples:
+    lastUpdated: 20160627204556
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase-client:
+    lastUpdated: 20160627204557
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase-commit-table:
+    lastUpdated: 20160627204558
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase-common:
+    lastUpdated: 20160627204558
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase-coprocessor:
+    lastUpdated: 20160627204558
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase-tools:
+    lastUpdated: 20160627204558
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase0-shims:
+    lastUpdated: 20160627204559
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-hbase1-shims:
+    lastUpdated: 20160627204559
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-metrics:
+    lastUpdated: 20160627204559
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-packaging:
+    lastUpdated: 20160627204559
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-shims-aggregator:
+    lastUpdated: 20160627204600
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-statemachine:
+    lastUpdated: 20160627204600
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-timestamp-storage:
+    lastUpdated: 20160627204600
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-transaction-client:
+    lastUpdated: 20160627204600
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+  omid-tso-server:
+    lastUpdated: 20160627204601
+    latest: 0.8.2.0
+    release: 0.8.2.0
+    versions:
+      - 0.8.2.0
+

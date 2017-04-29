@@ -1,0 +1,96 @@
+artifacts:
+  logger:
+    lastUpdated: 20170108052521
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-archetype-jar:
+    lastUpdated: 20170108072210
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-archetype-war:
+    lastUpdated: 20170108072210
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  orienteer-bpm:
+    lastUpdated: 20170108072210
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-camel:
+    lastUpdated: 20170108072210
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-core:
+    lastUpdated: 20170108072211
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  orienteer-devutils:
+    lastUpdated: 20170108072211
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-graph:
+    lastUpdated: 20170108072211
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-logger-server:
+    lastUpdated: 20170108072211
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-pages:
+    lastUpdated: 20170108072212
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-parent:
+    lastUpdated: 20170108072212
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  orienteer-pivottable:
+    lastUpdated: 20170108072212
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orienteer-standalone:
+    lastUpdated: 20170108072213
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  orienteer-war:
+    lastUpdated: 20170108072213
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+

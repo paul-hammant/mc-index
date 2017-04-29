@@ -1,0 +1,357 @@
+artifacts:
+  bb4-A-star:
+    lastUpdated: 20170102145421
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  bb4-adventure:
+    lastUpdated: 20150816172924
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-blockade:
+    lastUpdated: 20150816174614
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-bridge:
+    lastUpdated: 20150816172925
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-chess:
+    lastUpdated: 20150816174614
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-common:
+    lastUpdated: 20150816165638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.1.2
+      - 1.3
+      - 1.1
+      - 1.3
+  bb4-dice:
+    lastUpdated: 20150816173642
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-fluid:
+    lastUpdated: 20150816173643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-fractalexplorer:
+    lastUpdated: 20150816173643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-galactic:
+    lastUpdated: 20150816174615
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-game:
+    lastUpdated: 20150816174615
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-go:
+    lastUpdated: 20150816174616
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-gomoku:
+    lastUpdated: 20150816174616
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-habitat:
+    lastUpdated: 20150816173643
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-henonexplorer:
+    lastUpdated: 20150816173644
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-hex:
+    lastUpdated: 20150816174617
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-hiq:
+    lastUpdated: 20150816172925
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-liquid:
+    lastUpdated: 20150816173644
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-lsystem:
+    lastUpdated: 20150816173645
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-mancala:
+    lastUpdated: 20150816174617
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-maze:
+    lastUpdated: 20150816172926
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-multiplayer:
+    lastUpdated: 20150816174618
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-optimization:
+    lastUpdated: 20150816172257
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.1.2
+      - 1.3
+      - 1.1
+      - 1.3
+  bb4-pente:
+    lastUpdated: 20130813002915
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.2
+  bb4-poker:
+    lastUpdated: 20150816174618
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-predprey:
+    lastUpdated: 20150816173645
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-puzzle:
+    lastUpdated: 20150816172926
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-reactiondiffusion:
+    lastUpdated: 20150816173646
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-redpuzzle:
+    lastUpdated: 20150816172927
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-set:
+    lastUpdated: 20150816174619
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-sgf:
+    lastUpdated: 20130813000434
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  bb4-simulation:
+    lastUpdated: 20150816173646
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-slidingpuzzle:
+    lastUpdated: 20150816172927
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-snake:
+    lastUpdated: 20150816173647
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-sound:
+    lastUpdated: 20150816171825
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-stock:
+    lastUpdated: 20150816173647
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-sudoku:
+    lastUpdated: 20150816172927
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-tantrix:
+    lastUpdated: 20150816172928
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-tictactoe:
+    lastUpdated: 20150816174619
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-trading:
+    lastUpdated: 20150816173647
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-trebuchet:
+    lastUpdated: 20150816173648
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-twopails:
+    lastUpdated: 20150816172928
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  bb4-twoplayer:
+    lastUpdated: 20150816174619
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+  bb4-ui:
+    lastUpdated: 20150816170300
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.1.2
+      - 1.3
+      - 1.1
+      - 1.3
+  bb4-verhulst:
+    lastUpdated: 20150816173648
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1.2
+      - 1.3
+      - 1.3
+

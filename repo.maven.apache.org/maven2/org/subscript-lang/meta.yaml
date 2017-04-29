@@ -1,0 +1,157 @@
+artifacts:
+  enhancedmacros_2.11:
+    lastUpdated: 20160526092849
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 1.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  gradle-plugin:
+    lastUpdated: 20140807113702
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  scala-actors:
+    lastUpdated: 20150309174031
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.0
+      - 2.11.2
+  scala-compiler:
+    lastUpdated: 20150309174032
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.0
+      - 2.11.2
+  scala-dist:
+    lastUpdated: 20150309174034
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.2
+  scala-library:
+    lastUpdated: 20150309174034
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.0
+      - 2.11.2
+  scala-library-all:
+    lastUpdated: 20150309174035
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.2
+  scala-reflect:
+    lastUpdated: 20150309174036
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.0
+      - 2.11.2
+  scalap:
+    lastUpdated: 20150309174037
+    latest: 2.11.2
+    release: 2.11.2
+    versions:
+      - 2.11.0
+      - 2.11.2
+  subscript:
+    lastUpdated: 20140807113724
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  subscript-akka:
+    lastUpdated: 20140807113725
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  subscript-akka_2.11:
+    lastUpdated: 20160526092850
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  subscript-core-scripts_2.11:
+    lastUpdated: 20160526092850
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  subscript-core_2.11:
+    lastUpdated: 20160526092851
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  subscript-parser_2.10:
+    lastUpdated: 20160526092852
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 1.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  subscript-swing:
+    lastUpdated: 20140807113726
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  subscript-swing_2.11:
+    lastUpdated: 20160526092853
+    latest: 3.0.5
+    release: 3.0.5
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+  subscriptfx-macro_2.11:
+    lastUpdated: 20160905165438
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  subscriptfx_2.11:
+    lastUpdated: 20160905165438
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

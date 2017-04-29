@@ -1,0 +1,350 @@
+artifacts:
+  AdapterAuthenticationWebservices:
+    lastUpdated: 20170224032026
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  AdminDistributionWebservices:
+    lastUpdated: 20170224032026
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  AuditRepositoryWebservices:
+    lastUpdated: 20170224032027
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  CONNECTCommonTypesLib:
+    lastUpdated: 20170224000831
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.2
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.1.0
+      - 4.1.0A
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  CORERule2_2_0Webervices:
+    lastUpdated: 20170224032027
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+  CORERule2_2_0Webservices:
+    lastUpdated: 20160211185534
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  ComponentWebservices:
+    lastUpdated: 20170224032028
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  ConnectionManagerWebservices:
+    lastUpdated: 20170224032028
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DirectWebservices:
+    lastUpdated: 20170224032029
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DocRegistryWebservices:
+    lastUpdated: 20170224032029
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DocRepositoryWebservices:
+    lastUpdated: 20170224032029
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DocumentQueryWebservices:
+    lastUpdated: 20170224032030
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DocumentRetrieveWebservices:
+    lastUpdated: 20170224032030
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  DocumentSubmissionWebervices:
+    lastUpdated: 20170224032030
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  HIEMWebservices:
+    lastUpdated: 20140311142654
+    latest: 4.0.5
+    release: 4.0.5
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+  PatientCorrelationWebservices:
+    lastUpdated: 20170224032030
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  PatientDiscoveryWebservices:
+    lastUpdated: 20170224032032
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  PolicyEngineWebservices:
+    lastUpdated: 20170224032032
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  RedactionEngineWebservices:
+    lastUpdated: 20170224032033
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+  Webservices:
+    lastUpdated: 20170224032033
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+      - 4.0.5
+      - 4.0.6
+      - 4.0.7
+      - 4.0.8
+      - 4.0.9
+      - 4.0.9A
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+

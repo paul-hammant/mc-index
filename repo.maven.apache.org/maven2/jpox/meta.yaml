@@ -1,0 +1,234 @@
+artifacts:
+  jpox:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.0-beta-1
+      - 1.0.0-beta-4
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-4
+      - 1.1.0-beta-1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.1.0-beta-4-c1
+      - 1.1.0-beta-6
+      - 1.1.0-rc-1
+  jpox-c3p0:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-beta-3
+      - 1.1.0-beta-6
+      - 1.1.0-rc-1
+  jpox-core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-4
+      - 1.2.0-beta-5
+      - 1.2.0-beta-2
+      - 1.2.0-beta-3
+  jpox-db4o:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-4
+      - 1.2.0-beta-5
+      - 1.2.0-beta-2
+  jpox-dbcp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.1.0-beta-6
+      - 1.1.0-rc-1
+  jpox-ehcache:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.3
+      - 1.1.2
+      - 1.1.0-beta-4
+      - 1.1.0-beta-6
+      - 1.2.0-beta-1
+  jpox-enhancer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.0-beta-4
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0-alpha-2
+      - 1.1.0-alpha-4
+      - 1.1.0-beta-1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.1.0-beta-4-c1
+      - 1.1.0-beta-6
+      - 1.1.0-rc-1
+  jpox-java5:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-rc-1
+  jpox-java5enum:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-beta-6
+  jpox-mx4j:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-3
+      - 1.2.0-beta-5
+      - 1.2.0-beta-2
+      - 1.2.0-beta-4
+  jpox-oscache:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.2
+      - 1.1.1
+      - 1.1.3
+      - 1.1.0
+      - 1.2.0-beta-1
+      - 1.1.0-beta-6
+      - 1.1.0-beta-4
+  jpox-parent:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.6
+  jpox-proxool:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.3
+      - 1.1.2
+      - 1.2.0-beta-1
+  jpox-rdbms:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-5
+  jpox-shell:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.3
+      - 1.2.0-beta-1
+      - 1.1.2
+  jpox-spatial:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.3
+      - 1.1.1
+      - 1.1.2
+  jpox-spatialnew:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-1
+  jpox-spatialoracle:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.3
+      - 1.1.0
+      - 1.1.2
+      - 1.1.1
+      - 1.1.0-beta-6
+  jpox-springframework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.2
+      - 1.2.0-beta-1
+      - 1.1.1
+      - 1.1.0
+      - 1.1.0-beta-4
+      - 1.1.3
+      - 1.1.0-beta-6
+  jpox-swarmcache:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.3
+      - 1.1.1
+      - 1.1.0-beta-6
+      - 1.1.0-beta-4
+      - 1.2.0-beta-1
+      - 1.1.2
+  jpox-tangosol:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.3
+      - 1.1.2
+      - 1.1.1
+      - 1.2.0-beta-1
+      - 1.1.0-beta-4
+      - 1.1.0-beta-6
+  jpox-testframework:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-4
+  jpox-thirdparty:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0-beta-4
+      - 1.1.9
+      - 1.2.0-beta-3
+      - 1.2.0-beta-2
+  jpox-xmltypeoracle:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.3
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0-beta-1
+      - 1.1.0-beta-6
+

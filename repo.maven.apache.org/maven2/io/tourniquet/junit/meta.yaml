@@ -1,0 +1,235 @@
+artifacts:
+  parent:
+    lastUpdated: 20160814155207
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-all:
+    lastUpdated: 20160814155207
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-core:
+    lastUpdated: 20160814155207
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-file:
+    lastUpdated: 20160814155207
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-http:
+    lastUpdated: 20160814155207
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-inject:
+    lastUpdated: 20160814155208
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-jcr:
+    lastUpdated: 20160814155208
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-junit:
+    lastUpdated: 20160814155208
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-ldap:
+    lastUpdated: 20160814155208
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-measure:
+    lastUpdated: 20160814155209
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-net:
+    lastUpdated: 20160814155209
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-pageobjects:
+    lastUpdated: 20160814155209
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-pdf:
+    lastUpdated: 20160814155209
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-security:
+    lastUpdated: 20160814155210
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-selenium:
+    lastUpdated: 20160814155210
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+  tourniquet-tx:
+    lastUpdated: 20160814155210
+    latest: 0.4.8
+    release: 0.4.8
+    versions:
+      - 0.4.0-M1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+

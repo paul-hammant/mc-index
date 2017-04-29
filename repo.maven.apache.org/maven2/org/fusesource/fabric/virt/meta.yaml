@@ -1,0 +1,44 @@
+artifacts:
+  bundles:
+    lastUpdated: 20130327194535
+    latest: 7.1.0.fuse-047
+    release: 7.1.0.fuse-047
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 1.1
+  org.fusesource.fabric.virt.commands:
+    lastUpdated: 20140530183029
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  org.fusesource.fabric.virt.services:
+    lastUpdated: 20140530183030
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+

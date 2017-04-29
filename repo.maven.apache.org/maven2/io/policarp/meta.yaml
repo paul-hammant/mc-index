@@ -1,0 +1,33 @@
+artifacts:
+  scala-aws-params-reader_2.11:
+    lastUpdated: 20170402055629
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-aws-params-reader_2.12:
+    lastUpdated: 20170402055630
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scala-credstash_2.11:
+    lastUpdated: 20170402064344
+    latest: 1.01
+    release: 1.01
+    versions:
+      - 1.01
+      - 1.01
+  splunk-logback-hec-appender_2.11:
+    lastUpdated: 20170402093137
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  splunk-logback-hec-appender_2.12:
+    lastUpdated: 20170402093137
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+

@@ -1,0 +1,221 @@
+artifacts:
+  Hygieia:
+    lastUpdated: 20161218185158
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 1.0
+  UI:
+    lastUpdated: 20161218185158
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.4
+  api:
+    lastUpdated: 20161218185158
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  artifactory-artifact-collector:
+    lastUpdated: 20161218185159
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.4
+  aws-cloud-collector:
+    lastUpdated: 20161218185200
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  bamboo-build-collector:
+    lastUpdated: 20161218185201
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  bitbucket-scm-collector:
+    lastUpdated: 20161218185201
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  chat-ops-collector:
+    lastUpdated: 20161218185203
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  core:
+    lastUpdated: 20161218185203
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 0.4.1
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  github-collector:
+    lastUpdated: 20150903043712
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  github-scm-collector:
+    lastUpdated: 20161218185204
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  gitlab-git-collector:
+    lastUpdated: 20161218185205
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.4
+  hudson-collector:
+    lastUpdated: 20150903043712
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  jenkins-build-collector:
+    lastUpdated: 20161218185206
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  jenkins-cucumber-test-collector:
+    lastUpdated: 20161218185206
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0.0.1
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  jira-feature-collector:
+    lastUpdated: 20161218185207
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0.1
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  rest-api:
+    lastUpdated: 20150903043714
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  sonar-codequality-collector:
+    lastUpdated: 20161218185208
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  sonar-collector:
+    lastUpdated: 20150903043714
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  subversion-collector:
+    lastUpdated: 20161218185210
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 0.1.0
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  udeploy-collector:
+    lastUpdated: 20150903043715
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  udeploy-deployment-collector:
+    lastUpdated: 20161218185210
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  versionone-feature-collector:
+    lastUpdated: 20161218185211
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.3.0
+      - 1.5.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  xldeploy-deployment-collector:
+    lastUpdated: 20161218185212
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+

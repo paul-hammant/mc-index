@@ -1,0 +1,44 @@
+artifacts:
+  carol:
+    lastUpdated: 20120917151730
+    latest: 3.0.10
+    release: 3.0.10
+    versions:
+      - 3.0.9
+      - 3.0.10
+  carol-bundle:
+    lastUpdated: 20120917151730
+    latest: 3.0.10
+    release: 3.0.10
+    versions:
+      - 3.0.9
+      - 3.0.10
+  carol-iiop-delegate:
+    lastUpdated: 20120917151730
+    latest: 3.0.10
+    release: 3.0.10
+    versions:
+      - 3.0.9
+      - 3.0.10
+  carol-interceptors:
+    lastUpdated: 20081007113512
+    latest: {}
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  carol-modules:
+    lastUpdated: 20120917151729
+    latest: 3.0.10
+    release: 3.0.10
+    versions:
+      - 3.0.9
+      - 3.0.10
+  carol-parent:
+    lastUpdated: 20120917151729
+    latest: 3.0.10
+    release: 3.0.10
+    versions:
+      - 3.0.9
+      - 3.0.10
+

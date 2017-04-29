@@ -1,0 +1,28 @@
+artifacts:
+  core-itest-suite:
+    lastUpdated: 20100924151220
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+  itest:
+    lastUpdated: 20101013154104
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC1
+  war-itest-suite:
+    lastUpdated: 20101013154105
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC1
+

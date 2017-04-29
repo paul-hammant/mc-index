@@ -1,0 +1,432 @@
+artifacts:
+  cloudmanager-multi:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.5
+      - 0.6.0
+  sirocco-api-command-line-tools:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  sirocco-api-model:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  sirocco-api-multi:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  sirocco-api-webapp:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  sirocco-cloudmanager:
+    lastUpdated: 20121122104307
+    latest: 0.5.4
+    release: 0.5.4
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+  sirocco-cloudmanager-api:
+    lastUpdated: 20120206175448
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-api-spec:
+    lastUpdated: 20120206175449
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-api-tools:
+    lastUpdated: 20120206175454
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-apis:
+    lastUpdated: 20130502104200
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  sirocco-cloudmanager-clustermanager:
+    lastUpdated: 20111003172559
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-clustermanager-api:
+    lastUpdated: 20111003172613
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-clustermanager-impl:
+    lastUpdated: 20111003173024
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-connector-amazon:
+    lastUpdated: 20131119142305
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-connector-api:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-connector-cloudstack:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  sirocco-cloudmanager-connector-finder:
+    lastUpdated: 20130502104200
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  sirocco-cloudmanager-connector-mock:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-connector-openstack-nova:
+    lastUpdated: 20130502104201
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  sirocco-cloudmanager-connector-test:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-connector-util:
+    lastUpdated: 20130502104201
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  sirocco-cloudmanager-connector-util-jobmanager:
+    lastUpdated: 20130502104201
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  sirocco-cloudmanager-connector-util-jobmanager-api:
+    lastUpdated: 20130502104201
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  sirocco-cloudmanager-connector-vcd:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-connectors:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-core:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-core-api:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-core-manager:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-dashboard:
+    lastUpdated: 20130502121736
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sirocco-cloudmanager-dashboard-flex-war:
+    lastUpdated: 20130502121736
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sirocco-cloudmanager-dashboard-swf:
+    lastUpdated: 20130502121736
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sirocco-cloudmanager-ear:
+    lastUpdated: 20121122104320
+    latest: 0.5.4
+    release: 0.5.4
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+  sirocco-cloudmanager-ejb-jar:
+    lastUpdated: 20120206175446
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-flex-war:
+    lastUpdated: 20111003172839
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-itests:
+    lastUpdated: 20121122104320
+    latest: 0.5.4
+    release: 0.5.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+  sirocco-cloudmanager-itests-ejb:
+    lastUpdated: 20121122104320
+    latest: 0.5.4
+    release: 0.5.4
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+  sirocco-cloudmanager-itests-rest-cimi:
+    lastUpdated: 20121012134315
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  sirocco-cloudmanager-model:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-model-cimi:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-project:
+    lastUpdated: 20131119142306
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.5
+      - 0.6.0
+  sirocco-cloudmanager-provider-api:
+    lastUpdated: 20120206175437
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-aws-ec2:
+    lastUpdated: 20120206175443
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-nova:
+    lastUpdated: 20120206175442
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-util:
+    lastUpdated: 20120206175438
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-util-jobmanager:
+    lastUpdated: 20120206175442
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-util-vncproxy:
+    lastUpdated: 20120206175439
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-provider-vmm:
+    lastUpdated: 20120206175444
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-providers:
+    lastUpdated: 20120206175438
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-remoteclient:
+    lastUpdated: 20111003173053
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-sshtunnel:
+    lastUpdated: 20111003172535
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-swf:
+    lastUpdated: 20111003172806
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+  sirocco-cloudmanager-ui:
+    lastUpdated: 20120206183808
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-ui-flex-war:
+    lastUpdated: 20120206183808
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-ui-swf:
+    lastUpdated: 20120206183808
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  sirocco-cloudmanager-vnc-war:
+    lastUpdated: 20111003172955
+    latest: {}
+    release: 0.3
+    versions:
+      - 0.3
+

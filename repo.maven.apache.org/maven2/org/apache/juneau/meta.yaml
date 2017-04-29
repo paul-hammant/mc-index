@@ -1,0 +1,117 @@
+artifacts:
+  apache-juneau:
+    lastUpdated: 20161024222132
+    latest: 6.0.0-incubating
+    release: 6.0.0-incubating
+    versions:
+      - 6.0.0-incubating
+  juneau:
+    lastUpdated: 20170225144557
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+      - 6.1.0-incubating
+  juneau-all:
+    lastUpdated: 20170225144559
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+      - 6.1.0-incubating
+  juneau-client:
+    lastUpdated: 20170103162116
+    latest: 6.0.1-incubating
+    release: 6.0.1-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+  juneau-core:
+    lastUpdated: 20170225144559
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+      - 6.1.0-incubating
+  juneau-core-rdf:
+    lastUpdated: 20170225144600
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-core-test:
+    lastUpdated: 20170225144601
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-distrib:
+    lastUpdated: 20170225144602
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.0.1-incubating
+      - 6.1.0-incubating
+  juneau-examples-rest:
+    lastUpdated: 20170225144603
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-microservice:
+    lastUpdated: 20170225144605
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+      - 6.1.0-incubating
+  juneau-rest:
+    lastUpdated: 20170225144606
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-rest-client:
+    lastUpdated: 20170225144606
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-rest-jaxrs:
+    lastUpdated: 20170225144607
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-rest-test:
+    lastUpdated: 20170225144608
+    latest: 6.1.0-incubating
+    release: 6.1.0-incubating
+    versions:
+      - 6.1.0-incubating
+  juneau-samples:
+    lastUpdated: 20170103162118
+    latest: 6.0.1-incubating
+    release: 6.0.1-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+  juneau-server:
+    lastUpdated: 20170103162119
+    latest: 6.0.1-incubating
+    release: 6.0.1-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+  juneau-server-test:
+    lastUpdated: 20170103162120
+    latest: 6.0.1-incubating
+    release: 6.0.1-incubating
+    versions:
+      - 6.0.0-incubating
+      - 6.0.1-incubating
+

@@ -1,0 +1,290 @@
+artifacts:
+  fgsms-agentcore:
+    lastUpdated: 20170312041948
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-agents:
+    lastUpdated: 20170312041948
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-apache-cxf-agent:
+    lastUpdated: 20170312041948
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-apache-cxf-agent-osgi:
+    lastUpdated: 20170312041948
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-automated-reporting-service:
+    lastUpdated: 20170312041949
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-axis1xagent:
+    lastUpdated: 20170312041949
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-cli:
+    lastUpdated: 20170312041949
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-common:
+    lastUpdated: 20170312041949
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-common-interfaces:
+    lastUpdated: 20170312041950
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-common-test-utils:
+    lastUpdated: 20170312041950
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-data-access-service:
+    lastUpdated: 20170312041950
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-data-collector-service:
+    lastUpdated: 20170312041951
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-data-pruner:
+    lastUpdated: 20170312041952
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-database-export:
+    lastUpdated: 20170312041952
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-database-resources:
+    lastUpdated: 20170312041952
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-dependency-scanner:
+    lastUpdated: 20170312041953
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-discovery-dns:
+    lastUpdated: 20170312041953
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-discovery-uddi:
+    lastUpdated: 20170312041953
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-hornetq-jms-agent:
+    lastUpdated: 20170312041953
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-jaxws-agent:
+    lastUpdated: 20170312041953
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-jboss-esb-agent:
+    lastUpdated: 20170312041954
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-jbossws-jaxws-agent:
+    lastUpdated: 20170312041954
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-osagent:
+    lastUpdated: 20170312041955
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-parent:
+    lastUpdated: 20170312041955
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-policy-configuration-service:
+    lastUpdated: 20170312041955
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-qpid-jmx-agent:
+    lastUpdated: 20170312041955
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-qpid-pyagent:
+    lastUpdated: 20170312041955
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-recryptor:
+    lastUpdated: 20170312041956
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-report-generator:
+    lastUpdated: 20170312041956
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-reporting-service:
+    lastUpdated: 20170312041956
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-server:
+    lastUpdated: 20170312041956
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-server-crash-alerter:
+    lastUpdated: 20170312041956
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-servlet-filter-agent:
+    lastUpdated: 20170312041957
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-sla-processor:
+    lastUpdated: 20170312041958
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-smx-agent:
+    lastUpdated: 20170312041958
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-stats:
+    lastUpdated: 20170312041958
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-status-bueller:
+    lastUpdated: 20170312041958
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-status-service:
+    lastUpdated: 20170312041958
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-tomcat-jdbc:
+    lastUpdated: 20170312041959
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-uddi-publisher:
+    lastUpdated: 20170312041959
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-ui-common:
+    lastUpdated: 20170312041959
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-ws-notification:
+    lastUpdated: 20170312041959
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-wsnotification-broker-jar:
+    lastUpdated: 20170312042000
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-wsnotification-broker-war:
+    lastUpdated: 20170312042000
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-wsnotification-client:
+    lastUpdated: 20170312042001
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms-wsnotification-spec:
+    lastUpdated: 20170312042001
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms.Bootstrap:
+    lastUpdated: 20170312042001
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+  fgsms.Services:
+    lastUpdated: 20170312042003
+    latest: 7.0.0
+    release: 7.0.0
+    versions:
+      - 7.0.0
+

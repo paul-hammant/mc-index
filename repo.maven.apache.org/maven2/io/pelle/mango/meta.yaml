@@ -1,0 +1,209 @@
+artifacts:
+  mango-base:
+    lastUpdated: 20150810203043
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.10-FINAL
+      - 0.0.12-FINAL
+  mango-bootstrap:
+    lastUpdated: 20150810203045
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.10-FINAL
+      - 0.0.12-FINAL
+  mango-build:
+    lastUpdated: 20150810203047
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.10-FINAL
+      - 0.0.12-FINAL
+  mango-cli:
+    lastUpdated: 20150810203049
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-client-base:
+    lastUpdated: 20150810203050
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-client-core:
+    lastUpdated: 20150810203052
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-client-gwt:
+    lastUpdated: 20150810203053
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-client-web:
+    lastUpdated: 20150810203055
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-client-web-test:
+    lastUpdated: 20150810203056
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-db:
+    lastUpdated: 20150810203058
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-demo-cli:
+    lastUpdated: 20150810190243
+    latest: 0.0.9-FINAL
+    release: 0.0.9-FINAL
+    versions:
+      - 0.0.9-FINAL
+  mango-demo-client:
+    lastUpdated: 20150810190249
+    latest: 0.0.9-FINAL
+    release: 0.0.9-FINAL
+    versions:
+      - 0.0.9-FINAL
+  mango-demo-model:
+    lastUpdated: 20150810190250
+    latest: 0.0.9-FINAL
+    release: 0.0.9-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+  mango-demo-server:
+    lastUpdated: 20140513195337
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  mango-dsl:
+    lastUpdated: 20150810203107
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-dsl-sdk:
+    lastUpdated: 20150810203108
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-dsl-ui:
+    lastUpdated: 20150810203112
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-gradle-plugin:
+    lastUpdated: 20140514190455
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.5
+      - 0.0.6
+  mango-gwt-commons:
+    lastUpdated: 20150810203114
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.8-20150129223832
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-libs:
+    lastUpdated: 20150810203115
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-model:
+    lastUpdated: 20150810203118
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-project-template:
+    lastUpdated: 20150810203120
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-server:
+    lastUpdated: 20150810203122
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+  mango-server-base:
+    lastUpdated: 20150810203123
+    latest: 0.0.12-FINAL
+    release: 0.0.12-FINAL
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.9-FINAL
+      - 0.0.12-FINAL
+

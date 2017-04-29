@@ -1,0 +1,87 @@
+artifacts:
+  cli:
+    lastUpdated: 20150608160539
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  config:
+    lastUpdated: 20150401113422
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  mongodb:
+    lastUpdated: 20150416094205
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  queries:
+    lastUpdated: 20150701085558
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.7.0
+  queries-api:
+    lastUpdated: 20150701085558
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.7.0
+  queries-mongo:
+    lastUpdated: 20150701085558
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.7.0
+  rabbitmq:
+    lastUpdated: 20150720084241
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  token:
+    lastUpdated: 20150720084009
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  ws:
+    lastUpdated: 20150720093714
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+

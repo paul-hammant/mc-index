@@ -1,0 +1,61 @@
+artifacts:
+  openurp-platform-security-app:
+    lastUpdated: 20151103131340
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  openurp-platform-security-core:
+    lastUpdated: 20151103131340
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  openurp-platform-security-oauth:
+    lastUpdated: 20150920165056
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  openurp-platform-security-parent:
+    lastUpdated: 20151103131341
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  openurp-platform-security-user:
+    lastUpdated: 20141202152556
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  openurp-platform-security-webapp:
+    lastUpdated: 20151103131341
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  openurp-platform-security-ws:
+    lastUpdated: 20151103131341
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+

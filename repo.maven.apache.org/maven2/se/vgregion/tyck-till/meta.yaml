@@ -1,0 +1,83 @@
+artifacts:
+  tyck-till-core-bc:
+    lastUpdated: 20120917134017
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 1.7
+      - 1.8
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  tyck-till-core-bc-composite-svc:
+    lastUpdated: 20120917134019
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 1.7
+      - 1.8
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  tyck-till-core-bc-composite-types:
+    lastUpdated: 20120917134025
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 1.7
+      - 1.8
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  tyck-till-core-bc-module-portlet:
+    lastUpdated: 20100427132505
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.7
+      - 1.8
+  tyck-till-core-bc-module-web:
+    lastUpdated: 20120917134027
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 1.7
+      - 1.8
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  tyck-till-system:
+    lastUpdated: 20120917134029
+    latest: 2.6
+    release: 2.6
+    versions:
+      - 1.7
+      - 1.8
+      - 2.1
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  tyck-till-test-portlet:
+    lastUpdated: 20100427132501
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.7
+      - 1.8
+  tyck-till-test-servlet:
+    lastUpdated: 20100427132504
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.7
+      - 1.8
+

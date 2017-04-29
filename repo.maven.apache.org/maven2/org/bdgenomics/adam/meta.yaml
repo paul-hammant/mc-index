@@ -1,0 +1,325 @@
+artifacts:
+  adam-apis:
+    lastUpdated: 20150218214636
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.13.0
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+  adam-apis-spark2_2.10:
+    lastUpdated: 20170403165214
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-apis-spark2_2.11:
+    lastUpdated: 20170403165214
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-apis_2.10:
+    lastUpdated: 20170403165215
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-apis_2.11:
+    lastUpdated: 20170403165215
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-assembly-spark2_2.10:
+    lastUpdated: 20170403165216
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-assembly-spark2_2.11:
+    lastUpdated: 20170403165218
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-assembly_2.10:
+    lastUpdated: 20170403165218
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-assembly_2.11:
+    lastUpdated: 20170403165219
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-cli:
+    lastUpdated: 20150218214637
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+  adam-cli-spark2_2.10:
+    lastUpdated: 20170403165221
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-cli-spark2_2.11:
+    lastUpdated: 20170403165221
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-cli_2.10:
+    lastUpdated: 20170403165221
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-cli_2.11:
+    lastUpdated: 20170403165222
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-core:
+    lastUpdated: 20150218214638
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+  adam-core-spark2_2.10:
+    lastUpdated: 20170403165222
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-core-spark2_2.11:
+    lastUpdated: 20170403165223
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-core_2.10:
+    lastUpdated: 20170403165223
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-core_2.11:
+    lastUpdated: 20170403165224
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-distribution:
+    lastUpdated: 20150218214641
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.15.0
+      - 0.16.0
+  adam-distribution-spark2_2.10:
+    lastUpdated: 20170403165226
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-distribution-spark2_2.11:
+    lastUpdated: 20170403165228
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-distribution_2.10:
+    lastUpdated: 20170403165230
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-distribution_2.11:
+    lastUpdated: 20170403165232
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-format:
+    lastUpdated: 20140617223435
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  adam-parent:
+    lastUpdated: 20150218214642
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.12.1
+      - 0.13.0
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+  adam-parent-spark2_2.10:
+    lastUpdated: 20170403165233
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-parent-spark2_2.11:
+    lastUpdated: 20170403165233
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-parent_2.10:
+    lastUpdated: 20170403165233
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  adam-parent_2.11:
+    lastUpdated: 20170403165233
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.17.0
+      - 0.17.1
+      - 0.18.0
+      - 0.18.1
+      - 0.18.2
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+

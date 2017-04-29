@@ -1,0 +1,38 @@
+artifacts:
+  DataGenerator:
+    lastUpdated: 20131219192920
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  dg-common:
+    lastUpdated: 20160225170440
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+  dg-core:
+    lastUpdated: 20160225151242
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.0
+      - 2.1
+      - 2.2
+  dg-parent:
+    lastUpdated: 20160225151946
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.0
+      - 2.1
+      - 2.2
+

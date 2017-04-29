@@ -1,0 +1,233 @@
+artifacts:
+  cxs-geonames:
+    lastUpdated: 20161003132628
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-geonames-rest:
+    lastUpdated: 20161003132629
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-geonames-services:
+    lastUpdated: 20161003132629
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-lists-extension:
+    lastUpdated: 20161003132630
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-lists-extension-rest:
+    lastUpdated: 20161003132630
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-lists-extension-services:
+    lastUpdated: 20161003132630
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-privacy-extension:
+    lastUpdated: 20161003132631
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-privacy-extension-rest:
+    lastUpdated: 20161003132631
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  cxs-privacy-extension-services:
+    lastUpdated: 20161003132631
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  samples:
+    lastUpdated: 20161003132632
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  tweet-button-plugin:
+    lastUpdated: 20161003132632
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi:
+    lastUpdated: 20161003132633
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-api:
+    lastUpdated: 20161003132644
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-extensions:
+    lastUpdated: 20161003132645
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-itests:
+    lastUpdated: 20161003132645
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-kar:
+    lastUpdated: 20161003132648
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-persistence-elasticsearch:
+    lastUpdated: 20161003132649
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-persistence-elasticsearch-core:
+    lastUpdated: 20161003132651
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-persistence-elasticsearch-plugins:
+    lastUpdated: 20161003132652
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-persistence-elasticsearch-plugins-security:
+    lastUpdated: 20161003132653
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-persistence-spi:
+    lastUpdated: 20161003132653
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins:
+    lastUpdated: 20161003132654
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-base:
+    lastUpdated: 20161003132654
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-hover-event:
+    lastUpdated: 20161003132655
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-mail:
+    lastUpdated: 20161003132655
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-optimization-test:
+    lastUpdated: 20161003132656
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-past-event:
+    lastUpdated: 20161003132656
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-request:
+    lastUpdated: 20161003132657
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-plugins-tracked-event:
+    lastUpdated: 20161003132657
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-rest:
+    lastUpdated: 20161003132658
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-root:
+    lastUpdated: 20161003132658
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-services:
+    lastUpdated: 20161003132659
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+  unomi-wab:
+    lastUpdated: 20161003132700
+    latest: 1.1.0-incubating
+    release: 1.1.0-incubating
+    versions:
+      - 1.0.0-incubating
+      - 1.1.0-incubating
+

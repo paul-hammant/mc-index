@@ -1,0 +1,57 @@
+artifacts:
+  net.tirasa.connid.bundles.ad:
+    lastUpdated: 20160601090150
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  net.tirasa.connid.bundles.cmd:
+    lastUpdated: 20141023082933
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  net.tirasa.connid.bundles.csvdir:
+    lastUpdated: 20160601092754
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.8.4
+      - 0.8.5
+      - 0.8
+  net.tirasa.connid.bundles.googleapps:
+    lastUpdated: 20160601092755
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  net.tirasa.connid.bundles.ldap:
+    lastUpdated: 20160401110359
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  net.tirasa.connid.bundles.rest:
+    lastUpdated: 20161130163454
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

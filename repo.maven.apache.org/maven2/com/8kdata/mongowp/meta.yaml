@@ -1,0 +1,65 @@
+artifacts:
+  build-tools:
+    lastUpdated: 20161129205621
+    latest: 0.50.0
+    release: 0.50.0
+    versions:
+      - 0.50.0
+  mongo-server:
+    lastUpdated: 20151226091933
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mongo-server-api:
+    lastUpdated: 20151226091933
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mongo-server-api-safe:
+    lastUpdated: 20151226091933
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mongowp-core:
+    lastUpdated: 20161129205621
+    latest: 0.50.0
+    release: 0.50.0
+    versions:
+      - 0.40-alpha2
+      - 0.40-alpha3
+      - 0.4
+      - 0.50.0
+      - 0.4
+  mongowp-messages:
+    lastUpdated: 20151226091934
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  mongowp-parent:
+    lastUpdated: 20161129205621
+    latest: 0.50.0
+    release: 0.50.0
+    versions:
+      - 0.2
+      - 0.40-alpha2
+      - 0.40-alpha3
+      - 0.4
+      - 0.50.0
+      - 0.2
+      - 0.4
+  mongowp-protocol:
+    lastUpdated: 20151226091934
+    latest: 0.20
+    release: 0.20
+    versions:
+      - 0.2
+      - 0.20
+

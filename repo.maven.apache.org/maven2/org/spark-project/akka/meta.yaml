@@ -1,0 +1,67 @@
+artifacts:
+  akka-actor_2.10:
+    lastUpdated: 20141006060043
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.2.3-shaded-protobuf
+      - 2.3.4-spark
+  akka-actor_2.11:
+    lastUpdated: 20141006060058
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.3.4-spark
+  akka-remote_2.10:
+    lastUpdated: 20141006060025
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.2.3-shaded-protobuf
+      - 2.3.4-spark
+  akka-remote_2.11:
+    lastUpdated: 20141006060151
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.3.4-spark
+  akka-slf4j_2.10:
+    lastUpdated: 20141006060116
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.2.3-shaded-protobuf
+      - 2.3.4-spark
+  akka-slf4j_2.11:
+    lastUpdated: 20141006060139
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.3.4-spark
+  akka-testkit_2.10:
+    lastUpdated: 20141006060044
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.2.3-shaded-protobuf
+      - 2.3.4-spark
+  akka-testkit_2.11:
+    lastUpdated: 20141006060116
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.3.4-spark
+  akka-zeromq_2.10:
+    lastUpdated: 20141006060205
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.2.3-shaded-protobuf
+      - 2.3.4-spark
+  akka-zeromq_2.11:
+    lastUpdated: 20141006060220
+    latest: 2.3.4-spark
+    release: 2.3.4-spark
+    versions:
+      - 2.3.4-spark
+

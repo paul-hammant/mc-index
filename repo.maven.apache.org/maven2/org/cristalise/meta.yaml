@@ -1,0 +1,65 @@
+artifacts:
+  cristalise-dev:
+    lastUpdated: 20170319233010
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  cristalise-gui:
+    lastUpdated: 20170319214307
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2
+      - 3.3.0
+      - 3.2
+  cristalise-jooqdb:
+    lastUpdated: 20170319183025
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  cristalise-kernel:
+    lastUpdated: 20170319133332
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.2
+      - 3.3
+      - 3.2
+      - 3.3
+  cristalise-ldap:
+    lastUpdated: 20170319163454
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2
+      - 3.3.0
+      - 3.2
+  cristalise-restapi:
+    lastUpdated: 20170319213506
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  cristalise-trigger:
+    lastUpdated: 20170319184038
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+  cristalise-xmldb:
+    lastUpdated: 20170319162757
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2
+      - 3.3.0
+      - 3.2
+  cristalise-xpath-outcomeinit:
+    lastUpdated: 20170319175543
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.3.0
+

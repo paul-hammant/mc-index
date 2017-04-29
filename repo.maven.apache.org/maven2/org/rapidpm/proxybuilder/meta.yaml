@@ -1,0 +1,294 @@
+artifacts:
+  rapidpm-proxybuilder:
+    lastUpdated: 20170421202136
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-bom:
+    lastUpdated: 20170421202136
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules:
+    lastUpdated: 20170421202136
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-builder:
+    lastUpdated: 20170421202137
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-core:
+    lastUpdated: 20170421202137
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-core-annotationprocessor:
+    lastUpdated: 20170421202138
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-dynamic:
+    lastUpdated: 20170421202138
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-dynamicobjectadapter:
+    lastUpdated: 20151014162758
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-dynamicobjectadapter-generator:
+    lastUpdated: 20151014162758
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-dynamicobjectadapter-generator-annotations:
+    lastUpdated: 20151014162758
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-dynamicobjectadapter-generator-processors:
+    lastUpdated: 20151014162758
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-dynamicobjectadapter-generator-usages:
+    lastUpdated: 20151014162759
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-dynamicobjectadapter-generator-usages-usinggenerated:
+    lastUpdated: 20151014162759
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rapidpm-proxybuilder-modules-objectadapter:
+    lastUpdated: 20170421202139
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-objectadapter-generator:
+    lastUpdated: 20170421202139
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-objectadapter-generator-annotations:
+    lastUpdated: 20170421202140
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-objectadapter-generator-processors:
+    lastUpdated: 20170421202140
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-objectadapter-generator-usages:
+    lastUpdated: 20151123142052
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  rapidpm-proxybuilder-modules-objectadapter-generator-usages-usinggenerated:
+    lastUpdated: 20151123142052
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  rapidpm-proxybuilder-modules-objectadapter-testusage:
+    lastUpdated: 20170421202141
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static:
+    lastUpdated: 20170421202141
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static-generated:
+    lastUpdated: 20170421202142
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static-generated-annotations:
+    lastUpdated: 20170421202142
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static-generated-processors:
+    lastUpdated: 20170421202143
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static-generated-testusage:
+    lastUpdated: 20170421202143
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  rapidpm-proxybuilder-modules-static-runtime:
+    lastUpdated: 20161114140542
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.5.0
+      - 0.6.0
+

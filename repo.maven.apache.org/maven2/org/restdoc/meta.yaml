@@ -1,0 +1,67 @@
+artifacts:
+  restdoc-api:
+    lastUpdated: 20150628093056
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4
+      - 1.5
+  restdoc-cxf:
+    lastUpdated: 20150628195110
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.8
+      - 1.9
+      - 1.1
+  restdoc-server-impl:
+    lastUpdated: 20150628135301
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.8
+      - 1.9
+  restdoc-server-impl-jaxrs11:
+    lastUpdated: 20140123073936
+    latest: 1.7.1
+    release: 1.7.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+  restdoc-server-jersey:
+    lastUpdated: 20140123101701
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

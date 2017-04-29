@@ -1,0 +1,86 @@
+artifacts:
+  blueprint:
+    lastUpdated: 20111008010540
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint:
+    lastUpdated: 20111008010543
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.annotation.api:
+    lastUpdated: 20111008010542
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.annotation.impl:
+    lastUpdated: 20111008010543
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.annotation.itests:
+    lastUpdated: 20111008010542
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.api:
+    lastUpdated: 20111008010539
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.cm:
+    lastUpdated: 20111008010542
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.core:
+    lastUpdated: 20111008010541
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.itests:
+    lastUpdated: 20111008010540
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.sample:
+    lastUpdated: 20111008010541
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.sample-annotation:
+    lastUpdated: 20111008010542
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.testbundlea:
+    lastUpdated: 20111008010542
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.testbundleb:
+    lastUpdated: 20111008010543
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+  org.apache.aries.blueprint.testquiescebundle:
+    lastUpdated: 20111008010540
+    latest: 0.3.0.1
+    release: 0.3.0.1
+    versions:
+      - 0.3.0.1
+

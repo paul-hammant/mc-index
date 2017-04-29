@@ -1,0 +1,61 @@
+artifacts:
+  javadb:
+    lastUpdated: 20140520021128
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.8.1.2
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-client:
+    lastUpdated: 20140523145625
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.8.1.2
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-common:
+    lastUpdated: 20140523145606
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.8.1.2
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-core:
+    lastUpdated: 20140523145606
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.8.1.2
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-dem:
+    lastUpdated: 20110815133204
+    latest: 10.5.3.0
+    release: 10.5.3.0
+    versions:
+      - 10.5.3.0
+  javadb-demo:
+    lastUpdated: 20140523145635
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-doc:
+    lastUpdated: 20140523145615
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.9.1.0
+      - 10.10.2.0
+  javadb-javadoc:
+    lastUpdated: 20140523145646
+    latest: 10.10.2.0
+    release: 10.10.2.0
+    versions:
+      - 10.9.1.0
+      - 10.10.2.0
+

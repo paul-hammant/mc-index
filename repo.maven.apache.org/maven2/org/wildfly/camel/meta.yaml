@@ -1,0 +1,1084 @@
+artifacts:
+  compatibility:
+    lastUpdated: 20170202153906
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-itests:
+    lastUpdated: 20170202153906
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-itests-common:
+    lastUpdated: 20170202153907
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-itests-karaf:
+    lastUpdated: 20170202153908
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-itests-wildfly:
+    lastUpdated: 20170202153909
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-patch:
+    lastUpdated: 20170202153910
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  compatibility-patch-karaf:
+    lastUpdated: 20170202153910
+    latest: 4.5.0.redhat-1
+    release: 4.5.0.redhat-1
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+  cxf-undertow:
+    lastUpdated: 20160818120241
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  cxf-undertow-base:
+    lastUpdated: 20160818120241
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  cxf-undertow-embedded:
+    lastUpdated: 20160818120243
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  cxf-undertow-wildfly:
+    lastUpdated: 20160818120244
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-activemq:
+    lastUpdated: 20161205150018
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-cdi:
+    lastUpdated: 20161205150019
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-common:
+    lastUpdated: 20141128125807
+    latest: 2.0.0.CR1
+    release: 2.0.0.CR1
+    versions:
+      - 2.0.0.CR1
+  example-camel-cxf:
+    lastUpdated: 20161205150020
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  example-camel-cxf-jaxrs:
+    lastUpdated: 20160818120249
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-cxf-jaxws:
+    lastUpdated: 20160818120251
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-cxf-soap:
+    lastUpdated: 20141128125808
+    latest: 2.0.0.CR1
+    release: 2.0.0.CR1
+    versions:
+      - 2.0.0.CR1
+  example-camel-itests:
+    lastUpdated: 20160818120252
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-jaxws:
+    lastUpdated: 20161205150021
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  example-camel-jms:
+    lastUpdated: 20161205150021
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-jpa:
+    lastUpdated: 20161205150023
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-mail:
+    lastUpdated: 20161205150024
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  example-camel-rest:
+    lastUpdated: 20161205150025
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  example-camel-transacted-jms:
+    lastUpdated: 20161205150025
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  wildfly-camel:
+    lastUpdated: 20170331074456
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-build:
+    lastUpdated: 20130731102327
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  wildfly-camel-catalog:
+    lastUpdated: 20170331074457
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.1.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-config:
+    lastUpdated: 20170331074458
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-cxf-undertow:
+    lastUpdated: 20170331074459
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-docker:
+    lastUpdated: 20170331074500
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.3.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+  wildfly-camel-docs:
+    lastUpdated: 20170331074500
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-enricher:
+    lastUpdated: 20151014145213
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 3.0.0
+      - 3.1.0
+  wildfly-camel-example:
+    lastUpdated: 20161205150028
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  wildfly-camel-example-distro:
+    lastUpdated: 20150623001031
+    latest: 2.2.0.redhat-620133
+    release: 2.2.0.redhat-620133
+    versions:
+      - 2.2.0.redhat-620133
+  wildfly-camel-example-itests:
+    lastUpdated: 20161205150028
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  wildfly-camel-example-projects:
+    lastUpdated: 20150623001040
+    latest: 2.2.0.redhat-620133
+    release: 2.2.0.redhat-620133
+    versions:
+      - 2.2.0.redhat-620133
+  wildfly-camel-feature-pack:
+    lastUpdated: 20170331074501
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests:
+    lastUpdated: 20170331074502
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-camel:
+    lastUpdated: 20170331074502
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-common:
+    lastUpdated: 20170331074503
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-docker:
+    lastUpdated: 20170331074504
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+  wildfly-camel-itests-docker-domain:
+    lastUpdated: 20160205101546
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.2.0
+      - 2.3.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  wildfly-camel-itests-domain:
+    lastUpdated: 20141128125811
+    latest: 2.0.0.CR1
+    release: 2.0.0.CR1
+    versions:
+      - 2.0.0.CR1
+  wildfly-camel-itests-standalone:
+    lastUpdated: 20170331074504
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-standalone-basic:
+    lastUpdated: 20170331074505
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-standalone-extra:
+    lastUpdated: 20170331074507
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-itests-standalone-smoke:
+    lastUpdated: 20170331074508
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-modules:
+    lastUpdated: 20161205150038
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  wildfly-camel-patch:
+    lastUpdated: 20170331074509
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-subsystem:
+    lastUpdated: 20170331074513
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 2.0.0.Alpha1
+      - 2.0.0.CR1
+      - 2.2.0
+      - 2.2.0-redhat-620118
+      - 2.2.0.redhat-620133
+      - 2.3.0
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-subsystem-cdi:
+    lastUpdated: 20170331074514
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-subsystem-core:
+    lastUpdated: 20170331074515
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-subsystem-ee:
+    lastUpdated: 20160818120327
+    latest: 4.2.1
+    release: 4.2.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+  wildfly-camel-subsystem-security:
+    lastUpdated: 20170331074516
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-subsystem-undertow:
+    lastUpdated: 20170331074517
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-testenricher:
+    lastUpdated: 20170331074518
+    latest: 4.6.0
+    release: 4.6.0
+    versions:
+      - 2.3.0.redhat-621084
+      - 2.3.0.redhat-621090
+      - 2.3.0.redhat-621107
+      - 2.3.0.redhat-621117
+      - 2.3.0.redhat-621159
+      - 2.3.0.redhat-621169
+      - 3.0.0.redhat-1
+      - 3.0.1.redhat-1
+      - 3.2.0
+      - 3.3.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.2.1
+      - 4.3.0
+      - 4.3.0.redhat-1
+      - 4.4.0
+      - 4.5.0
+      - 4.5.0.redhat-1
+      - 4.6.0
+  wildfly-camel-testsuite:
+    lastUpdated: 20141017112314
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.CR1
+  wildfly-camel-webapp:
+    lastUpdated: 20141128125815
+    latest: 2.0.0.CR1
+    release: 2.0.0.CR1
+    versions:
+      - 2.0.0.CR1
+

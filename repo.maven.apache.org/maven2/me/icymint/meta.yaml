@@ -1,0 +1,114 @@
+artifacts:
+  libra:
+    lastUpdated: 20130312030210
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  libra-datasource:
+    lastUpdated: 20130312030210
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  libra-jdbc:
+    lastUpdated: 20130331105742
+    latest: 2.1.11-alpha
+    release: 2.1.11-alpha
+    versions:
+      - 1.0.5
+      - 2.0.0-alpha
+      - 2.1.0-alpha
+      - 2.1.1-alpha
+      - 2.1.5-alpha
+      - 2.1.6-alpha
+      - 2.1.7-alpha
+      - 2.1.8-alpha
+      - 2.1.9-alpha
+      - 2.1.10-alpha
+      - 2.1.11-alpha
+  libra-parent:
+    lastUpdated: 20130306035627
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  libra-sage:
+    lastUpdated: 20130312030211
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  libra-sage-spring:
+    lastUpdated: 20130311031425
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.5
+      - 1.0.6
+  libra-sas:
+    lastUpdated: 20130312030212
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  libra-xml:
+    lastUpdated: 20130312023738
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+  sloth-core:
+    lastUpdated: 20140728060827
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1-alpha
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  sloth-jetty:
+    lastUpdated: 20140728060828
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1-alpha
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  sloth-parent:
+    lastUpdated: 20140728060828
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1-alpha
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  sloth-wechat:
+    lastUpdated: 20140728060829
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1-alpha
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+

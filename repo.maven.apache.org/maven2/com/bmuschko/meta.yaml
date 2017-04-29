@@ -1,0 +1,81 @@
+artifacts:
+  gradle-cargo-plugin:
+    lastUpdated: 20160604130254
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.0.2
+      - 2.0.3
+      - 2.1.1
+      - 2.2
+      - 2.2.1
+      - 2.2.2
+      - 2.2
+  gradle-clover-plugin:
+    lastUpdated: 20141115153330
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  gradle-docker-plugin:
+    lastUpdated: 20160912142427
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.3
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.3.1
+      - 2.4
+      - 2.4.1
+      - 2.5
+      - 2.5.1
+      - 2.6
+      - 2.6.3
+      - 2.6.5
+      - 2.6.6
+      - 2.6.7
+      - 2.6.8
+      - 3.0.0
+      - 3.0.1
+      - 3.0.3
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+  gradle-nexus-plugin:
+    lastUpdated: 20150321175648
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.0.1
+      - 2.1
+      - 2.1.1
+      - 2.2
+      - 2.3
+      - 2.3.1
+      - 2.1
+      - 2.2
+      - 2.3
+  gradle-tomcat-plugin:
+    lastUpdated: 20151208012743
+    latest: 2.2.4
+    release: 2.2.4
+    versions:
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.0
+      - 2.1
+      - 2.2
+

@@ -1,0 +1,222 @@
+artifacts:
+  halite:
+    lastUpdated: 20150510204107
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  halite-core:
+    lastUpdated: 20150510204109
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  halite-json:
+    lastUpdated: 20150510204112
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  halite-rs:
+    lastUpdated: 20150510204112
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  halite-xml:
+    lastUpdated: 20150510204113
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  inkstand:
+    lastUpdated: 20150525220235
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-core:
+    lastUpdated: 20150525220239
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-deployment-resteasy:
+    lastUpdated: 20150525220304
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-deployments:
+    lastUpdated: 20150525220318
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-http-undertow:
+    lastUpdated: 20150525220324
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-jcr:
+    lastUpdated: 20150525220333
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-jcr-jackrabbit:
+    lastUpdated: 20150525220345
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-ms:
+    lastUpdated: 20150525220352
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  inkstand-parent:
+    lastUpdated: 20150525220357
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.2
+      - 0.1.3
+  inkstand-security:
+    lastUpdated: 20150525220359
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  scribble:
+    lastUpdated: 20160224205248
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-all:
+    lastUpdated: 20160224205248
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-core:
+    lastUpdated: 20160224205248
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-file:
+    lastUpdated: 20160224205249
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-http:
+    lastUpdated: 20160224205249
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-inject:
+    lastUpdated: 20160224205250
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-jcr:
+    lastUpdated: 20160224205250
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-ldap:
+    lastUpdated: 20160224205251
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-net:
+    lastUpdated: 20160224205251
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-parent:
+    lastUpdated: 20160224205252
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+  scribble-pdf:
+    lastUpdated: 20160224205252
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.2
+      - 0.3.2.1
+  scribble-security:
+    lastUpdated: 20160224205254
+    latest: 0.3.2.1
+    release: 0.3.2.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.2.1
+

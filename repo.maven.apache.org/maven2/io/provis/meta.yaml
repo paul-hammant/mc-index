@@ -1,0 +1,235 @@
+artifacts:
+  provisio:
+    lastUpdated: 20170420005150
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-airlift:
+    lastUpdated: 20170420005150
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-airlift-testserver:
+    lastUpdated: 20170420005150
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-ant:
+    lastUpdated: 20150403040324
+    latest: 0.1.17
+    release: 0.1.17
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+      - 0.1.10
+      - 0.1.11
+      - 0.1.13
+      - 0.1.14
+      - 0.1.15
+      - 0.1.16
+      - 0.1.17
+  provisio-archive:
+    lastUpdated: 20140725002928
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+  provisio-booter-jsw:
+    lastUpdated: 20140725002928
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+  provisio-booters:
+    lastUpdated: 20140725002928
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+  provisio-command:
+    lastUpdated: 20170420005150
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-core:
+    lastUpdated: 20170420005151
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-its:
+    lastUpdated: 20170420005151
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-jenkins:
+    lastUpdated: 20170420005151
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-jenkins-extensions:
+    lastUpdated: 20170420005152
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-jenkins-launcher:
+    lastUpdated: 20170420005152
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-jenkins-runtime:
+    lastUpdated: 20160819231700
+    latest: 0.1.40
+    release: 0.1.40
+    versions:
+      - 0.1.33
+      - 0.1.34
+      - 0.1.35
+      - 0.1.36
+      - 0.1.37
+      - 0.1.38
+      - 0.1.39
+      - 0.1.40
+  provisio-jenkins-spi:
+    lastUpdated: 20160819231700
+    latest: 0.1.40
+    release: 0.1.40
+    versions:
+      - 0.1.33
+      - 0.1.34
+      - 0.1.35
+      - 0.1.36
+      - 0.1.37
+      - 0.1.38
+      - 0.1.39
+      - 0.1.40
+  provisio-jsw:
+    lastUpdated: 20150403040324
+    latest: 0.1.17
+    release: 0.1.17
+    versions:
+      - 0.1.16
+      - 0.1.17
+  provisio-maven:
+    lastUpdated: 20170420005152
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-model:
+    lastUpdated: 20170420005153
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-nexus:
+    lastUpdated: 20170420005153
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-parser:
+    lastUpdated: 20140725002928
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+  provisio-testing:
+    lastUpdated: 20170420005153
+    latest: 0.1.48
+    release: 0.1.48
+    versions:
+      - 0.1.48
+  provisio-webserver:
+    lastUpdated: 20160124144736
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  provisio-webserver-api:
+    lastUpdated: 20160124144736
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  provisio-webserver-jetty8:
+    lastUpdated: 20160124144736
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  provisio-webserver-jetty9:
+    lastUpdated: 20160124144736
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+

@@ -1,0 +1,41 @@
+artifacts:
+  jettison:
+    lastUpdated: 20090928012139
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  jsp-2.1:
+    lastUpdated: 20091005222129
+    latest: 6.1.5
+    release: 6.1.5
+    versions:
+      - 6.1.5
+  jsp-api-2.1:
+    lastUpdated: 20090928012035
+    latest: 6.1.5
+    release: 6.1.5
+    versions:
+      - 6.1.5
+  maven-tparty:
+    lastUpdated: 20090928011800
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  tranql-connector-derby-common:
+    lastUpdated: 20090928012013
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  xerces-impl:
+    lastUpdated: 20090928011841
+    latest: 2.9.0
+    release: 2.9.0
+    versions:
+      - 2.9.0
+

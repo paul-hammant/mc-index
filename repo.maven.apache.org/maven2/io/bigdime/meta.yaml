@@ -1,0 +1,225 @@
+artifacts:
+  bigdime:
+    lastUpdated: 20160726232758
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-adaptor:
+    lastUpdated: 20160726232801
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-alerting-api:
+    lastUpdated: 20160726232801
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-alerting-impl:
+    lastUpdated: 20160726232801
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-avro-lib:
+    lastUpdated: 20160726232801
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-common-test-utils:
+    lastUpdated: 20160726232802
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-commons:
+    lastUpdated: 20160726232802
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-composite-alerting-impl:
+    lastUpdated: 20160726232802
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-core:
+    lastUpdated: 20160726232802
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-data-handlers:
+    lastUpdated: 20160726232803
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-dist:
+    lastUpdated: 20160726232805
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-hbase-lib:
+    lastUpdated: 20160726232805
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-hdfs-lib:
+    lastUpdated: 20160726232806
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-hive-lib:
+    lastUpdated: 20160726232806
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-kafka-lib:
+    lastUpdated: 20160726232806
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-libraries:
+    lastUpdated: 20160726232806
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-management-console:
+    lastUpdated: 20160726232806
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-metadata-management:
+    lastUpdated: 20160726232807
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-monitoring:
+    lastUpdated: 20160726232807
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-reference-adaptors:
+    lastUpdated: 20160726232811
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-runtimeinfo-management:
+    lastUpdated: 20160726232812
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  bigdime-validators:
+    lastUpdated: 20160726232812
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  click-stream:
+    lastUpdated: 20160726232812
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  file-data:
+    lastUpdated: 20160726232812
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  sql-data:
+    lastUpdated: 20160726232812
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.2
+      - 0.9.3
+

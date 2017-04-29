@@ -1,0 +1,36 @@
+artifacts:
+  fhir:
+    lastUpdated: 20131030183435
+    latest: 0.12.0-RELEASE
+    release: 0.12.0-RELEASE
+    versions:
+      - 0.12.0-RELEASE
+  fhir-0.12:
+    lastUpdated: 20140308011256
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  fhir-dstu1:
+    lastUpdated: 20141001160005
+    latest: 0.0.82.2943
+    release: 0.0.82.2943
+    versions:
+      - 0.0.81.2489
+      - 0.0.81.2943
+      - 0.0.82.2943
+  fhir-dstu2:
+    lastUpdated: 20150925183718
+    latest: 1.0.1.7108
+    release: 1.0.1.7108
+    versions:
+      - 0.4.0.3925
+      - 0.5.0.5149
+      - 1.0.0.6881
+      - 1.0.1.7108
+

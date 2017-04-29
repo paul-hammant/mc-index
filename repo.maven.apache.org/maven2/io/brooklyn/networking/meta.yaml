@@ -1,0 +1,50 @@
+artifacts:
+  brooklyn-networking-cloudstack:
+    lastUpdated: 20160401235551
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+  brooklyn-networking-common:
+    lastUpdated: 20160401235552
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+  brooklyn-networking-parent:
+    lastUpdated: 20160401235552
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+  brooklyn-networking-portforwarding:
+    lastUpdated: 20160401235552
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+  brooklyn-networking-vcloud-director:
+    lastUpdated: 20160401235553
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+  brooklyn-networking-vcloud-director-nat-microservice:
+    lastUpdated: 20150914183113
+    latest: 0.8.0-incubating
+    release: 0.8.0-incubating
+    versions:
+      - 0.8.0-incubating
+  brooklyn-networking-vcloud-director-portforwarding:
+    lastUpdated: 20160401235553
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0-incubating
+      - 0.9.0
+

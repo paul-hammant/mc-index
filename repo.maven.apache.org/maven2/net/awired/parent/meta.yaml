@@ -1,0 +1,73 @@
+artifacts:
+  parent:
+    lastUpdated: 20130611223724
+    latest: 1.16
+    release: 1.16
+    versions:
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.16
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.16
+  parent-java:
+    lastUpdated: 20130611223724
+    latest: 1.16
+    release: 1.16
+    versions:
+      - 1.16
+      - 1.16
+  parent-module-checkstyle:
+    lastUpdated: 20120227121249
+    latest: 1.14
+    release: 1.14
+    versions:
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.12
+      - 1.13
+      - 1.14
+  parent-module-eclipse:
+    lastUpdated: 20120227121250
+    latest: 1.14
+    release: 1.14
+    versions:
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.12
+      - 1.13
+      - 1.14
+  parent-module-license:
+    lastUpdated: 20120227121249
+    latest: 1.14
+    release: 1.14
+    versions:
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.12
+      - 1.13
+      - 1.14
+  parent-module-pmd:
+    lastUpdated: 20120227121249
+    latest: 1.14
+    release: 1.14
+    versions:
+      - 1.12
+      - 1.13
+      - 1.14
+      - 1.12
+      - 1.13
+      - 1.14
+  parent-resources:
+    lastUpdated: 20130611223724
+    latest: 1.16
+    release: 1.16
+    versions:
+      - 1.16
+      - 1.16
+

@@ -1,0 +1,78 @@
+artifacts:
+  eclipse-parent:
+    lastUpdated: 20100928215554
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse:
+    lastUpdated: 20100928215657
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.feature:
+    lastUpdated: 20100928215739
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.help:
+    lastUpdated: 20100928215718
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.sonar.ide.eclipse.m2eclipse:
+    lastUpdated: 20100928215759
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.m2eclipse.feature:
+    lastUpdated: 20100928215820
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.site:
+    lastUpdated: 20100928215842
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.sonar_embedder:
+    lastUpdated: 20100928215630
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.tests:
+    lastUpdated: 20100928220030
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  org.sonar.ide.eclipse.tests.common:
+    lastUpdated: 20100928215948
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+  target-platform:
+    lastUpdated: 20100928220047
+    latest: {}
+    release: 0.2.0
+    versions:
+      - 0.2.0
+      - 0.1.0
+

@@ -1,0 +1,79 @@
+artifacts:
+  commons:
+    lastUpdated: 20170318132227
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  commons-util:
+    lastUpdated: 20170318132227
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  cycle:
+    lastUpdated: 20170316134906
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  minimal:
+    lastUpdated: 20170401073550
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  spin:
+    lastUpdated: 20170410131527
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  tokamak:
+    lastUpdated: 20170317235642
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  tokamak-authorization:
+    lastUpdated: 20170317235642
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  tokamak-sdk:
+    lastUpdated: 20170317235643
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  tokamak-server:
+    lastUpdated: 20170317235643
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  tokamak-spec:
+    lastUpdated: 20170317235644
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  valex:
+    lastUpdated: 20170401180959
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+

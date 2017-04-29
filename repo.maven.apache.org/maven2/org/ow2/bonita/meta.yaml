@@ -1,0 +1,466 @@
+artifacts:
+  bonita:
+    lastUpdated: 20080827140855
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.RC3
+  bonita-ant-tasks:
+    lastUpdated: 20090515143738
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+  bonita-api:
+    lastUpdated: 20090515143657
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-api-accessor:
+    lastUpdated: 20090515143719
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-api-fullObj:
+    lastUpdated: 20090515143904
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-api-fullObj-impl:
+    lastUpdated: 20090515144021
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-api-impl:
+    lastUpdated: 20090914182138
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-api-impl-ejb:
+    lastUpdated: 20090914182205
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-api-obj:
+    lastUpdated: 20090515143431
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-api-obj-impl:
+    lastUpdated: 20090515143458
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-build:
+    lastUpdated: 20090304172802
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+  bonita-client:
+    lastUpdated: 20140130130734
+    latest: 5.10.2
+    release: 5.10.2
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+      - 5.8
+      - 5.9
+      - 5.9.1
+      - 5.9.2
+      - 5.1
+      - 5.10.1
+      - 5.10.2
+  bonita-cmis:
+    lastUpdated: 20120927120248
+    latest: 5.7.3
+    release: 5.7.3
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+  bonita-core:
+    lastUpdated: 20080926130212
+    latest: {}
+    release: {}
+    versions:
+      - 4.0.RC3
+      - 4.0
+  bonita-deployment:
+    lastUpdated: 20090914182127
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-distrib:
+    lastUpdated: 20140130130734
+    latest: 5.10.2
+    release: 5.10.2
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+      - 5.8
+      - 5.9
+      - 5.9.1
+      - 5.9.2
+      - 5.1
+      - 5.10.1
+      - 5.10.2
+  bonita-distrib-client:
+    lastUpdated: 20140130130734
+    latest: 5.10.2
+    release: 5.10.2
+    versions:
+      - 5.9
+      - 5.9.1
+      - 5.9.2
+      - 5.1
+      - 5.10.1
+      - 5.10.2
+  bonita-doc:
+    lastUpdated: 20090914183014
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.RC3
+      - 4.0
+      - 4.0.1
+      - 4.1
+      - 5.0.M2
+  bonita-engine:
+    lastUpdated: 20090914182015
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-env:
+    lastUpdated: 20090914182030
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-examples:
+    lastUpdated: 20100427125716
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+      - 5.0.M3
+      - 5.0.preview
+      - 5.0.M4
+      - 5.0.M5
+      - 5.0.RC1
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.0.2
+      - 5.1.1
+  bonita-hibernate:
+    lastUpdated: 20090914182225
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-identity:
+    lastUpdated: 20090515143753
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+  bonita-integration-tests:
+    lastUpdated: 20090304172609
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-parent:
+    lastUpdated: 20090515143337
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.RC3
+      - 4.0
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-parser-xpdl:
+    lastUpdated: 20090914182041
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-perf:
+    lastUpdated: 20100427125727
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.RC3
+      - 4.0
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+      - 5.0.M3
+      - 5.0.preview
+      - 5.0.M4
+      - 5.0.M5
+      - 5.0.RC1
+      - 5.0
+      - 5.0.1
+      - 5.1
+      - 5.0.2
+      - 5.1.1
+  bonita-perf-common:
+    lastUpdated: 20090515144521
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+  bonita-pvm:
+    lastUpdated: 20090515143601
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+  bonita-runtime:
+    lastUpdated: 20140130130734
+    latest: 5.10.2
+    release: 5.10.2
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+      - 5.8
+      - 5.9
+      - 5.9.1
+      - 5.9.2
+      - 5.1
+      - 5.10.1
+      - 5.10.2
+  bonita-server:
+    lastUpdated: 20140130130734
+    latest: 5.10.2
+    release: 5.10.2
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+      - 5.8
+      - 5.9
+      - 5.9.1
+      - 5.9.2
+      - 5.1
+      - 5.10.1
+      - 5.10.2
+  bonita-server-env:
+    lastUpdated: 20090914182238
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-services:
+    lastUpdated: 20090914182001
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-services-impl:
+    lastUpdated: 20090914182150
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-template:
+    lastUpdated: 20090914182104
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-templates:
+    lastUpdated: 20080926130423
+    latest: {}
+    release: {}
+    versions:
+      - 4.0
+  bonita-tests:
+    lastUpdated: 20090304172446
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-easybeans:
+    lastUpdated: 20090304172636
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-jboss4-ejb2:
+    lastUpdated: 20090304172719
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-jboss4-ejb3:
+    lastUpdated: 20090304172733
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-jboss5:
+    lastUpdated: 20090304172748
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-jonas4:
+    lastUpdated: 20090304172648
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-jonas5:
+    lastUpdated: 20090304172705
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-tests-package:
+    lastUpdated: 20090304172621
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+  bonita-textui:
+    lastUpdated: 20090914182215
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+      - 5.0.M2
+  bonita-util-common:
+    lastUpdated: 20090515143354
+    latest: {}
+    release: {}
+    versions:
+      - 4.1
+      - 4.1.1
+  bonita-utils:
+    lastUpdated: 20090515143413
+    latest: {}
+    release: 4.0.1
+    versions:
+      - 4.0.1
+      - 4.1
+      - 4.1.1
+  bonita-xcmis-war:
+    lastUpdated: 20120927120248
+    latest: 5.7.3
+    release: 5.7.3
+    versions:
+      - 5.5.3
+      - 5.6.1
+      - 5.6.2
+      - 5.6.3
+      - 5.7
+      - 5.7.1
+      - 5.7.2
+      - 5.7.3
+

@@ -1,0 +1,1427 @@
+artifacts:
+  net.osgiliath.feature.agorava:
+    lastUpdated: 20150819121331
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.camel:
+    lastUpdated: 20150819121331
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.cdi:
+    lastUpdated: 20150819121332
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.common:
+    lastUpdated: 20150819121332
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.cxf:
+    lastUpdated: 20150819121332
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.derby:
+    lastUpdated: 20150819121333
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.full:
+    lastUpdated: 20150819121333
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.functional:
+    lastUpdated: 20150819121333
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.cdi:
+    lastUpdated: 20150819121334
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.cdi.properties:
+    lastUpdated: 20150819121334
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.feature:
+    lastUpdated: 20150819121334
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jaxrs:
+    lastUpdated: 20150819121335
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jaxrs.cdi:
+    lastUpdated: 20150819121335
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jaxrs.web:
+    lastUpdated: 20150819121335
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jaxrs.web.cdi:
+    lastUpdated: 20150819121336
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jpa:
+    lastUpdated: 20150819121336
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jpa.cdi.daos:
+    lastUpdated: 20150819121337
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jpa.cdi.entities:
+    lastUpdated: 20150819121337
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.jpa.pax:
+    lastUpdated: 20150819121337
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.messaging:
+    lastUpdated: 20150819121338
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.messaging.cdi:
+    lastUpdated: 20150819121338
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.security:
+    lastUpdated: 20150819121338
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.validation:
+    lastUpdated: 20150819121339
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itest.validation.cdi:
+    lastUpdated: 20150819121339
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.itests:
+    lastUpdated: 20150819121339
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.jaxrs:
+    lastUpdated: 20150819121339
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.jpa:
+    lastUpdated: 20150819121340
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.karaf-enterprise:
+    lastUpdated: 20150819121340
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.karaf-standard:
+    lastUpdated: 20150819121340
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.messaging:
+    lastUpdated: 20150819121341
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.monitoring:
+    lastUpdated: 20150819121341
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.pax-cdi:
+    lastUpdated: 20150819121341
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.pax-web:
+    lastUpdated: 20150819121342
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.routes:
+    lastUpdated: 20150819121342
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.security:
+    lastUpdated: 20150819121342
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.spring:
+    lastUpdated: 20150819121343
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.feature.validation:
+    lastUpdated: 20150819121343
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.features:
+    lastUpdated: 20150819121343
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.features.karaf-features:
+    lastUpdated: 20150615210005
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-agorava:
+    lastUpdated: 20150612154230
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.8
+  net.osgiliath.features.karaf-features-camel:
+    lastUpdated: 20150615205941
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-cdi:
+    lastUpdated: 20150615210001
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-common:
+    lastUpdated: 20150615210004
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-cxf:
+    lastUpdated: 20150615205947
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-derby:
+    lastUpdated: 20150615210000
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-full:
+    lastUpdated: 20150615210007
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-functional:
+    lastUpdated: 20150615205951
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-jaxrs:
+    lastUpdated: 20150615205957
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-jpa:
+    lastUpdated: 20150615210011
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-karaf-enterprise:
+    lastUpdated: 20150615210006
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-karaf-standard:
+    lastUpdated: 20150615210005
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-messaging:
+    lastUpdated: 20150615210003
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-monitoring:
+    lastUpdated: 20150615205949
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-pax-cdi:
+    lastUpdated: 20150615205949
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-pax-web:
+    lastUpdated: 20150615205947
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-routes:
+    lastUpdated: 20150615210012
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-security:
+    lastUpdated: 20150615205956
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-spring:
+    lastUpdated: 20150615205959
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features-standard:
+    lastUpdated: 20141203111521
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+  net.osgiliath.features.karaf-features-validation:
+    lastUpdated: 20150615205954
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests:
+    lastUpdated: 20150615210006
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.cdi:
+    lastUpdated: 20150615210007
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.cdi.properties:
+    lastUpdated: 20150615205951
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.feature:
+    lastUpdated: 20150615205948
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jaxrs:
+    lastUpdated: 20150615210008
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jaxrs.cdi:
+    lastUpdated: 20150615210009
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jaxrs.web:
+    lastUpdated: 20150615210002
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jaxrs.web.cdi:
+    lastUpdated: 20150615205943
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jpa:
+    lastUpdated: 20150615205946
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.jpa.cdi:
+    lastUpdated: 20140907152831
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  net.osgiliath.features.karaf-features.itests.jpa.cdi.data:
+    lastUpdated: 20140907152831
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  net.osgiliath.features.karaf-features.itests.jpa.cdi.model:
+    lastUpdated: 20140907152832
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  net.osgiliath.features.karaf-features.itests.jpa.database:
+    lastUpdated: 20141123113039
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+  net.osgiliath.features.karaf-features.itests.messaging:
+    lastUpdated: 20150615205953
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.messaging.cdi:
+    lastUpdated: 20150615205950
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.security:
+    lastUpdated: 20150615205945
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.validation:
+    lastUpdated: 20150615205952
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.features.karaf-features.itests.validation.cdi:
+    lastUpdated: 20150615205955
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helper.activemq.broker:
+    lastUpdated: 20150819121343
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.activemq.jms.connectionfactory.exporter:
+    lastUpdated: 20150819121344
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.camel:
+    lastUpdated: 20150819121344
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.camel.activemq:
+    lastUpdated: 20150819121344
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.cdi.eager:
+    lastUpdated: 20150819121344
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.cdi.tx:
+    lastUpdated: 20150819121345
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.cxf.exception.handling:
+    lastUpdated: 20150819121345
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.deltaspike.configadmin:
+    lastUpdated: 20150819121345
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.deltaspike.tx:
+    lastUpdated: 20150819121346
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.derby:
+    lastUpdated: 20150819121346
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.exam:
+    lastUpdated: 20150819121346
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.manifest.transformer:
+    lastUpdated: 20150819121347
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.pax-jpa.tx:
+    lastUpdated: 20150819121347
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.spring-jms:
+    lastUpdated: 20150819121347
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.swagger.cdi:
+    lastUpdated: 20150819121348
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.swagger.ui:
+    lastUpdated: 20150819121348
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helper.validation.osgi.services:
+    lastUpdated: 20150819121348
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helpers:
+    lastUpdated: 20150819121349
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  net.osgiliath.helpers.activemq.broker:
+    lastUpdated: 20150615205952
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.activemq.jms.connectionfactory.exporter:
+    lastUpdated: 20150615210009
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.camel:
+    lastUpdated: 20150615205945
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.camel.activemq:
+    lastUpdated: 20150615205951
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.camel.cdi.configadmin:
+    lastUpdated: 20140907152837
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  net.osgiliath.helpers.cdi.cxf.jaxrs:
+    lastUpdated: 20141203111533
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+  net.osgiliath.helpers.cdi.eager:
+    lastUpdated: 20150615205958
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.cxf.exception.handling:
+    lastUpdated: 20150615205942
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.deltaspike.configadmin:
+    lastUpdated: 20150615210010
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.derby:
+    lastUpdated: 20150615205944
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.exam:
+    lastUpdated: 20150615205957
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.hibernate.validator.cdi.osgi:
+    lastUpdated: 20140501115303
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  net.osgiliath.helpers.manifest.transformer:
+    lastUpdated: 20150615205946
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.parent:
+    lastUpdated: 20150615210005
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.spring-jms:
+    lastUpdated: 20150615205953
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.swagger.cdi:
+    lastUpdated: 20150615210003
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.swagger.ui:
+    lastUpdated: 20150615205943
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  net.osgiliath.helpers.validation.osgi.services:
+    lastUpdated: 20150615205959
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+

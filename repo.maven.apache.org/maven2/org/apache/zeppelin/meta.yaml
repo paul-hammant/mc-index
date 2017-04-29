@@ -1,0 +1,390 @@
+artifacts:
+  zeppelin:
+    lastUpdated: 20170331140043
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-incubating
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-alluxio:
+    lastUpdated: 20170331140044
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-angular:
+    lastUpdated: 20170331140044
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-beam:
+    lastUpdated: 20170331140044
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  zeppelin-bigquery:
+    lastUpdated: 20170331140044
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-cassandra:
+    lastUpdated: 20160703182418
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-cassandra_2.10:
+    lastUpdated: 20170331140045
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-cassandra_2.11:
+    lastUpdated: 20170331140045
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-display:
+    lastUpdated: 20160703182418
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-display_2.10:
+    lastUpdated: 20170331140045
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-display_2.11:
+    lastUpdated: 20170331140046
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-elasticsearch:
+    lastUpdated: 20170331140046
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-file:
+    lastUpdated: 20170331140046
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-flink:
+    lastUpdated: 20160703182419
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-flink_2.10:
+    lastUpdated: 20170331140046
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-flink_2.11:
+    lastUpdated: 20170331140047
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-hbase:
+    lastUpdated: 20170331140047
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-ignite:
+    lastUpdated: 20160703182420
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-ignite_2.10:
+    lastUpdated: 20170331140047
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-ignite_2.11:
+    lastUpdated: 20170331140048
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-interpreter:
+    lastUpdated: 20170331140048
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-incubating
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-jdbc:
+    lastUpdated: 20170331140048
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-kylin:
+    lastUpdated: 20170331140049
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-lens:
+    lastUpdated: 20170331140049
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-livy:
+    lastUpdated: 20170331140049
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-markdown:
+    lastUpdated: 20170331140050
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-pig:
+    lastUpdated: 20170331140050
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  zeppelin-postgresql:
+    lastUpdated: 20170331140050
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-python:
+    lastUpdated: 20170331140051
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-scio_2.10:
+    lastUpdated: 20170331140055
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  zeppelin-scio_2.11:
+    lastUpdated: 20170331140055
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  zeppelin-server:
+    lastUpdated: 20170331140100
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-shell:
+    lastUpdated: 20170331140100
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-spark:
+    lastUpdated: 20160703182433
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-spark-dependencies:
+    lastUpdated: 20160703182434
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-spark-dependencies_2.10:
+    lastUpdated: 20170331140100
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-spark-dependencies_2.11:
+    lastUpdated: 20170331140109
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-spark_2.10:
+    lastUpdated: 20170331140118
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-spark_2.11:
+    lastUpdated: 20170331140118
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-web:
+    lastUpdated: 20170331140119
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-zengine:
+    lastUpdated: 20170331140121
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.5.0-incubating
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-zrinterpreter:
+    lastUpdated: 20160703182521
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  zeppelin-zrinterpreter_2.10:
+    lastUpdated: 20170331140121
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+  zeppelin-zrinterpreter_2.11:
+    lastUpdated: 20170331140122
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0
+      - 0.7.1
+

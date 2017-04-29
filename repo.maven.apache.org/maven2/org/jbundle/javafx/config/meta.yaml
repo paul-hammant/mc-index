@@ -1,0 +1,26 @@
+artifacts:
+  jbundle-javafx-reactor:
+    lastUpdated: 20121208060416
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jbundle-view-javafx-reactor:
+    lastUpdated: 20150103014121
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 0.9.0
+      - 1.0.0.1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  org.jbundle.base.screen.view.javafx:
+    lastUpdated: 20150103014122
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+

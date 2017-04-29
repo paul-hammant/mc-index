@@ -1,0 +1,44 @@
+artifacts:
+  lycia:
+    lastUpdated: 20101015210657
+    latest: 1.9.8B
+    release: 1.9.8B
+    versions:
+      - 1.9.7
+      - 1.9.8
+      - 1.9.8A
+      - 1.9.8B
+  lycia-legacy:
+    lastUpdated: 20101015210659
+    latest: 1.9.8B
+    release: 1.9.8B
+    versions:
+      - 1.9.7
+      - 1.9.8
+      - 1.9.8A
+      - 1.9.8B
+  lycia-osgi-consumer-test:
+    lastUpdated: 20100917094529
+    latest: 1.9.7
+    release: 1.9.7
+    versions:
+      - 1.9.7
+  lycia-springintegration:
+    lastUpdated: 20101015210655
+    latest: 1.9.8B
+    release: 1.9.8B
+    versions:
+      - 1.9.7
+      - 1.9.8
+      - 1.9.8A
+      - 1.9.8B
+  lyciaparent:
+    lastUpdated: 20101015210657
+    latest: 1.9.8B
+    release: 1.9.8B
+    versions:
+      - 1.9.7
+      - 1.9.8
+      - 1.9.8A
+      - 1.9.8B
+

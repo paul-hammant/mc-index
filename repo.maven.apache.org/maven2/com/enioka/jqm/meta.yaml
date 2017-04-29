@@ -1,0 +1,689 @@
+artifacts:
+  jqm-all:
+    lastUpdated: 20170415095350
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-api:
+    lastUpdated: 20170415095350
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-api-client-core:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-api-client-hibernate:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-api-client-jersey:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-client:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-doc:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-engine:
+    lastUpdated: 20170415095351
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-jsfsample:
+    lastUpdated: 20170415095352
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-model:
+    lastUpdated: 20170415095353
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-pki:
+    lastUpdated: 20170415095353
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-providers:
+    lastUpdated: 20170415095353
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-apienginestatus:
+    lastUpdated: 20141202213102
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-checkargs:
+    lastUpdated: 20141202213104
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-cl-isolation:
+    lastUpdated: 20170415095353
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemaven:
+    lastUpdated: 20170415095354
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemaven2:
+    lastUpdated: 20141202213105
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-datetimemavenjarinlib:
+    lastUpdated: 20170415095354
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemavennolibdef:
+    lastUpdated: 20170415095354
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemavennopom:
+    lastUpdated: 20170415095354
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemavennopomlib:
+    lastUpdated: 20170415095355
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-datetimemavenparent:
+    lastUpdated: 20141202213107
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-datetimesendmsg:
+    lastUpdated: 20141202213108
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-defcon:
+    lastUpdated: 20141202213109
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-deliverable:
+    lastUpdated: 20141202213109
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-em:
+    lastUpdated: 20170415095355
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-embeddedtest:
+    lastUpdated: 20141202213110
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-emplusapi:
+    lastUpdated: 20141202213111
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-exit:
+    lastUpdated: 20141202213111
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-fibo:
+    lastUpdated: 20141202213112
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-fibohib:
+    lastUpdated: 20141202213112
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-fibosync:
+    lastUpdated: 20141202213113
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-geo:
+    lastUpdated: 20141202213113
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-helpers:
+    lastUpdated: 20170415095355
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-jmxleak:
+    lastUpdated: 20141202213114
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-jndifile:
+    lastUpdated: 20141202213115
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-jndijms-amq:
+    lastUpdated: 20170415095355
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-kill:
+    lastUpdated: 20141202213116
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-kill2:
+    lastUpdated: 20141202213116
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-legacyinheritance:
+    lastUpdated: 20141202213117
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-main:
+    lastUpdated: 20141202213117
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-main-inject:
+    lastUpdated: 20141202213118
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-missingapi:
+    lastUpdated: 20141202213118
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-providedapi:
+    lastUpdated: 20170415095355
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-pyl:
+    lastUpdated: 20170415095356
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-pyl-hibapi:
+    lastUpdated: 20170415095356
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-pyl-nodep:
+    lastUpdated: 20170415095356
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-test-runnable:
+    lastUpdated: 20141202213119
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-runnable-inject:
+    lastUpdated: 20141202213120
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-sendmsg:
+    lastUpdated: 20141202213121
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-sendprogress:
+    lastUpdated: 20141202213121
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-throwable:
+    lastUpdated: 20141202213122
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.6
+      - 1.2.1
+  jqm-test-tmpdir:
+    lastUpdated: 20141202213123
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-test-waitall:
+    lastUpdated: 20141202213123
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jqm-tests:
+    lastUpdated: 20170415095356
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-tst:
+    lastUpdated: 20170415095356
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-webui:
+    lastUpdated: 20140421165131
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.6
+  jqm-webui-ear:
+    lastUpdated: 20140421165131
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.6
+  jqm-webui-war:
+    lastUpdated: 20140421165132
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.6
+  jqm-webui-war-ws:
+    lastUpdated: 20140421165133
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.6
+  jqm-ws:
+    lastUpdated: 20170415095357
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.1.6
+      - 1.2.1
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.3.7
+      - 1.4.1
+      - 1.4.2
+  jqm-wstst:
+    lastUpdated: 20151028160048
+    latest: 1.3.5
+    release: 1.3.5
+    versions:
+      - 1.2.2
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+

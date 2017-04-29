@@ -1,0 +1,52 @@
+artifacts:
+  gitbucket_2.11:
+    lastUpdated: 20170128172222
+    latest: 4.9.0
+    release: 4.9.0
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.6.0
+      - 4.7.0
+      - 4.8
+      - 4.9.0
+      - 4.8
+  gitbucket_2.12:
+    lastUpdated: 20170331180535
+    latest: 4.11.0
+    release: 4.11.0
+    versions:
+      - 4.10.0
+      - 4.11.0
+  markedj:
+    lastUpdated: 20170305164741
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+  scalatra-forms_2.11:
+    lastUpdated: 20160302165822
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scalatra-forms_2.12:
+    lastUpdated: 20161124165049
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  solidbase:
+    lastUpdated: 20170406154444
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+

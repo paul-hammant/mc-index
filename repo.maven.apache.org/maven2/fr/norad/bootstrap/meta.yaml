@@ -1,0 +1,36 @@
+artifacts:
+  bootstrap:
+    lastUpdated: 20140212115925
+    latest: 1.1-jdk6
+    release: 1.1-jdk6
+    versions:
+      - 1.1
+      - 1.1-jdk6
+      - 1.1
+  bootstrap-java:
+    lastUpdated: 20140212115925
+    latest: 1.1-jdk6
+    release: 1.1-jdk6
+    versions:
+      - 1.1
+      - 1.1-jdk6
+      - 1.1
+  bootstrap-sample-jar:
+    lastUpdated: 20140212115926
+    latest: 1.1-jdk6
+    release: 1.1-jdk6
+    versions:
+      - 1.1-jdk6
+  bootstrap-sample-war:
+    lastUpdated: 20140212115927
+    latest: 1.1-jdk6
+    release: 1.1-jdk6
+    versions:
+      - 1.1-jdk6
+  bootstrap-sample-war-cli:
+    lastUpdated: 20140212115928
+    latest: 1.1-jdk6
+    release: 1.1-jdk6
+    versions:
+      - 1.1-jdk6
+

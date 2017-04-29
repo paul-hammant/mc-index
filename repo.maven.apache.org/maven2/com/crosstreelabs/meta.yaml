@@ -1,0 +1,134 @@
+artifacts:
+  jaxrs.api.versioned:
+    lastUpdated: 20151001124328
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  junited:
+    lastUpdated: 20150926175950
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.core:
+    lastUpdated: 20150926175950
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.dbunit:
+    lastUpdated: 20150926175951
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.elasticsearch:
+    lastUpdated: 20150926175951
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.flyway:
+    lastUpdated: 20150926175952
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.guice:
+    lastUpdated: 20150926175952
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.hibernate:
+    lastUpdated: 20150926175952
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.hsqldb:
+    lastUpdated: 20150926175953
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.jersey:
+    lastUpdated: 20150926175953
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.jetty:
+    lastUpdated: 20150926175954
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.quarantine:
+    lastUpdated: 20150926175954
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.resteasy:
+    lastUpdated: 20150926175955
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  junited.timing:
+    lastUpdated: 20150926175955
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  oauth:
+    lastUpdated: 20150523230312
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  parent:
+    lastUpdated: 20150702022534
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.1.0
+      - 2.1.1
+  phpfunctions:
+    lastUpdated: 20150414172740
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  slender:
+    lastUpdated: 20141020224832
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  testing:
+    lastUpdated: 20150529154931
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.5.0
+

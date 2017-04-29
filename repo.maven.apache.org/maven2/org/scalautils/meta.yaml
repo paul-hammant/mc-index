@@ -1,0 +1,163 @@
+artifacts:
+  scalautils_2.10:
+    lastUpdated: 20140518183857
+    latest: 2.1.7-SNAP2
+    release: 2.1.7-SNAP2
+    versions:
+      - 2.0.M6
+      - 2.0.M6-SNAP6
+      - 2.0.M6-SNAP7
+      - 2.0.M6-SNAP8
+      - 2.0.M6-SNAP9
+      - 2.0.M6-SNAP12
+      - 2.0.M6-SNAP13
+      - 2.0.M6-SNAP14
+      - 2.0.M6-SNAP15
+      - 2.0.M6-SNAP16
+      - 2.0.M6-SNAP17
+      - 2.0.M6-SNAP18
+      - 2.0.M6-SNAP19
+      - 2.0.M6-SNAP20
+      - 2.0.M6-SNAP21
+      - 2.0.M6-SNAP22
+      - 2.0.M6-SNAP23
+      - 2.0.M6-SNAP24
+      - 2.0.M6-SNAP25
+      - 2.0.M6-SNAP26
+      - 2.0.M6-SNAP28
+      - 2.0.M6-SNAP29
+      - 2.0.M6-SNAP30
+      - 2.0.M6-SNAP31
+      - 2.0.M6-SNAP33
+      - 2.0.M6-SNAP34
+      - 2.0.M6-SNAP35
+      - 2.0.M6-SNAP36
+      - 2.0.M7
+      - 2.0.M8
+      - 2.0.RC1
+      - 2.0.RC1-SNAP1
+      - 2.0.RC1-SNAP2
+      - 2.0.RC1-SNAP3
+      - 2.0.RC1-SNAP4
+      - 2.0.RC1-SNAP5
+      - 2.0.RC1-SNAP6
+      - 2.0.RC2
+      - 2.0.RC3
+      - 2.0
+      - 2.0.1-SNAP
+      - 2.0.1-SNAP2
+      - 2.0.1-SNAP3
+      - 2.0.1-SNAP4
+      - 2.0.1-SNAP5
+      - 2.0.1-SNAP6
+      - 2.1.RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.4-SNAP1
+      - 2.1.5
+      - 2.1.5-SNAP1
+      - 2.1.6
+      - 2.1.7
+      - 2.1.7-SNAP1
+      - 2.1.7-SNAP2
+  scalautils_2.10.0:
+    lastUpdated: 20130114154524
+    latest: 2.0.M6-SNAP5
+    release: 2.0.M6-SNAP5
+    versions:
+      - 2.0.M6-SNAP4
+      - 2.0.M6-SNAP5
+  scalautils_2.10.0-RC2:
+    lastUpdated: 20121212205633
+    latest: 2.0.M6-SNAP4
+    release: 2.0.M6-SNAP4
+    versions:
+      - 2.0.M6-SNAP4
+  scalautils_2.11:
+    lastUpdated: 20140517074721
+    latest: 2.1.7
+    release: 2.1.7
+    versions:
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7
+  scalautils_2.11.0-M3:
+    lastUpdated: 20130711022735
+    latest: 2.0.M6-SNAP27
+    release: 2.0.M6-SNAP27
+    versions:
+      - 2.0.M6-SNAP27
+  scalautils_2.11.0-M4:
+    lastUpdated: 20130726204639
+    latest: 2.0.M6-SNAP35
+    release: 2.0.M6-SNAP35
+    versions:
+      - 2.0.M6-SNAP35
+  scalautils_2.11.0-M5:
+    lastUpdated: 20130910223450
+    latest: 2.0.M7
+    release: 2.0.M7
+    versions:
+      - 2.0.M7
+  scalautils_2.11.0-M7:
+    lastUpdated: 20131123220303
+    latest: 2.0.1-SNAP4
+    release: 2.0.1-SNAP4
+    versions:
+      - 2.0.1-SNAP4
+  scalautils_2.11.0-M8:
+    lastUpdated: 20140226033407
+    latest: 2.1.0-RC3
+    release: 2.1.0-RC3
+    versions:
+      - 2.0.1-SNAP7
+      - 2.1.RC1
+      - 2.1.0-RC2
+      - 2.1.0-RC3
+  scalautils_2.11.0-RC1:
+    lastUpdated: 20140301225105
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  scalautils_2.11.0-RC2:
+    lastUpdated: 20140319162110
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.1
+  scalautils_2.11.0-RC3:
+    lastUpdated: 20140320040456
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.2
+  scalautils_2.11.0-RC4:
+    lastUpdated: 20140406232233
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.3
+  scalautils_2.9.0:
+    lastUpdated: 20121211215710
+    latest: 2.0.M6-SNAP4
+    release: 2.0.M6-SNAP4
+    versions:
+      - 2.0.M6-SNAP4
+  scalautils_2.9.1:
+    lastUpdated: 20130615003610
+    latest: 2.0.M6-SNAP22
+    release: 2.0.M6-SNAP22
+    versions:
+      - 2.0.M6-SNAP4
+      - 2.0.M6-SNAP10
+      - 2.0.M6-SNAP11
+      - 2.0.M6-SNAP22
+

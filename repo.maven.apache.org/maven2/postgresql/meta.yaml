@@ -1,0 +1,23 @@
+artifacts:
+  pljava-public:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0b4
+  postgresql:
+    lastUpdated: 20111219063925
+    latest: 9.1-901-1.jdbc4
+    release: 9.1-901-1.jdbc4
+    versions:
+      - 8.2-511.jdbc3
+      - 8.3-606.jdbc3
+      - 8.3-606.jdbc4
+      - 8.4-702.jdbc3
+      - 8.4-702.jdbc4
+      - 9.0-801.jdbc3
+      - 9.0-801.jdbc4
+      - 9.1-901.jdbc3
+      - 9.1-901.jdbc4
+      - 9.1-901-1.jdbc4
+

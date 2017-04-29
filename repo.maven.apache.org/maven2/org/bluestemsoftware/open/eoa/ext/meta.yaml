@@ -1,0 +1,477 @@
+artifacts:
+  activemq-client-connection-factory:
+    lastUpdated: 20100105044110
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  activemq-embedded-connection-factory:
+    lastUpdated: 20100105044041
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  activemq-jms-server:
+    lastUpdated: 20100105044019
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  axiom-message-abstract:
+    lastUpdated: 20100105044513
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  axis-server-feature:
+    lastUpdated: 20100105045042
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  commons-http-client:
+    lastUpdated: 20100105044402
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  component-project-archetype:
+    lastUpdated: 20100105045507
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  credential-store-xml:
+    lastUpdated: 20100105044232
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  default-10-application:
+    lastUpdated: 20100105044947
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  default-10-engine:
+    lastUpdated: 20100105045416
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  default-10-message:
+    lastUpdated: 20100105044532
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  derby-client-datasource:
+    lastUpdated: 20100105043949
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  derby-db-server:
+    lastUpdated: 20100105043906
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  derby-embedded-datasource:
+    lastUpdated: 20100105043922
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ext-client-test:
+    lastUpdated: 20100105044555
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ext-system-test:
+    lastUpdated: 20100105043514
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  extension-project-archetype:
+    lastUpdated: 20100105045525
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  extensions-trunk:
+    lastUpdated: 20100105043501
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  feature-project-archetype:
+    lastUpdated: 20100105045537
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  http-binding-default:
+    lastUpdated: 20100105045145
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  jaas-login-context:
+    lastUpdated: 20100105044313
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  jaas-login-module:
+    lastUpdated: 20100105044140
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  jetty-http-server:
+    lastUpdated: 20100105044336
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  jmx-server-default:
+    lastUpdated: 20100105045345
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  open-eoa-aspect-axiom:
+    lastUpdated: 20100105044452
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  rmi-registry-default:
+    lastUpdated: 20100105044429
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  soap-binding-default:
+    lastUpdated: 20100105045250
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  spring-10-application:
+    lastUpdated: 20100105045008
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  spring-10-engine:
+    lastUpdated: 20100105045445
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  spring-naming-context:
+    lastUpdated: 20100105044920
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  standalone-10-container:
+    lastUpdated: 20100105043601
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  standalone-10-server:
+    lastUpdated: 20100105043622
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-addressing-soap:
+    lastUpdated: 20100105044618
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-appdata-soap:
+    lastUpdated: 20100105044813
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-mex-open:
+    lastUpdated: 20100105044746
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-mtom-soap:
+    lastUpdated: 20100105044829
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-policy-15-xerces:
+    lastUpdated: 20100105043813
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-rm-soap:
+    lastUpdated: 20100105044849
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-transport-http:
+    lastUpdated: 20100105044642
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  ws-transport-vm:
+    lastUpdated: 20100105044726
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  wsdl-11-xerces:
+    lastUpdated: 20100105043722
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  wsdl-20-xerces:
+    lastUpdated: 20100105043747
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  xml-schema-10-xerces:
+    lastUpdated: 20100105043641
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  xpath-10-jaxen:
+    lastUpdated: 20100105043848
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+

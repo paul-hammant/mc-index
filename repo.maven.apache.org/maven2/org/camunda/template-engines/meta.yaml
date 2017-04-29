@@ -1,0 +1,41 @@
+artifacts:
+  camunda-template-engines-bom:
+    lastUpdated: 20141128135611
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1-alpha1
+      - 1.0.1
+  camunda-template-engines-freemarker:
+    lastUpdated: 20141128135611
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0
+      - 1.0.1-alpha1
+      - 1.0.1
+  camunda-template-engines-parent:
+    lastUpdated: 20140719081230
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0
+  camunda-template-engines-root:
+    lastUpdated: 20141128135612
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1-alpha1
+      - 1.0.1
+  camunda-template-engines-velocity:
+    lastUpdated: 20141128135612
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0
+      - 1.0.1-alpha1
+      - 1.0.1
+

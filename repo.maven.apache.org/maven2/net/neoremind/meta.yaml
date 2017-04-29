@@ -1,0 +1,68 @@
+artifacts:
+  consumer-spi:
+    lastUpdated: 20160914125700
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  dynamicproxy:
+    lastUpdated: 20160712060658
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fountain-base:
+    lastUpdated: 20160914125700
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fountain-common:
+    lastUpdated: 20160914125701
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fountain-producer:
+    lastUpdated: 20160914125701
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fountain-sync:
+    lastUpdated: 20160914125701
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fountain-zk-support:
+    lastUpdated: 20160914125702
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ha-guard:
+    lastUpdated: 20160914125702
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  result-util:
+    lastUpdated: 20161218140630
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  simple-zk-client:
+    lastUpdated: 20160914125702
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  zk-ha-guard:
+    lastUpdated: 20160914125703
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

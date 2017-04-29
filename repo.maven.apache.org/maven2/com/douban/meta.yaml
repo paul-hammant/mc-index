@@ -1,0 +1,32 @@
+artifacts:
+  scala-api_2.10:
+    lastUpdated: 20131109144459
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  scala-api_2.11:
+    lastUpdated: 20150425162233
+    latest: 2.4.7
+    release: 2.4.7
+    versions:
+      - 2.4.5
+      - 2.4.6
+      - 2.4.7
+  scala-api_2.11.0-RC3:
+    lastUpdated: 20140321021450
+    latest: 2.4.5
+    release: 2.4.5
+    versions:
+      - 2.4.5
+

@@ -1,0 +1,187 @@
+artifacts:
+  cosmic-push-gateway:
+    lastUpdated: 20140513033312
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  push-server:
+    lastUpdated: 20140918061111
+    latest: 3.1.4
+    release: 3.1.4
+    versions:
+      - 3.1.4
+  push-server-common:
+    lastUpdated: 20150408022104
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-engine:
+    lastUpdated: 20150408022105
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-engine-grizzly:
+    lastUpdated: 20150408022105
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  push-server-engine-servlet:
+    lastUpdated: 20150408022106
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  push-server-gateway:
+    lastUpdated: 20150408022107
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.5
+      - 1.5.6
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+  push-server-jackson:
+    lastUpdated: 20150408022109
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-plugin-gtalk:
+    lastUpdated: 20150211193433
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  push-server-plugin-notifier:
+    lastUpdated: 20150408022109
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-plugin-ses:
+    lastUpdated: 20150408022109
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-plugin-smtp:
+    lastUpdated: 20150408022110
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-plugin-twilio:
+    lastUpdated: 20150408022111
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  push-server-plugin-xmpp:
+    lastUpdated: 20150408022112
+    latest: 4.0.4
+    release: 4.0.4
+    versions:
+      - 4.0.1
+      - 4.0.2
+      - 4.0.3
+      - 4.0.4
+  push-server-pub:
+    lastUpdated: 20150408012923
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.5
+      - 1.5.6
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  push-server-test:
+    lastUpdated: 20150408022113
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  push-server-v1-integration-tests:
+    lastUpdated: 20150305203843
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  push-server-v2-integration-tests:
+    lastUpdated: 20150408022113
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+

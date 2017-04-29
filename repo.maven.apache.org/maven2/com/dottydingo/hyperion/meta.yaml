@@ -1,0 +1,81 @@
+artifacts:
+  hyperion:
+    lastUpdated: 20140715034621
+    latest: 0.30.0
+    release: 0.30.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.20.0
+      - 0.30.0
+  hyperion-api:
+    lastUpdated: 20160828200950
+    latest: 2.0.0-EA3
+    release: 2.0.0-EA3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-EA1
+      - 2.0.0-EA1
+      - 2.0.0-EA2
+      - 2.0.0-EA3
+  hyperion-client:
+    lastUpdated: 20160828200950
+    latest: 2.0.0-EA3
+    release: 2.0.0-EA3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-EA1
+      - 2.0.0-EA1
+      - 2.0.0-EA2
+      - 2.0.0-EA3
+  hyperion-core:
+    lastUpdated: 20160828200951
+    latest: 2.0.0-EA3
+    release: 2.0.0-EA3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-EA1
+      - 2.0.0-EA1
+      - 2.0.0-EA2
+      - 2.0.0-EA3
+  hyperion-jpa:
+    lastUpdated: 20160828200951
+    latest: 2.0.0-EA3
+    release: 2.0.0-EA3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-EA1
+      - 2.0.0-EA1
+      - 2.0.0-EA2
+      - 2.0.0-EA3
+  hyperion-parent:
+    lastUpdated: 20160828200951
+    latest: 2.0.0-EA3
+    release: 2.0.0-EA3
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-EA1
+      - 2.0.0-EA1
+      - 2.0.0-EA2
+      - 2.0.0-EA3
+

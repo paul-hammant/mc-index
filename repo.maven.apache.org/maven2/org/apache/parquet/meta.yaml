@@ -1,0 +1,285 @@
+artifacts:
+  parquet:
+    lastUpdated: 20170125015912
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-avro:
+    lastUpdated: 20170125015913
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-benchmarks:
+    lastUpdated: 20170125015913
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-cascading:
+    lastUpdated: 20170125015914
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-cascading3:
+    lastUpdated: 20161024174945
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.9.0
+  parquet-column:
+    lastUpdated: 20170125015914
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-common:
+    lastUpdated: 20170125015915
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-encoding:
+    lastUpdated: 20170125015916
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-format:
+    lastUpdated: 20151218000552
+    latest: 2.3.1
+    release: 2.3.1
+    versions:
+      - 2.3.0-incubating
+      - 2.3.1
+  parquet-generator:
+    lastUpdated: 20170125015917
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hadoop:
+    lastUpdated: 20170125015918
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hadoop-bundle:
+    lastUpdated: 20170125015918
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive:
+    lastUpdated: 20170125015919
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-0.10-binding:
+    lastUpdated: 20170125015919
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-0.12-binding:
+    lastUpdated: 20170125015920
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-binding:
+    lastUpdated: 20170125015920
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-binding-bundle:
+    lastUpdated: 20170125015921
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-binding-factory:
+    lastUpdated: 20170125015921
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-binding-interface:
+    lastUpdated: 20170125015922
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-bundle:
+    lastUpdated: 20170125015923
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-hive-storage-handler:
+    lastUpdated: 20170125015924
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-jackson:
+    lastUpdated: 20170125015924
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-pig:
+    lastUpdated: 20170125015925
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-pig-bundle:
+    lastUpdated: 20170125015926
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-protobuf:
+    lastUpdated: 20170125015926
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-scala_2.10:
+    lastUpdated: 20170125015927
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-scrooge_2.10:
+    lastUpdated: 20170125015927
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-thrift:
+    lastUpdated: 20170125015928
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+  parquet-tools:
+    lastUpdated: 20170125015930
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.0
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.9.0
+

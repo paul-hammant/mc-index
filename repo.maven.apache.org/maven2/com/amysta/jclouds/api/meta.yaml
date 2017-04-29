@@ -1,0 +1,184 @@
+artifacts:
+  atmos:
+    lastUpdated: 20161027162617
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  byon:
+    lastUpdated: 20161027162618
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  chef:
+    lastUpdated: 20161027162618
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  cloudstack:
+    lastUpdated: 20161027162619
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  cloudwatch:
+    lastUpdated: 20161027162620
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  docker:
+    lastUpdated: 20161027162620
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  ec2:
+    lastUpdated: 20161027162621
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  elasticstack:
+    lastUpdated: 20161027162622
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  filesystem:
+    lastUpdated: 20161027162622
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  jclouds-apis-project:
+    lastUpdated: 20161027162623
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  oauth:
+    lastUpdated: 20161027162623
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-cinder:
+    lastUpdated: 20161027162624
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-keystone:
+    lastUpdated: 20161027162625
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-nova:
+    lastUpdated: 20161027162625
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-nova-ec2:
+    lastUpdated: 20161027162626
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-swift:
+    lastUpdated: 20161027162627
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-trove:
+    lastUpdated: 20161027162627
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddns:
+    lastUpdated: 20161027162628
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudfiles:
+    lastUpdated: 20161027162629
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudidentity:
+    lastUpdated: 20161027162629
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudloadbalancers:
+    lastUpdated: 20161027162630
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  route53:
+    lastUpdated: 20161027162631
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  s3:
+    lastUpdated: 20161027162631
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  servermanager:
+    lastUpdated: 20161027162632
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  sqs:
+    lastUpdated: 20161027162633
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  sts:
+    lastUpdated: 20161027162634
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+

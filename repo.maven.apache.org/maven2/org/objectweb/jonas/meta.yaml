@@ -1,0 +1,465 @@
+artifacts:
+  bootstrap:
+    lastUpdated: 20070711185259
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  deployment-test:
+    lastUpdated: 20070711185613
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas:
+    lastUpdated: 20070711185004
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-admin:
+    lastUpdated: 20070711194424
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ant-tasks:
+    lastUpdated: 20081007085359
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+      - 4.9.2
+  jonas-apis:
+    lastUpdated: 20070711185034
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-carol-registry:
+    lastUpdated: 20070711191204
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-client:
+    lastUpdated: 20070711194550
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-cluster-daemon:
+    lastUpdated: 20070711192759
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-commands:
+    lastUpdated: 20070711192911
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-commons:
+    lastUpdated: 20070711185348
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-container-naming:
+    lastUpdated: 20070711190406
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ctxroot:
+    lastUpdated: 20070711193845
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-dbm:
+    lastUpdated: 20070711191243
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-deployment:
+    lastUpdated: 20070711185517
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-deployment-api:
+    lastUpdated: 20070711185055
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-discovery:
+    lastUpdated: 20070711192512
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-domain:
+    lastUpdated: 20070711190611
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ear:
+    lastUpdated: 20070711191702
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ee-components:
+    lastUpdated: 20070711193819
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ejb:
+    lastUpdated: 20070711191104
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ejb-2.1:
+    lastUpdated: 20070711191818
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-ejb-container:
+    lastUpdated: 20070711190325
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-generators:
+    lastUpdated: 20070711191318
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-generators-base:
+    lastUpdated: 20070711191343
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-generators-clientstubs:
+    lastUpdated: 20070711193448
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-generators-raconfig:
+    lastUpdated: 20070711193726
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-generators-wsgen:
+    lastUpdated: 20070711191520
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-genic:
+    lastUpdated: 20070711191741
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-hsql-db:
+    lastUpdated: 20070711191858
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca:
+    lastUpdated: 20070711193919
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc:
+    lastUpdated: 20070711194055
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc-cp:
+    lastUpdated: 20070711194151
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc-dm:
+    lastUpdated: 20070711194217
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc-ds:
+    lastUpdated: 20070711194243
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc-glue:
+    lastUpdated: 20070711194115
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-jdbc-xa:
+    lastUpdated: 20070711194309
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-scout:
+    lastUpdated: 20070711193933
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-scout-glue:
+    lastUpdated: 20070711193950
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jca-scout-rar:
+    lastUpdated: 20070711194026
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jms:
+    lastUpdated: 20070711192432
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jms-manager:
+    lastUpdated: 20070711190527
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-jmx:
+    lastUpdated: 20070711185913
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-libraries:
+    lastUpdated: 20070711185207
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-libraries-security:
+    lastUpdated: 20070711190717
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-log:
+    lastUpdated: 20070711190441
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-mail:
+    lastUpdated: 20070711191933
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-management:
+    lastUpdated: 20070711185649
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-management-javaee:
+    lastUpdated: 20070711185709
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-management-reconfig:
+    lastUpdated: 20070711190646
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-migration-jboss:
+    lastUpdated: 20070711193244
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-modules:
+    lastUpdated: 20070711185020
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-naming:
+    lastUpdated: 20070711185747
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-resource:
+    lastUpdated: 20070711190217
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-sec-interceptors-iiop:
+    lastUpdated: 20070711190755
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-sec-interceptors-jrmp:
+    lastUpdated: 20070711190851
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-security:
+    lastUpdated: 20070711190015
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-security-interceptors:
+    lastUpdated: 20070711190731
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-server:
+    lastUpdated: 20070711194629
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-service-manager:
+    lastUpdated: 20070711185836
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-services:
+    lastUpdated: 20070711185819
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-services-api:
+    lastUpdated: 20070711185136
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-timer:
+    lastUpdated: 20070711190105
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-tm-jotm:
+    lastUpdated: 20070711192010
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-tools:
+    lastUpdated: 20070711192550
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-version:
+    lastUpdated: 20070711185224
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container:
+    lastUpdated: 20070711192043
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container-base:
+    lastUpdated: 20070711192102
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container-jetty:
+    lastUpdated: 20070711192137
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container-jetty-6.1:
+    lastUpdated: 20070711192154
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container-tomcat:
+    lastUpdated: 20070711192226
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-web-container-tomcat-6.0:
+    lastUpdated: 20070711192247
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-webservices:
+    lastUpdated: 20070711191558
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-webservices-axis:
+    lastUpdated: 20070711192358
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-webservices-base:
+    lastUpdated: 20070711191622
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  jonas-workmanager:
+    lastUpdated: 20070711192321
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+  mejb:
+    lastUpdated: 20070711194514
+    latest: {}
+    release: 5.0-M1
+    versions:
+      - 5.0-M1
+

@@ -1,0 +1,88 @@
+artifacts:
+  r2rml:
+    lastUpdated: 20170103224933
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.2
+  r2rml-api:
+    lastUpdated: 20170103224933
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.2
+  r2rml-api-core:
+    lastUpdated: 20170301184354
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  r2rml-api-jena-binding:
+    lastUpdated: 20170301184354
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  r2rml-api-jena-bridge:
+    lastUpdated: 20170103224934
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+  r2rml-api-owlapi-bridge:
+    lastUpdated: 20170103224934
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.2
+  r2rml-api-parent:
+    lastUpdated: 20170301184354
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  r2rml-api-rdf4j-binding:
+    lastUpdated: 20170301184355
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  r2rml-api-rdf4j-bridge:
+    lastUpdated: 20170103224934
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  r2rml-api-sesame-bridge:
+    lastUpdated: 20161221161832
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.2
+

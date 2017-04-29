@@ -1,0 +1,874 @@
+artifacts:
+  scala-asm:
+    lastUpdated: 20170216093715
+    latest: 5.1.0-scala-2
+    release: 5.1.0-scala-2
+    versions:
+      - 5.0.3-scala-1
+      - 5.0.3-scala-2
+      - 5.0.3-scala-3
+      - 5.0.4-scala-1
+      - 5.0.4-scala-3
+      - 5.1.0-scala-1
+      - 5.1.0-scala-2
+  scala-async_2.10:
+    lastUpdated: 20150728230332
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+      - 0.9.0-M5
+      - 0.9.0-M6
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+  scala-async_2.11:
+    lastUpdated: 20161029222515
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5
+      - 0.9.6-RC1
+      - 0.9.6-RC2
+      - 0.9.6-RC5
+      - 0.9.6-RC6
+      - 0.9.6
+  scala-async_2.11.0-M6:
+    lastUpdated: 20131124145111
+    latest: 0.9.0-M4
+    release: 0.9.0-M4
+    versions:
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+  scala-async_2.11.0-RC1:
+    lastUpdated: 20140312095718
+    latest: 0.9.0-M6
+    release: 0.9.0-M6
+    versions:
+      - 0.9.0-M5
+      - 0.9.0-M6
+  scala-async_2.11.0-RC3:
+    lastUpdated: 20140321080211
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  scala-async_2.11.0-RC4:
+    lastUpdated: 20140406160429
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  scala-async_2.12:
+    lastUpdated: 20161029222529
+    latest: 0.9.6
+    release: 0.9.6
+    versions:
+      - 0.9.6
+  scala-async_2.12.0-RC1:
+    lastUpdated: 20160908112114
+    latest: 0.9.6-RC5
+    release: 0.9.6-RC5
+    versions:
+      - 0.9.6-RC5
+  scala-async_2.12.0-RC2:
+    lastUpdated: 20161018112435
+    latest: 0.9.6-RC6
+    release: 0.9.6-RC6
+    versions:
+      - 0.9.6-RC6
+  scala-java8-compat_2.10:
+    lastUpdated: 20150522020743
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  scala-java8-compat_2.11:
+    lastUpdated: 20161029222529
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0-RC1
+      - 0.8.0-RC3
+      - 0.8.0-RC7
+      - 0.8.0-RC8
+      - 0.8.0
+  scala-java8-compat_2.12:
+    lastUpdated: 20161029222530
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  scala-java8-compat_2.12.0-M3:
+    lastUpdated: 20160214234938
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  scala-java8-compat_2.12.0-M4:
+    lastUpdated: 20160408154633
+    latest: 0.8.0-RC1
+    release: 0.8.0-RC1
+    versions:
+      - 0.8.0-RC1
+  scala-java8-compat_2.12.0-M5:
+    lastUpdated: 20161018220958
+    latest: 0.8.0-RC8
+    release: 0.8.0-RC8
+    versions:
+      - 0.8.0-RC3
+      - 0.8.0-RC7
+      - 0.8.0-RC8
+  scala-java8-compat_2.12.0-RC1:
+    lastUpdated: 20160912221355
+    latest: 0.8.0-RC7
+    release: 0.8.0-RC7
+    versions:
+      - 0.8.0-RC5
+      - 0.8.0-RC6
+      - 0.8.0-RC7
+  scala-java8-compat_2.12.0-RC2:
+    lastUpdated: 20161018221016
+    latest: 0.8.0-RC8
+    release: 0.8.0-RC8
+    versions:
+      - 0.8.0-RC8
+  scala-jline:
+    lastUpdated: 20150609153057
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.12.1
+  scala-parallel-collections_2.13.0-pre-e2a2cba:
+    lastUpdated: 20170322002856
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  scala-parser-combinators_2.11:
+    lastUpdated: 20161218031559
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+  scala-parser-combinators_2.11.0-M4:
+    lastUpdated: 20130816194445
+    latest: 1.0-RC1
+    release: 1.0-RC1
+    versions:
+      - 1.0-RC1
+  scala-parser-combinators_2.11.0-M5:
+    lastUpdated: 20130927172104
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0-RC2
+      - 1.0.0-RC3
+  scala-parser-combinators_2.11.0-M6:
+    lastUpdated: 20131028124625
+    latest: 1.0.0-RC4
+    release: 1.0.0-RC4
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+  scala-parser-combinators_2.11.0-M7:
+    lastUpdated: 20131120065534
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC5
+  scala-parser-combinators_2.11.0-M8:
+    lastUpdated: 20140121225901
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0.0-RC5
+  scala-parser-combinators_2.11.0-RC1:
+    lastUpdated: 20140228171319
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-parser-combinators_2.11.0-RC3:
+    lastUpdated: 20140319025415
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-parser-combinators_2.11.0-RC4:
+    lastUpdated: 20140405105726
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-parser-combinators_2.12:
+    lastUpdated: 20161218031543
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  scala-parser-combinators_2.12.0-M1:
+    lastUpdated: 20150504122052
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M2:
+    lastUpdated: 20150715202018
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M3:
+    lastUpdated: 20151009095600
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M3-dc9effe:
+    lastUpdated: 20160318063930
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M4:
+    lastUpdated: 20160404173438
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M4-9901daf:
+    lastUpdated: 20160629005957
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-M5:
+    lastUpdated: 20160629185748
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-RC1:
+    lastUpdated: 20160906203531
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-RC1-1e81a09:
+    lastUpdated: 20161013180217
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-RC1-be43eb5:
+    lastUpdated: 20160917073302
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-RC1-ceaf419:
+    lastUpdated: 20160927130306
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_2.12.0-RC2:
+    lastUpdated: 20161015024020
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  scala-parser-combinators_sjs0.6_2.11:
+    lastUpdated: 20161218031559
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-parser-combinators_sjs0.6_2.12:
+    lastUpdated: 20161218031543
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-partest-interface_2.11:
+    lastUpdated: 20151211215502
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.7.0
+  scala-partest-interface_2.11.0-M4:
+    lastUpdated: 20130816194445
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scala-partest-interface_2.11.0-M5:
+    lastUpdated: 20130907192300
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scala-partest-interface_2.11.0-M6:
+    lastUpdated: 20131017150543
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scala-partest-interface_2.11.0-M7:
+    lastUpdated: 20131121025231
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scala-partest-interface_2.11.0-RC1:
+    lastUpdated: 20140228171320
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  scala-partest-interface_2.11.0-RC3:
+    lastUpdated: 20140319025416
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  scala-partest-interface_2.11.0-RC4:
+    lastUpdated: 20140405105727
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  scala-partest-interface_2.12.0-M3:
+    lastUpdated: 20151211215507
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+  scala-partest_2.11:
+    lastUpdated: 20161219090854
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.18
+  scala-partest_2.11.0-M4:
+    lastUpdated: 20130821182319
+    latest: 1.0-RC4
+    release: 1.0-RC4
+    versions:
+      - 1.0-RC2
+      - 1.0-RC3
+      - 1.0-RC4
+  scala-partest_2.11.0-M5:
+    lastUpdated: 20130927172105
+    latest: 1.0.0-RC6
+    release: 1.0.0-RC6
+    versions:
+      - 1.0-RC5
+      - 1.0.0-RC6
+  scala-partest_2.11.0-M6:
+    lastUpdated: 20131108152058
+    latest: 1.0.0-RC7
+    release: 1.0.0-RC7
+    versions:
+      - 1.0.0-RC7
+  scala-partest_2.11.0-M7:
+    lastUpdated: 20131121025231
+    latest: 1.0.0-RC8
+    release: 1.0.0-RC8
+    versions:
+      - 1.0.0-RC8
+  scala-partest_2.11.0-M8:
+    lastUpdated: 20140226231232
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  scala-partest_2.11.0-RC1:
+    lastUpdated: 20140228171320
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-partest_2.11.0-RC3:
+    lastUpdated: 20140319025417
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-partest_2.11.0-RC4:
+    lastUpdated: 20140405105728
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-partest_2.12:
+    lastUpdated: 20170413085729
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.17
+      - 1.0.18
+      - 1.1.0
+      - 1.1.1
+  scala-partest_2.12.0-M1:
+    lastUpdated: 20160614135849
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.7
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  scala-partest_2.12.0-M2:
+    lastUpdated: 20160203095956
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.7
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+  scala-partest_2.12.0-M3:
+    lastUpdated: 20160212112716
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.9
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+  scala-partest_2.12.0-M3-dc9effe:
+    lastUpdated: 20160318063931
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.13
+  scala-partest_2.12.0-M4:
+    lastUpdated: 20160614135903
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+  scala-partest_2.12.0-M4-9901daf:
+    lastUpdated: 20160629005958
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-M5:
+    lastUpdated: 20160629185749
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-RC1:
+    lastUpdated: 20160906203531
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-RC1-1e81a09:
+    lastUpdated: 20161013180219
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-RC1-be43eb5:
+    lastUpdated: 20160917073302
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-RC1-ceaf419:
+    lastUpdated: 20160927130306
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.12.0-RC2:
+    lastUpdated: 20161015024021
+    latest: 1.0.17
+    release: 1.0.17
+    versions:
+      - 1.0.17
+  scala-partest_2.13.0-M1:
+    lastUpdated: 20170418143442
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  scala-pickling_2.10:
+    lastUpdated: 20160402173540
+    latest: 0.11.0-M1
+    release: 0.11.0-M1
+    versions:
+      - 0.10.0-M1
+      - 0.10.0-M2
+      - 0.10.0-M3
+      - 0.10.0-M4
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0-M1
+  scala-pickling_2.11:
+    lastUpdated: 20160602130601
+    latest: 0.11.0-M2
+    release: 0.11.0-M2
+    versions:
+      - 0.10.0-M1
+      - 0.10.0-M2
+      - 0.10.0-M3
+      - 0.10.0-M4
+      - 0.10.0
+      - 0.10.1
+      - 0.11.0-M1
+      - 0.11.0-M2
+  scala-swing_2.10:
+    lastUpdated: 20150210191214
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.11:
+    lastUpdated: 20170118193420
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.1
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0
+  scala-swing_2.11.0-M7:
+    lastUpdated: 20131206233717
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+  scala-swing_2.11.0-M8:
+    lastUpdated: 20140121225902
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC2
+  scala-swing_2.11.0-RC1:
+    lastUpdated: 20140228171321
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-swing_2.11.0-RC3:
+    lastUpdated: 20140319025418
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-swing_2.11.0-RC4:
+    lastUpdated: 20140405105730
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-swing_2.12:
+    lastUpdated: 20170118193420
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-M2
+      - 2.0.0
+  scala-swing_2.12.0-M1:
+    lastUpdated: 20150624084941
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 1.0.2
+      - 2.0.0-M2
+  scala-swing_2.12.0-M2:
+    lastUpdated: 20150715202020
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-M3:
+    lastUpdated: 20151009095601
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-M3-dc9effe:
+    lastUpdated: 20160318063932
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-M4:
+    lastUpdated: 20160404173439
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-M4-9901daf:
+    lastUpdated: 20160629005958
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-M5:
+    lastUpdated: 20160629185749
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-RC1:
+    lastUpdated: 20160906203532
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-RC1-1e81a09:
+    lastUpdated: 20161013180220
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-RC1-be43eb5:
+    lastUpdated: 20160917073302
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-RC1-ceaf419:
+    lastUpdated: 20160927130307
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.12.0-RC2:
+    lastUpdated: 20161015024021
+    latest: 2.0.0-M2
+    release: 2.0.0-M2
+    versions:
+      - 2.0.0-M2
+  scala-swing_2.13.0-M1:
+    lastUpdated: 20170420100325
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  scala-xml_2.11:
+    lastUpdated: 20160920163816
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  scala-xml_2.11.0-M4:
+    lastUpdated: 20130826205615
+    latest: 1.0-RC3
+    release: 1.0-RC3
+    versions:
+      - 1.0-RC2
+      - 1.0-RC3
+  scala-xml_2.11.0-M5:
+    lastUpdated: 20130927172106
+    latest: 1.0.0-RC5
+    release: 1.0.0-RC5
+    versions:
+      - 1.0-RC4
+      - 1.0.0-RC5
+  scala-xml_2.11.0-M6:
+    lastUpdated: 20131028124626
+    latest: 1.0.0-RC6
+    release: 1.0.0-RC6
+    versions:
+      - 1.0.0-RC5
+      - 1.0.0-RC6
+  scala-xml_2.11.0-M7:
+    lastUpdated: 20131120065534
+    latest: 1.0.0-RC7
+    release: 1.0.0-RC7
+    versions:
+      - 1.0.0-RC7
+  scala-xml_2.11.0-M8:
+    lastUpdated: 20140121225902
+    latest: 1.0.0-RC7
+    release: 1.0.0-RC7
+    versions:
+      - 1.0.0-RC7
+  scala-xml_2.11.0-RC1:
+    lastUpdated: 20140228171321
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  scala-xml_2.11.0-RC3:
+    lastUpdated: 20140319025419
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-xml_2.11.0-RC4:
+    lastUpdated: 20140405105730
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  scala-xml_2.12:
+    lastUpdated: 20161101142546
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.5
+      - 1.0.6
+  scala-xml_2.12.0-M1:
+    lastUpdated: 20150724194114
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  scala-xml_2.12.0-M2:
+    lastUpdated: 20150724194104
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.4
+      - 1.0.5
+  scala-xml_2.12.0-M3:
+    lastUpdated: 20151009095601
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-M3-dc9effe:
+    lastUpdated: 20160318063933
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-M4:
+    lastUpdated: 20160404173440
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-M4-9901daf:
+    lastUpdated: 20160629005959
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-M5:
+    lastUpdated: 20160629185750
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-RC1:
+    lastUpdated: 20160920163845
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.5
+      - 1.0.6
+  scala-xml_2.12.0-RC1-1e81a09:
+    lastUpdated: 20161013180221
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-RC1-be43eb5:
+    lastUpdated: 20160917073303
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-RC1-ceaf419:
+    lastUpdated: 20160927130307
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.12.0-RC2:
+    lastUpdated: 20161015024021
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-xml_2.13.0-M1:
+    lastUpdated: 20170418143444
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  spores-core_2.11:
+    lastUpdated: 20160707100744
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.4
+  spores-pickling_2.11:
+    lastUpdated: 20160707101015
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.4
+

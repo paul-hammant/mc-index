@@ -1,0 +1,178 @@
+artifacts:
+  hcatalog:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  hcatalog-core:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  hcatalog-pig-adapter:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  hcatalog-server-extensions:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  hive-hcatalog:
+    lastUpdated: 20170408045532
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-hcatalog-core:
+    lastUpdated: 20170408045532
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-hcatalog-hbase-storage-handler:
+    lastUpdated: 20140607070821
+    latest: 0.13.1
+    release: 0.13.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+  hive-hcatalog-pig-adapter:
+    lastUpdated: 20170408045532
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-hcatalog-server-extensions:
+    lastUpdated: 20170408045533
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-hcatalog-streaming:
+    lastUpdated: 20170408045533
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-webhcat:
+    lastUpdated: 20170408045534
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  hive-webhcat-java-client:
+    lastUpdated: 20170408045535
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+  webhcat:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  webhcat-java-client:
+    lastUpdated: 20131015233842
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+

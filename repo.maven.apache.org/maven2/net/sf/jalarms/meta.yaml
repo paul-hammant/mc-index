@@ -1,0 +1,78 @@
+artifacts:
+  jalarms:
+    lastUpdated: 20110616152151
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  jalarms-aop:
+    lastUpdated: 20161124173158
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-channels:
+    lastUpdated: 20161124173158
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-core:
+    lastUpdated: 20161124173159
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-groovy:
+    lastUpdated: 20161124173159
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-protobuf:
+    lastUpdated: 20161124173159
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-remote:
+    lastUpdated: 20161124173200
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+  jalarms-scala:
+    lastUpdated: 20161124173200
+    latest: 1.7.2
+    release: 1.7.2
+    versions:
+      - 1.6.1
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+

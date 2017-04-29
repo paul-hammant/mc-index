@@ -1,0 +1,56 @@
+artifacts:
+  streams-client-api:
+    lastUpdated: 20161117030928
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  streams-comet:
+    lastUpdated: 20170327225040
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  streams-demo:
+    lastUpdated: 20170328003504
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  streams-server-api:
+    lastUpdated: 20161117030928
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  streams-server-comet:
+    lastUpdated: 20170327225040
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  streams-server-model:
+    lastUpdated: 20170327225040
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  tmp-common:
+    lastUpdated: 20170118030440
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+

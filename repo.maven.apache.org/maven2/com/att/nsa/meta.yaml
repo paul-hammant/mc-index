@@ -1,0 +1,50 @@
+artifacts:
+  cambriaClient:
+    lastUpdated: 20161126031155
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  dmaapClient:
+    lastUpdated: 20161130234554
+    latest: 0.2.12
+    release: 0.2.12
+    versions:
+      - 0.2.12
+  dmaapMMAgent:
+    lastUpdated: 20170327172824
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  dmaapMR1:
+    lastUpdated: 20161201192753
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 1.0.18
+  msgrtr:
+    lastUpdated: 20161130234447
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  nsaServerLibrary:
+    lastUpdated: 20161130140054
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.10
+  saClientLibrary:
+    lastUpdated: 20161126031155
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  saToolkit:
+    lastUpdated: 20161126031155
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

@@ -1,0 +1,308 @@
+artifacts:
+  conditionallib_2.10:
+    lastUpdated: 20141128171903
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  conditionallib_2.11:
+    lastUpdated: 20151214182545
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  conditionallib_2.9.1:
+    lastUpdated: 20130320172919
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  conditionallib_2.9.2:
+    lastUpdated: 20130320172921
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  cparser_2.10:
+    lastUpdated: 20141128171905
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  cparser_2.11:
+    lastUpdated: 20151214182545
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  cparser_2.9.1:
+    lastUpdated: 20130320172927
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  cparser_2.9.2:
+    lastUpdated: 20130320172930
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  crewrite_2.10:
+    lastUpdated: 20141128171907
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  crewrite_2.11:
+    lastUpdated: 20151214182546
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  crewrite_2.9.1:
+    lastUpdated: 20130320172950
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  crewrite_2.9.2:
+    lastUpdated: 20130320172951
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  ctypechecker_2.10:
+    lastUpdated: 20141128171909
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  ctypechecker_2.11:
+    lastUpdated: 20151214182546
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  ctypechecker_2.9.1:
+    lastUpdated: 20130320172954
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  ctypechecker_2.9.2:
+    lastUpdated: 20130320172955
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  errorlib_2.10:
+    lastUpdated: 20141128174425
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.7
+  errorlib_2.11:
+    lastUpdated: 20151214182547
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  featureexprlib_2.10:
+    lastUpdated: 20141128171910
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  featureexprlib_2.11:
+    lastUpdated: 20151214182547
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  featureexprlib_2.9.1:
+    lastUpdated: 20130320172959
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  featureexprlib_2.9.2:
+    lastUpdated: 20130320173001
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  frontend_2.10:
+    lastUpdated: 20141128171911
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  frontend_2.11:
+    lastUpdated: 20151214182548
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  frontend_2.9.1:
+    lastUpdated: 20130320173027
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  frontend_2.9.2:
+    lastUpdated: 20130320173038
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  javabdd_repackaged:
+    lastUpdated: 20140321214405
+    latest: 1.0b2
+    release: 1.0b2
+    versions:
+      - 1.0b2
+  javabdd_repackaged_2.10:
+    lastUpdated: 20140321211234
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  javaparser_2.10:
+    lastUpdated: 20141128171914
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  javaparser_2.11:
+    lastUpdated: 20151214182548
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  javaparser_2.9.1:
+    lastUpdated: 20130320173058
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  javaparser_2.9.2:
+    lastUpdated: 20130320173059
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  parserframework_2.10:
+    lastUpdated: 20141128171915
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  parserframework_2.11:
+    lastUpdated: 20151214182549
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  parserframework_2.9.1:
+    lastUpdated: 20130320173104
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  parserframework_2.9.2:
+    lastUpdated: 20130320173106
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  partialpreprocessor_2.10:
+    lastUpdated: 20141128171920
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  partialpreprocessor_2.11:
+    lastUpdated: 20151214182549
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  partialpreprocessor_2.9.1:
+    lastUpdated: 20130320173109
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  partialpreprocessor_2.9.2:
+    lastUpdated: 20130320173110
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+  typechef_2.10:
+    lastUpdated: 20141128171928
+    latest: 0.3.7
+    release: 0.3.7
+    versions:
+      - 0.3.4
+      - 0.3.7
+  typechef_2.11:
+    lastUpdated: 20151214182550
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.3.7
+      - 0.4.1
+  typechef_2.9.1:
+    lastUpdated: 20130320173113
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+  typechef_2.9.2:
+    lastUpdated: 20130320173114
+    latest: 0.3.4
+    release: 0.3.4
+    versions:
+      - 0.3.4
+

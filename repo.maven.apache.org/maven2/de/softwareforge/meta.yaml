@@ -1,0 +1,41 @@
+artifacts:
+  kafka_tpch_072:
+    lastUpdated: 20140724045206
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  kafka_tpch_0811:
+    lastUpdated: 20140724045207
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  twistr_kafka_072:
+    lastUpdated: 20140724045209
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  twistr_kafka_0811:
+    lastUpdated: 20140724045210
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  vtte:
+    lastUpdated: 20130819052738
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+

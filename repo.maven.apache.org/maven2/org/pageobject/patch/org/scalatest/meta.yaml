@@ -1,0 +1,35 @@
+artifacts:
+  scalatest_2.10:
+    lastUpdated: 20161125204651
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  scalatest_2.11:
+    lastUpdated: 20161125204651
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  scalatest_2.12:
+    lastUpdated: 20161125204652
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.0
+      - 3.0.1
+  scalatest_2.12.0-M4:
+    lastUpdated: 20160808100557
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  scalatest_2.12.0-M5:
+    lastUpdated: 20160808100557
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+

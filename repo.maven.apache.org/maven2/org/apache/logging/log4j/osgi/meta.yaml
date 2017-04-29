@@ -1,0 +1,81 @@
+artifacts:
+  log4j-1.2-osgi-api:
+    lastUpdated: 20140215162512
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-rc1
+  log4j-core-osgi-async:
+    lastUpdated: 20140215162512
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+      - 2.0-rc1
+  log4j-core-osgi-jpa:
+    lastUpdated: 20140215162512
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+      - 2.0-rc1
+  log4j-core-osgi-net:
+    lastUpdated: 20140215162513
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+      - 2.0-rc1
+  log4j-core-osgi-nosql-couch:
+    lastUpdated: 20130917185727
+    latest: 2.0-beta9
+    release: 2.0-beta9
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+  log4j-core-osgi-nosql-couchdb:
+    lastUpdated: 20140215162513
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-rc1
+  log4j-core-osgi-nosql-mongo:
+    lastUpdated: 20130917185731
+    latest: 2.0-beta9
+    release: 2.0-beta9
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+  log4j-core-osgi-nosql-mongodb:
+    lastUpdated: 20140215162513
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-rc1
+  log4j-core-osgi-reduced:
+    lastUpdated: 20140215162513
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+      - 2.0-rc1
+  log4j-osgi:
+    lastUpdated: 20140215162513
+    latest: 2.0-rc1
+    release: 2.0-rc1
+    versions:
+      - 2.0-beta7
+      - 2.0-beta8
+      - 2.0-beta9
+      - 2.0-rc1
+

@@ -1,0 +1,24 @@
+artifacts:
+  org.ow2.chameleon.fuchsia.base.philips-hue.huedsk-bundle:
+    lastUpdated: 20150114102246
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  philips-hue-sdk-core:
+    lastUpdated: 20140923112143
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  philips-hue-sdk-resources:
+    lastUpdated: 20140923112143
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+

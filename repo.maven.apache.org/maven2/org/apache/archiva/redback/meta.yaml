@@ -1,0 +1,516 @@
+artifacts:
+  redback:
+    lastUpdated: 20150222112058
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication:
+    lastUpdated: 20150222112440
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-api:
+    lastUpdated: 20150222112450
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-keys:
+    lastUpdated: 20150222113735
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-ldap:
+    lastUpdated: 20150222112653
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-memory:
+    lastUpdated: 20150222112522
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-open:
+    lastUpdated: 20150222112507
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-providers:
+    lastUpdated: 20150222112459
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authentication-users:
+    lastUpdated: 20150222113015
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authorization:
+    lastUpdated: 20150222113026
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authorization-api:
+    lastUpdated: 20150222113036
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authorization-open:
+    lastUpdated: 20150222113558
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authorization-providers:
+    lastUpdated: 20150222113530
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-authorization-rbac:
+    lastUpdated: 20150222113543
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-common:
+    lastUpdated: 20150222112533
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-common-integrations:
+    lastUpdated: 20150222113948
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-common-jdo:
+    lastUpdated: 20150222112738
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-common-ldap:
+    lastUpdated: 20150222112551
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-common-test-resources:
+    lastUpdated: 20150222113618
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-configuration:
+    lastUpdated: 20150222112124
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-data-management:
+    lastUpdated: 20150222113903
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-features:
+    lastUpdated: 20150222114137
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-integrations:
+    lastUpdated: 20150222113917
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-integrations-security:
+    lastUpdated: 20150222113925
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-jsecurity:
+    lastUpdated: 20120926144241
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  redback-keys:
+    lastUpdated: 20150222113045
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-api:
+    lastUpdated: 20150222113054
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-cached:
+    lastUpdated: 20150222113237
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-jdo:
+    lastUpdated: 20150222113135
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-memory:
+    lastUpdated: 20150222113150
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-providers:
+    lastUpdated: 20150222113119
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-keys-tests:
+    lastUpdated: 20150222113105
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-policy:
+    lastUpdated: 20150222112423
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac:
+    lastUpdated: 20150222113309
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-cached:
+    lastUpdated: 20150222113518
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-jdo:
+    lastUpdated: 20150222113420
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-ldap:
+    lastUpdated: 20150222113640
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-memory:
+    lastUpdated: 20150222113451
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-model:
+    lastUpdated: 20150222113318
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-providers:
+    lastUpdated: 20150222113350
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-role-manager:
+    lastUpdated: 20150222113715
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rbac-tests:
+    lastUpdated: 20150222113336
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rest:
+    lastUpdated: 20150222114004
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rest-api:
+    lastUpdated: 20150222114023
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-rest-services:
+    lastUpdated: 20150222114124
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-struts2:
+    lastUpdated: 20120926143827
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  redback-struts2-content:
+    lastUpdated: 20120926144216
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  redback-struts2-integration:
+    lastUpdated: 20120926143856
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  redback-system:
+    lastUpdated: 20150222113258
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users:
+    lastUpdated: 20150222112132
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-api:
+    lastUpdated: 20150222112142
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-cached:
+    lastUpdated: 20150222112958
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-configurable:
+    lastUpdated: 20150222112721
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-jdo:
+    lastUpdated: 20150222112803
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-ldap:
+    lastUpdated: 20150222112633
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-memory:
+    lastUpdated: 20150222112901
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-providers:
+    lastUpdated: 20150222112600
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+  redback-users-tests:
+    lastUpdated: 20150222112706
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 2.3
+      - 2.4
+      - 2.3
+      - 2.4
+

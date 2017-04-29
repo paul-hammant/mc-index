@@ -1,0 +1,36 @@
+artifacts:
+  reactor-adapter:
+    lastUpdated: 20170404112151
+    latest: 3.0.6.RELEASE
+    release: 3.0.6.RELEASE
+    versions:
+      - 3.0.2.RELEASE
+      - 3.0.3.RELEASE
+      - 3.0.4.RELEASE
+      - 3.0.5.RELEASE
+      - 3.0.6.RELEASE
+  reactor-extra:
+    lastUpdated: 20170404112152
+    latest: 3.0.6.RELEASE
+    release: 3.0.6.RELEASE
+    versions:
+      - 3.0.6.RELEASE
+  reactor-logback:
+    lastUpdated: 20170404112152
+    latest: 3.0.6.RELEASE
+    release: 3.0.6.RELEASE
+    versions:
+      - 3.0.3.RELEASE
+      - 3.0.4.RELEASE
+      - 3.0.5.RELEASE
+      - 3.0.6.RELEASE
+  reactor-test:
+    lastUpdated: 20170404112152
+    latest: 3.0.6.RELEASE
+    release: 3.0.6.RELEASE
+    versions:
+      - 3.0.3.RELEASE
+      - 3.0.4.RELEASE
+      - 3.0.5.RELEASE
+      - 3.0.6.RELEASE
+

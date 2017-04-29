@@ -1,0 +1,41 @@
+artifacts:
+  archetype-uservice:
+    lastUpdated: 20151001232501
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jindy-api:
+    lastUpdated: 20160315133056
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.4.2
+  parent-executable:
+    lastUpdated: 20170120180059
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+      - 1.1.5
+  parent-root:
+    lastUpdated: 20170125165928
+    latest: 1.8.4
+    release: 1.8.4
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.8.4
+  parent-thrift-contract:
+    lastUpdated: 20151203183226
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

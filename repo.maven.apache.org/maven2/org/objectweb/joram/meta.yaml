@@ -1,0 +1,694 @@
+artifacts:
+  a3:
+    lastUpdated: 20110914153609
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  a3-common:
+    lastUpdated: 20110914153617
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  a3-osgi:
+    lastUpdated: 20110914153630
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  a3-rt:
+    lastUpdated: 20110914153625
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  conf:
+    lastUpdated: 20110914153947
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  jcup:
+    lastUpdated: 20100507123442
+    latest: {}
+    release: {}
+    versions:
+      - 4.3.28
+      - 5.2.4
+      - 5.2.3
+      - 5.3.1
+  jcup-bundle:
+    lastUpdated: 20100211100310
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  jftp:
+    lastUpdated: 20100622084252
+    latest: {}
+    release: {}
+    versions:
+      - 1.52
+  jndi:
+    lastUpdated: 20110914153634
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  jndi-client:
+    lastUpdated: 20110914153648
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  jndi-server:
+    lastUpdated: 20110914153643
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  jndi-shared:
+    lastUpdated: 20110914153638
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram:
+    lastUpdated: 20110914153651
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-assembly:
+    lastUpdated: 20110914154001
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-client:
+    lastUpdated: 20110914153711
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 4.3.28
+      - 5.0.6
+      - 5.0.4
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.1.0a
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-client-bundle:
+    lastUpdated: 20100211100201
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-client-jca:
+    lastUpdated: 20110914153724
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-client-jms:
+    lastUpdated: 20110914153719
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-common-util:
+    lastUpdated: 20100507123343
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-common-util-bundle:
+    lastUpdated: 20100211100216
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-config:
+    lastUpdated: 20100507091846
+    latest: {}
+    release: {}
+    versions:
+      - 4.3.28
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+  joram-connector:
+    lastUpdated: 20100507091851
+    latest: {}
+    release: {}
+    versions:
+      - 4.3.28
+      - 5.0.6
+      - 5.0.4
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.1.0a
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+  joram-ftp:
+    lastUpdated: 20100507123412
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-ftp-bundle:
+    lastUpdated: 20100211100243
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-gui:
+    lastUpdated: 20091211113826
+    latest: {}
+    release: {}
+    versions:
+      - 4.3.28
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.3
+  joram-jca:
+    lastUpdated: 20110914153847
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-jca-jonas:
+    lastUpdated: 20110914153852
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-jca-ra:
+    lastUpdated: 20110914153910
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-jca-remote:
+    lastUpdated: 20110914153931
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-jmsbridge:
+    lastUpdated: 20100507123436
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-jmsbridge-bundle:
+    lastUpdated: 20100211100306
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-jndi:
+    lastUpdated: 20100507123405
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-jndi-bundle:
+    lastUpdated: 20100211100238
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-kclient:
+    lastUpdated: 20070616202855
+    latest: {}
+    release: {}
+    versions:
+      - 4.3.28
+  joram-mail:
+    lastUpdated: 20100507123427
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-mail-bundle:
+    lastUpdated: 20100211100258
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-mom:
+    lastUpdated: 20110914153701
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.0.6
+      - 5.0.4
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.1.0a
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-bundle:
+    lastUpdated: 20100211100208
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-mom-core:
+    lastUpdated: 20110914153708
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions:
+    lastUpdated: 20110914153728
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-amqp:
+    lastUpdated: 20110914153735
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-collector:
+    lastUpdated: 20110914153739
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-ftp:
+    lastUpdated: 20110914153826
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-jmsbridge:
+    lastUpdated: 20110914153744
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-mail:
+    lastUpdated: 20110914153754
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-mom-extensions-scheduler:
+    lastUpdated: 20110914153759
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-parent:
+    lastUpdated: 20100507091841
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+  joram-raconfig:
+    lastUpdated: 20100507091858
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+  joram-release:
+    lastUpdated: 20110914152219
+    latest: {}
+    release: {}
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-rt:
+    lastUpdated: 20100507123357
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.1
+  joram-rt-bundle:
+    lastUpdated: 20100211100230
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-samples:
+    lastUpdated: 20110914152203
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-security:
+    lastUpdated: 20110914153831
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-security-jonas:
+    lastUpdated: 20110914153835
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-shared:
+    lastUpdated: 20110914153658
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 4.3.28
+      - 5.0.6
+      - 5.0.4
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.1.0a
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-shared-bundle:
+    lastUpdated: 20100211100221
+    latest: {}
+    release: {}
+    versions:
+      - 5.3.0
+  joram-tools:
+    lastUpdated: 20110914153838
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram-tools-jasp:
+    lastUpdated: 20110914153844
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  joram_for_jonas_ra:
+    lastUpdated: 20081001142708
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.4
+      - 5.1.0
+      - 5.1.0a
+  joram_ra:
+    lastUpdated: 20100507123251
+    latest: {}
+    release: {}
+    versions:
+      - 5.2.6
+      - 5.3.0
+      - 5.3.1
+  joram_ra_for_jonas:
+    lastUpdated: 20100507123245
+    latest: {}
+    release: {}
+    versions:
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 5.1.0
+      - 5.1.0a
+      - 5.2.1
+      - 5.2.4
+      - 5.2.1a
+      - 5.2.20090825
+      - 5.2.5
+      - 5.2.6
+      - 5.2.3
+      - 5.3.0
+      - 5.3.1
+  joram_ra_remote:
+    lastUpdated: 20100507123312
+    latest: {}
+    release: {}
+    versions:
+      - 5.2.6
+      - 5.3.0
+      - 5.3.1
+  licenses:
+    lastUpdated: 20110914153935
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+  mom-amqp:
+    lastUpdated: 20110713161331
+    latest: {}
+    release: {}
+    versions:
+      - 0.4
+      - 1.0
+  parent:
+    lastUpdated: 20110914153555
+    latest: {}
+    release: 5.7.0
+    versions:
+      - 5.3.2.53
+      - 5.3.3.53
+      - 5.4.0.54
+      - 5.5.0
+      - 5.6.0
+      - 5.7.0
+

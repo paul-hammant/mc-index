@@ -1,0 +1,80 @@
+artifacts:
+  core:
+    lastUpdated: 20121110073452
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  db:
+    lastUpdated: 20121110073453
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  getpass:
+    lastUpdated: 20121110073500
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  handler:
+    lastUpdated: 20121110073502
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  jvm:
+    lastUpdated: 20121110073502
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  parent:
+    lastUpdated: 20121110073503
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  servlet:
+    lastUpdated: 20121110073504
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  spring:
+    lastUpdated: 20121110073505
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+

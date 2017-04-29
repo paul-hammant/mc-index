@@ -1,0 +1,110 @@
+artifacts:
+  owsi-nuxeo-automation-features:
+    lastUpdated: 20160425072853
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  owsi-nuxeo-avatar-import:
+    lastUpdated: 20160425072854
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-commons:
+    lastUpdated: 20160425072854
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-constants:
+    lastUpdated: 20160425072855
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-document-creation-script:
+    lastUpdated: 20160425072855
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-ecm-types-ordering:
+    lastUpdated: 20160425072856
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-field-formatter:
+    lastUpdated: 20160425072856
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-generic-properties:
+    lastUpdated: 20160425072857
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-property-sync:
+    lastUpdated: 20160425072858
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-rest:
+    lastUpdated: 20160425072858
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-rest-mock:
+    lastUpdated: 20160425072858
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-tests-helper:
+    lastUpdated: 20160425072859
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+  owsi-nuxeo-utils:
+    lastUpdated: 20160425072900
+    latest: 1.7.10
+    release: 1.7.10
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 1.6.0
+      - 1.7.10
+

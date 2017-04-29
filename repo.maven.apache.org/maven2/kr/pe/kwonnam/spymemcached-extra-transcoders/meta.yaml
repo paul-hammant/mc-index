@@ -1,0 +1,44 @@
+artifacts:
+  fst-transcoder:
+    lastUpdated: 20160111133735
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  gzip-compress-transcoder:
+    lastUpdated: 20160111133736
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  kryo-transcoder:
+    lastUpdated: 20160111133737
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  lz4-compress-transcoder:
+    lastUpdated: 20160111133737
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  snappy-compress-transcoder:
+    lastUpdated: 20160111133738
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  spymemcached-extra-transcoders-core:
+    lastUpdated: 20160111133738
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

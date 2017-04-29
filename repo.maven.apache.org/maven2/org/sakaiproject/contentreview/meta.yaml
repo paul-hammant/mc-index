@@ -1,0 +1,119 @@
+artifacts:
+  content-review-impl-base-federated:
+    lastUpdated: 20170224235955
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  contentreview:
+    lastUpdated: 20170224235956
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 2.9.2-b03
+      - 2.9.2-b04
+      - 2.9.2-b05
+      - 2.9.2-b06
+      - 2.9.2-b07
+      - 2.9.2-rc01
+      - 2.9.2-rc02
+      - 2.9.2-rc03
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+      - 2.9.5
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  contentreview-model-api:
+    lastUpdated: 20170224235956
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 2.9.2-b03
+      - 2.9.2-b04
+      - 2.9.2-b05
+      - 2.9.2-b06
+      - 2.9.2-b07
+      - 2.9.2-rc01
+      - 2.9.2-rc02
+      - 2.9.2-rc03
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+      - 2.9.5
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  contentreview-service-api:
+    lastUpdated: 20170224235956
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 2.9.2-b03
+      - 2.9.2-b04
+      - 2.9.2-b05
+      - 2.9.2-b06
+      - 2.9.2-b07
+      - 2.9.2-rc01
+      - 2.9.2-rc02
+      - 2.9.2-rc03
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+      - 2.9.5
+      - 10.0
+      - 10.1
+      - 10.2
+      - 10.3
+      - 10.4
+      - 10.6
+      - 10.7
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+  sakai-contentreview-assembly:
+    lastUpdated: 20130821231330
+    latest: 2.9.5
+    release: 2.9.5
+    versions:
+      - 2.9.2-b03
+      - 2.9.2-b04
+      - 2.9.2-b05
+      - 2.9.2-b06
+      - 2.9.2-b07
+      - 2.9.2-rc01
+      - 2.9.2-rc02
+      - 2.9.2-rc03
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+      - 2.9.5
+  sakai-contentreview-impl-federated:
+    lastUpdated: 20170224235957
+    latest: 11.3
+    release: 11.3
+    versions:
+      - 11.0
+      - 11.1
+      - 11.2
+      - 11.3
+

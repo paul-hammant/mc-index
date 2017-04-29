@@ -1,0 +1,31 @@
+artifacts:
+  jstorm-all:
+    lastUpdated: 20170124081739
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.2.1
+  jstorm-core:
+    lastUpdated: 20170124081739
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.2.1
+  jstorm-ui:
+    lastUpdated: 20160308150851
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+  sequence-split-merge:
+    lastUpdated: 20160308150852
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.1
+

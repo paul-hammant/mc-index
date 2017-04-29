@@ -1,0 +1,146 @@
+artifacts:
+  common-agent-loader:
+    lastUpdated: 20131013233949
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  common-angular:
+    lastUpdated: 20130820031725
+    latest: 1.37
+    release: 1.37
+    versions:
+      - 1.37
+      - 1.37
+  common-angular-tests:
+    lastUpdated: 20130820031727
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  common-configuration:
+    lastUpdated: 20140501223152
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 2.6
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+      - 2.6
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.4
+      - 3.5
+  common-jackson:
+    lastUpdated: 20140604215320
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.6
+      - 1.7
+      - 1.6
+      - 1.7
+  common-jackson-api:
+    lastUpdated: 20130819234341
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  common-javascript:
+    lastUpdated: 20130820031730
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 3.3
+      - 3.3
+  common-jawr:
+    lastUpdated: 20130904100859
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 1.7
+      - 2.1
+      - 2.2
+      - 1.7
+      - 2.1
+      - 2.2
+  common-jetty8:
+    lastUpdated: 20140316014934
+    latest: 4.4
+    release: 4.4
+    versions:
+      - 4.2
+      - 4.3
+      - 4.4
+      - 4.2
+      - 4.3
+      - 4.4
+  common-jsresource:
+    lastUpdated: 20130820044423
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7
+      - 1.7
+  common-scanner:
+    lastUpdated: 20130827002543
+    latest: 1.15
+    release: 1.15
+    versions:
+      - 1.14
+      - 1.15
+      - 1.14
+      - 1.15
+  common-spring-scanner:
+    lastUpdated: 20130822234535
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  common-stereotypes:
+    lastUpdated: 20130819234341
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.5
+      - 1.5
+  common-testrunner:
+    lastUpdated: 20140828231315
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.3
+      - 2.1
+      - 2.2
+      - 2.3
+      - 1.3
+      - 2.1
+      - 2.2
+      - 2.3
+  common-tinymce:
+    lastUpdated: 20130828055014
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  runnable-war-scss:
+    lastUpdated: 20140316024408
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+

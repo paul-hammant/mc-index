@@ -1,0 +1,153 @@
+artifacts:
+  ngs-align:
+    lastUpdated: 20150609154507
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-fca:
+    lastUpdated: 20150609154520
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-feature:
+    lastUpdated: 20150609154536
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-gtr:
+    lastUpdated: 20150609154538
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-hml:
+    lastUpdated: 20150609154542
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-multimodule:
+    lastUpdated: 20150609154549
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-range:
+    lastUpdated: 20150609154550
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-reads:
+    lastUpdated: 20150609154553
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-sra:
+    lastUpdated: 20150609154554
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-tools:
+    lastUpdated: 20150609154607
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-variant:
+    lastUpdated: 20150609154616
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  ngs-xjc-plugins:
+    lastUpdated: 20150609154618
+    latest: 1.8.2
+    release: 1.8.2
+    versions:
+      - 1.4
+      - 1.4.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+

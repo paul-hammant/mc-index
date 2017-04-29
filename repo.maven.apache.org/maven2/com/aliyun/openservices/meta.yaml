@@ -1,0 +1,258 @@
+artifacts:
+  aliyun-log:
+    lastUpdated: 20160918072600
+    latest: 0.6.6
+    release: 0.6.6
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+  aliyun-log-android-sdk:
+    lastUpdated: 20161227145843
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  aliyun-openservices:
+    lastUpdated: 20140814140328
+    latest: 2.0.0-OTS
+    release: 2.0.0-OTS
+    versions:
+      - OTS-2.0.0
+      - OTS-2.0.1
+      - OTS-2.0.2
+      - OTS-2.0.3
+      - OTS-2.0.4
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 2.0.0-OTS
+  aliyun-openservices-sls-v0.3:
+    lastUpdated: 20140708030038
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  aliyun-sls:
+    lastUpdated: 20150319074830
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.4.0
+      - 0.4.1
+  log-for-test:
+    lastUpdated: 20161029090942
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  log-loghub-log4j-appender:
+    lastUpdated: 20161214110018
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  log-loghub-producer:
+    lastUpdated: 20161225091454
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1
+  loghub-client-lib:
+    lastUpdated: 20161212082541
+    latest: 0.6.7
+    release: 0.6.7
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.7
+  loghub-storm-1.0-spout-:
+    lastUpdated: 20161020174815
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  loghub-storm-spout:
+    lastUpdated: 20160324135050
+    latest: 0.6.3
+    release: 0.6.3
+    versions:
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+  ons-all:
+    lastUpdated: 20170310133850
+    latest: 1.2.8
+    release: 1.2.8
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.8
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+      - 1.1.5
+      - 1.1.7
+      - 1.1.8
+      - 1.1.11
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7.Final
+      - 1.2.8
+  ons-api:
+    lastUpdated: 20161202021409
+    latest: 1.2.7.Final
+    release: 1.2.7.Final
+    versions:
+      - 1.0.8
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+      - 1.1.5
+      - 1.1.7
+      - 1.1.8
+      - 1.1.11
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7.Final
+  ons-auth4client:
+    lastUpdated: 20161202021410
+    latest: 1.2.7.Final
+    release: 1.2.7.Final
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7.Final
+  ons-client:
+    lastUpdated: 20161202021410
+    latest: 1.2.7.Final
+    release: 1.2.7.Final
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.8
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+      - 1.1.5
+      - 1.1.7
+      - 1.1.8
+      - 1.1.11
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7.Final
+  ons-example:
+    lastUpdated: 20160607090507
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.8
+      - 1.1.1
+      - 1.1.2
+      - 1.1.4
+      - 1.1.5
+      - 1.1.7
+      - 1.1.8
+      - 1.1.11
+      - 1.2.1
+      - 1.2.2
+  ons-jms:
+    lastUpdated: 20160607090507
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.1.7
+      - 1.1.8
+      - 1.1.11
+      - 1.2.1
+      - 1.2.2
+  ons-sasl-client:
+    lastUpdated: 20170310133850
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  ons-trace-core:
+    lastUpdated: 20161202021410
+    latest: 1.2.7.Final
+    release: 1.2.7.Final
+    versions:
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.2.5
+      - 1.2.6
+      - 1.2.7.Final
+  ots-public:
+    lastUpdated: 20160823025911
+    latest: 2.2.5
+    release: 2.2.5
+    versions:
+      - 2.1
+      - 2.1.1
+      - 2.1.2
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.1
+  tablestore:
+    lastUpdated: 20170331075823
+    latest: 4.2.3
+    release: 4.2.3
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 4.2.1
+      - 4.2.2
+      - 4.2.3
+  tablestore-hbase-client:
+    lastUpdated: 20170209084827
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+

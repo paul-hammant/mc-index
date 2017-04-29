@@ -1,0 +1,91 @@
+artifacts:
+  htrace:
+    lastUpdated: 20161006184510
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.1.0-incubating
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-c:
+    lastUpdated: 20161006184511
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-core:
+    lastUpdated: 20150914202246
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 3.1.0-incubating
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+  htrace-core4:
+    lastUpdated: 20161006184511
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-flume:
+    lastUpdated: 20161006184512
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.1.0-incubating
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-hbase:
+    lastUpdated: 20161006184513
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.1.0-incubating
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-htraced:
+    lastUpdated: 20161006184513
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-webapp:
+    lastUpdated: 20161006184514
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+  htrace-zipkin:
+    lastUpdated: 20161006184515
+    latest: 4.2.0-incubating
+    release: 4.2.0-incubating
+    versions:
+      - 3.1.0-incubating
+      - 3.2.0-incubating
+      - 4.0.0-incubating
+      - 4.0.1-incubating
+      - 4.1.0-incubating
+      - 4.2.0-incubating
+

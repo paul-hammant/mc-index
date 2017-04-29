@@ -1,0 +1,32 @@
+artifacts:
+  gatling-amqp_2.11:
+    lastUpdated: 20150608164821
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  http-mock_2.11:
+    lastUpdated: 20160708003341
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  kafka-utils_2.11:
+    lastUpdated: 20151225160730
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+  rubyist_2.11:
+    lastUpdated: 20150628175734
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.6
+

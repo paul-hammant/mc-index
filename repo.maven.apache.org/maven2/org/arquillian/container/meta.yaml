@@ -1,0 +1,97 @@
+artifacts:
+  arquillian-chameleon-container-model:
+    lastUpdated: 20170130112710
+    latest: 1.0.0.Beta1
+    release: 1.0.0.Beta1
+    versions:
+      - 1.0.0.Beta1
+  arquillian-container-chameleon:
+    lastUpdated: 20170130112711
+    latest: 1.0.0.Beta1
+    release: 1.0.0.Beta1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Beta1
+  arquillian-container-chameleon-parent:
+    lastUpdated: 20170130112712
+    latest: 1.0.0.Beta1
+    release: 1.0.0.Beta1
+    versions:
+      - 1.0.0.Beta1
+  arquillian-droidium-container:
+    lastUpdated: 20151127102227
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-container-api:
+    lastUpdated: 20151127102228
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-container-build:
+    lastUpdated: 20131009112307
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-droidium-container-depchain:
+    lastUpdated: 20130918142312
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  arquillian-droidium-container-impl:
+    lastUpdated: 20130918142312
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  arquillian-droidium-container-parent:
+    lastUpdated: 20151127102229
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-droidium-container-spi:
+    lastUpdated: 20151127102230
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Final
+      - 1.0.1.Final
+

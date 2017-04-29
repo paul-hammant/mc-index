@@ -1,0 +1,104 @@
+artifacts:
+  ymate-platform:
+    lastUpdated: 20151024094055
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  ymate-platform-cache:
+    lastUpdated: 20170206050704
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-configuration:
+    lastUpdated: 20170206050705
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-core:
+    lastUpdated: 20170206050705
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-log:
+    lastUpdated: 20170206050705
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-log-jcl:
+    lastUpdated: 20170206050706
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-log-slf4j:
+    lastUpdated: 20170206050706
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-parent:
+    lastUpdated: 20160328091303
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  ymate-platform-persistence:
+    lastUpdated: 20170206050707
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-persistence-jdbc:
+    lastUpdated: 20170206050707
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-persistence-mongodb:
+    lastUpdated: 20170206050707
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-persistence-redis:
+    lastUpdated: 20170206050707
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-plugin:
+    lastUpdated: 20170206050708
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-serv:
+    lastUpdated: 20170206050708
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-validation:
+    lastUpdated: 20170206050708
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  ymate-platform-webmvc:
+    lastUpdated: 20170206050709
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+

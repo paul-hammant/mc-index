@@ -1,0 +1,174 @@
+artifacts:
+  android-core:
+    lastUpdated: 20150119170347
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  auth0:
+    lastUpdated: 20170131152218
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+      - 1.0.0
+  auth0-servlet:
+    lastUpdated: 20161119175133
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 2.0
+      - 2.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.4.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 2.0
+      - 2.1
+  auth0-spring-mvc:
+    lastUpdated: 20161119182508
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+  auth0-spring-security-api:
+    lastUpdated: 20161222004706
+    latest: 1.0.0-rc.2
+    release: 1.0.0-rc.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 1.0.0-rc.2
+  auth0-spring-security-mvc:
+    lastUpdated: 20161028011003
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+  guardian:
+    lastUpdated: 20170406144417
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+  java-jwt:
+    lastUpdated: 20170104224154
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.5
+  jwks-rsa:
+    lastUpdated: 20161205200317
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  lock:
+    lastUpdated: 20150119170347
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  lock-facebook:
+    lastUpdated: 20150119170348
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  lock-googleplus:
+    lastUpdated: 20150119170348
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  lock-sms:
+    lastUpdated: 20150119170349
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mvc-auth-commons:
+    lastUpdated: 20161025231057
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  spring-security-auth0:
+    lastUpdated: 20160602043823
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2
+      - 0.3
+      - 1.0.0
+      - 0.2
+      - 0.3
+

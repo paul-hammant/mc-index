@@ -1,0 +1,152 @@
+artifacts:
+  concrete-api:
+    lastUpdated: 20170318003817
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-api-tools:
+    lastUpdated: 20170318003818
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-attachments:
+    lastUpdated: 20170318003818
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-attachments-jaxrs:
+    lastUpdated: 20170318003818
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-attachments-repo-fastdfs:
+    lastUpdated: 20170318003818
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-bom:
+    lastUpdated: 20170318003819
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-commons-spring-data:
+    lastUpdated: 20170318003819
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-core:
+    lastUpdated: 20170318003819
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-core-spring:
+    lastUpdated: 20170318003819
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-formatters-freemarker:
+    lastUpdated: 20170318003820
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-jaxrs:
+    lastUpdated: 20170318003820
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-jaxrs-client:
+    lastUpdated: 20170318003820
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-jaxrs-invoker-okhttp3:
+    lastUpdated: 20170318003820
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-jaxrs-serializer-fastjson:
+    lastUpdated: 20170318003821
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-support-jaxrs:
+    lastUpdated: 20170318003821
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-support-jsr311:
+    lastUpdated: 20170318003821
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-support-jsr339:
+    lastUpdated: 20170318003822
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete-test:
+    lastUpdated: 20170318003822
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  concrete.pom:
+    lastUpdated: 20170318003822
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  coodex-utilities:
+    lastUpdated: 20170318003822
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  coodex-utilities-sec-tools:
+    lastUpdated: 20170318003822
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  coodex-utilities-servlet:
+    lastUpdated: 20170318003823
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  shared-cache:
+    lastUpdated: 20170318003823
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  shared-cache-jedis:
+    lastUpdated: 20170318003823
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  shared-cache-memcached:
+    lastUpdated: 20170318003823
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

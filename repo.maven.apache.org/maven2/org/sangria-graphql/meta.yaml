@@ -1,0 +1,350 @@
+artifacts:
+  macro-visit_2.11:
+    lastUpdated: 20170311134717
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  macro-visit_2.12:
+    lastUpdated: 20170311134717
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  sangria-akka-streams_2.11:
+    lastUpdated: 20170116232529
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+  sangria-akka-streams_2.12:
+    lastUpdated: 20170116232529
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  sangria-argonaut_2.11:
+    lastUpdated: 20170117000712
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 1.0.0
+  sangria-argonaut_2.12:
+    lastUpdated: 20170117000713
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.2
+      - 1.0.0
+  sangria-circe_2.11:
+    lastUpdated: 20170118194157
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+      - 1.0.0
+      - 1.0.1
+  sangria-circe_2.12:
+    lastUpdated: 20170118194157
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.6.0
+      - 0.6.1
+      - 1.0.0
+      - 1.0.1
+  sangria-ion_2.11:
+    lastUpdated: 20170116230917
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+  sangria-ion_2.12:
+    lastUpdated: 20170116230917
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  sangria-json4s-jackson_2.11:
+    lastUpdated: 20170117000714
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 1.0.0
+  sangria-json4s-jackson_2.12:
+    lastUpdated: 20170117000714
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.2
+      - 1.0.0
+  sangria-json4s-native_2.11:
+    lastUpdated: 20170117000715
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 1.0.0
+  sangria-json4s-native_2.12:
+    lastUpdated: 20170117000715
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.2
+      - 1.0.0
+  sangria-marshalling-api_2.11:
+    lastUpdated: 20170116214412
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 1.0.0
+  sangria-marshalling-api_2.12:
+    lastUpdated: 20170116214412
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.2
+      - 1.0.0
+  sangria-marshalling-testkit_2.11:
+    lastUpdated: 20170116214956
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 1.0.0
+  sangria-marshalling-testkit_2.12:
+    lastUpdated: 20170116214956
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.3
+      - 1.0.0
+  sangria-monix_2.11:
+    lastUpdated: 20170116232530
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+  sangria-monix_2.12:
+    lastUpdated: 20170116232530
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  sangria-msgpack_2.11:
+    lastUpdated: 20170116230918
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 1.0.0
+  sangria-msgpack_2.12:
+    lastUpdated: 20170116230918
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.2
+      - 1.0.0
+  sangria-play-json_2.11:
+    lastUpdated: 20170301212015
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 1.0.0
+      - 1.0.1
+  sangria-play-json_2.12:
+    lastUpdated: 20170301212015
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  sangria-relay_2.11:
+    lastUpdated: 20170311191705
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0-RC5
+      - 1.0.0
+      - 1.1.0
+  sangria-relay_2.12:
+    lastUpdated: 20170311191705
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0-RC5
+      - 1.0.0
+      - 1.1.0
+  sangria-rxscala_2.11:
+    lastUpdated: 20170116232530
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+  sangria-rxscala_2.12:
+    lastUpdated: 20170116232531
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  sangria-spray-json_2.11:
+    lastUpdated: 20170116225721
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 1.0.0
+  sangria-spray-json_2.12:
+    lastUpdated: 20170116225721
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.3.2
+      - 1.0.0
+  sangria-streaming-api_2.11:
+    lastUpdated: 20170116214413
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+  sangria-streaming-api_2.12:
+    lastUpdated: 20170116214413
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.1
+      - 1.0.0
+  sangria_2.11:
+    lastUpdated: 20170311191706
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0-RC5
+      - 1.0.0
+      - 1.1.0
+  sangria_2.12:
+    lastUpdated: 20170311191706
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0-RC4
+      - 1.0.0-RC5
+      - 1.0.0
+      - 1.1.0
+

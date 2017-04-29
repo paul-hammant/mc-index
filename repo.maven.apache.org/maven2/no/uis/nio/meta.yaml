@@ -1,0 +1,81 @@
+artifacts:
+  commons:
+    lastUpdated: 20130506124103
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  commons-test:
+    lastUpdated: 20130506124103
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  nio-fs:
+    lastUpdated: 20160729232627
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.0.5
+      - 1.1.0
+      - 1.1.7
+  nio-fs-sftp:
+    lastUpdated: 20160729232627
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.0
+      - 1.1.7
+  nio-fs-smb:
+    lastUpdated: 20160729232627
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.0
+      - 1.1.7
+  nio-fs-test-util:
+    lastUpdated: 20160729232628
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.0
+      - 1.1.7
+  nio-fs-util:
+    lastUpdated: 20160729232628
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.0
+      - 1.1.7
+  nio-fs-webdav:
+    lastUpdated: 20160729232628
+    latest: 1.1.7
+    release: 1.1.7
+    versions:
+      - 1.1.0
+      - 1.1.7
+  sftp:
+    lastUpdated: 20130506124104
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  smb:
+    lastUpdated: 20130506124105
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  util:
+    lastUpdated: 20130506124105
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  webdav:
+    lastUpdated: 20130506124106
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+

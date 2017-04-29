@@ -1,0 +1,23 @@
+artifacts:
+  jaxws-httpserver-httpspi:
+    lastUpdated: 20101013073312
+    latest: 1.0.0.GA
+    release: 1.0.0.GA
+    versions:
+      - 1.0.0.GA
+  jaxws-jboss-httpserver-httpspi:
+    lastUpdated: 20120305172652
+    latest: 1.0.1.GA
+    release: 1.0.1.GA
+    versions:
+      - 1.0.0.GA
+      - 1.0.1.GA
+  jaxws-undertow-httpspi:
+    lastUpdated: 20141111110024
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.1.Beta1
+      - 1.0.1.Final
+

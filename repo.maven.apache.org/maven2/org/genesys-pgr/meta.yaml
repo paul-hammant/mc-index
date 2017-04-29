@@ -1,0 +1,53 @@
+artifacts:
+  file-repository:
+    lastUpdated: 20161027143419
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.2
+      - 0.3
+      - 0.5
+      - 0.6
+      - 0.8.1
+      - 0.2
+      - 0.3
+      - 0.5
+      - 0.6
+  genesys-client-api:
+    lastUpdated: 20160114100022
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 1.0
+      - 1.0
+  gringlobal-taxonomy:
+    lastUpdated: 20160519153638
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  pgr-ontology-model:
+    lastUpdated: 20160411131448
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.0
+      - 0.7.1
+  transifex-client:
+    lastUpdated: 20160106082821
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+      - 0.5
+  worldclim-reader:
+    lastUpdated: 20160106082821
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+

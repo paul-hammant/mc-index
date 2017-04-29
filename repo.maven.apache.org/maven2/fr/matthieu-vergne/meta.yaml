@@ -1,0 +1,439 @@
+artifacts:
+  benchmark:
+    lastUpdated: 20150824224808
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  benchmark-core:
+    lastUpdated: 20150824224808
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  benchmark-samples:
+    lastUpdated: 20141201190147
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  collection:
+    lastUpdated: 20150716024956
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  collection-core:
+    lastUpdated: 20150716024956
+    latest: 1.11
+    release: 1.11
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+  collection-samples:
+    lastUpdated: 20150130013546
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  data:
+    lastUpdated: 20150824224808
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  data-access:
+    lastUpdated: 20150824224809
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  data-samples:
+    lastUpdated: 20150130183107
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  data-storage:
+    lastUpdated: 20150824224809
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  downhill:
+    lastUpdated: 20150623195037
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.3
+  downhill-core:
+    lastUpdated: 20150623195037
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.3
+  downhill-samples:
+    lastUpdated: 20150623195037
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.3
+  graph:
+    lastUpdated: 20141201190152
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  graph-core:
+    lastUpdated: 20141201190153
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  graph-samples:
+    lastUpdated: 20141201190153
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  ioutils:
+    lastUpdated: 20150824224809
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  ioutils-core:
+    lastUpdated: 20150824224810
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  logging:
+    lastUpdated: 20150828044958
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  optimization:
+    lastUpdated: 20140417230943
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  optimization-core:
+    lastUpdated: 20140417230944
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  optimization-samples:
+    lastUpdated: 20140417230944
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  parsing:
+    lastUpdated: 20150824224810
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.0
+      - 3.1
+      - 3.2
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.0
+      - 3.1
+      - 3.2
+  parsing-core:
+    lastUpdated: 20150824224811
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.0
+      - 3.1
+      - 3.2
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 3.0
+      - 3.1
+      - 3.2
+  parsing-samples:
+    lastUpdated: 20150625175549
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 1.0
+      - 1.1
+      - 1.2
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  progress:
+    lastUpdated: 20150716024957
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 2.0
+  progress-core:
+    lastUpdated: 20150716024957
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 2.0
+  progress-samples:
+    lastUpdated: 20150626185504
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  translation:
+    lastUpdated: 20150902002504
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+  translation-core:
+    lastUpdated: 20150902002504
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+  translation-editor:
+    lastUpdated: 20150902002504
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+

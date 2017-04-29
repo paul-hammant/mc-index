@@ -1,0 +1,163 @@
+artifacts:
+  documentation:
+    lastUpdated: 20170320142500
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-adapter:
+    lastUpdated: 20170320142500
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-adapter-common:
+    lastUpdated: 20170320142500
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-adapter-service-http:
+    lastUpdated: 20170320142501
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-core:
+    lastUpdated: 20170320142501
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-example:
+    lastUpdated: 20170320142501
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-example-action-adapter-http:
+    lastUpdated: 20170320142502
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-example-app:
+    lastUpdated: 20170320142502
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-example-handlebars-ext:
+    lastUpdated: 20170320142503
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-junit:
+    lastUpdated: 20170320142504
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot:
+    lastUpdated: 20170320142504
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot-action:
+    lastUpdated: 20170320142505
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot-fragment-assembler:
+    lastUpdated: 20170320142505
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot-fragment-splitter:
+    lastUpdated: 20170320142505
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot-handlebars:
+    lastUpdated: 20170320142506
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-knot-service:
+    lastUpdated: 20170320142506
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-mocks:
+    lastUpdated: 20170320142507
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-repository-connector:
+    lastUpdated: 20170320142508
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-repository-connector-filesystem:
+    lastUpdated: 20170320142508
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-repository-connector-http:
+    lastUpdated: 20170320142509
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-root:
+    lastUpdated: 20170320142509
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-server:
+    lastUpdated: 20170320142510
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  knotx-standalone:
+    lastUpdated: 20170320142510
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

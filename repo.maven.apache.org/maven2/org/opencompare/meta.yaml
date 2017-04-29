@@ -1,0 +1,81 @@
+artifacts:
+  api-java:
+    lastUpdated: 20160509083117
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+  api-java-impl:
+    lastUpdated: 20160509083128
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+  api-js:
+    lastUpdated: 20150821105701
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+  api-js-impl:
+    lastUpdated: 20150821105701
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+  formalizer:
+    lastUpdated: 20151123120854
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+  hac:
+    lastUpdated: 20150721081150
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  model:
+    lastUpdated: 20160509083131
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+  opencompare:
+    lastUpdated: 20160509083131
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+  play-app:
+    lastUpdated: 20160509083131
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+      - 0.6.1
+      - 0.7
+

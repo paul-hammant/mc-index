@@ -1,0 +1,54 @@
+artifacts:
+  akka-testkit-specs2_2.11:
+    lastUpdated: 20170201155641
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  akka-testkit-specs2_2.12:
+    lastUpdated: 20170201155641
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+  classutil_2.10:
+    lastUpdated: 20150119212905
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  classutil_2.11:
+    lastUpdated: 20150119212905
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  scala-scraper_2.11:
+    lastUpdated: 20161206173021
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 0.1
+  scala-scraper_2.12:
+    lastUpdated: 20161206173022
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  think-bayes_2.11:
+    lastUpdated: 20141210005408
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+

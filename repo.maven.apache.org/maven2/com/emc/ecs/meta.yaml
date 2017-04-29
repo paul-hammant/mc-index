@@ -1,0 +1,97 @@
+artifacts:
+  atmos-client:
+    lastUpdated: 20161007154308
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.2.2.1
+      - 2.2.3
+      - 3.0.0
+  nfs-client:
+    lastUpdated: 20170411185629
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  nfsclient:
+    lastUpdated: 20160901180600
+    latest: 1.0.0-rc.1
+    release: 1.0.0-rc.1
+    versions:
+      - 1.0.0-rc.1
+  object-client:
+    lastUpdated: 20170302165211
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.2.0-rc.1
+      - 2.0.0-rc.2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 3.0.0
+      - 3.0.1
+  object-transform:
+    lastUpdated: 20160708164614
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+  smart-client:
+    lastUpdated: 20160708144827
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.0
+      - 1.0.0.1
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.1.0
+  spark-ecs-s3_2.10:
+    lastUpdated: 20160518154504
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  spark-ecs-s3_2.11:
+    lastUpdated: 20170420232829
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  spring-cloud-ecs-connector:
+    lastUpdated: 20160718183250
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

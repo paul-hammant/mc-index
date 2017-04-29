@@ -1,0 +1,3031 @@
+artifacts:
+  algebra-laws_2.10:
+    lastUpdated: 20170118231849
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra-laws_2.11:
+    lastUpdated: 20170118231850
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra-laws_2.12:
+    lastUpdated: 20170118231850
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  algebra-laws_sjs0.6_2.10:
+    lastUpdated: 20170118231851
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra-laws_sjs0.6_2.11:
+    lastUpdated: 20170118231851
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra-laws_sjs0.6_2.12:
+    lastUpdated: 20170118231852
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  algebra_2.10:
+    lastUpdated: 20170118231852
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra_2.11:
+    lastUpdated: 20170118231853
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra_2.12:
+    lastUpdated: 20170118231854
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  algebra_sjs0.6_2.10:
+    lastUpdated: 20170118231855
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra_sjs0.6_2.11:
+    lastUpdated: 20170118231855
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  algebra_sjs0.6_2.12:
+    lastUpdated: 20170118231856
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  alleycats-core_2.10:
+    lastUpdated: 20170126155844
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-core_2.11:
+    lastUpdated: 20170126155845
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-core_2.12:
+    lastUpdated: 20170126155846
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  alleycats-core_sjs0.6_2.10:
+    lastUpdated: 20170126155846
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-core_sjs0.6_2.11:
+    lastUpdated: 20170126155847
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-core_sjs0.6_2.12:
+    lastUpdated: 20170126155847
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  alleycats-laws_2.10:
+    lastUpdated: 20170126155848
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-laws_2.11:
+    lastUpdated: 20170126155848
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-laws_2.12:
+    lastUpdated: 20170126155849
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  alleycats-laws_sjs0.6_2.10:
+    lastUpdated: 20170126155849
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-laws_sjs0.6_2.11:
+    lastUpdated: 20170126155850
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats-laws_sjs0.6_2.12:
+    lastUpdated: 20170126155851
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  alleycats_2.10:
+    lastUpdated: 20170126155851
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats_2.11:
+    lastUpdated: 20170126155852
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats_2.12:
+    lastUpdated: 20170126155852
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  alleycats_sjs0.6_2.10:
+    lastUpdated: 20170126155853
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats_sjs0.6_2.11:
+    lastUpdated: 20170126155854
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.9
+  alleycats_sjs0.6_2.12:
+    lastUpdated: 20170126155854
+    latest: 0.1.9
+    release: 0.1.9
+    versions:
+      - 0.1.9
+  catalysts-checklite_2.10:
+    lastUpdated: 20161107222023
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-checklite_2.11:
+    lastUpdated: 20161107222023
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-checklite_2.12:
+    lastUpdated: 20161107222023
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-checklite_2.12.0-RC1:
+    lastUpdated: 20160928215848
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-checklite_2.12.0-RC2:
+    lastUpdated: 20161023175943
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-checklite_sjs0.6_2.10:
+    lastUpdated: 20161107222024
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-checklite_sjs0.6_2.11:
+    lastUpdated: 20161107222024
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-checklite_sjs0.6_2.12:
+    lastUpdated: 20161107222024
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-checklite_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215850
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-checklite_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175944
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-lawkit_2.10:
+    lastUpdated: 20161107222025
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-lawkit_2.11:
+    lastUpdated: 20161107222026
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-lawkit_2.12:
+    lastUpdated: 20161107222026
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-lawkit_2.12.0-RC1:
+    lastUpdated: 20160928215851
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-lawkit_2.12.0-RC2:
+    lastUpdated: 20161023175945
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-lawkit_sjs0.6_2.10:
+    lastUpdated: 20161107222027
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-lawkit_sjs0.6_2.11:
+    lastUpdated: 20161107222027
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-lawkit_sjs0.6_2.12:
+    lastUpdated: 20161107222027
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-lawkit_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215852
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-lawkit_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175946
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-macros_2.10:
+    lastUpdated: 20161107222028
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-macros_2.11:
+    lastUpdated: 20161107222028
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-macros_2.12:
+    lastUpdated: 20161107222028
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-macros_2.12.0-RC1:
+    lastUpdated: 20160928215854
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-macros_2.12.0-RC2:
+    lastUpdated: 20161023175947
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-macros_sjs0.6_2.10:
+    lastUpdated: 20161107222029
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-macros_sjs0.6_2.11:
+    lastUpdated: 20161107222029
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-macros_sjs0.6_2.12:
+    lastUpdated: 20161107222030
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-macros_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215855
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-macros_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175948
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-platform_2.10:
+    lastUpdated: 20161107222030
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-platform_2.11:
+    lastUpdated: 20161107222031
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-platform_2.12:
+    lastUpdated: 20161107222031
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-platform_2.12.0-RC1:
+    lastUpdated: 20160928215856
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-platform_2.12.0-RC2:
+    lastUpdated: 20161023175949
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-platform_sjs0.6_2.10:
+    lastUpdated: 20161108012258
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-platform_sjs0.6_2.11:
+    lastUpdated: 20161107222031
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-platform_sjs0.6_2.12:
+    lastUpdated: 20161107222032
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-platform_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215858
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-platform_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175950
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-scalatest_2.10:
+    lastUpdated: 20161107222032
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-scalatest_2.11:
+    lastUpdated: 20161107222032
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-scalatest_2.12:
+    lastUpdated: 20161107222033
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-scalatest_2.12.0-RC1:
+    lastUpdated: 20160928215900
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-scalatest_2.12.0-RC2:
+    lastUpdated: 20161023175951
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-scalatest_sjs0.6_2.10:
+    lastUpdated: 20161107222033
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-scalatest_sjs0.6_2.11:
+    lastUpdated: 20161107222034
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-scalatest_sjs0.6_2.12:
+    lastUpdated: 20161107222034
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-scalatest_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215901
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-scalatest_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175952
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-specbase_2.10:
+    lastUpdated: 20161107222035
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specbase_2.11:
+    lastUpdated: 20161107222035
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specbase_2.12:
+    lastUpdated: 20161107222036
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-specbase_2.12.0-RC1:
+    lastUpdated: 20160928215903
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-specbase_2.12.0-RC2:
+    lastUpdated: 20161023175953
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-specbase_sjs0.6_2.10:
+    lastUpdated: 20161107222036
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specbase_sjs0.6_2.11:
+    lastUpdated: 20161107222036
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specbase_sjs0.6_2.12:
+    lastUpdated: 20161107222037
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-specbase_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215905
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-specbase_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175954
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-speclite_2.10:
+    lastUpdated: 20161107222037
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-speclite_2.11:
+    lastUpdated: 20161107222037
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-speclite_2.12:
+    lastUpdated: 20161107222038
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-speclite_2.12.0-RC1:
+    lastUpdated: 20160928215906
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-speclite_2.12.0-RC2:
+    lastUpdated: 20161023175955
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-speclite_sjs0.6_2.10:
+    lastUpdated: 20161107222038
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-speclite_sjs0.6_2.11:
+    lastUpdated: 20161107222038
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-speclite_sjs0.6_2.12:
+    lastUpdated: 20161107222039
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-speclite_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215908
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-speclite_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175956
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-specs2_2.10:
+    lastUpdated: 20161107222039
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specs2_2.11:
+    lastUpdated: 20161107222040
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-specs2_2.12:
+    lastUpdated: 20161107222040
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-specs2_2.12.0-RC1:
+    lastUpdated: 20160928215910
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-specs2_2.12.0-RC2:
+    lastUpdated: 20161023175957
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-testkit_2.10:
+    lastUpdated: 20161107222040
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-testkit_2.11:
+    lastUpdated: 20161107222041
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-testkit_2.12:
+    lastUpdated: 20161107222041
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-testkit_2.12.0-RC1:
+    lastUpdated: 20160928215911
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-testkit_2.12.0-RC2:
+    lastUpdated: 20161023175958
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts-testkit_sjs0.6_2.10:
+    lastUpdated: 20161107222042
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-testkit_sjs0.6_2.11:
+    lastUpdated: 20161107222042
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts-testkit_sjs0.6_2.12:
+    lastUpdated: 20161107222042
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts-testkit_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215913
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts-testkit_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023175959
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts_2.10:
+    lastUpdated: 20161107222043
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts_2.11:
+    lastUpdated: 20161107222043
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts_2.12:
+    lastUpdated: 20161107222044
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts_2.12.0-RC1:
+    lastUpdated: 20160928215915
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts_2.12.0-RC2:
+    lastUpdated: 20161023180000
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  catalysts_sjs0.6_2.10:
+    lastUpdated: 20161108012300
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts_sjs0.6_2.11:
+    lastUpdated: 20161107222044
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  catalysts_sjs0.6_2.12:
+    lastUpdated: 20161107222045
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.5
+  catalysts_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160928215916
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  catalysts_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161023180001
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  cats-core_2.10:
+    lastUpdated: 20170115233550
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-core_2.11:
+    lastUpdated: 20170115233551
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-core_2.12:
+    lastUpdated: 20170115233551
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-core_2.12.0-RC2:
+    lastUpdated: 20161026163343
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-core_sjs0.6_2.10:
+    lastUpdated: 20170115233552
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-core_sjs0.6_2.11:
+    lastUpdated: 20170115233553
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-core_sjs0.6_2.12:
+    lastUpdated: 20170115233554
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163345
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-effect-laws_2.10:
+    lastUpdated: 20170421210315
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect-laws_2.11:
+    lastUpdated: 20170421210315
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect-laws_2.12:
+    lastUpdated: 20170421210316
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect-laws_sjs0.6_2.10:
+    lastUpdated: 20170421210317
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect-laws_sjs0.6_2.11:
+    lastUpdated: 20170421210318
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect-laws_sjs0.6_2.12:
+    lastUpdated: 20170421210318
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_2.10:
+    lastUpdated: 20170421210319
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_2.11:
+    lastUpdated: 20170421210320
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_2.12:
+    lastUpdated: 20170421210320
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_sjs0.6_2.10:
+    lastUpdated: 20170421210321
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_sjs0.6_2.11:
+    lastUpdated: 20170421210321
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-effect_sjs0.6_2.12:
+    lastUpdated: 20170421210322
+    latest: 0.1-d1b5231
+    release: 0.1-d1b5231
+    versions:
+      - 0.1-d1b5231
+  cats-free_2.10:
+    lastUpdated: 20170115233554
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-free_2.11:
+    lastUpdated: 20170115233554
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-free_2.12:
+    lastUpdated: 20170115233555
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-free_2.12.0-RC2:
+    lastUpdated: 20161026163346
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-free_sjs0.6_2.10:
+    lastUpdated: 20170115233555
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-free_sjs0.6_2.11:
+    lastUpdated: 20170115233555
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-free_sjs0.6_2.12:
+    lastUpdated: 20170115233556
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-free_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163347
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-js_sjs0.6_2.10:
+    lastUpdated: 20170115233556
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-js_sjs0.6_2.11:
+    lastUpdated: 20170115233556
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-js_sjs0.6_2.12:
+    lastUpdated: 20170115233557
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-js_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163349
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-jvm_2.10:
+    lastUpdated: 20170115233558
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-jvm_2.11:
+    lastUpdated: 20170115233558
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-jvm_2.12:
+    lastUpdated: 20170115233559
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-jvm_2.12.0-RC2:
+    lastUpdated: 20161026163351
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-kernel-laws_2.10:
+    lastUpdated: 20170115233559
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_2.11:
+    lastUpdated: 20170115233559
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_2.12:
+    lastUpdated: 20170115233600
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_2.12.0-RC2:
+    lastUpdated: 20161026163352
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-kernel-laws_sjs0.6_2.10:
+    lastUpdated: 20170115233600
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_sjs0.6_2.11:
+    lastUpdated: 20170115233601
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_sjs0.6_2.12:
+    lastUpdated: 20170115233601
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-kernel-laws_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163353
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-kernel_2.10:
+    lastUpdated: 20170115233602
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_2.11:
+    lastUpdated: 20170115233603
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_2.12:
+    lastUpdated: 20170115233603
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_2.12.0-RC2:
+    lastUpdated: 20161026163355
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-kernel_sjs0.6_2.10:
+    lastUpdated: 20170115233604
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_sjs0.6_2.11:
+    lastUpdated: 20170115233606
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_sjs0.6_2.12:
+    lastUpdated: 20170115233606
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-kernel_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163357
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-laws_2.10:
+    lastUpdated: 20170115233607
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-laws_2.11:
+    lastUpdated: 20170115233607
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-laws_2.12:
+    lastUpdated: 20170115233607
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-laws_2.12.0-RC2:
+    lastUpdated: 20161026163358
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-laws_sjs0.6_2.10:
+    lastUpdated: 20170115233608
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-laws_sjs0.6_2.11:
+    lastUpdated: 20170115233608
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-laws_sjs0.6_2.12:
+    lastUpdated: 20170115233609
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-laws_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163400
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-macros_2.10:
+    lastUpdated: 20170115233609
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-macros_2.11:
+    lastUpdated: 20170115233610
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-macros_2.12:
+    lastUpdated: 20170115233611
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-macros_2.12.0-RC2:
+    lastUpdated: 20161026163402
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats-macros_sjs0.6_2.10:
+    lastUpdated: 20170115233612
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-macros_sjs0.6_2.11:
+    lastUpdated: 20170115233612
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats-macros_sjs0.6_2.12:
+    lastUpdated: 20170115233612
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats-macros_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163403
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats_2.10:
+    lastUpdated: 20170115233613
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats_2.11:
+    lastUpdated: 20170115233613
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats_2.12:
+    lastUpdated: 20170115233614
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats_2.12.0-RC2:
+    lastUpdated: 20161026163405
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  cats_sjs0.6_2.10:
+    lastUpdated: 20170115233614
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats_sjs0.6_2.11:
+    lastUpdated: 20170115233614
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+  cats_sjs0.6_2.12:
+    lastUpdated: 20170115233615
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.1
+      - 0.9.0
+  cats_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161026163406
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  discipline_2.10:
+    lastUpdated: 20170102120755
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  discipline_2.11:
+    lastUpdated: 20170102120756
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.2.1
+      - 0.3
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  discipline_2.11.0-RC1:
+    lastUpdated: 20140309151718
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  discipline_2.12:
+    lastUpdated: 20170102120756
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.2
+      - 0.7.3
+  discipline_2.12.0-M4:
+    lastUpdated: 20160429180740
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  discipline_2.12.0-M5:
+    lastUpdated: 20160902022343
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.6
+  discipline_2.12.0-RC1:
+    lastUpdated: 20160912165358
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+  discipline_2.12.0-RC2:
+    lastUpdated: 20161019222645
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  discipline_sjs0.6_2.10:
+    lastUpdated: 20170102120756
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  discipline_sjs0.6_2.11:
+    lastUpdated: 20170102120757
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.4
+      - 0.4.1
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+  discipline_sjs0.6_2.12:
+    lastUpdated: 20170102120757
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.2
+      - 0.7.3
+  discipline_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160429180742
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  discipline_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160902022344
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.6
+  discipline_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160912165400
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.7
+  discipline_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161019222646
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  dogs-core_2.11:
+    lastUpdated: 20161031163449
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.2
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+  dogs-core_2.12:
+    lastUpdated: 20170311061728
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  dogs-core_sjs0.6_2.11:
+    lastUpdated: 20161031163450
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2.2
+      - 0.3.1
+      - 0.4.0
+      - 0.5.0
+  dogs-core_sjs0.6_2.12:
+    lastUpdated: 20161224003536
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.1
+  dogs-tests_2.12:
+    lastUpdated: 20170311061729
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+  dogs-tests_sjs0.6_2.12:
+    lastUpdated: 20161224003537
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.1
+  export-hook_2.10:
+    lastUpdated: 20170115233446
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+  export-hook_2.11:
+    lastUpdated: 20170115233447
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+  export-hook_2.12:
+    lastUpdated: 20170115233447
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  export-hook_sjs0.6_2.10:
+    lastUpdated: 20170115233448
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+  export-hook_sjs0.6_2.11:
+    lastUpdated: 20170115233448
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+  export-hook_sjs0.6_2.12:
+    lastUpdated: 20170115233448
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  forkjoin:
+    lastUpdated: 20150920153655
+    latest: 2.11.8
+    release: 2.11.8
+    versions:
+      - 2.11.7
+      - 2.11.8
+  interactive:
+    lastUpdated: 20150814130444
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  junit:
+    lastUpdated: 20150814130445
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  kittens_2.10:
+    lastUpdated: 20161216183504
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+  kittens_2.11:
+    lastUpdated: 20170214154109
+    latest: 1.0.0-M9
+    release: 1.0.0-M9
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+  kittens_2.12:
+    lastUpdated: 20170214154109
+    latest: 1.0.0-M9
+    release: 1.0.0-M9
+    versions:
+      - 1.0.0-M8
+      - 1.0.0-M9
+  kittens_sjs0.6_2.10:
+    lastUpdated: 20161216183505
+    latest: 1.0.0-M7
+    release: 1.0.0-M7
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-M7
+  kittens_sjs0.6_2.11:
+    lastUpdated: 20170214154110
+    latest: 1.0.0-M9
+    release: 1.0.0-M9
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-M8
+      - 1.0.0-M9
+  kittens_sjs0.6_2.12:
+    lastUpdated: 20170214154110
+    latest: 1.0.0-M9
+    release: 1.0.0-M9
+    versions:
+      - 1.0.0-M8
+      - 1.0.0-M9
+  machinist_2.10:
+    lastUpdated: 20161029151448
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.3.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  machinist_2.11:
+    lastUpdated: 20161029151449
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.3.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  machinist_2.12:
+    lastUpdated: 20161029151449
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  machinist_2.12.0-RC1:
+    lastUpdated: 20160910033749
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  machinist_2.12.0-RC2:
+    lastUpdated: 20161020124427
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  machinist_sjs0.6_2.10:
+    lastUpdated: 20161029151449
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  machinist_sjs0.6_2.11:
+    lastUpdated: 20161029151450
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  machinist_sjs0.6_2.12:
+    lastUpdated: 20161029151450
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.6.1
+  machinist_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160910033750
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  machinist_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020124428
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.6.0
+  macro-compat_2.10:
+    lastUpdated: 20160215105146
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+  macro-compat_2.11:
+    lastUpdated: 20160215105147
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+  macro-compat_2.12:
+    lastUpdated: 20161102084626
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_2.12.0-M3:
+    lastUpdated: 20160215105148
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_2.12.0-M4:
+    lastUpdated: 20160407090344
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_2.12.0-M5:
+    lastUpdated: 20160704100817
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_2.12.0-RC1:
+    lastUpdated: 20160908180016
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_2.12.0-RC2:
+    lastUpdated: 20161019083802
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.10:
+    lastUpdated: 20160215105148
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+  macro-compat_sjs0.6_2.11:
+    lastUpdated: 20160215105149
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+  macro-compat_sjs0.6_2.12:
+    lastUpdated: 20161102084626
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.12.0-M3:
+    lastUpdated: 20160215105150
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.12.0-M4:
+    lastUpdated: 20160420145237
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160704100817
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160908180018
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  macro-compat_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161019083803
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  partest-extras:
+    lastUpdated: 20150814130445
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  repl:
+    lastUpdated: 20150814130446
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  scala-actors:
+    lastUpdated: 20160821051109
+    latest: 2.11.8
+    release: 2.11.8
+    versions:
+      - 2.11.7
+      - 2.11.8
+  scala-compiler:
+    lastUpdated: 20170131213117
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scala-dist:
+    lastUpdated: 20170131213118
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scala-library:
+    lastUpdated: 20170131213119
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scala-library-all:
+    lastUpdated: 20170131213119
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scala-reflect:
+    lastUpdated: 20170131213120
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scala-typelevel:
+    lastUpdated: 20150921091130
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  scaladoc:
+    lastUpdated: 20150814130450
+    latest: 2.11.7
+    release: 2.11.7
+    versions:
+      - 2.11.7
+  scalap:
+    lastUpdated: 20170131213120
+    latest: 2.12.1
+    release: 2.12.1
+    versions:
+      - 2.11.7
+      - 2.11.8
+      - 2.12.0-RC2
+      - 2.12.0
+      - 2.12.1
+  scalaz-contrib-210_2.10:
+    lastUpdated: 20130811214948
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-contrib-210_2.11:
+    lastUpdated: 20140531115437
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalaz-contrib-undo_2.10:
+    lastUpdated: 20130811214949
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-contrib-undo_2.11:
+    lastUpdated: 20140531115437
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalaz-contrib-validation_2.10:
+    lastUpdated: 20130811214950
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-contrib-validation_2.11:
+    lastUpdated: 20140531115438
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalaz-dispatch_2.10:
+    lastUpdated: 20130421193028
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+  scalaz-lift_2.10:
+    lastUpdated: 20130811214950
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-nscala-time_2.10:
+    lastUpdated: 20130811214951
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-nscala-time_2.11:
+    lastUpdated: 20140531115438
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalaz-scalatest_2.10:
+    lastUpdated: 20170219015037
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.2.3
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  scalaz-scalatest_2.11:
+    lastUpdated: 20170219015037
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  scalaz-scalatest_2.12:
+    lastUpdated: 20170219015037
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 1.1.1
+      - 1.1.2
+  scalaz-specs2_2.10:
+    lastUpdated: 20161111224647
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+      - 0.2
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  scalaz-specs2_2.11:
+    lastUpdated: 20161111224647
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.2
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+  scalaz-specs2_2.12:
+    lastUpdated: 20161111224647
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  scalaz-specs2_2.9.2:
+    lastUpdated: 20130911043651
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-specs2_2.9.3:
+    lastUpdated: 20130911043652
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.4
+      - 0.1.5
+  scalaz-spire_2.10:
+    lastUpdated: 20130811214952
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  scalaz-spire_2.11:
+    lastUpdated: 20140531115438
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  scalaz6-specs2_2.10:
+    lastUpdated: 20130112195253
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  scalaz6-specs2_2.9.2:
+    lastUpdated: 20130112195254
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  scodec-bits_2.10:
+    lastUpdated: 20141007010533
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  scodec-bits_2.11:
+    lastUpdated: 20141007012451
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  scodec-bits_2.11.0-M8:
+    lastUpdated: 20140228045042
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-RC1
+  scodec-bits_2.11.0-RC1:
+    lastUpdated: 20140310181914
+    latest: 1.0.0-RC2
+    release: 1.0.0-RC2
+    versions:
+      - 1.0.0-RC2
+  scodec-core_2.10:
+    lastUpdated: 20141209190339
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.1.0-M1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+  scodec-core_2.11:
+    lastUpdated: 20141209190340
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0
+      - 1.1.0-M1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+  scodec-protocols_2.10:
+    lastUpdated: 20141209192630
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.4.0
+      - 0.5.0
+  scodec-protocols_2.11:
+    lastUpdated: 20141209192631
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.4.0
+      - 0.5.0
+  scodec-stream_2.10:
+    lastUpdated: 20141209191216
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  scodec-stream_2.11:
+    lastUpdated: 20141209191220
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+  shapeless-contrib-common_2.10:
+    lastUpdated: 20170115233400
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-contrib-common_2.11:
+    lastUpdated: 20170115233400
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-contrib-common_2.9.2:
+    lastUpdated: 20130302122309
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  shapeless-contrib-common_sjs0.6_2.10:
+    lastUpdated: 20160429184200
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  shapeless-contrib-common_sjs0.6_2.11:
+    lastUpdated: 20160429184200
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  shapeless-scalacheck_2.10:
+    lastUpdated: 20170115233401
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-scalacheck_2.11:
+    lastUpdated: 20170115233401
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-scalacheck_2.9.2:
+    lastUpdated: 20130302122312
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  shapeless-scalacheck_sjs0.6_2.10:
+    lastUpdated: 20160429184202
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  shapeless-scalacheck_sjs0.6_2.11:
+    lastUpdated: 20160429184202
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  shapeless-scalaz_2.10:
+    lastUpdated: 20150602171156
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.4
+  shapeless-scalaz_2.11:
+    lastUpdated: 20150602171156
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1.3
+      - 0.3
+      - 0.4
+  shapeless-scalaz_2.9.2:
+    lastUpdated: 20130302122321
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  shapeless-spire_2.10:
+    lastUpdated: 20170115233402
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.1.2
+      - 0.2
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-spire_2.11:
+    lastUpdated: 20170115233402
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.1.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.6
+  shapeless-spire_2.9.2:
+    lastUpdated: 20130302122327
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  shapeless-spire_sjs0.6_2.10:
+    lastUpdated: 20160429184204
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  shapeless-spire_sjs0.6_2.11:
+    lastUpdated: 20160429184205
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+  spire-extras_2.10:
+    lastUpdated: 20170328162905
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-extras_2.11:
+    lastUpdated: 20170328162906
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-extras_2.12:
+    lastUpdated: 20170328162906
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-extras_sjs0.6_2.10:
+    lastUpdated: 20170328162907
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-extras_sjs0.6_2.11:
+    lastUpdated: 20170328162907
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-extras_sjs0.6_2.12:
+    lastUpdated: 20170328162908
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_2.10:
+    lastUpdated: 20170328162908
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_2.11:
+    lastUpdated: 20170328162909
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_2.12:
+    lastUpdated: 20170328162909
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_sjs0.6_2.10:
+    lastUpdated: 20170328162910
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_sjs0.6_2.11:
+    lastUpdated: 20170328162910
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-laws_sjs0.6_2.12:
+    lastUpdated: 20170328162911
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_2.10:
+    lastUpdated: 20170328162911
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_2.11:
+    lastUpdated: 20170328162912
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_2.12:
+    lastUpdated: 20170328162912
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_sjs0.6_2.10:
+    lastUpdated: 20170328162913
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_sjs0.6_2.11:
+    lastUpdated: 20170328162913
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire-macros_sjs0.6_2.12:
+    lastUpdated: 20170328162914
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_2.10:
+    lastUpdated: 20170328162914
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_2.11:
+    lastUpdated: 20170328162915
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_2.12:
+    lastUpdated: 20170328162916
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_sjs0.6_2.10:
+    lastUpdated: 20170328162917
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_sjs0.6_2.11:
+    lastUpdated: 20170328162918
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  spire_sjs0.6_2.12:
+    lastUpdated: 20170328162920
+    latest: 0.14.1
+    release: 0.14.1
+    versions:
+      - 0.14.0
+      - 0.14.1
+  squants_2.10:
+    lastUpdated: 20170217165401
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  squants_2.11:
+    lastUpdated: 20170217165402
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  squants_2.12:
+    lastUpdated: 20170217165402
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  squants_sjs0.6_2.10:
+    lastUpdated: 20170217165403
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  squants_sjs0.6_2.11:
+    lastUpdated: 20170217165404
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  squants_sjs0.6_2.12:
+    lastUpdated: 20170217165405
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+

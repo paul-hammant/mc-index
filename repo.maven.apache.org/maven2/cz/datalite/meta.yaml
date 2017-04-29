@@ -1,0 +1,32 @@
+artifacts:
+  SpringService:
+    lastUpdated: 20170405072848
+    latest: 1.4.5.42
+    release: 1.4.5.42
+    versions:
+      - 1.4.5.42
+  SpringService.zk-dl:
+    lastUpdated: 20170405073608
+    latest: 1.4.5.42
+    release: 1.4.5.42
+    versions:
+      - 1.4.5.42
+  ZKDLComponents:
+    lastUpdated: 20170405072849
+    latest: 1.4.5.36
+    release: 1.4.5.36
+    versions:
+      - 1.4.5.36
+  ZKDLComponents.zk-dl:
+    lastUpdated: 20170405073608
+    latest: 1.4.5.36
+    release: 1.4.5.36
+    versions:
+      - 1.4.5.36
+  zk-dl:
+    lastUpdated: 20170405072850
+    latest: 1.4.5.1
+    release: 1.4.5.1
+    versions:
+      - 1.4.5.1
+

@@ -1,0 +1,355 @@
+artifacts:
+  hdiv:
+    lastUpdated: 20160525122917
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-config:
+    lastUpdated: 20160525122917
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-core:
+    lastUpdated: 20160525122919
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-docs:
+    lastUpdated: 20160525122921
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-jsf:
+    lastUpdated: 20160525122922
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-jstl-taglibs-1.1.0:
+    lastUpdated: 20101110121848
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-jstl-taglibs-1.1.2:
+    lastUpdated: 20101110121913
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-jstl-taglibs-1.2:
+    lastUpdated: 20160525122926
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-spring-mvc:
+    lastUpdated: 20160525122928
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-spring-mvc-2.0:
+    lastUpdated: 20101110121927
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-spring-mvc-2.5:
+    lastUpdated: 20101110121903
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-1:
+    lastUpdated: 20160525122928
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.4
+      - 2.1.5
+      - 2.1.6
+      - 2.1.7.RC1
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-struts-1.1:
+    lastUpdated: 20101110121909
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-1.2.4:
+    lastUpdated: 20101110121907
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-1.2.7:
+    lastUpdated: 20101110121918
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-1.2.9:
+    lastUpdated: 20101110121857
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-1.3.8:
+    lastUpdated: 20101110121924
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-2.0.11:
+    lastUpdated: 20101102102143
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.4
+  hdiv-struts-2.0.6:
+    lastUpdated: 20101110121859
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-struts-2.0.9:
+    lastUpdated: 20101110121922
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  hdiv-thymeleaf:
+    lastUpdated: 20160525122929
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 2.1.7.RC2
+      - 2.1.7.RC3
+      - 2.1.7.RC4
+      - 2.1.7
+      - 2.1.8.RC1
+      - 2.1.8
+      - 2.1.9
+      - 2.1.10
+      - 2.1.11
+      - 2.1.12
+      - 2.1.13
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+      - 3.2.0
+  hdiv-webflow-1.0.5:
+    lastUpdated: 20101110121916
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.3
+      - 2.0.4
+  spring-boot-starter-hdiv:
+    lastUpdated: 20160506154215
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  spring-boot-starter-hdiv-commons:
+    lastUpdated: 20160506154216
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.1.0
+  spring-boot-starter-hdiv-jsp:
+    lastUpdated: 20160506154216
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.1.0
+  spring-boot-starter-hdiv-thymeleaf:
+    lastUpdated: 20160506154217
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.1.0
+

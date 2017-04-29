@@ -1,0 +1,435 @@
+artifacts:
+  application:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  application-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  application-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  benchmark:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  benchmark-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  benchmark-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  c:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  c-rt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+  datetime:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  datetime-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  datetime-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  dbtags:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  dbtags-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  dbtags-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  fmt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  fmt-rt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+  fn:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.1
+  log:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  log-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  log-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  mailer:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  mailer-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  mailer-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  page:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  page-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  page-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  permittedTaglibs:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.1
+  random:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+  random-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+  random-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+  regexp:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  regexp-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  regexp-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  request:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  request-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  request-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  response:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  response-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  response-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  scriptfree:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.1.1
+  session:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  session-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  session-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  sql:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  sql-rt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+  standard:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  standard-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  standard-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  string:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  string-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0
+      - 1.1.0
+  string-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0
+      - 1.1.0
+  x:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  x-rt:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0
+  xsl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  xsl-doc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+  xsl-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.1
+

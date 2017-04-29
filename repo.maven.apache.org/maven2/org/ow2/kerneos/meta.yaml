@@ -1,0 +1,521 @@
+artifacts:
+  cairngorm-kerneos:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  flexlib-kerneos:
+    lastUpdated: 20110630140512
+    latest: {}
+    release: 2.5
+    versions:
+      - 2.5
+  kerneos:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-api:
+    lastUpdated: 20110630140606
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-application-archetype:
+    lastUpdated: 20110630140359
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-archetypes:
+    lastUpdated: 20110630140355
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-common:
+    lastUpdated: 20110630140429
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-common-client:
+    lastUpdated: 20110630140449
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-core:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-core-api:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-core-client:
+    lastUpdated: 20110630140628
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-core-common:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-core-server:
+    lastUpdated: 20131003075330
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-doc:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-api:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-archetypes:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-archetypes-application:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-archetypes-module:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-archetypes-module-fragment:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-client:
+    lastUpdated: 20131003075331
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-common:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-applications:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-applications-application1:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-applications-application2:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-applications-application3:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples:
+    lastUpdated: 20131003075332
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-example1:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-example1-felix:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-example1-jonas:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-example1-war:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-auto-insurance:
+    lastUpdated: 20131003075333
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-auto-insurance-client:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-auto-insurance-server:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-home-insurance:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-home-insurance-client:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-extensions-home-insurance-server:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-main-module:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-main-module-api:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-main-module-client:
+    lastUpdated: 20131003075334
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-examples-extensible-module-main-module-server:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module1:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module1-client:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module1-server:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module2:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module2-client:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module2-server:
+    lastUpdated: 20131003075335
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module3:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-modules-module3-server:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-themes:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-examples-themes-theme1:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-libraries:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-login:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-profile:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-server:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-flex-theme:
+    lastUpdated: 20131003075336
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-libraries:
+    lastUpdated: 20110630140416
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-login:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-login-api:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-login-client:
+    lastUpdated: 20110630140546
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-login-loginmodule:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-login-server:
+    lastUpdated: 20110630140725
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-module-archetype:
+    lastUpdated: 20110630140408
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-profile:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-profile-api:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-profile-client:
+    lastUpdated: 20110630140735
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-profile-file:
+    lastUpdated: 20131003075337
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-profile-fileinstall:
+    lastUpdated: 20131003075338
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-profile-jonas:
+    lastUpdated: 20131003075338
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-profile-server:
+    lastUpdated: 20110630140752
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kerneos-roles:
+    lastUpdated: 20131003075338
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+  kerneos-roles-api:
+    lastUpdated: 20131003075338
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+

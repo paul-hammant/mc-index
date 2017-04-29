@@ -1,0 +1,296 @@
+artifacts:
+  russian-lang_2.10:
+    lastUpdated: 20150401204122
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+  russian-lang_2.11:
+    lastUpdated: 20160506063919
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.0.1
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+  synapse-frames_2.10:
+    lastUpdated: 20150401204131
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+  synapse-frames_2.11:
+    lastUpdated: 20150401204134
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+  synapse-grid-akka:
+    lastUpdated: 20131206074430
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+  synapse-grid-akka_2.10:
+    lastUpdated: 20150806201801
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-akka_2.11:
+    lastUpdated: 20170113075424
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.7
+  synapse-grid-akka_2.12:
+    lastUpdated: 20170113075425
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.4.7
+  synapse-grid-concurrent:
+    lastUpdated: 20131206074431
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  synapse-grid-concurrent_2.10:
+    lastUpdated: 20150806201802
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-concurrent_2.11:
+    lastUpdated: 20170113075425
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.7
+  synapse-grid-concurrent_2.12:
+    lastUpdated: 20170113075425
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.4.7
+  synapse-grid-core:
+    lastUpdated: 20131206074431
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+  synapse-grid-core_2.10:
+    lastUpdated: 20150806201803
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-core_2.11:
+    lastUpdated: 20170113075426
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.7
+  synapse-grid-core_2.12:
+    lastUpdated: 20170113075426
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.4.7
+  synapse-grid-rx_2.10:
+    lastUpdated: 20150806201804
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-rx_2.11:
+    lastUpdated: 20170113075427
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.7
+  synapse-grid-rx_2.12:
+    lastUpdated: 20170113075427
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.4.7
+  synapse-grid-shapeless:
+    lastUpdated: 20131206074432
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  synapse-grid-shapeless_2.10:
+    lastUpdated: 20150806201805
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-shapeless_2.11:
+    lastUpdated: 20150825165926
+    latest: 1.4.5
+    release: 1.4.5
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+  synapse-grid-slf4j:
+    lastUpdated: 20131206074432
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+  synapse-grid-slf4j_2.10:
+    lastUpdated: 20150806201807
+    latest: 1.4.4
+    release: 1.4.4
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  synapse-grid-slf4j_2.11:
+    lastUpdated: 20170113075427
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+      - 1.4.5
+      - 1.4.7
+  synapse-grid-slf4j_2.12:
+    lastUpdated: 20170113075428
+    latest: 1.4.7
+    release: 1.4.7
+    versions:
+      - 1.4.7
+  synapse-slick-lifted_2.10:
+    lastUpdated: 20150401204243
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  synapse-slick-lifted_2.11:
+    lastUpdated: 20150401204248
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  synapse-typed-expressions_2.10:
+    lastUpdated: 20150401204254
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.4
+      - 1.3.5
+      - 1.3.8
+      - 1.4.0
+  synapse-typed-expressions_2.11:
+    lastUpdated: 20160506063920
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.0.1
+      - 1.3.6
+      - 1.3.8
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+

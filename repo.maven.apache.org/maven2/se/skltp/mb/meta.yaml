@@ -1,0 +1,117 @@
+artifacts:
+  mb-application-web:
+    lastUpdated: 20131218134128
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-application-ws:
+    lastUpdated: 20131218134129
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-composite-schemas:
+    lastUpdated: 20131218134129
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-composite-svc:
+    lastUpdated: 20131218134129
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-composite-types:
+    lastUpdated: 20131218134129
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-intsvc:
+    lastUpdated: 20131029163546
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-modules-intsvc:
+    lastUpdated: 20131218134130
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-modules-webcomp:
+    lastUpdated: 20131218134130
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-parent:
+    lastUpdated: 20131218134131
+    latest: 1.0.0-RC9
+    release: 1.0.0-RC9
+    versions:
+      - 1.0.0-RC3
+      - 1.0.0-RC6
+      - 1.0.0-RC7
+      - 1.0.0-RC8
+      - 1.0.0-RC9
+  mb-schemas:
+    lastUpdated: 20131029163643
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-services:
+    lastUpdated: 20131029163721
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-svc:
+    lastUpdated: 20131029163736
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-types:
+    lastUpdated: 20131029163751
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-web:
+    lastUpdated: 20131029163837
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+  mb-webcomp:
+    lastUpdated: 20131029163900
+    latest: 1.0.0-RC3
+    release: 1.0.0-RC3
+    versions:
+      - 1.0.0-RC3
+

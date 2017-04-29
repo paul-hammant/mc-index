@@ -1,0 +1,347 @@
+artifacts:
+  sirona:
+    lastUpdated: 20151106165422
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-agent:
+    lastUpdated: 20151106165423
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-agent-store:
+    lastUpdated: 20151106165424
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-alerter:
+    lastUpdated: 20151106165424
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-aop:
+    lastUpdated: 20151106165424
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-api:
+    lastUpdated: 20151106165425
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-aspectj:
+    lastUpdated: 20151106165426
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-boomerang:
+    lastUpdated: 20151106165427
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-cassandra:
+    lastUpdated: 20151106165427
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-cdi:
+    lastUpdated: 20151106165428
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-collector:
+    lastUpdated: 20151106165429
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-collector-store:
+    lastUpdated: 20151106165430
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-core:
+    lastUpdated: 20151106165431
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-cube:
+    lastUpdated: 20151106165432
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-ehcache:
+    lastUpdated: 20151106165432
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-ehcache-agent:
+    lastUpdated: 20151106165433
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-graphite:
+    lastUpdated: 20151106165435
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-hazelcast:
+    lastUpdated: 20151106165436
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-hazelcast-agent:
+    lastUpdated: 20151106165437
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-hazelcast-gui:
+    lastUpdated: 20151106165438
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-javaagent:
+    lastUpdated: 20151106165439
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jaxrs:
+    lastUpdated: 20151106165439
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jaxrs-cxf-26:
+    lastUpdated: 20151106165439
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jaxrs2:
+    lastUpdated: 20151106165440
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jdbc:
+    lastUpdated: 20151106165440
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jpa:
+    lastUpdated: 20151106165442
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-jta:
+    lastUpdated: 20151106165445
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-mail-alerter:
+    lastUpdated: 20151106165445
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-performance:
+    lastUpdated: 20151106165447
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-plugins:
+    lastUpdated: 20151106165447
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-plugins-api:
+    lastUpdated: 20151106165448
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-pull:
+    lastUpdated: 20151106165448
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-reporting:
+    lastUpdated: 20151106165449
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-reporting-api:
+    lastUpdated: 20151106165449
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-reporting-ui:
+    lastUpdated: 20151106165450
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-reporting-webapp:
+    lastUpdated: 20151106165450
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-reporting-webapp-full:
+    lastUpdated: 20151106165455
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-server:
+    lastUpdated: 20151106165455
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-spring:
+    lastUpdated: 20151106165456
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-store:
+    lastUpdated: 20151106165456
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-store-memory:
+    lastUpdated: 20151106165456
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-tomee:
+    lastUpdated: 20151106165457
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-tomee-agent:
+    lastUpdated: 20151106165458
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-web:
+    lastUpdated: 20151106165500
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.1-incubating
+      - 0.2-incubating
+      - 0.3-incubating
+  sirona-websocket-client:
+    lastUpdated: 20151106165501
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+  sirona-websocket-server:
+    lastUpdated: 20151106165501
+    latest: 0.3-incubating
+    release: 0.3-incubating
+    versions:
+      - 0.3-incubating
+

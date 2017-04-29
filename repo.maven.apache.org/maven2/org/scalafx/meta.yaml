@@ -1,0 +1,388 @@
+artifacts:
+  scalafx-demos_2.10:
+    lastUpdated: 20131019051950
+    latest: 8.0.0-M2
+    release: 8.0.0-M2
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 8.0.0-M1
+      - 8.0.0-M2
+  scalafx-demos_2.9.2:
+    lastUpdated: 20130910034530
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+  scalafx-demos_2.9.3:
+    lastUpdated: 20131019051951
+    latest: 1.0.0-M6
+    release: 1.0.0-M6
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+  scalafx-extras_2.11:
+    lastUpdated: 20161221190808
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scalafx-extras_2.12:
+    lastUpdated: 20161221190809
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  scalafx-project_2.10:
+    lastUpdated: 20130911031547
+    latest: 8.0.0-M1
+    release: 8.0.0-M1
+    versions:
+      - 1.0.0-M5
+      - 8.0.0-M1
+  scalafx-project_2.9.2:
+    lastUpdated: 20130910034531
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  scalafx-project_2.9.3:
+    lastUpdated: 20130910034531
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M5
+  scalafx_2.10:
+    lastUpdated: 20160917162533
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-R8
+      - 2.2.60-R9
+      - 2.2.67-R10
+      - 2.2.76-R11
+      - 8.0.0-M1
+      - 8.0.0-M2
+      - 8.0.0-M3
+      - 8.0.0-R4
+      - 8.0.20-R6
+      - 8.0.31-R7
+      - 8.0.40-R8
+      - 8.0.60-R9
+      - 8.0.92-R10
+      - 8.0.102-R11
+  scalafx_2.11:
+    lastUpdated: 20160917162534
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 1.0.0-R8
+      - 2.2.60-R9
+      - 2.2.67-R10
+      - 2.2.76-R11
+      - 8.0.0-R4
+      - 8.0.5-R5
+      - 8.0.20-R6
+      - 8.0.31-R7
+      - 8.0.40-R8
+      - 8.0.60-R9
+      - 8.0.92-R10
+      - 8.0.102-R11
+  scalafx_2.11.0-RC1:
+    lastUpdated: 20140307023812
+    latest: 1.0.0-R8
+    release: 1.0.0-R8
+    versions:
+      - 1.0.0-R8
+  scalafx_2.11.0-RC2:
+    lastUpdated: 20140319020707
+    latest: 8.0.0-R4
+    release: 8.0.0-R4
+    versions:
+      - 1.0.0-R8
+      - 8.0.0-R4
+  scalafx_2.11.0-RC3:
+    lastUpdated: 20140319231452
+    latest: 8.0.0-R4
+    release: 8.0.0-R4
+    versions:
+      - 1.0.0-R8
+      - 8.0.0-R4
+  scalafx_2.11.0-RC4:
+    lastUpdated: 20140406224206
+    latest: 8.0.0-R4
+    release: 8.0.0-R4
+    versions:
+      - 1.0.0-R8
+      - 8.0.0-R4
+  scalafx_2.12:
+    lastUpdated: 20161102231256
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 8.0.102-R11
+  scalafx_2.12.0-M2:
+    lastUpdated: 20151002042612
+    latest: 8.0.60-R9
+    release: 8.0.60-R9
+    versions:
+      - 8.0.60-R9
+  scalafx_2.12.0-M3:
+    lastUpdated: 20151008000026
+    latest: 8.0.60-R9
+    release: 8.0.60-R9
+    versions:
+      - 8.0.60-R9
+  scalafx_2.12.0-M4:
+    lastUpdated: 20160422211624
+    latest: 8.0.92-R10
+    release: 8.0.92-R10
+    versions:
+      - 8.0.92-R10
+  scalafx_2.12.0-M5:
+    lastUpdated: 20160917162535
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 8.0.102-R11
+  scalafx_2.12.0-RC1:
+    lastUpdated: 20160917162536
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 8.0.102-R11
+  scalafx_2.12.0-RC2:
+    lastUpdated: 20161102231257
+    latest: 8.0.102-R11
+    release: 8.0.102-R11
+    versions:
+      - 8.0.102-R11
+  scalafx_2.9.2:
+    lastUpdated: 20130910034532
+    latest: 1.0.0-M5
+    release: 1.0.0-M5
+    versions:
+      - 1.0.0-M1
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+  scalafx_2.9.3:
+    lastUpdated: 20140902013920
+    latest: 2.2.67-R10
+    release: 2.2.67-R10
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-M5
+      - 1.0.0-M6
+      - 1.0.0-M7
+      - 1.0.0-R8
+      - 2.2.60-R9
+      - 2.2.67-R10
+  scalafxml-core-macros-sfx2_2.10:
+    lastUpdated: 20141022022957
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-macros-sfx2_2.11:
+    lastUpdated: 20141022022957
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-macros-sfx8_2.10:
+    lastUpdated: 20141022022458
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-macros-sfx8_2.11:
+    lastUpdated: 20161019135746
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2.2
+      - 0.3
+  scalafxml-core-macros-sfx8_2.12:
+    lastUpdated: 20161114154734
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalafxml-core-macros_2.10:
+    lastUpdated: 20140907025051
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+  scalafxml-core-macros_2.11:
+    lastUpdated: 20140907025052
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalafxml-core-sfx2_2.10:
+    lastUpdated: 20141022022958
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-sfx2_2.11:
+    lastUpdated: 20141022022958
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-sfx8_2.10:
+    lastUpdated: 20141022022459
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-core-sfx8_2.11:
+    lastUpdated: 20161019135746
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2.2
+      - 0.3
+  scalafxml-core-sfx8_2.12:
+    lastUpdated: 20161114154735
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalafxml-core_2.10:
+    lastUpdated: 20140907025053
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+  scalafxml-core_2.11:
+    lastUpdated: 20140907025053
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalafxml-guice-sfx2_2.10:
+    lastUpdated: 20141022022958
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-guice-sfx2_2.11:
+    lastUpdated: 20141022022959
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-guice-sfx8_2.10:
+    lastUpdated: 20141022022501
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-guice-sfx8_2.11:
+    lastUpdated: 20161019135747
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2.2
+      - 0.3
+  scalafxml-guice-sfx8_2.12:
+    lastUpdated: 20161114154736
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalafxml-guice_2.10:
+    lastUpdated: 20140907025054
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+  scalafxml-guice_2.11:
+    lastUpdated: 20140907025054
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  scalafxml-macwire-sfx8_2.11:
+    lastUpdated: 20161019135747
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalafxml-macwire-sfx8_2.12:
+    lastUpdated: 20161114154736
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+  scalafxml-subcut-sfx2_2.10:
+    lastUpdated: 20141022022959
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-subcut-sfx2_2.11:
+    lastUpdated: 20141022023000
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-subcut-sfx8_2.10:
+    lastUpdated: 20141022022502
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2.2
+  scalafxml-subcut-sfx8_2.11:
+    lastUpdated: 20161019135747
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2.2
+      - 0.3
+  scalafxml-subcut_2.10:
+    lastUpdated: 20140907025054
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+  scalafxml-subcut_2.11:
+    lastUpdated: 20140907025055
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+

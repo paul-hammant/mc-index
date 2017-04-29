@@ -1,0 +1,102 @@
+artifacts:
+  sticky-scheduled:
+    lastUpdated: 20170316082732
+    latest: 3.5
+    release: 3.5
+    versions:
+      - 1.9
+      - 1.11
+      - 1.12
+      - 2.3
+      - 3.5
+      - 1.9
+      - 1.11
+      - 1.12
+      - 2.3
+      - 3.5
+  sticky-scheduled-api:
+    lastUpdated: 20170316082733
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 1.3
+      - 1.5
+      - 2.4
+      - 3.3
+      - 1.3
+      - 1.5
+      - 2.4
+      - 3.3
+  sticky-scheduled-guice3:
+    lastUpdated: 20120410141650
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 0.6
+      - 0.8
+      - 1.3
+      - 0.6
+      - 0.8
+      - 1.3
+  sticky-scheduled-guice4:
+    lastUpdated: 20170316082711
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  sticky-scheduled-spring3:
+    lastUpdated: 20170316082711
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.2
+      - 3.2
+  sticky-scheduled-spring30:
+    lastUpdated: 20120410141648
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.3
+      - 1.4
+      - 2.3
+      - 1.3
+      - 1.4
+      - 2.3
+  sticky-scheduled-spring4:
+    lastUpdated: 20170316082711
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  sticky-scheduled-tck:
+    lastUpdated: 20170316082733
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  sticky-scheduler-api:
+    lastUpdated: 20170316082712
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 1.2
+      - 2.1
+      - 1.2
+      - 2.1
+  sticky-scheduler-single:
+    lastUpdated: 20170316082712
+    latest: 3.3
+    release: 3.3
+    versions:
+      - 1.4
+      - 1.5
+      - 2.2
+      - 3.3
+      - 1.4
+      - 1.5
+      - 2.2
+      - 3.3
+

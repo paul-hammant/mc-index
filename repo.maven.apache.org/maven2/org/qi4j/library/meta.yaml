@@ -1,0 +1,212 @@
+artifacts:
+  org.qi4j.library.alarm:
+    lastUpdated: 20150731130944
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.circuitbreaker:
+    lastUpdated: 20150731130944
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.constraints:
+    lastUpdated: 20150731130945
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.conversion:
+    lastUpdated: 20150731130945
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.eventsourcing:
+    lastUpdated: 20150731130945
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.eventsourcing-jdbm:
+    lastUpdated: 20150731130946
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.eventsourcing-rest:
+    lastUpdated: 20150731130946
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.fileconfig:
+    lastUpdated: 20150731130946
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.http:
+    lastUpdated: 20150731130947
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.invocation-cache:
+    lastUpdated: 20150731130948
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.jmx:
+    lastUpdated: 20150731130948
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.lang-groovy:
+    lastUpdated: 20150731130949
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.lang-javascript:
+    lastUpdated: 20150731130949
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.lang-scala:
+    lastUpdated: 20150731130949
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.locking:
+    lastUpdated: 20150731130950
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.logging:
+    lastUpdated: 20150731130951
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.metrics:
+    lastUpdated: 20150731130951
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.osgi:
+    lastUpdated: 20150731130951
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.rdf:
+    lastUpdated: 20150731130951
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.rest:
+    lastUpdated: 20150731130952
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.rest-client:
+    lastUpdated: 20150731130952
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.rest-common:
+    lastUpdated: 20150731130952
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.rest-server:
+    lastUpdated: 20150731130953
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.scheduler:
+    lastUpdated: 20150731130953
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.scripting:
+    lastUpdated: 20150731130953
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.servlet:
+    lastUpdated: 20150731130953
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.shiro-core:
+    lastUpdated: 20150731130954
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.shiro-web:
+    lastUpdated: 20150731130954
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.spring:
+    lastUpdated: 20150731130954
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.sql:
+    lastUpdated: 20150731130955
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.sql-bonecp:
+    lastUpdated: 20150731130955
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.sql-dbcp:
+    lastUpdated: 20150731130955
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.sql-liquibase:
+    lastUpdated: 20150731130955
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.uid:
+    lastUpdated: 20150731130957
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+  org.qi4j.library.uowfile:
+    lastUpdated: 20150731130958
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+

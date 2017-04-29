@@ -1,0 +1,59 @@
+artifacts:
+  libthryft:
+    lastUpdated: 20170330151515
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.1
+      - 2.0.3
+      - 2.0.4
+  thryft-waf-api:
+    lastUpdated: 20170330153233
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  thryft-waf-cli:
+    lastUpdated: 20170330153234
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  thryft-waf-lib:
+    lastUpdated: 20170330153234
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  thryft-waf-parent:
+    lastUpdated: 20170330153234
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  thryft-waf-server:
+    lastUpdated: 20170330153235
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+

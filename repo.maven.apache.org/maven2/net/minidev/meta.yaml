@@ -1,0 +1,924 @@
+artifacts:
+  accessors-smart:
+    lastUpdated: 20170326081535
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  asm:
+    lastUpdated: 20141019200755
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0-RC1
+      - 1.0-RC3
+      - 1.0
+      - 1.0.2
+      - 1.0
+  commons:
+    lastUpdated: 20170404014300
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  conf:
+    lastUpdated: 20170404014301
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  csv:
+    lastUpdated: 20170404014301
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  db:
+    lastUpdated: 20170404014301
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  html:
+    lastUpdated: 20170404014301
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  json-smart:
+    lastUpdated: 20170326081535
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0.6.3
+      - 1.0.8
+      - 1.0.9
+      - 1.0.9-1
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+      - 2.2
+      - 2.3
+  json-smart-action:
+    lastUpdated: 20170326081535
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.3
+      - 2.3
+  json-smart-mini:
+    lastUpdated: 20110705062127
+    latest: 1.0.8
+    release: 1.0.8
+    versions:
+      - 1.0.6.3
+      - 1.0.8
+  minidev-parent:
+    lastUpdated: 20170326081536
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.2
+      - 2.3
+      - 2.2
+      - 2.3
+  ovh-java-sdk:
+    lastUpdated: 20170418194618
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-allDom:
+    lastUpdated: 20170418194618
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-caascontainers:
+    lastUpdated: 20170418194619
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-caasregistry:
+    lastUpdated: 20170418194620
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-cdndedicated:
+    lastUpdated: 20170418194620
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-cdnwebsite:
+    lastUpdated: 20170418194621
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-cdnwebstorage:
+    lastUpdated: 20170418194621
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-cloud:
+    lastUpdated: 20170418194621
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-clusterhadoop:
+    lastUpdated: 20170418194622
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-core:
+    lastUpdated: 20170418194622
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dbaaslogs:
+    lastUpdated: 20170418194622
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dbaasqueue:
+    lastUpdated: 20170418194623
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dbaastimeseries:
+    lastUpdated: 20170418194623
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatedCloud:
+    lastUpdated: 20170418194623
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatedceph:
+    lastUpdated: 20170418194625
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatedhousing:
+    lastUpdated: 20170418194625
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatedinstallationTemplate:
+    lastUpdated: 20170418194625
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatednas:
+    lastUpdated: 20170418194626
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatednasha:
+    lastUpdated: 20170418194626
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-dedicatedserver:
+    lastUpdated: 20170418194626
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-deskaas:
+    lastUpdated: 20170418194627
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-distributionimage:
+    lastUpdated: 20170418194627
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-domain:
+    lastUpdated: 20170418194627
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-emaildomain:
+    lastUpdated: 20170418194628
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-emailexchange:
+    lastUpdated: 20170418194629
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-emailimapCopy:
+    lastUpdated: 20170418194630
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-emailpro:
+    lastUpdated: 20170418194630
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-flavor:
+    lastUpdated: 20170418194631
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-freefax:
+    lastUpdated: 20170418194631
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-horizonView:
+    lastUpdated: 20170418194632
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-hostingprivateDatabase:
+    lastUpdated: 20170418194632
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-hostingreseller:
+    lastUpdated: 20170418194633
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-hostingweb:
+    lastUpdated: 20170418194633
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-hostingwindows:
+    lastUpdated: 20170418194634
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-hpcspot:
+    lastUpdated: 20170418194635
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-image:
+    lastUpdated: 20170418194635
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-instance:
+    lastUpdated: 20170418194635
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-iot:
+    lastUpdated: 20170418194636
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-ip:
+    lastUpdated: 20170418194636
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-ipLoadbalancing:
+    lastUpdated: 20170418194637
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-launch:
+    lastUpdated: 20170418194637
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-licensecloudLinux:
+    lastUpdated: 20170418194638
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licensecpanel:
+    lastUpdated: 20170418194639
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licensedirectadmin:
+    lastUpdated: 20170418194639
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licenseoffice:
+    lastUpdated: 20170418194639
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licenseplesk:
+    lastUpdated: 20170418194640
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licensesqlserver:
+    lastUpdated: 20170418194640
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licensevirtuozzo:
+    lastUpdated: 20170418194641
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licensewindows:
+    lastUpdated: 20170418194641
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-licenseworklight:
+    lastUpdated: 20170418194642
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-me:
+    lastUpdated: 20170418194642
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-msServices:
+    lastUpdated: 20170418194643
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-newAccount:
+    lastUpdated: 20170418194643
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-order:
+    lastUpdated: 20170418194643
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-overTheBox:
+    lastUpdated: 20170418194644
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-paasdatabase:
+    lastUpdated: 20170418194644
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-paasmonitoring:
+    lastUpdated: 20170418194645
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-paastimeseries:
+    lastUpdated: 20170418194645
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-packxdsl:
+    lastUpdated: 20170418194645
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-partners:
+    lastUpdated: 20170418194646
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+  ovh-java-sdk-pom:
+    lastUpdated: 20170418194646
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-price:
+    lastUpdated: 20170418194646
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-project:
+    lastUpdated: 20170418194647
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-region:
+    lastUpdated: 20170418194647
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-router:
+    lastUpdated: 20170418194648
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-saascsp2:
+    lastUpdated: 20170418194648
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-sms:
+    lastUpdated: 20170418194648
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-ssh:
+    lastUpdated: 20170418194649
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-ssl:
+    lastUpdated: 20170418194649
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-sslGateway:
+    lastUpdated: 20170418194650
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-stackmis:
+    lastUpdated: 20170418194650
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-storage:
+    lastUpdated: 20170418194650
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-store:
+    lastUpdated: 20170418194650
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-supplymondialRelay:
+    lastUpdated: 20170418194651
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-support:
+    lastUpdated: 20170418194651
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-telephony:
+    lastUpdated: 20170418194652
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-time:
+    lastUpdated: 20170418194652
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-token:
+    lastUpdated: 20170418194653
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-veeamCloudConnect:
+    lastUpdated: 20170418194654
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-volume:
+    lastUpdated: 20170418194654
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9.3
+  ovh-java-sdk-vps:
+    lastUpdated: 20170418194654
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-vrack:
+    lastUpdated: 20170418194655
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  ovh-java-sdk-xdsl:
+    lastUpdated: 20170418194655
+    latest: 0.9.3
+    release: 0.9.3
+    versions:
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9
+  parent:
+    lastUpdated: 20141019210253
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 1.0.6.3
+      - 1.0.8
+      - 1.0.9
+      - 1.0.9-1
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3
+      - 1.3.1
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0
+      - 2.1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 2.0
+  parent-legacy:
+    lastUpdated: 20170404014302
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  types:
+    lastUpdated: 20170404014302
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  xlsx:
+    lastUpdated: 20170404014302
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+

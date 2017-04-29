@@ -1,0 +1,61 @@
+artifacts:
+  elasticsearch-importer-imap:
+    lastUpdated: 20151007102304
+    latest: 0.9-beta
+    release: 0.9-beta
+    versions:
+      - 0.9-beta
+  elasticsearch-river-imap:
+    lastUpdated: 20150530200014
+    latest: 0.8.5
+    release: 0.8.5
+    versions:
+      - 0.8
+      - 0.8.5
+      - 0.8
+  elasticsearch-sample-plugin-audit:
+    lastUpdated: 20150505204359
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  elasticsearch-sample-plugin-tssl:
+    lastUpdated: 20150505204308
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  javamail-mock2:
+    lastUpdated: 20140501145531
+    latest: 0.4-beta3
+    release: 0.4-beta3
+    versions:
+      - 0.4-beta3
+  javamail-mock2-fullmock:
+    lastUpdated: 20140620192852
+    latest: 0.5-beta4
+    release: 0.5-beta4
+    versions:
+      - 0.5-beta3
+      - 0.5-beta4
+  javamail-mock2-halfmock:
+    lastUpdated: 20140620192852
+    latest: 0.5-beta4
+    release: 0.5-beta4
+    versions:
+      - 0.5-beta3
+      - 0.5-beta4
+  kafka-end-2-end-encryption:
+    lastUpdated: 20160806202946
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

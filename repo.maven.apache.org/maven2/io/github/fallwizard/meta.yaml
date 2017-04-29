@@ -1,0 +1,21 @@
+artifacts:
+  Fallwizard:
+    lastUpdated: 20150602172105
+    latest: 0.8.1.0
+    release: 0.8.1.0
+    versions:
+      - 0.7.1.2
+      - 0.8.1.0
+  rabbitmq-mgmt:
+    lastUpdated: 20150213171817
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.8.1
+  test-junit:
+    lastUpdated: 20150213170718
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

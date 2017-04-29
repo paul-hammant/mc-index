@@ -1,0 +1,42 @@
+artifacts:
+  wildfly-html5-mobile-archetype:
+    lastUpdated: 20150131001711
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.2.0.Final
+  wildfly-html5-mobile-blank-archetype:
+    lastUpdated: 20150131001712
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.2.0.Final
+  wildfly-javaee7-webapp-archetype:
+    lastUpdated: 20150131001713
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.1.0.Final
+      - 8.2.0.Final
+  wildfly-javaee7-webapp-blank-archetype:
+    lastUpdated: 20150131001714
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.1.0.Final
+      - 8.2.0.Final
+  wildfly-javaee7-webapp-ear-archetype:
+    lastUpdated: 20150131001714
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.1.0.Final
+      - 8.2.0.Final
+  wildfly-javaee7-webapp-ear-blank-archetype:
+    lastUpdated: 20150131001715
+    latest: 8.2.0.Final
+    release: 8.2.0.Final
+    versions:
+      - 8.1.0.Final
+      - 8.2.0.Final
+

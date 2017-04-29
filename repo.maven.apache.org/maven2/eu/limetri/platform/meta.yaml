@@ -1,0 +1,59 @@
+artifacts:
+  jboss-support:
+    lastUpdated: 20140807113721
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  platform-api:
+    lastUpdated: 20140807113722
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  platform-client:
+    lastUpdated: 20140807113723
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  platform-parent:
+    lastUpdated: 20140807113724
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  platform-registry-jdbc:
+    lastUpdated: 20140807113724
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3
+      - 0.3
+  platform-server:
+    lastUpdated: 20140807113724
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.3
+      - 0.2
+      - 0.3
+  registry-inmem:
+    lastUpdated: 20140718103933
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+

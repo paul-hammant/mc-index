@@ -1,0 +1,22 @@
+artifacts:
+  Entity_Resolution_Demo:
+    lastUpdated: 20160112143623
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  h2-mock-database:
+    lastUpdated: 20161209212634
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+  ojb-fbi-ngi-mock-impl:
+    lastUpdated: 20151214171745
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

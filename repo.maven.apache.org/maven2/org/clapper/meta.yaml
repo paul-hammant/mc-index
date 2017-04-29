@@ -1,0 +1,859 @@
+artifacts:
+  argot_2.10:
+    lastUpdated: 20150918141854
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.3
+      - 1.0.4
+  argot_2.11:
+    lastUpdated: 20150918141855
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  argot_2.8.0:
+    lastUpdated: 20120503163514
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.8.1:
+    lastUpdated: 20120503163520
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.8.2:
+    lastUpdated: 20120503163518
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.9.0:
+    lastUpdated: 20120503163508
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.9.0-1:
+    lastUpdated: 20120503163509
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.9.1:
+    lastUpdated: 20120503163522
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.9.1-1:
+    lastUpdated: 20120503163517
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.8
+      - 0.4
+      - 0.4
+  argot_2.9.2:
+    lastUpdated: 20120503163521
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  avsl_2.10:
+    lastUpdated: 20161224012159
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0
+  avsl_2.11:
+    lastUpdated: 20161224012200
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+  avsl_2.12:
+    lastUpdated: 20161224012200
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.12
+      - 1.0.13
+  avsl_2.12.0-M4:
+    lastUpdated: 20160601023235
+    latest: 1.0.10
+    release: 1.0.10
+    versions:
+      - 1.0.10
+  avsl_2.12.0-M5:
+    lastUpdated: 20160730145137
+    latest: 1.0.11
+    release: 1.0.11
+    versions:
+      - 1.0.11
+  avsl_2.8.0:
+    lastUpdated: 20120503165146
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.8.1:
+    lastUpdated: 20120503165149
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.8.2:
+    lastUpdated: 20120503165145
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.9.0:
+    lastUpdated: 20120503165146
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.9.0-1:
+    lastUpdated: 20120503165148
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.9.1:
+    lastUpdated: 20120503165150
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.7
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.9.1-1:
+    lastUpdated: 20120503165148
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.3.8
+      - 0.4
+      - 0.4
+  avsl_2.9.2:
+    lastUpdated: 20120503165147
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+      - 0.4
+  classutil_2.10:
+    lastUpdated: 20170216042510
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  classutil_2.11:
+    lastUpdated: 20170216042510
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  classutil_2.12:
+    lastUpdated: 20170216042511
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  classutil_2.12.0-M1:
+    lastUpdated: 20160324215955
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  classutil_2.12.0-M4:
+    lastUpdated: 20160603134044
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  classutil_2.12.0-RC1:
+    lastUpdated: 20161003231019
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.13
+  classutil_2.8.0:
+    lastUpdated: 20120503170802
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.6
+  classutil_2.8.1:
+    lastUpdated: 20120503170800
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.6
+  classutil_2.8.2:
+    lastUpdated: 20120503170802
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.6
+  classutil_2.9.0:
+    lastUpdated: 20120503170803
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.6
+  classutil_2.9.0-1:
+    lastUpdated: 20120503170801
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.6
+  classutil_2.9.1:
+    lastUpdated: 20120503170758
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+  classutil_2.9.1-1:
+    lastUpdated: 20120503170759
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.5
+      - 0.4.6
+  classutil_2.9.2:
+    lastUpdated: 20120503170758
+    latest: 0.4.6
+    release: 0.4.6
+    versions:
+      - 0.4.6
+  grizzled-scala_2.10:
+    lastUpdated: 20161224002309
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+      - 1.2
+      - 1.3
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+      - 3.0.0
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 1.2
+      - 1.3
+  grizzled-scala_2.11:
+    lastUpdated: 20161224002309
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.6.0
+      - 1.6.1
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+      - 3.0.0
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+      - 1.2
+      - 1.3
+  grizzled-scala_2.12:
+    lastUpdated: 20161224002310
+    latest: 4.2.0
+    release: 4.2.0
+    versions:
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.2.0
+  grizzled-scala_2.12.0-M1:
+    lastUpdated: 20160324215240
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  grizzled-scala_2.12.0-M4:
+    lastUpdated: 20160615005512
+    latest: 2.4.2
+    release: 2.4.2
+    versions:
+      - 1.6.1
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.3.1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+  grizzled-scala_2.12.0-M5:
+    lastUpdated: 20160903012731
+    latest: 2.8.0
+    release: 2.8.0
+    versions:
+      - 2.5.0
+      - 2.6.0
+      - 2.7.0
+      - 2.8.0
+  grizzled-scala_2.12.0-RC1:
+    lastUpdated: 20161003223241
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  grizzled-scala_2.8.0:
+    lastUpdated: 20120503162325
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.8.1:
+    lastUpdated: 20120503162324
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.8.2:
+    lastUpdated: 20120503162322
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.9.0:
+    lastUpdated: 20120503162325
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.9.0-1:
+    lastUpdated: 20120503162327
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.9.1:
+    lastUpdated: 20120503162324
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.11.1
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.9.1-1:
+    lastUpdated: 20120503162328
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.11.2
+      - 1.0.12
+      - 1.0.13
+  grizzled-scala_2.9.2:
+    lastUpdated: 20120503162323
+    latest: 1.0.13
+    release: 1.0.13
+    versions:
+      - 1.0.13
+  grizzled-slf4j_2.10:
+    lastUpdated: 20161103232957
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.0
+  grizzled-slf4j_2.11:
+    lastUpdated: 20161103232957
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+  grizzled-slf4j_2.12:
+    lastUpdated: 20161103232958
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  grizzled-slf4j_2.12.0-M1:
+    lastUpdated: 20160324214324
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  grizzled-slf4j_2.12.0-M4:
+    lastUpdated: 20160406165423
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  grizzled-slf4j_2.12.0-M5:
+    lastUpdated: 20160727214348
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  grizzled-slf4j_2.12.0-RC1:
+    lastUpdated: 20161003181830
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  grizzled-slf4j_2.8.0:
+    lastUpdated: 20120919234519
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.8.1:
+    lastUpdated: 20120919234520
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.8.2:
+    lastUpdated: 20120919234521
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.9.0:
+    lastUpdated: 20120919234522
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.9.0-1:
+    lastUpdated: 20120919234523
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.9.1:
+    lastUpdated: 20120919234524
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.7
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.9.1-1:
+    lastUpdated: 20120919234525
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.8
+      - 0.6.9
+      - 0.6.10
+  grizzled-slf4j_2.9.2:
+    lastUpdated: 20120919234526
+    latest: 0.6.10
+    release: 0.6.10
+    versions:
+      - 0.6.9
+      - 0.6.10
+  javautil:
+    lastUpdated: 20170323141551
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.2.0
+  markwrap_2.10:
+    lastUpdated: 20161104125020
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.5.5
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.2
+  markwrap_2.11:
+    lastUpdated: 20161104125021
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.2
+  markwrap_2.12:
+    lastUpdated: 20161104125021
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.1.2
+  markwrap_2.8.0:
+    lastUpdated: 20120922220901
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.8.1:
+    lastUpdated: 20120922220902
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.8.2:
+    lastUpdated: 20120922220904
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.9.0:
+    lastUpdated: 20120922220905
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.9.0-1:
+    lastUpdated: 20120922220906
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.9.1:
+    lastUpdated: 20120922220907
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.9.1-1:
+    lastUpdated: 20120922220908
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.3
+      - 0.5.4
+      - 0.5.5
+  markwrap_2.9.2:
+    lastUpdated: 20120922220908
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.4
+      - 0.5.5
+  qr_2.10:
+    lastUpdated: 20130128000738
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  scalasti_2.10:
+    lastUpdated: 20170216041004
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 3.0.0
+      - 3.0.1
+  scalasti_2.11:
+    lastUpdated: 20170216041004
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 3.0.0
+      - 3.0.1
+  scalasti_2.12:
+    lastUpdated: 20170216041005
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 3.0.0
+      - 3.0.1
+  scalasti_2.12.0-RC1:
+    lastUpdated: 20161009202705
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.1.0
+      - 2.1.1
+  scalasti_2.8.0:
+    lastUpdated: 20120313161246
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.8.1:
+    lastUpdated: 20120313161245
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.8.2:
+    lastUpdated: 20120313161243
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.9.0:
+    lastUpdated: 20120313161245
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.9.0-1:
+    lastUpdated: 20120313161247
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.9.1:
+    lastUpdated: 20120313161244
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.6
+      - 0.5.7
+      - 0.5.8
+  scalasti_2.9.1-1:
+    lastUpdated: 20120313161246
+    latest: 0.5.8
+    release: 0.5.8
+    versions:
+      - 0.5.8
+

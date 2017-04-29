@@ -1,0 +1,33 @@
+artifacts:
+  mvnsh-assembly:
+    lastUpdated: 20130429180349
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-dist:
+    lastUpdated: 20130429180353
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-mvn-ext:
+    lastUpdated: 20130429180354
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1.0
+  mvnsh-scripts:
+    lastUpdated: 20110203143022
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+

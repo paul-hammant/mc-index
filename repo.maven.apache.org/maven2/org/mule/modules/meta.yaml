@@ -1,0 +1,612 @@
+artifacts:
+  mule-module-1to2migration:
+    lastUpdated: 20070720195326
+    latest: {}
+    release: 2.0-M1
+    versions:
+      - 2.0-M1
+  mule-module-acegi:
+    lastUpdated: 20110525195751
+    latest: {}
+    release: 3.1.2
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+      - 1.4.4
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-M1
+      - 3.0.0-M2-20090803
+      - 3.0.0-M2-20091006
+      - 3.0.0-M2-20091026
+      - 3.0.0-M2-20091124
+      - 3.0.0-M2-20091130
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+      - 3.0.0-RC1
+      - 3.0.0-RC2
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  mule-module-activiti:
+    lastUpdated: 20110308175601
+    latest: {}
+    release: {}
+    versions:
+      - 3.1.1
+  mule-module-annotations:
+    lastUpdated: 20160822031856
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-atom:
+    lastUpdated: 20160822031856
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-boot:
+    lastUpdated: 20160822031856
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-bpm:
+    lastUpdated: 20160822031857
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-builders:
+    lastUpdated: 20160822031857
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-client:
+    lastUpdated: 20160822031858
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-csv:
+    lastUpdated: 20070409095227
+    latest: {}
+    release: 1.4-RC1
+    versions:
+      - 1.4-RC1
+  mule-module-cxf:
+    lastUpdated: 20160822031858
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-db:
+    lastUpdated: 20160822031859
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-devkit-support:
+    lastUpdated: 20160822031859
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-drools:
+    lastUpdated: 20160822031900
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-extensions-spring-support:
+    lastUpdated: 20160822031900
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-extensions-support:
+    lastUpdated: 20160822031901
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-guice:
+    lastUpdated: 20160822031901
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-hivemind:
+    lastUpdated: 20080514091446
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  mule-module-http:
+    lastUpdated: 20160822031902
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-i18n:
+    lastUpdated: 20061002231236
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.3
+  mule-module-ibeans:
+    lastUpdated: 20121210190505
+    latest: {}
+    release: 3.3.1
+    versions:
+      - 3.0.0-RC1
+      - 3.0.0-RC2
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.2.0-M1
+      - 3.2.0
+      - 3.2.1
+      - 3.3-M1
+      - 3.3-M2
+      - 3.3.0-RC1
+      - 3.3.0-RC2
+      - 3.3.0-RC3
+      - 3.3.0-EA
+      - 3.3.0
+      - 3.3.1
+  mule-module-jaas:
+    lastUpdated: 20160822031902
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-jbossts:
+    lastUpdated: 20160822031903
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-jbpm:
+    lastUpdated: 20160822031903
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-jca:
+    lastUpdated: 20070416194056
+    latest: {}
+    release: 1.4.0
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+  mule-module-jersey:
+    lastUpdated: 20160822031904
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-jotm:
+    lastUpdated: 20080514091646
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 1.4.4
+  mule-module-json:
+    lastUpdated: 20160822031904
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-launcher:
+    lastUpdated: 20160822031905
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-logging:
+    lastUpdated: 20140312185940
+    latest: {}
+    release: 3.5.0-M4
+    versions:
+      - 3.1.2
+      - 3.2.0-M1
+      - 3.2.0
+      - 3.2.1
+      - 3.3-M1
+      - 3.3-M2
+      - 3.3.0-RC1
+      - 3.3.0-RC2
+      - 3.3.0-RC3
+      - 3.3.0-EA
+      - 3.3.0
+      - 3.4-M1
+      - 3.3.1
+      - 3.4.0-RC1
+      - 3.4.0
+      - 3.5.0-bighorn-RC3
+      - 3.5.0-bighorn
+      - 3.5.0-M4
+  mule-module-management:
+    lastUpdated: 20160822031905
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-oauth:
+    lastUpdated: 20160822031905
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-ognl:
+    lastUpdated: 20160822031906
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-pgp:
+    lastUpdated: 20160822031906
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-picocontainer:
+    lastUpdated: 20080514091824
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  mule-module-plexus:
+    lastUpdated: 20061002231337
+    latest: {}
+    release: 1.3
+    versions:
+      - 1.3
+  mule-module-reboot:
+    lastUpdated: 20160822031907
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-registry:
+    lastUpdated: 20070917020853
+    latest: {}
+    release: 1.4.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+  mule-module-rss:
+    lastUpdated: 20160822031908
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-schedulers:
+    lastUpdated: 20160822031908
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-scripting:
+    lastUpdated: 20160822031908
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-scripting-jruby:
+    lastUpdated: 20160822031909
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.8.0
+      - 3.8.1
+  mule-module-spring:
+    lastUpdated: 20080514091324
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 1.4.4
+  mule-module-spring-config:
+    lastUpdated: 20160822031909
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-spring-extras:
+    lastUpdated: 20160822031910
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-spring-security:
+    lastUpdated: 20160822031910
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-sxc:
+    lastUpdated: 20160822031911
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-tomcat:
+    lastUpdated: 20160822031911
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-validation:
+    lastUpdated: 20160822031912
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.8.0
+      - 3.8.1
+  mule-module-validations:
+    lastUpdated: 20150717162619
+    latest: 3.7.0
+    release: 3.7.0
+    versions:
+      - 3.7.0
+  mule-module-ws:
+    lastUpdated: 20160822031912
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-module-wssecurity:
+    lastUpdated: 20080514092124
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 1.4.4
+  mule-module-xml:
+    lastUpdated: 20160822031912
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-modules:
+    lastUpdated: 20160822031912
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-modules-all:
+    lastUpdated: 20160822031913
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+

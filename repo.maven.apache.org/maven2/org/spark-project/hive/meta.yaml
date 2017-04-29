@@ -1,0 +1,220 @@
+artifacts:
+  hive:
+    lastUpdated: 20160408014901
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-accumulo-handler:
+    lastUpdated: 20160408014901
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-ant:
+    lastUpdated: 20160408014902
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-anttasks:
+    lastUpdated: 20141013061212
+    latest: 0.12.0-protobuf-2.5
+    release: 0.12.0-protobuf-2.5
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+  hive-beeline:
+    lastUpdated: 20160408014902
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-cli:
+    lastUpdated: 20160408014902
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-common:
+    lastUpdated: 20160408014903
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-contrib:
+    lastUpdated: 20160408014904
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-exec:
+    lastUpdated: 20160408014904
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hbase-handler:
+    lastUpdated: 20160408014906
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-hwi:
+    lastUpdated: 20160408014906
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-jdbc:
+    lastUpdated: 20160408014907
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-metastore:
+    lastUpdated: 20160408014908
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-odbc:
+    lastUpdated: 20160408014909
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-packaging:
+    lastUpdated: 20160408014909
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-serde:
+    lastUpdated: 20160408014909
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-service:
+    lastUpdated: 20160408014909
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-shims:
+    lastUpdated: 20160408014910
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.12.0
+      - 0.12.0-protobuf
+      - 0.12.0-protobuf-2.5
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-shims-aggregator:
+    lastUpdated: 20160408014910
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  hive-testutils:
+    lastUpdated: 20160408014910
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 0.13.1
+      - 0.13.1a
+      - 1.2.1.spark
+      - 1.2.1.spark2
+  spark-client:
+    lastUpdated: 20160408014912
+    latest: 1.2.1.spark2
+    release: 1.2.1.spark2
+    versions:
+      - 1.2.1.spark
+      - 1.2.1.spark2
+

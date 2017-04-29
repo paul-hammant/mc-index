@@ -1,0 +1,34 @@
+artifacts:
+  common:
+    lastUpdated: 20150906232052
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 1.0
+      - 2.0
+  jaas-parent:
+    lastUpdated: 20150906232053
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 1.0
+      - 2.0
+  jdbc:
+    lastUpdated: 20150307004443
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  loginmodules:
+    lastUpdated: 20150906232053
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+

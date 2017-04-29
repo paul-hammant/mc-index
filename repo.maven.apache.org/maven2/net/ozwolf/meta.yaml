@@ -1,0 +1,42 @@
+artifacts:
+  consul-jaxrs:
+    lastUpdated: 20170406090557
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  dropwizard-raml-view:
+    lastUpdated: 20170109225635
+    latest: 1.0.2.0
+    release: 1.0.2.0
+    versions:
+      - 0.9.2.1
+      - 1.0.0.1
+      - 1.0.2.0
+  java-mongo-migrations:
+    lastUpdated: 20161230033941
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+  mongo-trek:
+    lastUpdated: 20170412054648
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  raml-mock-server:
+    lastUpdated: 20170118214827
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+

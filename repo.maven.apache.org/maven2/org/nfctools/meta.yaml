@@ -1,0 +1,47 @@
+artifacts:
+  nfctools-api:
+    lastUpdated: 20131001144034
+    latest: 1.0.M8
+    release: 1.0.M8
+    versions:
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0.M8
+  nfctools-core:
+    lastUpdated: 20131001144037
+    latest: 1.0.M8
+    release: 1.0.M8
+    versions:
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0.M8
+  nfctools-ndef:
+    lastUpdated: 20131001144038
+    latest: 1.0.M8
+    release: 1.0.M8
+    versions:
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0.M8
+  nfctools-p2p:
+    lastUpdated: 20131001144040
+    latest: 1.0.M8
+    release: 1.0.M8
+    versions:
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0.M8
+  nfctools-parent:
+    lastUpdated: 20131001144041
+    latest: 1.0.M8
+    release: 1.0.M8
+    versions:
+      - 1.0-M5
+      - 1.0-M6
+      - 1.0-M7
+      - 1.0.M8
+

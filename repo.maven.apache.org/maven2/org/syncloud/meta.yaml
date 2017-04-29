@@ -1,0 +1,75 @@
+artifacts:
+  dropbox-client:
+    lastUpdated: 20130108150539
+    latest: 1.5.3
+    release: 1.5.3
+    versions:
+      - 1.5.3
+  dropbox.java.api:
+    lastUpdated: 20121021041947
+    latest: 1.3.1.1
+    release: 1.3.1.1
+    versions:
+      - 1.3.1
+      - 1.3.1.1
+  syncloud-core:
+    lastUpdated: 20120812035215
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-core-parent:
+    lastUpdated: 20120812035216
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-dao-base:
+    lastUpdated: 20120812035216
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-dao-sqljet:
+    lastUpdated: 20120812035217
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-facade:
+    lastUpdated: 20120812035219
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-filesystem:
+    lastUpdated: 20120812035220
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-google-docs:
+    lastUpdated: 20120814015409
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-storage:
+    lastUpdated: 20120812035220
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-sync:
+    lastUpdated: 20120812035221
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  syncloud-webui:
+    lastUpdated: 20120812035222
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

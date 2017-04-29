@@ -1,0 +1,274 @@
+artifacts:
+  args4j:
+    lastUpdated: 20170330220155
+    latest: 0.0.16
+    release: 0.0.16
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+      - 0.0.6
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+  custom_javactool_for_testing:
+    lastUpdated: 20170324205138
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  ivy-dependency-update-checker:
+    lastUpdated: 20170330220156
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  jar-tool:
+    lastUpdated: 20170324205138
+    latest: 0.0.13
+    release: 0.0.13
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+  jarjar:
+    lastUpdated: 20170219211750
+    latest: 1.6.4
+    release: 1.6.4
+    versions:
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.6.3
+      - 1.6.4
+  jmake:
+    lastUpdated: 20150225002320
+    latest: 1.3.8-10
+    release: 1.3.8-10
+    versions:
+      - 1.3.8-5
+      - 1.3.8-6
+      - 1.3.8-7
+      - 1.3.8-8
+      - 1.3.8-9
+      - 1.3.8-10
+  junit-runner:
+    lastUpdated: 20170324205138
+    latest: 1.0.18
+    release: 1.0.18
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.13
+      - 1.0.14
+      - 1.0.15
+      - 1.0.16
+      - 1.0.17
+      - 1.0.18
+  junit-runner-annotations:
+    lastUpdated: 20170324205139
+    latest: 0.0.18
+    release: 0.0.18
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.5
+      - 0.0.6
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+  junit-runner-withretry:
+    lastUpdated: 20170324205139
+    latest: 0.0.14
+    release: 0.0.14
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+      - 0.0.8
+      - 0.0.9
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+  pants-runner:
+    lastUpdated: 20170324205140
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+  zinc:
+    lastUpdated: 20150923154040
+    latest: 1.0.12
+    release: 1.0.12
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+  zinc-cache:
+    lastUpdated: 20150916203418
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  zinc-cache_2.10:
+    lastUpdated: 20161109180303
+    latest: 20160711170623-sbt-zinc-repo-1
+    release: 20160711170623-sbt-zinc-repo-1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 20160412115411-zinc-canonicalize-1
+      - 20160711170623-sbt-zinc-repo-1
+  zinc-cache_2.11:
+    lastUpdated: 20170324205140
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  zinc-logging:
+    lastUpdated: 20150916203419
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  zinc-logging_2.10:
+    lastUpdated: 20161109180304
+    latest: 20160711170623-sbt-zinc-repo-1
+    release: 20160711170623-sbt-zinc-repo-1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 20160412115411-zinc-canonicalize-1
+      - 20160711170623-sbt-zinc-repo-1
+  zinc-logging_2.11:
+    lastUpdated: 20170324205140
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  zinc-sbt-compiler-javac:
+    lastUpdated: 20150916203419
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  zinc-sbt-compiler-javac_2.10:
+    lastUpdated: 20160922004050
+    latest: 20160412115411-zinc-canonicalize-1
+    release: 20160412115411-zinc-canonicalize-1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 20160412115411-zinc-canonicalize-1
+  zinc-sbt-inc:
+    lastUpdated: 20150916203420
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  zinc-sbt-inc_2.10:
+    lastUpdated: 20160922004050
+    latest: 20160412115411-zinc-canonicalize-1
+    release: 20160412115411-zinc-canonicalize-1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 20160412115411-zinc-canonicalize-1
+  zinc_2.10:
+    lastUpdated: 20161109180306
+    latest: 20160711170623-sbt-zinc-repo-1
+    release: 20160711170623-sbt-zinc-repo-1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 20160412115411-zinc-canonicalize-1
+      - 20160711170623-sbt-zinc-repo-1
+  zinc_2.11:
+    lastUpdated: 20170324205141
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

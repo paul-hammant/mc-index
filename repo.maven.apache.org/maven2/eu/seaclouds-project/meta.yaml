@@ -1,0 +1,143 @@
+artifacts:
+  aamwriter:
+    lastUpdated: 20160412173805
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  common:
+    lastUpdated: 20160412173805
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  dashboard:
+    lastUpdated: 20160412173807
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  deployer:
+    lastUpdated: 20160412173808
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  discoverer:
+    lastUpdated: 20160412173809
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  installer:
+    lastUpdated: 20150626140441
+    latest: 0.7.0-M19
+    release: 0.7.0-M19
+    versions:
+      - 0.7.0-M19
+  matchmaker:
+    lastUpdated: 20160412173810
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  optimizer:
+    lastUpdated: 20160412173811
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  optimizer-core:
+    lastUpdated: 20160412173812
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  planner:
+    lastUpdated: 20160412173812
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  planner-core:
+    lastUpdated: 20160412173812
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  planner-service:
+    lastUpdated: 20160412173813
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  platform:
+    lastUpdated: 20160412173814
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.7.0-M19
+      - 1.0.0
+  seaclouds-qa:
+    lastUpdated: 20160412173815
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla:
+    lastUpdated: 20160412173815
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-core:
+    lastUpdated: 20160412173815
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-enforcement:
+    lastUpdated: 20160412173816
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-generator:
+    lastUpdated: 20160412173816
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-personalization:
+    lastUpdated: 20160412173817
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-repository:
+    lastUpdated: 20160412173817
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-service:
+    lastUpdated: 20160412173818
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sla-tools:
+    lastUpdated: 20160412173819
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

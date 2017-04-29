@@ -1,0 +1,75 @@
+artifacts:
+  ApSeMedicalServicesAdapter:
+    lastUpdated: 20160415190440
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0-RC4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2-RC1
+      - 2.0.2
+      - 2.0.4-RC1
+      - 2.0.4
+  ApSeMedicalServicesAdapterIC:
+    lastUpdated: 20160415190440
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0-RC4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2-RC1
+      - 2.0.2
+      - 2.0.4-RC1
+      - 2.0.4
+  ApSeMedicalServicesAdapterIC-Schemas:
+    lastUpdated: 20160415190442
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0-RC4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2-RC1
+      - 2.0.2
+      - 2.0.4-RC1
+      - 2.0.4
+  ApSeMedicalServicesAdapterIC-tests:
+    lastUpdated: 20140901055857
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.0-RC4
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2-RC1
+      - 2.0.2
+  ApotekensServiceAdapterService-teststub:
+    lastUpdated: 20160415190443
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0.0-RC1
+      - 1.0.0-RC2
+      - 1.0.0-RC3
+      - 1.0.0
+      - 2.0.2
+      - 2.0.4-RC1
+      - 2.0.4
+  TicketMachine:
+    lastUpdated: 20140721130307
+    latest: 1.1.3-RC1
+    release: 1.1.3-RC1
+    versions:
+      - 1.1.2-RC3
+      - 1.1.2-RC4
+      - 1.1.2
+      - 1.1.3-RC1
+

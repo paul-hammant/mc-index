@@ -1,0 +1,176 @@
+artifacts:
+  auto-refresh-cache:
+    lastUpdated: 20160719121728
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  capture-output-stream:
+    lastUpdated: 20150110075232
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  db-transaction-manager:
+    lastUpdated: 20150512154032
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  docuss:
+    lastUpdated: 20160730164300
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  donovan:
+    lastUpdated: 20150406161646
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  fluent-logger-mock-sender:
+    lastUpdated: 20150621151448
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  gimei:
+    lastUpdated: 20150814082644
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.3.0
+  ikasan-client:
+    lastUpdated: 20150703031622
+    latest: 3.1.1
+    release: 3.1.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0
+      - 3.1.0
+      - 3.1.1
+  jesque-robust-worker-pool:
+    lastUpdated: 20150816072510
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  mysql-diff:
+    lastUpdated: 20150331112846
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  mysql-namelocker:
+    lastUpdated: 20141223065429
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  random-string:
+    lastUpdated: 20150323150439
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  redis-script-manager-core:
+    lastUpdated: 20160511034836
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  redis-script-manager-jedis:
+    lastUpdated: 20160511035407
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+  redis-script-manager-lettuce:
+    lastUpdated: 20160603035701
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  sprint:
+    lastUpdated: 20160606053110
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  thin-cache:
+    lastUpdated: 20160720053835
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tiny-uribuilder:
+    lastUpdated: 20150420024301
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+  transaction-manager:
+    lastUpdated: 20150123105843
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.0
+      - 2.0.0
+      - 2.0.1
+  uribuilder-tiny:
+    lastUpdated: 20161026083802
+    latest: 2.7.1
+    release: 2.7.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 2.2.0
+      - 2.3.0
+      - 2.4.0
+      - 2.5.0
+      - 2.6.0
+      - 2.6.1
+      - 2.7.0
+      - 2.7.1
+

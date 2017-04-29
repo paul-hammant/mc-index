@@ -1,0 +1,165 @@
+artifacts:
+  logagent-plugin:
+    lastUpdated: 20110503114900
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  logback-appender:
+    lastUpdated: 20110503114931
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  logging-parent:
+    lastUpdated: 20110503114701
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  logserver-api:
+    lastUpdated: 20110503114717
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  logserver-config:
+    lastUpdated: 20110503115000
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  logserver-impl:
+    lastUpdated: 20110503114745
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  notificationbroker-impl:
+    lastUpdated: 20110503114633
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  notificationbroker-parent:
+    lastUpdated: 20110503114614
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  plugins-parent:
+    lastUpdated: 20110503114559
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+  wrapped-parent:
+    lastUpdated: 20110503115035
+    latest: {}
+    release: {}
+    versions:
+      - 1.2.7
+      - 1.2.8
+      - 1.2.9
+      - 1.2.10
+      - 1.3.0
+      - 1.3.1
+

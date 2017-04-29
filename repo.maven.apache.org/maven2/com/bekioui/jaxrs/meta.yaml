@@ -1,0 +1,25 @@
+artifacts:
+  jaxrs-client:
+    lastUpdated: 20160406154823
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  jaxrs-security:
+    lastUpdated: 20160919185212
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+  jaxrs-server:
+    lastUpdated: 20160919190648
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+

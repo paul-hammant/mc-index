@@ -1,0 +1,1555 @@
+artifacts:
+  refcodes-assembler:
+    lastUpdated: 20151108122105
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-batch:
+    lastUpdated: 20160807155514
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  refcodes-checkerboard:
+    lastUpdated: 20170217125749
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-checkerboard-alt:
+    lastUpdated: 20170217130044
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-checkerboard-alt-javafx:
+    lastUpdated: 20170217130045
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-codec:
+    lastUpdated: 20170217131121
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-collection:
+    lastUpdated: 20170217122549
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-command:
+    lastUpdated: 20170217131244
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-component:
+    lastUpdated: 20170217123017
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-component-ext:
+    lastUpdated: 20170217131848
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-component-ext-observer:
+    lastUpdated: 20170217131848
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-connection:
+    lastUpdated: 20151108130629
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-connection-alt:
+    lastUpdated: 20151108130735
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-connection-alt-io:
+    lastUpdated: 20151108130735
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-connection-ext:
+    lastUpdated: 20151108130834
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-connection-ext-observable:
+    lastUpdated: 20151108130834
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-console:
+    lastUpdated: 20170217132107
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-controlflow:
+    lastUpdated: 20170217122041
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-criteria:
+    lastUpdated: 20170217124244
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-cryptography:
+    lastUpdated: 20150419105033
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+  refcodes-cryptography-alt:
+    lastUpdated: 20150419105624
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+  refcodes-cryptography-alt-filesystem:
+    lastUpdated: 20150419105625
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+  refcodes-cryptography-alt-spring:
+    lastUpdated: 20150403162353
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+  refcodes-data:
+    lastUpdated: 20170217121757
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext:
+    lastUpdated: 20170217123617
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext-boulderdash:
+    lastUpdated: 20170217123617
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext-checkers:
+    lastUpdated: 20170217123618
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext-chess:
+    lastUpdated: 20170217123618
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext-corporate:
+    lastUpdated: 20170217123619
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-data-ext-symbols:
+    lastUpdated: 20170217123619
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.3
+  refcodes-date:
+    lastUpdated: 20160807154740
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  refcodes-eventbus:
+    lastUpdated: 20170217133000
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-exception:
+    lastUpdated: 20170217121448
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-factory:
+    lastUpdated: 20170217123352
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-factory-alt:
+    lastUpdated: 20170217125017
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-factory-alt-spring:
+    lastUpdated: 20170217125017
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-filesystem:
+    lastUpdated: 20170217132629
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-filesystem-alt:
+    lastUpdated: 20170217133140
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-filesystem-alt-s3:
+    lastUpdated: 20170217133140
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-forwardsecrecy:
+    lastUpdated: 20170217132505
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-forwardsecrecy-alt:
+    lastUpdated: 20170217132836
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-forwardsecrecy-alt-filesystem:
+    lastUpdated: 20170217132837
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-generator:
+    lastUpdated: 20170217122348
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-graphical:
+    lastUpdated: 20170217123858
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-graphical-ext:
+    lastUpdated: 20170217125913
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-graphical-ext-javafx:
+    lastUpdated: 20170217125913
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-interceptor:
+    lastUpdated: 20170217123210
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-io:
+    lastUpdated: 20170217130226
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-io-ext:
+    lastUpdated: 20170217133325
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-io-ext-observable:
+    lastUpdated: 20170217133325
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-jobbus:
+    lastUpdated: 20170217133511
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-licensing:
+    lastUpdated: 20170217121041
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger:
+    lastUpdated: 20170217124623
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt:
+    lastUpdated: 20170217125300
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-async:
+    lastUpdated: 20170217125300
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-console:
+    lastUpdated: 20170217125301
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-io:
+    lastUpdated: 20170217125301
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-redis:
+    lastUpdated: 20150307160058
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  refcodes-logger-alt-simpledb:
+    lastUpdated: 20170217125301
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-slf4j:
+    lastUpdated: 20170217125302
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-alt-spring:
+    lastUpdated: 20170217125302
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-ext:
+    lastUpdated: 20170217133645
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-logger-ext-slf4j:
+    lastUpdated: 20170217133645
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-matcher:
+    lastUpdated: 20170217125418
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-meta:
+    lastUpdated: 20161217075345
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  refcodes-mixin:
+    lastUpdated: 20170217121630
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-net:
+    lastUpdated: 20170217131447
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-numerical:
+    lastUpdated: 20170217122206
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-observer:
+    lastUpdated: 20170217125533
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-parent:
+    lastUpdated: 20170217121204
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-remoting:
+    lastUpdated: 20170217133835
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-remoting-ext:
+    lastUpdated: 20170217172712
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-remoting-ext-observer:
+    lastUpdated: 20170217172712
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-rest:
+    lastUpdated: 20170217131700
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-runtime:
+    lastUpdated: 20170217122813
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-runtime-ext:
+    lastUpdated: 20160315174312
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+  refcodes-runtime-ext-console:
+    lastUpdated: 20160315174312
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+  refcodes-security:
+    lastUpdated: 20170217132309
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-security-alt:
+    lastUpdated: 20170217172838
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-security-alt-chaos:
+    lastUpdated: 20170217172838
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-security-ext:
+    lastUpdated: 20170217173038
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-security-ext-chaos:
+    lastUpdated: 20170217173038
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-security-ext-spring:
+    lastUpdated: 20170217173039
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-servicebus:
+    lastUpdated: 20170217173209
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-servicebus-alt:
+    lastUpdated: 20170217173336
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-servicebus-alt-spring:
+    lastUpdated: 20170217173337
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-structure:
+    lastUpdated: 20170217121916
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.2
+      - 1.1.3
+  refcodes-tabular:
+    lastUpdated: 20170217124415
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-tabular-alt:
+    lastUpdated: 20170217173531
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-tabular-alt-cryptography:
+    lastUpdated: 20150419112839
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+  refcodes-tabular-alt-forwardsecrecy:
+    lastUpdated: 20170217173532
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-textual:
+    lastUpdated: 20170217124055
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+  refcodes-textual-ext:
+    lastUpdated: 20151108133306
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-textual-ext-console:
+    lastUpdated: 20151108133307
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+  refcodes-time:
+    lastUpdated: 20170217121325
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+

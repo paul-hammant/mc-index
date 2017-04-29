@@ -1,0 +1,193 @@
+artifacts:
+  enkan-component-HikariCP:
+    lastUpdated: 20170216135302
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-doma2:
+    lastUpdated: 20170216135302
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-flyway:
+    lastUpdated: 20170216135302
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-freemarker:
+    lastUpdated: 20170216135303
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-jackson:
+    lastUpdated: 20170216135303
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-jetty:
+    lastUpdated: 20170216135303
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-metrics:
+    lastUpdated: 20170216135304
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.1
+      - 0.1.2
+  enkan-component-thymeleaf:
+    lastUpdated: 20170216135304
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-component-undertow:
+    lastUpdated: 20170216135304
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-core:
+    lastUpdated: 20170216135304
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-devel:
+    lastUpdated: 20170216135305
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-devel-gradle:
+    lastUpdated: 20170216135305
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  enkan-parent:
+    lastUpdated: 20170216135305
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-repl-pseudo:
+    lastUpdated: 20170216135305
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-servlet:
+    lastUpdated: 20170216135306
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-system:
+    lastUpdated: 20170216135306
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  enkan-web:
+    lastUpdated: 20170216135306
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  kotowari:
+    lastUpdated: 20170216135306
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  kotowari-archetype:
+    lastUpdated: 20160825035433
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0
+  kotowari-crud-scaffold:
+    lastUpdated: 20160825035414
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0
+  kotowari-example:
+    lastUpdated: 20170216135307
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  kotowari-scaffold:
+    lastUpdated: 20160825013057
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0-beta1
+      - 0.1.0-beta2
+      - 0.1.0-beta3
+      - 0.1.0
+

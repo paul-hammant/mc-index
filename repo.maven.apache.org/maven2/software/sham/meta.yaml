@@ -1,0 +1,28 @@
+artifacts:
+  sham-http:
+    lastUpdated: 20150305222723
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sham-salesforce-api:
+    lastUpdated: 20160921151432
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  sham-sftp:
+    lastUpdated: 20160127064409
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+  sham-ssh:
+    lastUpdated: 20160210215727
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

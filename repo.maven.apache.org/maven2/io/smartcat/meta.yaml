@@ -1,0 +1,236 @@
+artifacts:
+  cassandra-diagnostics:
+    lastUpdated: 20170406064833
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-commons:
+    lastUpdated: 20170406064834
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-connector21:
+    lastUpdated: 20170406064834
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-connector30:
+    lastUpdated: 20170406064834
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-core:
+    lastUpdated: 20170406064835
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-driver-connector:
+    lastUpdated: 20170406064835
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-embedded-cassandra:
+    lastUpdated: 20170406064835
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+  cassandra-diagnostics-ft:
+    lastUpdated: 20170406064836
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-reporter-datadog:
+    lastUpdated: 20170406064836
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-reporter-influx:
+    lastUpdated: 20170406064836
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-reporter-kafka:
+    lastUpdated: 20170406064837
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-reporter-riemann:
+    lastUpdated: 20170406064837
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-diagnostics-reporter-telegraf:
+    lastUpdated: 20170406064837
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.5
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.4.1
+  cassandra-migration-tool:
+    lastUpdated: 20161220092156
+    latest: 3.1.0.0
+    release: 3.1.0.0
+    versions:
+      - 0.0.1
+      - 2.1.9.0
+      - 2.1.9.1
+      - 3.1.0.0
+

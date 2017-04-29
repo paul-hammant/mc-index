@@ -1,0 +1,110 @@
+artifacts:
+  accumulo-funtests:
+    lastUpdated: 20150213192427
+    latest: 0.61.0-incubating
+    release: 0.61.0-incubating
+    versions:
+      - 0.61.0-incubating
+  command-logger-sample:
+    lastUpdated: 20170324020459
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  command-logger-slider-package:
+    lastUpdated: 20170324020459
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  hbase-funtests:
+    lastUpdated: 20150213192429
+    latest: 0.61.0-incubating
+    release: 0.61.0-incubating
+    versions:
+      - 0.61.0-incubating
+  slider:
+    lastUpdated: 20170324020459
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  slider-accumulo-provider:
+    lastUpdated: 20150213192430
+    latest: 0.61.0-incubating
+    release: 0.61.0-incubating
+    versions:
+      - 0.61.0-incubating
+  slider-agent:
+    lastUpdated: 20170324020500
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  slider-assembly:
+    lastUpdated: 20170324020514
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  slider-core:
+    lastUpdated: 20170324020514
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  slider-funtest:
+    lastUpdated: 20170324020515
+    latest: 0.92.0-incubating
+    release: 0.92.0-incubating
+    versions:
+      - 0.61.0-incubating
+      - 0.70.1-incubating
+      - 0.80.0-incubating
+      - 0.81.1-incubating
+      - 0.90.2-incubating
+      - 0.91.0-incubating
+      - 0.92.0-incubating
+  slider-hbase-provider:
+    lastUpdated: 20150213192439
+    latest: 0.61.0-incubating
+    release: 0.61.0-incubating
+    versions:
+      - 0.61.0-incubating
+

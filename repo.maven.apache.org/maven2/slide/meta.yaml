@@ -1,0 +1,144 @@
+artifacts:
+  ant-webdav:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1M1
+  catalinawrapper:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  jaas:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1M1
+  jdk14logger:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  kernel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  log4jlogger:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  roles:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  slide-jdk14logger:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0b1
+  slide-kernel:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+      - 2.1
+  slide-kernel-bundle:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0b1
+  slide-log4jlogger:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0b1
+  slide-roles:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+      - 2.0b1
+  slide-stores:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+      - 2.0b1
+      - 2.1
+  slide-taglib-common:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+  slide-taglib-struts:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+  slide-webdavlib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1
+  slide-webdavservlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+      - 2.0b1
+      - 2.1
+  stores:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+  webdav:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+  webdavlib:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.16
+      - 2.0
+      - 2.0beta1
+      - 2.1M1
+  webdavservlet:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.0
+      - 2.1M1
+

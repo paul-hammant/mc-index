@@ -1,0 +1,36 @@
+artifacts:
+  jaxrs-api:
+    lastUpdated: 20120413220401
+    latest: 1.0-beta-5
+    release: 1.0-beta-5
+    versions:
+      - 1.0-beta-4
+      - 1.0-beta-5
+  resteasy-jaxrs:
+    lastUpdated: 20120413220410
+    latest: 1.0-beta-5
+    release: 1.0-beta-5
+    versions:
+      - 1.0-beta-4
+      - 1.0-beta-5
+  resteasy-jaxrs-all:
+    lastUpdated: 20120413220403
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  resteasy-jaxrs-dist:
+    lastUpdated: 20120413220406
+    latest: 1.0-beta-5
+    release: 1.0-beta-5
+    versions:
+      - 1.0-beta-4
+      - 1.0-beta-5
+  resteasy-jaxrs-war:
+    lastUpdated: 20120413220407
+    latest: 1.0-beta-5
+    release: 1.0-beta-5
+    versions:
+      - 1.0-beta-4
+      - 1.0-beta-5
+

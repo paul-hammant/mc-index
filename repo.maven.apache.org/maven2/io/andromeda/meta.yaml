@@ -1,0 +1,60 @@
+artifacts:
+  fragments:
+    lastUpdated: 20170312105721
+    latest: 0.0.18
+    release: 0.0.18
+    versions:
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+  fragments-parent:
+    lastUpdated: 20170312105721
+    latest: 0.0.18
+    release: 0.0.18
+    versions:
+      - 0.0.10
+      - 0.0.11
+      - 0.0.12
+      - 0.0.13
+      - 0.0.14
+      - 0.0.15
+      - 0.0.16
+      - 0.0.17
+      - 0.0.18
+  lyricist:
+    lastUpdated: 20161230011155
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  lyricist-demo:
+    lastUpdated: 20161020215803
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+  lyricist-parent:
+    lastUpdated: 20161230011155
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.2.3
+      - 0.2.4
+  lyricist-quickstart:
+    lastUpdated: 20161020215803
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+

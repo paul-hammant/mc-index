@@ -1,0 +1,3223 @@
+artifacts:
+  cas-bom:
+    lastUpdated: 20160723094657
+    latest: 5.0.0.M3
+    release: 5.0.0.M3
+    versions:
+      - 5.0.0.M3
+  cas-management-webapp:
+    lastUpdated: 20170421191546
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-management-webapp-support:
+    lastUpdated: 20170421191549
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-management-webapp-support-ldap:
+    lastUpdated: 20170421191549
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server:
+    lastUpdated: 20170421191550
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core:
+    lastUpdated: 20170421191551
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api:
+    lastUpdated: 20170421191551
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-authentication:
+    lastUpdated: 20170421191552
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-events:
+    lastUpdated: 20170421191553
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-logout:
+    lastUpdated: 20170421191553
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-monitor:
+    lastUpdated: 20170421191554
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-protocol:
+    lastUpdated: 20170421191555
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-services:
+    lastUpdated: 20170421191555
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-ticket:
+    lastUpdated: 20170421191556
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-util:
+    lastUpdated: 20170421191556
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-validation:
+    lastUpdated: 20170421191557
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-web:
+    lastUpdated: 20170421191558
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-api-webflow:
+    lastUpdated: 20170421191559
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-audit:
+    lastUpdated: 20170421191600
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-authentication:
+    lastUpdated: 20170421191600
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-configuration:
+    lastUpdated: 20170421191602
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-amqp:
+    lastUpdated: 20170421191603
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-dynamodb:
+    lastUpdated: 20170403122916
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-jdbc:
+    lastUpdated: 20170403122917
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-kafka:
+    lastUpdated: 20170421191603
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-mongo:
+    lastUpdated: 20170421191604
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-configuration-cloud-vault:
+    lastUpdated: 20170421191605
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-events:
+    lastUpdated: 20170421191606
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-logging:
+    lastUpdated: 20170421191607
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-logging-config:
+    lastUpdated: 20170403122921
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-core-logging-config-cloudwatch:
+    lastUpdated: 20170403122921
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-core-logout:
+    lastUpdated: 20170421191607
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-monitor:
+    lastUpdated: 20170421191609
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-services:
+    lastUpdated: 20170421191609
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-tickets:
+    lastUpdated: 20170421191611
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-util:
+    lastUpdated: 20170421191611
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-validation:
+    lastUpdated: 20170421191613
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-web:
+    lastUpdated: 20170421191614
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-core-webflow:
+    lastUpdated: 20170421191615
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-documentation:
+    lastUpdated: 20170421191615
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-security-filter:
+    lastUpdated: 20160623164905
+    latest: 2.0.6
+    release: 2.0.6
+    versions:
+      - 2.0.5
+      - 2.0.6
+  cas-server-support-actions:
+    lastUpdated: 20170421191616
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-actions-aup-ldap:
+    lastUpdated: 20170421191617
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-actions-aup-webflow:
+    lastUpdated: 20170421191617
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-audit-jdbc:
+    lastUpdated: 20170421191618
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-authy:
+    lastUpdated: 20170421191619
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-azure:
+    lastUpdated: 20170403122930
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-basic:
+    lastUpdated: 20170421191619
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-bom:
+    lastUpdated: 20170421191621
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-captcha:
+    lastUpdated: 20170421191622
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-configuration:
+    lastUpdated: 20170403122933
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-console:
+    lastUpdated: 20160520234950
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-support-cookie:
+    lastUpdated: 20170421191622
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-couchbase-core:
+    lastUpdated: 20170421191623
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-couchbase-service-registry:
+    lastUpdated: 20170421191624
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-couchbase-ticket-registry:
+    lastUpdated: 20170421191625
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-digest-authentication:
+    lastUpdated: 20170421191626
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-duo:
+    lastUpdated: 20170421191626
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-duo-core:
+    lastUpdated: 20170403122937
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-dynamodb-service-registry:
+    lastUpdated: 20170403122937
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-dynamodb-ticket-registry:
+    lastUpdated: 20170403122938
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-ehcache-monitor:
+    lastUpdated: 20170421191627
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ehcache-ticket-registry:
+    lastUpdated: 20170421191628
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-electrofence:
+    lastUpdated: 20170403122939
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-events-jpa:
+    lastUpdated: 20170421191629
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-events-memory:
+    lastUpdated: 20170403122940
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-events-mongo:
+    lastUpdated: 20170421191629
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-gauth:
+    lastUpdated: 20170421191630
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-gauth-core:
+    lastUpdated: 20170403122942
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-gauth-jpa:
+    lastUpdated: 20170421191631
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-gauth-mongo:
+    lastUpdated: 20170421191632
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-generic:
+    lastUpdated: 20170421191633
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-generic-remote-webflow:
+    lastUpdated: 20170421191634
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-geolocation:
+    lastUpdated: 20170421191635
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-geolocation-googlemaps:
+    lastUpdated: 20170421191636
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-geolocation-maxmind:
+    lastUpdated: 20170421191636
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-grouper:
+    lastUpdated: 20170421191638
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-gua:
+    lastUpdated: 20170403122946
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-hazelcast-monitor:
+    lastUpdated: 20170421191639
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-hazelcast-ticket-registry:
+    lastUpdated: 20170421191640
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ignite-ticket-registry:
+    lastUpdated: 20170421191640
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-infinispan-ticket-registry:
+    lastUpdated: 20170421191641
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jdbc:
+    lastUpdated: 20170421191642
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jdbc-authentication:
+    lastUpdated: 20170403122950
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jdbc-drivers:
+    lastUpdated: 20170421191643
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jdbc-monitor:
+    lastUpdated: 20170421191643
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jpa-service-registry:
+    lastUpdated: 20170421191643
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jpa-ticket-registry:
+    lastUpdated: 20170421191645
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-jpa-util:
+    lastUpdated: 20170421191645
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-json-service-registry:
+    lastUpdated: 20170421191646
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ldap:
+    lastUpdated: 20170421191647
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ldap-core:
+    lastUpdated: 20170421191648
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ldap-monitor:
+    lastUpdated: 20170421191648
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ldap-service-registry:
+    lastUpdated: 20170421191649
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-memcached-monitor:
+    lastUpdated: 20170421191649
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-memcached-ticket-registry:
+    lastUpdated: 20170421191650
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-mongo:
+    lastUpdated: 20170421191651
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-mongo-service-registry:
+    lastUpdated: 20170421191652
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-mongo-ticket-registry:
+    lastUpdated: 20170403122958
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oauth:
+    lastUpdated: 20170421191653
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oauth-api:
+    lastUpdated: 20170403122959
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-oauth-core:
+    lastUpdated: 20170421191653
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oauth-services:
+    lastUpdated: 20170403123001
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-oauth-webflow:
+    lastUpdated: 20170421191654
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oidc:
+    lastUpdated: 20170421191655
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oidc-core:
+    lastUpdated: 20170421191655
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-oidc-services:
+    lastUpdated: 20170403123003
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-openid:
+    lastUpdated: 20170421191656
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-openid-webflow:
+    lastUpdated: 20170421191657
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-otp-mfa:
+    lastUpdated: 20170403123004
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pac4j:
+    lastUpdated: 20170421191658
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pac4j-authentication:
+    lastUpdated: 20170421191659
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pac4j-core:
+    lastUpdated: 20170421191659
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pac4j-core-clients:
+    lastUpdated: 20170403123006
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pac4j-webflow:
+    lastUpdated: 20170421191700
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-pm:
+    lastUpdated: 20170421191701
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-radius:
+    lastUpdated: 20170421191702
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-radius-core:
+    lastUpdated: 20170421191702
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-radius-mfa:
+    lastUpdated: 20170421191703
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-redis-ticket-registry:
+    lastUpdated: 20170403123009
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-reports:
+    lastUpdated: 20170421191704
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-rest:
+    lastUpdated: 20170421191705
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-rest-authentication:
+    lastUpdated: 20170421191706
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-rest-services:
+    lastUpdated: 20170421191706
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml:
+    lastUpdated: 20170421191707
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-core:
+    lastUpdated: 20170421191708
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-googleapps:
+    lastUpdated: 20170421191709
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-googleapps-core:
+    lastUpdated: 20170403123015
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-saml-idp:
+    lastUpdated: 20170421191710
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-idp-core:
+    lastUpdated: 20170421191710
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-mdui:
+    lastUpdated: 20170421191711
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-mdui-core:
+    lastUpdated: 20170403123018
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-saml-sp-integrations:
+    lastUpdated: 20170421191712
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-scim:
+    lastUpdated: 20170403123020
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-sentry:
+    lastUpdated: 20170403123021
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-shell:
+    lastUpdated: 20170421191713
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-shibboleth-attributes:
+    lastUpdated: 20170421191714
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-sms-clickatell:
+    lastUpdated: 20170403123023
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-sms-textmagic:
+    lastUpdated: 20170403123024
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-sms-twillio:
+    lastUpdated: 20170403123025
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-spnego:
+    lastUpdated: 20170421191715
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-spnego-webflow:
+    lastUpdated: 20170421191715
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-stormpath:
+    lastUpdated: 20170421191716
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-themes:
+    lastUpdated: 20170421191717
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-throttle:
+    lastUpdated: 20170421191717
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-throttle-jdbc:
+    lastUpdated: 20170421191718
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-token:
+    lastUpdated: 20170421191719
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-token-webflow:
+    lastUpdated: 20170421191719
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted:
+    lastUpdated: 20170421191720
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted-mfa:
+    lastUpdated: 20170421191721
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted-mfa-jdbc:
+    lastUpdated: 20170421191721
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted-mfa-mongo:
+    lastUpdated: 20170421191722
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted-mfa-rest:
+    lastUpdated: 20170421191723
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-trusted-webflow:
+    lastUpdated: 20170421191724
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-u2f:
+    lastUpdated: 20170403123034
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-validation:
+    lastUpdated: 20170421191724
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-ws-idp:
+    lastUpdated: 20170403123036
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-ws-idp-api:
+    lastUpdated: 20170403123036
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-ws-sts:
+    lastUpdated: 20170403123037
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-wsfederation:
+    lastUpdated: 20170421191725
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-wsfederation-webflow:
+    lastUpdated: 20170421191726
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-x509:
+    lastUpdated: 20170421191727
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-x509-rest:
+    lastUpdated: 20170403123039
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-support-x509-webflow:
+    lastUpdated: 20170421191728
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-yaml-service-registry:
+    lastUpdated: 20170421191728
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-yubikey:
+    lastUpdated: 20170421191729
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-support-yubikey-core:
+    lastUpdated: 20170403123041
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp:
+    lastUpdated: 20170421191731
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-actions:
+    lastUpdated: 20160520235049
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-actions-aup-ldap:
+    lastUpdated: 20160520235050
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-actions-aup-webflow:
+    lastUpdated: 20160520235050
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-config:
+    lastUpdated: 20170421191732
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-config-security:
+    lastUpdated: 20170403123045
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-config-server:
+    lastUpdated: 20170403123047
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-webapp-cookie:
+    lastUpdated: 20160520235052
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-init:
+    lastUpdated: 20170421191733
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-jetty:
+    lastUpdated: 20170403123050
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-webapp-reports:
+    lastUpdated: 20160520235054
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-session-hazelcast:
+    lastUpdated: 20170421191734
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-session-mongo:
+    lastUpdated: 20170421191734
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-session-redis:
+    lastUpdated: 20170421191735
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.0.0.M1
+      - 5.0.0.M2
+      - 5.0.0.M3
+      - 5.0.0.RC1
+      - 5.0.0.RC2
+      - 5.0.0.RC3
+      - 5.0.0.RC4
+      - 5.0.0
+      - 5.0.1
+      - 5.0.2
+      - 5.0.3
+      - 5.0.3.1
+      - 5.0.4
+      - 5.0.5
+      - 5.1.0-RC1
+      - 5.1.0-RC2
+      - 5.1.0-RC3
+  cas-server-webapp-themes:
+    lastUpdated: 20160520235057
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-throttle:
+    lastUpdated: 20160520235058
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+  cas-server-webapp-tomcat:
+    lastUpdated: 20170403123055
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-webapp-undertow:
+    lastUpdated: 20170403123058
+    latest: 5.1.0-RC3
+    release: 5.1.0-RC3
+    versions:
+      - 5.1.0-RC3
+  cas-server-webapp-validation:
+    lastUpdated: 20160520235059
+    latest: 5.0.0.M1
+    release: 5.0.0.M1
+    versions:
+      - 5.0.0.M1
+

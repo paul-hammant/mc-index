@@ -1,0 +1,21 @@
+artifacts:
+  htmlunit:
+    lastUpdated: 20111206153217
+    latest: 2.6-hudson-3
+    release: 2.6-hudson-3
+    versions:
+      - 2.6-hudson-3
+  svnkit:
+    lastUpdated: 20111028112948
+    latest: 1.3.5-hudson-1
+    release: 1.3.5-hudson-1
+    versions:
+      - 1.3.5-hudson-1
+  xstream:
+    lastUpdated: 20111010111414
+    latest: 1.4.1-hudson-2
+    release: 1.4.1-hudson-2
+    versions:
+      - 1.4.1-hudson-1
+      - 1.4.1-hudson-2
+

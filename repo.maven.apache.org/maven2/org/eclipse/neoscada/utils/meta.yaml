@@ -1,0 +1,125 @@
+artifacts:
+  org.eclipse.scada.ui.blink:
+    lastUpdated: 20161026205356
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ui.databinding:
+    lastUpdated: 20170216111155
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.4.0
+  org.eclipse.scada.ui.localization:
+    lastUpdated: 20161026205357
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ui.utils:
+    lastUpdated: 20161026205358
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ui.utils.handler:
+    lastUpdated: 20161026205358
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.utils:
+    lastUpdated: 20170216111156
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.utils.core.runtime:
+    lastUpdated: 20161026205359
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.utils.doc.isv:
+    lastUpdated: 20170216111156
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.utils.ecore.validation:
+    lastUpdated: 20161026205400
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.utils.filter:
+    lastUpdated: 20161026205401
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi:
+    lastUpdated: 20161026205401
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi.autostart:
+    lastUpdated: 20161026205402
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi.daemon:
+    lastUpdated: 20161026205402
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi.exporter:
+    lastUpdated: 20161026205403
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi.jaxws:
+    lastUpdated: 20161026205404
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.osgi.jdbc:
+    lastUpdated: 20161026205404
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.utils.osgi.jdbc.pool:
+    lastUpdated: 20161026205405
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.pkg.deb:
+    lastUpdated: 20161026205406
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.utils.propertyeditors:
+    lastUpdated: 20161026205406
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.utils.stats:
+    lastUpdated: 20161026205407
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

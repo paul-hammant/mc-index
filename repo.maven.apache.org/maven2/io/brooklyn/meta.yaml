@@ -1,0 +1,627 @@
+artifacts:
+  brooklyn-all:
+    lastUpdated: 20140331174715
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-api:
+    lastUpdated: 20140331174717
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-archetype-quickstart:
+    lastUpdated: 20140331174719
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-camp:
+    lastUpdated: 20140331174719
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.7.0-M1
+  brooklyn-cli:
+    lastUpdated: 20140331174719
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-core:
+    lastUpdated: 20140331174720
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-dist:
+    lastUpdated: 20140331174721
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-jmxmp-agent:
+    lastUpdated: 20140331174724
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-jmxrmi-agent:
+    lastUpdated: 20140331174725
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-jsgui:
+    lastUpdated: 20140331174726
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-launcher:
+    lastUpdated: 20140331174726
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-locations-jclouds:
+    lastUpdated: 20140331174727
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-logback-includes:
+    lastUpdated: 20140331174727
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-logback-xml:
+    lastUpdated: 20140331174728
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-parent:
+    lastUpdated: 20140331174728
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-policy:
+    lastUpdated: 20140331174729
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-qa:
+    lastUpdated: 20140331174730
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-rest:
+    lastUpdated: 20130510184209
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+  brooklyn-rest-api:
+    lastUpdated: 20140331174730
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-rest-client:
+    lastUpdated: 20140331174731
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-rest-server:
+    lastUpdated: 20140331174732
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-base:
+    lastUpdated: 20140331174733
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-database:
+    lastUpdated: 20140331174733
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-messaging:
+    lastUpdated: 20140331174734
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-monitoring:
+    lastUpdated: 20140331174734
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.7.0-M1
+  brooklyn-software-network:
+    lastUpdated: 20140331174735
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-nosql:
+    lastUpdated: 20140331174736
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-osgi:
+    lastUpdated: 20140331174736
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-software-webapp:
+    lastUpdated: 20140331174737
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-storage-hazelcast:
+    lastUpdated: 20140331174738
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-systems-cloudfoundry:
+    lastUpdated: 20130402175616
+    latest: 0.5.0-rc.1
+    release: 0.5.0-rc.1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+  brooklyn-systems-hadoop:
+    lastUpdated: 20140331174739
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-systems-openshift:
+    lastUpdated: 20131119130742
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+  brooklyn-systems-whirr:
+    lastUpdated: 20140331174739
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-test-support:
+    lastUpdated: 20140331174740
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.4.0
+      - 0.5.0-M1
+      - 0.5.0-M2
+      - 0.5.0-rc.1
+      - 0.5.0-rc.2
+      - 0.5.0
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-utils-common:
+    lastUpdated: 20140331174741
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-utils-groovy:
+    lastUpdated: 20140331174742
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-utils-rest-swagger:
+    lastUpdated: 20140331174742
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-utils-test-support:
+    lastUpdated: 20140331174743
+    latest: 0.7.0-M1
+    release: 0.7.0-M1
+    versions:
+      - 0.6.0-M1
+      - 0.6.0-M2
+      - 0.6.0-rc.1
+      - 0.6.0-rc.2
+      - 0.6.0-rc.3
+      - 0.6.0-rc.4
+      - 0.6.0
+      - 0.7.0-M1
+  brooklyn-web-console:
+    lastUpdated: 20130116121359
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

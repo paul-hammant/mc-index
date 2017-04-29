@@ -1,0 +1,313 @@
+artifacts:
+  wildfly-legacy-core-10.0.0:
+    lastUpdated: 20160722065002
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-core-7.1.2:
+    lastUpdated: 20150916152325
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-core-7.2.0:
+    lastUpdated: 20150916152326
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-core-7.3.0:
+    lastUpdated: 20160722065003
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-core-7.4.0:
+    lastUpdated: 20160722065004
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-core-7.5.0:
+    lastUpdated: 20160722065006
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-core-8.0.0:
+    lastUpdated: 20150916152329
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-core-parent:
+    lastUpdated: 20160722065007
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-core-wildfly-10.0:
+    lastUpdated: 20160705154225
+    latest: 2.0.0.Beta1
+    release: 2.0.0.Beta1
+    versions:
+      - 2.0.0.Beta1
+  wildfly-legacy-spi:
+    lastUpdated: 20160722065008
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-spi-dependencies:
+    lastUpdated: 20160722065009
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-spi-parent:
+    lastUpdated: 20160722065010
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-subsystem-10.0.0:
+    lastUpdated: 20160722065010
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-subsystem-7.1.2:
+    lastUpdated: 20150916152332
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-subsystem-7.2.0:
+    lastUpdated: 20150916152333
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-subsystem-7.3.0:
+    lastUpdated: 20160722065011
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-subsystem-7.4.0:
+    lastUpdated: 20160722065013
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-subsystem-7.5.0:
+    lastUpdated: 20160722065014
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-subsystem-8.0.0:
+    lastUpdated: 20150916152336
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+  wildfly-legacy-subsystem-parent:
+    lastUpdated: 20160722065015
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-test-parent:
+    lastUpdated: 20160722065016
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+  wildfly-legacy-tools:
+    lastUpdated: 20160722065017
+    latest: 2.0.2.Final
+    release: 2.0.2.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Final
+      - 2.0.0.Beta1
+      - 2.0.0.CR1
+      - 2.0.0.Final
+      - 2.0.1.Final
+      - 2.0.2.Final
+

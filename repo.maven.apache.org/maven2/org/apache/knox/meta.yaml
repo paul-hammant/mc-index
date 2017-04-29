@@ -1,0 +1,882 @@
+artifacts:
+  gateway:
+    lastUpdated: 20170320152921
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-applications:
+    lastUpdated: 20170320152921
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-demo-ldap:
+    lastUpdated: 20170320152922
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-demo-ldap-launcher:
+    lastUpdated: 20170320152922
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-i18n:
+    lastUpdated: 20170320152923
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-i18n-logging-log4j:
+    lastUpdated: 20170320152923
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-i18n-logging-sl4j:
+    lastUpdated: 20170320152923
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-ha:
+    lastUpdated: 20170320152924
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-common:
+    lastUpdated: 20170320152924
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-concat:
+    lastUpdated: 20170320152924
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-hadoop-groups:
+    lastUpdated: 20170320152925
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-pseudo:
+    lastUpdated: 20170320152925
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-regex:
+    lastUpdated: 20170320152925
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-identity-assertion-switchcase:
+    lastUpdated: 20170320152926
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-jersey:
+    lastUpdated: 20170320152926
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-rewrite:
+    lastUpdated: 20170320152927
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-rewrite-func-hostmap-static:
+    lastUpdated: 20170320152927
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-rewrite-func-service-registry:
+    lastUpdated: 20170320152928
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-rewrite-step-encrypt-uri:
+    lastUpdated: 20170320152928
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-rewrite-step-secure-query:
+    lastUpdated: 20170320152928
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-authc-anon:
+    lastUpdated: 20170320152929
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-authz-acls:
+    lastUpdated: 20170320152929
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-hadoopauth:
+    lastUpdated: 20170320152929
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-jwt:
+    lastUpdated: 20170320152930
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-pac4j:
+    lastUpdated: 20170320152930
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-picketlink:
+    lastUpdated: 20170320152930
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-preauth:
+    lastUpdated: 20170320152931
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-shiro:
+    lastUpdated: 20170320152931
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-provider-security-webappsec:
+    lastUpdated: 20170320152931
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-release:
+    lastUpdated: 20170320152931
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-server:
+    lastUpdated: 20170320152932
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-server-launcher:
+    lastUpdated: 20170320152932
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-server-xforwarded-filter:
+    lastUpdated: 20170320152932
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-admin:
+    lastUpdated: 20170320152933
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-as:
+    lastUpdated: 20170320152933
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-definitions:
+    lastUpdated: 20170320152934
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-hbase:
+    lastUpdated: 20170320152934
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-hive:
+    lastUpdated: 20170320152935
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-knoxsso:
+    lastUpdated: 20170320152935
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-knoxssout:
+    lastUpdated: 20170320152936
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.11.0
+      - 0.12.0
+  gateway-service-knoxtoken:
+    lastUpdated: 20170320152936
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  gateway-service-oozie:
+    lastUpdated: 20150121042648
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  gateway-service-rm:
+    lastUpdated: 20170320152937
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  gateway-service-storm:
+    lastUpdated: 20170320152937
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-test:
+    lastUpdated: 20170320152938
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-tgs:
+    lastUpdated: 20170320152938
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-vault:
+    lastUpdated: 20170320152938
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-webhcat:
+    lastUpdated: 20150121042649
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  gateway-service-webhdfs:
+    lastUpdated: 20170320152938
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-service-yarn-rm:
+    lastUpdated: 20150121042650
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.5.0
+      - 0.5.1
+  gateway-shell:
+    lastUpdated: 20170320152939
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-shell-launcher:
+    lastUpdated: 20170320152939
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-shell-release:
+    lastUpdated: 20170320152939
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  gateway-shell-samples:
+    lastUpdated: 20170320152940
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  gateway-spi:
+    lastUpdated: 20170320152941
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-test:
+    lastUpdated: 20170320152941
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-test-ldap:
+    lastUpdated: 20151223172951
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  gateway-test-ldap-launcher:
+    lastUpdated: 20151223172952
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  gateway-test-release:
+    lastUpdated: 20170320152941
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-test-release-utils:
+    lastUpdated: 20170320152941
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+  gateway-test-utils:
+    lastUpdated: 20170320152941
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-util-common:
+    lastUpdated: 20170320152942
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-util-configinjector:
+    lastUpdated: 20170320152942
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-util-launcher:
+    lastUpdated: 20170320152942
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  gateway-util-urltemplate:
+    lastUpdated: 20170320152943
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  hadoop-examples:
+    lastUpdated: 20170320152943
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  hsso-release:
+    lastUpdated: 20151223172959
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+  knox-cli-launcher:
+    lastUpdated: 20170320152944
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  webhdfs-kerb-test:
+    lastUpdated: 20170320152944
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+  webhdfs-test:
+    lastUpdated: 20170320152944
+    latest: 0.12.0
+    release: 0.12.0
+    versions:
+      - 0.12.0
+

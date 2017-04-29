@@ -1,0 +1,42 @@
+artifacts:
+  hsqldb:
+    lastUpdated: 20170416202110
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.2.9
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+      - 2.4.0
+  hsqldb-j5:
+    lastUpdated: 20110613234628
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.2.4
+      - 2.0.0
+  sqltool:
+    lastUpdated: 20170416202111
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.2.9
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.3.5
+      - 2.4.0
+  sqltool-j5:
+    lastUpdated: 20110613234630
+    latest: {}
+    release: 2.0.0
+    versions:
+      - 2.2.4
+      - 2.0.0
+

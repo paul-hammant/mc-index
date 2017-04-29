@@ -1,0 +1,100 @@
+artifacts:
+  emaze-csv:
+    lastUpdated: 20160718103752
+    latest: 8.1
+    release: 8.1
+    versions:
+      - 8.1
+      - 8.1
+  emaze-dysfunctional:
+    lastUpdated: 20161108172843
+    latest: 8.1.2
+    release: 8.1.2
+    versions:
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.7
+      - 5.8
+      - 8.1.1
+      - 8.1.2
+      - 5.0
+      - 5.1
+      - 5.2
+      - 5.7
+      - 5.8
+  emaze-dysfunctional-jackson:
+    lastUpdated: 20160718090850
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 8.1.1
+  emaze-maple:
+    lastUpdated: 20160715153900
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 2.3
+      - 2.3
+  emaze-networks:
+    lastUpdated: 20160718100633
+    latest: 8.2
+    release: 8.2
+    versions:
+      - 8.2
+      - 8.2
+  emaze-tinytypes:
+    lastUpdated: 20170202115616
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+  emaze-tinytypes-generation:
+    lastUpdated: 20170202115616
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+  emaze-tinytypes-hibernate:
+    lastUpdated: 20170202115617
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+  emaze-tinytypes-jackson:
+    lastUpdated: 20170202115617
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+  emaze-tinytypes-parent:
+    lastUpdated: 20170202115617
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+  emaze-tinytypes-spring:
+    lastUpdated: 20170202115617
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 2.4
+      - 2.5
+      - 2.4
+      - 2.5
+

@@ -1,0 +1,60 @@
+artifacts:
+  oauth:
+    lastUpdated: 20160526150943
+    latest: 20100527
+    release: 20100527
+    versions:
+      - 20090531
+      - 20090617
+      - 20090825
+      - 20100527
+      - 20090531
+      - 20090617
+      - 20090825
+      - 20100527
+  oauth-consumer:
+    lastUpdated: 20160609003547
+    latest: 20100527
+    release: 20100527
+    versions:
+      - 20090531
+      - 20090617
+      - 20090823
+      - 20100527
+      - 20090531
+      - 20090617
+      - 20090823
+      - 20100527
+  oauth-core-parent:
+    lastUpdated: 20160608182747
+    latest: 20090531
+    release: 20090531
+    versions:
+      - 20090530
+      - 20090531
+      - 20090530
+      - 20090531
+  oauth-httpclient3:
+    lastUpdated: 20160526150914
+    latest: 20090617
+    release: 20090617
+    versions:
+      - 20090617
+      - 20090617
+  oauth-httpclient4:
+    lastUpdated: 20160526150848
+    latest: 20090913
+    release: 20090913
+    versions:
+      - 20090913
+      - 20090913
+  oauth-provider:
+    lastUpdated: 20160526150834
+    latest: 20100527
+    release: 20100527
+    versions:
+      - 20090531
+      - 20100527
+      - 20090531
+      - 20100527
+

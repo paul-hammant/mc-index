@@ -1,0 +1,305 @@
+artifacts:
+  bsec:
+    lastUpdated: 20161203130031
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.6
+  butor-acl:
+    lastUpdated: 20150520203519
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+  butor-attrset-common:
+    lastUpdated: 20161203130031
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-attrset-dao:
+    lastUpdated: 20161203130032
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-attrset-model:
+    lastUpdated: 20161203130032
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-auth-common:
+    lastUpdated: 20161203130033
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-auth-dao:
+    lastUpdated: 20161203130034
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-auth-model:
+    lastUpdated: 20161203130034
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-dao:
+    lastUpdated: 20161203130035
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-js:
+    lastUpdated: 20161203130036
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.6
+  butor-json:
+    lastUpdated: 20161203130037
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  butor-kafka:
+    lastUpdated: 20150520203529
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  butor-log4j:
+    lastUpdated: 20161203130037
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-maven-parent:
+    lastUpdated: 20161203130038
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.6
+  butor-mule:
+    lastUpdated: 20161203130038
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-notif:
+    lastUpdated: 20161203130039
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-notif-jms:
+    lastUpdated: 20161203130040
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-notif-kafka:
+    lastUpdated: 20150520203534
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  butor-notif-model:
+    lastUpdated: 20161203130040
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.6
+  butor-portal-common:
+    lastUpdated: 20161203130041
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.9.0
+      - 1.0.3
+      - 1.0.6
+  butor-portal-dao:
+    lastUpdated: 20161203130042
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.9.0
+      - 1.0.3
+      - 1.0.6
+  butor-portal-model:
+    lastUpdated: 20161203130043
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.9.0
+      - 1.0.3
+      - 1.0.6
+  butor-realm:
+    lastUpdated: 20150520203534
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.1
+      - 0.9.0
+      - 1.0.0
+  butor-report:
+    lastUpdated: 20161203130044
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  butor-spring:
+    lastUpdated: 20161203130045
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-sso:
+    lastUpdated: 20161203130045
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-sso-oauth2:
+    lastUpdated: 20161203130046
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.6
+  butor-test:
+    lastUpdated: 20161203130047
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.0.5
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-utils:
+    lastUpdated: 20161203130048
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.6
+  butor-web:
+    lastUpdated: 20161203130049
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.9.0
+      - 1.0.0
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  portal:
+    lastUpdated: 20161203130050
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  portal-with-notif-activemq:
+    lastUpdated: 20161203130051
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.5
+      - 1.0.6
+  sso:
+    lastUpdated: 20161203130052
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+

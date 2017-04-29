@@ -1,0 +1,34 @@
+artifacts:
+  dummy-servlet:
+    lastUpdated: 20160816204841
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+  html-parser:
+    lastUpdated: 20160606175957
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  html-servlet:
+    lastUpdated: 20160817105923
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.2
+      - 0.0.3
+  rhino-js-engine:
+    lastUpdated: 20160325191525
+    latest: 1.7.7.1
+    release: 1.7.7.1
+    versions:
+      - 1.7.7.1
+  url-parser:
+    lastUpdated: 20160126170734
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+

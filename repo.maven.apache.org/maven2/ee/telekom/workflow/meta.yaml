@@ -1,0 +1,50 @@
+artifacts:
+  workflow-api:
+    lastUpdated: 20170410114446
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+  workflow-engine:
+    lastUpdated: 20170410114501
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+  workflow-test:
+    lastUpdated: 20170410114553
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+  workflow-web:
+    lastUpdated: 20170410114521
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+

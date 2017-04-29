@@ -1,0 +1,51 @@
+artifacts:
+  scray:
+    lastUpdated: 20161214142732
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-cassandra:
+    lastUpdated: 20161214142732
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-client-jdbc:
+    lastUpdated: 20161214142732
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-common:
+    lastUpdated: 20161214142733
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-loader:
+    lastUpdated: 20161214142733
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-querying:
+    lastUpdated: 20161214142735
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+  scray-service:
+    lastUpdated: 20161214142736
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.4
+      - 0.9.5
+

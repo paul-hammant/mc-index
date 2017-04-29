@@ -1,0 +1,170 @@
+artifacts:
+  jmx:
+    lastUpdated: 20100710062414
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  monitoradmin:
+    lastUpdated: 20160214152207
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.2
+      - 1.0.3
+  networkadapter:
+    lastUpdated: 20161213181807
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  org.knowhowlab.osgi.testing:
+    lastUpdated: 20150108154456
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  org.knowhowlab.osgi.testing.all:
+    lastUpdated: 20150108154456
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.assertions:
+    lastUpdated: 20150108154457
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it:
+    lastUpdated: 20150108154458
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.arquillian:
+    lastUpdated: 20130514193224
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.knowhowlab.osgi.testing.it.pax.exam:
+    lastUpdated: 20130514193224
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.knowhowlab.osgi.testing.it.pax.exam2.runner.junit4:
+    lastUpdated: 20150108154458
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.pax.exam3:
+    lastUpdated: 20130514193225
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+  org.knowhowlab.osgi.testing.it.pax.exam3.junit4:
+    lastUpdated: 20150108154459
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.pax.exam3.testng:
+    lastUpdated: 20150108154459
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.pax.exam4.junit4:
+    lastUpdated: 20150108154500
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.pax.exam4.testng:
+    lastUpdated: 20150108154500
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.knowhowlab.osgi.testing.it.test.bundle:
+    lastUpdated: 20150108154500
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  org.knowhowlab.osgi.testing.utils:
+    lastUpdated: 20150108154501
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.0.0.M7
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+  shell:
+    lastUpdated: 20151021172057
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  sigar:
+    lastUpdated: 20161115174917
+    latest: 1.6.5_01
+    release: 1.6.5_01
+    versions:
+      - 1.6.5_01
+  testing:
+    lastUpdated: 20121023213405
+    latest: 1.0.0.M2
+    release: 1.0.0.M2
+    versions:
+      - 1.0.0.M2
+

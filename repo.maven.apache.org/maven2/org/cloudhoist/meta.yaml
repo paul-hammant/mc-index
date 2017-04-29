@@ -1,0 +1,241 @@
+artifacts:
+  haproxy:
+    lastUpdated: 20130215202539
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  java:
+    lastUpdated: 20130308032423
+    latest: 0.8.0-alpha.2
+    release: 0.8.0-alpha.2
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.5.1
+      - 0.7.0-alpha.1
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.8.0-alpha.1
+      - 0.8.0-alpha.2
+  local-transport:
+    lastUpdated: 20130131161306
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+  maven-embedder:
+    lastUpdated: 20130111213601
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  pallet:
+    lastUpdated: 20130824114448
+    latest: 0.8.0-alpha.9
+    release: 0.8.0-alpha.9
+    versions:
+      - 0.3.0
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+      - 0.4.6
+      - 0.4.7
+      - 0.4.8
+      - 0.4.9
+      - 0.4.10
+      - 0.4.11
+      - 0.4.12
+      - 0.4.13
+      - 0.4.14
+      - 0.4.15
+      - 0.4.16
+      - 0.4.17
+      - 0.4.18
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.6.3
+      - 0.6.4
+      - 0.6.5
+      - 0.6.6
+      - 0.6.7
+      - 0.6.8
+      - 0.7.0-beta
+      - 0.7.0-beta.1
+      - 0.7.0-beta.2
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.8.0-alpha.1
+      - 0.8.0-alpha.2
+      - 0.8.0-alpha.3
+      - 0.8.0-alpha.4
+      - 0.8.0-alpha.5
+      - 0.8.0-alpha.6
+      - 0.8.0-alpha.7
+      - 0.8.0-alpha.8
+      - 0.8.0-alpha.9
+  pallet-common:
+    lastUpdated: 20130131160447
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+      - 0.3.1
+  pallet-crate-pom:
+    lastUpdated: 20130109161037
+    latest: 0.8.0-alpha.2
+    release: 0.8.0-alpha.2
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.8.0-alpha.1
+      - 0.8.0-alpha.2
+  pallet-jclouds:
+    lastUpdated: 20130222162838
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.2.0-alpha1
+      - 1.3.0-alpha.1
+      - 1.3.0-beta.1
+      - 1.3.0
+      - 1.4.0-beta.1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.5.0-alpha.1
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+  pallet-vmfest:
+    lastUpdated: 20130406035517
+    latest: 0.3.0-alpha.3
+    release: 0.3.0-alpha.3
+    versions:
+      - 0.2.0-beta.1
+      - 0.2.0-beta.2
+      - 0.2.0-beta.3
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3.0-alpha.1
+      - 0.3.0-alpha.2
+      - 0.3.0-alpha.3
+  postgres:
+    lastUpdated: 20130406003850
+    latest: 0.7.0-beta.2
+    release: 0.7.0-beta.2
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.6.2
+      - 0.7.0-beta.1
+      - 0.7.0-beta.2
+  script-exec:
+    lastUpdated: 20130302141539
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+  splunk:
+    lastUpdated: 20130312124528
+    latest: 0.7.0-alpha.1
+    release: 0.7.0-alpha.1
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.7.0-alpha.1
+  ssh-transport:
+    lastUpdated: 20130302131727
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  stevedore:
+    lastUpdated: 20130131173340
+    latest: 0.8.0-alpha.1
+    release: 0.8.0-alpha.1
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0-alpha.1
+  upstart:
+    lastUpdated: 20130328153447
+    latest: 0.7.0-alpha.2
+    release: 0.7.0-alpha.2
+    versions:
+      - 0.4.0-beta-1
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.5.0
+      - 0.7.0-alpha.1
+      - 0.7.0-alpha.2
+

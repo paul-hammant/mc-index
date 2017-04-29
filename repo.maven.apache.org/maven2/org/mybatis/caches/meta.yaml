@@ -1,0 +1,60 @@
+artifacts:
+  mybatis-caches-parent:
+    lastUpdated: 20100819150723
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  mybatis-ehcache:
+    lastUpdated: 20161128023232
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+  mybatis-hazelcast:
+    lastUpdated: 20161128040201
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+  mybatis-ignite:
+    lastUpdated: 20170308055211
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  mybatis-memcached:
+    lastUpdated: 20140321170724
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0
+  mybatis-oscache:
+    lastUpdated: 20161130051644
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0-RC1
+      - 1.0.1
+      - 1.0.2
+  mybatis-redis:
+    lastUpdated: 20151228174158
+    latest: 1.0.0-beta2
+    release: 1.0.0-beta2
+    versions:
+      - 1.0.0-beta1
+      - 1.0.0-beta2
+

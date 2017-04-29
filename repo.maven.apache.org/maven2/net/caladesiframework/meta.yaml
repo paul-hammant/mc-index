@@ -1,0 +1,193 @@
+artifacts:
+  caladesi-common_2.10:
+    lastUpdated: 20140203115532
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-common_2.9.1:
+    lastUpdated: 20130113110127
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-alpha1
+      - 0.3.0
+      - 0.3.1
+  caladesi-common_2.9.2:
+    lastUpdated: 20130317115418
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  caladesi-elasticsearch_2.10:
+    lastUpdated: 20140203115532
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-field_2.10:
+    lastUpdated: 20140203115533
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-framework_2.9.1:
+    lastUpdated: 20130113110128
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-alpha1
+      - 0.3.0
+      - 0.3.1
+  caladesi-neo4j-graph_2.10:
+    lastUpdated: 20140203115533
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-neo4j_2.9.1:
+    lastUpdated: 20130113110129
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  caladesi-neo4j_2.9.2:
+    lastUpdated: 20130317115433
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  caladesi-orientdb-common_2.10:
+    lastUpdated: 20140203115534
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-orientdb-document_2.10:
+    lastUpdated: 20140203115534
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-orientdb-graph_2.10:
+    lastUpdated: 20140203115535
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-orientdb_2.9.1:
+    lastUpdated: 20130113110133
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-alpha1
+      - 0.3.0
+      - 0.3.1
+  caladesi-orientdb_2.9.2:
+    lastUpdated: 20130317115437
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  caladesi-record_2.10:
+    lastUpdated: 20140203115535
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-repository_2.10:
+    lastUpdated: 20140203115536
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-web_2.10:
+    lastUpdated: 20140203115537
+    latest: 0.6.2
+    release: 0.6.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.2
+  caladesi-web_2.9.1:
+    lastUpdated: 20130113110135
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0-alpha1
+      - 0.3.0
+      - 0.3.1
+  caladesi-web_2.9.2:
+    lastUpdated: 20130317115438
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

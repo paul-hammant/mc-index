@@ -1,0 +1,223 @@
+artifacts:
+  argyll:
+    lastUpdated: 20120124175836
+    latest: 1.3.5.1
+    release: 1.3.5.1
+    versions:
+      - 1.3.5.1
+  blueshades:
+    lastUpdated: 20161228211447
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-9
+  blueshades-macosx:
+    lastUpdated: 20161228211448
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  blueshades-macosx-embedded-jre:
+    lastUpdated: 20161228211448
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  it-tidalwave-argyll:
+    lastUpdated: 20161228211449
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-blueshades:
+    lastUpdated: 20130328225557
+    latest: 1.0-ALPHA-8
+    release: 1.0-ALPHA-8
+    versions:
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+  it-tidalwave-blueshades-application:
+    lastUpdated: 20161228211450
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  it-tidalwave-blueshades-application-customization:
+    lastUpdated: 20161228211450
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  it-tidalwave-blueshades-boot:
+    lastUpdated: 20161228211451
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  it-tidalwave-blueshades-branding:
+    lastUpdated: 20161228211451
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  it-tidalwave-blueshades-commons:
+    lastUpdated: 20161228211451
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-blueshades-home:
+    lastUpdated: 20161228211452
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-blueshades-macosx:
+    lastUpdated: 20120512211939
+    latest: 1.0-ALPHA-6
+    release: 1.0-ALPHA-6
+    versions:
+      - 1.0-ALPHA-6
+  it-tidalwave-blueshades-modules:
+    lastUpdated: 20161228211453
+    latest: 1.0-ALPHA-9
+    release: 1.0-ALPHA-9
+    versions:
+      - 1.0-ALPHA-5
+      - 1.0-ALPHA-6
+      - 1.0-ALPHA-7
+      - 1.0-ALPHA-8
+      - 1.0-ALPHA-9
+  it-tidalwave-blueshades-profileevaluation:
+    lastUpdated: 20161228211453
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  it-tidalwave-blueshades-profileevaluation-ui:
+    lastUpdated: 20161228211454
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  it-tidalwave-blueshades-profileevaluation-ui-netbeans:
+    lastUpdated: 20161228211454
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  it-tidalwave-blueshades-test-commons:
+    lastUpdated: 20161228211455
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-blueshades-uniformity:
+    lastUpdated: 20161228211456
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-blueshades-uniformity-archive:
+    lastUpdated: 20161228211456
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  it-tidalwave-blueshades-uniformity-ui:
+    lastUpdated: 20161228211457
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-blueshades-uniformity-ui-netbeans:
+    lastUpdated: 20161228211458
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-colorimetry:
+    lastUpdated: 20161228211458
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+  it-tidalwave-colorimetry-fake:
+    lastUpdated: 20161228211459
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0-ALPHA-9
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+

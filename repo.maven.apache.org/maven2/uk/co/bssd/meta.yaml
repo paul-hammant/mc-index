@@ -1,0 +1,71 @@
+artifacts:
+  bssd-jmx:
+    lastUpdated: 20121012074713
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.6
+  bssd-monitoring-cli:
+    lastUpdated: 20121022200718
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bssd-monitoring-core:
+    lastUpdated: 20121022200719
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bssd-monitoring-distribution:
+    lastUpdated: 20121022200720
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bssd-monitoring-parent:
+    lastUpdated: 20121022200721
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+  bssd-monitoring-spring:
+    lastUpdated: 20121022200721
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  bssd-reporting-adapter:
+    lastUpdated: 20121015192331
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bssd-reporting-chart:
+    lastUpdated: 20121015192332
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bssd-reporting-common:
+    lastUpdated: 20121015192333
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bssd-reporting-generator:
+    lastUpdated: 20121015192334
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  bssd-reporting-parent:
+    lastUpdated: 20121015192335
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

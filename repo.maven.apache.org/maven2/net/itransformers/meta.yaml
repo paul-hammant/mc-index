@@ -1,0 +1,64 @@
+artifacts:
+  ddos-servlet-filter:
+    lastUpdated: 20160321155211
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  examples:
+    lastUpdated: 20160817135328
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  expect4groovy:
+    lastUpdated: 20160817135329
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  expect4java:
+    lastUpdated: 20160817133905
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  mibs:
+    lastUpdated: 20161010192020
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  snmp2xml4j:
+    lastUpdated: 20161010192020
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0
+  snmp2xml4j-bundle:
+    lastUpdated: 20161010192020
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  snmptoolkit:
+    lastUpdated: 20161010192021
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+

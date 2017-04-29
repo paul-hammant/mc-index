@@ -1,0 +1,471 @@
+artifacts:
+  mule-transport-ajax:
+    lastUpdated: 20160822031917
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-axis:
+    lastUpdated: 20160822031917
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-bpm:
+    lastUpdated: 20101112055148
+    latest: {}
+    release: 3.0.0
+    versions:
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+      - 1.4.4
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-M1
+      - 3.0.0-M2-20090803
+      - 3.0.0-M2-20091006
+      - 3.0.0-M2-20091026
+      - 3.0.0-M2-20091124
+      - 3.0.0-M2-20091130
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+      - 3.0.0-RC1
+      - 3.0.0-RC2
+      - 3.0.0
+      - 3.0.1
+  mule-transport-cxf:
+    lastUpdated: 20100710000255
+    latest: {}
+    release: 3.0.0-M3
+    versions:
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-M1
+      - 3.0.0-M2-20090803
+      - 3.0.0-M2-20091006
+      - 3.0.0-M2-20091026
+      - 3.0.0-M2-20091124
+      - 3.0.0-M2-20091130
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+  mule-transport-dq:
+    lastUpdated: 20061219180550
+    latest: {}
+    release: 1.3.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  mule-transport-ejb:
+    lastUpdated: 20160822031917
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-email:
+    lastUpdated: 20160822031918
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-file:
+    lastUpdated: 20160822031918
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-ftp:
+    lastUpdated: 20160822031919
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-gigaspaces:
+    lastUpdated: 20061219180628
+    latest: {}
+    release: 1.3.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  mule-transport-glue:
+    lastUpdated: 20061219180604
+    latest: {}
+    release: 1.3.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  mule-transport-http:
+    lastUpdated: 20160822031919
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-jbi:
+    lastUpdated: 20080514092411
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  mule-transport-jbpm:
+    lastUpdated: 20101112055157
+    latest: {}
+    release: 3.0.0
+    versions:
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+      - 1.4.4
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-M1
+      - 3.0.0-M2-20090803
+      - 3.0.0-M2-20091006
+      - 3.0.0-M2-20091026
+      - 3.0.0-M2-20091124
+      - 3.0.0-M2-20091130
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+      - 3.0.0-RC1
+      - 3.0.0-RC2
+      - 3.0.0
+      - 3.0.1
+  mule-transport-jdbc:
+    lastUpdated: 20160822031919
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-jetty:
+    lastUpdated: 20160822031920
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-jms:
+    lastUpdated: 20160822031920
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-multicast:
+    lastUpdated: 20160822031920
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-oracleaq:
+    lastUpdated: 20080514092623
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 1.4.4
+  mule-transport-quartz:
+    lastUpdated: 20160822031921
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-rmi:
+    lastUpdated: 20160822031921
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-servlet:
+    lastUpdated: 20160822031921
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-sftp:
+    lastUpdated: 20160822031922
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-soap:
+    lastUpdated: 20100819011732
+    latest: {}
+    release: 3.0.0-M3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 2.0.0-RC3
+      - 2.0.0
+      - 2.0.1
+      - 1.4.4
+      - 2.0.2
+      - 2.1.0-M2
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+      - 2.2.1
+      - 3.0.0-M1
+      - 3.0.0-M2-20090803
+      - 3.0.0-M2-20091006
+      - 3.0.0-M2-20091026
+      - 3.0.0-M2-20091124
+      - 3.0.0-M2-20091130
+      - 3.0.0-M2
+      - 3.0.0-M3
+      - 3.0.0-M4
+      - 3.0.0-RC1
+  mule-transport-space:
+    lastUpdated: 20061219180620
+    latest: {}
+    release: 1.3.3
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+  mule-transport-ssl:
+    lastUpdated: 20160822031922
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-stdio:
+    lastUpdated: 20160822031923
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-stream:
+    lastUpdated: 20080514091216
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.4
+  mule-transport-tcp:
+    lastUpdated: 20160822031923
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-udp:
+    lastUpdated: 20160822031924
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-vm:
+    lastUpdated: 20160822031924
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transport-xfire:
+    lastUpdated: 20080514092022
+    latest: {}
+    release: 1.4.4
+    versions:
+      - 1.3
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4-RC1
+      - 1.4.0
+      - 1.4.1
+      - 2.0-M1
+      - 1.4.2
+      - 1.4.3
+      - 2.0.0-M2
+      - 2.0.0-RC1
+      - 2.0.0-RC2
+      - 1.4.4
+  mule-transport-xmpp:
+    lastUpdated: 20160822031925
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transports:
+    lastUpdated: 20160822031925
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.5.0
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+  mule-transports-all:
+    lastUpdated: 20160822031925
+    latest: 3.8.1
+    release: 3.8.1
+    versions:
+      - 3.6.0
+      - 3.7.0
+      - 3.8.0
+      - 3.8.1
+

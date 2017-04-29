@@ -1,0 +1,657 @@
+artifacts:
+  arquillian-cube-api:
+    lastUpdated: 20170324154312
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-bom:
+    lastUpdated: 20170324154313
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-containerless:
+    lastUpdated: 20170324154314
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-core:
+    lastUpdated: 20170324154315
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-docker:
+    lastUpdated: 20170324154316
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-docker-drone:
+    lastUpdated: 20170324154317
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-docker-ftest:
+    lastUpdated: 20170201134956
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-boot2docker:
+    lastUpdated: 20170201134958
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-compose:
+    lastUpdated: 20170201134959
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-compose-v2:
+    lastUpdated: 20170201135000
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-containerobject:
+    lastUpdated: 20170201135002
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-drone:
+    lastUpdated: 20170201135003
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-drone-custom:
+    lastUpdated: 20170201135004
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-drone-reporter:
+    lastUpdated: 20170201135005
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-graphene:
+    lastUpdated: 20170201135006
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-machine:
+    lastUpdated: 20170201135007
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-machine-network:
+    lastUpdated: 20170201135008
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-reporter:
+    lastUpdated: 20170201135008
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-restassured:
+    lastUpdated: 20170201135009
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-standalone:
+    lastUpdated: 20170201135010
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-ftest-standalone-autostart:
+    lastUpdated: 20170201135011
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-docker-junit-rule:
+    lastUpdated: 20170421084926
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  arquillian-cube-docker-parent:
+    lastUpdated: 20170324154318
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-docker-recorder:
+    lastUpdated: 20170227095916
+    latest: 1.0.0.Alpha19
+    release: 1.0.0.Alpha19
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+  arquillian-cube-docker-reporter:
+    lastUpdated: 20170324154319
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-docker-restassured:
+    lastUpdated: 20170324154320
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-ftest:
+    lastUpdated: 20150408085309
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-cube-ftest-boot2docker:
+    lastUpdated: 20150408085310
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-cube-ftest-standalone:
+    lastUpdated: 20150408085311
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+  arquillian-cube-kubernetes:
+    lastUpdated: 20170324154322
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-kubernetes-fabric8:
+    lastUpdated: 20170324154323
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-kubernetes-ftest:
+    lastUpdated: 20170201135016
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-kubernetes-parent:
+    lastUpdated: 20170324154323
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-kubernetes-reporter:
+    lastUpdated: 20170324154324
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-kubernetes-reporter-ftest:
+    lastUpdated: 20170201135019
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-openshift:
+    lastUpdated: 20170324154325
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-openshift-ftest:
+    lastUpdated: 20170201135021
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-openshift-ftest-containerless:
+    lastUpdated: 20170201135022
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  arquillian-cube-openshift-parent:
+    lastUpdated: 20170324154326
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-openshift-standalone-ftest:
+    lastUpdated: 20170324154326
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-parent:
+    lastUpdated: 20170324154327
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-requirement:
+    lastUpdated: 20170324154328
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  arquillian-cube-spi:
+    lastUpdated: 20170324154328
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Alpha10
+      - 1.0.0.Alpha11
+      - 1.0.0.Alpha12
+      - 1.0.0.Alpha13
+      - 1.0.0.Alpha14
+      - 1.0.0.Alpha15
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  assertj-docker-java:
+    lastUpdated: 20170324154329
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+      - 1.0.0.Alpha18
+      - 1.0.0.Alpha19
+      - 1.0.0.Alpha20
+      - 1.0.0
+  docker-server-stub:
+    lastUpdated: 20150718001741
+    latest: 1.0.0.Alpha7
+    release: 1.0.0.Alpha7
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+  ftest-docker-compose:
+    lastUpdated: 20150718001741
+    latest: 1.0.0.Alpha7
+    release: 1.0.0.Alpha7
+    versions:
+      - 1.0.0.Alpha7
+  ftest-docker-compose-v2-git-context:
+    lastUpdated: 20170201135026
+    latest: 1.0.0.Alpha17
+    release: 1.0.0.Alpha17
+    versions:
+      - 1.0.0.Alpha16
+      - 1.0.0.Alpha17
+  ftest-docker-machine:
+    lastUpdated: 20150718001742
+    latest: 1.0.0.Alpha7
+    release: 1.0.0.Alpha7
+    versions:
+      - 1.0.0.Alpha7
+

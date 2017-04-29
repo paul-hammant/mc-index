@@ -1,0 +1,59 @@
+artifacts:
+  emfjson:
+    lastUpdated: 20150916144742
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  emfjson-core:
+    lastUpdated: 20150916144742
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  emfjson-couchdb:
+    lastUpdated: 20160415160316
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  emfjson-gwt:
+    lastUpdated: 20150916144742
+    latest: 0.13.0
+    release: 0.13.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+  emfjson-jackson:
+    lastUpdated: 20170401192710
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.9.0
+      - 0.10.0
+      - 0.11.0
+      - 0.12.0
+      - 0.13.0
+      - 0.14.0
+      - 0.15.0
+      - 1.0.0-rc.1
+      - 1.0.0
+  emfjson-mongo:
+    lastUpdated: 20160415095201
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+

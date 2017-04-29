@@ -1,0 +1,109 @@
+artifacts:
+  branding:
+    lastUpdated: 20141024051016
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  jclouds-cli:
+    lastUpdated: 20170227150519
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-cli-assembly:
+    lastUpdated: 20170227150521
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-cli-branding:
+    lastUpdated: 20170227150524
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-cli-project:
+    lastUpdated: 20170227150524
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-cli-runner:
+    lastUpdated: 20170227150525
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  runner:
+    lastUpdated: 20141024051103
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+

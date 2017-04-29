@@ -1,0 +1,54 @@
+artifacts:
+  agave:
+    lastUpdated: 20130505120725
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 0.9.0
+      - 1.0.0
+      - 1.0.1
+  agave-console:
+    lastUpdated: 20130505145315
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  agave-glue:
+    lastUpdated: 20130505120725
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  agave-test:
+    lastUpdated: 20130505121213
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  archetypes-quickstart:
+    lastUpdated: 20121120175107
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  orm:
+    lastUpdated: 20121120175108
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  service:
+    lastUpdated: 20121120175108
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  web:
+    lastUpdated: 20121120175108
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+

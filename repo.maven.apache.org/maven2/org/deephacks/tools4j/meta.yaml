@@ -1,0 +1,615 @@
+artifacts:
+  cli-api:
+    lastUpdated: 20120426223308
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  cli-bootstrap:
+    lastUpdated: 20120426223322
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  cli-root:
+    lastUpdated: 20120426223319
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-admin-jaxrs:
+    lastUpdated: 20120426223318
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-admin-jaxws:
+    lastUpdated: 20120426223319
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-admin-jsf20:
+    lastUpdated: 20120426223310
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-admin-root:
+    lastUpdated: 20120426223322
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-admin-thrift:
+    lastUpdated: 20120426223321
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-api-admin:
+    lastUpdated: 20120426223324
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-api-model:
+    lastUpdated: 20120426223311
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-api-provider:
+    lastUpdated: 20120426223309
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-api-runtime:
+    lastUpdated: 20120426223324
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-bean-provider-root:
+    lastUpdated: 20120426223321
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-core:
+    lastUpdated: 20120426223325
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-docbkx:
+    lastUpdated: 20120426223323
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-examples:
+    lastUpdated: 20120426223324
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-osgi-support:
+    lastUpdated: 20120426223320
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-cachemanager-root:
+    lastUpdated: 20120426223323
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-jpa20:
+    lastUpdated: 20120426223311
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-jsr303:
+    lastUpdated: 20120426223324
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-jsr303-hibernate:
+    lastUpdated: 20120426223308
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-root:
+    lastUpdated: 20120426223310
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-provider-schemamanager-root:
+    lastUpdated: 20120426223309
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-root:
+    lastUpdated: 20120426223307
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-tck:
+    lastUpdated: 20120426223322
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  config-validation-provider-root:
+    lastUpdated: 20120426223321
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  log:
+    lastUpdated: 20120426223315
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  root:
+    lastUpdated: 20120426223308
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  support-jse:
+    lastUpdated: 20120426223325
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  support-osgi:
+    lastUpdated: 20120426223323
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  support-root:
+    lastUpdated: 20120426223323
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  support-test:
+    lastUpdated: 20120426223320
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  support-web:
+    lastUpdated: 20120426223320
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tools4j-cli:
+    lastUpdated: 20140704191427
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.7
+  tools4j-config:
+    lastUpdated: 20130723172618
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-admin-cli:
+    lastUpdated: 20130110183427
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  tools4j-config-admin-jaxrs:
+    lastUpdated: 20130110183428
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  tools4j-config-admin-jaxws:
+    lastUpdated: 20130110183429
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  tools4j-config-admin-jsf20:
+    lastUpdated: 20130110183430
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+  tools4j-config-admin-protobuf:
+    lastUpdated: 20130110183430
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.3
+      - 0.0.4
+  tools4j-config-admin-thrift:
+    lastUpdated: 20121106213200
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  tools4j-config-api-admin:
+    lastUpdated: 20130723172621
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-api-model:
+    lastUpdated: 20130723172622
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-api-provider:
+    lastUpdated: 20130723172623
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-api-runtime:
+    lastUpdated: 20130723172624
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-core:
+    lastUpdated: 20130723172624
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-docbkx:
+    lastUpdated: 20130723172625
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-examples:
+    lastUpdated: 20130723172625
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-osgi-support:
+    lastUpdated: 20130723172626
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-perf:
+    lastUpdated: 20130723172626
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-provider-cached:
+    lastUpdated: 20130723172627
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-provider-hbase:
+    lastUpdated: 20130723172628
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-provider-hbase-filter:
+    lastUpdated: 20130723172629
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-provider-jpa20:
+    lastUpdated: 20130723172629
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-provider-yaml:
+    lastUpdated: 20130723172630
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-root:
+    lastUpdated: 20130723172630
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  tools4j-config-tck:
+    lastUpdated: 20130723172630
+    latest: 0.15.0
+    release: 0.15.0
+    versions:
+      - 0.0.1
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+      - 0.15.0
+  toolsj4-config-perf:
+    lastUpdated: 20130713200024
+    latest: 0.12.3
+    release: 0.12.3
+    versions:
+      - 0.10.0
+      - 0.12.0
+      - 0.12.1
+      - 0.12.2
+      - 0.12.3
+

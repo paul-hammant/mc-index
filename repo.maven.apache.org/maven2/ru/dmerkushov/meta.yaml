@@ -1,0 +1,82 @@
+artifacts:
+  config-helper:
+    lastUpdated: 20131129161210
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  db-helper:
+    lastUpdated: 20140328114149
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+      - 1.8.0
+      - 1.8.2
+      - 1.9.0
+      - 1.10.0
+  http-helper:
+    lastUpdated: 20131129163237
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  log-helper:
+    lastUpdated: 20140417081515
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.5.0
+      - 1.6.2
+      - 1.7.1
+      - 1.7.2
+      - 2.0.0beta1
+      - 2.0.0beta2
+      - 2.0.0rc1
+      - 2.0.2
+  log-helper-plugin-log4j:
+    lastUpdated: 20140417081516
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.2
+  os-helper:
+    lastUpdated: 20131129164808
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.1
+  smb-helper:
+    lastUpdated: 20131216154657
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.1
+  ssh-helper:
+    lastUpdated: 20140124074540
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5.0
+      - 1.6.0
+  tiff-helper:
+    lastUpdated: 20131129170944
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  xml-helper:
+    lastUpdated: 20131129171731
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  zip-helper:
+    lastUpdated: 20140114061733
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+

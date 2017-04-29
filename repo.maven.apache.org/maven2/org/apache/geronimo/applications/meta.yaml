@@ -1,0 +1,76 @@
+artifacts:
+  applications:
+    lastUpdated: 20101014041713
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  demo:
+    lastUpdated: 20101014041701
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-ca-helper:
+    lastUpdated: 20101014041918
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-dojo:
+    lastUpdated: 20101014041708
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-ldap-demo:
+    lastUpdated: 20101014041834
+    latest: 1.2-beta
+    release: 1.2-beta
+    versions:
+      - 1.2-beta
+  geronimo-mejb:
+    lastUpdated: 20101014041823
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 2.0.2
+  geronimo-remote-deploy:
+    lastUpdated: 20101014041723
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-uddi-db:
+    lastUpdated: 20101014041906
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-uddi-server:
+    lastUpdated: 20101014041832
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+  geronimo-welcome:
+    lastUpdated: 20101014041658
+    latest: 2.0.2
+    release: 2.0.2
+    versions:
+      - 1.2-beta
+      - 2.0.1
+      - 2.0.2
+

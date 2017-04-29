@@ -1,0 +1,66 @@
+artifacts:
+  atlas:
+    lastUpdated: 20140515064152
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  atlas-core:
+    lastUpdated: 20140515064152
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  atlas-core-uuid:
+    lastUpdated: 20140515064153
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  atlas-jcr:
+    lastUpdated: 20140515064153
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  atlas-jcr-oak:
+    lastUpdated: 20140515064153
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  atlas-mongodb:
+    lastUpdated: 20140104235009
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  atlas-opencmis:
+    lastUpdated: 20140104235009
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  atlas-quartz:
+    lastUpdated: 20140104235010
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  atlas-tenancy-support:
+    lastUpdated: 20140104235010
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+

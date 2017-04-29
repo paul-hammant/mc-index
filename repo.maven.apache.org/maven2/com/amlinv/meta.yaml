@@ -1,0 +1,66 @@
+artifacts:
+  amq-monitor-parent:
+    lastUpdated: 20150904024117
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  amq-monitor-ui:
+    lastUpdated: 20150904024117
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  amq-monitor-web-impl:
+    lastUpdated: 20150904024117
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  amq-monitor-webapp:
+    lastUpdated: 20150904024118
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  java-sched:
+    lastUpdated: 20150909000726
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  log-utils:
+    lastUpdated: 20150818170014
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  registry-utils:
+    lastUpdated: 20150828003809
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  stat-collection-utils:
+    lastUpdated: 20150909001046
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0
+  stats-utils:
+    lastUpdated: 20150818195400
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  thread-utils:
+    lastUpdated: 20150829164547
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

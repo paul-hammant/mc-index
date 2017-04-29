@@ -1,0 +1,198 @@
+artifacts:
+  sniffy:
+    lastUpdated: 20170327071017
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.5
+      - 3.0.6
+      - 3.0.7
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0-RC3
+      - 3.1.0-RC4
+      - 3.1.0-RC5
+      - 3.1.0-RC6
+      - 3.1.0-RC7
+      - 3.1.0-RC8
+      - 3.1.0-RC9
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-core:
+    lastUpdated: 20170327071017
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC3
+      - 3.1.0-RC4
+      - 3.1.0-RC5
+      - 3.1.0-RC6
+      - 3.1.0-RC7
+      - 3.1.0-RC8
+      - 3.1.0-RC9
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-documentation:
+    lastUpdated: 20170327071017
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-integration-test-tomcat:
+    lastUpdated: 20170327071018
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.3
+  sniffy-integration-tests:
+    lastUpdated: 20170327071018
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-integration-tests-spock:
+    lastUpdated: 20170327071018
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-integration-tests-spring-boot:
+    lastUpdated: 20170327071019
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-junit:
+    lastUpdated: 20170327071019
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-parent:
+    lastUpdated: 20170327071019
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC3
+      - 3.1.0-RC4
+      - 3.1.0-RC5
+      - 3.1.0-RC6
+      - 3.1.0-RC7
+      - 3.1.0-RC8
+      - 3.1.0-RC9
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-spring-test:
+    lastUpdated: 20170327071019
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-test:
+    lastUpdated: 20170327071020
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-test-common:
+    lastUpdated: 20170327071020
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-testng:
+    lastUpdated: 20170327071020
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-ui:
+    lastUpdated: 20170327064352
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.0.7
+      - 3.1.0-RC3
+      - 3.1.0-RC4
+      - 3.1.0-RC5
+      - 3.1.0-RC8
+      - 3.1.0-RC9
+      - 3.1.0-RC10
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  sniffy-web:
+    lastUpdated: 20170327071020
+    latest: 3.1.3
+    release: 3.1.3
+    versions:
+      - 3.1.0-RC11
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+  spock:
+    lastUpdated: 20170201222804
+    latest: 3.1.0-RC10
+    release: 3.1.0-RC10
+    versions:
+      - 3.1.0-RC10
+

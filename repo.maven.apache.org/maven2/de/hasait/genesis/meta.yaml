@@ -1,0 +1,130 @@
+artifacts:
+  aggregator:
+    lastUpdated: 20170404194105
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.3.0
+      - 0.3.11
+      - 0.4.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  annotations:
+    lastUpdated: 20151208230249
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  engine:
+    lastUpdated: 20151208230250
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  genesis-annotations:
+    lastUpdated: 20160116014230
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.11
+      - 0.4.0
+  genesis-base:
+    lastUpdated: 20170404194105
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  genesis-metagen:
+    lastUpdated: 20170404194105
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  genesis-parent:
+    lastUpdated: 20170404194106
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.3.11
+      - 0.4.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  genesis-processor:
+    lastUpdated: 20160116014230
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.11
+      - 0.4.0
+  genesis-procparent:
+    lastUpdated: 20170404194106
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  genesis-scriptgen:
+    lastUpdated: 20170404194106
+    latest: 0.6.1.FINAL
+    release: 0.6.1.FINAL
+    versions:
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.5.4
+      - 0.6.0
+      - 0.6.1.RC2
+      - 0.6.1.FINAL
+  genesis-testapp:
+    lastUpdated: 20160116014231
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.11
+      - 0.4.0
+  parent:
+    lastUpdated: 20151209133736
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  processor:
+    lastUpdated: 20151208230251
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  testapp:
+    lastUpdated: 20151208230252
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+

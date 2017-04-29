@@ -1,0 +1,24 @@
+artifacts:
+  java-pinning-aar:
+    lastUpdated: 20160331113230
+    latest: 1.1.0-alpha1
+    release: 1.1.0-alpha1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha1
+  java-pinning-jar:
+    lastUpdated: 20160331113231
+    latest: 1.1.0-alpha1
+    release: 1.1.0-alpha1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0-alpha1
+  java-pinning-java7:
+    lastUpdated: 20160331113232
+    latest: 1.1.0-alpha1
+    release: 1.1.0-alpha1
+    versions:
+      - 1.1.0-alpha1
+

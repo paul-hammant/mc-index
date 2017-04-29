@@ -1,0 +1,63 @@
+artifacts:
+  elasticsearch-analysis-decompound:
+    lastUpdated: 20161219100021
+    latest: 5.1.1.0
+    release: 5.1.1.0
+    versions:
+      - 5.1.1.0
+  elasticsearch-analysis-hyphen:
+    lastUpdated: 20161224012029
+    latest: 5.1.1.0
+    release: 5.1.1.0
+    versions:
+      - 5.1.1.0
+  elasticsearch-analysis-icu:
+    lastUpdated: 20170101135322
+    latest: 5.1.1.0
+    release: 5.1.1.0
+    versions:
+      - 5.1.1.0
+  elasticsearch-analysis-naturalsort:
+    lastUpdated: 20161222112030
+    latest: 5.1.1.0
+    release: 5.1.1.0
+    versions:
+      - 5.1.1.0
+  elasticsearch-analysis-phonetic-eudex:
+    lastUpdated: 20170108211430
+    latest: 2.3.2.2
+    release: 2.3.2.2
+    versions:
+      - 2.3.2.2
+  elasticsearch-analysis-reference:
+    lastUpdated: 20170303232522
+    latest: 5.2.2.0
+    release: 5.2.2.0
+    versions:
+      - 5.1.2.0
+      - 5.2.2.0
+  elasticsearch-langdetect:
+    lastUpdated: 20170405213759
+    latest: 5.3.0.2
+    release: 5.3.0.2
+    versions:
+      - 2.4.3.0
+      - 2.4.4.0
+      - 2.4.4.1
+      - 5.1.2.0
+      - 5.2.2.0
+      - 5.3.0.1
+      - 5.3.0.2
+  elasticsearch-plugin-bundle:
+    lastUpdated: 20170404110952
+    latest: 5.3.0.0
+    release: 5.3.0.0
+    versions:
+      - 2.2.0.2
+      - 2.2.0.3
+      - 2.3.2.0
+      - 2.4.1.0
+      - 5.1.1.2
+      - 5.2.1.0
+      - 5.3.0.0
+

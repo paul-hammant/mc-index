@@ -1,0 +1,38 @@
+artifacts:
+  bookkeeper-stats-api:
+    lastUpdated: 20160515205540
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  codahale-metrics-provider:
+    lastUpdated: 20160515205622
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  twitter-ostrich-provider:
+    lastUpdated: 20160515205624
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+  twitter-science-provider:
+    lastUpdated: 20160515205625
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.3.0
+      - 4.3.1
+      - 4.3.2
+      - 4.4.0
+

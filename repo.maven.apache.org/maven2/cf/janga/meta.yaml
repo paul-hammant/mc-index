@@ -1,0 +1,53 @@
+artifacts:
+  codedeploy-notifications_2.11:
+    lastUpdated: 20160212205910
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.2.0
+      - 0.2.1
+  hook:
+    lastUpdated: 20140404220425
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  janga-core:
+    lastUpdated: 20140605223850
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  janga-maven-root:
+    lastUpdated: 20140404205149
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  java-fire-core:
+    lastUpdated: 20140402010327
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  java-fire-root:
+    lastUpdated: 20140402010328
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  lib-codedeploy-notifications_2.11:
+    lastUpdated: 20160112141827
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

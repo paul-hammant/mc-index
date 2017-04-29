@@ -1,0 +1,39 @@
+artifacts:
+  fprint:
+    lastUpdated: 20160918132628
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  fprint-core:
+    lastUpdated: 20160918132628
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  fprint-jackson:
+    lastUpdated: 20160918132628
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+      - 0.2
+  parent:
+    lastUpdated: 20170409162820
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 1.0.0
+      - 0.1
+      - 0.2
+      - 0.3
+

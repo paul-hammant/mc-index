@@ -1,0 +1,180 @@
+artifacts:
+  agorava-bom:
+    lastUpdated: 20131120105641
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.1
+      - 0.7.0
+  agorava-core-api:
+    lastUpdated: 20131120105641
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-core-impl:
+    lastUpdated: 20131120105642
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-core-impl-cdi:
+    lastUpdated: 20131120105642
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-core-parent:
+    lastUpdated: 20131120105643
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-facebook-api:
+    lastUpdated: 20131120105643
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-facebook-cdi:
+    lastUpdated: 20131120105643
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-facebook-parent:
+    lastUpdated: 20131120105644
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-linkedin-api:
+    lastUpdated: 20131120105644
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-linkedin-cdi:
+    lastUpdated: 20131120105644
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-linkedin-parent:
+    lastUpdated: 20131120105645
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-parent:
+    lastUpdated: 20131120105645
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.2.1
+      - 0.5.2.2
+      - 0.6.0
+      - 0.6.1
+      - 0.7.0
+  agorava-socializer:
+    lastUpdated: 20131120105645
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+  agorava-twitter-api:
+    lastUpdated: 20131120105646
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-twitter-cdi:
+    lastUpdated: 20131120105646
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-twitter-parent:
+    lastUpdated: 20131120105647
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  agorava-utils:
+    lastUpdated: 20130421000338
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  solder-generics-api:
+    lastUpdated: 20130421000339
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  solder-generics-impl:
+    lastUpdated: 20130421000340
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+  solder-generics-parent:
+    lastUpdated: 20130421000340
+    latest: 0.5.2
+    release: 0.5.2
+    versions:
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+

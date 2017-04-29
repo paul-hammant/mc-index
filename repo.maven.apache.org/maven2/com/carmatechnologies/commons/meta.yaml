@@ -1,0 +1,60 @@
+artifacts:
+  commons-jmx:
+    lastUpdated: 20130611051009
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2
+      - 0.1
+      - 0.2
+  commons-testing:
+    lastUpdated: 20141211065538
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  commons-testing-core:
+    lastUpdated: 20141211065538
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  commons-testing-log4j:
+    lastUpdated: 20141211065538
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  commons-testing-log4j2:
+    lastUpdated: 20141211065539
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  commons-testing-logback:
+    lastUpdated: 20141211065540
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+  commons-testing-parent:
+    lastUpdated: 20141211065540
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0
+

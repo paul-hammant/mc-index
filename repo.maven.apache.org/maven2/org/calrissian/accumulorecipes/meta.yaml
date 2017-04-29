@@ -1,0 +1,136 @@
+artifacts:
+  accumulorecipes-parent:
+    lastUpdated: 20141018044846
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  blob-store:
+    lastUpdated: 20141018044847
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  changelog-store:
+    lastUpdated: 20141018044847
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  commons:
+    lastUpdated: 20141018044848
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  entity-store:
+    lastUpdated: 20141018044848
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 2.0.0
+  event-store:
+    lastUpdated: 20141018044848
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  examples:
+    lastUpdated: 20141018044849
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  feature-store:
+    lastUpdated: 20141018044850
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 2.0.0
+  geospatial-store:
+    lastUpdated: 20141018044850
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  graph-store:
+    lastUpdated: 20141018044851
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 2.0.0
+  lastn-store:
+    lastUpdated: 20141018044852
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  metrics-store:
+    lastUpdated: 20140429031216
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  range-store:
+    lastUpdated: 20141018044852
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  store:
+    lastUpdated: 20141018044853
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  temporal-lastn-store:
+    lastUpdated: 20141018044853
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1
+      - 1.1.0
+      - 2.0.0
+      - 0.1
+  test:
+    lastUpdated: 20141018044854
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.1.0
+      - 2.0.0
+

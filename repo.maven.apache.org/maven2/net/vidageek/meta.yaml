@@ -1,0 +1,59 @@
+artifacts:
+  crawler:
+    lastUpdated: 20110223123402
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  i18n:
+    lastUpdated: 20110223170510
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.4
+      - 0.5
+      - 0.4
+      - 0.5
+  jaview-core_2.11:
+    lastUpdated: 20140726015001
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  jaview-render_2.11:
+    lastUpdated: 20140726015002
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  mirror:
+    lastUpdated: 20141102060523
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.6
+      - 1.6.1
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+

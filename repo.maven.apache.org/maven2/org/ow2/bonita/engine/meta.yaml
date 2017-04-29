@@ -1,0 +1,52 @@
+artifacts:
+  bonita-client:
+    lastUpdated: 20131004142912
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  bonita-common:
+    lastUpdated: 20131004142912
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  bonita-engine:
+    lastUpdated: 20131004142913
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  bonita-server:
+    lastUpdated: 20131004142913
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+  bpm:
+    lastUpdated: 20131004142913
+    latest: 6.0.4
+    release: 6.0.4
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+      - 6.0.4
+

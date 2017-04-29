@@ -1,0 +1,46 @@
+artifacts:
+  central-release-tile:
+    lastUpdated: 20160222211212
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  groovy-tile:
+    lastUpdated: 20160218235522
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  gulp-tile:
+    lastUpdated: 20160218210152
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  java8-tile:
+    lastUpdated: 20160222211524
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+  servlet3-jar-tile:
+    lastUpdated: 20160218212705
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  tile-wsdl2java:
+    lastUpdated: 20160601093047
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+

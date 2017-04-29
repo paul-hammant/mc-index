@@ -1,0 +1,773 @@
+artifacts:
+  core:
+    lastUpdated: 20110617141806
+    latest: 4.3.0
+    release: 4.3.0
+    versions:
+      - 4.3.0
+  org.amdatu.remote.admin.http:
+    lastUpdated: 20160614123230
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  org.amdatu.remote.discovery.bonjour:
+    lastUpdated: 20160614123230
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  org.amdatu.remote.topology.promiscuous:
+    lastUpdated: 20160614123230
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  org.eclipse.equinox.coordinator:
+    lastUpdated: 20160614123230
+    latest: 1.3.100.v20150410-1453
+    release: 1.3.100.v20150410-1453
+    versions:
+      - 1.3.100.v20150410-1453
+  org.eclipse.equinox.event:
+    lastUpdated: 20160614123230
+    latest: 1.3.100.v20140115-1647
+    release: 1.3.100.v20140115-1647
+    versions:
+      - 1.3.100.v20140115-1647
+  org.eclipse.equinox.metatype:
+    lastUpdated: 20160614123231
+    latest: 1.4.100.v20150408-1437
+    release: 1.4.100.v20150408-1437
+    versions:
+      - 1.4.100.v20150408-1437
+  org.eclipse.osgi:
+    lastUpdated: 20160614123231
+    latest: 3.10.100.v20150529-1857
+    release: 3.10.100.v20150529-1857
+    versions:
+      - 3.10.100.v20150529-1857
+  org.knopflerfish.bundle.useradmin:
+    lastUpdated: 20160614123231
+    latest: 4.1.1
+    release: 4.1.1
+    versions:
+      - 4.1.1
+  org.osgi:
+    lastUpdated: 20150613002753
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+  org.osgi.annotation:
+    lastUpdated: 20140730035252
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0
+  org.osgi.annotation.versioning:
+    lastUpdated: 20170302221308
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.application:
+    lastUpdated: 20150818131635
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.compendium:
+    lastUpdated: 20130924222331
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+  org.osgi.core:
+    lastUpdated: 20140730035252
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.0.0
+      - 4.0.1
+      - 4.1.0
+      - 4.2.0
+      - 4.3.0
+      - 4.3.1
+      - 5.0.0
+      - 6.0.0
+  org.osgi.dto:
+    lastUpdated: 20161115161223
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.enterprise:
+    lastUpdated: 20120618091930
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 4.2.0
+      - 5.0.0
+  org.osgi.framework:
+    lastUpdated: 20161115161548
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+  org.osgi.jmx:
+    lastUpdated: 20150818131716
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.namespace.contract:
+    lastUpdated: 20150818131803
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.namespace.extender:
+    lastUpdated: 20150818131846
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.namespace.implementation:
+    lastUpdated: 20150818131945
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.namespace.service:
+    lastUpdated: 20150818132027
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.resource:
+    lastUpdated: 20161115161844
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.application:
+    lastUpdated: 20150818132119
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.async:
+    lastUpdated: 20150818132155
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.blueprint:
+    lastUpdated: 20150818132252
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.osgi.service.cm:
+    lastUpdated: 20150818132333
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  org.osgi.service.component:
+    lastUpdated: 20150818132459
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.osgi.service.component.annotations:
+    lastUpdated: 20150818132644
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.osgi.service.condpermadmin:
+    lastUpdated: 20161115162109
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.osgi.service.coordinator:
+    lastUpdated: 20150818132740
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  org.osgi.service.dal:
+    lastUpdated: 20150818132900
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.dal.functions:
+    lastUpdated: 20150818132941
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.deploymentadmin:
+    lastUpdated: 20150818133029
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.device:
+    lastUpdated: 20150818133144
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.dmt:
+    lastUpdated: 20150818133224
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  org.osgi.service.enocean:
+    lastUpdated: 20150818133326
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.event:
+    lastUpdated: 20150818133411
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.1
+  org.osgi.service.http:
+    lastUpdated: 20150818133532
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  org.osgi.service.http.whiteboard:
+    lastUpdated: 20150818133621
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.io:
+    lastUpdated: 20150818133727
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.jdbc:
+    lastUpdated: 20150818133823
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.jndi:
+    lastUpdated: 20150818133931
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.jpa:
+    lastUpdated: 20150818134010
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.log:
+    lastUpdated: 20150818134144
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.osgi.service.metatype:
+    lastUpdated: 20150818175831
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.osgi.service.metatype.annotations:
+    lastUpdated: 20150818134429
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  org.osgi.service.monitor:
+    lastUpdated: 20150818134520
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.networkadapter:
+    lastUpdated: 20150818134625
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.packageadmin:
+    lastUpdated: 20170302221444
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  org.osgi.service.permissionadmin:
+    lastUpdated: 20161115181009
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  org.osgi.service.prefs:
+    lastUpdated: 20150818134723
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  org.osgi.service.provisioning:
+    lastUpdated: 20150818134822
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  org.osgi.service.remoteserviceadmin:
+    lastUpdated: 20150818134909
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.repository:
+    lastUpdated: 20150818135012
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.resolver:
+    lastUpdated: 20150818135110
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.service.resourcemonitoring:
+    lastUpdated: 20150818135321
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.rest:
+    lastUpdated: 20150818135435
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.serial:
+    lastUpdated: 20150818135629
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.serviceloader:
+    lastUpdated: 20150818135745
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.startlevel:
+    lastUpdated: 20161115181148
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.subsystem:
+    lastUpdated: 20150818135844
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.tr069todmt:
+    lastUpdated: 20150818135943
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.service.upnp:
+    lastUpdated: 20150818140101
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  org.osgi.service.url:
+    lastUpdated: 20161115181312
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.usbinfo:
+    lastUpdated: 20150818140148
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.service.useradmin:
+    lastUpdated: 20150818140247
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  org.osgi.service.wireadmin:
+    lastUpdated: 20150818140338
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.util.function:
+    lastUpdated: 20150818140457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.util.measurement:
+    lastUpdated: 20150818140616
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.util.position:
+    lastUpdated: 20150818175758
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  org.osgi.util.promise:
+    lastUpdated: 20150818140727
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  org.osgi.util.tracker:
+    lastUpdated: 20150818140828
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.1
+  org.osgi.util.xml:
+    lastUpdated: 20150818141026
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  osgi.annotation:
+    lastUpdated: 20150316212437
+    latest: 6.0.1
+    release: 6.0.1
+    versions:
+      - 6.0.0
+      - 6.0.1
+  osgi.cmpn:
+    lastUpdated: 20161118221212
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.3.1
+      - 5.0.0
+      - 6.0.0
+  osgi.core:
+    lastUpdated: 20161118220634
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 4.3.1
+      - 5.0.0
+      - 6.0.0
+  osgi.enroute.authenticator.github.provider:
+    lastUpdated: 20161014175618
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.authenticator.simple.provider:
+    lastUpdated: 20161014175618
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.authorization.simple.provider:
+    lastUpdated: 20161014175619
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.base.api:
+    lastUpdated: 20161014150313
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.base.debug.provider:
+    lastUpdated: 20161014175619
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.base.guard:
+    lastUpdated: 20161014150313
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.base.provider:
+    lastUpdated: 20161014150314
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.base.test:
+    lastUpdated: 20161014175619
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.bostock.d3.webresource:
+    lastUpdated: 20161014175620
+    latest: 3.5.6
+    release: 3.5.6
+    versions:
+      - 3.5.6
+  osgi.enroute.configurer.simple.provider:
+    lastUpdated: 20161014175620
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.dtos.bndlib.provider:
+    lastUpdated: 20161014175620
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.easse.simple.adapter:
+    lastUpdated: 20161014175620
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.equinox.log.adapter:
+    lastUpdated: 20161014175621
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.executor.simple.provider:
+    lastUpdated: 20161014175621
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.github.angular-ui.webresource:
+    lastUpdated: 20161014175621
+    latest: 0.13.3
+    release: 0.13.3
+    versions:
+      - 0.13.3
+  osgi.enroute.gogo.shell.provider:
+    lastUpdated: 20161014175622
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.google.angular.webresource:
+    lastUpdated: 20161014175622
+    latest: 1.5.7
+    release: 1.5.7
+    versions:
+      - 1.5.7
+  osgi.enroute.hamcrest.wrapper:
+    lastUpdated: 20161014175622
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  osgi.enroute.iot.circuit.application:
+    lastUpdated: 20161014175623
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.iot.circuit.command:
+    lastUpdated: 20161014175623
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.iot.circuit.provider:
+    lastUpdated: 20161014175623
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.iot.lego.adapter:
+    lastUpdated: 20161014175623
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.iot.pi.command:
+    lastUpdated: 20161014175624
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.iot.pi.provider:
+    lastUpdated: 20161014175624
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.jsonrpc.simple.provider:
+    lastUpdated: 20161014175624
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.jsplumb.webresource:
+    lastUpdated: 20161014175625
+    latest: 1.7.6
+    release: 1.7.6
+    versions:
+      - 1.7.6
+  osgi.enroute.junit.wrapper:
+    lastUpdated: 20161014175625
+    latest: 4.12.0
+    release: 4.12.0
+    versions:
+      - 4.12.0
+  osgi.enroute.logger.simple.provider:
+    lastUpdated: 20161014175625
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.logreader.rolling.provider:
+    lastUpdated: 20161014175625
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.maven:
+    lastUpdated: 20161017133202
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.pom.distro:
+    lastUpdated: 20161017133202
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.rest.simple.provider:
+    lastUpdated: 20161014175626
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.rest.simple.test:
+    lastUpdated: 20161014175626
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.scheduler.simple.provider:
+    lastUpdated: 20161014175626
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.stackexchange.pagedown.webresource:
+    lastUpdated: 20161014175627
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.1
+  osgi.enroute.twitter.bootstrap.webresource:
+    lastUpdated: 20161014175627
+    latest: 3.3.5
+    release: 3.3.5
+    versions:
+      - 3.3.5
+  osgi.enroute.verify:
+    lastUpdated: 20161017133202
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.web.simple.provider:
+    lastUpdated: 20161014175627
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.web.simple.test:
+    lastUpdated: 20161014175627
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.webcomponentsjs.webresource:
+    lastUpdated: 20161014175627
+    latest: 0.7.2
+    release: 0.7.2
+    versions:
+      - 0.7.2
+  osgi.enroute.webconsole.xray.provider:
+    lastUpdated: 20161014175627
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enroute.websecurity.adapter:
+    lastUpdated: 20161014175628
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  osgi.enterprise:
+    lastUpdated: 20161118221411
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 5.0.0
+      - 6.0.0
+  osgi.promise:
+    lastUpdated: 20150817165610
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0
+  osgi.residential:
+    lastUpdated: 20150805200240
+    latest: 6.0.0
+    release: 6.0.0
+    versions:
+      - 6.0.0
+  osgi_R4_compendium:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  osgi_R4_core:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+

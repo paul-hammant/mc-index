@@ -1,0 +1,269 @@
+artifacts:
+  jlibs-3rdparty:
+    lastUpdated: 20151003102713
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.1
+      - 2.2
+      - 2.1
+      - 2.2
+  jlibs-apt:
+    lastUpdated: 20160202151534
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-core:
+    lastUpdated: 20160202151534
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-distribution:
+    lastUpdated: 20160202151535
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-examples:
+    lastUpdated: 20160202151535
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2.1
+      - 2.1
+  jlibs-greplog:
+    lastUpdated: 20160202151537
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-i18n:
+    lastUpdated: 20160202151538
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-i18n-apt:
+    lastUpdated: 20160202151539
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-jdbc:
+    lastUpdated: 20160202151539
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-jdbc-apt:
+    lastUpdated: 20160202151540
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-nblr:
+    lastUpdated: 20160202151541
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-nbp:
+    lastUpdated: 20160202151541
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-parent:
+    lastUpdated: 20160202151542
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-swing:
+    lastUpdated: 20160202151542
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-visitor:
+    lastUpdated: 20160202151542
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-visitor-apt:
+    lastUpdated: 20160202151543
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-wadl:
+    lastUpdated: 20160202151544
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-wamp4j-core:
+    lastUpdated: 20160202151545
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  jlibs-wamp4j-netty:
+    lastUpdated: 20160202151546
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  jlibs-xml:
+    lastUpdated: 20160202151547
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xml-binding:
+    lastUpdated: 20160202151547
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xml-binding-apt:
+    lastUpdated: 20160202151549
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xml-crawler:
+    lastUpdated: 20160202151549
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xml-nbp:
+    lastUpdated: 20160202151550
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xmldog:
+    lastUpdated: 20160202151551
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  jlibs-xsd:
+    lastUpdated: 20160202151552
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.1
+      - 2.2
+  org-netbeans-api-visual:
+    lastUpdated: 20150728170052
+    latest: RELEASE65
+    release: RELEASE65
+    versions:
+      - RELEASE65
+  org-netbeans-swing-outline:
+    lastUpdated: 20150728170052
+    latest: RELEASE65
+    release: RELEASE65
+    versions:
+      - RELEASE65
+  org-openide-util:
+    lastUpdated: 20150728170053
+    latest: RELEASE65
+    release: RELEASE65
+    versions:
+      - RELEASE65
+

@@ -1,0 +1,58 @@
+artifacts:
+  abandon-base_2.11:
+    lastUpdated: 20161110162107
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0-rc1
+      - 0.3.0
+      - 0.3.2
+  abandon-base_2.12:
+    lastUpdated: 20170215193804
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  abandon-cli_2.11:
+    lastUpdated: 20161110162107
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0-rc1
+      - 0.3.0
+      - 0.3.2
+  abandon-cli_2.12:
+    lastUpdated: 20170215193805
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  abandon-gui_2.11:
+    lastUpdated: 20161110162107
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0-rc1
+      - 0.3.0
+      - 0.3.2
+  abandon-gui_2.12:
+    lastUpdated: 20170215193805
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  abandon_2.11:
+    lastUpdated: 20161110162108
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.0-rc1
+      - 0.3.0
+      - 0.3.2
+  abandon_2.12:
+    lastUpdated: 20170215193806
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+

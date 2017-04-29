@@ -1,0 +1,116 @@
+artifacts:
+  common-common:
+    lastUpdated: 20140317194737
+    latest: 2.2.2.Final
+    release: 2.2.2.Final
+    versions:
+      - 2.0.0-Beta01
+      - 2.0.0-Beta02
+      - 2.0.0-Beta03
+      - 2.0.0-CR1
+      - 2.0.0-CR02
+      - 2.0.0-CR03
+      - 2.0.0-GA
+      - 2.0.1-GA
+      - 2.0.2-GA
+      - 2.0.3-GA
+      - 2.0.4-Beta01
+      - 2.0.4-Beta02
+      - 2.0.4-Beta03
+      - 2.0.4-GA
+      - 2.1.0.Alpha01
+      - 2.1.0.Alpha02
+      - 2.1.0.Alpha03
+      - 2.1.0.Alpha04
+      - 2.1.0.Alpha05
+      - 2.1.0.Beta01
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 2.2.0.Beta01
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.2.2.Final
+  common-logging:
+    lastUpdated: 20140317194738
+    latest: 2.2.2.Final
+    release: 2.2.2.Final
+    versions:
+      - 2.0.0-CR1
+      - 2.0.0-CR02
+      - 2.0.0-CR03
+      - 2.0.0-GA
+      - 2.0.1-GA
+      - 2.0.2-GA
+      - 2.0.3-GA
+      - 2.0.4-Beta01
+      - 2.0.4-Beta02
+      - 2.0.4-Beta03
+      - 2.0.4-GA
+      - 2.1.0.Alpha01
+      - 2.1.0.Alpha02
+      - 2.1.0.Alpha03
+      - 2.1.0.Alpha04
+      - 2.1.0.Alpha05
+      - 2.1.0.Beta01
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 2.2.0.Beta01
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.2.2.Final
+  common-mc:
+    lastUpdated: 20111005120109
+    latest: 2.0.4-GA
+    release: 2.0.4-GA
+    versions:
+      - 2.0.0-Beta01
+      - 2.0.0-Beta02
+      - 2.0.0-Beta03
+      - 2.0.0-CR1
+      - 2.0.0-CR02
+      - 2.0.0-CR03
+      - 2.0.0-GA
+      - 2.0.1-GA
+      - 2.0.2-GA
+      - 2.0.3-GA
+      - 2.0.4-Beta01
+      - 2.0.4-Beta02
+      - 2.0.4-Beta03
+      - 2.0.4-GA
+  common-parent:
+    lastUpdated: 20140317194738
+    latest: 2.2.2.Final
+    release: 2.2.2.Final
+    versions:
+      - 2.0.0-Beta03
+      - 2.0.0-CR1
+      - 2.0.0-CR02
+      - 2.0.0-CR03
+      - 2.0.0-GA
+      - 2.0.1-GA
+      - 2.0.2-GA
+      - 2.0.3-GA
+      - 2.0.4-Beta01
+      - 2.0.4-Beta02
+      - 2.0.4-Beta03
+      - 2.0.4-GA
+      - 2.1.0.Alpha01
+      - 2.1.0.Alpha02
+      - 2.1.0.Alpha03
+      - 2.1.0.Alpha04
+      - 2.1.0.Alpha05
+      - 2.1.0.Beta01
+      - 2.1.0.Final
+      - 2.1.1.Final
+      - 2.2.0.Beta01
+      - 2.2.0.Final
+      - 2.2.1.Final
+      - 2.2.2.Final
+  module-parent:
+    lastUpdated: 20100424133251
+    latest: 2.0.0-Beta02
+    release: 2.0.0-Beta02
+    versions:
+      - 2.0.0-Beta01
+      - 2.0.0-Beta02
+

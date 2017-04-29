@@ -1,0 +1,160 @@
+artifacts:
+  dss-asic:
+    lastUpdated: 20160505084532
+    latest: 4.6.d4j.2
+    release: 4.6.d4j.2
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+  dss-cades:
+    lastUpdated: 20161026160313
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-common-validation-jaxb:
+    lastUpdated: 20161026160314
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-detailed-report-jaxb:
+    lastUpdated: 20161026160314
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-diagnostic-jaxb:
+    lastUpdated: 20161026160315
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-document:
+    lastUpdated: 20161026160315
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-model:
+    lastUpdated: 20161026160316
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-pades:
+    lastUpdated: 20161026160317
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-policy-jaxb:
+    lastUpdated: 20161026160317
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-reports:
+    lastUpdated: 20161026160318
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-service:
+    lastUpdated: 20161026160319
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-simple-report-jaxb:
+    lastUpdated: 20161026160320
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-spi:
+    lastUpdated: 20161026160320
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-token:
+    lastUpdated: 20161026160321
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-tsl-jaxb:
+    lastUpdated: 20161026160322
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-tsl-validation:
+    lastUpdated: 20161026160323
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  dss-xades:
+    lastUpdated: 20161026160323
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  sd-dss:
+    lastUpdated: 20161026160324
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+  validation-policy:
+    lastUpdated: 20161026160324
+    latest: 4.7.RC2.d4j.1
+    release: 4.7.RC2.d4j.1
+    versions:
+      - 4.6.RC1.d4j.2
+      - 4.6.d4j.2
+      - 4.7.RC1.d4j.1
+      - 4.7.RC2.d4j.1
+

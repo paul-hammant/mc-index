@@ -1,0 +1,74 @@
+artifacts:
+  beamly-core-lang_2.10:
+    lastUpdated: 20140804131651
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  beamly-core-lang_2.11:
+    lastUpdated: 20140804131651
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+  beamly-core-scalaz_2.10:
+    lastUpdated: 20140922115416
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  beamly-core-scalaz_2.11:
+    lastUpdated: 20140922115416
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+  playjsonsnake_2.10:
+    lastUpdated: 20160425135712
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  playjsonsnake_2.11:
+    lastUpdated: 20160425135712
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  playjsontime_2.10:
+    lastUpdated: 20160307183303
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  playjsontime_2.11:
+    lastUpdated: 20160307183303
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  playse4_2.10:
+    lastUpdated: 20150817115449
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  playse4_2.11:
+    lastUpdated: 20150817115450
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

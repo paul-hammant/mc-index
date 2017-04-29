@@ -1,0 +1,30 @@
+artifacts:
+  bolts:
+    lastUpdated: 20150804212646
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  cocaine:
+    lastUpdated: 20140801142737
+    latest: 0.11.1.0
+    release: 0.11.1.0
+    versions:
+      - 0.11.0.0
+      - 0.11.1.0
+  jackson-datatype-bolts:
+    lastUpdated: 20150804213040
+    latest: 0.4
+    release: 0.4
+    versions:
+      - y
+      - 0.1
+      - 0.3
+      - 0.4
+  mysql-diff:
+    lastUpdated: 20130802145553
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+

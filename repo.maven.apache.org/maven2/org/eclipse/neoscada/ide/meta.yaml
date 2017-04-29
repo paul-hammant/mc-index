@@ -1,0 +1,531 @@
+artifacts:
+  org.eclipse.neoscada.configuration.iec60870:
+    lastUpdated: 20170216111147
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.neoscada.configuration.iec60870.edit:
+    lastUpdated: 20170216111147
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.neoscada.configuration.iec60870.lib:
+    lastUpdated: 20170216111147
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  org.eclipse.scada.configuration:
+    lastUpdated: 20161026205244
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.arduino:
+    lastUpdated: 20161026205244
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.arduino.edit:
+    lastUpdated: 20161026205245
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component:
+    lastUpdated: 20161026205246
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.common:
+    lastUpdated: 20161026205246
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component.common.edit:
+    lastUpdated: 20161026205247
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component.common.lib:
+    lastUpdated: 20161026205247
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.common.validation:
+    lastUpdated: 20161026205248
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component.edit:
+    lastUpdated: 20161026205249
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.editor:
+    lastUpdated: 20161026205249
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.exec:
+    lastUpdated: 20161026205250
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component.exec.edit:
+    lastUpdated: 20161026205251
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.component.exec.lib:
+    lastUpdated: 20161026205252
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.generator:
+    lastUpdated: 20161026205252
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.lib:
+    lastUpdated: 20161026205253
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.tools:
+    lastUpdated: 20161026205253
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.component.validation:
+    lastUpdated: 20161026205254
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.dave:
+    lastUpdated: 20161026205254
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.dave.edit:
+    lastUpdated: 20161026205255
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.dave.lib:
+    lastUpdated: 20161026205256
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.doc:
+    lastUpdated: 20170216111148
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.driver.jdbc:
+    lastUpdated: 20161026205257
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.driver.jdbc.edit:
+    lastUpdated: 20161026205258
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.driver.parser:
+    lastUpdated: 20161026205258
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.driver.parser.edit:
+    lastUpdated: 20161026205259
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.driver.parser.lib:
+    lastUpdated: 20161026205300
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.ecore.ui:
+    lastUpdated: 20161026205301
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.generator:
+    lastUpdated: 20161026205301
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.generator.component:
+    lastUpdated: 20161026205302
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.generator.ui:
+    lastUpdated: 20161026205302
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.globalization:
+    lastUpdated: 20161026205303
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.globalization.edit:
+    lastUpdated: 20161026205304
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.globalization.editor:
+    lastUpdated: 20161026205304
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.globalization.lib:
+    lastUpdated: 20161026205305
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.infrastructure:
+    lastUpdated: 20161026205305
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.infrastructure.edit:
+    lastUpdated: 20161026205306
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.infrastructure.editor:
+    lastUpdated: 20161026205307
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.infrastructure.lib:
+    lastUpdated: 20161026205308
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.infrastructure.validation:
+    lastUpdated: 20161026205308
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.item:
+    lastUpdated: 20161026205310
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.item.edit:
+    lastUpdated: 20161026205310
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.item.editor:
+    lastUpdated: 20161026205311
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.item.parser:
+    lastUpdated: 20161026205313
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.lib:
+    lastUpdated: 20161026205314
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.memory:
+    lastUpdated: 20161026205315
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.memory.edit:
+    lastUpdated: 20161026205315
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.memory.editor:
+    lastUpdated: 20161026205316
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.memory.manager:
+    lastUpdated: 20161026205317
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.memory.manager.edit:
+    lastUpdated: 20161026205318
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.memory.manager.lib:
+    lastUpdated: 20161026205318
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.modbus:
+    lastUpdated: 20161026205319
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.modbus.edit:
+    lastUpdated: 20161026205320
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.modbus.lib:
+    lastUpdated: 20161026205321
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.recipe:
+    lastUpdated: 20161026205321
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.recipe.edit:
+    lastUpdated: 20161026205322
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.recipe.editor:
+    lastUpdated: 20161026205322
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.recipe.lib:
+    lastUpdated: 20161026205323
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.recipe.ui:
+    lastUpdated: 20170216111149
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.2.0
+      - 0.4.0
+  org.eclipse.scada.configuration.script:
+    lastUpdated: 20161026205325
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.script.edit:
+    lastUpdated: 20161026205325
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.security:
+    lastUpdated: 20170216111150
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.security.edit:
+    lastUpdated: 20170216111150
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.security.editor:
+    lastUpdated: 20170216111150
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.security.utils:
+    lastUpdated: 20170216111151
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.setup.common:
+    lastUpdated: 20161026205328
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.setup.common.edit:
+    lastUpdated: 20161026205329
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.setup.common.lib:
+    lastUpdated: 20161026205330
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.setup.common.validation:
+    lastUpdated: 20161026205330
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.configuration.ui.component:
+    lastUpdated: 20161026205331
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.ui.project:
+    lastUpdated: 20161026205331
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.utils:
+    lastUpdated: 20161026205332
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.configuration.world:
+    lastUpdated: 20161026205333
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.world.edit:
+    lastUpdated: 20161026205333
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.world.editor:
+    lastUpdated: 20161026205334
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.configuration.world.lib:
+    lastUpdated: 20170216111151
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.configuration.world.validation:
+    lastUpdated: 20161026205335
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.ui:
+    lastUpdated: 20161026205336
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.da.server.ui.launcher:
+    lastUpdated: 20161026205337
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ide:
+    lastUpdated: 20161026205337
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ide.hd.hdsspy:
+    lastUpdated: 20161026205338
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ide.pde:
+    lastUpdated: 20161026205339
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ide.server.test:
+    lastUpdated: 20161026205339
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ide.vi.preview.editor:
+    lastUpdated: 20161026205340
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.protocol.ngp.model.additions:
+    lastUpdated: 20161026205341
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

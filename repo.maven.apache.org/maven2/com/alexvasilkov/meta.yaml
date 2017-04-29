@@ -1,0 +1,118 @@
+artifacts:
+  android-commons:
+    lastUpdated: 20150420090118
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  android-sign-release:
+    lastUpdated: 20141104141429
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.3.6
+      - 0.3.7
+      - 0.4
+      - 0.5
+      - 0.7
+      - 0.8
+      - 0.8.1
+      - 0.4
+      - 0.5
+      - 0.7
+      - 0.8
+  android_sign:
+    lastUpdated: 20140326084224
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+      - 0.1
+      - 0.2
+  events:
+    lastUpdated: 20160514205251
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.5.0-beta-1
+      - 1.0.0
+  fluffy-commons:
+    lastUpdated: 20140513120433
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.1.1
+  fluffy-events:
+    lastUpdated: 20140219062608
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  fluffy-image-loader:
+    lastUpdated: 20140123124505
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  foldable-layout:
+    lastUpdated: 20170224143732
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 0.1
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 0.1
+  gesture-views:
+    lastUpdated: 20170404054615
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 2.0.0-beta-1
+      - 2.0.0-beta-2
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.3.0
+  gradle-vcs-dependency:
+    lastUpdated: 20170313062235
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+      - 0.3.0
+      - 0.3.1
+      - 1.0.0
+

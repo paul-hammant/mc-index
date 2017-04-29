@@ -1,0 +1,176 @@
+artifacts:
+  apache-taverna-engine:
+    lastUpdated: 20160630113206
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-activity-archetype:
+    lastUpdated: 20160630113207
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-activity-test-utils:
+    lastUpdated: 20160630113208
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-capability-api:
+    lastUpdated: 20160630113208
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-capability-impl:
+    lastUpdated: 20160630113209
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-credential-manager-api:
+    lastUpdated: 20160630113210
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-credential-manager-impl:
+    lastUpdated: 20160630113211
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-database-configuration-api:
+    lastUpdated: 20160630113212
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-database-configuration-impl:
+    lastUpdated: 20160630113212
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-dataflow-activity:
+    lastUpdated: 20160630113213
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-execution-api:
+    lastUpdated: 20160630113214
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-execution-hadoop:
+    lastUpdated: 20160630113214
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-execution-impl:
+    lastUpdated: 20160630113215
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-execution-local:
+    lastUpdated: 20160630113216
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-execution-remote:
+    lastUpdated: 20160630113216
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-observer:
+    lastUpdated: 20160630113217
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-reference-api:
+    lastUpdated: 20160630113217
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-reference-impl:
+    lastUpdated: 20160630113217
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-reference-testhelpers:
+    lastUpdated: 20160630113218
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-reference-types:
+    lastUpdated: 20160630113218
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-report-api:
+    lastUpdated: 20160630113218
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-run-api:
+    lastUpdated: 20160630113219
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-run-impl:
+    lastUpdated: 20160630113220
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-services-api:
+    lastUpdated: 20160630113220
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-services-impl:
+    lastUpdated: 20160630113220
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-stringconstant-activity:
+    lastUpdated: 20160630113221
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-workflowmodel-api:
+    lastUpdated: 20160630113221
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-workflowmodel-extensions:
+    lastUpdated: 20160630113221
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+  taverna-workflowmodel-impl:
+    lastUpdated: 20160630113222
+    latest: 3.1.0-incubating
+    release: 3.1.0-incubating
+    versions:
+      - 3.1.0-incubating
+

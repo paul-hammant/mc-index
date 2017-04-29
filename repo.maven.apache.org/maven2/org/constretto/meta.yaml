@@ -1,0 +1,284 @@
+artifacts:
+  constretto:
+    lastUpdated: 20151201190142
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 1.0
+      - 1.1
+      - 2.0
+  constretto-api:
+    lastUpdated: 20151201212526
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 1.0
+      - 1.1
+      - 2.0
+  constretto-camel:
+    lastUpdated: 20131211213352
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  constretto-core:
+    lastUpdated: 20151201212527
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 1.0
+      - 1.1
+      - 2.0
+  constretto-dropwizard:
+    lastUpdated: 20161120121529
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  constretto-scala_2.10:
+    lastUpdated: 20170329140329
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.0
+      - 1.1
+      - 1.2
+  constretto-scala_2.11:
+    lastUpdated: 20170329140329
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+      - 1.1
+      - 1.2
+  constretto-scala_2.12:
+    lastUpdated: 20170329140331
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+  constretto-scala_2.9.0:
+    lastUpdated: 20140729161112
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-2
+      - 1.0-beta-3
+      - 1.0-rc-1
+      - 1.0-rc-2
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  constretto-scala_2.9.0-1:
+    lastUpdated: 20140729161112
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  constretto-scala_2.9.1:
+    lastUpdated: 20140729161113
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0-beta-1
+      - 1.0-beta-2
+      - 1.0-beta-3
+      - 1.0-rc-1
+      - 1.0-rc-2
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  constretto-scala_2.9.2:
+    lastUpdated: 20140729161113
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  constretto-scala_2.9.3:
+    lastUpdated: 20140729161114
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  constretto-spring:
+    lastUpdated: 20151201212527
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 1.0
+      - 1.1
+      - 2.0
+  constretto-test:
+    lastUpdated: 20151201212528
+    latest: 2.2.3
+    release: 2.2.3
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.1.4
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 1.0
+      - 1.1
+      - 2.0
+  constretto-test-junit-4.5:
+    lastUpdated: 20130426160925
+    latest: 2.0.4
+    release: 2.0.4
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 2.0-beta-4
+      - 2.0-beta-5
+      - 2.0-beta-6
+      - 2.0-rc-1
+      - 2.0-rc-2
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 1.0
+      - 1.1
+      - 2.0
+

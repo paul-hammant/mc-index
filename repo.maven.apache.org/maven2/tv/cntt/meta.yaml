@@ -1,0 +1,606 @@
+artifacts:
+  annovention:
+    lastUpdated: 20140221190427
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  chill-akka_2.10:
+    lastUpdated: 20140609230411
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  chill-akka_2.11:
+    lastUpdated: 20140609230424
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  chill-scala-2-11_2.11:
+    lastUpdated: 20140508071350
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  chill-scala_2.10:
+    lastUpdated: 20140705052049
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  chill-scala_2.11:
+    lastUpdated: 20140705052050
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.1
+      - 1.2
+  glokka_2.10:
+    lastUpdated: 20150501200338
+    latest: 2.3
+    release: 2.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+  glokka_2.11:
+    lastUpdated: 20160107042312
+    latest: 2.4
+    release: 2.4
+    versions:
+      - 1.8
+      - 1.9
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+  glokka_2.12:
+    lastUpdated: 20161211022048
+    latest: 2.4.0
+    release: 2.4.0
+    versions:
+      - 2.4.0
+  jauter:
+    lastUpdated: 20141028103949
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  netcaty_2.10:
+    lastUpdated: 20140703041800
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  netcaty_2.11:
+    lastUpdated: 20140703041800
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+  netty-router:
+    lastUpdated: 20150911044208
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 2.0.0
+  netty41-router:
+    lastUpdated: 20150525085257
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  rhinocoffeescript:
+    lastUpdated: 20160529150319
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.6.2
+      - 1.6.3
+      - 1.7.1
+      - 1.8.0
+      - 1.9.0
+      - 1.9.2
+      - 1.9.3
+      - 1.10.0
+  scaposer_2.10:
+    lastUpdated: 20161209222027
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  scaposer_2.11:
+    lastUpdated: 20161209222028
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+  scaposer_2.12:
+    lastUpdated: 20161209222028
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  scaposer_2.9.1:
+    lastUpdated: 20141102155129
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  scaposer_2.9.2:
+    lastUpdated: 20121018005757
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  sclasner_2.10:
+    lastUpdated: 20150530040922
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7.0
+  sclasner_2.11:
+    lastUpdated: 20150530040923
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.6
+      - 1.7.0
+  sclasner_2.12:
+    lastUpdated: 20161210224240
+    latest: 1.7.0
+    release: 1.7.0
+    versions:
+      - 1.7.0
+  sclasner_2.9.1:
+    lastUpdated: 20141102155001
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  sclasner_2.9.2:
+    lastUpdated: 20121204105014
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  sinetja:
+    lastUpdated: 20141031103102
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  slf4s-api_2.11:
+    lastUpdated: 20170327003222
+    latest: 1.7.25
+    release: 1.7.25
+    versions:
+      - 1.7.22
+      - 1.7.25
+  slf4s-api_2.12:
+    lastUpdated: 20170327003222
+    latest: 1.7.25
+    release: 1.7.25
+    versions:
+      - 1.7.22
+      - 1.7.25
+  usnames:
+    lastUpdated: 20160728205126
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  xgettext_2.10:
+    lastUpdated: 20170213053720
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5.0
+      - 1.5.1
+  xgettext_2.11:
+    lastUpdated: 20170213053720
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5.0
+      - 1.5.1
+  xgettext_2.12:
+    lastUpdated: 20170213053721
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  xitrum-hazelcast2_2.10:
+    lastUpdated: 20150120092957
+    latest: 1.13
+    release: 1.13
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+  xitrum-hazelcast2_2.11:
+    lastUpdated: 20170213051741
+    latest: 1.14.0
+    release: 1.14.0
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+      - 1.14.0
+  xitrum-hazelcast2_2.12:
+    lastUpdated: 20170213051742
+    latest: 1.14.0
+    release: 1.14.0
+    versions:
+      - 1.14.0
+  xitrum-hazelcast3_2.10:
+    lastUpdated: 20150120092958
+    latest: 1.13
+    release: 1.13
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+  xitrum-hazelcast3_2.11:
+    lastUpdated: 20170213051743
+    latest: 1.14.0
+    release: 1.14.0
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+      - 1.1
+      - 1.11
+      - 1.12
+      - 1.13
+      - 1.14.0
+  xitrum-hazelcast3_2.12:
+    lastUpdated: 20170213051744
+    latest: 1.14.0
+    release: 1.14.0
+    versions:
+      - 1.14.0
+  xitrum-hazelcast_2.10:
+    lastUpdated: 20131122112546
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  xitrum-ko_2.10:
+    lastUpdated: 20140819080826
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.5
+      - 1.6
+      - 1.7
+  xitrum-ko_2.11:
+    lastUpdated: 20170111150045
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8.0
+  xitrum-ko_2.12:
+    lastUpdated: 20170111150046
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.8.0
+  xitrum-plugin_2.8.1:
+    lastUpdated: 20141102155038
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  xitrum-scalate_2.10:
+    lastUpdated: 20150406065221
+    latest: 2.5
+    release: 2.5
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+  xitrum-scalate_2.11:
+    lastUpdated: 20170326235925
+    latest: 2.8.0
+    release: 2.8.0
+    versions:
+      - 1.9
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6.0
+      - 2.6.1
+      - 2.7.0
+      - 2.7.1
+      - 2.8.0
+  xitrum-scalate_2.12:
+    lastUpdated: 20170326235925
+    latest: 2.8.0
+    release: 2.8.0
+    versions:
+      - 2.7.1
+      - 2.8.0
+  xitrum-xgettext_2.10:
+    lastUpdated: 20121231070422
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  xitrum-xgettext_2.9.1:
+    lastUpdated: 20120724054545
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  xitrum-xgettext_2.9.2:
+    lastUpdated: 20120414103444
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+  xitrum_2.10:
+    lastUpdated: 20150813101606
+    latest: 3.25.0
+    release: 3.25.0
+    versions:
+      - 1.13
+      - 1.14
+      - 1.15
+      - 1.16
+      - 1.17
+      - 1.18
+      - 1.19
+      - 1.2
+      - 1.21
+      - 1.22
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.3
+      - 2.4
+      - 2.5
+      - 2.6
+      - 2.7
+      - 2.8
+      - 2.9
+      - 2.1
+      - 2.11
+      - 2.12
+      - 2.13
+      - 2.14
+      - 2.15
+      - 2.16
+      - 3.0
+      - 3.1
+      - 3.2
+      - 3.3
+      - 3.3.1
+      - 3.4
+      - 3.5
+      - 3.6
+      - 3.7
+      - 3.14
+      - 3.15
+      - 3.16
+      - 3.17
+      - 3.18
+      - 3.19
+      - 3.2
+      - 3.21
+      - 3.22
+      - 3.23
+      - 3.23.1
+      - 3.24.0
+      - 3.25.0
+  xitrum_2.11:
+    lastUpdated: 20170327061444
+    latest: 3.28.3
+    release: 3.28.3
+    versions:
+      - 3.11
+      - 3.12
+      - 3.13
+      - 3.14
+      - 3.15
+      - 3.16
+      - 3.17
+      - 3.18
+      - 3.19
+      - 3.2
+      - 3.21
+      - 3.22
+      - 3.23
+      - 3.23.1
+      - 3.24.0
+      - 3.25.0
+      - 3.26.0
+      - 3.26.1
+      - 3.26.2
+      - 3.27.0
+      - 3.28.0
+      - 3.28.1
+      - 3.28.2
+      - 3.28.3
+  xitrum_2.12:
+    lastUpdated: 20170327061444
+    latest: 3.28.3
+    release: 3.28.3
+    versions:
+      - 3.28.2
+      - 3.28.3
+  xitrum_2.9.1:
+    lastUpdated: 20141102155219
+    latest: 1.8.7
+    release: 1.8.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.6
+      - 1.6.1
+      - 1.7
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+      - 1.8.3
+      - 1.8.4
+      - 1.8.5
+      - 1.8.6
+      - 1.8.7
+  xitrum_2.9.2:
+    lastUpdated: 20121226053614
+    latest: 1.12
+    release: 1.12
+    versions:
+      - 1.8.7
+      - 1.9
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 1.9.4
+      - 1.9.5
+      - 1.9.6
+      - 1.9.7
+      - 1.9.8
+      - 1.9.9
+      - 1.9.10
+      - 1.10
+      - 1.11
+      - 1.12
+

@@ -1,0 +1,133 @@
+artifacts:
+  akka-serial-core_2.11:
+    lastUpdated: 20170418021226
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-core_2.12:
+    lastUpdated: 20170418021226
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-native:
+    lastUpdated: 20170418021226
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-stream_2.11:
+    lastUpdated: 20170418021227
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-stream_2.12:
+    lastUpdated: 20170418021227
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-sync_2.11:
+    lastUpdated: 20170418021227
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  akka-serial-sync_2.12:
+    lastUpdated: 20170418021228
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.0.0-RC1
+      - 4.0.0
+      - 4.1.0
+  flow-core_2.11:
+    lastUpdated: 20161204104642
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  flow-core_2.12:
+    lastUpdated: 20161204104642
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.4
+  flow-core_2.12.0-M4:
+    lastUpdated: 20160610210358
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  flow-core_2.12.0-M5:
+    lastUpdated: 20160710015829
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.2
+  flow-core_2.12.0-RC1:
+    lastUpdated: 20161008024230
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.3
+  flow-native:
+    lastUpdated: 20161204104643
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  flow-stream_2.11:
+    lastUpdated: 20161204104643
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+  flow-stream_2.12:
+    lastUpdated: 20161204104644
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.4
+  flow-stream_2.12.0-M4:
+    lastUpdated: 20160610210400
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  flow-stream_2.12.0-M5:
+    lastUpdated: 20160710015829
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.2
+  flow-stream_2.12.0-RC1:
+    lastUpdated: 20161008024231
+    latest: 3.0.3
+    release: 3.0.3
+    versions:
+      - 3.0.3
+

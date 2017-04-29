@@ -1,0 +1,1027 @@
+artifacts:
+  de.huxhorn.lilith:
+    lastUpdated: 20170317115639
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.3rdparty.flyingsaucer.core-renderer:
+    lastUpdated: 20101110102645
+    latest: 8Pre2
+    release: 8Pre2
+    versions:
+      - 8RC1
+      - 8Pre2
+  de.huxhorn.lilith.3rdparty.jgroups-all:
+    lastUpdated: 20101110102610
+    latest: 2.8.0.CR3
+    release: 2.8.0.CR3
+    versions:
+      - 2.6.8.GA
+      - 2.8.0.CR3
+  de.huxhorn.lilith.3rdparty.jmdns:
+    lastUpdated: 20101110102609
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0-patched
+      - 3.0
+      - 3.0
+  de.huxhorn.lilith.3rdparty.junique:
+    lastUpdated: 20170412211047
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.4
+  de.huxhorn.lilith.3rdparty.macify:
+    lastUpdated: 20101110102500
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.1
+      - 1.4
+      - 1.1
+      - 1.4
+  de.huxhorn.lilith.3rdparty.rrd4j:
+    lastUpdated: 20101110102559
+    latest: 2.0.5
+    release: 2.0.5
+    versions:
+      - 2.0.5
+  de.huxhorn.lilith.conditions:
+    lastUpdated: 20170317115640
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.constants:
+    lastUpdated: 20170317115641
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.access:
+    lastUpdated: 20170317115641
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.access.protobuf:
+    lastUpdated: 20170317115641
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.converter:
+    lastUpdated: 20170317115642
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.corpus:
+    lastUpdated: 20170317115642
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.eventsource:
+    lastUpdated: 20170317115642
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.eventsource-xml:
+    lastUpdated: 20170317115643
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging:
+    lastUpdated: 20170317115643
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging-io-test:
+    lastUpdated: 20170317115644
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging-json:
+    lastUpdated: 20120312143323
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.data.logging-json-serializer:
+    lastUpdated: 20170317115644
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging-xml:
+    lastUpdated: 20170317115645
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging-xml-serializer:
+    lastUpdated: 20170317115645
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.logging.protobuf:
+    lastUpdated: 20170317115645
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.data.master:
+    lastUpdated: 20101110102444
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.engine:
+    lastUpdated: 20170317115646
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.json-logging:
+    lastUpdated: 20170317115646
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.jul-slf4j-handler:
+    lastUpdated: 20151115161321
+    latest: 8.0.0
+    release: 8.0.0
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+  de.huxhorn.lilith.jul.master:
+    lastUpdated: 20101110102631
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.jul.xml:
+    lastUpdated: 20170317115647
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.jul.xml-import:
+    lastUpdated: 20170317115647
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.jul.xml.receiver:
+    lastUpdated: 20170317115647
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.log4j.converter:
+    lastUpdated: 20170317115648
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.log4j.master:
+    lastUpdated: 20101110102527
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.log4j.producer:
+    lastUpdated: 20120312143318
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.log4j.throwable:
+    lastUpdated: 20130428200802
+    latest: 0.9.43
+    release: 0.9.43
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+  de.huxhorn.lilith.log4j.xml:
+    lastUpdated: 20170317115648
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.log4j2.converter:
+    lastUpdated: 20170317115649
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.access-adapter:
+    lastUpdated: 20120312143314
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.logback.appender.multiplex-access:
+    lastUpdated: 20170317115649
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.appender.multiplex-classic:
+    lastUpdated: 20170317115650
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.appender.multiplex-classic-json:
+    lastUpdated: 20170317115650
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.appender.multiplex-classic-xml:
+    lastUpdated: 20170317115651
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.appender.multiplex-core:
+    lastUpdated: 20170317115651
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.classic:
+    lastUpdated: 20170317115652
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.converter-access:
+    lastUpdated: 20170317115652
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.converter-classic:
+    lastUpdated: 20170317115653
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.encoder.access:
+    lastUpdated: 20170317115653
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.encoder.classic:
+    lastUpdated: 20170317115654
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.encoder.core:
+    lastUpdated: 20170317115654
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.event-producers:
+    lastUpdated: 20101110102449
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.logback.logging-adapter:
+    lastUpdated: 20120312143314
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.logback.master:
+    lastUpdated: 20101110102631
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.logback.producer.access:
+    lastUpdated: 20120312143317
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.logback.producer.classic:
+    lastUpdated: 20120312143324
+    latest: 0.9.42.1
+    release: 0.9.42.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+  de.huxhorn.lilith.logback.servlet:
+    lastUpdated: 20170317115654
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.logback.tools:
+    lastUpdated: 20170317115655
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.master:
+    lastUpdated: 20101110102528
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.parent:
+    lastUpdated: 20101110102436
+    latest: 0.9.39
+    release: 0.9.39
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+  de.huxhorn.lilith.prefs:
+    lastUpdated: 20170317115656
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.sender:
+    lastUpdated: 20170317115656
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.slf4j:
+    lastUpdated: 20170317115656
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.sounds:
+    lastUpdated: 20170317115657
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.tracing:
+    lastUpdated: 20170317115658
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  de.huxhorn.lilith.xml-logging:
+    lastUpdated: 20170317115658
+    latest: 8.1.1
+    release: 8.1.1
+    versions:
+      - 0.9.30
+      - 0.9.31
+      - 0.9.32
+      - 0.9.33
+      - 0.9.34
+      - 0.9.35
+      - 0.9.36
+      - 0.9.37
+      - 0.9.38
+      - 0.9.39
+      - 0.9.40
+      - 0.9.41
+      - 0.9.42
+      - 0.9.42.1
+      - 0.9.43
+      - 0.9.44
+      - 8.0.0
+      - 8.1.0
+      - 8.1.1
+  jul:
+    lastUpdated: 20110502200955
+    latest: 0.9.41
+    release: 0.9.41
+    versions:
+      - 0.9.40
+      - 0.9.41
+  lilith-data:
+    lastUpdated: 20110502200954
+    latest: 0.9.41
+    release: 0.9.41
+    versions:
+      - 0.9.40
+      - 0.9.41
+  log4j:
+    lastUpdated: 20110502200955
+    latest: 0.9.41
+    release: 0.9.41
+    versions:
+      - 0.9.40
+      - 0.9.41
+  logback:
+    lastUpdated: 20110502201004
+    latest: 0.9.41
+    release: 0.9.41
+    versions:
+      - 0.9.40
+      - 0.9.41
+

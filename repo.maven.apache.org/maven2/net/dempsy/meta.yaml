@@ -1,0 +1,228 @@
+artifacts:
+  dempsy-cluster.api:
+    lastUpdated: 20160328143857
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-cluster.local:
+    lastUpdated: 20160328143858
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-cluster.zookeeper:
+    lastUpdated: 20160328143858
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-commons:
+    lastUpdated: 20160328143859
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-distconfig.apachevfs:
+    lastUpdated: 20160328143859
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-distconfig.api:
+    lastUpdated: 20160328143901
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-distconfig.classpath:
+    lastUpdated: 20160328143902
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-distconfig.clusterinfo:
+    lastUpdated: 20160328143902
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-distconfig.main:
+    lastUpdated: 20160328143903
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-parent:
+    lastUpdated: 20131023230342
+    latest: 0.7.9
+    release: 0.7.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.6
+      - 0.7
+  dempsy-ringbuffer:
+    lastUpdated: 20160328143905
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  dempsy-serialization.api:
+    lastUpdated: 20160328143905
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-serialization.jackson:
+    lastUpdated: 20160328143906
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-serialization.java:
+    lastUpdated: 20160328143906
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-serialization.kryo:
+    lastUpdated: 20160328143907
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-test-utils:
+    lastUpdated: 20160328143910
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  dempsy-utils:
+    lastUpdated: 20160328143911
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0
+      - 1.1
+      - 2.0.0
+      - 1.0
+      - 1.1
+  lib-dempsyapi:
+    lastUpdated: 20131023230343
+    latest: 0.7.9
+    release: 0.7.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.6
+      - 0.7
+  lib-dempsycore:
+    lastUpdated: 20131023230344
+    latest: 0.7.9
+    release: 0.7.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.6
+      - 0.7
+  lib-dempsyimpl:
+    lastUpdated: 20131023230344
+    latest: 0.7.9
+    release: 0.7.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.6
+      - 0.7
+  lib-dempsyspring:
+    lastUpdated: 20131023230345
+    latest: 0.7.9
+    release: 0.7.9
+    versions:
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.7.2
+      - 0.7.3
+      - 0.7.4
+      - 0.7.5
+      - 0.7.6
+      - 0.7.7
+      - 0.7.8
+      - 0.7.9
+      - 0.6
+      - 0.7
+

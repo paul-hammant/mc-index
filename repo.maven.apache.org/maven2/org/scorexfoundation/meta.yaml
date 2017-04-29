@@ -1,0 +1,38 @@
+artifacts:
+  iodb_2.11:
+    lastUpdated: 20170208131930
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1
+      - 0.1.1
+      - 0.2.0
+  iodb_2.12:
+    lastUpdated: 20170307160657
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scorex-core_2.11:
+    lastUpdated: 20170209121830
+    latest: 2.0.0-M4
+    release: 2.0.0-M4
+    versions:
+      - 2.0.0-M3
+      - 2.0.0-M4
+  scrypto_2.11:
+    lastUpdated: 20170419103122
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+  scrypto_2.12:
+    lastUpdated: 20170419103122
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+

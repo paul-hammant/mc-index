@@ -1,0 +1,147 @@
+artifacts:
+  jguard:
+    lastUpdated: 20110906092222
+    latest: {}
+    release: 2.0.0.beta-7
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 1.0.4
+      - 2.0.0.beta-6
+      - 2.0.0.beta-7
+  jguard-core:
+    lastUpdated: 20110906092416
+    latest: {}
+    release: 2.0.0.beta-7
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 1.0.4
+      - 2.0.0.beta-6
+      - 2.0.0.beta-7
+  jguard-ext:
+    lastUpdated: 20110906092720
+    latest: {}
+    release: 2.0.0.beta-7
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 1.0.4
+      - 2.0.0.beta-6
+      - 2.0.0.beta-7
+  jguard-ext-java-5:
+    lastUpdated: 20090327235909
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.0.4
+  jguard-ext-java-6:
+    lastUpdated: 20090215235932
+    latest: {}
+    release: 2.0.0-beta-5
+    versions:
+      - 2.0.0-beta-5
+  jguard-jee:
+    lastUpdated: 20110906093042
+    latest: {}
+    release: 2.0.0.beta-7
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 1.0.4
+      - 2.0.0.beta-6
+      - 2.0.0.beta-7
+  jguard-jee-4:
+    lastUpdated: 20110401181557
+    latest: {}
+    release: 2.0.0.beta-6
+    versions:
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 2.0.0.beta-6
+  jguard-jee-extras:
+    lastUpdated: 20110906093307
+    latest: {}
+    release: 2.0.0.beta-7
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 2.0.0-beta-5
+      - 1.0.4
+      - 2.0.0.beta-6
+      - 2.0.0.beta-7
+  jguard-jsf-example:
+    lastUpdated: 20080704225407
+    latest: {}
+    release: {}
+    versions:
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+  jguard-struts-example:
+    lastUpdated: 20090328000119
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.0.4
+  jguard-swing-example:
+    lastUpdated: 20090328000405
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0-beta1
+      - 1.1.0-beta-2
+      - 1.1.0-beta-3
+      - 1.1.0-beta-4
+      - 1.0.4
+

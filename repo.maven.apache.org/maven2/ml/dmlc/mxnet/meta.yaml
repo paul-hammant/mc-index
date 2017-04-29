@@ -1,0 +1,100 @@
+artifacts:
+  libmxnet-scala-linux-x86_64-cpu:
+    lastUpdated: 20160326091725
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  libmxnet-scala-linux-x86_64-gpu:
+    lastUpdated: 20160326090244
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  libmxnet-scala-osx-x86_64-cpu:
+    lastUpdated: 20160326093414
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-core_2.10:
+    lastUpdated: 20160326090245
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-core_2.11:
+    lastUpdated: 20170326145052
+    latest: 0.9.3a
+    release: 0.9.3a
+    versions:
+      - 0.9.3a
+  mxnet-examples_2.10:
+    lastUpdated: 20160320165240
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  mxnet-full-parent_2.10:
+    lastUpdated: 20160326090245
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-full_2.10-linux-x86_64-cpu:
+    lastUpdated: 20160326091832
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-full_2.10-linux-x86_64-gpu:
+    lastUpdated: 20160326090246
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-full_2.10-osx-x86_64-cpu:
+    lastUpdated: 20160326094005
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-full_2.11-linux-x86_64-cpu:
+    lastUpdated: 20170327161357
+    latest: 0.9.3a
+    release: 0.9.3a
+    versions:
+      - 0.9.3a
+  mxnet-full_2.11-linux-x86_64-gpu:
+    lastUpdated: 20170405070539
+    latest: 0.9.3a
+    release: 0.9.3a
+    versions:
+      - 0.9.3a
+  mxnet-full_2.11-osx-x86_64-cpu:
+    lastUpdated: 20170326104832
+    latest: 0.9.3a
+    release: 0.9.3a
+    versions:
+      - 0.9.3a
+  mxnet-parent_2.10:
+    lastUpdated: 20160326090248
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  mxnet-scala-native-parent:
+    lastUpdated: 20160326090248
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+

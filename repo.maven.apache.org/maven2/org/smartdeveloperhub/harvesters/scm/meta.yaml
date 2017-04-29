@@ -1,0 +1,52 @@
+artifacts:
+  scm-harvester-aggregator:
+    lastUpdated: 20160717161918
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scm-harvester-backend:
+    lastUpdated: 20160717161919
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  scm-harvester-container:
+    lastUpdated: 20160717161919
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  scm-harvester-container-jersey:
+    lastUpdated: 20151222071206
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  scm-harvester-container-ldp4j:
+    lastUpdated: 20160717161920
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  scm-harvester-dist:
+    lastUpdated: 20160717161920
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  scm-harvester-frontend:
+    lastUpdated: 20160717161921
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  scm-harvester-testing:
+    lastUpdated: 20160717161922
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+

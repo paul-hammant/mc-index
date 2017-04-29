@@ -1,0 +1,129 @@
+artifacts:
+  parent-pom:
+    lastUpdated: 20170324064231
+    latest: 2.0.0.RELEASE
+    release: 2.0.0.RELEASE
+    versions:
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+      - 0.0.7.RELEASE
+      - 2.0.0.RELEASE
+  spring-boot-vaadin:
+    lastUpdated: 20150317142134
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin:
+    lastUpdated: 20150317142134
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-eventbus:
+    lastUpdated: 20150317142136
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-i18n:
+    lastUpdated: 20150317142137
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-mvp:
+    lastUpdated: 20150317142138
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-portlet:
+    lastUpdated: 20150317142139
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.5.RELEASE
+  spring-vaadin-security:
+    lastUpdated: 20150317142140
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-sidebar:
+    lastUpdated: 20150317142141
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-simple-mvp:
+    lastUpdated: 20150317142141
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-stuff:
+    lastUpdated: 20150128120238
+    latest: 0.0.3.2
+    release: 0.0.3.2
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+  spring-vaadin-test:
+    lastUpdated: 20150317142142
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+  spring-vaadin-touchkit:
+    lastUpdated: 20150317142143
+    latest: 0.0.5.RELEASE
+    release: 0.0.5.RELEASE
+    versions:
+      - 0.0.2
+      - 0.0.2.1
+      - 0.0.3
+      - 0.0.3.1
+      - 0.0.3.2
+      - 0.0.4.RELEASE
+      - 0.0.5.RELEASE
+

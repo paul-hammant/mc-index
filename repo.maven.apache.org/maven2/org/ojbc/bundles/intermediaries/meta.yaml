@@ -1,0 +1,271 @@
+artifacts:
+  Entity_Resolution_Service_Intermediary:
+    lastUpdated: 20160112143622
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  Entity_Resolution_Service_Intermediary_OSGi:
+    lastUpdated: 20160112143622
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  arrest-reporting-service-intermediary:
+    lastUpdated: 20151214172542
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  behavior-health-evaluation-reporting-service-intermediary:
+    lastUpdated: 20160309051928
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  booking-reporting-service-intermediary:
+    lastUpdated: 20160224205440
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  case-filing-decision-reporting-service-intermediary:
+    lastUpdated: 20161209212614
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  charge-referral-reporting-service-intermediary:
+    lastUpdated: 20160308051909
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  court-case-query-service-intermediary:
+    lastUpdated: 20160305051915
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  court-case-search-service-intermediary:
+    lastUpdated: 20160305051915
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  criminal-history-update-reporting-service-intermediary:
+    lastUpdated: 20160523192258
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  custody-query-service-intermediary:
+    lastUpdated: 20160305051916
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  custody-release-reporting-service-intermediary:
+    lastUpdated: 20160622052315
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  custody-search-request-service-intermediary:
+    lastUpdated: 20160305051916
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  custody-status-change-reporting-service-intermediary:
+    lastUpdated: 20160622052315
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  disposition-reporting-service-intermediary:
+    lastUpdated: 20151214172543
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  firearm-purchase-prohibition-query-request-service-intermediary:
+    lastUpdated: 20161228223724
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  firearm-registration-query-request-service-intermediary:
+    lastUpdated: 20151214172543
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  firearm-search-request-service-intermediary:
+    lastUpdated: 20151214172543
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  identification-reporting-service-intermediary:
+    lastUpdated: 20151214172544
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  identification-results-modification-service-intermediary:
+    lastUpdated: 20161116203454
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  incident-report-request-service-intermediary:
+    lastUpdated: 20151214172544
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  incident-reporting-service-intermediary:
+    lastUpdated: 20151228194110
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  incident-reporting-service-intermediary-common:
+    lastUpdated: 20151214172545
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  incident-search-request-service-intermediary:
+    lastUpdated: 20151214172545
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  juvenile-history-service-intermediary:
+    lastUpdated: 20151214172546
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  ndex-submission-service-intermediary:
+    lastUpdated: 20161028192524
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  organization-identification-results-query-service-intermediary:
+    lastUpdated: 20160113214538
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  organization-identification-results-search-service-intermediary:
+    lastUpdated: 20160113214538
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  parole-event-handler-service-intermediary:
+    lastUpdated: 20151214172546
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  person-health-information-search-service-intermediary:
+    lastUpdated: 20160913192546
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  person-query-service-criminal-history-intermediary:
+    lastUpdated: 20151214172547
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  person-query-service-vehicle-crash-intermediary:
+    lastUpdated: 20160505195500
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  person-query-service-warrants-intermediary:
+    lastUpdated: 20151214172547
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  person-search-request-service-intermediary:
+    lastUpdated: 20160121052212
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+  policy-acknowledgement-service-intermediary:
+    lastUpdated: 20151214172548
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  pretrial-service-enrollment-intermediary:
+    lastUpdated: 20151214172548
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  probation-event-handler-service-intermediary:
+    lastUpdated: 20160913192548
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  subscription-notification-service-intermediary:
+    lastUpdated: 20160523192311
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+  subscription-notification-service-intermediary-common:
+    lastUpdated: 20170209043453
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+  vehicle-search-request-service-intermediary:
+    lastUpdated: 20151214172550
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  warrant-issued-reporting-intermediary-service:
+    lastUpdated: 20160308051922
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  warrant-modification-service-intermediary:
+    lastUpdated: 20160519192129
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

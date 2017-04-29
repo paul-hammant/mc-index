@@ -1,0 +1,132 @@
+artifacts:
+  hono-adapter-http-vertx-base:
+    lastUpdated: 20170407151220
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M5
+  hono-adapter-mqtt-vertx:
+    lastUpdated: 20170407151221
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-adapter-rest-vertx:
+    lastUpdated: 20170407151221
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-adapters:
+    lastUpdated: 20170407151221
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-app:
+    lastUpdated: 20170407151221
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-bom:
+    lastUpdated: 20170407151222
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-client:
+    lastUpdated: 20170407151222
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-config:
+    lastUpdated: 20170131161332
+    latest: 0.5-M3
+    release: 0.5-M3
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+  hono-core:
+    lastUpdated: 20170407151223
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-demo-certs:
+    lastUpdated: 20170407151223
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M4
+      - 0.5-M5
+  hono-example:
+    lastUpdated: 20170407151224
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-legal:
+    lastUpdated: 20170407151224
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-parent:
+    lastUpdated: 20170407151224
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+  hono-server:
+    lastUpdated: 20170407151224
+    latest: 0.5-M5
+    release: 0.5-M5
+    versions:
+      - 0.5-M1
+      - 0.5-M2
+      - 0.5-M3
+      - 0.5-M4
+      - 0.5-M5
+

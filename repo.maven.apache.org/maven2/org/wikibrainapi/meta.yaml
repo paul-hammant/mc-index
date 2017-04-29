@@ -1,0 +1,406 @@
+artifacts:
+  wdtk-datamodel:
+    lastUpdated: 20150202031817
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-distribution:
+    lastUpdated: 20150202031818
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-dumpfiles:
+    lastUpdated: 20150202031819
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-examples:
+    lastUpdated: 20150202031819
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-parent:
+    lastUpdated: 20150202031820
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-rdf:
+    lastUpdated: 20150202031820
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-storage:
+    lastUpdated: 20150202031821
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-testing:
+    lastUpdated: 20150202031821
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wdtk-util:
+    lastUpdated: 20150202031822
+    latest: 0.3.4.shilad
+    release: 0.3.4.shilad
+    versions:
+      - 0.3.3.shilad
+      - 0.3.4.shilad
+  wikibrain:
+    lastUpdated: 20160621151907
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-all:
+    lastUpdated: 20140826042141
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.0.0
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+  wikibrain-cookbook:
+    lastUpdated: 20160621151907
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-core:
+    lastUpdated: 20160621151907
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-download:
+    lastUpdated: 20160621151908
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-integration-tests:
+    lastUpdated: 20160621151908
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-loader:
+    lastUpdated: 20160621151908
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-lucene:
+    lastUpdated: 20160621151909
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-mapper:
+    lastUpdated: 20160621151909
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-matrix:
+    lastUpdated: 20160621151909
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-pageview:
+    lastUpdated: 20160621151910
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-parent:
+    lastUpdated: 20160621151910
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-parser:
+    lastUpdated: 20160621151910
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-phrases:
+    lastUpdated: 20160621151910
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-spatial:
+    lastUpdated: 20160621151911
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-sr:
+    lastUpdated: 20160621151911
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-utils:
+    lastUpdated: 20160621151911
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-webapi:
+    lastUpdated: 20160621151911
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+  wikibrain-wikidata:
+    lastUpdated: 20160621151912
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.0.1
+      - 0.1.0
+      - 0.3.0
+      - 0.3.1
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.6.0
+      - 0.7.0
+      - 0.7.3
+      - 0.7.4
+      - 0.8.0
+

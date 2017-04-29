@@ -1,0 +1,47 @@
+artifacts:
+  bjaction:
+    lastUpdated: 20160908013806
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  bjaction-compile:
+    lastUpdated: 20160909011207
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  bjnetwork:
+    lastUpdated: 20160801061052
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.4.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+  bjnetwork-ws:
+    lastUpdated: 20160801061144
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.4.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+  cache:
+    lastUpdated: 20160705014030
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  rx-bjnetwork:
+    lastUpdated: 20160801061254
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.4.1
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+

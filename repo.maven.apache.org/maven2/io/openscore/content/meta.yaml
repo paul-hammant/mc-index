@@ -1,0 +1,25 @@
+artifacts:
+  score-http-client:
+    lastUpdated: 20150305144354
+    latest: 0.1.57
+    release: 0.1.57
+    versions:
+      - 0.1.44
+      - 0.1.57
+  score-mail:
+    lastUpdated: 20150305150629
+    latest: 0.0.10
+    release: 0.0.10
+    versions:
+      - 0.0.6
+      - 0.0.10
+  score-ssh:
+    lastUpdated: 20150305151030
+    latest: 0.0.22
+    release: 0.0.22
+    versions:
+      - 0.0.11
+      - 0.0.13
+      - 0.0.20
+      - 0.0.22
+

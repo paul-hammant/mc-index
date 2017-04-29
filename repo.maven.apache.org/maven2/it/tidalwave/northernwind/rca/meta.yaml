@@ -1,0 +1,417 @@
+artifacts:
+  it-tidalwave-northernwind-model-core-stripped:
+    lastUpdated: 20161231193135
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-application-javafx:
+    lastUpdated: 20161231193136
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-embeddedserver:
+    lastUpdated: 20161231193136
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-model:
+    lastUpdated: 20161231193137
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-commons:
+    lastUpdated: 20161231193137
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-content-editor:
+    lastUpdated: 20161231193138
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-content-explorer:
+    lastUpdated: 20161231193138
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-content-manager:
+    lastUpdated: 20161231193139
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-javafx:
+    lastUpdated: 20161231193139
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-site-opener:
+    lastUpdated: 20161231193140
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-structure-editor:
+    lastUpdated: 20161231193140
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-northernwind-rca-ui-structure-explorer:
+    lastUpdated: 20161231193140
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  it-tidalwave-role-ui-javafx:
+    lastUpdated: 20140404000415
+    latest: 1.1-ALPHA-11
+    release: 1.1-ALPHA-11
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+  it-tidalwave-util-supplement:
+    lastUpdated: 20140404000416
+    latest: 1.1-ALPHA-11
+    release: 1.1-ALPHA-11
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+  northernwind-rca:
+    lastUpdated: 20161231193141
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  northernwind-rca-modules:
+    lastUpdated: 20161231193141
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  zephyr-javafx:
+    lastUpdated: 20161231193141
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  zephyr-macosx:
+    lastUpdated: 20161231193141
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-1
+      - 1.0-ALPHA-2
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+  zephyr-macosx-embedded-jre:
+    lastUpdated: 20161231193141
+    latest: 1.1-ALPHA-17
+    release: 1.1-ALPHA-17
+    versions:
+      - 1.0-ALPHA-11
+      - 1.0-ALPHA-12
+      - 1.1-ALPHA-1
+      - 1.1-ALPHA-2
+      - 1.1-ALPHA-3
+      - 1.1-ALPHA-5
+      - 1.1-ALPHA-6
+      - 1.1-ALPHA-7
+      - 1.1-ALPHA-8
+      - 1.1-ALPHA-9
+      - 1.1-ALPHA-10
+      - 1.1-ALPHA-11
+      - 1.1-ALPHA-12
+      - 1.1-ALPHA-13
+      - 1.1-ALPHA-14
+      - 1.1-ALPHA-15
+      - 1.1-ALPHA-16
+      - 1.1-ALPHA-17
+

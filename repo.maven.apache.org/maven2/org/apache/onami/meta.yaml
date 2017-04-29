@@ -1,0 +1,45 @@
+artifacts:
+  org.apache.onami.configuration:
+    lastUpdated: 20130611070758
+    latest: 6.3.0
+    release: 6.3.0
+    versions:
+      - 6.3.0
+  org.apache.onami.parent:
+    lastUpdated: 20140321113800
+    latest: 5
+    release: 5
+    versions:
+      - 1-incubating
+      - 2-incubating
+      - 3-incubating
+      - 4
+      - 5
+      - 4
+      - 5
+  org.apache.onami.persist:
+    lastUpdated: 20141024202257
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  org.apache.onami.scheduler:
+    lastUpdated: 20130602161920
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.4.0
+  org.apache.onami.test:
+    lastUpdated: 20130203205458
+    latest: 1.4.0-incubating
+    release: 1.4.0-incubating
+    versions:
+      - 1.4.0-incubating
+  org.apache.onami.validation:
+    lastUpdated: 20130606180529
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

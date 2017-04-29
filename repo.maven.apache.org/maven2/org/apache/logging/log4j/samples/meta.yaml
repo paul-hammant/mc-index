@@ -1,0 +1,39 @@
+artifacts:
+  flume-common:
+    lastUpdated: 20130423230516
+    latest: 2.0-beta5
+    release: 2.0-beta5
+    versions:
+      - 2.0-beta4
+      - 2.0-beta5
+  flume-embedded:
+    lastUpdated: 20130423230517
+    latest: 2.0-beta5
+    release: 2.0-beta5
+    versions:
+      - 2.0-beta4
+      - 2.0-beta5
+  flume-remote:
+    lastUpdated: 20130423230515
+    latest: 2.0-beta5
+    release: 2.0-beta5
+    versions:
+      - 2.0-beta4
+      - 2.0-beta5
+  log4j-samples:
+    lastUpdated: 20140804192447
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0-beta4
+      - 2.0-beta5
+      - 2.0-rc1
+      - 2.0.1
+  log4j-samples-flume-common:
+    lastUpdated: 20140804192447
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0-rc1
+      - 2.0.1
+

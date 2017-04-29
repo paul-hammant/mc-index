@@ -1,0 +1,239 @@
+artifacts:
+  action-zipper_2.10:
+    lastUpdated: 20150313151837
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  action-zipper_2.11:
+    lastUpdated: 20150313151838
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  holidays_2.10:
+    lastUpdated: 20161202181245
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 2.0
+      - 3.0
+      - 4.0
+      - 2.0
+      - 3.0
+      - 4.0
+  holidays_2.11:
+    lastUpdated: 20161202181246
+    latest: 4.0
+    release: 4.0
+    versions:
+      - 3.0
+      - 4.0
+      - 3.0
+      - 4.0
+  holidays_2.12:
+    lastUpdated: 20170123221142
+    latest: 5.1
+    release: 5.1
+    versions:
+      - 4.0
+      - 5.0
+      - 5.1
+      - 4.0
+      - 5.0
+      - 5.1
+  holidays_2.9.1:
+    lastUpdated: 20140524140015
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+  holidays_2.9.2:
+    lastUpdated: 20140524140016
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 2.0
+      - 3.0
+      - 2.0
+      - 3.0
+  holidays_2.9.3:
+    lastUpdated: 20140524140018
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  play2-auth-social_2.10:
+    lastUpdated: 20160312032141
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-auth-social_2.11:
+    lastUpdated: 20160312032142
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-auth-test_2.10:
+    lastUpdated: 20160312032143
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.13.4
+      - 0.13.5
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-auth-test_2.11:
+    lastUpdated: 20160312032143
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.13.4
+      - 0.13.5
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-auth_2.10:
+    lastUpdated: 20160312032144
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.11.0
+      - 0.11.1
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.13.4
+      - 0.13.5
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-auth_2.11:
+    lastUpdated: 20160312032144
+    latest: 0.14.2
+    release: 0.14.2
+    versions:
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.13.2
+      - 0.13.3
+      - 0.13.4
+      - 0.13.5
+      - 0.14.0
+      - 0.14.1
+      - 0.14.2
+  play2-pager-scalikejdbc_2.10:
+    lastUpdated: 20150204174827
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  play2-pager-scalikejdbc_2.11:
+    lastUpdated: 20150204174828
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  play2-pager_2.10:
+    lastUpdated: 20150204174829
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  play2-pager_2.11:
+    lastUpdated: 20150204174830
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  play2.auth.test_2.10:
+    lastUpdated: 20130809113851
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.10.1
+      - 0.8
+      - 0.9
+      - 0.1
+  play2.auth_2.10:
+    lastUpdated: 20130809113851
+    latest: 0.10.1
+    release: 0.10.1
+    versions:
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.10.1
+      - 0.8
+      - 0.9
+      - 0.1
+  play20.auth_2.9.1:
+    lastUpdated: 20121225205957
+    latest: 0.5
+    release: 0.5
+    versions:
+      - 0.5
+      - 0.5
+  play21.auth_2.10:
+    lastUpdated: 20130206164752
+    latest: 0.7
+    release: 0.7
+    versions:
+      - 0.6
+      - 0.7
+      - 0.6
+      - 0.7
+  stackable-controller_2.10:
+    lastUpdated: 20160308155105
+    latest: 0.5.1
+    release: 0.5.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.2.1
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.1
+      - 0.2
+  stackable-controller_2.11:
+    lastUpdated: 20160308160302
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+

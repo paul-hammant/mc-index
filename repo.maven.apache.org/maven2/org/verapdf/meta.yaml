@@ -1,0 +1,148 @@
+artifacts:
+  core:
+    lastUpdated: 20170420075820
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+  feature-reporting:
+    lastUpdated: 20170420075922
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.2
+      - 1.4.3
+  gui:
+    lastUpdated: 20170420075950
+    latest: 1.4.1-PDFBOX
+    release: 1.4.1-PDFBOX
+    versions:
+      - 1.4.1
+      - 1.4.1-PDFBOX
+  metadata-fixer:
+    lastUpdated: 20170420075923
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.2
+      - 1.4.3
+  org.verapdf:
+    lastUpdated: 20170420075256
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  org.verapdf.sdk:
+    lastUpdated: 20170420075256
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  org.verapdf.tests:
+    lastUpdated: 20170420075257
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  org.verapdf.ui:
+    lastUpdated: 20170420075258
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  org.verapdf.updatesite:
+    lastUpdated: 20170420075258
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  parent:
+    lastUpdated: 20170420075259
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  parser:
+    lastUpdated: 20170420075820
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+  pdf-model:
+    lastUpdated: 20170420075758
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.4.1
+      - 1.4.2
+  pdfbox-feature-reporting:
+    lastUpdated: 20170420075951
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.3
+  pdfbox-metadata-fixer:
+    lastUpdated: 20170420075951
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.3
+  pdfbox-validation-model:
+    lastUpdated: 20170420075952
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.3
+  validation:
+    lastUpdated: 20170420075924
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.2
+      - 1.4.3
+  validation-model:
+    lastUpdated: 20170420075925
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.2
+      - 1.4.3
+  verapdf-apps:
+    lastUpdated: 20170420075953
+    latest: 1.4.1-PDFBOX
+    release: 1.4.1-PDFBOX
+    versions:
+      - 1.4.1
+      - 1.4.1-PDFBOX
+  verapdf-library:
+    lastUpdated: 20170420075821
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.1
+  verapdf-parent:
+    lastUpdated: 20170420075650
+    latest: 1.4.1
+    release: 1.4.1
+    versions:
+      - 1.4.0
+      - 1.4.1
+  verapdf-pdfbox-validation:
+    lastUpdated: 20170420075953
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.3
+  verapdf-xmp:
+    lastUpdated: 20170420075732
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.12.1
+  verapdf-xmp-core:
+    lastUpdated: 20170420075733
+    latest: 0.12.1
+    release: 0.12.1
+    versions:
+      - 0.12.1
+

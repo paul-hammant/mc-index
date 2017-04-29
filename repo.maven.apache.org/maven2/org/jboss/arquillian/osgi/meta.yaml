@@ -1,0 +1,161 @@
+artifacts:
+  arquillian-osgi:
+    lastUpdated: 20161018070044
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR1
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-osgi-bundle:
+    lastUpdated: 20161018070045
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.Final
+      - 1.0.3.CR1
+      - 1.0.3.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.CR1
+      - 2.0.0.CR2
+      - 2.0.0.CR3
+      - 2.0.0.CR4
+      - 2.0.0.Final
+      - 2.1.0.CR1
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-osgi-common:
+    lastUpdated: 20131017214455
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-container:
+    lastUpdated: 20131017214456
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.0.0.CR4
+      - 2.0.0.Final
+      - 2.1.0.CR1
+  arquillian-osgi-felix:
+    lastUpdated: 20131017214456
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-felix-embedded:
+    lastUpdated: 20131017214456
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-jbosgi:
+    lastUpdated: 20131017214457
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-jbosgi-embedded:
+    lastUpdated: 20131017214457
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-karaf:
+    lastUpdated: 20131017214457
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-karaf-embedded:
+    lastUpdated: 20131017214457
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-parent:
+    lastUpdated: 20131001213948
+    latest: 2.0.0.Final
+    release: 2.0.0.Final
+    versions:
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.Final
+      - 1.0.3.CR1
+      - 1.0.3.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.CR1
+      - 2.0.0.CR2
+      - 2.0.0.CR3
+      - 2.0.0.CR4
+      - 2.0.0.Final
+  arquillian-osgi-protocol:
+    lastUpdated: 20131017214458
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+  arquillian-osgi-testenricher:
+    lastUpdated: 20131017214458
+    latest: 2.1.0.CR1
+    release: 2.1.0.CR1
+    versions:
+      - 2.1.0.CR1
+

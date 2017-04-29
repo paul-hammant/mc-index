@@ -1,0 +1,209 @@
+artifacts:
+  cache-core:
+    lastUpdated: 20170222225742
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cache-ehcache:
+    lastUpdated: 20170222225743
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cache-parent:
+    lastUpdated: 20170222225743
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  cache-redis:
+    lastUpdated: 20170222225744
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  configuration-core:
+    lastUpdated: 20170222183006
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  configuration-etcd:
+    lastUpdated: 20170222183006
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  configuration-parent:
+    lastUpdated: 20170222183006
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  crypto:
+    lastUpdated: 20150907195732
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  events-core:
+    lastUpdated: 20151101201926
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  events-parent:
+    lastUpdated: 20151101201927
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  events-rabbitmq:
+    lastUpdated: 20151101201927
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  graph:
+    lastUpdated: 20150907190422
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  hibernate-utils:
+    lastUpdated: 20151101201041
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  http-dclient:
+    lastUpdated: 20151024220004
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  jetcd:
+    lastUpdated: 20170222181258
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  security-framework:
+    lastUpdated: 20170222222840
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  service-bootstrap:
+    lastUpdated: 20170222232808
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  service-bootstrap-parent:
+    lastUpdated: 20170222232808
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  service-discovery:
+    lastUpdated: 20151024220005
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  service-discovery-parent:
+    lastUpdated: 20151024220005
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  service-framework-core:
+    lastUpdated: 20170222202734
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.0
+      - 1.1
+  service-framework-parent:
+    lastUpdated: 20170222202735
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.0
+      - 1.1
+  service-framework-test:
+    lastUpdated: 20170222202735
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.1
+      - 1.1
+      - 1.1
+  service-framework-yaml:
+    lastUpdated: 20170222202735
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.0
+      - 1.1
+  service-identity:
+    lastUpdated: 20170222232809
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+

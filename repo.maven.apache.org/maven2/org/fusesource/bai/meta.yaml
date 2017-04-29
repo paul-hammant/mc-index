@@ -1,0 +1,44 @@
+artifacts:
+  bai:
+    lastUpdated: 20130410162838
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+  bai-agent:
+    lastUpdated: 20130410162842
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+  bai-core:
+    lastUpdated: 20130410162838
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+  bai-mongodb-backend:
+    lastUpdated: 20130410162839
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+  sample-camel-blueprint:
+    lastUpdated: 20130410162837
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+  sample-spring-bai:
+    lastUpdated: 20130410162839
+    latest: 7.2.0.redhat-024
+    release: 7.2.0.redhat-024
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+

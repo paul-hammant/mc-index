@@ -1,0 +1,390 @@
+artifacts:
+  commons:
+    lastUpdated: 20140618132900
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.4.2
+  core-export:
+    lastUpdated: 20150130154359
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  core-jdbc:
+    lastUpdated: 20150130154407
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  core-map:
+    lastUpdated: 20150130154424
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  cts:
+    lastUpdated: 20160525115738
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.4.0
+  h2-dist:
+    lastUpdated: 20150901083719
+    latest: 1.2.3
+    release: 1.2.3
+    versions:
+      - 1.1.0
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+  h2drivers:
+    lastUpdated: 20160525074226
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2gis:
+    lastUpdated: 20170403122359
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+      - 1.3.0
+      - 1.3.1
+  h2gis-api:
+    lastUpdated: 20170403122359
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-dist:
+    lastUpdated: 20170403122359
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.1
+  h2gis-ext:
+    lastUpdated: 20170403122400
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-ext-osgi:
+    lastUpdated: 20170403122400
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-functions:
+    lastUpdated: 20170403122401
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-functions-osgi:
+    lastUpdated: 20170403122401
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-network:
+    lastUpdated: 20170403122401
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-test-utilities:
+    lastUpdated: 20170403122402
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2gis-utilities:
+    lastUpdated: 20170403122402
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.3.0
+      - 1.3.1
+  h2network:
+    lastUpdated: 20160525074227
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2spatial:
+    lastUpdated: 20160525074228
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2spatial-api:
+    lastUpdated: 20160525074228
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2spatial-ext:
+    lastUpdated: 20160525074229
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2spatial-ext-osgi:
+    lastUpdated: 20160525074230
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2spatial-osgi:
+    lastUpdated: 20160525074230
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  h2trigger:
+    lastUpdated: 20150130154434
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  h2trigger-osgi:
+    lastUpdated: 20150130154449
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  java-network-analyzer:
+    lastUpdated: 20140417123021
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.6
+  jdelaunay:
+    lastUpdated: 20140925110736
+    latest: 0.5.3
+    release: 0.5.3
+    versions:
+      - 0.5.2
+      - 0.5.3
+  legend:
+    lastUpdated: 20150130154456
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  map-editor-api:
+    lastUpdated: 20150130154509
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  mapeditor:
+    lastUpdated: 20150130154520
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  ogc-custom:
+    lastUpdated: 20140618143545
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+  orbisgis:
+    lastUpdated: 20150130154541
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-core:
+    lastUpdated: 20150130154546
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-core-api:
+    lastUpdated: 20150130154606
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-dist:
+    lastUpdated: 20150130154609
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-nexus:
+    lastUpdated: 20160524123229
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+  orbisgis-omanager:
+    lastUpdated: 20150130154614
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-omanager-plugin:
+    lastUpdated: 20150130154626
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-oshell:
+    lastUpdated: 20150130154655
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-sif:
+    lastUpdated: 20150130154703
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-view:
+    lastUpdated: 20150130154713
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  orbisgis-view-api:
+    lastUpdated: 20150130154717
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  poly2tri:
+    lastUpdated: 20150427092503
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  poly2tri-core:
+    lastUpdated: 20150427092504
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  postgis-jts-osgi:
+    lastUpdated: 20150130154725
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  spatial-utilities:
+    lastUpdated: 20160525074231
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  sql-parser-api:
+    lastUpdated: 20150130154727
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  sqlconsole-parser:
+    lastUpdated: 20150130154732
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  test-utilities:
+    lastUpdated: 20160525074231
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  toc:
+    lastUpdated: 20150130154740
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+  wms-client:
+    lastUpdated: 20150130154754
+    latest: 5.0.1
+    release: 5.0.1
+    versions:
+      - 5.0.1
+

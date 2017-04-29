@@ -1,0 +1,79 @@
+artifacts:
+  hyperstate:
+    lastUpdated: 20160701072548
+    latest: 9
+    release: 9
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  hyperstate-cert:
+    lastUpdated: 20160901053121
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+  hyperstate-client:
+    lastUpdated: 20160901053122
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+  hyperstate-client-webdriver:
+    lastUpdated: 20160901053122
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+  hyperstate-core:
+    lastUpdated: 20160901053122
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+  hyperstate-repository-memory:
+    lastUpdated: 20160901053123
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+  hyperstate-server:
+    lastUpdated: 20160901053123
+    latest: 10
+    release: 10
+    versions:
+      - 1
+      - 10
+      - 1
+      - 10
+

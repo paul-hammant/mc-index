@@ -1,0 +1,557 @@
+artifacts:
+  exemplos-form:
+    lastUpdated: 20170125201447
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-alocpro-mock-client:
+    lastUpdated: 20170125201448
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-core:
+    lastUpdated: 20170125201448
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-persistence:
+    lastUpdated: 20170125201449
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-rest-client:
+    lastUpdated: 20170125201449
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-schedule:
+    lastUpdated: 20170125201450
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  flow-test:
+    lastUpdated: 20170125201450
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  form-core:
+    lastUpdated: 20170125201451
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  form-service:
+    lastUpdated: 20170125201451
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  form-ui-showcase:
+    lastUpdated: 20170125201453
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  form-wicket:
+    lastUpdated: 20170125201453
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  p-server-commons:
+    lastUpdated: 20170125203518
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  p-server-core:
+    lastUpdated: 20170125203518
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  p-server-libs:
+    lastUpdated: 20170125203519
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  p-server-module:
+    lastUpdated: 20170125203519
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  server-commons:
+    lastUpdated: 20170125203519
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  server-core:
+    lastUpdated: 20170125203519
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  server-libs:
+    lastUpdated: 20170125203520
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  server-module:
+    lastUpdated: 20170125203520
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  singular:
+    lastUpdated: 20170403202111
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-commons:
+    lastUpdated: 20170403202111
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow:
+    lastUpdated: 20170403202111
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-alocpro-mock-client:
+    lastUpdated: 20170403202111
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-core:
+    lastUpdated: 20170403202111
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-persistence:
+    lastUpdated: 20170403202112
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-rest-client:
+    lastUpdated: 20170403202112
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-schedule:
+    lastUpdated: 20170403202112
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-flow-test:
+    lastUpdated: 20170403202113
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-form:
+    lastUpdated: 20170403202113
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-form-core:
+    lastUpdated: 20170403202113
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-form-samples:
+    lastUpdated: 20170403202114
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-form-service:
+    lastUpdated: 20170403202114
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-form-wicket:
+    lastUpdated: 20170403202115
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-lib:
+    lastUpdated: 20170403202115
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-p-server-commons:
+    lastUpdated: 20170403202714
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-p-server-core:
+    lastUpdated: 20170403202714
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-p-server-libs:
+    lastUpdated: 20170403202715
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-p-server-module:
+    lastUpdated: 20170403202715
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-resources:
+    lastUpdated: 20170403202115
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-server:
+    lastUpdated: 20170403202715
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-server-commons:
+    lastUpdated: 20170403202715
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-server-core:
+    lastUpdated: 20170403202716
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-server-libs:
+    lastUpdated: 20170403202716
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-server-module:
+    lastUpdated: 20170403202716
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-sso:
+    lastUpdated: 20170403202717
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-sso-desenv-analysis:
+    lastUpdated: 20170403202717
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-sso-desenv-petition:
+    lastUpdated: 20170403202718
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-support:
+    lastUpdated: 20170403202115
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-ui-resources:
+    lastUpdated: 20170403202116
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-ui-showcase:
+    lastUpdated: 20170403202116
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-wicket-utils:
+    lastUpdated: 20170403202117
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-wkhtmltopdf-client:
+    lastUpdated: 20170403202117
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-wkhtmltopdf-ws:
+    lastUpdated: 20170403202118
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  singular-ws:
+    lastUpdated: 20170403202118
+    latest: 1.5.15
+    release: 1.5.15
+    versions:
+      - 1.5.7
+      - 1.5.8
+      - 1.5.11
+      - 1.5.15
+  sso:
+    lastUpdated: 20170125203520
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  sso-desenv-analise:
+    lastUpdated: 20170125203521
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  sso-desenv-peticionamento:
+    lastUpdated: 20170125203521
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  ui-static-resources:
+    lastUpdated: 20170125201455
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  wicket-utils:
+    lastUpdated: 20170125201457
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  wkhtmltopdf-client:
+    lastUpdated: 20170125201457
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  wkhtmltopdf-ws:
+    lastUpdated: 20170125201457
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+  ws:
+    lastUpdated: 20170125201458
+    latest: 1.5.6
+    release: 1.5.6
+    versions:
+      - 1.5.4
+      - 1.5.5
+      - 1.5.6
+

@@ -1,0 +1,632 @@
+artifacts:
+  breeze-config_2.10:
+    lastUpdated: 20170309201030
+    latest: 0.9.2
+    release: 0.9.2
+    versions:
+      - 0.8
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+  breeze-config_2.11:
+    lastUpdated: 20170309201030
+    latest: 0.9.2
+    release: 0.9.2
+    versions:
+      - 0.8
+      - 0.9
+      - 0.9.1
+      - 0.9.2
+  breeze-config_2.12:
+    lastUpdated: 20170309201031
+    latest: 0.9.2
+    release: 0.9.2
+    versions:
+      - 0.9.2
+  breeze-core_2.10:
+    lastUpdated: 20130802052111
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+      - 0.4
+  breeze-core_2.9.2:
+    lastUpdated: 20130325044835
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  breeze-graphs_2.10:
+    lastUpdated: 20130413174506
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.2.2
+      - 0.2.3
+  breeze-graphs_2.9.2:
+    lastUpdated: 20120904002222
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  breeze-learn_2.10:
+    lastUpdated: 20130531022907
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+  breeze-learn_2.9.2:
+    lastUpdated: 20130325044837
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  breeze-macros_2.10:
+    lastUpdated: 20170109041708
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.3.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13
+  breeze-macros_2.11:
+    lastUpdated: 20170109041709
+    latest: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    release: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    versions:
+      - 0.3.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13-RC1
+      - 0.13
+      - 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+  breeze-macros_2.12:
+    lastUpdated: 20170109041709
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+  breeze-math_2.10:
+    lastUpdated: 20130802052112
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+      - 0.4
+  breeze-math_2.9.2:
+    lastUpdated: 20130325044841
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  breeze-natives_2.10:
+    lastUpdated: 20170109041710
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.7
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13
+  breeze-natives_2.11:
+    lastUpdated: 20170109041710
+    latest: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    release: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    versions:
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13-RC1
+      - 0.13
+      - 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+  breeze-natives_2.12:
+    lastUpdated: 20170109041711
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+  breeze-parent_2.10:
+    lastUpdated: 20170109041712
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13
+  breeze-parent_2.11:
+    lastUpdated: 20170109041712
+    latest: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    release: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    versions:
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13-RC1
+      - 0.13
+      - 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+  breeze-parent_2.12:
+    lastUpdated: 20170109041712
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+  breeze-process_2.10:
+    lastUpdated: 20130531022907
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+  breeze-process_2.9.2:
+    lastUpdated: 20130325044843
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  breeze-viz_2.10:
+    lastUpdated: 20170109041713
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13
+  breeze-viz_2.11:
+    lastUpdated: 20170109041713
+    latest: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    release: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    versions:
+      - 0.8
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13-RC1
+      - 0.13
+      - 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+  breeze-viz_2.12:
+    lastUpdated: 20170109041714
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+  breeze-viz_2.9.2:
+    lastUpdated: 20130325044847
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  breeze_2.10:
+    lastUpdated: 20170109041714
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3
+      - 0.4
+      - 0.5
+      - 0.5.1
+      - 0.5.2
+      - 0.6
+      - 0.6.1
+      - 0.7
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13
+  breeze_2.11:
+    lastUpdated: 20170109041715
+    latest: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    release: 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+    versions:
+      - 0.8
+      - 0.8.1
+      - 0.9
+      - 0.1
+      - 0.11-M0
+      - 0.11
+      - 0.11.1
+      - 0.11.2
+      - 0.12
+      - 0.13-RC1
+      - 0.13
+      - 0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+  breeze_2.12:
+    lastUpdated: 20170109041716
+    latest: 0.13
+    release: 0.13
+    versions:
+      - 0.13
+  breeze_2.9.2:
+    lastUpdated: 20130325044851
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  chalk:
+    lastUpdated: 20131103053227
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.1.1
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+  chalk_2.10:
+    lastUpdated: 20140529044244
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.1
+      - 1.3.2
+  english_2.10:
+    lastUpdated: 20150220025451
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 2015.1.25
+      - 2015.2.19
+  english_2.11:
+    lastUpdated: 20150220025452
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 2015.1.25
+      - 2015.2.19
+  epic-all-models_2.10:
+    lastUpdated: 20140529060653
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-ner-en-conll_2.10:
+    lastUpdated: 20150220025452
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 0.1
+      - 2014.10.26
+      - 2015.1.25
+      - 2015.2.19
+  epic-ner-en-conll_2.11:
+    lastUpdated: 20150220025453
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 2014.10.26
+      - 2015.1.25
+      - 2015.2.19
+  epic-parser-de-span_2.10:
+    lastUpdated: 20140529060655
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-parser-en-span_2.10:
+    lastUpdated: 20150220025454
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 0.1
+      - 2014.9.15
+      - 2015.1.25
+      - 2015.2.19
+  epic-parser-en-span_2.11:
+    lastUpdated: 20160829232410
+    latest: 2016.8.29
+    release: 2016.8.29
+    versions:
+      - 2014.9.15
+      - 2015.1.25
+      - 2015.2.19
+      - 2016.8.29
+  epic-parser-eu-span_2.10:
+    lastUpdated: 20140529060658
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-parser-fr-span_2.10:
+    lastUpdated: 20141110064341
+    latest: 2014.11.09
+    release: 2014.11.09
+    versions:
+      - 0.1
+      - 2014.11.09
+  epic-parser-fr-span_2.11:
+    lastUpdated: 20141110064342
+    latest: 2014.11.09
+    release: 2014.11.09
+    versions:
+      - 2014.11.09
+  epic-parser-hu-span_2.10:
+    lastUpdated: 20140529060702
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-parser-ko-span_2.10:
+    lastUpdated: 20140529060703
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-parser-pl-span_2.10:
+    lastUpdated: 20140529060705
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-parser-sv-span_2.10:
+    lastUpdated: 20140529060706
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-de_2.10:
+    lastUpdated: 20140529060708
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-en_2.10:
+    lastUpdated: 20150220025459
+    latest: 2015.2.19
+    release: 2015.2.19
+    versions:
+      - 0.1
+      - 2015.1.25
+      - 2015.2.19
+  epic-pos-en_2.11:
+    lastUpdated: 20170310090334
+    latest: 2017.3.10
+    release: 2017.3.10
+    versions:
+      - 2015.1.25
+      - 2015.2.19
+      - 2016.8.29
+      - 2017.3.10
+  epic-pos-en_2.12:
+    lastUpdated: 20170310090335
+    latest: 2017.3.10
+    release: 2017.3.10
+    versions:
+      - 2017.3.10
+  epic-pos-eu_2.10:
+    lastUpdated: 20140529060712
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-fr_2.10:
+    lastUpdated: 20140529060713
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-hu_2.10:
+    lastUpdated: 20140529060714
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-pl_2.10:
+    lastUpdated: 20140529060717
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic-pos-sv_2.10:
+    lastUpdated: 20140529060717
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  epic_2.10:
+    lastUpdated: 20150220025503
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.3.1
+  epic_2.11:
+    lastUpdated: 20170310090311
+    latest: 0.4-4f38c5718c8fb78d928b57c9fae3649fb0e2f08f
+    release: 0.4-4f38c5718c8fb78d928b57c9fae3649fb0e2f08f
+    versions:
+      - 0.2
+      - 0.3
+      - 0.3.1
+      - 0.4
+      - 0.4.1
+      - 0.4.2
+      - 0.4-4f38c5718c8fb78d928b57c9fae3649fb0e2f08f
+  epic_2.12:
+    lastUpdated: 20170310090312
+    latest: 0.4.2
+    release: 0.4.2
+    versions:
+      - 0.4.2
+  gust_2.10:
+    lastUpdated: 20150122200115
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  gust_2.11:
+    lastUpdated: 20150122200116
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  jblas:
+    lastUpdated: 20120831173031
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.2.1
+  jcublas:
+    lastUpdated: 20140227063724
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcublas2:
+    lastUpdated: 20140227063725
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcuda:
+    lastUpdated: 20140227063725
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcuda-parent:
+    lastUpdated: 20140227063726
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcufft:
+    lastUpdated: 20140227063726
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcurand:
+    lastUpdated: 20140227063726
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcusparse:
+    lastUpdated: 20140227063726
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  jcusparse2:
+    lastUpdated: 20140227063727
+    latest: 0.5.5
+    release: 0.5.5
+    versions:
+      - 0.5.5
+  junto:
+    lastUpdated: 20130524055405
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.5
+      - 1.6.0
+  nak:
+    lastUpdated: 20140326161845
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.2.0
+      - 1.2.1
+  nak_2.10:
+    lastUpdated: 20140914062656
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2.1
+      - 1.3
+  nak_2.11:
+    lastUpdated: 20140914062656
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+

@@ -1,0 +1,64 @@
+artifacts:
+  data-exporter:
+    lastUpdated: 20131030163647
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.4
+  force-apex:
+    lastUpdated: 20140609214729
+    latest: 30.0.0
+    release: 30.0.0
+    versions:
+      - 29.0.0
+      - 30.0.0
+  force-apijars:
+    lastUpdated: 20140609214729
+    latest: 30.0.0
+    release: 30.0.0
+    versions:
+      - 29.0.0
+      - 30.0.0
+  force-metadata:
+    lastUpdated: 20140609214729
+    latest: 30.0.0
+    release: 30.0.0
+    versions:
+      - 29.0.0
+      - 30.0.0
+  force-partner:
+    lastUpdated: 20140609214730
+    latest: 30.0.0
+    release: 30.0.0
+    versions:
+      - 29.0.0
+      - 30.0.0
+  force-tooling:
+    lastUpdated: 20140609214731
+    latest: 30.0.0
+    release: 30.0.0
+    versions:
+      - 29.0.0
+      - 30.0.0
+  google-analytics-java:
+    lastUpdated: 20150429230153
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  migbase64:
+    lastUpdated: 20140423163517
+    latest: 2.2
+    release: 2.2
+    versions:
+      - 2.2
+      - 2.2
+

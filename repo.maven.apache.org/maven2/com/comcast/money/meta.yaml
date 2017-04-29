@@ -1,0 +1,218 @@
+artifacts:
+  money-api_2.10:
+    lastUpdated: 20170111003512
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-api_2.11:
+    lastUpdated: 20170111003513
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-aspectj_2.10:
+    lastUpdated: 20170111003513
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-aspectj_2.11:
+    lastUpdated: 20170111003514
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-aws-java-sdk_2.10:
+    lastUpdated: 20160527150944
+    latest: 0.8.14
+    release: 0.8.14
+    versions:
+      - 0.8.14
+  money-aws-java-sdk_2.11:
+    lastUpdated: 20160527150944
+    latest: 0.8.14
+    release: 0.8.14
+    versions:
+      - 0.8.14
+  money-core-scala_2.10:
+    lastUpdated: 20160516190310
+    latest: 0.9.0-RC1
+    release: 0.9.0-RC1
+    versions:
+      - 0.9.0-RC1
+  money-core-scala_2.11:
+    lastUpdated: 20160516190312
+    latest: 0.9.0-RC1
+    release: 0.9.0-RC1
+    versions:
+      - 0.9.0-RC1
+  money-core_2.10:
+    lastUpdated: 20170111003514
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC2
+  money-core_2.11:
+    lastUpdated: 20170111003514
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC2
+  money-http-client_2.10:
+    lastUpdated: 20170111003515
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-http-client_2.11:
+    lastUpdated: 20170111003515
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-java-servlet_2.10:
+    lastUpdated: 20170111003516
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-java-servlet_2.11:
+    lastUpdated: 20170111003516
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-kafka_2.10:
+    lastUpdated: 20170111003517
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-kafka_2.11:
+    lastUpdated: 20170111003517
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-spring3_2.10:
+    lastUpdated: 20170111003518
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-spring3_2.11:
+    lastUpdated: 20170111003519
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-spring_2.10:
+    lastUpdated: 20170111003520
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-spring_2.11:
+    lastUpdated: 20170111003520
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-wire_2.10:
+    lastUpdated: 20170111003521
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money-wire_2.11:
+    lastUpdated: 20170111003522
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money_2.10:
+    lastUpdated: 20170111003522
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  money_2.11:
+    lastUpdated: 20170111003523
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.8.12
+      - 0.8.13
+      - 0.8.14
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+

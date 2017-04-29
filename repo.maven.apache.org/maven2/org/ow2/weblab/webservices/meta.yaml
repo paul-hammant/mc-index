@@ -1,0 +1,153 @@
+artifacts:
+  blank-lines-remover:
+    lastUpdated: 20120710220614
+    latest: {}
+    release: 1.3.1
+    versions:
+      - 1.3.1-RC1
+      - 1.3.1
+  boilerpipe-html-purification-service:
+    lastUpdated: 20120627084352
+    latest: {}
+    release: 1.4-RC1
+    versions:
+      - 1.4-RC1
+  file-repository:
+    lastUpdated: 20120710221110
+    latest: {}
+    release: 1.7.2
+    versions:
+      - 1.7-RC1
+      - 1.7.1
+      - 1.7.2
+  folder-crawler-service:
+    lastUpdated: 20120410220912
+    latest: {}
+    release: 1.5.3
+    versions:
+      - 1.5.3-RC1
+      - 1.5.3
+  folder-listener:
+    lastUpdated: 20120711221344
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  folder-resource-iterator:
+    lastUpdated: 20120307230253
+    latest: {}
+    release: 1.0
+    versions:
+      - 1.0-RC1
+      - 1.0
+  gate-extraction:
+    lastUpdated: 20120713151606
+    latest: {}
+    release: 2.2.2
+    versions:
+      - 2.2-RC1
+      - 2.2
+      - 2.2.1
+      - 2.2.2
+  local-file-exposer:
+    lastUpdated: 20120710221708
+    latest: {}
+    release: 2.0
+    versions:
+      - 2.0
+  moses-translation:
+    lastUpdated: 20111012151934
+    latest: {}
+    release: 1.0-RC1
+    versions:
+      - 1.0-RC1
+  ngramj-language-extraction:
+    lastUpdated: 20120710221819
+    latest: {}
+    release: 1.2.2
+    versions:
+      - 1.2.1
+      - 1.2.2
+  open-search-connector:
+    lastUpdated: 20120711134741
+    latest: {}
+    release: {}
+    versions:
+      - 1.0.0
+  parent:
+    lastUpdated: 20120710220541
+    latest: {}
+    release: 1.2.2
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.2.2-SNAPSHOT
+      - 1.2.2
+  rss-splitter:
+    lastUpdated: 20120626142144
+    latest: {}
+    release: 1.0-RC1
+    versions:
+      - 1.0-RC1
+  simple-file-repository:
+    lastUpdated: 20120711222030
+    latest: {}
+    release: 1.2
+    versions:
+      - 1.2
+  simple-gazetteer:
+    lastUpdated: 20120713134835
+    latest: {}
+    release: 1.2.1
+    versions:
+      - 1.2
+      - 1.2.1
+  solr-duplicates-detector:
+    lastUpdated: 20120626153140
+    latest: {}
+    release: 3.0-RC1
+    versions:
+      - 3.0-RC1
+  solr-engine:
+    lastUpdated: 20120722222024
+    latest: {}
+    release: 2.1.3
+    versions:
+      - 2.1.0-SNAPSHOT
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.0.1-RC1
+      - 2.1.2
+      - 2.1.3
+  solr-engine-embedded:
+    lastUpdated: 20120725220405
+    latest: {}
+    release: 2.0.2
+    versions:
+      - 2.0.1
+      - 2.0.2
+  sphinx-transcription:
+    lastUpdated: 20111012152309
+    latest: {}
+    release: 1.0-RC1
+    versions:
+      - 1.0-RC1
+  tika-normaliser:
+    lastUpdated: 20120710222442
+    latest: {}
+    release: 1.8.2
+    versions:
+      - 1.7.2-RC1
+      - 1.8-RC1
+      - 1.8
+      - 1.8.1
+      - 1.8.2
+  xml-normaliser:
+    lastUpdated: 20120626144306
+    latest: {}
+    release: 1.1
+    versions:
+      - 1.1
+

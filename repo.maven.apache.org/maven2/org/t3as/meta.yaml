@@ -1,0 +1,79 @@
+artifacts:
+  metamap-tagger:
+    lastUpdated: 20140822064907
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.2.0
+      - 1.3.3
+      - 1.3.4
+  metamap-xml:
+    lastUpdated: 20140602052544
+    latest: 1.1.3
+    release: 1.1.3
+    versions:
+      - 1.1.3
+  nicta-ner:
+    lastUpdated: 20140826041430
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2
+      - 1.0.0
+  nicta-ner-client:
+    lastUpdated: 20140826041432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2
+      - 1.0.0
+  nicta-ner-common:
+    lastUpdated: 20140826041432
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2
+      - 1.0.0
+  snomed-coder-client:
+    lastUpdated: 20140822064908
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.3
+      - 1.3.4
+  snomed-coder-common:
+    lastUpdated: 20140822064908
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.2.0
+      - 1.3.3
+      - 1.3.4
+  snomedct-lookup:
+    lastUpdated: 20140822064909
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.2.0
+      - 1.3.3
+      - 1.3.4
+  t3as-nicta-ner:
+    lastUpdated: 20140826041433
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2
+      - 1.0.0
+  t3as-snomedct-service:
+    lastUpdated: 20140822064909
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.1.3
+      - 1.2.0
+      - 1.3.3
+      - 1.3.4
+

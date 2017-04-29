@@ -1,0 +1,14 @@
+artifacts:
+  avro:
+    lastUpdated: 20110105213850
+    latest: 1.4.0-cassandra-1
+    release: 1.4.0-cassandra-1
+    versions:
+      - 1.4.0-cassandra-1
+  libthrift:
+    lastUpdated: 20110105213857
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+

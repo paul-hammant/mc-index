@@ -1,0 +1,249 @@
+artifacts:
+  fs2-cats_2.11:
+    lastUpdated: 20170116142623
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0-M1
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  fs2-cats_2.12:
+    lastUpdated: 20170116142623
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  fs2-cats_sjs0.6_2.11:
+    lastUpdated: 20170116142624
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  fs2-cats_sjs0.6_2.12:
+    lastUpdated: 20170116142625
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  fs2-core_2.11:
+    lastUpdated: 20170403194559
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0-M1
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+      - 0.9.0-M5
+      - 0.9.0-M6
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-core_2.12:
+    lastUpdated: 20170403194601
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-core_2.12.0-M4:
+    lastUpdated: 20160628014502
+    latest: 0.9.0-M4
+    release: 0.9.0-M4
+    versions:
+      - 0.9.0-M1
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+  fs2-core_2.12.0-M5:
+    lastUpdated: 20160823031802
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.9.0-M5
+      - 0.9.0-M6
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  fs2-core_2.12.0-RC1:
+    lastUpdated: 20160916040137
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fs2-core_2.12.0-RC2:
+    lastUpdated: 20161020013853
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  fs2-core_sjs0.6_2.11:
+    lastUpdated: 20170403194602
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-core_sjs0.6_2.12:
+    lastUpdated: 20170403194603
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-core_sjs0.6_2.12.0-M5:
+    lastUpdated: 20160823031803
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  fs2-core_sjs0.6_2.12.0-RC1:
+    lastUpdated: 20160916040142
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fs2-core_sjs0.6_2.12.0-RC2:
+    lastUpdated: 20161020013854
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  fs2-io_2.11:
+    lastUpdated: 20170403194605
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.0-M1
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+      - 0.9.0-M5
+      - 0.9.0-M6
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+      - 0.9.0
+      - 0.9.1
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-io_2.12:
+    lastUpdated: 20170403194605
+    latest: 0.9.5
+    release: 0.9.5
+    versions:
+      - 0.9.2
+      - 0.9.3
+      - 0.9.4
+      - 0.9.5-RC1
+      - 0.9.5
+  fs2-io_2.12.0-M4:
+    lastUpdated: 20160628014503
+    latest: 0.9.0-M4
+    release: 0.9.0-M4
+    versions:
+      - 0.9.0-M1
+      - 0.9.0-M2
+      - 0.9.0-M3
+      - 0.9.0-M4
+  fs2-io_2.12.0-M5:
+    lastUpdated: 20160823031804
+    latest: 0.9.0-RC2
+    release: 0.9.0-RC2
+    versions:
+      - 0.9.0-M5
+      - 0.9.0-M6
+      - 0.9.0-RC1
+      - 0.9.0-RC2
+  fs2-io_2.12.0-RC1:
+    lastUpdated: 20160916040147
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.0
+      - 0.9.1
+  fs2-io_2.12.0-RC2:
+    lastUpdated: 20161020013855
+    latest: 0.9.1
+    release: 0.9.1
+    versions:
+      - 0.9.1
+  fs2-scalaz_2.11:
+    lastUpdated: 20161103003824
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+      - 0.1.0
+      - 0.2.0
+  fs2-scalaz_2.12:
+    lastUpdated: 20161103003825
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  fs2-scalaz_2.12.0-M4:
+    lastUpdated: 20160628014707
+    latest: 0.1.0-M4
+    release: 0.1.0-M4
+    versions:
+      - 0.1.0-M2
+      - 0.1.0-M3
+      - 0.1.0-M4
+  fs2-scalaz_2.12.0-M5:
+    lastUpdated: 20160823032313
+    latest: 0.1.0-RC2
+    release: 0.1.0-RC2
+    versions:
+      - 0.1.0-M5
+      - 0.1.0-M6
+      - 0.1.0-RC1
+      - 0.1.0-RC2
+  fs2-scalaz_2.12.0-RC1:
+    lastUpdated: 20160912202928
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

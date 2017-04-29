@@ -1,0 +1,87 @@
+artifacts:
+  imagecomparison:
+    lastUpdated: 20130622212647
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  imagecomparison-parent:
+    lastUpdated: 20130622212647
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  imagecomparison-swing:
+    lastUpdated: 20130622212648
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+  imagecomparison-swt:
+    lastUpdated: 20130622212648
+    latest: 0.3.2
+    release: 0.3.2
+    versions:
+      - 0.3.1
+      - 0.3.2
+  imagediff:
+    lastUpdated: 20130616175230
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.3.0
+      - 0.3.1
+  lisp-parser:
+    lastUpdated: 20130912061251
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  sandbox:
+    lastUpdated: 20130607062103
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+

@@ -1,0 +1,44 @@
+artifacts:
+  core_2.11:
+    lastUpdated: 20161213075908
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  mandrill-core_2.11:
+    lastUpdated: 20170102154010
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.5
+      - 0.1.6
+  mandrill-play-json_2.11:
+    lastUpdated: 20170102154010
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.6
+  mandrill-test-kit_2.11:
+    lastUpdated: 20170102154011
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.6
+  play-json_2.11:
+    lastUpdated: 20170102151247
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+  test-kit_2.11:
+    lastUpdated: 20170102151247
+    latest: 0.1.5
+    release: 0.1.5
+    versions:
+      - 0.1.3
+      - 0.1.4
+      - 0.1.5
+

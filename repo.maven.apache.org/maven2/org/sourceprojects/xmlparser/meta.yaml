@@ -1,0 +1,42 @@
+artifacts:
+  parent:
+    lastUpdated: 20100530151707
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  xmlparser:
+    lastUpdated: 20100530151704
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  xmlparser-osgi-consumer-test:
+    lastUpdated: 20100530151705
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  xmlparser-springintegration:
+    lastUpdated: 20100530151708
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 0.0.5
+      - 0.0.6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+

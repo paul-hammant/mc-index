@@ -1,0 +1,106 @@
+artifacts:
+  journaled-commit-log_2.12:
+    lastUpdated: 20170216031518
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  sj-common_2.11:
+    lastUpdated: 20160930075532
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-crud-rest_2.11:
+    lastUpdated: 20160930075533
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-engine-core_2.11:
+    lastUpdated: 20160930075533
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-input-streaming-engine_2.11:
+    lastUpdated: 20160930075534
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-mesos-framework_2.11:
+    lastUpdated: 20160930075534
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-output-streaming-engine_2.11:
+    lastUpdated: 20160930075535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-performance-metrics-output-es_2.11:
+    lastUpdated: 20160930075535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-regular-streaming-engine_2.11:
+    lastUpdated: 20160930075535
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-sflow-output_2.11:
+    lastUpdated: 20160930075536
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-sflow-process_2.11:
+    lastUpdated: 20160930075536
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-stub-input-streaming_2.11:
+    lastUpdated: 20160930075536
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-stub-output_2.11:
+    lastUpdated: 20160930075537
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-stub-regular-streaming_2.11:
+    lastUpdated: 20160930075537
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-transaction-generator_2.11:
+    lastUpdated: 20160930075537
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  sj-windowed-streaming-engine_2.11:
+    lastUpdated: 20160930075538
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  t-streams_2.11:
+    lastUpdated: 20160922113516
+    latest: 1.0.3.2
+    release: 1.0.3.2
+    versions:
+      - 1.0.3
+      - 1.0.3.1
+      - 1.0.3.2
+

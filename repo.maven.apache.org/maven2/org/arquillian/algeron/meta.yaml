@@ -1,0 +1,218 @@
+artifacts:
+  arquillian-algeron-common-parent:
+    lastUpdated: 20170210105300
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-configuration:
+    lastUpdated: 20170210105300
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-consumer-api:
+    lastUpdated: 20170210105301
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha6
+  arquillian-algeron-consumer-core:
+    lastUpdated: 20170210105302
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-consumer-git-publisher:
+    lastUpdated: 20170210105303
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-consumer-parent:
+    lastUpdated: 20170210105303
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-consumer-spi:
+    lastUpdated: 20170210105304
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-git:
+    lastUpdated: 20170210105304
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-api:
+    lastUpdated: 20170210105305
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-core:
+    lastUpdated: 20170210105306
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-ftest:
+    lastUpdated: 20170210105307
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-ftest-container:
+    lastUpdated: 20170210105307
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-parent:
+    lastUpdated: 20170210105308
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-consumer-spi:
+    lastUpdated: 20170210105308
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-parent:
+    lastUpdated: 20170210105309
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-api:
+    lastUpdated: 20170210105309
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-assertj:
+    lastUpdated: 20170210105310
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-core:
+    lastUpdated: 20170210105311
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-ftest:
+    lastUpdated: 20170210105312
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-ftest-container:
+    lastUpdated: 20170210105313
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-ftest-container-skip-deployment:
+    lastUpdated: 20170210105314
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-pact-broker-loader:
+    lastUpdated: 20170210105315
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-parent:
+    lastUpdated: 20170210105315
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-pact-provider-spi:
+    lastUpdated: 20170210105316
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-parent:
+    lastUpdated: 20170210105317
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-api:
+    lastUpdated: 20170210105317
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-core:
+    lastUpdated: 20170210105318
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-git-retriever:
+    lastUpdated: 20170210105318
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-maven-retriever:
+    lastUpdated: 20170210105319
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-parent:
+    lastUpdated: 20170210105320
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+  arquillian-algeron-provider-spi:
+    lastUpdated: 20170210105320
+    latest: 1.0.0.Alpha6
+    release: 1.0.0.Alpha6
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+

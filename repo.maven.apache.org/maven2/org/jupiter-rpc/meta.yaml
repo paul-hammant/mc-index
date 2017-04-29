@@ -1,0 +1,202 @@
+artifacts:
+  jupiter:
+    lastUpdated: 20170419022714
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-common:
+    lastUpdated: 20170419022714
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-example:
+    lastUpdated: 20170419022714
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-flightexec:
+    lastUpdated: 20170419022715
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-monitor:
+    lastUpdated: 20170419022715
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-registry:
+    lastUpdated: 20170419022716
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-registry-api:
+    lastUpdated: 20170419022716
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-registry-default:
+    lastUpdated: 20170419022716
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-registry-zookeeper:
+    lastUpdated: 20170419022716
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-rpc:
+    lastUpdated: 20170419022717
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization:
+    lastUpdated: 20170419022717
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization-api:
+    lastUpdated: 20170419022717
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization-hessian:
+    lastUpdated: 20170419022718
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization-java:
+    lastUpdated: 20170419022718
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization-kryo:
+    lastUpdated: 20170419022718
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-serialization-protostuff:
+    lastUpdated: 20170419022719
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-spring-support:
+    lastUpdated: 20170419022719
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-transport:
+    lastUpdated: 20170419022720
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-transport-api:
+    lastUpdated: 20170419022720
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+  jupiter-transport-netty:
+    lastUpdated: 20170419022720
+    latest: 1.2.4
+    release: 1.2.4
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.2.3
+      - 1.2.4
+

@@ -1,0 +1,15 @@
+artifacts:
+  libcephfs:
+    lastUpdated: 20140826151930
+    latest: 0.80.5
+    release: 0.80.5
+    versions:
+      - 0.80.5
+  rados:
+    lastUpdated: 20160513191318
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+

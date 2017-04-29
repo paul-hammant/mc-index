@@ -1,0 +1,163 @@
+artifacts:
+  cloudfoundry-certificate-truster:
+    lastUpdated: 20151103060354
+    latest: 1.0.1.RELEASE
+    release: 1.0.1.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+  spring-cloud-services-cloudfoundry-connector:
+    lastUpdated: 20170203035643
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-connector-core:
+    lastUpdated: 20170203035643
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-dependencies:
+    lastUpdated: 20170203035643
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-dependencies-parent:
+    lastUpdated: 20170203035643
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-spring-connector:
+    lastUpdated: 20170203035643
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-starter-build:
+    lastUpdated: 20170203035644
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-starter-circuit-breaker:
+    lastUpdated: 20170203035644
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-starter-config-client:
+    lastUpdated: 20170203035644
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-services-starter-parent:
+    lastUpdated: 20160128232413
+    latest: 1.0.2.RELEASE
+    release: 1.0.2.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+  spring-cloud-services-starter-service-registry:
+    lastUpdated: 20170203035644
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.0.1.RELEASE
+      - 1.0.2.RELEASE
+      - 1.1.0.RELEASE
+      - 1.1.1.RELEASE
+      - 1.1.2.RELEASE
+      - 1.2.0.RELEASE
+      - 1.2.1.RELEASE
+      - 1.3.0.RELEASE
+      - 1.3.1.RELEASE
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  spring-cloud-sso-connector:
+    lastUpdated: 20160121215525
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.RC3
+      - 1.0.2.RELEASE
+      - 1.1.0.RELEASE
+

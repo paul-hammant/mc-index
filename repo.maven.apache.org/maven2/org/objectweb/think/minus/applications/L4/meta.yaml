@@ -1,0 +1,161 @@
+artifacts:
+  L4:
+    lastUpdated: 20080828101545
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+  L4-parent:
+    lastUpdated: 20080703173712
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+  arch:
+    lastUpdated: 20071105152239
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  generic:
+    lastUpdated: 20071105152213
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  integrator:
+    lastUpdated: 20080828102058
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  integrator.debug:
+    lastUpdated: 20080828102005
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  lxsimenv:
+    lastUpdated: 20080828101912
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  lxsimenv.debug:
+    lastUpdated: 20080828101817
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  maven-targets:
+    lastUpdated: 20080416122040
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+  parent:
+    lastUpdated: 20071105152139
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  platform:
+    lastUpdated: 20071105152324
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  sources:
+    lastUpdated: 20071105152153
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  st200:
+    lastUpdated: 20071105152258
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  stm8010:
+    lastUpdated: 20080828101723
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  stm8010.debug:
+    lastUpdated: 20080828101624
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-alpha-2
+      - 1.1-alpha-5
+      - 1.1
+  target-lxsimenv:
+    lastUpdated: 20071105152547
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  target-lxsimenv-check:
+    lastUpdated: 20071105152804
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  target-lxsimenv-debug:
+    lastUpdated: 20071105152655
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  target-stm8010:
+    lastUpdated: 20071105152923
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  target-stm8010-check:
+    lastUpdated: 20071105153143
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  target-stm8010-debug:
+    lastUpdated: 20071105153037
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  targets-lxsimenv:
+    lastUpdated: 20071105152501
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  targets-parent:
+    lastUpdated: 20071105152446
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+  targets-stm8010:
+    lastUpdated: 20071105152827
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+

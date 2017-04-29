@@ -1,0 +1,407 @@
+artifacts:
+  base:
+    lastUpdated: 20160125154726
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  calc:
+    lastUpdated: 20160125154726
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  core-distribution:
+    lastUpdated: 20160125154727
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  esb-manage:
+    lastUpdated: 20160125154727
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  esb-packages:
+    lastUpdated: 20160125154728
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  esb-util:
+    lastUpdated: 20160125154728
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  framework-core:
+    lastUpdated: 20160125154728
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi:
+    lastUpdated: 20160125154728
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-admin-common:
+    lastUpdated: 20160125154729
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-ant-tasks:
+    lastUpdated: 20160125154729
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-api:
+    lastUpdated: 20160125154730
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-ext:
+    lastUpdated: 20160125154731
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-spec-top:
+    lastUpdated: 20160125154731
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi-spi:
+    lastUpdated: 20160125154731
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi_framework:
+    lastUpdated: 20160125154731
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  jbi_rt:
+    lastUpdated: 20160125154732
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  localews:
+    lastUpdated: 20160125154732
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  manage:
+    lastUpdated: 20160125154732
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  mathlib1:
+    lastUpdated: 20160125154734
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  mathlib2:
+    lastUpdated: 20160125154734
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  nmr:
+    lastUpdated: 20160125154734
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  nmrtests-top:
+    lastUpdated: 20160125154734
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  observer:
+    lastUpdated: 20160125154735
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  observer-top:
+    lastUpdated: 20160125154735
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  observer_boot:
+    lastUpdated: 20160125154735
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  observer_rt:
+    lastUpdated: 20160125154736
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  open-esb-top:
+    lastUpdated: 20160125154736
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  ri-clients:
+    lastUpdated: 20160125154736
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  runtime:
+    lastUpdated: 20160125154736
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  sl1:
+    lastUpdated: 20160125154737
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  test-components:
+    lastUpdated: 20160125154737
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testbinding:
+    lastUpdated: 20160125154737
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testbinding-top:
+    lastUpdated: 20160125154737
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testbinding_boot:
+    lastUpdated: 20160125154737
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testbinding_rt:
+    lastUpdated: 20160125154738
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testengine:
+    lastUpdated: 20160125154738
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testengine-top:
+    lastUpdated: 20160125154739
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testengine_boot:
+    lastUpdated: 20160125154739
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  testengine_rt:
+    lastUpdated: 20160125154739
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  tracking:
+    lastUpdated: 20160125154739
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  ui:
+    lastUpdated: 20160125154740
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  wsdl:
+    lastUpdated: 20160125154740
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  wsdl11-wrapper:
+    lastUpdated: 20160125154741
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  wsdl2:
+    lastUpdated: 20160125154741
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+  wsdlsl:
+    lastUpdated: 20160125154742
+    latest: 2.4.3
+    release: 2.4.3
+    versions:
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+

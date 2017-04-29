@@ -1,0 +1,471 @@
+artifacts:
+  org.eclipse.scada.ae.ui:
+    lastUpdated: 20161026205153
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.ui.connection:
+    lastUpdated: 20161026205154
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.ui.connection.creator.ngp:
+    lastUpdated: 20161026205154
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.ui.testing:
+    lastUpdated: 20161026205155
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ae.ui.views:
+    lastUpdated: 20161026205155
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ae.ui.views.export.excel:
+    lastUpdated: 20161026205155
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.ui:
+    lastUpdated: 20161026205156
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.ui.connection:
+    lastUpdated: 20161026205156
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.ui.connection.creator.jaxws:
+    lastUpdated: 20161026205157
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.ui.connection.creator.ngp:
+    lastUpdated: 20161026205157
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.ui.editor:
+    lastUpdated: 20161026205158
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ca.ui.editor.forms.arduino:
+    lastUpdated: 20161026205158
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.ui.editor.forms.common:
+    lastUpdated: 20161026205158
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.ui.editor.wizard:
+    lastUpdated: 20161026205159
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ca.ui.exporter:
+    lastUpdated: 20161026205159
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.ca.ui.importer:
+    lastUpdated: 20161026205200
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.chart.ui:
+    lastUpdated: 20161026205200
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.ui:
+    lastUpdated: 20161026205201
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection:
+    lastUpdated: 20161026205202
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.core.ui.connection.creator:
+    lastUpdated: 20161026205202
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection.discoverer.file:
+    lastUpdated: 20161026205203
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection.discoverer.osgi:
+    lastUpdated: 20161026205203
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection.discoverer.prefs:
+    lastUpdated: 20161026205204
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection.information:
+    lastUpdated: 20161026205205
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.connection.login:
+    lastUpdated: 20161026205206
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.core.ui.connection.provider:
+    lastUpdated: 20161026205206
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.core.ui.styles:
+    lastUpdated: 20161026205207
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui:
+    lastUpdated: 20161026205208
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.client.dataitem.details:
+    lastUpdated: 20161026205208
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.client.dataitem.details.chart:
+    lastUpdated: 20161026205208
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.client.dataitem.details.chart.nl1:
+    lastUpdated: 20161026205209
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.ui.client.dataitem.details.extra:
+    lastUpdated: 20161026205210
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.client.signalgenerator:
+    lastUpdated: 20161026205211
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.client.test:
+    lastUpdated: 20161026205211
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.common:
+    lastUpdated: 20161026205212
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.ui.connection:
+    lastUpdated: 20161026205213
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.connection.creator.ngp:
+    lastUpdated: 20161026205214
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.connection.creator.sfp:
+    lastUpdated: 20161026205215
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.ui.styles:
+    lastUpdated: 20161026205215
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.da.ui.summary.explorer:
+    lastUpdated: 20161026205216
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.da.ui.widgets:
+    lastUpdated: 20161026205217
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.2.1
+  org.eclipse.scada.hd.ui:
+    lastUpdated: 20161026205218
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.hd.ui.connection:
+    lastUpdated: 20161026205219
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.ui.connection.creator.ngp:
+    lastUpdated: 20161026205219
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hd.ui.printing:
+    lastUpdated: 20161026205220
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.hmi:
+    lastUpdated: 20161026205221
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.hmi.doc.isv:
+    lastUpdated: 20170216111146
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  org.eclipse.scada.sec.ui:
+    lastUpdated: 20161026205222
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.sec.ui.providers:
+    lastUpdated: 20161026205223
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.sec.ui.providers.pkcs12:
+    lastUpdated: 20161026205224
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.sec.ui.providers.windows:
+    lastUpdated: 20161026205225
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.swt:
+    lastUpdated: 20161026205226
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.ui.chart:
+    lastUpdated: 20161026205226
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.chart.model:
+    lastUpdated: 20161026205227
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.chart.model.edit:
+    lastUpdated: 20161026205227
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.chart.model.editor:
+    lastUpdated: 20161026205228
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.chart.model.tests:
+    lastUpdated: 20161026205229
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.chart.view:
+    lastUpdated: 20161026205229
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.ui.databinding.item:
+    lastUpdated: 20161026205230
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi:
+    lastUpdated: 20161026205230
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.chart.model:
+    lastUpdated: 20161026205231
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.chart.model.edit:
+    lastUpdated: 20161026205232
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.chart.model.tests:
+    lastUpdated: 20161026205233
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.details:
+    lastUpdated: 20161026205234
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.details.model:
+    lastUpdated: 20161026205234
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.details.model.edit:
+    lastUpdated: 20161026205235
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.details.model.editor:
+    lastUpdated: 20161026205235
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.details.model.tests:
+    lastUpdated: 20161026205236
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.details.swt:
+    lastUpdated: 20161026205237
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.vi.model:
+    lastUpdated: 20161026205237
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.model.edit:
+    lastUpdated: 20161026205238
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.model.editor:
+    lastUpdated: 20161026205239
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.model.tests:
+    lastUpdated: 20161026205239
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.ui:
+    lastUpdated: 20161026205240
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.ui.chart.draw2d:
+    lastUpdated: 20161026205241
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  org.eclipse.scada.vi.ui.draw2d:
+    lastUpdated: 20161026205241
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  org.eclipse.scada.vi.ui.user:
+    lastUpdated: 20161026205242
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  org.eclipse.scada.vi.ui.viewer.ext:
+    lastUpdated: 20161026205243
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

@@ -1,0 +1,93 @@
+artifacts:
+  ks-embedded:
+    lastUpdated: 20120717220803
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-rice:
+    lastUpdated: 20120717220805
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-rice-standalone:
+    lastUpdated: 20140925171440
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-standalone:
+    lastUpdated: 20120717220811
+    latest: 1.2.2-M4
+    release: 1.2.2-M4
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+  ks-web:
+    lastUpdated: 20140925171441
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 1.1
+      - 1.2-M1
+      - 1.2-M2
+      - 1.2-M3
+      - 1.2-M4
+      - 1.2
+      - 1.2.1
+      - 1.2.2-M2
+      - 1.2.2-M3
+      - 1.2.2-M4
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-with-rice-bundled:
+    lastUpdated: 20140925171445
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+  ks-with-rice-embedded:
+    lastUpdated: 20140925171446
+    latest: 2.0.3-cm
+    release: 2.0.3-cm
+    versions:
+      - 2.0.0-cm
+      - 2.0.1-cm
+      - 2.0.2-cm
+      - 2.0.3-cm
+

@@ -1,0 +1,75 @@
+artifacts:
+  mx4j:
+    lastUpdated: {}
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0-beta-1
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 3.0.1
+      - 3.0.2
+  mx4j-examples:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.1
+  mx4j-impl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.1
+  mx4j-jmx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1.1
+      - 2.0.1
+      - 2.1.1
+      - 3.0.1
+      - 1.1
+  mx4j-jmx-remote:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 3.0.1
+  mx4j-remote:
+    lastUpdated: {}
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 3.0.1
+      - 3.0.2
+  mx4j-rimpl:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.1
+  mx4j-rjmx:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 2.1.1
+  mx4j-tools:
+    lastUpdated: {}
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 1.1
+      - 1.1.1
+      - 2.1.0
+      - 2.1.1
+      - 3.0.1
+      - 1.1
+

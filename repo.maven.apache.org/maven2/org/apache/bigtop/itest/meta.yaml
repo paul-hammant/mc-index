@@ -1,0 +1,371 @@
+artifacts:
+  bigtop-smokes:
+    lastUpdated: 20170404220148
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  bigtop-test-execution:
+    lastUpdated: 20170404220149
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  crunch-smoke:
+    lastUpdated: 20170404220149
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  datafu-smoke:
+    lastUpdated: 20170404220150
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  fat-smoke:
+    lastUpdated: 20170404220150
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.5.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  flume-smoke:
+    lastUpdated: 20170404220156
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  flume-smoke-execution:
+    lastUpdated: 20111115185348
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  giraph-smoke:
+    lastUpdated: 20170404220157
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  hadoop-smoke:
+    lastUpdated: 20170404220157
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  hadoop-smoke-execution:
+    lastUpdated: 20111115185347
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  hbase-smoke:
+    lastUpdated: 20170404220158
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  hbase-smoke-execution:
+    lastUpdated: 20111115185345
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  hcatalog-smoke:
+    lastUpdated: 20170404220158
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  hive-smoke:
+    lastUpdated: 20141004202902
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  hive-smoke-execution:
+    lastUpdated: 20111115185347
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  httpfs-smoke:
+    lastUpdated: 20170404220159
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  hue-smoke:
+    lastUpdated: 20170404220159
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  io-longevity:
+    lastUpdated: 20170404220200
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  itest-common:
+    lastUpdated: 20170404220200
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  mahout-smoke:
+    lastUpdated: 20170404220201
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  oozie-smoke:
+    lastUpdated: 20170404220201
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  oozie-smoke-test:
+    lastUpdated: 20111115185349
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  package-smoke:
+    lastUpdated: 20170404220202
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  package-smoke-execution:
+    lastUpdated: 20170404220202
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  phoenix-smoke:
+    lastUpdated: 20170404220203
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  pig-smoke-execution:
+    lastUpdated: 20111115185348
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  smoke-tests:
+    lastUpdated: 20111115185346
+    latest: 0.2.0-incubating
+    release: 0.2.0-incubating
+    versions:
+      - 0.2.0-incubating
+  smoke-tests-conf:
+    lastUpdated: 20170404220203
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  solr-smoke:
+    lastUpdated: 20170404220204
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  spark-smoke:
+    lastUpdated: 20170404220204
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  sqoop-integration:
+    lastUpdated: 20120821234747
+    latest: 0.4.0-incubating
+    release: 0.4.0-incubating
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+  sqoop-smoke:
+    lastUpdated: 20170404220205
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  stacks-common:
+    lastUpdated: 20170404220205
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 0.2.0-incubating
+      - 0.3.0-incubating
+      - 0.4.0-incubating
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+

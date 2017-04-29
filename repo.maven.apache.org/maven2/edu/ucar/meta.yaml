@@ -1,0 +1,89 @@
+artifacts:
+  bufr:
+    lastUpdated: 20110307165453
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  cdm:
+    lastUpdated: 20150310230404
+    latest: 4.5.5
+    release: 4.5.5
+    versions:
+      - 4.5.4
+      - 4.5.5
+  grib:
+    lastUpdated: 20150310230351
+    latest: 8.0.29
+    release: 8.0.29
+    versions:
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+      - 8.0.29
+  httpservices:
+    lastUpdated: 20150310230339
+    latest: 4.5.5
+    release: 4.5.5
+    versions:
+      - 4.5.4
+      - 4.5.5
+  jj2000:
+    lastUpdated: 20150421224341
+    latest: 5.2
+    release: 5.2
+    versions:
+      - 5.2
+      - 5.2
+  netcdf:
+    lastUpdated: 20140801193804
+    latest: 4.3.22
+    release: 4.3.22
+    versions:
+      - 4.2
+      - 4.2-min
+      - 4.2.20
+      - 4.3.22
+      - 4.2
+  netcdf-parent:
+    lastUpdated: 20110307165456
+    latest: 4.2.20
+    release: 4.2.20
+    versions:
+      - 4.2.20
+  netcdf4:
+    lastUpdated: 20150310230416
+    latest: 4.5.5
+    release: 4.5.5
+    versions:
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+  opendap:
+    lastUpdated: 20110307165454
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.2
+  thredds-parent:
+    lastUpdated: 20150310230429
+    latest: 4.5.5
+    release: 4.5.5
+    versions:
+      - 4.5.3
+      - 4.5.4
+      - 4.5.5
+  udunits:
+    lastUpdated: 20150421173553
+    latest: 4.5.5
+    release: 4.5.5
+    versions:
+      - 4.5.5
+  unidataCommon:
+    lastUpdated: 20110307165456
+    latest: 4.2.20
+    release: 4.2.20
+    versions:
+      - 4.2.20
+

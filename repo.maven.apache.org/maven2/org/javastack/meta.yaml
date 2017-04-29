@@ -1,0 +1,150 @@
+artifacts:
+  classloadermap:
+    lastUpdated: 20150317225636
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  errorhandler-servlet:
+    lastUpdated: 20160109225720
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  figaro:
+    lastUpdated: 20160325220730
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  headers-servlet-filter:
+    lastUpdated: 20160109161606
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  httpbench:
+    lastUpdated: 20150812190248
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  httpd:
+    lastUpdated: 20150925231621
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  jipc:
+    lastUpdated: 20150610113127
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  kvstore:
+    lastUpdated: 20150627181352
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  log4j-tomcat:
+    lastUpdated: 20160710203156
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  log4j2-jvmext:
+    lastUpdated: 20160806234951
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  log4j2-simplejson:
+    lastUpdated: 20160807210654
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  log4j2-webext:
+    lastUpdated: 20160724174553
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  mapexpression:
+    lastUpdated: 20141224230930
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  memoizer:
+    lastUpdated: 20160219004409
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  packer:
+    lastUpdated: 20150128154003
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  properties-agent:
+    lastUpdated: 20160817200203
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  standalone-preferences:
+    lastUpdated: 20150422055209
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.0.4
+      - 1.2.1
+      - 2.0.1
+  stringproperties:
+    lastUpdated: 20141224230847
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  surbl:
+    lastUpdated: 20150924213836
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  systemclassloaderproperties:
+    lastUpdated: 20160802204250
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  test-servlet:
+    lastUpdated: 20160820155311
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  webapp-notifier:
+    lastUpdated: 20160817164645
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  webapp-properties:
+    lastUpdated: 20160820143508
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

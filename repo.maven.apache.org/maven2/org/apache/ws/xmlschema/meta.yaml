@@ -1,0 +1,62 @@
+artifacts:
+  w3c-testcases:
+    lastUpdated: 20120730194943
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0
+  xmlschema:
+    lastUpdated: 20150203174624
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.0
+  xmlschema-bundle-test:
+    lastUpdated: 20120730194943
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0
+  xmlschema-core:
+    lastUpdated: 20150203174624
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.0
+  xmlschema-eclipse:
+    lastUpdated: 20110214120132
+    latest: 2.0
+    release: 2.0
+    versions:
+      - 2.0
+      - 2.0
+  xmlschema-walker:
+    lastUpdated: 20150203174626
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.0
+      - 2.2.1
+

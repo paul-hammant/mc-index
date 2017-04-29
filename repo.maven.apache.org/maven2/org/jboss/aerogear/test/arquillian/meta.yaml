@@ -1,0 +1,47 @@
+artifacts:
+  arquillian-non-deploying-container:
+    lastUpdated: 20150227093815
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+  arquillian-non-deploying-container-checks-api:
+    lastUpdated: 20150227093816
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  arquillian-non-deploying-container-checks-impl:
+    lastUpdated: 20150227093817
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  arquillian-non-deploying-container-parent:
+    lastUpdated: 20150227093817
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+  arquillian-rule:
+    lastUpdated: 20150227102338
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  arquillian-smart-url:
+    lastUpdated: 20140605101051
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

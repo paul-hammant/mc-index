@@ -1,0 +1,35 @@
+artifacts:
+  core:
+    lastUpdated: 20170315103530
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.3
+      - 1.0.4
+  json:
+    lastUpdated: 20170316015014
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  parsers-core:
+    lastUpdated: 20170119075446
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  pdf:
+    lastUpdated: 20170120072155
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  xml:
+    lastUpdated: 20170317032834
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

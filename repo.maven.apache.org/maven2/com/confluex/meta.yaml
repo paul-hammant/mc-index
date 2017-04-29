@@ -1,0 +1,47 @@
+artifacts:
+  confluex-mock-http:
+    lastUpdated: 20140610211802
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+  confluex-mock-salesforce-api:
+    lastUpdated: 20131022175439
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  mule-module-error:
+    lastUpdated: 20140805192622
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  mule-testing-kit:
+    lastUpdated: 20151228190218
+    latest: 3.7.0.1
+    release: 3.7.0.1
+    versions:
+      - 1.0.0
+      - 1.2.0
+      - 1.2.1
+      - 3.5.x-1.1.0
+      - 3.6.0.0
+      - 3.7.0.0
+      - 3.7.0.1
+  qpid-in-a-can:
+    lastUpdated: 20131107233436
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+

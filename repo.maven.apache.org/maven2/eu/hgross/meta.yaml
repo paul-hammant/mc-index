@@ -1,0 +1,45 @@
+artifacts:
+  blaubot:
+    lastUpdated: 20160714210453
+    latest: 2.0.0-beta.2
+    release: 2.0.0-beta.2
+    versions:
+      - 2.0.0-alpha
+      - 2.0.0-alpha.2
+      - 2.0.0-alpha.5
+      - 2.0.0-alpha.6
+      - 2.0.0-beta.1
+      - 2.0.0-beta.2
+  blaubot-android:
+    lastUpdated: 20160714210537
+    latest: 2.0.0-beta.2
+    release: 2.0.0-beta.2
+    versions:
+      - 2.0.0-alpha
+      - 2.0.0-alpha.2
+      - 2.0.0-alpha.5
+      - 2.0.0-alpha.6
+      - 2.0.0-beta.1
+      - 2.0.0-beta.2
+  blaubot-jsr82:
+    lastUpdated: 20160714210653
+    latest: 2.0.0-beta.2
+    release: 2.0.0-beta.2
+    versions:
+      - 2.0.0-alpha.2
+      - 2.0.0-alpha.5
+      - 2.0.0-alpha.6
+      - 2.0.0-beta.1
+      - 2.0.0-beta.2
+  blaubot-websockets:
+    lastUpdated: 20160714210618
+    latest: 2.0.0-beta.2
+    release: 2.0.0-beta.2
+    versions:
+      - 2.0.0-alpha.2
+      - 2.0.0-alpha.4
+      - 2.0.0-alpha.5
+      - 2.0.0-alpha.6
+      - 2.0.0-beta.1
+      - 2.0.0-beta.2
+

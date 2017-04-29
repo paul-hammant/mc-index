@@ -1,0 +1,721 @@
+artifacts:
+  archetype-builder:
+    lastUpdated: 20140530182700
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  archetypes:
+    lastUpdated: 20140530182710
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  camel-cxf-code-first-archetype:
+    lastUpdated: 20140530182733
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  camel-cxf-contract-first-archetype:
+    lastUpdated: 20140530182737
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  camel-drools-archetype:
+    lastUpdated: 20140530182740
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  camel-tooling-util:
+    lastUpdated: 20140530182744
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  cartridge:
+    lastUpdated: 20140530182747
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  common-util:
+    lastUpdated: 20140530182749
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabrc-virt:
+    lastUpdated: 20120128153045
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.1
+      - 1.1
+  fabric-activemq:
+    lastUpdated: 20110726174012
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  fabric-activemq-facade:
+    lastUpdated: 20140530182804
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-agent:
+    lastUpdated: 20140530182805
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-boot-commands:
+    lastUpdated: 20140530182805
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-camel:
+    lastUpdated: 20140530182806
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-camel-c24io:
+    lastUpdated: 20140530182807
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-camel-dslio:
+    lastUpdated: 20140530182808
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-camel-facade:
+    lastUpdated: 20140530182824
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-commands:
+    lastUpdated: 20140530182834
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-configadmin:
+    lastUpdated: 20140530182845
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-core:
+    lastUpdated: 20140530182852
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-core-agent-jclouds:
+    lastUpdated: 20140530182854
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-core-agent-ssh:
+    lastUpdated: 20140530182855
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-cxf:
+    lastUpdated: 20140530182900
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-distro:
+    lastUpdated: 20110726174012
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  fabric-dosgi:
+    lastUpdated: 20140530182910
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-examples:
+    lastUpdated: 20140530182914
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-features-service:
+    lastUpdated: 20140530182915
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-groups:
+    lastUpdated: 20140530182918
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-hadoop:
+    lastUpdated: 20140530182921
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-jaas:
+    lastUpdated: 20140530182924
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-jolokia:
+    lastUpdated: 20140530182926
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-launcher:
+    lastUpdated: 20140530182931
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-ldap:
+    lastUpdated: 20140530182935
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-linkedin-zookeeper:
+    lastUpdated: 20140530182939
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-maven-proxy:
+    lastUpdated: 20140530182943
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-monitor:
+    lastUpdated: 20140530182945
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-project:
+    lastUpdated: 20140530182947
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-rest:
+    lastUpdated: 20140530182951
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-scala:
+    lastUpdated: 20140530182952
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-servicemix-facade:
+    lastUpdated: 20140530182953
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-utils:
+    lastUpdated: 20140530182953
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-virt:
+    lastUpdated: 20140530182954
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  fabric-webui:
+    lastUpdated: 20121010235816
+    latest: 7.1.0.fuse-014
+    release: 7.1.0.fuse-014
+    versions:
+      - 7.1.0.fuse-014
+  fabric-zeroconf:
+    lastUpdated: 20140530182955
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  fabric-zookeeper:
+    lastUpdated: 20140530182956
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-zookeeper-commands:
+    lastUpdated: 20140530182957
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fabric-zookeeper-spring:
+    lastUpdated: 20140530182958
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.0
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.0
+      - 1.1
+  fuse-fabric:
+    lastUpdated: 20140530183002
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  openshift:
+    lastUpdated: 20140530183017
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  org.fusesource.fabric.karaf.branding:
+    lastUpdated: 20140530183017
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 1.1
+      - 7.0.0.fuse-061
+      - 7.0.1.fuse-084
+      - 7.0.2.fuse-097
+      - 7.1.0.fuse-014
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+      - 1.1
+  process-launcher:
+    lastUpdated: 20140530183018
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  process-manager:
+    lastUpdated: 20140530183019
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  process-packaging:
+    lastUpdated: 20140530183020
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  process-project:
+    lastUpdated: 20140530183021
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  testing:
+    lastUpdated: 20140530183026
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  tooling-fabric-all:
+    lastUpdated: 20140530183027
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+  tooling-jclouds-all:
+    lastUpdated: 20140530183028
+    latest: 7.2.0.redhat-065
+    release: 7.2.0.redhat-065
+    versions:
+      - 7.1.0.fuse-047
+      - 7.2.0.redhat-024
+      - 7.2.0.redhat-060
+      - 7.2.0.redhat-065
+

@@ -1,0 +1,283 @@
+artifacts:
+  druid-avro-extensions:
+    lastUpdated: 20170418201342
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-azure-extensions:
+    lastUpdated: 20160126232026
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  druid-caffeine-cache:
+    lastUpdated: 20170418201342
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.2
+      - 0.10.0
+  druid-cassandra-storage:
+    lastUpdated: 20160126232026
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  druid-datasketches:
+    lastUpdated: 20170418201343
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-examples:
+    lastUpdated: 20170418201343
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-hdfs-storage:
+    lastUpdated: 20170418201344
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-histogram:
+    lastUpdated: 20170418201344
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-kafka-eight:
+    lastUpdated: 20170418201345
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-kafka-eight-simple-consumer:
+    lastUpdated: 20160126232029
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.8.2
+      - 0.8.3
+  druid-kafka-extraction-namespace:
+    lastUpdated: 20170418201345
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-kafka-indexing-service:
+    lastUpdated: 20170418201345
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-kerberos:
+    lastUpdated: 20170418201346
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  druid-lookups-cached-global:
+    lastUpdated: 20170418201346
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-lookups-cached-single:
+    lastUpdated: 20170418201347
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.2
+      - 0.10.0
+  druid-namespace-lookup:
+    lastUpdated: 20160629183929
+    latest: 0.9.1.1
+    release: 0.9.1.1
+    versions:
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+  druid-rabbitmq:
+    lastUpdated: 20160126232030
+    latest: 0.8.3
+    release: 0.8.3
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+  druid-s3-extensions:
+    lastUpdated: 20170418201347
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-stats:
+    lastUpdated: 20170418201348
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.2
+      - 0.10.0
+  mysql-metadata-storage:
+    lastUpdated: 20170418201348
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  postgresql-metadata-storage:
+    lastUpdated: 20170418201348
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.7.0
+      - 0.7.1
+      - 0.7.1.1
+      - 0.7.2
+      - 0.7.3
+      - 0.8.0
+      - 0.8.1-rc2
+      - 0.8.1
+      - 0.8.2
+      - 0.8.3
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+

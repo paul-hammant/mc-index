@@ -1,0 +1,189 @@
+artifacts:
+  dtc-cats_2.11:
+    lastUpdated: 20170422124336
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-cats_2.12:
+    lastUpdated: 20170422124337
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-cats_sjs0.6_2.11:
+    lastUpdated: 20170422124337
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-cats_sjs0.6_2.12:
+    lastUpdated: 20170422124337
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-core_2.11:
+    lastUpdated: 20170422124338
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+  dtc-core_2.12:
+    lastUpdated: 20170422124338
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-core_sjs0.6_2.11:
+    lastUpdated: 20170422124338
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+  dtc-core_sjs0.6_2.12:
+    lastUpdated: 20170422124339
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-laws_2.11:
+    lastUpdated: 20170422124339
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+  dtc-laws_2.12:
+    lastUpdated: 20170422124340
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-laws_sjs0.6_2.11:
+    lastUpdated: 20170422124340
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+  dtc-laws_sjs0.6_2.12:
+    lastUpdated: 20170422124340
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  dtc-moment_sjs0.6_2.11:
+    lastUpdated: 20170422124341
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 1.0.0
+  dtc-moment_sjs0.6_2.12:
+    lastUpdated: 20170422124341
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.8.0
+      - 1.0.0
+  scala-js-momentjs_sjs0.6_2.11:
+    lastUpdated: 20170422122847
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  scala-js-momentjs_sjs0.6_2.12:
+    lastUpdated: 20170422122847
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+  scalist-circe_2.11:
+    lastUpdated: 20160305113610
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  scalist-core_2.11:
+    lastUpdated: 20160305113611
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  scalist-dispatch-circe_2.11:
+    lastUpdated: 20160305113611
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  scalist-dispatch_2.11:
+    lastUpdated: 20160305113612
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

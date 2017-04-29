@@ -1,0 +1,53 @@
+artifacts:
+  mybatis-scala-core:
+    lastUpdated: 20121219235850
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0-beta1
+      - 1.0-beta2
+      - 1.0.0
+  mybatis-scala-core_2.10:
+    lastUpdated: 20140119111843
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  mybatis-scala-core_2.11:
+    lastUpdated: 20150322195757
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.3
+  mybatis-scala-core_2.9.2:
+    lastUpdated: 20140119102811
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+  mybatis-scala-parent:
+    lastUpdated: 20140119111844
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0-beta1
+      - 1.0-beta2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  mybatis-scala-parent_2.11:
+    lastUpdated: 20150319190849
+    latest: 1.0.5
+    release: 1.0.5
+    versions:
+      - 1.0.5
+  mybatis-scala-parent_2.9.2:
+    lastUpdated: 20140119102812
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.1
+      - 1.0.2
+

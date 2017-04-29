@@ -1,0 +1,32 @@
+artifacts:
+  snmp4j:
+    lastUpdated: 20170305113855
+    latest: 2.5.6
+    release: 2.5.6
+    versions:
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.5
+      - 2.5.6
+  snmp4j-agent:
+    lastUpdated: 20160909215524
+    latest: 2.5.3
+    release: 2.5.3
+    versions:
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+  snmp4j-agentx:
+    lastUpdated: 20161219212554
+    latest: 2.5.3
+    release: 2.5.3
+    versions:
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+

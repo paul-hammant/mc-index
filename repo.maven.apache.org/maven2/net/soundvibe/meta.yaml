@@ -1,0 +1,45 @@
+artifacts:
+  funk4j:
+    lastUpdated: 20160316195548
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  pbt4j:
+    lastUpdated: 20160830180242
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  reacto:
+    lastUpdated: 20170321075500
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  reacto-couchbase-service-registry:
+    lastUpdated: 20170321081212
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  reacto-vertx:
+    lastUpdated: 20170321080220
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+

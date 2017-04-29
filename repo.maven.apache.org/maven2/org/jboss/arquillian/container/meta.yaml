@@ -1,0 +1,1701 @@
+artifacts:
+  arquillian-appscale-remote:
+    lastUpdated: 20141212154355
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-container-equinox:
+    lastUpdated: 20161018070024
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-equinox-embedded:
+    lastUpdated: 20161018070025
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-felix:
+    lastUpdated: 20161018070026
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-felix-embedded:
+    lastUpdated: 20161018070027
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-impl-base:
+    lastUpdated: 20170323232311
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-container-jbosgi:
+    lastUpdated: 20161018070028
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-jbosgi-embedded:
+    lastUpdated: 20161018070031
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-karaf:
+    lastUpdated: 20161018070033
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-karaf-embedded:
+    lastUpdated: 20141119101654
+    latest: 2.1.0.CR18
+    release: 2.1.0.CR18
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+  arquillian-container-karaf-managed:
+    lastUpdated: 20161018070034
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-karaf-remote:
+    lastUpdated: 20161018070036
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-osgi:
+    lastUpdated: 20161018070037
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.Final
+      - 1.0.3.CR1
+      - 1.0.3.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.CR1
+      - 2.0.0.CR2
+      - 2.0.0.CR3
+      - 2.0.0.CR4
+      - 2.0.0.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-osgi-embedded:
+    lastUpdated: 20130516085128
+    latest: 2.0.0.CR3
+    release: 2.0.0.CR3
+    versions:
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.Final
+      - 1.0.3.CR1
+      - 1.0.3.Final
+      - 2.0.0.Alpha1
+      - 2.0.0.Alpha2
+      - 2.0.0.CR1
+      - 2.0.0.CR2
+      - 2.0.0.CR3
+  arquillian-container-osgi-parent:
+    lastUpdated: 20161018070041
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR2
+      - 2.1.0.CR3
+      - 2.1.0.CR4
+      - 2.1.0.CR5
+      - 2.1.0.CR6
+      - 2.1.0.CR7
+      - 2.1.0.CR8
+      - 2.1.0.CR9
+      - 2.1.0.CR10
+      - 2.1.0.CR11
+      - 2.1.0.CR12
+      - 2.1.0.CR13
+      - 2.1.0.CR14
+      - 2.1.0.CR15
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-osgi-remote:
+    lastUpdated: 20120301101513
+    latest: 1.0.2.Final
+    release: 1.0.2.Final
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2.Final
+  arquillian-container-osgi-tests:
+    lastUpdated: 20161018070042
+    latest: 2.2.0.Final
+    release: 2.2.0.Final
+    versions:
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 2.1.0.CR16
+      - 2.1.0.CR17
+      - 2.1.0.CR18
+      - 2.1.0.Final
+      - 2.2.0.Final
+  arquillian-container-parent:
+    lastUpdated: 20170323232313
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-container-se:
+    lastUpdated: 20161101132555
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-container-spi:
+    lastUpdated: 20170323232313
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-container-test-api:
+    lastUpdated: 20170323232314
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-container-test-impl-base:
+    lastUpdated: 20170323232316
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-container-test-spi:
+    lastUpdated: 20170323232317
+    latest: 1.1.13.Final
+    release: 1.1.13.Final
+    versions:
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.Final
+      - 1.0.1.Final
+      - 1.0.2.Final
+      - 1.0.3.Final
+      - 1.0.4.Final
+      - 1.1.0.Final
+      - 1.1.1.Final
+      - 1.1.2.Final
+      - 1.1.2.Final-wildfly-1
+      - 1.1.2.Final-wildfly-2
+      - 1.1.3.Final
+      - 1.1.4.Final
+      - 1.1.5.Final
+      - 1.1.6.Final
+      - 1.1.6.Final-wildfly-1
+      - 1.1.7.Final
+      - 1.1.8.Final
+      - 1.1.9.Final
+      - 1.1.10.Final
+      - 1.1.11.Final
+      - 1.1.12.Final
+      - 1.1.13.Final
+  arquillian-fabric8-common:
+    lastUpdated: 20161205145711
+    latest: 1.2.0.redhat-621169
+    release: 1.2.0.redhat-621169
+    versions:
+      - 1.2.0.redhat-133
+      - 1.2.0.redhat-621084
+      - 1.2.0.redhat-621090
+      - 1.2.0.redhat-621107
+      - 1.2.0.redhat-621117
+      - 1.2.0.redhat-621159
+      - 1.2.0.redhat-621169
+  arquillian-fabric8-remote:
+    lastUpdated: 20161205145712
+    latest: 1.2.0.redhat-621169
+    release: 1.2.0.redhat-621169
+    versions:
+      - 1.2.0.redhat-133
+      - 1.2.0.redhat-621084
+      - 1.2.0.redhat-621090
+      - 1.2.0.redhat-621107
+      - 1.2.0.redhat-621117
+      - 1.2.0.redhat-621159
+      - 1.2.0.redhat-621169
+  arquillian-gae-cli:
+    lastUpdated: 20141212154356
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-gae-common:
+    lastUpdated: 20141212154357
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-gae-embedded:
+    lastUpdated: 20141212154357
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-gae-gcloud:
+    lastUpdated: 20141212154358
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Beta10
+  arquillian-gae-local:
+    lastUpdated: 20141212154358
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-gae-remote:
+    lastUpdated: 20141212154359
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-gae-tools:
+    lastUpdated: 20141212154359
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-glassfish-common:
+    lastUpdated: 20160805175806
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.Final
+  arquillian-glassfish-embedded-3:
+    lastUpdated: 20100917054917
+    latest: 1.0.0.Alpha4.SP1
+    release: 1.0.0.Alpha4.SP1
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+  arquillian-glassfish-embedded-3.1:
+    lastUpdated: 20160805175807
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.Final
+  arquillian-glassfish-embedded-30:
+    lastUpdated: 20100524184915
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-glassfish-managed-3.1:
+    lastUpdated: 20160805175808
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.Final
+  arquillian-glassfish-remote-3:
+    lastUpdated: 20100917054915
+    latest: 1.0.0.Alpha4.SP1
+    release: 1.0.0.Alpha4.SP1
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+  arquillian-glassfish-remote-3.1:
+    lastUpdated: 20160805175809
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.Final
+  arquillian-jbossas-embedded-6:
+    lastUpdated: 20120223133949
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-embedded-60:
+    lastUpdated: 20100524184904
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-jbossas-local-51:
+    lastUpdated: 20100524184849
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-jbossas-local-60:
+    lastUpdated: 20100524184854
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-jbossas-managed-4.2:
+    lastUpdated: 20120223133944
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-managed-5.1:
+    lastUpdated: 20120223133947
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-managed-6:
+    lastUpdated: 20120223133949
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-remote-4.2:
+    lastUpdated: 20120223133945
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-remote-5:
+    lastUpdated: 20120223133946
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-remote-5.1:
+    lastUpdated: 20120223133948
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-remote-51:
+    lastUpdated: 20100524184837
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-jbossas-remote-6:
+    lastUpdated: 20120223133949
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jbossas-remote-60:
+    lastUpdated: 20100524184843
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-jetty-common:
+    lastUpdated: 20160128124457
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jetty-embedded-6.1:
+    lastUpdated: 20160128124458
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jetty-embedded-7:
+    lastUpdated: 20160128124459
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jetty-embedded-8:
+    lastUpdated: 20160128124500
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR3
+  arquillian-jetty-embedded-9:
+    lastUpdated: 20160128124500
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-jsr88-remote-1.2:
+    lastUpdated: 20100917054913
+    latest: 1.0.0.Alpha4.SP1
+    release: 1.0.0.Alpha4.SP1
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+  arquillian-openejb:
+    lastUpdated: 20100524184937
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+  arquillian-openejb-embedded-3.1:
+    lastUpdated: 20110318050714
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+  arquillian-openshift-express:
+    lastUpdated: 20120326163615
+    latest: 1.0.0.Beta1
+    release: 1.0.0.Beta1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Beta1
+  arquillian-openwebbeans-embedded:
+    lastUpdated: 20100524184949
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-openwebbeans-embedded-1:
+    lastUpdated: 20111129225403
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-osgi-embedded:
+    lastUpdated: 20131001213945
+    latest: 2.0.0.Final
+    release: 2.0.0.Final
+    versions:
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha4.SP2
+      - 1.0.0.Alpha4.SP3
+      - 1.0.0.Alpha4.SP4
+      - 1.0.0.Alpha4.SP5
+      - 1.0.0.Alpha4.SP6
+      - 1.0.0.Alpha4.SP7
+      - 1.0.0.Alpha4.SP8
+      - 1.0.0.Alpha4.SP9
+      - 1.0.0.Alpha4.SP10
+      - 1.0.0.Alpha4-OSGi
+      - 2.0.0.CR4
+      - 2.0.0.Final
+  arquillian-osgi-embedded-4.2:
+    lastUpdated: 20100905201701
+    latest: 1.0.0.Alpha4
+    release: 1.0.0.Alpha4
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+  arquillian-osgi-felix:
+    lastUpdated: 20131001213946
+    latest: 2.0.0.Final
+    release: 2.0.0.Final
+    versions:
+      - 2.0.0.CR4
+      - 2.0.0.Final
+  arquillian-osgi-remote:
+    lastUpdated: 20110622200420
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha4.SP2
+      - 1.0.0.Alpha4.SP3
+      - 1.0.0.Alpha4.SP4
+      - 1.0.0.Alpha4.SP5
+      - 1.0.0.Alpha4.SP6
+      - 1.0.0.Alpha4.SP7
+      - 1.0.0.Alpha4.SP8
+      - 1.0.0.Alpha4.SP9
+      - 1.0.0.Alpha4.SP10
+      - 1.0.0.Alpha4-OSGi
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  arquillian-parent-gae:
+    lastUpdated: 20141212154400
+    latest: 1.0.0.Beta10
+    release: 1.0.0.Beta10
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.Alpha6
+      - 1.0.0.Alpha7
+      - 1.0.0.Alpha8
+      - 1.0.0.Alpha9
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.Beta3
+      - 1.0.0.Beta4
+      - 1.0.0.Beta5
+      - 1.0.0.Beta6
+      - 1.0.0.Beta7
+      - 1.0.0.Beta8
+      - 1.0.0.Beta9
+      - 1.0.0.Beta10
+  arquillian-parent-glassfish:
+    lastUpdated: 20160805175810
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.Final
+  arquillian-parent-jbossas:
+    lastUpdated: 20120223133943
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-parent-jetty:
+    lastUpdated: 20160128124501
+    latest: 1.0.0.CR3
+    release: 1.0.0.CR3
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+  arquillian-parent-openshift:
+    lastUpdated: 20120326163614
+    latest: 1.0.0.Beta1
+    release: 1.0.0.Beta1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Beta1
+  arquillian-parent-openwebbeans:
+    lastUpdated: 20111129225403
+    latest: 1.0.0.CR2
+    release: 1.0.0.CR2
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+  arquillian-parent-tomcat:
+    lastUpdated: 20170216113732
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-parent-undertow:
+    lastUpdated: 20160407105915
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-parent-was:
+    lastUpdated: 20150130113220
+    latest: 1.0.0.Beta2
+    release: 1.0.0.Beta2
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+  arquillian-parent-weld:
+    lastUpdated: 20170403115133
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.Final
+  arquillian-parent-wls:
+    lastUpdated: 20151126104253
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-reloaded:
+    lastUpdated: 20100524184942
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  arquillian-reloaded-embedded-1:
+    lastUpdated: 20110318050648
+    latest: 1.0.0.Alpha5
+    release: 1.0.0.Alpha5
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+  arquillian-tomcat-common:
+    lastUpdated: 20170216113732
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-container-parent:
+    lastUpdated: 20170216113733
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-embedded-6:
+    lastUpdated: 20170216113734
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-embedded-7:
+    lastUpdated: 20170216113735
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-embedded-8:
+    lastUpdated: 20170216113735
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-embedded-common:
+    lastUpdated: 20170216113737
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-embedded-parent:
+    lastUpdated: 20170216113738
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-5.5:
+    lastUpdated: 20170216113739
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-6:
+    lastUpdated: 20170216113740
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-7:
+    lastUpdated: 20170216113741
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-8:
+    lastUpdated: 20170216113742
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-common:
+    lastUpdated: 20170216113743
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-managed-parent:
+    lastUpdated: 20170216113744
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-remote-6:
+    lastUpdated: 20170216113744
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-remote-7:
+    lastUpdated: 20170216113745
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-remote-common:
+    lastUpdated: 20170216113746
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-tomcat-remote-parent:
+    lastUpdated: 20170216113747
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.CR10
+      - 1.0.0
+  arquillian-weld-ee-embedded-1.1:
+    lastUpdated: 20170403115133
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.Final
+  arquillian-weld-embedded:
+    lastUpdated: 20161212130630
+    latest: 2.0.0.Beta4
+    release: 2.0.0.Beta4
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 2.0.0.Beta1
+      - 2.0.0.Beta2
+      - 2.0.0.Beta3
+      - 2.0.0.Beta4
+  arquillian-weld-embedded-root:
+    lastUpdated: 20161212130631
+    latest: 2.0.0.Beta4
+    release: 2.0.0.Beta4
+    versions:
+      - 2.0.0.Beta3
+      - 2.0.0.Beta4
+  arquillian-weld-se-embedded-1:
+    lastUpdated: 20170403115134
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.Final
+  arquillian-weld-se-embedded-1.1:
+    lastUpdated: 20170403115135
+    latest: 1.0.0.Final
+    release: 1.0.0.Final
+    versions:
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha4.SP1
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.CR3
+      - 1.0.0.CR4
+      - 1.0.0.CR5
+      - 1.0.0.CR6
+      - 1.0.0.CR7
+      - 1.0.0.CR8
+      - 1.0.0.CR9
+      - 1.0.0.Final
+  arquillian-wlp-managed-8.5:
+    lastUpdated: 20150130113220
+    latest: 1.0.0.Beta2
+    release: 1.0.0.Beta2
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+  arquillian-wlp-managed-85:
+    lastUpdated: 20130720194333
+    latest: 1.0.0.Alpha1
+    release: 1.0.0.Alpha1
+    versions:
+      - 1.0.0.Alpha1
+  arquillian-wlp-remote-8.5:
+    lastUpdated: 20150130113221
+    latest: 1.0.0.Beta2
+    release: 1.0.0.Beta2
+    versions:
+      - 1.0.0.Beta2
+  arquillian-wls-common:
+    lastUpdated: 20151126104254
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-embedded-12.1:
+    lastUpdated: 20151126104255
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-10.3:
+    lastUpdated: 20151126104256
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-10.3.x:
+    lastUpdated: 20151126104256
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-12.1:
+    lastUpdated: 20151126104257
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-12.1.2:
+    lastUpdated: 20151126104259
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-12.1.x:
+    lastUpdated: 20151126104300
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-managed-rest:
+    lastUpdated: 20151126104301
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-10.3:
+    lastUpdated: 20151126104303
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-10.3.x:
+    lastUpdated: 20151126104304
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-12.1:
+    lastUpdated: 20151126104305
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-12.1.2:
+    lastUpdated: 20151126104305
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha3
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-12.1.x:
+    lastUpdated: 20151126104306
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  arquillian-wls-remote-rest:
+    lastUpdated: 20151126104307
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Final
+      - 1.0.1.Final
+  container-se-api:
+    lastUpdated: 20161101132556
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.Final
+      - 1.0.1.Final
+  container-se-managed:
+    lastUpdated: 20161101132558
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.Final
+      - 1.0.1.Final
+  container-se-server:
+    lastUpdated: 20161101132559
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.Final
+      - 1.0.1.Final
+  container-se-tests:
+    lastUpdated: 20161101132600
+    latest: 1.0.1.Final
+    release: 1.0.1.Final
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Alpha5
+      - 1.0.0.CR1
+      - 1.0.0.CR2
+      - 1.0.0.Final
+      - 1.0.1.Final
+  shrinkwrap-container-undertow:
+    lastUpdated: 20160407105922
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+  undertow-embedded:
+    lastUpdated: 20160407105935
+    latest: 1.0.0.Alpha2
+    release: 1.0.0.Alpha2
+    versions:
+      - 1.0.0.Alpha2
+

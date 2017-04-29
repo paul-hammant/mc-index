@@ -1,0 +1,85 @@
+artifacts:
+  mapper:
+    lastUpdated: 20170219114934
+    latest: 3.4.0
+    release: 3.4.0
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.3.0
+      - 3.3.1
+      - 3.3.2
+      - 3.3.3
+      - 3.3.4
+      - 3.3.5
+      - 3.3.6
+      - 3.3.7
+      - 3.3.8
+      - 3.3.9
+      - 3.4.0
+  mapper-spring-boot:
+    lastUpdated: 20170328231719
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  mapper-spring-boot-autoconfigure:
+    lastUpdated: 20170330134153
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  mapper-spring-boot-sample-annotation:
+    lastUpdated: 20170330134154
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  mapper-spring-boot-sample-xml:
+    lastUpdated: 20170330134154
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  mapper-spring-boot-samples:
+    lastUpdated: 20170330134155
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  mapper-spring-boot-starter:
+    lastUpdated: 20170330134155
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 0.1.0
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  orderby-helper:
+    lastUpdated: 20170118151814
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+

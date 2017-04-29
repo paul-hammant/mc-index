@@ -1,0 +1,340 @@
+artifacts:
+  BlazegraphBasedTPFServer:
+    lastUpdated: 20160126162530
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  bigdata-blueprints:
+    lastUpdated: 20160829213954
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-cache:
+    lastUpdated: 20160829213954
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-client:
+    lastUpdated: 20160829213954
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-common-util:
+    lastUpdated: 20160829213955
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-core:
+    lastUpdated: 20160829213955
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-core-test:
+    lastUpdated: 20160829213956
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-ganglia:
+    lastUpdated: 20160829213957
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-gas:
+    lastUpdated: 20160829213957
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-jar:
+    lastUpdated: 20160618192735
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  bigdata-rdf-test:
+    lastUpdated: 20160829213957
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-runtime:
+    lastUpdated: 20160829213958
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-sails-test:
+    lastUpdated: 20160829213959
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-statics:
+    lastUpdated: 20160829213959
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-util:
+    lastUpdated: 20160829213959
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-war:
+    lastUpdated: 20160830215009
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  bigdata-war-html:
+    lastUpdated: 20160829214000
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  blazegraph-artifacts:
+    lastUpdated: 20160829214050
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  blazegraph-deb:
+    lastUpdated: 20160618193104
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  blazegraph-gremlin:
+    lastUpdated: 20160126172847
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  blazegraph-jar:
+    lastUpdated: 20160829214242
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  blazegraph-parent:
+    lastUpdated: 20160829205627
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  blazegraph-war:
+    lastUpdated: 20160618192841
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+  colt:
+    lastUpdated: 20160829214000
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.1.4
+  ctc-striterators:
+    lastUpdated: 20160829214001
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  dsi-utils:
+    lastUpdated: 20160829214001
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  junit-ext:
+    lastUpdated: 20160829214002
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  lgpl-utils:
+    lastUpdated: 20160829214002
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  rdf-properties:
+    lastUpdated: 20160829214002
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  samples:
+    lastUpdated: 20160127053035
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  sparql-grammar:
+    lastUpdated: 20160829214003
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  system-utils:
+    lastUpdated: 20160829214003
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+  vocabularies:
+    lastUpdated: 20160829214004
+    latest: 2.1.4
+    release: 2.1.4
+    versions:
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.4
+

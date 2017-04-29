@@ -1,0 +1,126 @@
+artifacts:
+  ldpath-api:
+    lastUpdated: 20130215173313
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.5
+      - 0.9.7
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-backend-file:
+    lastUpdated: 20130215173314
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-backend-jena:
+    lastUpdated: 20130215173314
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-backend-linkeddata:
+    lastUpdated: 20130215173315
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-backend-sesame:
+    lastUpdated: 20130215173315
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-core:
+    lastUpdated: 20130215173315
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.5
+      - 0.9.7
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-core-bundle:
+    lastUpdated: 20120323131634
+    latest: 0.9.7
+    release: 0.9.7
+    versions:
+      - 0.9.5
+      - 0.9.7
+  ldpath-functions-collections:
+    lastUpdated: 20130215173316
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 2.6.0
+  ldpath-functions-date:
+    lastUpdated: 20130215173316
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.13
+      - 2.6.0
+  ldpath-functions-html:
+    lastUpdated: 20130215173317
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.13
+      - 2.6.0
+  ldpath-functions-math:
+    lastUpdated: 20130215173322
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.13
+      - 2.6.0
+  ldpath-functions-text:
+    lastUpdated: 20130215173322
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 2.6.0
+  ldpath-functions-xml:
+    lastUpdated: 20130215173323
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.13
+      - 2.6.0
+  ldpath-parent:
+    lastUpdated: 20130215173324
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.11
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-template:
+    lastUpdated: 20130215173325
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+  ldpath-template-linkeddata:
+    lastUpdated: 20130215173326
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 0.9.12
+      - 0.9.13
+      - 2.6.0
+

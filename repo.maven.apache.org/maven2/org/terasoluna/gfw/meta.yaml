@@ -1,0 +1,464 @@
+artifacts:
+  terasoluna-gfw:
+    lastUpdated: 20170314062145
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-codepoints:
+    lastUpdated: 20170314062145
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-common:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-common-dependencies:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-common-libraries:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-dependencies:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-jodatime:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-jodatime-dependencies:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-jpa-dependencies:
+    lastUpdated: 20170314062146
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-mybatis3-dependencies:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-parent:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-recommended-dependencies:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-recommended-web-dependencies:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-security-core-dependencies:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-security-web:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-security-web-dependencies:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-string:
+    lastUpdated: 20170314062147
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-validator:
+    lastUpdated: 20170314062148
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-web:
+    lastUpdated: 20170314062148
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-web-dependencies:
+    lastUpdated: 20170314062148
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-web-jsp:
+    lastUpdated: 20170314062148
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+  terasoluna-gfw-web-jsp-dependencies:
+    lastUpdated: 20170314062148
+    latest: 5.3.0.RELEASE
+    release: 5.3.0.RELEASE
+    versions:
+      - 5.2.0.RC4
+      - 5.2.0.RC5
+      - 5.2.0.RC6
+      - 5.2.0.RC7
+      - 5.2.0.RC7.1
+      - 5.2.0.RC7.2
+      - 5.2.0.RC7.3
+      - 5.2.0.RC7.4
+      - 5.2.0.RC7.5
+      - 5.2.1.RC3
+      - 5.2.1.RC4
+      - 5.3.0.RC3
+      - 5.3.0.RC4
+      - 5.3.0.RC5
+      - 5.3.0.RC6
+      - 5.3.0.RELEASE
+

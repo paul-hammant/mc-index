@@ -1,0 +1,68 @@
+artifacts:
+  scaps-api-js_sjs0.6_2.11:
+    lastUpdated: 20160520145921
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+  scaps-api_2.10:
+    lastUpdated: 20160304092922
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  scaps-api_2.11:
+    lastUpdated: 20160520145921
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+  scaps-build-js_sjs0.6_2.11:
+    lastUpdated: 20160520145922
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.6
+  scaps-build_2.10:
+    lastUpdated: 20160520145924
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.6
+  scaps-build_2.11:
+    lastUpdated: 20160520145925
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.6
+  scaps-core_2.11:
+    lastUpdated: 20160520145926
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+  scaps-nucleus_2.11:
+    lastUpdated: 20160520145928
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.5
+      - 0.6
+  scaps-scala_2.11:
+    lastUpdated: 20160520145929
+    latest: 0.6
+    release: 0.6
+    versions:
+      - 0.4
+      - 0.5
+      - 0.6
+

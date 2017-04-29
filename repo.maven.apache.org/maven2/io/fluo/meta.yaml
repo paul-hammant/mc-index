@@ -1,0 +1,132 @@
+artifacts:
+  fluo-accumulo:
+    lastUpdated: 20160113200536
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-api:
+    lastUpdated: 20160113200536
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-cluster:
+    lastUpdated: 20160113200537
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-core:
+    lastUpdated: 20160113200538
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-distribution:
+    lastUpdated: 20160113200538
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-integration:
+    lastUpdated: 20160113200542
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+  fluo-io-parent:
+    lastUpdated: 20160316162317
+    latest: 2
+    release: 2
+    versions:
+      - 1
+      - 2
+      - 1
+      - 2
+  fluo-mapreduce:
+    lastUpdated: 20160113200543
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-metrics:
+    lastUpdated: 20150610164030
+    latest: 1.0.0-beta-1
+    release: 1.0.0-beta-1
+    versions:
+      - 1.0.0-beta-1
+  fluo-mini:
+    lastUpdated: 20160113200544
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+  fluo-parent:
+    lastUpdated: 20160113200544
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-alpha-1
+      - 1.0.0-beta-2
+  fluo-recipes-accumulo:
+    lastUpdated: 20160329164400
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+  fluo-recipes-core:
+    lastUpdated: 20160329164400
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+  fluo-recipes-kryo:
+    lastUpdated: 20160329164401
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-2
+  fluo-recipes-parent:
+    lastUpdated: 20160329164401
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+  fluo-recipes-spark:
+    lastUpdated: 20160329164402
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-2
+  fluo-recipes-test:
+    lastUpdated: 20160329164402
+    latest: 1.0.0-beta-2
+    release: 1.0.0-beta-2
+    versions:
+      - 1.0.0-beta-2
+  fluo-stress:
+    lastUpdated: 20141001145112
+    latest: 1.0.0-alpha-1
+    release: 1.0.0-alpha-1
+    versions:
+      - 1.0.0-alpha-1
+  resources:
+    lastUpdated: 20160316154952
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

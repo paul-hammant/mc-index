@@ -1,0 +1,122 @@
+artifacts:
+  chunkPartition:
+    lastUpdated: 20131120195604
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  chunkStop:
+    lastUpdated: 20131120195606
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  common:
+    lastUpdated: 20131120195607
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  flow:
+    lastUpdated: 20131120195607
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  loadBatchXml:
+    lastUpdated: 20131120195609
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  loopback:
+    lastUpdated: 20131120195610
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  postConstruct:
+    lastUpdated: 20131120195610
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  propertyInjection:
+    lastUpdated: 20131120195611
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  split:
+    lastUpdated: 20131120195612
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+  test-apps:
+    lastUpdated: 20131120195612
+    latest: 1.0.0.CR1
+    release: 1.0.0.CR1
+    versions:
+      - 1.0.0.Alpha1
+      - 1.0.0.Alpha2
+      - 1.0.0.Alpha3
+      - 1.0.0.Alpha4
+      - 1.0.0.Beta1
+      - 1.0.0.Beta2
+      - 1.0.0.CR1
+

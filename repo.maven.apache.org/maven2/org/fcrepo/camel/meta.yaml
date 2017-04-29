@@ -1,0 +1,261 @@
+artifacts:
+  fcrepo-audit-triplestore:
+    lastUpdated: 20170303192118
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-audit-triplestore-blueprint:
+    lastUpdated: 20170303192118
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-camel:
+    lastUpdated: 20161216154714
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.1.0
+      - 4.1.1
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.4.3
+      - 4.4.4
+      - 4.5.0
+  fcrepo-camel-toolbox:
+    lastUpdated: 20170303192119
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-camel-toolbox-blueprint:
+    lastUpdated: 20170303192119
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-camel-webapp:
+    lastUpdated: 20151013200905
+    latest: 4.4.0
+    release: 4.4.0
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+  fcrepo-fixity:
+    lastUpdated: 20170303192119
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-fixity-blueprint:
+    lastUpdated: 20170303192120
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-indexing-solr:
+    lastUpdated: 20170303192120
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-indexing-solr-blueprint:
+    lastUpdated: 20170303192121
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-indexing-triplestore:
+    lastUpdated: 20170303192121
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-indexing-triplestore-blueprint:
+    lastUpdated: 20170303192122
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-ldpath:
+    lastUpdated: 20170303192122
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-ldpath-blueprint:
+    lastUpdated: 20170303192123
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-reindexing:
+    lastUpdated: 20170303192123
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.3.0
+      - 4.4.0
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-reindexing-blueprint:
+    lastUpdated: 20170303192124
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-serialization:
+    lastUpdated: 20170303192124
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-serialization-blueprint:
+    lastUpdated: 20170303192125
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-service-activemq:
+    lastUpdated: 20170303192126
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-service-camel:
+    lastUpdated: 20170303192126
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  fcrepo-service-ldcache-file:
+    lastUpdated: 20170303192127
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+  toolbox-features:
+    lastUpdated: 20170303192128
+    latest: 4.7.2
+    release: 4.7.2
+    versions:
+      - 4.5.0
+      - 4.5.1
+      - 4.5.2
+      - 4.6.0
+      - 4.6.1
+      - 4.6.2
+      - 4.7.0
+      - 4.7.1
+      - 4.7.2
+

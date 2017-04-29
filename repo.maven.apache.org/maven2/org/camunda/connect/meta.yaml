@@ -1,0 +1,91 @@
+artifacts:
+  camunda-connect-all:
+    lastUpdated: 20141008091438
+    latest: 1.0.0-alpha3
+    release: 1.0.0-alpha3
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+  camunda-connect-bom:
+    lastUpdated: 20160219133541
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-connectors-all:
+    lastUpdated: 20160219133541
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-core:
+    lastUpdated: 20160219133542
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-http-client:
+    lastUpdated: 20160219133543
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-rest-httpclient:
+    lastUpdated: 20141008091441
+    latest: 1.0.0-alpha3
+    release: 1.0.0-alpha3
+    versions:
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+  camunda-connect-root:
+    lastUpdated: 20160219133543
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-soap-http-client:
+    lastUpdated: 20160219133543
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0-alpha4
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  camunda-connect-soap-httpclient:
+    lastUpdated: 20141008091442
+    latest: 1.0.0-alpha3
+    release: 1.0.0-alpha3
+    versions:
+      - 1.0.0-alpha1
+      - 1.0.0-alpha2
+      - 1.0.0-alpha3
+

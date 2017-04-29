@@ -1,0 +1,186 @@
+artifacts:
+  graph-constrained_2.10:
+    lastUpdated: 20140312183616
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.7.3
+      - 1.8.0
+  graph-constrained_2.11:
+    lastUpdated: 20160417062841
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.8.1
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.11.0
+  graph-constrained_2.9.1:
+    lastUpdated: 20120301175217
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  graph-constrained_2.9.2:
+    lastUpdated: 20120706194339
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  graph-core_2.10:
+    lastUpdated: 20151214210546
+    latest: 1.10.0
+    release: 1.10.0
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.6.2
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.10.0
+  graph-core_2.10.0-RC1:
+    lastUpdated: 20121016204354
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  graph-core_2.10.0-RC2:
+    lastUpdated: 20121107205419
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  graph-core_2.10.0-RC3:
+    lastUpdated: 20121124164534
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  graph-core_2.10.0-RC5:
+    lastUpdated: 20121209195311
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  graph-core_2.11:
+    lastUpdated: 20160417062842
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 1.9.4
+      - 1.10.0
+      - 1.10.1
+      - 1.11.0
+  graph-core_2.9.1:
+    lastUpdated: 20120411182531
+    latest: 1.4.3
+    release: 1.4.3
+    versions:
+      - 1.4.2
+      - 1.4.3
+  graph-core_2.9.2:
+    lastUpdated: 20131105193226
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.6.2
+      - 1.6.3
+  graph-dot_2.10:
+    lastUpdated: 20140530100330
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.6.0
+      - 1.7.0
+      - 1.7.3
+      - 1.8.0
+      - 1.9.0
+  graph-dot_2.11:
+    lastUpdated: 20160417062842
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.8.1
+      - 1.9.0
+      - 1.10.0
+      - 1.10.1
+      - 1.11.0
+  graph-dot_2.9.2:
+    lastUpdated: 20120715074553
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+  graph-json_2.10:
+    lastUpdated: 20140715182407
+    latest: 1.9.2
+    release: 1.9.2
+    versions:
+      - 1.6.0
+      - 1.6.1
+      - 1.7.0
+      - 1.7.3
+      - 1.8.0
+      - 1.9.0
+      - 1.9.2
+  graph-json_2.11:
+    lastUpdated: 20160417062843
+    latest: 1.11.0
+    release: 1.11.0
+    versions:
+      - 1.9.1
+      - 1.9.2
+      - 1.10.0
+      - 1.11.0
+  graph-json_2.9.1:
+    lastUpdated: 20120301175216
+    latest: 1.4
+    release: 1.4
+    versions:
+      - 1.4
+      - 1.4
+  graph-json_2.9.2:
+    lastUpdated: 20120622175826
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  graph-test_2.10:
+    lastUpdated: 20140530100333
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.8.1
+      - 1.9.0
+  graph-test_2.11:
+    lastUpdated: 20140530100333
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.8.1
+      - 1.9.0
+  graph4scala-dot_2.9.2:
+    lastUpdated: 20120714202049
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.2
+

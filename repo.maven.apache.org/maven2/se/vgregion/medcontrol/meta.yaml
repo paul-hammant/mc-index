@@ -1,0 +1,48 @@
+artifacts:
+  medcontrol-core-bc:
+    lastUpdated: 20120607080039
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  medcontrol-core-bc-composite-schema:
+    lastUpdated: 20120607080040
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  medcontrol-core-bc-composite-svc:
+    lastUpdated: 20120607080041
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.8
+  medcontrol-core-bc-composite-types:
+    lastUpdated: 20120607080038
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.8
+  medcontrol-core-bc-module-portlet:
+    lastUpdated: 20120607080036
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+  medcontrol-system:
+    lastUpdated: 20120607080039
+    latest: 1.8
+    release: 1.8
+    versions:
+      - 1.6
+      - 1.7
+      - 1.8
+

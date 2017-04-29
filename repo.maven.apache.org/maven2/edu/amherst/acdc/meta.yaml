@@ -1,0 +1,402 @@
+artifacts:
+  acrepo-apple-trees:
+    lastUpdated: 20170123140753
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  acrepo-build-tools:
+    lastUpdated: 20170102003743
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.1.0
+      - 0.2.0
+  acrepo-connector-broadcast:
+    lastUpdated: 20170419125424
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-connector-idiomatic:
+    lastUpdated: 20170419125424
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-connector-idiomatic-mysql:
+    lastUpdated: 20170419125425
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-connector-idiomatic-pgsql:
+    lastUpdated: 20170419125425
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-connector-triplestore:
+    lastUpdated: 20170419125426
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-entailment:
+    lastUpdated: 20170419125426
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  acrepo-exts-fits:
+    lastUpdated: 20170419125427
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-image:
+    lastUpdated: 20170419125427
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-jsonld:
+    lastUpdated: 20161206210255
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  acrepo-exts-ldpath:
+    lastUpdated: 20170419125428
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-ore:
+    lastUpdated: 20170419125428
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  acrepo-exts-pcdm:
+    lastUpdated: 20170419125429
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-serialize-xml:
+    lastUpdated: 20170419125429
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-exts-template:
+    lastUpdated: 20170419125430
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-idiomatic:
+    lastUpdated: 20151014034454
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-idiomatic-pgsql:
+    lastUpdated: 20151014034455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-idrisi:
+    lastUpdated: 20170206210656
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  acrepo-jsonld-cache:
+    lastUpdated: 20151014034455
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-jsonld-service:
+    lastUpdated: 20151014034456
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-karaf:
+    lastUpdated: 20170419125430
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-mint-service:
+    lastUpdated: 20151014034457
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-peppermint:
+    lastUpdated: 20170109190843
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  acrepo-services-activemq:
+    lastUpdated: 20161206210258
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  acrepo-services-entailment:
+    lastUpdated: 20170419125431
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  acrepo-services-inference:
+    lastUpdated: 20170419125431
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-services-jsonld:
+    lastUpdated: 20161206210259
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  acrepo-services-ldcache:
+    lastUpdated: 20161206210300
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  acrepo-services-ldcache-file:
+    lastUpdated: 20161206210301
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  acrepo-services-mint:
+    lastUpdated: 20170419125432
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-services-ore:
+    lastUpdated: 20170419125432
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  acrepo-services-pcdm:
+    lastUpdated: 20170419125433
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.1.0
+  acrepo-spearmint:
+    lastUpdated: 20170113213657
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  acrepo-template-mustache:
+    lastUpdated: 20151014034458
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  acrepo-tulsi:
+    lastUpdated: 20170123141014
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+  acrepo-xml-metadata:
+    lastUpdated: 20151014034459
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  repository-services:
+    lastUpdated: 20151014034459
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

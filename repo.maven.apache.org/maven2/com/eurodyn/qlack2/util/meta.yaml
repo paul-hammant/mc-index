@@ -1,0 +1,205 @@
+artifacts:
+  qlack2-util-atmosphere:
+    lastUpdated: 20170404165442
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-atmosphere-api:
+    lastUpdated: 20170404165442
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-atmosphere-commands:
+    lastUpdated: 20170404165442
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-atmosphere-impl:
+    lastUpdated: 20170404165443
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-cluster:
+    lastUpdated: 20170404165443
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-cluster-core:
+    lastUpdated: 20170404165443
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-cluster-dummy:
+    lastUpdated: 20170404165444
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-cluster-hazelcast:
+    lastUpdated: 20170404165444
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-cxf-conf:
+    lastUpdated: 20170404165444
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-datasource:
+    lastUpdated: 20170404165445
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-datasource-generic:
+    lastUpdated: 20170404165445
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-datasource-mongodb:
+    lastUpdated: 20170404165445
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-datasource-mysql-xa:
+    lastUpdated: 20170404165446
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-hibernate-validator:
+    lastUpdated: 20170404165446
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jbpm-runtime:
+    lastUpdated: 20170404165447
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jbpm-util:
+    lastUpdated: 20170404165447
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jbpm-util-hibernate-core-kie:
+    lastUpdated: 20170404165447
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jndi-alias:
+    lastUpdated: 20170404165447
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jrebel-pax-web-plugin:
+    lastUpdated: 20170404165448
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-jsr-validator-util:
+    lastUpdated: 20170404165449
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-karaf-features:
+    lastUpdated: 20170404165449
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-liquibase:
+    lastUpdated: 20170404165449
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-liquibase-api:
+    lastUpdated: 20170404165449
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-liquibase-impl:
+    lastUpdated: 20170404165450
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-orbeon-runtime:
+    lastUpdated: 20170404165451
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-parent:
+    lastUpdated: 20170404165453
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-repack-karaf-features:
+    lastUpdated: 20170404165453
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-rest:
+    lastUpdated: 20170404165453
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+  qlack2-util-validator-util:
+    lastUpdated: 20170404165454
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.2.1
+      - 2.2.2
+

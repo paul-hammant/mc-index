@@ -1,0 +1,46 @@
+artifacts:
+  osgeo-postgis-jdbc-test-util:
+    lastUpdated: 20160728183655
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  postgis-java-aggregator:
+    lastUpdated: 20160728183655
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.7.2
+      - 2.2.0
+      - 2.2.1
+  postgis-jdbc:
+    lastUpdated: 20160728183655
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.7.2
+      - 2.2.0
+      - 2.2.1
+  postgis-jdbc-java2d:
+    lastUpdated: 20160728183655
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.7.2
+      - 2.2.0
+      - 2.2.1
+  postgis-jdbc-jtsparser:
+    lastUpdated: 20160728183656
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.1.7.2
+      - 2.2.0
+      - 2.2.1
+  tools:
+    lastUpdated: 20160728183656
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+

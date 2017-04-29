@@ -1,0 +1,160 @@
+artifacts:
+  asm:
+    lastUpdated: 20130122142910
+    latest: 5.2.4
+    release: 5.2.4
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+  corba-api:
+    lastUpdated: 20080129184249
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  javaee-api:
+    lastUpdated: 20130122142909
+    latest: 5.3.0-RC1
+    release: 5.3.0-RC1
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+  jaxp-ri:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  jcl:
+    lastUpdated: 20080129184344
+    latest: {}
+    release: 5.0.1
+    versions:
+      - 5.0.0
+      - 5.0.1
+  jonas-externals:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  joram:
+    lastUpdated: 20120821110817
+    latest: 5.1.7
+    release: 5.1.7
+    versions:
+      - 5.1.7
+  monolog:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  neethi:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  saaj-ri:
+    lastUpdated: 20131001130544
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  springframework:
+    lastUpdated: 20120821110817
+    latest: 5.1.7
+    release: 5.1.7
+    versions:
+      - 5.1.7
+  util-xmlconfig:
+    lastUpdated: 20120821110814
+    latest: 5.1.7
+    release: 5.1.7
+    versions:
+      - 5.1.7
+  woodstox:
+    lastUpdated: 20120821110817
+    latest: 5.1.7
+    release: 5.1.7
+    versions:
+      - 5.1.7
+  ws-security:
+    lastUpdated: 20131001130545
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+  xmlbeans:
+    lastUpdated: 20131001130545
+    latest: 5.3.0
+    release: 5.3.0
+    versions:
+      - 5.1.7
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0-M5
+      - 5.3.0-M6
+      - 5.3.0-M7
+      - 5.3.0-RC1
+      - 5.3.0
+

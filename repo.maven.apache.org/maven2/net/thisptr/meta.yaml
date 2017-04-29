@@ -1,0 +1,52 @@
+artifacts:
+  jackson-jq:
+    lastUpdated: 20170314164455
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  jackson-jq-cli:
+    lastUpdated: 20170314164455
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  jackson-jq-extra:
+    lastUpdated: 20170314164456
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  jackson-jq-parent:
+    lastUpdated: 20170314164456
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.2
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+  java-influxdb-metrics-agent:
+    lastUpdated: 20170116190449
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+

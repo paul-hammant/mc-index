@@ -1,0 +1,69 @@
+artifacts:
+  beangle-tomcat-configer:
+    lastUpdated: 20160620124327
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  beangle-tomcat-core:
+    lastUpdated: 20160620124327
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  beangle-tomcat-jdbc:
+    lastUpdated: 20141102083455
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  beangle-tomcat-jdbc-encrypt:
+    lastUpdated: 20140109095112
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  beangle-tomcat-loader:
+    lastUpdated: 20141102083455
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  beangle-tomcat-parent:
+    lastUpdated: 20160620124327
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  beangle-tomcat-server:
+    lastUpdated: 20160620124327
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+

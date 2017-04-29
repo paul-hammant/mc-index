@@ -1,0 +1,483 @@
+artifacts:
+  demoiselle:
+    lastUpdated: 20160922173931
+    latest: 3.0.0-ALPHA2
+    release: 3.0.0-ALPHA2
+    versions:
+      - 3.0.0-ALPHA1
+      - 3.0.0-ALPHA2
+  demoiselle-archetype-parent:
+    lastUpdated: 20151202132819
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-build-parent:
+    lastUpdated: 20151201195537
+    latest: 10
+    release: 10
+    versions:
+      - 2
+      - 3
+      - 4
+      - 8
+      - 9
+      - 10
+      - 2
+      - 3
+      - 4
+      - 8
+      - 9
+      - 10
+  demoiselle-component-build-parent:
+    lastUpdated: 20151201195537
+    latest: 10
+    release: 10
+    versions:
+      - 2
+      - 8
+      - 9
+      - 10
+      - 2
+      - 8
+      - 9
+      - 10
+  demoiselle-core:
+    lastUpdated: 20151202132819
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-documentation-parent:
+    lastUpdated: 20151201195537
+    latest: 10
+    release: 10
+    versions:
+      - 4-SNAPSHOT
+      - 4
+      - 8
+      - 9
+      - 10
+      - 4
+      - 8
+      - 9
+      - 10
+  demoiselle-extension-parent:
+    lastUpdated: 20151202132819
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-framework-bom:
+    lastUpdated: 20151202132820
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-framework-parent:
+    lastUpdated: 20151202132820
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jdbc:
+    lastUpdated: 20151202132820
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jmx:
+    lastUpdated: 20151202132821
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jpa:
+    lastUpdated: 20151202132821
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jsf:
+    lastUpdated: 20151202132822
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jsf-parent:
+    lastUpdated: 20151202132823
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-jta:
+    lastUpdated: 20151202132823
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-minimal-parent:
+    lastUpdated: 20151202132823
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-parent:
+    lastUpdated: 20160922173932
+    latest: 10
+    release: 10
+    versions:
+      - 3.0.0-ALPHA1
+      - 3.0.0-ALPHA2
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  demoiselle-project:
+    lastUpdated: 20160922173932
+    latest: 3.0.0-ALPHA2
+    release: 3.0.0-ALPHA2
+    versions:
+      - 3.0.0-ALPHA1
+      - 3.0.0-ALPHA2
+  demoiselle-rest:
+    lastUpdated: 20151202132823
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-rest-parent:
+    lastUpdated: 20151202132824
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-se:
+    lastUpdated: 20151202132824
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-se-parent:
+    lastUpdated: 20151202132825
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-servlet:
+    lastUpdated: 20151202132825
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+  demoiselle-servlet-parent:
+    lastUpdated: 20151202132826
+    latest: 2.5.1
+    release: 2.5.1
+    versions:
+      - 2.3.0-RC2
+      - 2.3.0-RC3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0-BETA1
+      - 2.4.0-BETA2
+      - 2.4.0-BETA3
+      - 2.4.0-RC1
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.0-BETA1
+      - 2.5.0-BETA2
+      - 2.5.0-BETA3
+      - 2.5.0-RC1
+      - 2.5.0
+      - 2.5.1
+

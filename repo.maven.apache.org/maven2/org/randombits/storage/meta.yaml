@@ -1,0 +1,167 @@
+artifacts:
+  it:
+    lastUpdated: 20151130062743
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage:
+    lastUpdated: 20151130062744
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.0.0
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage-api-project:
+    lastUpdated: 20150423055201
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-compat:
+    lastUpdated: 20150423055201
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-confluence:
+    lastUpdated: 20151130062745
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.0.0
+      - 5.1.0
+      - 5.1.1
+      - 5.2.0
+      - 5.2.1
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage-confluence-compat:
+    lastUpdated: 20150423055205
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-confluence-project:
+    lastUpdated: 20150423055206
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-parameters:
+    lastUpdated: 20151130062746
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.0.0
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage-parameters-compat:
+    lastUpdated: 20150423055207
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-parameters-project:
+    lastUpdated: 20150423055208
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-parent:
+    lastUpdated: 20150423055209
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-project:
+    lastUpdated: 20151130062747
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage-servlet:
+    lastUpdated: 20151130062748
+    latest: 5.5.0
+    release: 5.5.0
+    versions:
+      - 5.0.0
+      - 5.2.0
+      - 5.2.1
+      - 5.2.2
+      - 5.2.3
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+      - 5.3.2
+      - 5.4.0
+      - 5.5.0
+  storage-servlet-compat:
+    lastUpdated: 20150423055210
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+  storage-servlet-project:
+    lastUpdated: 20150423055211
+    latest: 5.3.1
+    release: 5.3.1
+    versions:
+      - 5.2.4
+      - 5.3.0
+      - 5.3.1
+

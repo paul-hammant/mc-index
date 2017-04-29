@@ -1,0 +1,81 @@
+artifacts:
+  markup-document-builder:
+    lastUpdated: 20170105131512
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.1
+  swagger2markup:
+    lastUpdated: 20170320113057
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+  swagger2markup-cli:
+    lastUpdated: 20170320113647
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+  swagger2markup-extension-commons:
+    lastUpdated: 20170320114200
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.1
+  swagger2markup-gradle-plugin:
+    lastUpdated: 20170320115253
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.1
+  swagger2markup-import-files-ext:
+    lastUpdated: 20170320114200
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.1
+  swagger2markup-import-schemas-ext:
+    lastUpdated: 20170320114200
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.1
+  swagger2markup-maven-plugin:
+    lastUpdated: 20170320115248
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.1
+  swagger2markup-spring-restdocs-ext:
+    lastUpdated: 20170320114201
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 1.2.0
+      - 1.3.1
+

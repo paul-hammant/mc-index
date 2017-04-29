@@ -1,0 +1,43 @@
+artifacts:
+  bootstrap-lib:
+    lastUpdated: 20150327223901
+    latest: 3.3.4
+    release: 3.3.4
+    versions:
+      - 3.2.0
+      - 3.3.1
+      - 3.3.4
+  fontawesome-lib:
+    lastUpdated: 20160718175904
+    latest: 4.6.3
+    release: 4.6.3
+    versions:
+      - 4.2.0
+      - 4.3.0
+      - 4.6.3
+  jquery-lib:
+    lastUpdated: 20150109203808
+    latest: 2.1.3
+    release: 2.1.3
+    versions:
+      - 2.1.1
+      - 2.1.3
+  jquery-sparklines-lib:
+    lastUpdated: 20140911203833
+    latest: 2.1.2
+    release: 2.1.2
+    versions:
+      - 2.1.2
+  jsni:
+    lastUpdated: 20140911174344
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  leafletjs-lib:
+    lastUpdated: 20140911220809
+    latest: 0.7.3
+    release: 0.7.3
+    versions:
+      - 0.7.3
+

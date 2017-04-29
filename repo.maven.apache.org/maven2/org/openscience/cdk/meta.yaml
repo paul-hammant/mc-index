@@ -1,0 +1,756 @@
+artifacts:
+  cdk:
+    lastUpdated: 20161010074217
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-annotation:
+    lastUpdated: 20161010074218
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-app:
+    lastUpdated: 20161010074218
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-atomtype:
+    lastUpdated: 20161010074218
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-base:
+    lastUpdated: 20161010074219
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-builder3d:
+    lastUpdated: 20161010074219
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-builder3dtools:
+    lastUpdated: 20161010074219
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-bundle:
+    lastUpdated: 20161010074220
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-charges:
+    lastUpdated: 20161010074220
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-cip:
+    lastUpdated: 20161010074220
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-control:
+    lastUpdated: 20161010074221
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-core:
+    lastUpdated: 20161010074221
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-data:
+    lastUpdated: 20161010074221
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-datadebug:
+    lastUpdated: 20161010074222
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-depict:
+    lastUpdated: 20161010074222
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-descriptor:
+    lastUpdated: 20161010074222
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-dict:
+    lastUpdated: 20161010074222
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-diff:
+    lastUpdated: 20161010074223
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-display:
+    lastUpdated: 20161010074224
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-extra:
+    lastUpdated: 20161010074224
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-fingerprint:
+    lastUpdated: 20161010074224
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-forcefield:
+    lastUpdated: 20161010074224
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-formula:
+    lastUpdated: 20161010074225
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-fragment:
+    lastUpdated: 20161010074225
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-group:
+    lastUpdated: 20161010074226
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-hash:
+    lastUpdated: 20161010074226
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-inchi:
+    lastUpdated: 20161010074226
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-interfaces:
+    lastUpdated: 20161010074227
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-io:
+    lastUpdated: 20161010074227
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-ioformats:
+    lastUpdated: 20161010074227
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-ionpot:
+    lastUpdated: 20161010074228
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-iordf:
+    lastUpdated: 20161010074228
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-isomorphism:
+    lastUpdated: 20161010074228
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-legacy:
+    lastUpdated: 20161010074229
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-libiocml:
+    lastUpdated: 20161010074229
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-libiomd:
+    lastUpdated: 20161010074229
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-log4j:
+    lastUpdated: 20161010074230
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-misc:
+    lastUpdated: 20161010074230
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-model:
+    lastUpdated: 20161010074231
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-pcore:
+    lastUpdated: 20161010074231
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-pdb:
+    lastUpdated: 20161010074231
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-pdbcml:
+    lastUpdated: 20161010074232
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qm:
+    lastUpdated: 20161010074232
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsar:
+    lastUpdated: 20161010074232
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsaratomic:
+    lastUpdated: 20161010074233
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarbond:
+    lastUpdated: 20161010074233
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarcml:
+    lastUpdated: 20161010074233
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarionpot:
+    lastUpdated: 20161010074234
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarmolecular:
+    lastUpdated: 20161010074234
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarprotein:
+    lastUpdated: 20161010074234
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-qsarsubstance:
+    lastUpdated: 20161010074235
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-reaction:
+    lastUpdated: 20161010074235
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-render:
+    lastUpdated: 20161010074235
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-renderawt:
+    lastUpdated: 20161010074236
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-renderbasic:
+    lastUpdated: 20161010074236
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-renderextra:
+    lastUpdated: 20161010074237
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-sdg:
+    lastUpdated: 20161010074237
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-signature:
+    lastUpdated: 20161010074238
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-silent:
+    lastUpdated: 20161010074238
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-smarts:
+    lastUpdated: 20161010074238
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-smiles:
+    lastUpdated: 20161010074239
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-smsd:
+    lastUpdated: 20161010074239
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-standard:
+    lastUpdated: 20161010074239
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-storage:
+    lastUpdated: 20161010074240
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-structgen:
+    lastUpdated: 20161010074240
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-tautomer:
+    lastUpdated: 20161010074240
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test:
+    lastUpdated: 20161010074241
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-atomtype:
+    lastUpdated: 20161010074241
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-core:
+    lastUpdated: 20161010074241
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-extra:
+    lastUpdated: 20161010074241
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-interfaces:
+    lastUpdated: 20161010074242
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-standard:
+    lastUpdated: 20161010074242
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-test-valencycheck:
+    lastUpdated: 20161010074242
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-testdata:
+    lastUpdated: 20161010074243
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-tool:
+    lastUpdated: 20161010074243
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+  cdk-valencycheck:
+    lastUpdated: 20161010074243
+    latest: 1.5.14
+    release: 1.5.14
+    versions:
+      - 1.5.10
+      - 1.5.11
+      - 1.5.12
+      - 1.5.13
+      - 1.5.14
+

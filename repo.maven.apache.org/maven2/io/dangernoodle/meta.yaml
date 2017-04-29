@@ -1,0 +1,51 @@
+artifacts:
+  dangernoodle-io-build-pom:
+    lastUpdated: 20160922181434
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  dangernoodle-io-org-pom:
+    lastUpdated: 20160921011313
+    latest: 1
+    release: 1
+    versions:
+      - 1
+      - 1
+  slack-bot-api:
+    lastUpdated: 20170102185042
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  slack-bot-api-core:
+    lastUpdated: 20170102185043
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  slack-bot-api-jetty:
+    lastUpdated: 20170102185043
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  slack-bot-api-site:
+    lastUpdated: 20170102185043
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  slack-bot-api-tyrus:
+    lastUpdated: 20170102185043
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+

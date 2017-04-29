@@ -1,0 +1,1031 @@
+artifacts:
+  abiquo:
+    lastUpdated: 20170227150604
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  aws-elb:
+    lastUpdated: 20170227150605
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  aws-iam:
+    lastUpdated: 20170227150606
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  aws-rds:
+    lastUpdated: 20170227150607
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  azurecompute:
+    lastUpdated: 20170227150607
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  azurecompute-arm:
+    lastUpdated: 20170227150608
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  b2:
+    lastUpdated: 20170227150609
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  cdmi:
+    lastUpdated: 20170227150610
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  chef-labs-project:
+    lastUpdated: 20131130174330
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+  cloudsigma2:
+    lastUpdated: 20170227150611
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-hnl:
+    lastUpdated: 20170227150612
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-lvs:
+    lastUpdated: 20170227150613
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-mia:
+    lastUpdated: 20170227150614
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-sjc:
+    lastUpdated: 20170227150614
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-wdc:
+    lastUpdated: 20170227150615
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  cloudsigma2-zrh:
+    lastUpdated: 20170227150617
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  digitalocean:
+    lastUpdated: 20161123113146
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  digitalocean2:
+    lastUpdated: 20161123113147
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  dmtf:
+    lastUpdated: 20141024050619
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  docker:
+    lastUpdated: 20161123113147
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  elb:
+    lastUpdated: 20170227150618
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  fgcp:
+    lastUpdated: 20141024050656
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  fgcp-au:
+    lastUpdated: 20141024050657
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  fgcp-de:
+    lastUpdated: 20141024050658
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  glacier:
+    lastUpdated: 20170227150618
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  google-cloud-storage:
+    lastUpdated: 20170227150619
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  google-compute-engine:
+    lastUpdated: 20161123113150
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  googlecloud:
+    lastUpdated: 20161123113150
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  h2-jdbc:
+    lastUpdated: 20170227150620
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  hostedchef:
+    lastUpdated: 20131130174324
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+  iam:
+    lastUpdated: 20170227150621
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-labs:
+    lastUpdated: 20170227150622
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-labs-aws:
+    lastUpdated: 20170227150623
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-labs-google:
+    lastUpdated: 20170227150624
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-labs-openstack:
+    lastUpdated: 20170227150625
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  jclouds-management:
+    lastUpdated: 20141024050718
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  jclouds-representations:
+    lastUpdated: 20141024050718
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+  jclouds-represetations:
+    lastUpdated: 20140530212924
+    latest: 1.7.3
+    release: 1.7.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+  jdbc:
+    lastUpdated: 20170227150626
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  joyent-cloudapi:
+    lastUpdated: 20170227150627
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  joyentcloud:
+    lastUpdated: 20170227150628
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  oauth:
+    lastUpdated: 20161123113155
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  oneandone:
+    lastUpdated: 20170227150629
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  openstack-glance:
+    lastUpdated: 20170227150630
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-heat:
+    lastUpdated: 20170227150631
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-marconi:
+    lastUpdated: 20170227150632
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-neutron:
+    lastUpdated: 20170227150632
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-poppy:
+    lastUpdated: 20170227150633
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  openstack-quantum:
+    lastUpdated: 20131130174332
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+  openstack-reddwarf:
+    lastUpdated: 20130620020509
+    latest: 1.6.1-incubating
+    release: 1.6.1-incubating
+    versions:
+      - 1.6.1-incubating
+  openstack-swift:
+    lastUpdated: 20140805113754
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+  openstack-trove:
+    lastUpdated: 20131130174325
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.2-incubating
+      - 1.6.3
+  packet:
+    lastUpdated: 20170227150634
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  privatechef:
+    lastUpdated: 20131130174325
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+  profitbricks:
+    lastUpdated: 20161123113159
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  profitbricks-rest:
+    lastUpdated: 20170227150635
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.0
+      - 2.0.1
+  rackspace-autoscale:
+    lastUpdated: 20170227150636
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-autoscale-uk:
+    lastUpdated: 20170227150637
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-autoscale-us:
+    lastUpdated: 20170227150638
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cdn-uk:
+    lastUpdated: 20170227150639
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cdn-us:
+    lastUpdated: 20170227150639
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudbigdata:
+    lastUpdated: 20170227150640
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudbigdata-us:
+    lastUpdated: 20170227150641
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-clouddatabases-uk:
+    lastUpdated: 20131130174322
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.2-incubating
+      - 1.6.3
+  rackspace-clouddatabases-us:
+    lastUpdated: 20131130174331
+    latest: 1.6.3
+    release: 1.6.3
+    versions:
+      - 1.6.2-incubating
+      - 1.6.3
+  rackspace-cloudfiles:
+    lastUpdated: 20150329203527
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+  rackspace-cloudfiles-uk:
+    lastUpdated: 20150329203528
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+  rackspace-cloudfiles-us:
+    lastUpdated: 20150329203530
+    latest: 1.9.0
+    release: 1.9.0
+    versions:
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+  rackspace-cloudnetworks-uk:
+    lastUpdated: 20170227150642
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudnetworks-us:
+    lastUpdated: 20170227150642
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudqueues-uk:
+    lastUpdated: 20170227150644
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-cloudqueues-us:
+    lastUpdated: 20170227150644
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-orchestration-uk:
+    lastUpdated: 20170227150645
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rackspace-orchestration-us:
+    lastUpdated: 20170227150646
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  rds:
+    lastUpdated: 20170227150647
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+      - 2.0.0
+      - 2.0.1
+  shipyard:
+    lastUpdated: 20161123113208
+    latest: 1.9.3
+    release: 1.9.3
+    versions:
+      - 1.9.0
+      - 1.9.1
+      - 1.9.2
+      - 1.9.3
+  vagrant:
+    lastUpdated: 20170227150647
+    latest: 2.0.1
+    release: 2.0.1
+    versions:
+      - 2.0.1
+  vcloud-director:
+    lastUpdated: 20141024050848
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+  virtualbox:
+    lastUpdated: 20141024050855
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.6.1-incubating
+      - 1.6.2-incubating
+      - 1.6.3
+      - 1.7.0
+      - 1.7.1
+      - 1.7.2
+      - 1.7.3
+      - 1.8.0
+      - 1.8.1
+

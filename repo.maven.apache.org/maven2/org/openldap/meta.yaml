@@ -1,0 +1,75 @@
+artifacts:
+  accelerator:
+    lastUpdated: 20151120175740
+    latest: 1.0-RC41
+    release: 1.0-RC41
+    versions:
+      - 1.0-RC35
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+      - 1.0-RC40
+      - 1.0-RC41
+  accelerator-api:
+    lastUpdated: 20151120175740
+    latest: 1.0-RC41
+    release: 1.0-RC41
+    versions:
+      - 1.0-RC35
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+      - 1.0-RC40
+      - 1.0-RC41
+  accelerator-impl:
+    lastUpdated: 20151120175741
+    latest: 1.0-RC41
+    release: 1.0-RC41
+    versions:
+      - 1.0-RC35
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+      - 1.0-RC40
+      - 1.0-RC41
+  commander:
+    lastUpdated: 20140811043549
+    latest: 1.0-RC39
+    release: 1.0-RC39
+    versions:
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+  enmasse:
+    lastUpdated: 20140811043530
+    latest: 1.0-RC39
+    release: 1.0-RC39
+    versions:
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+  fortress:
+    lastUpdated: 20140810030546
+    latest: 1.0-RC39
+    release: 1.0-RC39
+    versions:
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+  sentry:
+    lastUpdated: 20140810210326
+    latest: 1.0-RC39a
+    release: 1.0-RC39a
+    versions:
+      - 1.0-RC36
+      - 1.0-RC37
+      - 1.0-RC38
+      - 1.0-RC39
+      - 1.0-RC39a
+

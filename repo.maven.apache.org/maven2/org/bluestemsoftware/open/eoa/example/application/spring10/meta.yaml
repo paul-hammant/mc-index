@@ -1,0 +1,112 @@
+artifacts:
+  example-business-docs:
+    lastUpdated: 20100105045611
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  order-manager-api:
+    lastUpdated: 20100105045627
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  order-manager-application:
+    lastUpdated: 20100105045734
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  order-manager-engine:
+    lastUpdated: 20100105045707
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  order-manager-web-retail:
+    lastUpdated: 20100105045647
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  spring-10-application:
+    lastUpdated: 20100105045559
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  warehouse-manager-application:
+    lastUpdated: 20100105045850
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  warehouse-manager-atlanta:
+    lastUpdated: 20100105045800
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  warehouse-manager-chicago:
+    lastUpdated: 20100105045812
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+  warehouse-manager-dallas:
+    lastUpdated: 20100105045832
+    latest: 0.8.5.0
+    release: 0.8.5.0
+    versions:
+      - 0.8.0.1
+      - 0.8.1.0
+      - 0.8.1.1
+      - 0.8.2.0
+      - 0.8.2.1
+      - 0.8.5.0
+

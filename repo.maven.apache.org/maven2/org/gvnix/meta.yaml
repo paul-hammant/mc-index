@@ -1,0 +1,691 @@
+artifacts:
+  org.gvnix.addon.bootstrap:
+    lastUpdated: 20151130150526
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.datatables:
+    lastUpdated: 20151130150527
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.datatables.addon:
+    lastUpdated: 20151130150527
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.datatables.annotations:
+    lastUpdated: 20151130150528
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.fancytree:
+    lastUpdated: 20151130150528
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.fancytree.addon:
+    lastUpdated: 20151130150529
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.fancytree.annotations:
+    lastUpdated: 20151130150529
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.geo:
+    lastUpdated: 20151130150530
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.geo.addon:
+    lastUpdated: 20151130150530
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.geo.annotations:
+    lastUpdated: 20151130150531
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.gva.security:
+    lastUpdated: 20151130150532
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.gva.security.addon:
+    lastUpdated: 20151130150533
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.gva.security.annotations:
+    lastUpdated: 20151130150534
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.addon.jpa:
+    lastUpdated: 20151130150534
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.jpa.addon:
+    lastUpdated: 20151130150534
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.jpa.annotations:
+    lastUpdated: 20151130150535
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.loupefield:
+    lastUpdated: 20151130150536
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.loupefield.addon:
+    lastUpdated: 20151130150537
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.loupefield.annotations:
+    lastUpdated: 20151130150537
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.monitoring:
+    lastUpdated: 20151130150538
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.web.mvc:
+    lastUpdated: 20151130150538
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.web.mvc.addon:
+    lastUpdated: 20151130150539
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.addon.web.mvc.annotations:
+    lastUpdated: 20151130150539
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.datatables.tags:
+    lastUpdated: 20151130150540
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.deployment.support:
+    lastUpdated: 20150629100742
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.gvnix.dynamic.configuration.roo.addon:
+    lastUpdated: 20151130150541
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.flex:
+    lastUpdated: 20150226150951
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.1.RELEASE
+  org.gvnix.flex.addon:
+    lastUpdated: 20150226150951
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.1.RELEASE
+  org.gvnix.flex.annotations:
+    lastUpdated: 20150226150951
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.1.RELEASE
+  org.gvnix.flex.roo.addon:
+    lastUpdated: 20141121074607
+    latest: 1.4.0.RELEASE
+    release: 1.4.0.RELEASE
+    versions:
+      - 1.4.0.RELEASE
+  org.gvnix.jpa.geo:
+    lastUpdated: 20151130150542
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.occ.roo.addon:
+    lastUpdated: 20151130150543
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.occ.roo.addon.addon:
+    lastUpdated: 20151130150543
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.occ.roo.addon.annotations:
+    lastUpdated: 20151130150544
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.osgi.bundles:
+    lastUpdated: 20151130150544
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.roo.addon.repository:
+    lastUpdated: 20150629100744
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.gvnix.roo.addon.suite:
+    lastUpdated: 20150629100744
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 2.0.0.M1
+  org.gvnix.root:
+    lastUpdated: 20151130150544
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.service.roo.addon:
+    lastUpdated: 20151130150545
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.service.roo.addon.addon:
+    lastUpdated: 20151130150545
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.service.roo.addon.annotations:
+    lastUpdated: 20151130150546
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.support:
+    lastUpdated: 20151130150546
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.util.fancytree:
+    lastUpdated: 20151130150547
+    latest: 1.5.1.RC4
+    release: 1.5.1.RC4
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+  org.gvnix.web.datatables:
+    lastUpdated: 20151130150548
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.exception.handler.roo.addon:
+    lastUpdated: 20151130150548
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.exception.handler.roo.addon.addon:
+    lastUpdated: 20151130150549
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.exception.handler.roo.addon.annotations:
+    lastUpdated: 20151130150549
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.geo:
+    lastUpdated: 20151130150550
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.i18n.roo.addon:
+    lastUpdated: 20151130150550
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.json.binding:
+    lastUpdated: 20151130150551
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.menu.roo.addon:
+    lastUpdated: 20151130150552
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.mvc.binding.roo.addon:
+    lastUpdated: 20151130150552
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.mvc.binding.roo.addon.addon:
+    lastUpdated: 20151130150553
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.mvc.binding.roo.addon.annotations:
+    lastUpdated: 20151130150553
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.report.roo.addon:
+    lastUpdated: 20151130150554
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.report.roo.addon.addon:
+    lastUpdated: 20151130150554
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.report.roo.addon.annotations:
+    lastUpdated: 20151130150555
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+  org.gvnix.web.screen.roo.addon:
+    lastUpdated: 20150226151005
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  org.gvnix.web.screen.roo.addon.addon:
+    lastUpdated: 20150226151005
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.1.RELEASE
+  org.gvnix.web.screen.roo.addon.annotations:
+    lastUpdated: 20150226151005
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.1.RELEASE
+  org.gvnix.web.theme.roo.addon:
+    lastUpdated: 20150226151006
+    latest: 1.4.1.RELEASE
+    release: 1.4.1.RELEASE
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+  org.gvnix.web.typicalsecurity.roo.addon:
+    lastUpdated: 20151130150556
+    latest: 2.0.0.M1
+    release: 2.0.0.M1
+    versions:
+      - 1.4.0.RELEASE
+      - 1.4.1.RELEASE
+      - 1.5.0.RELEASE
+      - 1.5.1.RC1
+      - 1.5.1.RC2
+      - 1.5.1.RC3
+      - 1.5.1.RC4
+      - 2.0.0.M1
+

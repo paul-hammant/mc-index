@@ -1,0 +1,501 @@
+artifacts:
+  ConsumerAP:
+    lastUpdated: 20150223074154
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ConsumerEA:
+    lastUpdated: 20150223074155
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ConsumerEL:
+    lastUpdated: 20150223074155
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ConsumerWA:
+    lastUpdated: 20150223074156
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ConsumerWB:
+    lastUpdated: 20150223074157
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ExtenderServiceProvider:
+    lastUpdated: 20150223074157
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ExtenderServiceRequester:
+    lastUpdated: 20150223074157
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  Log2Twitter:
+    lastUpdated: 20121007201043
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  LoggingServiceBinding:
+    lastUpdated: 20121007201044
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  LoggingWithJCL:
+    lastUpdated: 20121007201045
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  NativeAdapter:
+    lastUpdated: 20150223074158
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ProducerAP:
+    lastUpdated: 20150223074158
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ProducerEA:
+    lastUpdated: 20150223074159
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ProducerEL:
+    lastUpdated: 20150223074159
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ProducerWA:
+    lastUpdated: 20150223074200
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ProducerWB:
+    lastUpdated: 20150223074201
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  SCRServiceProvider:
+    lastUpdated: 20150223074201
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  SCRServiceRequester:
+    lastUpdated: 20150223074202
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI:
+    lastUpdated: 20150223074202
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4APStep4:
+    lastUpdated: 20150223074203
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4EAStep4:
+    lastUpdated: 20150223074203
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4ELStep4:
+    lastUpdated: 20150223074204
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4WAStep4:
+    lastUpdated: 20150223074204
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4WBStep2:
+    lastUpdated: 20150223074205
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4WBStep3:
+    lastUpdated: 20150223074205
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceAPI4WBStep4:
+    lastUpdated: 20150223074206
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceProvider:
+    lastUpdated: 20150223074206
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceProvider1:
+    lastUpdated: 20150223074207
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceProvider2:
+    lastUpdated: 20150223074208
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceProviderWB1:
+    lastUpdated: 20150223074208
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceProviderWB2:
+    lastUpdated: 20150223074209
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceRequester:
+    lastUpdated: 20150223074209
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceRequester1:
+    lastUpdated: 20150223074210
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceRequester2:
+    lastUpdated: 20150223074210
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceRequesterWB1:
+    lastUpdated: 20150223074210
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  ServiceRequesterWB2:
+    lastUpdated: 20150223074211
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  TwitterService:
+    lastUpdated: 20121007201046
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  iPOJOAdaptee:
+    lastUpdated: 20150223074211
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOAdapter:
+    lastUpdated: 20150223074212
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOConsumerAP:
+    lastUpdated: 20150223074212
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOConsumerWB:
+    lastUpdated: 20150223074213
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOProducerAP:
+    lastUpdated: 20150223074213
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOProducerWB:
+    lastUpdated: 20150223074214
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOServiceProvider:
+    lastUpdated: 20150223074215
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  iPOJOServiceRequester:
+    lastUpdated: 20150223074216
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  logging.aggregator:
+    lastUpdated: 20121007201049
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  logging.parent:
+    lastUpdated: 20121007201049
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  patterns.aggregator:
+    lastUpdated: 20150223074216
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  patterns.distribution:
+    lastUpdated: 20150223074216
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  patterns.integration:
+    lastUpdated: 20150223074217
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+  patterns.parent:
+    lastUpdated: 20150223074217
+    latest: 1.0.14
+    release: 1.0.14
+    versions:
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+      - 1.0.12
+      - 1.0.14
+

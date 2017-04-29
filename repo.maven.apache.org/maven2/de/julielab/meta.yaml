@@ -1,0 +1,526 @@
+artifacts:
+  aliasi-lingpipe:
+    lastUpdated: 20151110150630
+    latest: 4.1.0
+    release: 4.1.0
+    versions:
+      - 4.1.0
+  biosem-event-extractor:
+    lastUpdated: 20160927082900
+    latest: 1.1.6
+    release: 1.1.6
+    versions:
+      - 1.1.2
+      - 1.1.5
+      - 1.1.6
+  elasticsearch-mapper-preanalyzed:
+    lastUpdated: 20170419115333
+    latest: 5.2.2
+    release: 5.2.2
+    versions:
+      - 5.2.2
+  jcore-ace-reader:
+    lastUpdated: 20160923142432
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+  jcore-acronym-ae:
+    lastUpdated: 20161026084516
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+  jcore-base:
+    lastUpdated: 20160923142434
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-bionlp09event-consumer:
+    lastUpdated: 20160923142434
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-bionlp09event-reader:
+    lastUpdated: 20160923142435
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-biosem-ae:
+    lastUpdated: 20160923142436
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-biosem-ae-bionlp-st11:
+    lastUpdated: 20160923184109
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-cas2conll-consumer:
+    lastUpdated: 20160927072819
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.2.1
+  jcore-cas2iob-consumer:
+    lastUpdated: 20160923142436
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+  jcore-coordination-baseline-ae:
+    lastUpdated: 20160923142437
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-dependencies:
+    lastUpdated: 20160927084250
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-dta-reader:
+    lastUpdated: 20160923142438
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-file-reader:
+    lastUpdated: 20160923142439
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-iexml-consumer:
+    lastUpdated: 20160923142440
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-iexml-reader:
+    lastUpdated: 20160923142442
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jnet-ae:
+    lastUpdated: 20160923142442
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jnet-ae-biomedical-english:
+    lastUpdated: 20160923184110
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jpos-ae:
+    lastUpdated: 20160923142443
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jpos-ae-medical-german:
+    lastUpdated: 20160923184112
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jsbd-ae:
+    lastUpdated: 20160923142444
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jsbd-ae-biomedical-english:
+    lastUpdated: 20160923184114
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jsbd-ae-medical-german:
+    lastUpdated: 20160923184115
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-jtbd-ae:
+    lastUpdated: 20160923142445
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jtbd-ae-biomedical-english:
+    lastUpdated: 20160923184115
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-jtbd-ae-medical-german:
+    lastUpdated: 20160923184117
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-lingpipe-gazetteer-ae:
+    lastUpdated: 20160923142446
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-lingpipe-porterstemmer-ae:
+    lastUpdated: 20160923142446
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-lingpipegazetteer-ae-dummy-implementation:
+    lastUpdated: 20160923184117
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-mallet-2.0.9:
+    lastUpdated: 20160509161306
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.9
+      - 2.1.0
+  jcore-mantra-xml-types:
+    lastUpdated: 20160923142447
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-medline-reader:
+    lastUpdated: 20160923184117
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+  jcore-mstparser-ae:
+    lastUpdated: 20160513102841
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.0.0
+      - 2.0.2
+      - 2.1.0
+      - 2.1.1
+  jcore-mstparser-ae-biomedical-english:
+    lastUpdated: 20160514085651
+    latest: 2.1.1
+    release: 2.1.1
+    versions:
+      - 2.0.2
+      - 2.1.0
+      - 2.1.1
+  jcore-muc7-reader:
+    lastUpdated: 20160923142448
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.2.0
+  jcore-opennlp-chunk-ae:
+    lastUpdated: 20160923142449
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-chunk-ae-biomedical-english:
+    lastUpdated: 20160923184118
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-chunk-ae-genia:
+    lastUpdated: 20151119142405
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  jcore-opennlp-parser-ae:
+    lastUpdated: 20160923142450
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-parser-ae-biomedical-english:
+    lastUpdated: 20160923184118
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-postag-ae:
+    lastUpdated: 20160923142450
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-postag-ae-biomedical-english:
+    lastUpdated: 20160923184119
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-postag-ae-medical-german:
+    lastUpdated: 20160923184119
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-opennlp-postag-ae-pennbioie:
+    lastUpdated: 20151119142405
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  jcore-opennlp-sentence-ae:
+    lastUpdated: 20160923142451
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-sentence-ae-biomedical-english:
+    lastUpdated: 20160923184119
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-sentence-ae-genia-pennbio-english:
+    lastUpdated: 20151119142406
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  jcore-opennlp-sentence-ae-medical-german:
+    lastUpdated: 20160923184120
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-opennlp-token-ae:
+    lastUpdated: 20160923142452
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-token-ae-biomedical-english:
+    lastUpdated: 20160923184120
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-opennlp-token-ae-medical-german:
+    lastUpdated: 20160923184120
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  jcore-parent:
+    lastUpdated: 20160927074855
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-pipelines:
+    lastUpdated: 20160926114217
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-projects:
+    lastUpdated: 20160923184121
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-pubmed-reader:
+    lastUpdated: 20160923184121
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+  jcore-stanford-lemmatizer:
+    lastUpdated: 20160923142453
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-types:
+    lastUpdated: 20160926115826
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.1.1
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  jcore-utilities:
+    lastUpdated: 20160923142454
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+  jcore-xmi-writer:
+    lastUpdated: 20160926140647
+    latest: 2.2.1
+    release: 2.2.1
+    versions:
+      - 2.0.0
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+  jcore-xml-mapper:
+    lastUpdated: 20160923142455
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+  jcore-xml-reader:
+    lastUpdated: 20160923142456
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.1.0
+      - 2.2.0
+  jules-xmi-writer:
+    lastUpdated: 20151111090556
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  julie-segment-eval:
+    lastUpdated: 20151110151030
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  julie-xml-tools:
+    lastUpdated: 20160509161308
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.3.0
+      - 0.3.1
+  julielab-parent:
+    lastUpdated: 20170207133429
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  uea-stemmer:
+    lastUpdated: 20151110151032
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  xercesImpl:
+    lastUpdated: 20170421095245
+    latest: 2.11.0.1
+    release: 2.11.0.1
+    versions:
+      - 2.11
+      - 2.11.0.1
+      - 2.11
+

@@ -1,0 +1,51 @@
+artifacts:
+  courtview-court-case-filing-service-adapter:
+    lastUpdated: 20161120192319
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  custody-analytics-staging-adapter:
+    lastUpdated: 20160913192531
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  fbi-electronic-biometric-transmission-specification-adapter:
+    lastUpdated: 20161028192508
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  n-dex-submission-service-mock-adapter:
+    lastUpdated: 20151214172239
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  person-health-information-search-service-adapter:
+    lastUpdated: 20160913192531
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  rapback-data-store-adapter:
+    lastUpdated: 20151214172239
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.1
+  static-mock-adapter:
+    lastUpdated: 20151214172240
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  static-mock-adapter-osgi:
+    lastUpdated: 20151214172240
+    latest: 1.0.16
+    release: 1.0.16
+    versions:
+      - 1.0.16
+

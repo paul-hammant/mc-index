@@ -1,0 +1,85 @@
+artifacts:
+  org.knowhowlab.comm.comm-api:
+    lastUpdated: 20150205090237
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.2
+  org.knowhowlab.comm.rxtx-patched:
+    lastUpdated: 20150205090238
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing:
+    lastUpdated: 20150205090240
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.common:
+    lastUpdated: 20150205090240
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it:
+    lastUpdated: 20150205090247
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it.osgi.oracle:
+    lastUpdated: 20150205090249
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it.osgi.pax.exam:
+    lastUpdated: 20150205090254
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it.osgi.rxtx:
+    lastUpdated: 20150205090255
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it.standalone.oracle:
+    lastUpdated: 20150205090256
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.it.standalone.rxtx:
+    lastUpdated: 20150205090257
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.oracle:
+    lastUpdated: 20150205090257
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+  org.knowhowlab.comm.testing.rxtx:
+    lastUpdated: 20150205090258
+    latest: 0.2
+    release: 0.2
+    versions:
+      - 0.1
+      - 0.2
+

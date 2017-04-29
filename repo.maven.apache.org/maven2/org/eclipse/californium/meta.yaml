@@ -1,0 +1,251 @@
+artifacts:
+  actinium:
+    lastUpdated: 20150116063349
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  californium-core:
+    lastUpdated: 20170228164539
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  californium-osgi:
+    lastUpdated: 20170228164541
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  californium-parent:
+    lastUpdated: 20160118154037
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+  californium-proxy:
+    lastUpdated: 20170228164541
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  cf-benchmark:
+    lastUpdated: 20150116063351
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-browser:
+    lastUpdated: 20150116063352
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-client:
+    lastUpdated: 20150116063352
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-coapbench:
+    lastUpdated: 20150116063353
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-cocoa:
+    lastUpdated: 20150116063353
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M3
+  cf-helloworld-client:
+    lastUpdated: 20150116063354
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-helloworld-server:
+    lastUpdated: 20150116063354
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-plugtest-checker:
+    lastUpdated: 20150116063355
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-plugtest-client:
+    lastUpdated: 20150116063355
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-plugtest-server:
+    lastUpdated: 20150116063356
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-proxy:
+    lastUpdated: 20150116063356
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-rd:
+    lastUpdated: 20150116063357
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-secure:
+    lastUpdated: 20150116063358
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  cf-server:
+    lastUpdated: 20150116063358
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  demo-certs:
+    lastUpdated: 20170228164541
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  element-connector:
+    lastUpdated: 20170228164541
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M5
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  parent:
+    lastUpdated: 20170228164542
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M6
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  root:
+    lastUpdated: 20150116063359
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+  scandium:
+    lastUpdated: 20170228164542
+    latest: 2.0.0-M3
+    release: 2.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+      - 1.0.0-M4
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 2.0.0-M1
+      - 2.0.0-M2
+      - 2.0.0-M3
+  scandium-parent:
+    lastUpdated: 20160118154112
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0-RC2
+      - 1.0.0
+      - 1.0.1
+  tools:
+    lastUpdated: 20150116063400
+    latest: 1.0.0-M3
+    release: 1.0.0-M3
+    versions:
+      - 1.0.0-M2
+      - 1.0.0-M3
+

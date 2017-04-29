@@ -1,0 +1,339 @@
+artifacts:
+  top:
+    lastUpdated: 20160107095035
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  xowl-connector-csv:
+    lastUpdated: 20170321200645
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-connector-semanticweb:
+    lastUpdated: 20170321200646
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-connectors:
+    lastUpdated: 20170321200646
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-dependencies:
+    lastUpdated: 20160107095035
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  xowl-distribution:
+    lastUpdated: 20170321200646
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-kernel:
+    lastUpdated: 20170321200647
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-kernel-impl:
+    lastUpdated: 20170321200647
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-platform:
+    lastUpdated: 20170321200647
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-satellite-activiti:
+    lastUpdated: 20160304132301
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-satellite-base:
+    lastUpdated: 20160304132301
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-satellites:
+    lastUpdated: 20160304132302
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-service-collaboration:
+    lastUpdated: 20170321200647
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-community:
+    lastUpdated: 20170321200648
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-config:
+    lastUpdated: 20160120193621
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  xowl-service-connection:
+    lastUpdated: 20170321200648
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-consistency:
+    lastUpdated: 20170321200649
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-domain:
+    lastUpdated: 20160131104140
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  xowl-service-evaluation:
+    lastUpdated: 20170321200649
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-executor:
+    lastUpdated: 20160304132304
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-service-httpapi:
+    lastUpdated: 20170321200650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-impact:
+    lastUpdated: 20170321200650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-importation:
+    lastUpdated: 20170321200650
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-lts:
+    lastUpdated: 20160304132306
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-service-marketplace:
+    lastUpdated: 20170321200651
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-security-internal:
+    lastUpdated: 20170321200651
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-statistics:
+    lastUpdated: 20160304132306
+    latest: 0.2.3
+    release: 0.2.3
+    versions:
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+  xowl-service-storage:
+    lastUpdated: 20170321200652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  xowl-service-webapp:
+    lastUpdated: 20170321200652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+  xowl-service-workflow:
+    lastUpdated: 20160120193625
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  xowl-services:
+    lastUpdated: 20170321200652
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.1.5
+      - 0.1.6
+      - 0.1.7
+      - 0.1.9
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.3.0
+

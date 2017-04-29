@@ -1,0 +1,50 @@
+artifacts:
+  org.apache.onami.logging.acl:
+    lastUpdated: 20130204213005
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.core:
+    lastUpdated: 20130204213005
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.juli:
+    lastUpdated: 20130204213006
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.log4j:
+    lastUpdated: 20130204213005
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.log4j2:
+    lastUpdated: 20130204213006
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.parent:
+    lastUpdated: 20130204213006
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.slf4j:
+    lastUpdated: 20130204213005
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+  org.apache.onami.logging.testfw:
+    lastUpdated: 20130204213006
+    latest: 3.4.0-incubating
+    release: 3.4.0-incubating
+    versions:
+      - 3.4.0-incubating
+

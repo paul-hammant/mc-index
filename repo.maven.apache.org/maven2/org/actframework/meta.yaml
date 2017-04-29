@@ -1,0 +1,138 @@
+artifacts:
+  act:
+    lastUpdated: 20170418072559
+    latest: 1.1.2
+    release: 1.1.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+  act-aaa:
+    lastUpdated: 20170418072559
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.0
+  act-asm:
+    lastUpdated: 20170308212722
+    latest: 5.0
+    release: 5.0
+    versions:
+      - 5.0
+      - 5.0
+  act-beetl:
+    lastUpdated: 20170309021911
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  act-beetlsql:
+    lastUpdated: 20170420072407
+    latest: 1.1.0a
+    release: 1.1.0a
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.1.0a
+  act-ebean:
+    lastUpdated: 20170420054800
+    latest: 1.1.5
+    release: 1.1.5
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.1.5
+  act-ebean2:
+    lastUpdated: 20170420054801
+    latest: 1.0.4
+    release: 1.0.4
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+  act-excel:
+    lastUpdated: 20170309021911
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  act-freemarker:
+    lastUpdated: 20170318110348
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  act-morphia:
+    lastUpdated: 20170412062125
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.1.0
+  act-mustache:
+    lastUpdated: 20170318100324
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  act-social-link:
+    lastUpdated: 20170309233810
+    latest: 0.8.0
+    release: 0.8.0
+    versions:
+      - 0.8.0
+  act-sql-common:
+    lastUpdated: 20170420225253
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  act-storage:
+    lastUpdated: 20170418072535
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.8.0
+      - 0.9.0
+  act-thymeleaf:
+    lastUpdated: 20170309021913
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  act-velocity:
+    lastUpdated: 20170309021913
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+

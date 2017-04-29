@@ -1,0 +1,24 @@
+artifacts:
+  jbot:
+    lastUpdated: 20160828182526
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+  jbot-core:
+    lastUpdated: 20160828163913
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  jbot-parent:
+    lastUpdated: 20160828182526
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.1
+      - 3.0.2
+

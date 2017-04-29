@@ -1,0 +1,68 @@
+artifacts:
+  syncope-ext-saml2sp-agent:
+    lastUpdated: 20170418082149
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-client-console:
+    lastUpdated: 20170418082149
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-client-enduser:
+    lastUpdated: 20170418082150
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-common-lib:
+    lastUpdated: 20170418082150
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-logic:
+    lastUpdated: 20170418082151
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-persistence-api:
+    lastUpdated: 20170418082151
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-persistence-jpa:
+    lastUpdated: 20170418082152
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-provisioning-api:
+    lastUpdated: 20170418082152
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-provisioning-java:
+    lastUpdated: 20170418082153
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-rest-api:
+    lastUpdated: 20170418082153
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+  syncope-ext-saml2sp-rest-cxf:
+    lastUpdated: 20170418082154
+    latest: 2.0.3
+    release: 2.0.3
+    versions:
+      - 2.0.3
+

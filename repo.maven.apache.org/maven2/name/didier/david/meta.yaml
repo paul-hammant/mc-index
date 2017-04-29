@@ -1,0 +1,89 @@
+artifacts:
+  ndd-ansible4j:
+    lastUpdated: 20150225175945
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ndd-build:
+    lastUpdated: 20161130144712
+    latest: 0.2.6
+    release: 0.2.6
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.2.5
+      - 0.2.6
+  ndd-check4j:
+    lastUpdated: 20161130145931
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.2.2
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.1
+      - 0.5.2
+      - 0.5.3
+      - 0.6.0
+      - 0.6.1
+  ndd-commons:
+    lastUpdated: 20150225174752
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ndd-parent:
+    lastUpdated: 20161116130618
+    latest: 0.2.4
+    release: 0.2.4
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+  ndd-parent-java:
+    lastUpdated: 20161130145542
+    latest: 0.3.1
+    release: 0.3.1
+    versions:
+      - 0.2.0
+      - 0.2.1
+      - 0.2.2
+      - 0.2.3
+      - 0.2.4
+      - 0.3.0
+      - 0.3.1
+  ndd-test4j:
+    lastUpdated: 20161206160750
+    latest: 0.4.3
+    release: 0.4.3
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 0.3.1
+      - 0.3.2
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+      - 0.3.6
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+

@@ -1,0 +1,243 @@
+artifacts:
+  emblem_2.11:
+    lastUpdated: 20170325153410
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.11.2
+      - 0.11.3
+      - 0.11.4
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  emblem_2.12:
+    lastUpdated: 20170325153411
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-cassandra-deps_2.11:
+    lastUpdated: 20170325153411
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.11.2
+      - 0.11.3
+      - 0.11.4
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-cassandra-deps_2.12:
+    lastUpdated: 20170325153411
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-ddd_2.11:
+    lastUpdated: 20161111183350
+    latest: 0.16.1
+    release: 0.16.1
+    versions:
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+      - 0.16.1
+  longevity-ddd_2.12:
+    lastUpdated: 20161111183350
+    latest: 0.16.1
+    release: 0.16.1
+    versions:
+      - 0.16.1
+  longevity-mongo-deps_2.11:
+    lastUpdated: 20161210023139
+    latest: 0.19.0
+    release: 0.19.0
+    versions:
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.11.2
+      - 0.11.3
+      - 0.11.4
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+  longevity-mongo-deps_2.12:
+    lastUpdated: 20161210023139
+    latest: 0.19.0
+    release: 0.19.0
+    versions:
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+  longevity-mongodb-deps_2.11:
+    lastUpdated: 20170325153412
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-mongodb-deps_2.12:
+    lastUpdated: 20170325153412
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-sqlite-deps_2.11:
+    lastUpdated: 20170325153412
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity-sqlite-deps_2.12:
+    lastUpdated: 20170325153413
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity_2.11:
+    lastUpdated: 20170325153413
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+      - 0.8.0
+      - 0.8.1
+      - 0.9.0
+      - 0.9.1
+      - 0.10.0
+      - 0.11.0
+      - 0.11.1
+      - 0.11.2
+      - 0.11.3
+      - 0.11.4
+      - 0.12.0
+      - 0.13.0
+      - 0.13.1
+      - 0.14.0
+      - 0.15.0
+      - 0.16.0
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  longevity_2.12:
+    lastUpdated: 20170325153414
+    latest: 0.22.0
+    release: 0.22.0
+    versions:
+      - 0.16.1
+      - 0.17.0
+      - 0.18.0
+      - 0.19.0
+      - 0.20.0
+      - 0.21.0
+      - 0.22.0
+  streamadapter_2.11:
+    lastUpdated: 20170324220828
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+  streamadapter_2.12:
+    lastUpdated: 20170324220828
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+  unblocking_2.11:
+    lastUpdated: 20170214221227
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+  unblocking_2.12:
+    lastUpdated: 20170214221227
+    latest: 0.0.0
+    release: 0.0.0
+    versions:
+      - 0.0.0
+

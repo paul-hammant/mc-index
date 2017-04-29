@@ -1,0 +1,321 @@
+artifacts:
+  JadeAndroid:
+    lastUpdated: 20150804235208
+    latest: 4.3.3
+    release: 4.3.3
+    versions:
+      - 4.3.3
+  applinker:
+    lastUpdated: 20130709121738
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+  codegen:
+    lastUpdated: 20130709121738
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.7
+  codeuploader:
+    lastUpdated: 20130709121738
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+  common-codec:
+    lastUpdated: 20120722000827
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.3
+      - 1.3
+  editor:
+    lastUpdated: 20130709121739
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  htmldoc:
+    lastUpdated: 20130709121739
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.6
+  httptransportjade:
+    lastUpdated: 20120722000658
+    latest: 3.7
+    release: 3.7
+    versions:
+      - 3.7
+      - 3.7
+  iaf:
+    lastUpdated: 20130709121740
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  iafarch:
+    lastUpdated: 20121109232637
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  iafarch-empty:
+    lastUpdated: 20121109232637
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  iafarch-gui:
+    lastUpdated: 20121109232638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  iafarch-helloworld:
+    lastUpdated: 20121109232638
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  iafarch-interaction:
+    lastUpdated: 20121109232639
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  iaftesting:
+    lastUpdated: 20130709121740
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+  iioptransportjade:
+    lastUpdated: 20120722000806
+    latest: 3.7
+    release: 3.7
+    versions:
+      - 3.7
+      - 3.7
+  ingenias:
+    lastUpdated: 20130709121741
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ingeniasjgraphmod:
+    lastUpdated: 20130709121741
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+  jade:
+    lastUpdated: 20150924092016
+    latest: 4.3
+    release: 4.3
+    versions:
+      - 3.7
+      - 4.2
+      - 4.3
+      - 3.7
+      - 4.2
+      - 4.3
+  jadeMisc:
+    lastUpdated: 20120611143331
+    latest: 3.7
+    release: 3.7
+    versions:
+      - 3.7
+      - 3.7
+  jadeTools:
+    lastUpdated: 20120611143401
+    latest: 3.7
+    release: 3.7
+    versions:
+      - 3.7
+      - 3.7
+  swixml:
+    lastUpdated: 20120611141730
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  testguiagent:
+    lastUpdated: 20130709121741
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+  testhelloworld:
+    lastUpdated: 20130709121742
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+  testinteractionwithconditions:
+    lastUpdated: 20130709121742
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  testmacros:
+    lastUpdated: 20130709121742
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+  testmacrostaskpconnects:
+    lastUpdated: 20130709121743
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.6
+      - 1.6
+  testorgs:
+    lastUpdated: 20130709121743
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.5
+      - 1.6
+      - 1.5
+      - 1.6
+

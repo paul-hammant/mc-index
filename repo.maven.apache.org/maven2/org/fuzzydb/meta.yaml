@@ -1,0 +1,253 @@
+artifacts:
+  fuzzydb-parent:
+    lastUpdated: 20130418103341
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  fuzzydb-parent-aspectj:
+    lastUpdated: 20130418103342
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.aggregator:
+    lastUpdated: 20130418103342
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.client:
+    lastUpdated: 20130418103343
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.core:
+    lastUpdated: 20130418103344
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.expressions:
+    lastUpdated: 20130418103344
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.extras.aggregator:
+    lastUpdated: 20121026205029
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+  org.fuzzydb.indexer:
+    lastUpdated: 20121026205030
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+  org.fuzzydb.indexer.gui:
+    lastUpdated: 20121026205032
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+  org.fuzzydb.io.core:
+    lastUpdated: 20130418103345
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.io.packet:
+    lastUpdated: 20130418103346
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.postcode:
+    lastUpdated: 20130418103346
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.server:
+    lastUpdated: 20130418103347
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.spring:
+    lastUpdated: 20130418144836
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.spring.aggregator:
+    lastUpdated: 20130418144837
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.test.support:
+    lastUpdated: 20130418103349
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.tests:
+    lastUpdated: 20130418103349
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.util:
+    lastUpdated: 20130418103350
+    latest: 1.1.0.RELEASE
+    release: 1.1.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+      - 1.0.1.RELEASE
+      - 1.1.0.M1
+      - 1.1.0.RELEASE
+  org.fuzzydb.util.gui:
+    lastUpdated: 20121026205036
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+  org.fuzzydb.util.servlet:
+    lastUpdated: 20121026205037
+    latest: 1.0.0.RELEASE
+    release: 1.0.0.RELEASE
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+      - 1.0.0.M3
+      - 1.0.0.M4
+      - 1.0.0.RELEASE
+  spring-social-mongo:
+    lastUpdated: 20121210113450
+    latest: 0.9.0
+    release: 0.9.0
+    versions:
+      - 0.9.0
+  whirlwind-parent:
+    lastUpdated: 20110711220359
+    latest: 1.0.0.M2
+    release: 1.0.0.M2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+  whirlwind-parent-aspectj:
+    lastUpdated: 20110711220359
+    latest: 1.0.0.M2
+    release: 1.0.0.M2
+    versions:
+      - 1.0.0.M1
+      - 1.0.0.M2
+

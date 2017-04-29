@@ -1,0 +1,317 @@
+artifacts:
+  akka-ddd-core_2.11:
+    lastUpdated: 20170319143206
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-core_2.12:
+    lastUpdated: 20170319143207
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-messaging_2.11:
+    lastUpdated: 20170319143207
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-messaging_2.12:
+    lastUpdated: 20170319143208
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-monitoring_2.11:
+    lastUpdated: 20170319143208
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-monitoring_2.12:
+    lastUpdated: 20170319143209
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-scheduling_2.11:
+    lastUpdated: 20170319143209
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-scheduling_2.12:
+    lastUpdated: 20170319143209
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-test_2.11:
+    lastUpdated: 20170319143210
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-test_2.12:
+    lastUpdated: 20170319143210
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-write-front_2.11:
+    lastUpdated: 20170319143210
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  akka-ddd-write-front_2.12:
+    lastUpdated: 20170319143211
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  akka-persistence-eventstore_2.11:
+    lastUpdated: 20150531052447
+    latest: 2.0.3-M1
+    release: 2.0.3-M1
+    versions:
+      - 2.0.2-M1
+      - 2.0.3-M1
+  eventstore-akka-persistence_2.11:
+    lastUpdated: 20170319143211
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  eventstore-akka-persistence_2.12:
+    lastUpdated: 20170319143212
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  eventstore-client_2.11:
+    lastUpdated: 20150526101517
+    latest: 2.0.3-M1
+    release: 2.0.3-M1
+    versions:
+      - 2.0.3-M1
+  http-support_2.11:
+    lastUpdated: 20170319143212
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  http-support_2.12:
+    lastUpdated: 20170319143212
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  view-update-sql_2.11:
+    lastUpdated: 20170319143213
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  view-update-sql_2.12:
+    lastUpdated: 20170319143213
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+  view-update_2.11:
+    lastUpdated: 20170319143213
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.0.2-M1
+      - 1.0.3-M1
+      - 1.0.4-M2
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.9
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 1.3.3
+      - 1.4.0
+      - 1.4.1
+      - 1.5.0
+      - 1.5.1
+  view-update_2.12:
+    lastUpdated: 20170319143214
+    latest: 1.5.1
+    release: 1.5.1
+    versions:
+      - 1.5.0
+      - 1.5.1
+

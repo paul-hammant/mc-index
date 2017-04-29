@@ -1,0 +1,712 @@
+artifacts:
+  com.ibm.icu:
+    lastUpdated: 20161118014154
+    latest: 56.1.0.v201601250100
+    release: 56.1.0.v201601250100
+    versions:
+      - 4.4.2.v20110823
+      - 50.1.1.v201304230130
+      - 52.1.0.v201404241930
+      - 52.1.1.v201501240615
+      - 54.1.1.v201501272100
+      - 56.1.0.v201601250100
+  javax.xml:
+    lastUpdated: 20150921230610
+    latest: 1.3.4.v201005080400
+    release: 1.3.4.v201005080400
+    versions:
+      - 1.3.4.v201005080400
+  javax.xml.stream:
+    lastUpdated: 20120628035830
+    latest: 1.0.1.v201004272200
+    release: 1.0.1.v201004272200
+    versions:
+      - 1.0.1.v201004272200
+  net.sourceforge.lpg.lpgjavaruntime:
+    lastUpdated: 20150921230610
+    latest: 1.1.0.v201004271650
+    release: 1.1.0.v201004271650
+    versions:
+      - 1.1.0.v201004271650
+  org.apache.batik.dom:
+    lastUpdated: 20150921230611
+    latest: 1.6.1.v201505192100
+    release: 1.6.1.v201505192100
+    versions:
+      - 1.6.1.v201505192100
+  org.apache.commons.logging:
+    lastUpdated: 20130712023450
+    latest: 1.1.1.v201101211721
+    release: 1.1.1.v201101211721
+    versions:
+      - 1.0.4.v201101211617
+      - 1.1.1.v201101211721
+  org.apache.derby:
+    lastUpdated: 20161118014154
+    latest: 10.11.1.1_v201605202053
+    release: 10.11.1.1_v201605202053
+    versions:
+      - 10.11.1.1_v201605202053
+  org.apache.lucene.core:
+    lastUpdated: 20150921230611
+    latest: 3.5.0.v20120725-1805
+    release: 3.5.0.v20120725-1805
+    versions:
+      - 3.5.0.v20120725-1805
+  org.eclipse.birt.runtime:
+    lastUpdated: 20161118014155
+    latest: 4.6.0-20160607
+    release: 4.6.0-20160607
+    versions:
+      - 3.7.2.v20120214-1408
+      - 4.2.0
+      - 4.2.1
+      - 4.2.1a
+      - 4.2.2
+      - 4.3.0
+      - 4.3.1
+      - 4.3.1a
+      - 4.4.0
+      - 4.4.1
+      - 4.4.2
+      - 4.5.0
+      - 4.5.0a
+      - 4.6.0-20160607
+  org.eclipse.core.contenttype:
+    lastUpdated: 20150921230613
+    latest: 3.5.0.v20150421-2214
+    release: 3.5.0.v20150421-2214
+    versions:
+      - 3.4.200.v20120523-2004
+      - 3.4.200.v20130326-1255
+      - 3.4.200.v20140207-1251
+      - 3.5.0.v20150421-2214
+  org.eclipse.core.expressions:
+    lastUpdated: 20150921230613
+    latest: 3.5.0.v20150421-2214
+    release: 3.5.0.v20150421-2214
+    versions:
+      - 3.4.400.v20120523-2004
+      - 3.4.401.v20120627-124442
+      - 3.4.401.v20120912-155018
+      - 3.4.500.v20130515-1343
+      - 3.4.600.v20140128-0851
+      - 3.5.0.v20150421-2214
+  org.eclipse.core.filesystem:
+    lastUpdated: 20150921230613
+    latest: 1.5.0.v20150421-0713
+    release: 1.5.0.v20150421-0713
+    versions:
+      - 1.3.200.v20120522-2012
+      - 1.3.200.v20130115-145044
+      - 1.4.0.v20130514-1240
+      - 1.4.100.v20140514-1614
+      - 1.5.0.v20150421-0713
+  org.eclipse.core.jobs:
+    lastUpdated: 20150921230614
+    latest: 3.7.0.v20150330-2103
+    release: 3.7.0.v20150330-2103
+    versions:
+      - 3.5.101.v20120113-1953
+      - 3.5.200.v20120521-2346
+      - 3.5.300.v20120622-204750
+      - 3.5.300.v20120912-155018
+      - 3.5.300.v20130429-1813
+      - 3.6.0.v20140424-0053
+      - 3.6.1.v20141014-1248
+      - 3.7.0.v20150330-2103
+  org.eclipse.core.resources:
+    lastUpdated: 20150921230614
+    latest: 3.10.0.v20150423-0755
+    release: 3.10.0.v20150423-0755
+    versions:
+      - 3.7.101.v20120125-1505
+      - 3.8.0.v20120522-2034
+      - 3.8.1.v20120802-154922
+      - 3.8.1.v20121114-124432
+      - 3.8.100.v20130521-2026
+      - 3.8.101.v20130717-0806
+      - 3.9.0.v20140514-1307
+      - 3.9.1.v20140825-1431
+      - 3.10.0.v20150423-0755
+  org.eclipse.core.runtime:
+    lastUpdated: 20150921230615
+    latest: 3.11.0.v20150405-1723
+    release: 3.11.0.v20150405-1723
+    versions:
+      - 3.8.0.v20120521-2346
+      - 3.8.0.v20120912-155025
+      - 3.9.0.v20130326-1255
+      - 3.10.0.v20140318-2214
+      - 3.11.0.v20150405-1723
+  org.eclipse.core.runtime.compatibility:
+    lastUpdated: 20150921230615
+    latest: 3.2.300.v20150423-0821
+    release: 3.2.300.v20150423-0821
+    versions:
+      - 3.2.300.v20150423-0821
+  org.eclipse.datatools.connectivity:
+    lastUpdated: 20161118014155
+    latest: 1.13.0.201603142002
+    release: 1.13.0.201603142002
+    versions:
+      - 1.2.4.v201202041105
+      - 1.2.5.v201206130431
+      - 1.2.6.v201208210832
+      - 1.2.7.v201302060508
+      - 1.2.8.v201305301230
+      - 1.2.9.v201307261105
+      - 1.2.11.v201401230755
+      - 1.13.0.201603142002
+  org.eclipse.datatools.connectivity.apache.derby:
+    lastUpdated: 20161118014156
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.102.v201107221459
+      - 1.0.103.v201212070447
+      - 1.1.0.201603142002
+  org.eclipse.datatools.connectivity.apache.derby.dbdefinition:
+    lastUpdated: 20161118014156
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221459
+      - 1.1.0.201603142002
+  org.eclipse.datatools.connectivity.console.profile:
+    lastUpdated: 20161118014157
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.10.v201109250955
+      - 1.1.0.201603142002
+  org.eclipse.datatools.connectivity.db.generic:
+    lastUpdated: 20161118014157
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201107221459
+      - 1.1.0.201603142002
+  org.eclipse.datatools.connectivity.dbdefinition.genericJDBC:
+    lastUpdated: 20161118014157
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201107221459
+      - 1.0.2.v201310181001
+      - 1.1.0.201603142002
+  org.eclipse.datatools.connectivity.oda:
+    lastUpdated: 20161118014158
+    latest: 3.5.0.201603142002
+    release: 3.5.0.201603142002
+    versions:
+      - 3.3.3.v201110130935
+      - 3.3.4.v201212070447
+      - 3.4.0.v201305170924
+      - 3.4.1.v201308160907
+      - 3.4.3.v201405301249
+      - 3.5.0.201603142002
+  org.eclipse.datatools.connectivity.oda.consumer:
+    lastUpdated: 20161118014158
+    latest: 3.3.0.201603142002
+    release: 3.3.0.201603142002
+    versions:
+      - 3.2.5.v201109151100
+      - 3.2.6.v201305170644
+      - 3.2.6.v201403131814
+      - 3.3.0.201603142002
+  org.eclipse.datatools.connectivity.oda.design:
+    lastUpdated: 20161118014158
+    latest: 3.4.0.201603142002
+    release: 3.4.0.201603142002
+    versions:
+      - 3.3.4.v201109211529
+      - 3.3.5.v201204241156
+      - 3.3.6.v201212070447
+      - 3.3.6.v201403131814
+      - 3.4.0.201603142002
+  org.eclipse.datatools.connectivity.oda.flatfile:
+    lastUpdated: 20161118014159
+    latest: 3.2.0.201603142002
+    release: 3.2.0.201603142002
+    versions:
+      - 3.1.2.v201112081200
+      - 3.1.2.v201206121559
+      - 3.1.3.v201209041005
+      - 3.1.4.v201210260850
+      - 3.1.5.v201305221644
+      - 3.1.6.v201308131104
+      - 3.1.8.v201403010906
+      - 3.2.0.201603142002
+  org.eclipse.datatools.connectivity.oda.profile:
+    lastUpdated: 20161118014159
+    latest: 3.3.0.201603142002
+    release: 3.3.0.201603142002
+    versions:
+      - 3.2.7.v201112290953
+      - 3.2.7.v201203291105
+      - 3.2.8.v201209080429
+      - 3.2.9.v201307270622
+      - 3.2.9.v201403131814
+      - 3.3.0.201603142002
+  org.eclipse.datatools.connectivity.sqm.core:
+    lastUpdated: 20161118014159
+    latest: 1.3.0.201603142002
+    release: 1.3.0.201603142002
+    versions:
+      - 1.2.4.v201201131116
+      - 1.2.5.v201205240353
+      - 1.2.6.v201212070447
+      - 1.2.7.v201308160952
+      - 1.2.8.v201401230755
+      - 1.3.0.201603142002
+  org.eclipse.datatools.enablement.hsqldb:
+    lastUpdated: 20161118014200
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.hsqldb.dbdefinition:
+    lastUpdated: 20161118014200
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm:
+    lastUpdated: 20161118014200
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201401170830
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2:
+    lastUpdated: 20161118014200
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201401170830
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.iseries:
+    lastUpdated: 20161118014201
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.iseries.dbdefinition:
+    lastUpdated: 20161118014201
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.3.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.luw:
+    lastUpdated: 20161118014201
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221502
+      - 1.0.3.v201401170830
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.luw.dbdefinition:
+    lastUpdated: 20161118014202
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.4.v201107221502
+      - 1.0.7.v201405302027
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.zseries:
+    lastUpdated: 20161118014202
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.db2.zseries.dbdefinition:
+    lastUpdated: 20161118014203
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.4.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.informix:
+    lastUpdated: 20161118014203
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.ibm.informix.dbdefinition:
+    lastUpdated: 20161118014203
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.4.v201107221502
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.msft.sqlserver:
+    lastUpdated: 20161118014203
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201107221504
+      - 1.0.2.v201212120617
+      - 1.0.3.v201308161009
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition:
+    lastUpdated: 20161118014204
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201201240349
+      - 1.0.1.v201201240505
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.mysql:
+    lastUpdated: 20161118014204
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.3.v201205252211
+      - 1.0.4.v201212120617
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.mysql.dbdefinition:
+    lastUpdated: 20161118014204
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.4.v201109022331
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.oda.ws:
+    lastUpdated: 20161118014205
+    latest: 1.3.0.201603142002
+    release: 1.3.0.201603142002
+    versions:
+      - 1.2.3.v201112061438
+      - 1.2.4.v201203221631
+      - 1.2.5.v201305031101
+      - 1.2.6.v201307051812
+      - 1.2.6.v201403131825
+      - 1.3.0.201603142002
+  org.eclipse.datatools.enablement.oda.xml:
+    lastUpdated: 20161118014205
+    latest: 1.3.0.201603142002
+    release: 1.3.0.201603142002
+    versions:
+      - 1.2.3.v201112061438
+      - 1.2.4.v201301161136
+      - 1.2.5.v201305031101
+      - 1.2.5.v201403131825
+      - 1.3.0.201603142002
+  org.eclipse.datatools.enablement.oracle:
+    lastUpdated: 20161118014205
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221506
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.oracle.dbdefinition:
+    lastUpdated: 20161118014206
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.102.v201107221506
+      - 1.0.103.v201206010214
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.postgresql:
+    lastUpdated: 20161118014206
+    latest: 1.2.0.201603142002
+    release: 1.2.0.201603142002
+    versions:
+      - 1.1.0.v201110070445
+      - 1.1.1.v201205252207
+      - 1.2.0.201603142002
+  org.eclipse.datatools.enablement.postgresql.dbdefinition:
+    lastUpdated: 20161118014207
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201110070445
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.sap.maxdb:
+    lastUpdated: 20161118014207
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221507
+      - 1.1.0.201603142002
+  org.eclipse.datatools.enablement.sap.maxdb.dbdefinition:
+    lastUpdated: 20161118014207
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221507
+      - 1.1.0.201603142002
+  org.eclipse.datatools.modelbase.dbdefinition:
+    lastUpdated: 20161118014208
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221519
+      - 1.1.0.201603142002
+  org.eclipse.datatools.modelbase.derby:
+    lastUpdated: 20161118014208
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.0.v201107221519
+      - 1.1.0.201603142002
+  org.eclipse.datatools.modelbase.sql:
+    lastUpdated: 20161118014208
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.5.v201110151330
+      - 1.0.6.v201208230744
+      - 1.1.0.201603142002
+  org.eclipse.datatools.modelbase.sql.query:
+    lastUpdated: 20161118014209
+    latest: 1.2.0.201603142002
+    release: 1.2.0.201603142002
+    versions:
+      - 1.1.2.v201110151315
+      - 1.1.3.v201206060918
+      - 1.1.3.v201208230742
+      - 1.1.4.v201212120619
+      - 1.2.0.201603142002
+  org.eclipse.datatools.sqltools.data.core:
+    lastUpdated: 20161118014209
+    latest: 1.3.0.201603142002
+    release: 1.3.0.201603142002
+    versions:
+      - 1.2.3.v201212120623
+      - 1.3.0.201603142002
+  org.eclipse.datatools.sqltools.parsers.sql:
+    lastUpdated: 20161118014209
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.2.v201107221520
+      - 1.1.0.201603142002
+  org.eclipse.datatools.sqltools.parsers.sql.lexer:
+    lastUpdated: 20161118014210
+    latest: 1.1.0.201603142002
+    release: 1.1.0.201603142002
+    versions:
+      - 1.0.1.v201107221520
+      - 1.1.0.201603142002
+  org.eclipse.datatools.sqltools.parsers.sql.query:
+    lastUpdated: 20161118014210
+    latest: 1.3.0.201603142002
+    release: 1.3.0.201603142002
+    versions:
+      - 1.2.1.v201201250511
+      - 1.3.0.201603142002
+  org.eclipse.datatools.sqltools.result:
+    lastUpdated: 20161118014211
+    latest: 1.2.0.201603142002
+    release: 1.2.0.201603142002
+    versions:
+      - 1.1.6.v201402080246
+      - 1.2.0.201603142002
+  org.eclipse.emf:
+    lastUpdated: 20150326230015
+    latest: 2.6.0.v20150123-0452
+    release: 2.6.0.v20150123-0452
+    versions:
+      - 2.6.0.v20120123-1045
+      - 2.6.0.v20120608-0554
+      - 2.6.0.v20120917-0436
+      - 2.6.0.v20130125-0826
+      - 2.6.0.v20130610-0406
+      - 2.6.0.v20130902-0605
+      - 2.6.0.v20140519-0339
+      - 2.6.0.v20140901-1055
+      - 2.6.0.v20150123-0452
+  org.eclipse.emf.common:
+    lastUpdated: 20161118014211
+    latest: 2.12.0.v20160420-0247
+    release: 2.12.0.v20160420-0247
+    versions:
+      - 2.7.0.v20120123-0926
+      - 2.8.0.v20120606-0717
+      - 2.8.0.v20120911-0500
+      - 2.8.0.v20130125-0546
+      - 2.9.0.v20130528-0742
+      - 2.9.1.v20130827-0309
+      - 2.10.0.v20140514-1158
+      - 2.10.1.v20140901-1043
+      - 2.10.1.v20150123-0348
+      - 2.11.0.v20150512-0501
+      - 2.12.0.v20160420-0247
+  org.eclipse.emf.ecore:
+    lastUpdated: 20161118014212
+    latest: 2.12.0.v20160420-0247
+    release: 2.12.0.v20160420-0247
+    versions:
+      - 2.7.0.v20120123-0926
+      - 2.8.0.v20120606-0717
+      - 2.8.1.v20120911-0500
+      - 2.8.3.v20130125-0546
+      - 2.9.0.v20130528-0742
+      - 2.9.1.v20130827-0309
+      - 2.10.0.v20140514-1158
+      - 2.10.1.v20140901-1043
+      - 2.10.2.v20150123-0348
+      - 2.11.0.v20150512-0501
+      - 2.12.0.v20160420-0247
+  org.eclipse.emf.ecore.change:
+    lastUpdated: 20161118014212
+    latest: 2.11.0.v20160420-0247
+    release: 2.11.0.v20160420-0247
+    versions:
+      - 2.7.1.v20120123-0926
+      - 2.8.0.v20120606-0717
+      - 2.8.0.v20120911-0500
+      - 2.8.0.v20130125-0546
+      - 2.9.0.v20130528-0742
+      - 2.9.0.v20130827-0309
+      - 2.10.0.v20140514-1158
+      - 2.10.0.v20140901-1043
+      - 2.10.0.v20150123-0348
+      - 2.11.0.v20150512-0501
+      - 2.11.0.v20160420-0247
+  org.eclipse.emf.ecore.xmi:
+    lastUpdated: 20161118014212
+    latest: 2.12.0.v20160420-0247
+    release: 2.12.0.v20160420-0247
+    versions:
+      - 2.7.0.v20120123-0926
+      - 2.8.0.v20120606-0717
+      - 2.8.0.v20120911-0500
+      - 2.8.1.v20130125-0546
+      - 2.9.0.v20130528-0742
+      - 2.9.1.v20130827-0309
+      - 2.10.0.v20140514-1158
+      - 2.10.1.v20140901-1043
+      - 2.10.2.v20150123-0348
+      - 2.11.0.v20150512-0501
+      - 2.12.0.v20160420-0247
+  org.eclipse.equinox.app:
+    lastUpdated: 20161118014213
+    latest: 1.3.400.v20150715-1528
+    release: 1.3.400.v20150715-1528
+    versions:
+      - 1.3.100.v20120522-1841
+      - 1.3.100.v20130327-1442
+      - 1.3.200.v20130910-1609
+      - 1.3.300.v20150423-1356
+      - 1.3.400.v20150715-1528
+  org.eclipse.equinox.common:
+    lastUpdated: 20130712023500
+    latest: 3.6.200.v20130402-1505
+    release: 3.6.200.v20130402-1505
+    versions:
+      - 3.6.100.v20120522-1841
+      - 3.6.200.v20130402-1505
+  org.eclipse.equinox.preferences:
+    lastUpdated: 20150921230625
+    latest: 3.5.300.v20150408-1437
+    release: 3.5.300.v20150408-1437
+    versions:
+      - 3.4.2.v20120111-2020
+      - 3.5.0.v20120522-1841
+      - 3.5.1.v20121031-182809
+      - 3.5.100.v20130422-1538
+      - 3.5.200.v20140224-1527
+      - 3.5.300.v20150408-1437
+  org.eclipse.equinox.registry:
+    lastUpdated: 20150921230625
+    latest: 3.6.0.v20150318-1503
+    release: 3.6.0.v20150318-1503
+    versions:
+      - 3.5.200.v20120522-1841
+      - 3.5.300.v20130327-1442
+      - 3.5.301.v20130717-1549
+      - 3.5.400.v20140428-1507
+      - 3.6.0.v20150318-1503
+  org.eclipse.help:
+    lastUpdated: 20161118014213
+    latest: 3.7.0.v20160602-1307
+    release: 3.7.0.v20160602-1307
+    versions:
+      - 3.6.0.v20130326-1254
+      - 3.7.0.v20160602-1307
+  org.eclipse.orbit.mongodb:
+    lastUpdated: 20130712023501
+    latest: 2.10.1.v20130422-1135
+    release: 2.10.1.v20130422-1135
+    versions:
+      - 2.10.1.v20130422-1135
+  org.eclipse.osgi:
+    lastUpdated: 20150326230019
+    latest: 3.10.2.v20150203-1939
+    release: 3.10.2.v20150203-1939
+    versions:
+      - 3.7.2.v20120110-1415
+      - 3.8.0.v20120529-1548
+      - 3.8.1.v20120830-144521
+      - 3.8.2.v20130124-134944
+      - 3.9.0.v20130529-1710
+      - 3.9.1.v20130814-1242
+      - 3.10.0.v20140606-1445
+      - 3.10.1.v20140909-1633
+      - 3.10.2.v20150203-1939
+  org.eclipse.osgi.services:
+    lastUpdated: 20161118014213
+    latest: 3.5.100.v20160504-1419
+    release: 3.5.100.v20160504-1419
+    versions:
+      - 3.3.100.v20120522-1822
+      - 3.3.100.v20130513-1956
+      - 3.4.0.v20140312-2051
+      - 3.5.0.v20150519-2006
+      - 3.5.100.v20160504-1419
+  org.eclipse.update.configurator:
+    lastUpdated: 20161118014214
+    latest: 3.3.400.v20160506-0750
+    release: 3.3.400.v20160506-0750
+    versions:
+      - 3.3.200.v20120523-1752
+      - 3.3.200.v20120912-144026
+      - 3.3.200.v20130326-1319
+      - 3.3.300.v20140518-1928
+      - 3.3.400.v20160506-0750
+  org.mozilla.javascript:
+    lastUpdated: 20150921230626
+    latest: 1.7.5.v201504281450
+    release: 1.7.5.v201504281450
+    versions:
+      - 1.7.5.v201504281450
+  org.w3c.css.sac:
+    lastUpdated: 20150921230627
+    latest: 1.3.1.v200903091627
+    release: 1.3.1.v200903091627
+    versions:
+      - 1.3.1.v200903091627
+  org.w3c.dom.events:
+    lastUpdated: 20150921230627
+    latest: 3.0.0.draft20060413_v201105210656
+    release: 3.0.0.draft20060413_v201105210656
+    versions:
+      - 3.0.0.draft20060413_v201105210656
+  org.w3c.dom.smil:
+    lastUpdated: 20150921230628
+    latest: 1.0.1.v200903091627
+    release: 1.0.1.v200903091627
+    versions:
+      - 1.0.1.v200903091627
+  viewservlets:
+    lastUpdated: 20150921230628
+    latest: 4.5.0
+    release: 4.5.0
+    versions:
+      - 4.2.0
+      - 4.2.1
+      - 4.2.1a
+      - 4.3.0
+      - 4.3.1
+      - 4.4.1
+      - 4.5.0
+

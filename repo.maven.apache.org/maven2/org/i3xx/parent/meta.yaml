@@ -1,0 +1,31 @@
+artifacts:
+  parent-project:
+    lastUpdated: 20150713142805
+    latest: 0.2.10
+    release: 0.2.10
+    versions:
+      - 0.2.2
+      - 0.2.4
+      - 0.2.6
+      - 0.2.7
+      - 0.2.8
+      - 0.2.9
+      - 0.2.10
+  parent-step-project:
+    lastUpdated: 20150716101605
+    latest: 0.2.10
+    release: 0.2.10
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.10
+      - 0.2.9
+      - 0.2.10
+  parent-web-project:
+    lastUpdated: 20150716095256
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+

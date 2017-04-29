@@ -1,0 +1,193 @@
+artifacts:
+  ka-cdi:
+    lastUpdated: 20140816120129
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ka-commons:
+    lastUpdated: 20120428154310
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+      - 0.9
+  ka-di-api:
+    lastUpdated: 20140816120129
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ka-event-annotations:
+    lastUpdated: 20120405151645
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-aspects:
+    lastUpdated: 20120405151644
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-base:
+    lastUpdated: 20120405151647
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-cdi:
+    lastUpdated: 20120405151644
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.7
+      - 0.7.1
+      - 0.8.1
+  ka-event-core:
+    lastUpdated: 20120405151641
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-guice:
+    lastUpdated: 20120405151641
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8.1
+  ka-event-osgi:
+    lastUpdated: 20120405151647
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-spring:
+    lastUpdated: 20120405151646
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-event-spring3:
+    lastUpdated: 20120405151643
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-servlet:
+    lastUpdated: 20131101095848
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  ka-spring:
+    lastUpdated: 20120405151648
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.5
+      - 0.6
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-spring-2.5:
+    lastUpdated: 20120428180556
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+  ka-spring-3:
+    lastUpdated: 20120428180556
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+  ka-spring-base:
+    lastUpdated: 20120428180557
+    latest: 0.9
+    release: 0.9
+    versions:
+      - 0.9
+  ka-spring-websocket:
+    lastUpdated: 20121220104543
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ka-spring-websocket-example:
+    lastUpdated: 20121220104544
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+  ka-spring3:
+    lastUpdated: 20120405151648
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.7
+      - 0.7.1
+      - 0.8
+      - 0.8.1
+  ka-web:
+    lastUpdated: 20131101095849
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.4
+  ka-websocket:
+    lastUpdated: 20121220104545
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+

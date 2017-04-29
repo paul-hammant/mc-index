@@ -1,0 +1,100 @@
+artifacts:
+  hamcrest-all:
+    lastUpdated: 20120726192726
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.3
+  hamcrest-api:
+    lastUpdated: 20120726192725
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  hamcrest-core:
+    lastUpdated: 20120726192729
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3.RC2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  hamcrest-generator:
+    lastUpdated: 20120726192727
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.2
+      - 1.3.RC2
+      - 1.3
+      - 1.1
+      - 1.2
+      - 1.3
+  hamcrest-integration:
+    lastUpdated: 20120726192731
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3.RC2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  hamcrest-junit:
+    lastUpdated: 20150527001829
+    latest: 2.0.0.0
+    release: 2.0.0.0
+    versions:
+      - 1.0.0.0-RC1
+      - 1.0.0.0
+      - 1.0.0.1
+      - 2.0.0.0
+  hamcrest-library:
+    lastUpdated: 20120726192725
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3.RC2
+      - 1.3
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.3
+  hamcrest-parent:
+    lastUpdated: 20120726192729
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.1
+      - 1.3.RC2
+      - 1.3
+      - 1.1
+      - 1.3
+  java-hamcrest:
+    lastUpdated: 20150120203143
+    latest: 2.0.0.0
+    release: 2.0.0.0
+    versions:
+      - 2.0.0.0
+

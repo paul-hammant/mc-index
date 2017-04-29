@@ -1,0 +1,410 @@
+artifacts:
+  banana-io-ntriples_2.11:
+    lastUpdated: 20150315150838
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-io-ntriples_sjs0.6_2.11:
+    lastUpdated: 20150315150839
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-jena_2.10:
+    lastUpdated: 20130925212650
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  banana-jena_2.11:
+    lastUpdated: 20150315150839
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-jsonld-js_sjs0.6_2.11:
+    lastUpdated: 20150315150840
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-n3-js_sjs0.6_2.11:
+    lastUpdated: 20150315150841
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-plantain_2.11:
+    lastUpdated: 20150315150841
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-plantain_sjs0.6_2.11:
+    lastUpdated: 20150315150841
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-rdf-test-suite_2.10:
+    lastUpdated: 20130925212651
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  banana-rdf-test-suite_2.11:
+    lastUpdated: 20150315150842
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-rdf-test-suite_sjs0.6_2.11:
+    lastUpdated: 20150315150843
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-rdf_2.10:
+    lastUpdated: 20130925212651
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  banana-rdf_2.11:
+    lastUpdated: 20150315150844
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-rdf_sjs0.6_2.11:
+    lastUpdated: 20150315150844
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana-sesame_2.10:
+    lastUpdated: 20130925212652
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.4
+  banana-sesame_2.11:
+    lastUpdated: 20150315150845
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  banana_2.10:
+    lastUpdated: 20141218230901
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4
+      - 0.7
+      - 0.7.1
+  banana_2.11:
+    lastUpdated: 20150315150845
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.7
+      - 0.7.1
+      - 0.8.0
+      - 0.8.1
+  banana_js_2.10:
+    lastUpdated: 20141218230901
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  banana_js_2.11:
+    lastUpdated: 20141218230902
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  banana_jvm_2.10:
+    lastUpdated: 20141218230903
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  banana_jvm_2.11:
+    lastUpdated: 20141218230903
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  banana_sjs0.6_2.11:
+    lastUpdated: 20150315150846
+    latest: 0.8.1
+    release: 0.8.1
+    versions:
+      - 0.8.0
+      - 0.8.1
+  examples_2.10:
+    lastUpdated: 20141218230904
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.4
+      - 0.7
+      - 0.7.1
+  examples_2.11:
+    lastUpdated: 20141218230904
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  i18n-checker:
+    lastUpdated: 20130930193153
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  jena_2.10:
+    lastUpdated: 20141218230905
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  jena_2.11:
+    lastUpdated: 20141218230905
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  ldp-testsuite:
+    lastUpdated: 20140918141709
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  ntriples_common_jvm_2.10:
+    lastUpdated: 20141218230906
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  ntriples_common_jvm_2.11:
+    lastUpdated: 20141218230906
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  ntriples_jvm_2.10:
+    lastUpdated: 20141218230907
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  ntriples_jvm_2.11:
+    lastUpdated: 20141218230908
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7.1
+  plantain_common_js_sjs0.5_2.10:
+    lastUpdated: 20141218230908
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_common_js_sjs0.5_2.11:
+    lastUpdated: 20141218230909
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_common_jvm_2.10:
+    lastUpdated: 20141218230909
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_common_jvm_2.11:
+    lastUpdated: 20141218230910
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_js_sjs0.5_2.10:
+    lastUpdated: 20141218230910
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_js_sjs0.5_2.11:
+    lastUpdated: 20141218230911
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_jvm_2.10:
+    lastUpdated: 20141218230911
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  plantain_jvm_2.11:
+    lastUpdated: 20141218230912
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_common_js_sjs0.5_2.10:
+    lastUpdated: 20141218230912
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_common_js_sjs0.5_2.11:
+    lastUpdated: 20141218230913
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_common_jvm_2.10:
+    lastUpdated: 20141218230913
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_common_jvm_2.11:
+    lastUpdated: 20141218230914
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_js_sjs0.5_2.10:
+    lastUpdated: 20141218230915
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_js_sjs0.5_2.11:
+    lastUpdated: 20141218230915
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_jvm_2.10:
+    lastUpdated: 20141218230916
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf-test-suite_jvm_2.11:
+    lastUpdated: 20141218230916
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_common_js_sjs0.5_2.10:
+    lastUpdated: 20141218230917
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_common_js_sjs0.5_2.11:
+    lastUpdated: 20141218230918
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_common_jvm_2.10:
+    lastUpdated: 20141218230918
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_common_jvm_2.11:
+    lastUpdated: 20141218230919
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_js_sjs0.5_2.10:
+    lastUpdated: 20141218230919
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_js_sjs0.5_2.11:
+    lastUpdated: 20141218230920
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_jvm_2.10:
+    lastUpdated: 20141218230921
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  rdf_jvm_2.11:
+    lastUpdated: 20141218230921
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  sesame_2.10:
+    lastUpdated: 20141218230922
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+  sesame_2.11:
+    lastUpdated: 20141218230923
+    latest: 0.7.1
+    release: 0.7.1
+    versions:
+      - 0.7
+      - 0.7.1
+

@@ -1,0 +1,36 @@
+artifacts:
+  tracee-jboss-logging:
+    lastUpdated: 20140425164553
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-log4j:
+    lastUpdated: 20140425164554
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-log4j2:
+    lastUpdated: 20140425164554
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  tracee-slf4j:
+    lastUpdated: 20140425164555
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+  tracee-threadlocal-store:
+    lastUpdated: 20140425164555
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

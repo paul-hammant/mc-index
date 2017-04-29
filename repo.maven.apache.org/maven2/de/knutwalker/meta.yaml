@@ -1,0 +1,504 @@
+artifacts:
+  akka-http-circe_2.11:
+    lastUpdated: 20170417204148
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  akka-http-circe_2.12:
+    lastUpdated: 20170417204148
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2.0
+      - 3.3.0
+  akka-http-jawn-argonaut_2.10:
+    lastUpdated: 20150809161058
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  akka-http-jawn-argonaut_2.11:
+    lastUpdated: 20150809161059
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  akka-http-json_2.11:
+    lastUpdated: 20170417204149
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  akka-http-json_2.12:
+    lastUpdated: 20170417204149
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2.0
+      - 3.3.0
+  akka-stream-circe_2.11:
+    lastUpdated: 20170417204150
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  akka-stream-circe_2.12:
+    lastUpdated: 20170417204150
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2.0
+      - 3.3.0
+  akka-stream-json_2.11:
+    lastUpdated: 20170417204151
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 2.0.0
+      - 3.0.0
+      - 3.1.0
+      - 3.2.0
+      - 3.3.0
+  akka-stream-json_2.12:
+    lastUpdated: 20170417204152
+    latest: 3.3.0
+    release: 3.3.0
+    versions:
+      - 3.2.0
+      - 3.3.0
+  akka_2.11:
+    lastUpdated: 20160120224635
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  algebra-effect_2.11:
+    lastUpdated: 20150402031300
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra-interpreter-rng_2.11:
+    lastUpdated: 20150402031301
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra-interpreter-slf4j_2.11:
+    lastUpdated: 20150402031301
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra-log_2.11:
+    lastUpdated: 20150402031302
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra-parent_2.11:
+    lastUpdated: 20150402031302
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  algebra-random_2.11:
+    lastUpdated: 20150402031302
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  aweseome-project_2.11:
+    lastUpdated: 20150425231249
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  cors-play_2.10:
+    lastUpdated: 20140223141654
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  docs_2.11:
+    lastUpdated: 20150518204706
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  esclient_2.10:
+    lastUpdated: 20151020150125
+    latest: 1.7.3
+    release: 1.7.3
+    versions:
+      - 0.1.1
+      - 1.5.0
+      - 1.5.0-1
+      - 1.5.1
+      - 1.5.2
+      - 1.7.3
+  esclient_2.11:
+    lastUpdated: 20151020150126
+    latest: 1.7.3
+    release: 1.7.3
+    versions:
+      - 1.5.0
+      - 1.5.0-1
+      - 1.5.1
+      - 1.5.2
+      - 1.7.3
+  forecast-io-scala_2.10:
+    lastUpdated: 20140113163402
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  luschy-json_2.11:
+    lastUpdated: 20150603220900
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  luschy-model_2.11:
+    lastUpdated: 20150603220901
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  luschy_2.11:
+    lastUpdated: 20150603220901
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+  netty-vbuf:
+    lastUpdated: 20140926103321
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.3
+      - 0.1.4
+  ntparser-jena_2.10:
+    lastUpdated: 20150201113915
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ntparser-jena_2.11:
+    lastUpdated: 20150201113915
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ntparser-model_2.10:
+    lastUpdated: 20150201113915
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ntparser-model_2.11:
+    lastUpdated: 20150201113916
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.3.0
+  ntparser_2.10:
+    lastUpdated: 20150201030539
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  ntparser_2.11:
+    lastUpdated: 20150201030539
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+  rx-redis-client_2.11:
+    lastUpdated: 20140727212217
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  rx-redis-core_2.11:
+    lastUpdated: 20140727212217
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.2
+      - 0.1.4
+      - 0.2.0
+      - 0.3.0
+  rx-redis-example_2.11:
+    lastUpdated: 20140725185416
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.2
+  rx-redis-java-example_2.11:
+    lastUpdated: 20140725185417
+    latest: 0.1.2
+    release: 0.1.2
+    versions:
+      - 0.1.1
+      - 0.1.2
+  rx-redis-java_2.11:
+    lastUpdated: 20140727212218
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.2.0
+      - 0.3.0
+  rx-redis-parent_2.11:
+    lastUpdated: 20140727212218
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.2
+      - 0.1.4
+      - 0.2.0
+      - 0.3.0
+  rx-redis-pipeline_2.11:
+    lastUpdated: 20140727212219
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+  rx-redis-scala_2.11:
+    lastUpdated: 20140727212219
+    latest: 0.3.0
+    release: 0.3.0
+    versions:
+      - 0.1.1
+      - 0.1.2
+      - 0.1.4
+      - 0.2.0
+      - 0.3.0
+  rx-redis-serialization_2.11:
+    lastUpdated: 20140726124051
+    latest: 0.1.4
+    release: 0.1.4
+    versions:
+      - 0.1.2
+      - 0.1.4
+  transducers-scala-akka-stream_2.11:
+    lastUpdated: 20160326065631
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.5.0
+  transducers-scala-all_2.10:
+    lastUpdated: 20150730115845
+    latest: 0.4.1
+    release: 0.4.1
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+  transducers-scala-all_2.11:
+    lastUpdated: 20160326065632
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-api_2.10:
+    lastUpdated: 20160326072126
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-api_2.11:
+    lastUpdated: 20160326065632
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-reactivestreams_2.10:
+    lastUpdated: 20160326072127
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-reactivestreams_2.11:
+    lastUpdated: 20160326065633
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-rxscala_2.10:
+    lastUpdated: 20160326072128
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala-rxscala_2.11:
+    lastUpdated: 20160326065633
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala_2.10:
+    lastUpdated: 20160326072128
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  transducers-scala_2.11:
+    lastUpdated: 20160326065633
+    latest: 0.5.0
+    release: 0.5.0
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+  typed-actors-creator_2.11:
+    lastUpdated: 20160116163805
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0-a24
+      - 1.4.0
+      - 1.5.0-a24
+      - 1.5.0
+      - 1.5.1-a24
+      - 1.5.1
+      - 1.6.0-a24
+      - 1.6.0
+  typed-actors_2.11:
+    lastUpdated: 20160116163805
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.4.0-a24
+      - 1.4.0
+      - 1.5.0-a24
+      - 1.5.0
+      - 1.5.1-a24
+      - 1.5.1
+      - 1.6.0-a24
+      - 1.6.0
+  validation-scalaz_2.10:
+    lastUpdated: 20150505231712
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  validation-scalaz_2.11:
+    lastUpdated: 20150505231713
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  validation-shapeless_2.10:
+    lastUpdated: 20150505231713
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  validation-shapeless_2.11:
+    lastUpdated: 20150505231714
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  validation_2.10:
+    lastUpdated: 20150505231715
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  validation_2.11:
+    lastUpdated: 20150518204707
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+

@@ -1,0 +1,67 @@
+artifacts:
+  context-propagation:
+    lastUpdated: 20170420122928
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+  context-propagation-java8:
+    lastUpdated: 20170420122928
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+  context-propagation-opentracing-span:
+    lastUpdated: 20170123191341
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  context-propagation-root:
+    lastUpdated: 20170420122928
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.0
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+  context-propagation-servletrequest:
+    lastUpdated: 20170123191341
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  opentracing-span-propagation:
+    lastUpdated: 20170420122929
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+  servletrequest-propagation:
+    lastUpdated: 20170420122929
+    latest: 0.4.5
+    release: 0.4.5
+    versions:
+      - 0.4.1
+      - 0.4.2
+      - 0.4.3
+      - 0.4.4
+      - 0.4.5
+

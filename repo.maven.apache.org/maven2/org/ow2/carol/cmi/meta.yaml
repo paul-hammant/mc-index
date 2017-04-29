@@ -1,0 +1,193 @@
+artifacts:
+  cmi:
+    lastUpdated: 20080307170841
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-admin:
+    lastUpdated: 20080307171014
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-all:
+    lastUpdated: 20080307171157
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-api:
+    lastUpdated: 20080307170913
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-assembly:
+    lastUpdated: 20071214034304
+    latest: {}
+    release: 2.0-RC2
+    versions:
+      - 2.0-RC2
+  cmi-assembly-distrib:
+    lastUpdated: 20071214034337
+    latest: {}
+    release: 2.0-RC2
+    versions:
+      - 2.0-RC2
+  cmi-assembly-distrib-all:
+    lastUpdated: 20071214034408
+    latest: {}
+    release: 2.0-RC2
+    versions:
+      - 2.0-RC2
+  cmi-assembly-distrib-client:
+    lastUpdated: 20071214034518
+    latest: {}
+    release: 2.0-RC2
+    versions:
+      - 2.0-RC2
+  cmi-assembly-distrib-server:
+    lastUpdated: 20071214034438
+    latest: {}
+    release: 2.0-RC2
+    versions:
+      - 2.0-RC2
+  cmi-config:
+    lastUpdated: 20080307170942
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-core-client:
+    lastUpdated: 20080307171131
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-core-common:
+    lastUpdated: 20080307171001
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-core-server:
+    lastUpdated: 20080307171027
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-ejb2:
+    lastUpdated: 20080307171053
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-examples:
+    lastUpdated: 20080307171251
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-ha:
+    lastUpdated: 20080307171040
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-jgroups:
+    lastUpdated: 20080307171119
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-jndi:
+    lastUpdated: 20080307171144
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-lb:
+    lastUpdated: 20080307170929
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-modules:
+    lastUpdated: 20080307170903
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-rmi:
+    lastUpdated: 20080307171207
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-rpc:
+    lastUpdated: 20080307171106
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+  cmi-smartfactory:
+    lastUpdated: 20080307171228
+    latest: {}
+    release: 2.0-RC4
+    versions:
+      - 2.0-RC1
+      - 2.0-RC2
+      - 2.0-RC3
+      - 2.0-RC4
+

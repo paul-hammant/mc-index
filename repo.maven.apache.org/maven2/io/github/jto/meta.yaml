@@ -1,0 +1,291 @@
+artifacts:
+  validation-core_2.10:
+    lastUpdated: 20150703100156
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-core_2.11:
+    lastUpdated: 20170306141840
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 1.0
+      - 1.1
+      - 2.0
+  validation-core_2.12:
+    lastUpdated: 20170206154500
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-core_sjs0.6_2.11:
+    lastUpdated: 20170306141840
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-core_sjs0.6_2.12:
+    lastUpdated: 20170206154501
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-delimited_2.10:
+    lastUpdated: 20150703100158
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-delimited_2.11:
+    lastUpdated: 20170306141841
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 1.0
+      - 1.1
+      - 2.0
+  validation-delimited_2.12:
+    lastUpdated: 20170206154501
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-delimited_sjs0.6_2.11:
+    lastUpdated: 20170306141841
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-delimited_sjs0.6_2.12:
+    lastUpdated: 20170206154502
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-experimental_2.10:
+    lastUpdated: 20150703100200
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-experimental_2.11:
+    lastUpdated: 20150703100202
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 1.0
+      - 1.1
+  validation-form_2.10:
+    lastUpdated: 20150703100203
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-form_2.11:
+    lastUpdated: 20170306141842
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 1.0
+      - 1.1
+      - 2.0
+  validation-form_2.12:
+    lastUpdated: 20170206154502
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-form_sjs0.6_2.11:
+    lastUpdated: 20170306141842
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-form_sjs0.6_2.12:
+    lastUpdated: 20170206154503
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-jsjson_sjs0.6_2.11:
+    lastUpdated: 20170306141842
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-jsjson_sjs0.6_2.12:
+    lastUpdated: 20170206154503
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-json4s_2.10:
+    lastUpdated: 20150703100206
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-json4s_2.11:
+    lastUpdated: 20150703100208
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 1.0
+      - 1.1
+  validation-json_2.10:
+    lastUpdated: 20150703100208
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-json_2.11:
+    lastUpdated: 20150703100210
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 1.0
+      - 1.1
+  validation-jsonast_2.11:
+    lastUpdated: 20170306141843
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-jsonast_2.12:
+    lastUpdated: 20170206154504
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-jsonast_sjs0.6_2.11:
+    lastUpdated: 20170306141844
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-jsonast_sjs0.6_2.12:
+    lastUpdated: 20170206154504
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-playjson_2.11:
+    lastUpdated: 20170306141844
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 2.0
+  validation-playjson_2.12:
+    lastUpdated: 20170206154505
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+  validation-xml_2.10:
+    lastUpdated: 20150703100211
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0.2
+      - 1.1
+      - 1.1
+  validation-xml_2.11:
+    lastUpdated: 20170306141845
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - v2-play2.3
+      - 1.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1
+      - 2.0
+      - 2.0.1
+      - 2.1.0
+      - 1.0
+      - 1.1
+      - 2.0
+  validation-xml_2.12:
+    lastUpdated: 20170206154506
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.1.0
+

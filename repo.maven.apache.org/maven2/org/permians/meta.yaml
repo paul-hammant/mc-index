@@ -1,0 +1,24 @@
+artifacts:
+  base:
+    lastUpdated: 20121110093505
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  cache:
+    lastUpdated: 20121110093506
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.1
+      - 1.1.0
+  cache-spymemcached:
+    lastUpdated: 20121110093507
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

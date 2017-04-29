@@ -1,0 +1,29 @@
+artifacts:
+  s-match:
+    lastUpdated: 20130924164620
+    latest: 0.9.21
+    release: 0.9.21
+    versions:
+      - 0.9.12
+      - 0.9.19
+      - 0.9.21
+  smatch-data:
+    lastUpdated: 20130908114040
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+      - 1.0
+  smatch-webapi-client:
+    lastUpdated: 20130909094258
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+  smatch-webapi-model:
+    lastUpdated: 20130908144321
+    latest: 1.0.0-RC1
+    release: 1.0.0-RC1
+    versions:
+      - 1.0.0-RC1
+

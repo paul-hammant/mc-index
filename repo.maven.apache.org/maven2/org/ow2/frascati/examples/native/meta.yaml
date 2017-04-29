@@ -1,0 +1,22 @@
+artifacts:
+  helloworld-binding-jna:
+    lastUpdated: 20110603115809
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+  helloworld-native:
+    lastUpdated: 20110603115833
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.4
+  parent:
+    lastUpdated: 20110603115756
+    latest: {}
+    release: 1.4
+    versions:
+      - 1.3
+      - 1.4
+

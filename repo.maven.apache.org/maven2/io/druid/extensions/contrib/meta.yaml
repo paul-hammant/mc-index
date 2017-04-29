@@ -1,0 +1,147 @@
+artifacts:
+  ambari-metrics-emitter:
+    lastUpdated: 20170418201336
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  druid-azure-extensions:
+    lastUpdated: 20170418201336
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-cassandra-storage:
+    lastUpdated: 20170418201336
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-cloudfiles-extensions:
+    lastUpdated: 20170418201336
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-distinctcount:
+    lastUpdated: 20170418201337
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-google-extensions:
+    lastUpdated: 20170418201337
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  druid-kafka-eight-simple-consumer:
+    lastUpdated: 20170418201337
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-orc-extensions:
+    lastUpdated: 20170418201338
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.2
+      - 0.10.0
+  druid-parquet-extensions:
+    lastUpdated: 20170418201338
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-rabbitmq:
+    lastUpdated: 20170418201338
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-rocketmq:
+    lastUpdated: 20170418201339
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  druid-thrift-extensions:
+    lastUpdated: 20170418201339
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  druid-time-min-max:
+    lastUpdated: 20170418201339
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  druid-virtual-columns:
+    lastUpdated: 20170418201340
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  graphite-emitter:
+    lastUpdated: 20170418201340
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.0
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+  scan-query:
+    lastUpdated: 20170418201341
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  sqlserver-metadata-storage:
+    lastUpdated: 20170418201341
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.10.0
+  statsd-emitter:
+    lastUpdated: 20170418201341
+    latest: 0.10.0
+    release: 0.10.0
+    versions:
+      - 0.9.1
+      - 0.9.1.1
+      - 0.9.2
+      - 0.10.0
+

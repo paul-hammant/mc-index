@@ -1,0 +1,808 @@
+artifacts:
+  hawkular-apm:
+    lastUpdated: 20170321150507
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-agent:
+    lastUpdated: 20170321150507
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-agent-opentracing:
+    lastUpdated: 20170321150509
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-agent-rest:
+    lastUpdated: 20160624190450
+    latest: 0.9.2.Final
+    release: 0.9.2.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+  hawkular-apm-analytics-service-rest-client:
+    lastUpdated: 20170321150509
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-api:
+    lastUpdated: 20170321150511
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-client-api:
+    lastUpdated: 20170321150512
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-client-kafka:
+    lastUpdated: 20170321150514
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-client-opentracing:
+    lastUpdated: 20170321150514
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-collector:
+    lastUpdated: 20170321150516
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-communicationdetails-deriver:
+    lastUpdated: 20160824132839
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-config-service-rest-client:
+    lastUpdated: 20170321150517
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-dist:
+    lastUpdated: 20170321150522
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing:
+    lastUpdated: 20170321150528
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing-account-manager:
+    lastUpdated: 20170321150528
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing-common:
+    lastUpdated: 20170321150529
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing-inventory-manager:
+    lastUpdated: 20170321150531
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing-order-log:
+    lastUpdated: 20170321150531
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-examples-vertx-opentracing-order-manager:
+    lastUpdated: 20170321150532
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-fragmentcompletiontime-deriver:
+    lastUpdated: 20160824132852
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-instrumentation-jvm:
+    lastUpdated: 20170321150533
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-instrumenter:
+    lastUpdated: 20170321150534
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-nodedetails-deriver:
+    lastUpdated: 20160824132859
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-notification-deriver:
+    lastUpdated: 20160824132904
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-performance-server:
+    lastUpdated: 20170321150535
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-processors-zipkin:
+    lastUpdated: 20160824132908
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.10.0.Final
+  hawkular-apm-server:
+    lastUpdated: 20170321150536
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-api:
+    lastUpdated: 20170321150537
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-elasticsearch:
+    lastUpdated: 20170321150538
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-infinispan:
+    lastUpdated: 20170321150538
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-jms:
+    lastUpdated: 20170321150540
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-kafka:
+    lastUpdated: 20170321150540
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-kafka-consumer:
+    lastUpdated: 20161013131718
+    latest: 0.11.0.Final
+    release: 0.11.0.Final
+    versions:
+      - 0.11.0.Final
+  hawkular-apm-server-processors:
+    lastUpdated: 20170321150541
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-processors-alerts-publisher:
+    lastUpdated: 20170321150542
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-processors-zipkin:
+    lastUpdated: 20170321150543
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-rest:
+    lastUpdated: 20170321150544
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-security-jaas:
+    lastUpdated: 20170321150545
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-zipkin:
+    lastUpdated: 20170321150546
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-server-zipkin-rest:
+    lastUpdated: 20170321150547
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-agent-opentracing:
+    lastUpdated: 20170321150547
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-app-polyglot-opentracing:
+    lastUpdated: 20170321150551
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-app-vertx-opentracing:
+    lastUpdated: 20161115174041
+    latest: 0.12.0.Final
+    release: 0.12.0.Final
+    versions:
+      - 0.12.0.Final
+  hawkular-apm-tests-common:
+    lastUpdated: 20170321150551
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-containers-jetty:
+    lastUpdated: 20170321150552
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-containers-standalone:
+    lastUpdated: 20170321150553
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-containers-vertx:
+    lastUpdated: 20161013131732
+    latest: 0.11.0.Final
+    release: 0.11.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+  hawkular-apm-tests-containers-wildfly:
+    lastUpdated: 20170321150554
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-distribution:
+    lastUpdated: 20170321150554
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-instrumentation:
+    lastUpdated: 20170321150555
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-parent:
+    lastUpdated: 20170321150556
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tests-server-mock:
+    lastUpdated: 20160824132941
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-tests-server-wildfly:
+    lastUpdated: 20160824132942
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-tests-tools-instrumenter:
+    lastUpdated: 20160824132944
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-tools-instrumenter:
+    lastUpdated: 20160824132946
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-trace-publisher-rest-client:
+    lastUpdated: 20170321150557
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-trace-service-rest-client:
+    lastUpdated: 20170321150558
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  hawkular-apm-tracecompletiontime-deriver:
+    lastUpdated: 20160824132952
+    latest: 0.10.0.Final
+    release: 0.10.0.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+  hawkular-apm-ui:
+    lastUpdated: 20170321150559
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.9.0.Final
+      - 0.9.1.Final
+      - 0.9.2.Final
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+  instrumentation-test-framework:
+    lastUpdated: 20170321150559
+    latest: 0.14.4.Final
+    release: 0.14.4.Final
+    versions:
+      - 0.10.0.Final
+      - 0.11.0.Final
+      - 0.12.0.Final
+      - 0.13.0.Final
+      - 0.14.0.Final
+      - 0.14.1.Final
+      - 0.14.2.Final
+      - 0.14.3.Final
+      - 0.14.4.Final
+

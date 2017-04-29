@@ -1,0 +1,119 @@
+artifacts:
+  blur:
+    lastUpdated: 20160606065956
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.5.0
+      - 2.0.0
+  graphics:
+    lastUpdated: 20161223101936
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0
+  kit:
+    lastUpdated: 20160629094114
+    latest: 2.0.0-beta6
+    release: 2.0.0-beta6
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.3.0
+      - 1.5.0
+      - 2.0.0-beta2
+      - 2.0.0-beta6
+  kit-cmd:
+    lastUpdated: 20161223102408
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-beta1
+      - 2.0.0-beta2
+      - 2.0.0-beta6
+      - 2.0.0
+  kit-handler:
+    lastUpdated: 20161223102557
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-beta2
+      - 2.0.0-beta6
+      - 2.0.0
+  kit-reflect:
+    lastUpdated: 20161223102754
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-beta2
+      - 2.0.0-beta6
+      - 2.0.0-beta9
+      - 2.0.0
+  library-res:
+    lastUpdated: 20151031173123
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  library-res-apklib:
+    lastUpdated: 20151031173124
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  library-ui:
+    lastUpdated: 20151031173124
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  library-ui-apklib:
+    lastUpdated: 20151031173124
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.2
+  res:
+    lastUpdated: 20161223101814
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.3
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 2.0.0-beta2
+      - 2.0.0-beta3
+      - 2.0.0-beta6
+      - 2.0.0
+  ui:
+    lastUpdated: 20161223102929
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.3.0
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+      - 1.1.1
+      - 1.2.0
+      - 1.2.1
+      - 1.2.2
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.6.0
+      - 2.0.0-beta2
+      - 2.0.0-beta3
+      - 2.0.0-beta5
+      - 2.0.0-beta6
+      - 2.0.0
+

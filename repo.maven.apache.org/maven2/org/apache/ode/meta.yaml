@@ -1,0 +1,513 @@
+artifacts:
+  apache-ode:
+    lastUpdated: 20131012131043
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.6
+  apache-ode-distro:
+    lastUpdated: 20131012131041
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.6
+  apache-ode-docs:
+    lastUpdated: 20131012131054
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.2
+      - 1.3.5
+      - 1.3.6
+      - 1.2
+  apache-ode-jbi:
+    lastUpdated: 20131012131022
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.2
+      - 1.3.5
+      - 1.3.6
+      - 1.2
+  apache-ode-sources:
+    lastUpdated: 20131012131011
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.2
+      - 1.3.5
+      - 1.3.6
+      - 1.2
+  apache-ode-war:
+    lastUpdated: 20131012131006
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.2
+      - 1.3.5
+      - 1.3.6
+      - 1.2
+  ode:
+    lastUpdated: 20131012131042
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.4
+      - 1.3.6
+  ode-agents:
+    lastUpdated: 20131012131043
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.2
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+  ode-axis2:
+    lastUpdated: 20131012131007
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-axis2-war:
+    lastUpdated: 20131012131029
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-api:
+    lastUpdated: 20131012131010
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-api-jca:
+    lastUpdated: 20131012131044
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-compiler:
+    lastUpdated: 20131012131026
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-connector:
+    lastUpdated: 20131012131055
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-dao:
+    lastUpdated: 20131012131013
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-epr:
+    lastUpdated: 20131012131056
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-obj:
+    lastUpdated: 20131012131056
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-ql:
+    lastUpdated: 20131012131025
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-runtime:
+    lastUpdated: 20131012131053
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-schemas:
+    lastUpdated: 20131012131009
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-scripts:
+    lastUpdated: 20131012131026
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-store:
+    lastUpdated: 20131012131054
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-bpel-test:
+    lastUpdated: 20131012131028
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-console:
+    lastUpdated: 20161103033721
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  ode-dao-hibernate:
+    lastUpdated: 20131012131011
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-dao-hibernate-db:
+    lastUpdated: 20131012131028
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-dao-jpa:
+    lastUpdated: 20131012131041
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-dao-jpa-ojpa-derby:
+    lastUpdated: 20131012131012
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-distro:
+    lastUpdated: 20100621175637
+    latest: 1.3.4
+    release: 1.3.4
+    versions:
+      - 1.3.4
+  ode-jacob:
+    lastUpdated: 20131012131025
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-jacob-ap:
+    lastUpdated: 20131012131051
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-jbi:
+    lastUpdated: 20131012131045
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-jbi-bundle:
+    lastUpdated: 20131012131023
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+  ode-jbi-karaf:
+    lastUpdated: 20131012131052
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+  ode-jbi-karaf-commands:
+    lastUpdated: 20131012131006
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.5
+      - 1.3.6
+  ode-jbi-karaf-pmapi-httpbinding:
+    lastUpdated: 20131012131041
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.3.5
+      - 1.3.6
+  ode-jca-ra:
+    lastUpdated: 20131012131012
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-jca-server:
+    lastUpdated: 20131012131013
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-scheduler-simple:
+    lastUpdated: 20131012131055
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-tools:
+    lastUpdated: 20131012131042
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+  ode-utils:
+    lastUpdated: 20131012131027
+    latest: 1.3.6
+    release: 1.3.6
+    versions:
+      - 1.1
+      - 1.1.1
+      - 1.2
+      - 1.3.2
+      - 1.3.3
+      - 1.3.4
+      - 1.3.5
+      - 1.3.6
+      - 1.1
+      - 1.2
+

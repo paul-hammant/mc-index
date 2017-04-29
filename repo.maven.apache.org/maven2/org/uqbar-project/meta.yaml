@@ -1,0 +1,182 @@
+artifacts:
+  arena-apo:
+    lastUpdated: 20160203120616
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-core:
+    lastUpdated: 20160203120616
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-examples:
+    lastUpdated: 20160203120617
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-jface:
+    lastUpdated: 20160203120618
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-parent:
+    lastUpdated: 20160203120618
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-pers:
+    lastUpdated: 20160208150033
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.3
+      - 3.4.0
+      - 3.4.1
+      - 3.6.1
+  arena-poo:
+    lastUpdated: 20160203120619
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-pot:
+    lastUpdated: 20160203120620
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-xtend:
+    lastUpdated: 20160203120620
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5-alpha-2
+      - 3.5.0
+      - 3.5.1
+      - 3.6.0
+      - 3.6.1
+  arena-xtend-parent:
+    lastUpdated: 20160627173927
+    latest: 3.6.2
+    release: 3.6.2
+    versions:
+      - 3.5.1
+      - 3.6.1
+      - 3.6.2
+  celulares-domain-xtend:
+    lastUpdated: 20150313120257
+    latest: 1.0-RELEASE
+    release: 1.0-RELEASE
+    versions:
+      - 1.0-RELEASE
+  geodds-xtend:
+    lastUpdated: 20161004233335
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  jpa-java8-extras:
+    lastUpdated: 20141027195634
+    latest: 1.0-alpha-1
+    release: 1.0-alpha-1
+    versions:
+      - 1.0-alpha-1
+  queComemos-repoRecetas-entrega3:
+    lastUpdated: 20150518173454
+    latest: 0.0.2
+    release: 0.0.2
+    versions:
+      - 0.0.2
+  uqbar-class-descriptor:
+    lastUpdated: 20150331204421
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.2
+  uqbar-domain:
+    lastUpdated: 20160203114645
+    latest: 3.6.1
+    release: 3.6.1
+    versions:
+      - 3.5-alpha-1
+      - 3.5.0
+      - 3.5.1
+      - 3.6.1
+  uqbar-examples-parent:
+    lastUpdated: 20150317181215
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  uqbar-parent-project:
+    lastUpdated: 20150325000345
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.9-alpha-1
+      - 1.9
+  uqbar-scala-parent:
+    lastUpdated: 20150328181253
+    latest: 1.3
+    release: 1.3
+    versions:
+      - 1.2
+      - 1.3
+  uqbar-wicket-xtend:
+    lastUpdated: 20151005124357
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  uqbar-xtend-parent:
+    lastUpdated: 20160101145231
+    latest: 2.9.1
+    release: 2.9.1
+    versions:
+      - 2.7.3
+      - 2.9.1
+

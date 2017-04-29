@@ -1,0 +1,178 @@
+artifacts:
+  ch-chimpq:
+    lastUpdated: 20140122164312
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.3
+      - 3.0.4
+  ch-commons:
+    lastUpdated: 20150310191340
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.0
+      - 1.1
+  ch-commons-charset:
+    lastUpdated: 20140124190055
+    latest: 3.0.2
+    release: 3.0.2
+    versions:
+      - 3.0.0
+      - 3.0.2
+  ch-commons-gsm:
+    lastUpdated: 20121031202414
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  ch-commons-io:
+    lastUpdated: 20131115182857
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.3.0
+  ch-commons-locale:
+    lastUpdated: 20131115183300
+    latest: 1.5.0
+    release: 1.5.0
+    versions:
+      - 1.5.0
+  ch-commons-rfs:
+    lastUpdated: 20131115183649
+    latest: 1.3.0
+    release: 1.3.0
+    versions:
+      - 1.3.0
+  ch-commons-sql:
+    lastUpdated: 20160323214813
+    latest: 1.3.2
+    release: 1.3.2
+    versions:
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+  ch-commons-ssl:
+    lastUpdated: 20140317192625
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ch-commons-util:
+    lastUpdated: 20150427221938
+    latest: 6.0.3
+    release: 6.0.3
+    versions:
+      - 6.0.0
+      - 6.0.1
+      - 6.0.2
+      - 6.0.3
+  ch-commons-xbean:
+    lastUpdated: 20121101003301
+    latest: 3.0.0
+    release: 3.0.0
+    versions:
+      - 3.0.0
+  ch-datastore:
+    lastUpdated: 20140122164313
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.3
+      - 3.0.4
+  ch-httpclient-util:
+    lastUpdated: 20160323220045
+    latest: 1.5.2
+    release: 1.5.2
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+  ch-jetty:
+    lastUpdated: 20160719201232
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.0.2
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  ch-jni-loader:
+    lastUpdated: 20130212230739
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  ch-kyotocabinet-java:
+    lastUpdated: 20130213024246
+    latest: 1.24.0
+    release: 1.24.0
+    versions:
+      - 1.24.0
+  ch-maven-parent-oss:
+    lastUpdated: 20160323211053
+    latest: 1.6
+    release: 1.6
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.6
+  ch-mq:
+    lastUpdated: 20140122164314
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.3
+      - 3.0.4
+  ch-mq-remote:
+    lastUpdated: 20140122164315
+    latest: 3.0.4
+    release: 3.0.4
+    versions:
+      - 3.0.3
+      - 3.0.4
+  ch-smpp:
+    lastUpdated: 20151124220633
+    latest: 6.0.0-netty4-beta-2
+    release: 6.0.0-netty4-beta-2
+    versions:
+      - 5.0.0
+      - 5.0.1
+      - 5.0.3
+      - 5.0.4
+      - 5.0.5
+      - 5.0.6
+      - 5.0.7
+      - 5.0.8
+      - 5.0.9
+      - 6.0.0-netty4-beta-1
+      - 6.0.0-netty4-beta-2
+  ch-sxmp:
+    lastUpdated: 20160325132129
+    latest: 1.5.5
+    release: 1.5.5
+    versions:
+      - 1.5.0
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.5.4
+      - 1.5.5
+  ch-tokyocabinet-java:
+    lastUpdated: 20130213021921
+    latest: 1.24.0
+    release: 1.24.0
+    versions:
+      - 1.24.0
+

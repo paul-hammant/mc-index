@@ -1,0 +1,180 @@
+artifacts:
+  client-java-camel:
+    lastUpdated: 20150202135248
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 1.0.0
+  deepamehta-base:
+    lastUpdated: 20140827123753
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  mhw-base:
+    lastUpdated: 20140611123845
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  mhw-client:
+    lastUpdated: 20140611123845
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  mhw-lmh:
+    lastUpdated: 20140611123846
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  mhw-mmt:
+    lastUpdated: 20140611123846
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  mhw-sally-service:
+    lastUpdated: 20140611123846
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  mhw-stexservices:
+    lastUpdated: 20140611123847
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  nnexus:
+    lastUpdated: 20140818221104
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  office-base:
+    lastUpdated: 20140827123753
+    latest: 0.0.6
+    release: 0.0.6
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+  office-spreadsheet:
+    lastUpdated: 20140817192457
+    latest: 0.0.4
+    release: 0.0.4
+    versions:
+      - 0.0.4
+  planetary-base:
+    lastUpdated: 20140611123847
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  planetary-sql:
+    lastUpdated: 20140818221106
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  repository-base:
+    lastUpdated: 20140818221106
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+  sally4:
+    lastUpdated: 20150202135250
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 1.0.0
+  sally4-activemq:
+    lastUpdated: 20140611123848
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  sally4-docmanager:
+    lastUpdated: 20150202135250
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 1.0.0
+  sally4-features:
+    lastUpdated: 20150202135251
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 1.0.0
+  sally4-module-archetype:
+    lastUpdated: 20150202135252
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.7
+      - 0.0.8
+      - 1.0.0
+  sally4-osgi:
+    lastUpdated: 20150203092431
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.7
+      - 1.0.0
+  sally4-servlet:
+    lastUpdated: 20140611123849
+    latest: 0.0.3
+    release: 0.0.3
+    versions:
+      - 0.0.3
+  sally4-utils:
+    lastUpdated: 20150202135252
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+      - 0.0.6
+      - 0.0.7
+      - 0.0.8
+      - 1.0.0
+  text-base:
+    lastUpdated: 20140818221108
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.4
+      - 0.0.5
+

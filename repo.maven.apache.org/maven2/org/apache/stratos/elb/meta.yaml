@@ -1,0 +1,20 @@
+artifacts:
+  apache-stratos-elb:
+    lastUpdated: 20131105222835
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  apache-stratos-elb-p2-profile-gen:
+    lastUpdated: 20131105222827
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+  elb-parent:
+    lastUpdated: 20131105222836
+    latest: 3.0.0-incubating
+    release: 3.0.0-incubating
+    versions:
+      - 3.0.0-incubating
+

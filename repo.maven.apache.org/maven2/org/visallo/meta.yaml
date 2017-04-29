@@ -1,0 +1,1434 @@
+artifacts:
+  visallo:
+    lastUpdated: 20170417075719
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-cli:
+    lastUpdated: 20170417075719
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-client-api:
+    lastUpdated: 20170417075720
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-client-api-codegen:
+    lastUpdated: 20170417075720
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-closure-compiler:
+    lastUpdated: 20160411172412
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  visallo-common:
+    lastUpdated: 20170417075720
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-common-rdf:
+    lastUpdated: 20170417075721
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-config-example:
+    lastUpdated: 20170417075721
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-core:
+    lastUpdated: 20170417075721
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-core-group:
+    lastUpdated: 20170417075722
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-core-plugins-group:
+    lastUpdated: 20170417075722
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-core-test:
+    lastUpdated: 20170417075722
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-dev:
+    lastUpdated: 20170417075722
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-dev-cli:
+    lastUpdated: 20170417075723
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-dev-jetty-server:
+    lastUpdated: 20161214225244
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+  visallo-dev-tomcat-server:
+    lastUpdated: 20170417075723
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-email-extractor:
+    lastUpdated: 20170417075723
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-mime-type-ontology-mapper:
+    lastUpdated: 20170417075723
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-phone-number-extractor:
+    lastUpdated: 20170417075723
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-reindex:
+    lastUpdated: 20170417075724
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-tika-mime-type:
+    lastUpdated: 20170417075725
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-tika-text-extractor:
+    lastUpdated: 20170417075726
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-gpw-zipcode-extractor:
+    lastUpdated: 20170417075727
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-graph-property-worker-group:
+    lastUpdated: 20170417075727
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-graph-property-worker-plugin-base:
+    lastUpdated: 20170417075727
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-graph-property-worker-plugin-test:
+    lastUpdated: 20161214225250
+    latest: 2.2.2
+    release: 2.2.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+  visallo-graph-property-worker-plugins-group:
+    lastUpdated: 20170417075727
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-ingest-cloud-s3:
+    lastUpdated: 20170417075727
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-jetty-server:
+    lastUpdated: 20161214225250
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+  visallo-model-queue-inmemory:
+    lastUpdated: 20170417075728
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-model-vertexium:
+    lastUpdated: 20170417075728
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-model-vertexium-elasticsearch:
+    lastUpdated: 20170417075728
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-model-vertexium-inmemory:
+    lastUpdated: 20170417075729
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-plugin-archetype:
+    lastUpdated: 20170417075729
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-root:
+    lastUpdated: 20170417075729
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tomcat-server:
+    lastUpdated: 20170417075729
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-format:
+    lastUpdated: 20160816004637
+    latest: 2.1.0
+    release: 2.1.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+  visallo-tools-group:
+    lastUpdated: 20170417075729
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-import:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-migration-graph-version-bump:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-migration-workspace-to-workproduct:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-migrations:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-ontology-ingest:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-ontology-ingest-codegen:
+    lastUpdated: 20170417075730
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-ontology-ingest-common:
+    lastUpdated: 20170417075731
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-owl:
+    lastUpdated: 20170417075731
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-rdf-import:
+    lastUpdated: 20170417075731
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-reindex:
+    lastUpdated: 20170417075732
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-run-gpw:
+    lastUpdated: 20170417075732
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-tools-user-admin:
+    lastUpdated: 20160714011348
+    latest: 2.0.0
+    release: 2.0.0
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+  visallo-web:
+    lastUpdated: 20170417075732
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-admin-import-rdf:
+    lastUpdated: 20170417075732
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-auth-username-only:
+    lastUpdated: 20170417075733
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-auth-username-password:
+    lastUpdated: 20170417075733
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-change-email:
+    lastUpdated: 20170417075733
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-change-password:
+    lastUpdated: 20170417075734
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-group:
+    lastUpdated: 20170417075734
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-plugin-base:
+    lastUpdated: 20170417075734
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-plugins-admin-user-property-auth:
+    lastUpdated: 20170417075734
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-plugins-admin-user-property-privileges:
+    lastUpdated: 20170417075735
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-plugins-admin-user-tools:
+    lastUpdated: 20170417075735
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-plugins-group:
+    lastUpdated: 20170417075735
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-product-graph:
+    lastUpdated: 20170417075736
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-product-map:
+    lastUpdated: 20170417075736
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-server-base:
+    lastUpdated: 20170417075737
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-server-group:
+    lastUpdated: 20170417075737
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-structured-ingest:
+    lastUpdated: 20170417075737
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-structured-ingest-core:
+    lastUpdated: 20170417075737
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-structured-ingest-parquet:
+    lastUpdated: 20170417075738
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-structured-ingest-spreadsheet:
+    lastUpdated: 20170417075738
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-table:
+    lastUpdated: 20170417075738
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-test:
+    lastUpdated: 20170417075739
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+  visallo-web-war:
+    lastUpdated: 20170417075739
+    latest: 3.1.2
+    release: 3.1.2
+    versions:
+      - 2.0.0-RC1
+      - 2.0.0
+      - 2.1.0-RC1
+      - 2.1.0
+      - 2.1.1
+      - 2.1.2
+      - 2.1.3
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 3.0.0-RC1
+      - 3.0
+      - 3.0.1
+      - 3.1.0-RC1
+      - 3.1.0-RC2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+

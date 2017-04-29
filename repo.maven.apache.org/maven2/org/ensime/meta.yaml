@@ -1,0 +1,295 @@
+artifacts:
+  api_2.10:
+    lastUpdated: 20170419093023
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  api_2.11:
+    lastUpdated: 20170419093023
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  api_2.12:
+    lastUpdated: 20170419093024
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  core_2.10:
+    lastUpdated: 20170419093025
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  core_2.11:
+    lastUpdated: 20170419093026
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  core_2.12:
+    lastUpdated: 20170419093027
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  default-e18498_2.10:
+    lastUpdated: 20161210161741
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  default-e18498_2.11:
+    lastUpdated: 20161210161742
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  default-e18498_2.12:
+    lastUpdated: 20161210161742
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  ensime_2.10:
+    lastUpdated: 20170419093028
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  ensime_2.11:
+    lastUpdated: 20170419093029
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  ensime_2.12:
+    lastUpdated: 20170419093030
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  example_2.10:
+    lastUpdated: 20161210161742
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  example_2.11:
+    lastUpdated: 20161210161743
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  example_2.12:
+    lastUpdated: 20161210161743
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.2.0
+  java7-file-watcher_2.10:
+    lastUpdated: 20160521113153
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  java7-file-watcher_2.11:
+    lastUpdated: 20160521105935
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  jerky_2.10:
+    lastUpdated: 20170419093031
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  jerky_2.11:
+    lastUpdated: 20170419093032
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  jerky_2.12:
+    lastUpdated: 20170419093033
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  monkeys_2.10:
+    lastUpdated: 20170419093034
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  monkeys_2.11:
+    lastUpdated: 20170419093034
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  monkeys_2.12:
+    lastUpdated: 20170419093035
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  pcplod_2.10:
+    lastUpdated: 20161210161743
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  pcplod_2.11:
+    lastUpdated: 20161210161744
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  pcplod_2.12:
+    lastUpdated: 20161210161744
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.1.0
+      - 1.2.0
+  pcplod_2.12.0-RC2:
+    lastUpdated: 20161023170136
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+  s-express_2.10:
+    lastUpdated: 20170419093036
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  s-express_2.11:
+    lastUpdated: 20170419093037
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  s-express_2.12:
+    lastUpdated: 20170419093038
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  server_2.10:
+    lastUpdated: 20170419093038
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  server_2.11:
+    lastUpdated: 20170419093039
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  server_2.12:
+    lastUpdated: 20170419093040
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  swanky_2.10:
+    lastUpdated: 20170419093040
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  swanky_2.11:
+    lastUpdated: 20170419093041
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  swanky_2.12:
+    lastUpdated: 20170419093042
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+  testutil_2.10:
+    lastUpdated: 20170405213439
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  testutil_2.11:
+    lastUpdated: 20170405213439
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  util_2.10:
+    lastUpdated: 20170419093043
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  util_2.11:
+    lastUpdated: 20170419093043
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 2.0.0-M1
+  util_2.12:
+    lastUpdated: 20170419093044
+    latest: 2.0.0-M1
+    release: 2.0.0-M1
+    versions:
+      - 2.0.0-M1
+

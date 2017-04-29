@@ -1,0 +1,296 @@
+artifacts:
+  metrics-annotation:
+    lastUpdated: 20170320142926
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-core:
+    lastUpdated: 20170320142927
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-ehcache:
+    lastUpdated: 20170320142927
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-ganglia:
+    lastUpdated: 20170320142928
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-graphite:
+    lastUpdated: 20170320142928
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-healthchecks:
+    lastUpdated: 20170320142929
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-httpasyncclient:
+    lastUpdated: 20170320142929
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-httpclient:
+    lastUpdated: 20170320142929
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jcache:
+    lastUpdated: 20170320142930
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jdbi:
+    lastUpdated: 20170320142930
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jersey:
+    lastUpdated: 20170320142930
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jersey2:
+    lastUpdated: 20170320142931
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jetty8:
+    lastUpdated: 20170320142931
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jetty9:
+    lastUpdated: 20170320142932
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jetty9-legacy:
+    lastUpdated: 20170320142932
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-json:
+    lastUpdated: 20170320142932
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-jvm:
+    lastUpdated: 20170320142933
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-log4j:
+    lastUpdated: 20170320142933
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-log4j2:
+    lastUpdated: 20170320142933
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-logback:
+    lastUpdated: 20170320142934
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-parent:
+    lastUpdated: 20170320142934
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-servlet:
+    lastUpdated: 20170320142934
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+  metrics-servlets:
+    lastUpdated: 20170320142935
+    latest: 3.2.2
+    release: 3.2.2
+    versions:
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+

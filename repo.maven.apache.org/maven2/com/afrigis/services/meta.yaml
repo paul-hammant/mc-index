@@ -1,0 +1,32 @@
+artifacts:
+  addresssubmission:
+    lastUpdated: 20161207062615
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 3.0.1
+  core:
+    lastUpdated: 20161207062615
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 3.0.0
+      - 3.0.1
+  geocode:
+    lastUpdated: 20161207062616
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 3.0.0
+      - 3.0.1
+  reversegeocode:
+    lastUpdated: 20161207062616
+    latest: 3.0.1
+    release: 3.0.1
+    versions:
+      - 2.0.2
+      - 3.0.0
+      - 3.0.1
+

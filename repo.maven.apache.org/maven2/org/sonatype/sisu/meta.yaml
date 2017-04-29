@@ -1,0 +1,514 @@
+artifacts:
+  sisu-bundle-launcher:
+    lastUpdated: 20150309142043
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-aggregator:
+    lastUpdated: 20150309141748
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-jetty:
+    lastUpdated: 20150212003027
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-jetty-testsuite:
+    lastUpdated: 20150212003028
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-servlet:
+    lastUpdated: 20150309142157
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-testsupport:
+    lastUpdated: 20150212003030
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.8
+      - 1.9
+  sisu-bundle-launcher-tomcat:
+    lastUpdated: 20150309142116
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-charger:
+    lastUpdated: 20120607103930
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  sisu-eclipse-registry:
+    lastUpdated: 20130324142520
+    latest: 2.3.4
+    release: 2.3.4
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+  sisu-ehcache:
+    lastUpdated: 20120327160254
+    latest: 1.1
+    release: 1.1
+    versions:
+      - 1.0
+      - 1.1
+  sisu-encryptor:
+    lastUpdated: 20110411203636
+    latest: 1.0
+    release: 1.0
+    versions:
+      - 1.0
+  sisu-file-tasks:
+    lastUpdated: 20150309142101
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.0
+      - 1.2
+      - 1.2.1
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.5.1
+      - 1.5.2
+      - 1.5.3
+      - 1.6
+      - 1.7
+      - 1.8
+      - 1.9
+  sisu-guava:
+    lastUpdated: 20120116183319
+    latest: 0.11.1
+    release: 0.11.1
+    versions:
+      - 0.9.9
+      - 0.11.1
+  sisu-guava-gwt:
+    lastUpdated: 20120116183319
+    latest: 0.11.1
+    release: 0.11.1
+    versions:
+      - 0.11.1
+  sisu-guice:
+    lastUpdated: 20150425182855
+    latest: 3.2.6
+    release: 3.2.6
+    versions:
+      - 2.1.7
+      - 2.9.0
+      - 2.9.1
+      - 2.9.2
+      - 2.9.3
+      - 2.9.4
+      - 2.9.5
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+      - 3.1.4.1
+      - 3.1.5
+      - 3.1.6
+      - 3.1.7
+      - 3.1.8
+      - 3.1.9
+      - 3.1.10
+      - 3.2.0
+      - 3.2.1
+      - 3.2.2
+      - 3.2.3
+      - 3.2.4
+      - 3.2.5
+      - 3.2.6
+  sisu-inject:
+    lastUpdated: 20150309142145
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.3-server
+      - 1.4.3.1
+      - 1.4.3.2
+      - 2.0.0
+      - 2.1.1
+      - 2.1.1-NEXUS-4312
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.6.0
+  sisu-inject-bean:
+    lastUpdated: 20150309142132
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.3-server
+      - 1.4.3.1
+      - 1.4.3.2
+      - 2.0.0
+      - 2.1.1
+      - 2.1.1-NEXUS-4312
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.6.0
+  sisu-inject-eclipse:
+    lastUpdated: 20110311155600
+    latest: 2.2.0
+    release: 2.2.0
+    versions:
+      - 2.2.0
+  sisu-inject-plexus:
+    lastUpdated: 20150309141815
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.3-server
+      - 1.4.3.1
+      - 1.4.3.2
+      - 2.0.0
+      - 2.1.1
+      - 2.1.1-NEXUS-4312
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.6.0
+  sisu-jetty8:
+    lastUpdated: 20150309142210
+    latest: 1.4.2
+    release: 1.4.2
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.4.1
+      - 1.4.2
+  sisu-jsw-utils:
+    lastUpdated: 20120619123132
+    latest: 1.2.1
+    release: 1.2.1
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+      - 1.2.1
+  sisu-locks:
+    lastUpdated: 20120103172912
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  sisu-mailer:
+    lastUpdated: 20140802210622
+    latest: 1.9
+    release: 1.9
+    versions:
+      - 1.1.1
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.7.1
+      - 1.7.2
+      - 1.8
+      - 1.9
+  sisu-maven-bridge:
+    lastUpdated: 20150309142052
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 1.0
+      - 2.0
+      - 2.1
+      - 2.2
+      - 2.2.1
+      - 2.3
+      - 2.3.1
+      - 3.0
+      - 3.1
+      - 3.1.1
+      - 3.2.0
+  sisu-maven-bridge-parent:
+    lastUpdated: 20150212002907
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0
+      - 3.1
+      - 3.1.1
+      - 3.2.0
+  sisu-odata4j:
+    lastUpdated: 20150309142624
+    latest: 0.0.7
+    release: 0.0.7
+    versions:
+      - 0.0.1
+      - 0.0.7
+  sisu-osgi-registry:
+    lastUpdated: 20110915233216
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+  sisu-parent:
+    lastUpdated: 20150309142654
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 1.4.0
+      - 1.4.1
+      - 1.4.2
+      - 1.4.3
+      - 1.4.3-server
+      - 1.4.3.1
+      - 1.4.3.2
+      - 2.0.0
+      - 2.1.1
+      - 2.1.1-NEXUS-4312
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+      - 2.3.1
+      - 2.3.2
+      - 2.3.3
+      - 2.3.4
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 2.5.0
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.6.0
+  sisu-resource-scanner:
+    lastUpdated: 20150309142147
+    latest: 1.1.1
+    release: 1.1.1
+    versions:
+      - 1.0
+      - 1.0.1
+      - 1.1
+      - 1.1.1
+  sisu-sitebricks:
+    lastUpdated: 20110918190942
+    latest: 0.0.5
+    release: 0.0.5
+    versions:
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.0.4
+      - 0.0.5
+  sisu-spi-registry:
+    lastUpdated: 20110915233219
+    latest: 2.3.0
+    release: 2.3.0
+    versions:
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.3.0
+  sisu-store:
+    lastUpdated: 20110908005219
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  sisu-task-scheduler:
+    lastUpdated: 20130501202246
+    latest: 1.8.1
+    release: 1.8.1
+    versions:
+      - 1.7
+      - 1.8.1
+  sisu-template:
+    lastUpdated: 20110819222452
+    latest: 0.9.7
+    release: 0.9.7
+    versions:
+      - 0.9.6
+      - 0.9.7
+  sisu-velocity:
+    lastUpdated: 20121202204722
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.0
+      - 1.1
+      - 1.2
+  sisu-xmlrpc:
+    lastUpdated: 20120103172823
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  sisu-xmlrpc-client:
+    lastUpdated: 20120103172823
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  sisu-xmlrpc-common:
+    lastUpdated: 20120103172823
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+  sisu-xmlrpc-server:
+    lastUpdated: 20120103172823
+    latest: 1.2.0
+    release: 1.2.0
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+

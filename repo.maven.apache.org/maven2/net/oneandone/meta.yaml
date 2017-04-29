@@ -1,0 +1,223 @@
+artifacts:
+  concierge:
+    lastUpdated: 20160419080539
+    latest: 0.1
+    release: 0.1
+    versions:
+      - 0.1
+      - 0.1
+  fralax:
+    lastUpdated: 20160504140255
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.1
+      - 0.2
+      - 0.3
+  graph:
+    lastUpdated: 20130206085555
+    latest: 1.0.0
+    release: 1.0.0
+    versions:
+      - 1.0.0
+  hellowar:
+    lastUpdated: 20160429102615
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  inline:
+    lastUpdated: 20160708054519
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  jasmin:
+    lastUpdated: 20150320084454
+    latest: 3.0.12
+    release: 3.0.12
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.0.3
+      - 3.0.4
+      - 3.0.5
+      - 3.0.6
+      - 3.0.7
+      - 3.0.8
+      - 3.0.9
+      - 3.0.10
+      - 3.0.11
+      - 3.0.12
+  lavender:
+    lastUpdated: 20161221081751
+    latest: 2.5.5
+    release: 2.5.5
+    versions:
+      - 2.0.0
+      - 2.0.1
+      - 2.0.2
+      - 2.0.3
+      - 2.0.4
+      - 2.0.5
+      - 2.0.6
+      - 2.0.7
+      - 2.0.8
+      - 2.1.0
+      - 2.2.0
+      - 2.2.1
+      - 2.2.2
+      - 2.2.3
+      - 2.2.4
+      - 2.2.5
+      - 2.2.6
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.5.1
+      - 2.5.2
+      - 2.5.3
+      - 2.5.4
+      - 2.5.5
+  mork:
+    lastUpdated: 20140613083048
+    latest: 1.1.4
+    release: 1.1.4
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+  pommes:
+    lastUpdated: 20161228082629
+    latest: 3.1.0
+    release: 3.1.0
+    versions:
+      - 2.2.0
+      - 2.2.1
+      - 2.3.0
+      - 2.4.0
+      - 2.4.1
+      - 2.4.2
+      - 2.4.3
+      - 3.0.0
+      - 3.1.0
+  setenv:
+    lastUpdated: 20160728070703
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  ssass:
+    lastUpdated: 20150320084456
+    latest: 1.0.9
+    release: 1.0.9
+    versions:
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+  stool:
+    lastUpdated: 20150810082642
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0-beta-2
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 3.2.0
+  sushi:
+    lastUpdated: 20170111083832
+    latest: 3.1.4
+    release: 3.1.4
+    versions:
+      - 2.8.0
+      - 2.8.1
+      - 2.8.2
+      - 2.8.3
+      - 2.8.4
+      - 2.8.5
+      - 2.8.6
+      - 2.8.7
+      - 2.8.8
+      - 2.8.9
+      - 2.8.10
+      - 2.8.11
+      - 2.8.12
+      - 2.8.13
+      - 2.8.14
+      - 2.8.15
+      - 2.8.16
+      - 2.8.17
+      - 2.8.18
+      - 2.8.19
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.1.3
+      - 3.1.4
+  troilus-core:
+    lastUpdated: 20150129180209
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.2
+      - 0.3
+      - 0.4
+  troilus-core-java7:
+    lastUpdated: 20150129180214
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.2
+      - 0.3
+      - 0.4
+  troilus-parent:
+    lastUpdated: 20150129180215
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.2
+      - 0.3
+      - 0.4
+  troilus-service-example:
+    lastUpdated: 20150129180217
+    latest: 0.4
+    release: 0.4
+    versions:
+      - 0.2
+      - 0.3
+      - 0.4
+      - 0.2
+      - 0.3
+      - 0.4
+

@@ -1,0 +1,117 @@
+artifacts:
+  boilerplate:
+    lastUpdated: 20170309112448
+    latest: 0.1.3
+    release: 0.1.3
+    versions:
+      - 0.1.2
+      - 0.1.3
+  build-commons:
+    lastUpdated: 20170411175306
+    latest: 0.1.10
+    release: 0.1.10
+    versions:
+      - 0.1.0
+      - 0.1.1
+      - 0.1.2
+      - 0.1.3
+      - 0.1.4
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+      - 0.1.10
+  gson-extras:
+    lastUpdated: 20161111194710
+    latest: 0.2.1
+    release: 0.2.1
+    versions:
+      - 0.1.0
+      - 0.2.0
+      - 0.2.1
+  java-quadtree:
+    lastUpdated: 20170105140322
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  javadoc.io-linker:
+    lastUpdated: 20170412093001
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.0
+      - 0.1.1
+  javalib:
+    lastUpdated: 20160226180133
+    latest: 5.0.0
+    release: 5.0.0
+    versions:
+      - 0.0.0
+      - 0.1.0
+      - 0.2.0
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.1.2
+      - 1.2.0
+      - 1.3.0
+      - 1.3.1
+      - 1.3.2
+      - 2.0.0
+      - 3.0.0
+      - 3.0.1
+      - 3.1.0
+      - 4.0.0
+      - 4.1.0
+      - 4.1.1
+      - 4.1.2
+      - 5.0.0
+  javalib-java7:
+    lastUpdated: 20160422161040
+    latest: 0.6.1
+    release: 0.6.1
+    versions:
+      - 0.0.0
+      - 0.0.1
+      - 0.0.2
+      - 0.0.3
+      - 0.1.0
+      - 0.1.1
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.6.1
+  jirf:
+    lastUpdated: 20170308112927
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  smartrrr:
+    lastUpdated: 20151215102133
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.0
+      - 0.0.1
+  stream-extensions:
+    lastUpdated: 20170105124830
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+  stream-goodies:
+    lastUpdated: 20170105142323
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  urlclassloader-util:
+    lastUpdated: 20161206174941
+    latest: 0.1.0
+    release: 0.1.0
+    versions:
+      - 0.1.0
+

@@ -1,0 +1,61 @@
+artifacts:
+  openfeed-protocol:
+    lastUpdated: 20130731223117
+    latest: 1.0.2
+    release: 1.0.2
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+  openfeed-protocol-archon:
+    lastUpdated: 20130731235559
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  openfeed-protocol-common:
+    lastUpdated: 20130731235559
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  openfeed-protocol-instrument:
+    lastUpdated: 20130822161705
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.1.0
+  openfeed-protocol-marketdata:
+    lastUpdated: 20130731235600
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  openfeed-protocol-tests:
+    lastUpdated: 20130801172610
+    latest: 1.2.2
+    release: 1.2.2
+    versions:
+      - 1.0.0
+      - 1.1.0
+      - 1.2.2
+  openfeed-protocol-tools:
+    lastUpdated: 20130731235601
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+  openfeed-protocol-utilities:
+    lastUpdated: 20130731235601
+    latest: 1.0.1
+    release: 1.0.1
+    versions:
+      - 1.0.0
+      - 1.0.1
+

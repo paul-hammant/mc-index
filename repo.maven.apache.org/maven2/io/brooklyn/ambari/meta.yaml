@@ -1,0 +1,43 @@
+artifacts:
+  brooklyn-ambari:
+    lastUpdated: 20170320123732
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.0-20160803.1156
+      - 0.6.0
+  brooklyn-ambari-launcher:
+    lastUpdated: 20151103125155
+    latest: 0.2.0
+    release: 0.2.0
+    versions:
+      - 0.2.0
+  brooklyn-ambari-parent:
+    lastUpdated: 20170320123732
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.0-20160803.1156
+      - 0.6.0
+  brooklyn-ambari-service:
+    lastUpdated: 20170320123732
+    latest: 0.6.0
+    release: 0.6.0
+    versions:
+      - 0.2.0
+      - 0.3.0
+      - 0.4.1
+      - 0.5.0
+      - 0.5.0-20160803.1156
+      - 0.6.0
+

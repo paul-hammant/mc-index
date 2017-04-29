@@ -1,0 +1,181 @@
+artifacts:
+  common:
+    lastUpdated: 20131128195314
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-all:
+    lastUpdated: 20131128195314
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-collections-multimap:
+    lastUpdated: 20121117152406
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  common-collections-multiset:
+    lastUpdated: 20131128195314
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-collections-tree:
+    lastUpdated: 20131128195314
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-core:
+    lastUpdated: 20131128195315
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-core-jodatime:
+    lastUpdated: 20131128195315
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-db:
+    lastUpdated: 20121117152412
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  common-graphs:
+    lastUpdated: 20131128195315
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.7
+  common-listeners:
+    lastUpdated: 20131128195316
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-msg:
+    lastUpdated: 20131128195316
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-other:
+    lastUpdated: 20121117152414
+    latest: 1.0.3
+    release: 1.0.3
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+  common-security:
+    lastUpdated: 20131128195316
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-tasks:
+    lastUpdated: 20131128195317
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  common-text:
+    lastUpdated: 20131128195317
+    latest: 1.0.7
+    release: 1.0.7
+    versions:
+      - 1.0.0
+      - 1.0.1
+      - 1.0.2
+      - 1.0.3
+      - 1.0.4
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+  graphs:
+    lastUpdated: 20131010194129
+    latest: 1.0.6
+    release: 1.0.6
+    versions:
+      - 1.0.6
+  jscl:
+    lastUpdated: 20150218221722
+    latest: 1.0.11
+    release: 1.0.11
+    versions:
+      - 1.0.0
+      - 1.0.5
+      - 1.0.6
+      - 1.0.7
+      - 1.0.8
+      - 1.0.9
+      - 1.0.10
+      - 1.0.11
+

@@ -1,0 +1,68 @@
+artifacts:
+  android-stub:
+    lastUpdated: 20160928150959
+    latest: 0.1.1
+    release: 0.1.1
+    versions:
+      - 0.1.1
+  benchmarks:
+    lastUpdated: 20160929015413
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  fastjson-leancloud:
+    lastUpdated: 20160929033247
+    latest: 1.1.39
+    release: 1.1.39
+    versions:
+      - 1.1.39
+  java-sdk:
+    lastUpdated: 20160929043909
+    latest: 0.1.6
+    release: 0.1.6
+    versions:
+      - 0.1.6
+  leancloud-common:
+    lastUpdated: 20161128061452
+    latest: 0.1.8
+    release: 0.1.8
+    versions:
+      - 0.1.6
+      - 0.1.7
+      - 0.1.8
+  leanengine:
+    lastUpdated: 20161028084625
+    latest: 0.1.14
+    release: 0.1.14
+    versions:
+      - 0.1.10
+      - 0.1.11
+      - 0.1.12
+      - 0.1.13
+      - 0.1.14
+  okhttp-leancloud:
+    lastUpdated: 20160929021405
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 2.6.0
+  okhttp-parent:
+    lastUpdated: 20160929021405
+    latest: 2.6.0
+    release: 2.6.0
+    versions:
+      - 2.6.0
+  okio-leancloud:
+    lastUpdated: 20160929015414
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+  okio-parent:
+    lastUpdated: 20160929015414
+    latest: 1.6.0
+    release: 1.6.0
+    versions:
+      - 1.6.0
+

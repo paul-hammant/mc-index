@@ -1,0 +1,59 @@
+artifacts:
+  clients:
+    lastUpdated: 20150210103208
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.3
+      - 0.3.4
+      - 0.3.5
+  clients-bamboo:
+    lastUpdated: 20150210103208
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-common:
+    lastUpdated: 20150210103209
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-cruisecontrol:
+    lastUpdated: 20150210103209
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-hudson:
+    lastUpdated: 20150210103209
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-jenkins:
+    lastUpdated: 20150210103210
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-sonar:
+    lastUpdated: 20150210103210
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+  clients-teamcity:
+    lastUpdated: 20150210103210
+    latest: 0.3.5
+    release: 0.3.5
+    versions:
+      - 0.3.4
+      - 0.3.5
+

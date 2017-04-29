@@ -1,0 +1,115 @@
+artifacts:
+  mc-mms-client:
+    lastUpdated: 20150603112338
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-client-api:
+    lastUpdated: 20150603112339
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-client-impl:
+    lastUpdated: 20150603112340
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-client-javaee:
+    lastUpdated: 20150603112340
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-common:
+    lastUpdated: 20150603112341
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3-RC1
+      - 0.3
+      - 0.3
+  mc-mms-distribution-parent:
+    lastUpdated: 20150603112341
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-parent:
+    lastUpdated: 20150603112342
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-server:
+    lastUpdated: 20150603112342
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-server-standalone:
+    lastUpdated: 20150603112344
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.2
+      - 0.2.1
+      - 0.2.2
+      - 0.3-RC1
+      - 0.3
+      - 0.2
+      - 0.3
+  mc-mms-tck:
+    lastUpdated: 20150603112345
+    latest: 0.3
+    release: 0.3
+    versions:
+      - 0.3-RC1
+      - 0.3
+      - 0.3
+  mc-net-server-tck:
+    lastUpdated: 20141105141941
+    latest: 0.2.2
+    release: 0.2.2
+    versions:
+      - 0.2
+      - 0.2.2
+      - 0.2
+

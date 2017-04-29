@@ -1,0 +1,115 @@
+artifacts:
+  clearnlp:
+    lastUpdated: 20150713103140
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 3.0.0
+      - 3.0.1
+      - 3.0.2
+      - 3.1.0
+      - 3.1.1
+      - 3.1.2
+      - 3.2.0
+  clearnlp-bioinformatics-en-dep:
+    lastUpdated: 20150430043129
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+  clearnlp-bioinformatics-en-pos:
+    lastUpdated: 20150430042917
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+  clearnlp-dictionary:
+    lastUpdated: 20150713105435
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.0
+      - 3.1
+      - 3.2
+      - 3.0
+      - 3.1
+      - 3.2
+  clearnlp-general-en-dep:
+    lastUpdated: 20150430042224
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.0
+      - 3.1
+      - 3.2
+      - 3.0
+      - 3.1
+      - 3.2
+  clearnlp-general-en-ner:
+    lastUpdated: 20150508005111
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+  clearnlp-general-en-ner-gazetteer:
+    lastUpdated: 20150507213928
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  clearnlp-general-en-pos:
+    lastUpdated: 20150430041926
+    latest: 3.2
+    release: 3.2
+    versions:
+      - 3.0
+      - 3.1
+      - 3.2
+      - 3.0
+      - 3.1
+      - 3.2
+  clearnlp-general-en-srl:
+    lastUpdated: 20150713104103
+    latest: 3.0
+    release: 3.0
+    versions:
+      - 3.0
+      - 3.0
+  clearnlp-global-lexica:
+    lastUpdated: 20150507214450
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+  clearnlp-medical-en-dep:
+    lastUpdated: 20150430043605
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+  clearnlp-medical-en-pos:
+    lastUpdated: 20150430043321
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 3.0
+      - 3.1
+      - 3.0
+      - 3.1
+

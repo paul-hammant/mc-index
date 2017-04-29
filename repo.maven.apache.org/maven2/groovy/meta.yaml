@@ -1,0 +1,97 @@
+artifacts:
+  gram:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1
+      - 1.1
+  groovy:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-alpha-1
+      - 1.0-alpha-2
+      - 1.0-beta-10
+      - 1.0-beta-2
+      - 1.0-beta-3
+      - 1.0-beta-4
+      - 1.0-beta-4-snapshot
+      - 1.0-beta-5
+      - 1.0-beta-6
+      - 1.0-beta-7
+      - 1.0-beta-8
+      - 1.0-beta-9
+      - 1.0-rc1-snapshot
+  groovy-1.0-jsr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  groovy-all:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.0-beta-10
+      - 1.0-beta-7
+      - 1.0-beta-8
+      - 1.0-beta-9
+      - 1.0-jsr-01
+      - 1.0-jsr-02
+      - 1.0-jsr-03
+      - 1.0-jsr-04
+  groovy-all-1.0-jsr:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  groovy-all-minimal:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 1.1-BETA-1
+      - 1.1-beta-1
+  groovy-xmlrpc:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.2
+      - 0.2
+  groovysoap-all-jsr06:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - 0.1
+      - 0.1
+  jam:
+    lastUpdated: {}
+    latest: {}
+    release: {}
+    versions:
+      - dev
+

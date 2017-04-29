@@ -1,0 +1,113 @@
+artifacts:
+  atlassian-connect-spring-boot:
+    lastUpdated: 20170217192903
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-api:
+    lastUpdated: 20170217192904
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-archetype:
+    lastUpdated: 20170217192905
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-core:
+    lastUpdated: 20170217192906
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-jpa-starter:
+    lastUpdated: 20170217192907
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-jwt:
+    lastUpdated: 20170217192908
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+  atlassian-connect-spring-boot-starter:
+    lastUpdated: 20170217192909
+    latest: 1.3.1
+    release: 1.3.1
+    versions:
+      - 0.9.0-alpha
+      - 0.9.1-alpha
+      - 1.0.0-beta-1
+      - 1.0.0-beta-2
+      - 1.0.0-beta-3
+      - 1.0.0
+      - 1.1.0
+      - 1.2.0
+      - 1.2.1
+      - 1.3.0
+      - 1.3.1
+

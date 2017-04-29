@@ -1,0 +1,94 @@
+artifacts:
+  kripton:
+    lastUpdated: 20170305215901
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.0.0
+      - 1.2.67
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-android-library:
+    lastUpdated: 20170305215901
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.0.0
+      - 1.2.67
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-core:
+    lastUpdated: 20170305215902
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-dataformat-cbor:
+    lastUpdated: 20170305215902
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-dataformat-properties:
+    lastUpdated: 20170305215902
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-dataformat-yaml:
+    lastUpdated: 20170305215903
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-parent:
+    lastUpdated: 20170305215903
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-processor:
+    lastUpdated: 20170305215903
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.2.67
+      - 1.3.0
+      - 1.4.0
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  kripton-retrofit-converter:
+    lastUpdated: 20170305215903
+    latest: 1.6.1
+    release: 1.6.1
+    versions:
+      - 1.5.0
+      - 1.6.0
+      - 1.6.1
+  retrofit-converter-kripton:
+    lastUpdated: 20161110000251
+    latest: 1.4.0
+    release: 1.4.0
+    versions:
+      - 1.2
+      - 1.3.0
+      - 1.4.0
+      - 1.2
+

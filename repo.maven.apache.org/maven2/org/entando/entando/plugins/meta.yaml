@@ -1,0 +1,390 @@
+artifacts:
+  entando-plugin-jpactionlogger:
+    lastUpdated: 20150222155631
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpaddressbook:
+    lastUpdated: 20150222155632
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpavatar:
+    lastUpdated: 20160106135503
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpblog:
+    lastUpdated: 20150222155633
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpcalendar:
+    lastUpdated: 20150222155633
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpcasclient:
+    lastUpdated: 20150222155634
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpcmstagcloud:
+    lastUpdated: 20150222155634
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpcollaboration:
+    lastUpdated: 20150222155635
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpcomponentinstaller:
+    lastUpdated: 20150222155635
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpcontentfeedback:
+    lastUpdated: 20150222155636
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.2.0
+      - 1.2.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpcontentrefs:
+    lastUpdated: 20131115175058
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+  entando-plugin-jpcontentworkflow:
+    lastUpdated: 20150222155637
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpehcache:
+    lastUpdated: 20160106135504
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpfacetnav:
+    lastUpdated: 20160106135504
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpfastcontentedit:
+    lastUpdated: 20150222155638
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.4.0
+      - 1.4.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpfileattribute:
+    lastUpdated: 20150222155639
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpfrontshortcut:
+    lastUpdated: 20150222155639
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpgeoref:
+    lastUpdated: 20150222155641
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpimagemap:
+    lastUpdated: 20131115175102
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+  entando-plugin-jpldap:
+    lastUpdated: 20160106135505
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpmail:
+    lastUpdated: 20160106135506
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.5.0
+      - 1.5.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpmailgun:
+    lastUpdated: 20150222155642
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpmassiveresourceloader:
+    lastUpdated: 20131115175102
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 4.0.0
+  entando-plugin-jpmyportalplus:
+    lastUpdated: 20160106135506
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.1.0
+      - 1.1.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpnewsletter:
+    lastUpdated: 20150222155644
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpoauthclient:
+    lastUpdated: 20150222155644
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpphotogallery:
+    lastUpdated: 20150222155644
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jprss:
+    lastUpdated: 20160106135508
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jprssaggregator:
+    lastUpdated: 20160106135509
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jps3awsclient:
+    lastUpdated: 20150222155646
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpsharewith:
+    lastUpdated: 20130315175847
+    latest: 3.2.0
+    release: 3.2.0
+    versions:
+      - 1.4.0
+      - 1.4.0.1
+      - 3.0.0
+      - 3.2.0
+  entando-plugin-jpshowletreplicator:
+    lastUpdated: 20131115175106
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+  entando-plugin-jpsolrclient:
+    lastUpdated: 20150222155647
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpstats:
+    lastUpdated: 20150222155647
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpsurvey:
+    lastUpdated: 20150222155648
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.4.0
+      - 1.4.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jptokenapi:
+    lastUpdated: 20160106135510
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpuserprofile:
+    lastUpdated: 20131115175035
+    latest: 4.0.0
+    release: 4.0.0
+    versions:
+      - 1.8.0
+      - 1.8.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+  entando-plugin-jpuserreg:
+    lastUpdated: 20160106135511
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.4.0
+      - 1.4.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpversioning:
+    lastUpdated: 20150222155650
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0-TP1
+  entando-plugin-jpweatherforecast:
+    lastUpdated: 20150222155651
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpwebdynamicform:
+    lastUpdated: 20160106135511
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 1.2.0
+      - 1.2.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+  entando-plugin-jpwebform:
+    lastUpdated: 20150222155652
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpwebmail:
+    lastUpdated: 20150222155652
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugin-jpwidgetutils:
+    lastUpdated: 20150222155653
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 4.2.0-TP1
+  entando-plugins-parent:
+    lastUpdated: 20160106135512
+    latest: 4.2.0-TP1
+    release: 4.2.0-TP1
+    versions:
+      - 2.4.0
+      - 2.4.0.1
+      - 3.0.0
+      - 3.2.0
+      - 4.0.0
+      - 4.2.0
+      - 4.2.0-TP1
+

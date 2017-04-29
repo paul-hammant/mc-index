@@ -1,0 +1,36 @@
+artifacts:
+  NMEAParser:
+    lastUpdated: 20140428152951
+    latest: 0.0.1
+    release: 0.0.1
+    versions:
+      - 0.0.1
+  javalpg:
+    lastUpdated: 20170119182152
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.8.0
+  lpg:
+    lastUpdated: 20170119182012
+    latest: 1.8.0
+    release: 1.8.0
+    versions:
+      - 1.1.0
+      - 1.1.1
+      - 1.1.2
+      - 1.1.3
+      - 1.1.4
+      - 1.8.0
+  parsers:
+    lastUpdated: 20140428145926
+    latest: 1.1.0
+    release: 1.1.0
+    versions:
+      - 1.1.0
+

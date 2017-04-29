@@ -1,0 +1,170 @@
+artifacts:
+  openmuc-app-simpledemo:
+    lastUpdated: 20161011085128
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-core-api:
+    lastUpdated: 20161011085129
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-core-datamanager:
+    lastUpdated: 20161011085129
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-core-spi:
+    lastUpdated: 20161011085129
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-datalogger-ascii:
+    lastUpdated: 20161011085129
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-datalogger-slotsdb:
+    lastUpdated: 20161011085130
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-aggregator:
+    lastUpdated: 20161011085130
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-csv:
+    lastUpdated: 20161011085130
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-dlms:
+    lastUpdated: 20161011085131
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-ehz:
+    lastUpdated: 20161011085131
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-iec60870:
+    lastUpdated: 20161011085131
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-iec61850:
+    lastUpdated: 20161011085131
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-iec62056p21:
+    lastUpdated: 20161011085132
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-knx:
+    lastUpdated: 20161011085132
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-mbus:
+    lastUpdated: 20161011085132
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-modbus:
+    lastUpdated: 20161011085132
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-rest:
+    lastUpdated: 20161011085133
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-snmp:
+    lastUpdated: 20161011085133
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-driver-wmbus:
+    lastUpdated: 20161011085133
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-server-restws:
+    lastUpdated: 20161011085134
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-base:
+    lastUpdated: 20161011085134
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-channelaccesstool:
+    lastUpdated: 20161011085134
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-channelconfigurator:
+    lastUpdated: 20161011085134
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-dataexporter:
+    lastUpdated: 20161011085135
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-dataplotter:
+    lastUpdated: 20161011085135
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-mediaviewer:
+    lastUpdated: 20161011085135
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-spi:
+    lastUpdated: 20161011085136
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+  openmuc-webui-userconfigurator:
+    lastUpdated: 20161011085136
+    latest: 0.16.0
+    release: 0.16.0
+    versions:
+      - 0.16.0
+

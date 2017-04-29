@@ -1,0 +1,38 @@
+artifacts:
+  sticky-component-cxf:
+    lastUpdated: 20111113200934
+    latest: 3.1
+    release: 3.1
+    versions:
+      - 2.2
+      - 3.1
+      - 2.2
+      - 3.1
+  sticky-component-cxf-guice3:
+    lastUpdated: 20120115201904
+    latest: 1.5
+    release: 1.5
+    versions:
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+      - 1.2
+      - 1.3
+      - 1.4
+      - 1.5
+  sticky-component-cxf-spring30:
+    lastUpdated: 20111113200934
+    latest: 2.1
+    release: 2.1
+    versions:
+      - 2.1
+      - 2.1
+  sticky-component-spring25:
+    lastUpdated: 20110713191556
+    latest: 1.2
+    release: 1.2
+    versions:
+      - 1.2
+      - 1.2
+

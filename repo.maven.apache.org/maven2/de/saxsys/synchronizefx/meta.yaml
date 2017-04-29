@@ -1,0 +1,68 @@
+artifacts:
+  kryo-serializer:
+    lastUpdated: 20160127195619
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  netty-transmitter:
+    lastUpdated: 20160127195620
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  netty-websocket-transmitter:
+    lastUpdated: 20140125134640
+    latest: 0.4.0
+    release: 0.4.0
+    versions:
+      - 0.4.0
+  parent:
+    lastUpdated: 20160127195620
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  synchronizefx:
+    lastUpdated: 20160127195620
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  synchronizefx-core:
+    lastUpdated: 20160127195621
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  tomcat-transmitter:
+    lastUpdated: 20160127195622
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.4.0
+      - 0.5.0
+      - 0.6.0
+      - 0.7.0
+  websocket-transmitter:
+    lastUpdated: 20160127195623
+    latest: 0.7.0
+    release: 0.7.0
+    versions:
+      - 0.7.0
+

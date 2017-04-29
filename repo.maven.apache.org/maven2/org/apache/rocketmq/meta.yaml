@@ -1,0 +1,74 @@
+artifacts:
+  rocketmq-all:
+    lastUpdated: 20170220032248
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-broker:
+    lastUpdated: 20170220032249
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-client:
+    lastUpdated: 20170220032249
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-common:
+    lastUpdated: 20170220032250
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-example:
+    lastUpdated: 20170220032250
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-filtersrv:
+    lastUpdated: 20170220032250
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-namesrv:
+    lastUpdated: 20170220032251
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-remoting:
+    lastUpdated: 20170220032251
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-srvutil:
+    lastUpdated: 20170220032252
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-store:
+    lastUpdated: 20170220032252
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-test:
+    lastUpdated: 20170220032253
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+  rocketmq-tools:
+    lastUpdated: 20170220032253
+    latest: 4.0.0-incubating
+    release: 4.0.0-incubating
+    versions:
+      - 4.0.0-incubating
+

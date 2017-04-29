@@ -1,0 +1,26 @@
+artifacts:
+  connector:
+    lastUpdated: 20061012090347
+    latest: {}
+    release: {}
+    versions:
+      - 1.0
+      - 1.0
+  connector-api:
+    lastUpdated: 20110815192728
+    latest: 1.6-alpha-1
+    release: 1.6-alpha-1
+    versions:
+      - 1.6-alpha-1
+  javax.resource-api:
+    lastUpdated: 20130614202636
+    latest: 1.7
+    release: 1.7
+    versions:
+      - 1.7-b01
+      - 1.7-b02
+      - 1.7-b03
+      - 1.7-b04
+      - 1.7
+      - 1.7
+
